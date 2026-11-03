@@ -1,6 +1,6 @@
-# Fuentes, licencias y procedencia de datos — Mapa AT
+# Fuentes, licencias y procedencia de datos — Mundo Bíblico · Mapa interactivo
 
-Última revisión: 2026-10-19 (añadido Theographic como fuente de contraste). Referencia de rigor: https://viz.bible/bible-data/
+Última revisión: 2026-11-03 (licencias y titular; antes, 2026-10-19: añadido Theographic como fuente de contraste). Referencia de rigor: https://viz.bible/bible-data/
 
 ## Procedencia de coordenadas (campo `fuente_coordenadas`)
 Comparación de `lat`/`lng` de cada JSON con la tabla maestra de lugares (valores TIPNR; la geolocalización de TIPNR se basa en OpenBible):
@@ -30,6 +30,8 @@ Descripciones, historias, personajes y contexto religioso: redactados con asiste
 - Sefaria/Altafsir: solo se citan por nombre (no se reproducen textos).
 
 ## Verificación por muestreo de referencias de tradiciones (2026-10-19)
+
+> ⚠ **Aviso.** Las referencias a tradiciones (Talmud, Midrash, Corán, Ibn Kathir) de las fichas las generó IA y **no están verificadas en su totalidad**. En una muestra de 15 (19 oct 2026): 7 correctas, 2 parciales, 2 erróneas (más 1 obra inexistente) y 4 vagas. Quedan unas 250 menciones sin revisar. Úsalas como orientación, no como cita académica.
 Muestra estratificada de 15 entradas (seed fija) contra Sefaria y el tafsir de Ibn Kathir (cdn spa5k/tafsir_api). Referencias generadas con IA; **solo se comprobó esta muestra**.
 | Lugar | Referencia | Resultado |
 |---|---|---|
@@ -54,6 +56,6 @@ Resumen: 7 correctas, 2 parciales, 2 erróneas (+1 obra inexistente), 4 vagas. P
 
 ## Pendiente
 1. Comprobar una muestra (~15) de `fuente_primaria`/`fuente_secundaria` de tradiciones (Talmud 108 menciones, Midrash 47, Corán 46, Ibn Kathir 27) contra Sefaria/Altafsir; las generó IA y no están verificadas.
-2. Fronteras GPL-3.0 (`public/data/geo/`): valorar si su redistribución condiciona la licencia del repo.
+2. ~~Fronteras GPL-3.0 (`public/data/geo/`)~~ — resuelto el 2026-11-03: se redistribuyen bajo GPL-3.0 y se añadió `public/data/geo/LEEME.md` con la autoría y la licencia; el código sigue en MIT por tratarse de archivos de datos separados (lectura habitual, no es asesoría legal).
 3. Coordenadas por revisar (Arpad, Ezion-geber y 9 grupos con coords idénticas); registrar la fuente de las 77 `revisada`.
 4. Actualizar "Datos actualizados en octubre de 2026" (`src_cite_text` en `ui.ts`) cuando cambien los datos.

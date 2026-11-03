@@ -204,12 +204,12 @@ export function MenuNav({ lastPlace, onGoToPlace, onClose, onShowWelcome, lugare
             {open === 'creditos' && (
               <div className="acc-body" style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
                 <div>
-                  <div style={{ fontSize: 16, fontFamily: 'Georgia, serif', color: 'var(--ink)', marginBottom: 2 }}>rebe.lation</div>
+                  <div style={{ fontSize: 16, fontFamily: 'Georgia, serif', color: 'var(--ink)', marginBottom: 2 }}>Rebeca Martínez</div>
                   <div style={{ fontSize: 13, color: 'var(--gray)' }}>{t(lang, 'credits_role')}</div>
                 </div>
                 <div style={{ borderTop: '1px solid var(--beige)', paddingTop: 12 }}>
                   <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '.08em', textTransform: 'uppercase', color: 'var(--terra)', marginBottom: 6 }}>{t(lang, 'tech_stack')}</div>
-                  <div style={{ fontSize: 13, color: 'var(--gray)', lineHeight: 1.8 }}>React · TypeScript · Leaflet.js · Vite<br />{t(lang, 'deployed')} · 2025–{new Date().getFullYear()}</div>
+                  <div style={{ fontSize: 13, color: 'var(--gray)', lineHeight: 1.8 }}>React · TypeScript · Leaflet.js · Vite<br />{t(lang, 'deployed')} · 2026–{new Date().getFullYear()}</div>
                 </div>
                 <div style={{ borderTop: '1px solid var(--beige)', paddingTop: 12 }}>
                   <div style={{ fontSize: 11, fontWeight: 700, letterSpacing: '.08em', textTransform: 'uppercase', color: 'var(--terra)', marginBottom: 6 }}>{t(lang, 'license_title')}</div>
