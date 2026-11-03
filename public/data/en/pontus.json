@@ -1,0 +1,244 @@
+{
+  "id": "pontus",
+  "nombre": "Pontus",
+  "tipo": "territorio",
+  "lat": 41.29,
+  "lng": 37.16,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman province along the southern coast of the Black Sea (present-day northern Turkey). Homeland of Aquila the missionary.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pon_h1",
+      "titulo": "Aquila of Pontus: Jew expelled from Rome",
+      "fecha": "ca. 49-50 AD",
+      "descripcion": "Aquila, a native of Pontus, and his wife Priscilla are expelled from Rome by the edict of Claudius and settle in Corinth where they meet Paul.",
+      "referencias": [
+        "Acts 18:2"
+      ],
+      "personajes_clave": [
+        "Aquila",
+        "Priscila",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "pon_h2",
+      "titulo": "Peter writes to the believers of Pontus",
+      "fecha": "ca. 64 AD",
+      "descripcion": "Peter addresses his first letter to the 'elect' of Pontus, Galatia, Cappadocia, Asia and Bithynia.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "pon_h3",
+      "titulo": "Marcion of Sinope in Pontus",
+      "fecha": "ca. 85-160 AD",
+      "descripcion": "The heretic Marcion of Pontus proposed rejecting the OT; Its controversy led the Church to define the canon.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Marción"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pon_p1",
+      "nombre": "Aquila",
+      "rol": "Missionary of Pontus",
+      "periodo": "s. I AD",
+      "descripcion": "Jew from Pontus who with his wife Priscilla collaborated with Paul in Corinth and Ephesus.",
+      "referencias": [
+        "Acts 18:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pon_p2",
+      "nombre": "Priscilla",
+      "rol": "Missionary",
+      "periodo": "s. I AD",
+      "descripcion": "Wife of Aquila; He instructed Apollos in the way of God more accurately.",
+      "referencias": [
+        "Acts 18:26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pon_p3",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He wrote his letter to the diaspora communities in Pontus.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pontus: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "pon_m1",
+        "nombre": "Aquila and Priscilla of Pontus",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The missionary couple from Pontus, Aquila and Priscilla, represent the apostolic model of marriage in the service of the gospel.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The missionary couple from Pontus, Aquila and Priscilla, represent the apostolic model of marriage in the service of the gospel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pon_h1",
+        "titulo": "Aquila of Pontus: Jew expelled from Rome",
+        "fecha": "ca. 49-50 AD",
+        "descripcion": "Aquila, a native of Pontus, and his wife Priscilla are expelled from Rome by the edict of Claudius and settle in Corinth where they meet Paul.",
+        "referencias": [
+          "Acts 18:2"
+        ],
+        "personajes_clave": [
+          "Aquila",
+          "Priscila",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "pon_h2",
+        "titulo": "Peter writes to the believers of Pontus",
+        "fecha": "ca. 64 AD",
+        "descripcion": "Peter addresses his first letter to the 'elect' of Pontus, Galatia, Cappadocia, Asia and Bithynia.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "pon_h3",
+        "titulo": "Marcion of Sinope in Pontus",
+        "fecha": "ca. 85-160 AD",
+        "descripcion": "The heretic Marcion of Pontus proposed rejecting the OT; Its controversy led the Church to define the canon.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Marción"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pon_p1",
+        "nombre": "Aquila",
+        "rol": "Missionary of Pontus",
+        "periodo": "s. I AD",
+        "descripcion": "Jew from Pontus who with his wife Priscilla collaborated with Paul in Corinth and Ephesus.",
+        "referencias": [
+          "Acts 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pon_p2",
+        "nombre": "Priscilla",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Wife of Aquila; He instructed Apollos in the way of God more accurately.",
+        "referencias": [
+          "Acts 18:26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pon_p3",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He wrote his letter to the diaspora communities in Pontus.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Ponto in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "pon_m1",
+          "nombre": "Aquila and Priscilla of Pontus",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The missionary couple from Pontus, Aquila and Priscilla, represent the apostolic model of marriage in the service of the gospel.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The missionary couple from Pontus, Aquila and Priscilla, represent the apostolic model of marriage in the service of the gospel.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

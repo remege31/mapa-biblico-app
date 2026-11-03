@@ -1,0 +1,163 @@
+{
+  "id": "ono",
+  "nombre": "Ono",
+  "tipo": "ciudad",
+  "lat": 32.02222222222223,
+  "lng": 34.86666666666667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Benjaminite settlement"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Reconstruction and resistance to Sanballat"
+    }
+  ],
+  "descripcion_geo": "Small city on the coastal plain of Sharon, in the valley to which it gave its name ('valley of the artisans' or Ono), near Lod, about 15 km southeast of Joppa. Flat and fertile land typical of the coastal plain, without significant elevation.",
+  "altitud_m": 30,
+  "clima": "Coastal Mediterranean — hot, dry summers, mild winters with moderate rainfall.",
+  "recursos": [
+    "Farmland of the Plain of Sharon",
+    "Crafts (tradition associated with the name of the valley)",
+    "Proximity to the coastal route towards Joppa and Lod"
+  ],
+  "importancia_estrategica": "Ono had no military or religious weight of its own, but its mention along with Lod in genealogical lists and in the account of the reconstruction of the walls place it as part of the belt of Benjaminite settlements reoccupied after the return from exile, in a sensitive border area between Judah and the neighboring provinces hostile to reconstruction.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_ono",
+      "nombre": "Canaanites of the Plain of Sharon",
+      "descripcion": "Original population of the coastal plain before the Israeli occupation, dedicated to irrigated agriculture on flat land.",
+      "religion": "Canaanite polytheism — cult of Baal and agrarian divinities",
+      "periodo": "Prior to c. 1000 BC"
+    },
+    {
+      "id": "benjaminitas_ono",
+      "nombre": "Clans of Benjamin",
+      "descripcion": "Families of the tribe of Benjamin who rebuild and repopulate Ono together with Lod after the return from the Babylonian exile, according to the census of Ezra-Nehemiah.",
+      "religion": "Yahwism post-exilic",
+      "periodo": "c. 538–400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "censo-retornados-ono",
+      "titulo": "Ono in the census of repatriates",
+      "fecha": "c. 538 BC",
+      "descripcion": "The inhabitants of Lod, Hadid and Ono appear registered among the descendants of the exiles returning from Babylon, as part of the reconstitution of the Jewish community in their land.",
+      "referencias": [
+        "Ezra 2:33",
+        "Neh 7:37"
+      ],
+      "personajes_clave": [
+        "zorobabel"
+      ]
+    },
+    {
+      "id": "trampa-sanbalat-ono",
+      "titulo": "Nehemiah rejects the trap on the plain of Ono",
+      "fecha": "c. 445 BC",
+      "descripcion": "Sanballat and his allies repeatedly invite Nehemiah to meet at one of the villages on the Ono plain with the intention of harming him while he directs the rebuilding of the walls of Jerusalem; Nehemiah refuses each time, identifying the proposal as a ruse.",
+      "referencias": [
+        "Neh 6:2"
+      ],
+      "personajes_clave": [
+        "nehemias",
+        "sanbalat"
+      ]
+    },
+    {
+      "id": "valle-artesanos",
+      "titulo": "Ono Valley and the artisans",
+      "fecha": "Post-exilio, s. V BC (contexto)",
+      "descripcion": "The valley associated with Ono is traditionally linked to a guild of artisans mentioned in chronicle genealogies, reflecting the organization by trade of some repatriated families.",
+      "referencias": [
+        "1 Chr 8:12"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nehemias",
+      "nombre": "Nehemiah",
+      "rol": "Governor of Judah, rebuilder of the walls of Jerusalem",
+      "periodo": "post_exilio",
+      "descripcion": "Cupbearer to the Persian king who leads the rebuilding of the walls of Jerusalem; He rejects Sanballat's invitation to meet on the Ono plain four times, recognizing the danger of abandoning the work.",
+      "referencias": [
+        "Neh 6:1-9"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen",
+        "ono"
+      ]
+    },
+    {
+      "id": "sanbalat",
+      "nombre": "Horonite Sanballat",
+      "rol": "Governor of Samaria, opponent of Nehemiah",
+      "periodo": "Activo c. 445 BC",
+      "descripcion": "Samaritan leader who actively opposes the reconstruction of Jerusalem; He tries to lure Nehemiah out of the city, proposing a meeting on the Ono plain for hostile purposes.",
+      "referencias": [
+        "Neh 6:1-4",
+        "Neh 2:10"
+      ],
+      "ruta": [
+        "ono"
+      ]
+    },
+    {
+      "id": "zorobabel",
+      "nombre": "Zerubbabel",
+      "rol": "Governor of Judah after exile",
+      "periodo": "post_exilio",
+      "descripcion": "Leader of the first wave of repatriates under whose leadership the census of the families that repopulate cities such as Ono, Lod and Hadid is recorded.",
+      "referencias": [
+        "Ezra 2:1-35"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ono has no mythical or cultic tradition of its own; Its relevance is exclusively historical-administrative, linked to the reconstitution of the post-exilic Yahwist community and the episode of Nehemiah's resistance against the Samaritan opposition. It represents the type of minor locality whose narrative importance comes entirely from its mention in the restoration story, not from a cult or legend associated with the place itself.",
+    "religiones_presentes": [
+      "Yahwism post-exilic",
+      "Polytheism Canaanite (period before the Israeli occupation)"
+    ],
+    "mitos": [
+      {
+        "id": "ono-trampa-frustrada",
+        "nombre": "The Ono Plain as the site of the foiled trap",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Neh 6:1-4",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre Nehemías como modelo de perseverancia (zeriz, 'diligente') frente a la distracción",
+          "descripcion": "Jewish tradition reads the Ono episode as a paradigmatic example of discernment in the face of danger disguised as dialogue: Nehemiah identifies the hostile intention behind an apparently neutral invitation and refuses to abandon 'the great work' he is carrying out.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Nehemiah's refusal exemplifies fidelity to the mission above diplomatic convenience or personal risk.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

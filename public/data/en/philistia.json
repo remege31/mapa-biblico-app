@@ -1,0 +1,136 @@
+{
+  "id": "philistia",
+  "nombre": "Philistia",
+  "tipo": "territorio",
+  "lat": 31.8,
+  "lng": 34.75,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 294,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -586,
+      "nombre": "Iron I and II"
+    }
+  ],
+  "descripcion_geo": "Mediterranean coastal strip southwest of Canaan; territory of the five Philistine cities: Gaza, Ashdod, Ashkelon, Gath and Ekron.",
+  "altitud_m": 50,
+  "clima": "Mediterranean",
+  "recursos": [
+    "agriculture",
+    "maritime trade",
+    "iron",
+    "fishing"
+  ],
+  "importancia_estrategica": "Control of the coastal plain and trade routes between Egypt and northern Canaan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phi_h1",
+      "titulo": "Samson and the Philistines",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Samson, Nazirite of the Lord, kills a thousand Philistines with the jawbone of a donkey and dies demolishing the temple of Dagon in Gaza.",
+      "referencias": [
+        "Judg 13-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "phi_h2",
+      "titulo": "The ark captured by the Philistines",
+      "fecha": "ca. 1050 BC",
+      "descripcion": "The Philistines capture the Ark of the Covenant in Ebenezer; pests force them to return it to Israel.",
+      "referencias": [
+        "1 Sam 4-6"
+      ],
+      "personajes_clave": [
+        "Elí",
+        "sacerdotes filisteos"
+      ]
+    },
+    {
+      "id": "phi_h3",
+      "titulo": "David and Goliath",
+      "fecha": "ca. 1010 BC",
+      "descripcion": "The young David kills the Philistine giant Goliath with a sling and stone; Israel defeats the Philistine army.",
+      "referencias": [
+        "1 Sam 17"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phi_p1",
+      "nombre": "Goliath",
+      "rol": "Philistine champion",
+      "periodo": "ca. 1010 BC",
+      "descripcion": "Giant Warrior by Gath; killed by David with a slingshot.",
+      "referencias": [
+        "1 Sam 17:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p2",
+      "nombre": "Delilah",
+      "rol": "Philistine woman",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "He discovered the secret of Samson's strength and gave it to the Philistines.",
+      "referencias": [
+        "Judg 16:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p3",
+      "nombre": "here",
+      "rol": "Philistine King by Gath",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "He gave shelter to David when he was fleeing from Saul.",
+      "referencias": [
+        "1 Sam 21:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Warrior people with worship of Dagon and Baal-Zebub; quintessential enemies of Israel in the era of judges and monarchy.",
+    "religiones_presentes": [
+      "philistine_paganism"
+    ],
+    "mitos": [
+      {
+        "id": "phi_m1",
+        "nombre": "Dagon and the ark",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 5:1-4",
+          "fuente_secundaria": "",
+          "descripcion": "When the ark arrived at the temple of Dagon in Ashdod, the statue of the god was found torn down before the ark (1 Sam 5:1-4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "When the ark arrived at the temple of Dagon in Ashdod, the statue of the god was found torn down before the ark (1 Sam 5:1-4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

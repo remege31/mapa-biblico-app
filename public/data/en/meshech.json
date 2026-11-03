@@ -1,0 +1,132 @@
+{
+  "id": "meshech",
+  "nombre": "Meshech",
+  "tipo": "territorio",
+  "lat": 46.0,
+  "lng": 47.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "People mentioned along with Tubal and Gog in the genealogies of Genesis 10 and in the oracles of Ezekiel; identified with peoples of the Caucasus.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Northern people associated with Gog and Tubal in the eschatological prophecy of Ezekiel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mes_h1",
+      "titulo": "Meshech and Tubal in the genealogy of Noah",
+      "fecha": "ca. s. V BC",
+      "descripcion": "In the table of nations, Meshech and Tubal are sons of Japheth; They represent peoples from the northern Mediterranean.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "mes_h2",
+      "titulo": "Ezekiel: Gog, Meshech and Tubal",
+      "fecha": "ca. 593-571 BC",
+      "descripcion": "Ezekiel identifies 'Gog of the land of Magog, prince of Meshech and Tubal' as the eschatological enemy of the north.",
+      "referencias": [
+        "Ezek 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "mes_h3",
+      "titulo": "Meshech in Psalm 120",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Psalm 120 laments: 'Woe is me who dwells in Meshech!' como imagen de estar entre gente hostil.",
+      "referencias": [
+        "Ps 120:5"
+      ],
+      "personajes_clave": [
+        "autor del salmo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mes_p1",
+      "nombre": "Ezekiel",
+      "rol": "Prophet",
+      "periodo": "593-571 BC",
+      "descripcion": "He identified Meshech as part of Gog's coalition in recent times.",
+      "referencias": [
+        "Ezek 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p2",
+      "nombre": "gog",
+      "rol": "eschatological prince",
+      "periodo": "Tiempo del fin",
+      "descripcion": "He leads Meshech and Tubal in the final attack against Israel.",
+      "referencias": [
+        "Ezek 38:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p3",
+      "nombre": "Japheth",
+      "rol": "Son of Noah",
+      "periodo": "ca. s. V BC",
+      "descripcion": "Father of Meshech and Tubal in the table of nations.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meshech: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "mes_m1",
+        "nombre": "The extreme north",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Meshech and Tubal represent the people of the extreme north, beyond the known world; Gog's attack from the north is the paradigm of the eschatological threat.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Meshech and Tubal represent the people of the extreme north, beyond the known world; Gog's attack from the north is the paradigm of the eschatological threat.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "achor_valley",
+  "nombre": "Valley of Achor",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.84,
+  "lng": 35.4,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Valley north of Jericho, near the Dead Sea. Place of judgment on Achan and the door of messianic hope according to Hosea.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Valley of turmoil and door of hope; where sin was judged and hope promised.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "aco_h1",
+      "titulo": "The judgment of Achan in the Valley of Achor",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Achan, who stole from Jericho's anathema, is discovered; all Israel stones him in the valley of Achor.",
+      "referencias": [
+        "Josh 7:24-26"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Acán"
+      ]
+    },
+    {
+      "id": "aco_h2",
+      "titulo": "The Valley of Achor as a door of hope",
+      "fecha": "ca. 750 BC",
+      "descripcion": "Hosea prophesies that in the restoration God will turn the valley of Achor ('turbance') into a door of hope.",
+      "referencias": [
+        "Hos 2:15"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "aco_h3",
+      "titulo": "The Valley of Achor in the heritage of Judah",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "The Valley of Achor marked the northern limit of Judah's inheritance.",
+      "referencias": [
+        "Josh 15:7"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "aco_p1",
+      "nombre": "Achan",
+      "rol": "Israelite who sinned",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He stole from Jericho's anathema and caused Israel's defeat at Hai; He was executed in the Valley of Achor.",
+      "referencias": [
+        "Josh 7:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p2",
+      "nombre": "Joshua",
+      "rol": "Conqueror",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He presided over the trial of Achan; The place was called Achor (disturbance) in his memory.",
+      "referencias": [
+        "Josh 7:26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p3",
+      "nombre": "Hosea",
+      "rol": "Prophet",
+      "periodo": "ca. 750-720 BC",
+      "descripcion": "He promised that the valley of judgment (Achor) would become a door of hope in restoration.",
+      "referencias": [
+        "Hos 2:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valley of Achor: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "aco_m1",
+        "nombre": "From confusion to hope",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The Valley of Achor ('turbation') was the scene of the judgment on the sin of Achan; Hosea makes it a symbol of restoration: the place of failure becomes a door of hope.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Valley of Achor ('turbation') was the scene of the judgment on the sin of Achan; Hosea makes it a symbol of restoration: the place of failure becomes a door of hope.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

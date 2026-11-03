@@ -1,0 +1,214 @@
+{
+  "id": "babylon",
+  "nombre": "Babylon",
+  "tipo": "ciudad",
+  "lat": 32.5364,
+  "lng": 44.4208,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 287,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Small town"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Rise of the Neo-Babylonian Empire"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Capital of the Israelite exile"
+    }
+  ],
+  "descripcion_geo": "Babylon extended on both banks of the Euphrates River, in the alluvial plain of Mesopotamia (present-day Iraq), about 85 km south of Baghdad. At its height under Nebuchadnezzar II (605-562 BC), it was probably the largest city in the world, with double walls surrounding an area of ​​about 10 km², hanging gardens, and the Etemenanki ziggurat—the most likely model for the biblical Tower of Babel.",
+  "altitud_m": 32,
+  "clima": "Arid continental — extremely hot summers (up to 50°C), mild winters. Little rainfall (150 mm annually). Agriculture was completely dependent on the Euphrates irrigation system, one of the most sophisticated in the ancient world.",
+  "recursos": [
+    "Water (Euphrates irrigation canals)",
+    "Clay (raw material of architecture and cuneiform writing)",
+    "Cereals (wheat and barley on the irrigated plain)",
+    "Trade (node ​​of the routes between Persia, Arabia and the Mediterranean)",
+    "Natural bitumen (waterproofing and construction)"
+  ],
+  "importancia_estrategica": "Capital of the Neo-Babylonian Empire and largest metropolis of the ancient world in the 6th century BC. His destruction of the Temple of Jerusalem (586 BC) and the deportation of the Jewish elite determined the definitive form of Judaism: it was in the Babylonian exile that a large part of the OT texts were compiled and edited.",
+  "otros_habitantes": [
+    {
+      "id": "babilonios-caldeos",
+      "nombre": "Chaldeans (Babylonians)",
+      "descripcion": "The Chaldeans, a Semitic people who dominated Babylon since the 7th century BC, created the Neo-Babylonian Empire under Nabopolassar and his son Nebuchadnezzar II. Their culture combined the Sumerian and Akkadian heritage with their own innovations in astronomy, mathematics and literature. The deported Jewish elite coexisted with this civilization for seventy years.",
+      "religion": "Mesopotamian polytheism — worship of Marduk (main god), Ishtar, Nabu and the Babylonian pantheon",
+      "periodo": "c. 626–539 BC"
+    },
+    {
+      "id": "judios-exilio",
+      "nombre": "Jewish community in exile",
+      "descripcion": "The deportation of 597 and 586 B.C. brought to Babylon the intellectual, priestly and political elite of Judah. These communities were established in places such as Tel-Aviv (Ez 3:15) and along the Chebar River. Far from the Temple, they developed new forms of worship (synagogues, Torah study) that transformed Judaism forever. Figures such as Ezekiel, Daniel and the authors of Deutero-Isaiah produced fundamental texts in Babylon.",
+      "religion": "Yahwism in transformation — liturgy without a temple, compilation of the Torah, nascent apocalyptic",
+      "periodo": "c. 597–538 BC"
+    },
+    {
+      "id": "persas-babilonia",
+      "nombre": "Persian Empire (conquerors)",
+      "descripcion": "Cyrus II of Persia conquered Babylon in 539 BC. without significant combat, presenting itself as a liberator. His decree of repatriation (Ezra 1:1-4) allowed the return of the Jews to Judah and the rebuilding of the Temple. The Bible presents Cyrus as YHWH's anointed (Is 45:1), the only non-Israelite ruler to whom this title applies.",
+      "religion": "Zoroastrianism (Mazdeism) — cult of Ahura Mazda, good-evil dualism",
+      "periodo": "c. 539–332 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "nabucodonosor-destruccion",
+      "titulo": "Nebuchadnezzar destroys Jerusalem: the founding trauma",
+      "fecha": "586 BC",
+      "descripcion": "After two previous deportations (605 and 597 BC), Nebuchadnezzar II besieged Jerusalem for 18 months. On the 9th of Av in the year 586 BC. —a date that Judaism continues to commemorate with fasting— the Temple of Solomon was burned, the walls demolished and the majority of the population deported. King Zedekiah watched his sons die before being blinded and taken in chains to Babylon. The Book of Lamentations expresses mourning for this catastrophe with an unparalleled poetic intensity.",
+      "referencias": [
+        "2 Kgs 25:1-21",
+        "Jer 39:1-10",
+        "Lam 1:1-22",
+        "2 Chr 36:15-21"
+      ],
+      "personajes_clave": [
+        "nabucodonosor",
+        "jeremias"
+      ]
+    },
+    {
+      "id": "exilio-babilonia",
+      "titulo": "Along the rivers of Babylon: the exile that forged Judaism",
+      "fecha": "597–538 BC",
+      "descripcion": "The Jewish communities deported to Babylon settled in agricultural colonies along the Euphrates canals. Away from the Temple, they developed the synagogue as a place of meeting and study, compiled and edited written traditions, and produced prophetic and legal texts that shaped later rabbinic Judaism. Psalm 137—By the rivers of Babylon, there we sat and wept—is the most intense poetic document of this period.",
+      "referencias": [
+        "Ps 137:1-9",
+        "Ezek 1:1-3",
+        "Ezek 3:15",
+        "Isa 40:1-11"
+      ],
+      "personajes_clave": [
+        "ezequiel",
+        "daniel"
+      ]
+    },
+    {
+      "id": "ciro-decreto",
+      "titulo": "The decree of Cyrus: the end of exile",
+      "fecha": "538 BC",
+      "descripcion": "In the first year of his reign over Babylon, Cyrus II of Persia issued a decree allowing the Jews to return to Judah and rebuild the Temple. The Bible interprets this action as a fulfillment of the prophecy of Jeremiah (70 years of exile, Jr 29:10) and Deutero-Isaiah calls Cyrus anointed by YHWH. Not all Jews returned: many had prospered in Babylon and preferred to stay, forming the Babylonian diaspora that would persist for centuries.",
+      "referencias": [
+        "Ezra 1:1-4",
+        "Isa 44:28",
+        "Isa 45:1-7",
+        "Jer 29:10"
+      ],
+      "personajes_clave": [
+        "ciro"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nabucodonosor",
+      "nombre": "Nebuchadnezzar II",
+      "rol": "King of Babylon, destroyer of the Temple of Jerusalem",
+      "periodo": "hierro_2",
+      "descripcion": "The greatest monarch of the Neo-Babylonian Empire, builder of the Hanging Gardens and Etemenanki. For Israel, it is the instrument of divine judgment on the unfaithful people. Daniel's book describes him suffering from temporary insanity that paradoxically turns him into a believer in Israel's God. Their inscriptions confirm the three campaigns against Judah described in the books of Kings and Jeremiah.",
+      "referencias": [
+        "2 Kgs 24:1-17",
+        "Jer 27:6",
+        "Dan 1:1-2",
+        "Dan 4:1-37"
+      ],
+      "ruta": [
+        "babylon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniel",
+      "rol": "Jewish wise man at the Babylonian court",
+      "periodo": "hierro_2",
+      "descripcion": "A young deportee from the royal family of Judah, Daniel was educated at the Babylonian court and became a high official under Nebuchadnezzar, Belshazzar and Cyrus. His fidelity to Jewish laws (diet, prayer) in the midst of the pagan court makes him a model of Jewish life in the diaspora. His apocalyptic visions—the four kingdoms, the son of man—profoundly influenced Jewish and Christian eschatology.",
+      "referencias": [
+        "Dan 1:1-21",
+        "Dan 2:1-49",
+        "Dan 6:1-28",
+        "Dan 7:1-28"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "nombre": "Ezekiel ben Buzi",
+      "rol": "Prophet of exile, visionary priest",
+      "periodo": "hierro_2",
+      "descripcion": "Priest deported in 597 BC, Ezekiel prophesied among the exiles next to the Chebar canal. His visions—the chariot of God (merkaba), the valley of dry bones, the new Temple—are the most complex and enigmatic of all biblical prophecy. He introduced individual responsibility (each dies for his own sin) in contrast to the previous collective solidarity, and his vision of the future Temple inspired centuries of messianism.",
+      "referencias": [
+        "Ezek 1:1-28",
+        "Ezek 3:15",
+        "Ezek 37:1-14",
+        "Ezek 40:1-4"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Babylon is the ominous horizon of the Old Testament—the force that destroys what Israel loved most. But it is also the crucible where Judaism took its definitive form. Far from the Temple, the exiles developed a non-sacrificial religion, centered on the written Word, prayer, and community. The Babylonian exile produced the final edition of the Pentateuch, the great consolation prophets (Deutero-Isaiah), apocalyptic literature (Daniel, Ezekiel), and the psalter in its current form. In the New Testament, Babylon becomes code for Rome (Rev 14:8; 1 Pet 5:13), a symbol of all oppressive imperial power.",
+    "religiones_presentes": [
+      "Mesopotamian polytheism (cult of Marduk, Ishtar, Nabu)",
+      "Yahwism in exile — synagogue, Torah, prayer without a temple",
+      "Persian Zoroastrianism (influence on dualism and Jewish angelology)"
+    ],
+    "mitos": [
+      {
+        "id": "torre-babel",
+        "nombre": "The Tower of Babel / Etemenanki",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 11:1-9",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 38; Josefo, Antigüedades I.4",
+          "descripcion": "The Tower of Babel is interpreted as the paradigm of human pride that defies God. The Midrash identifies Nimrod as the instigator and develops the story with details about the scale of the tower and individual punishments. The confusion of languages ​​explains the linguistic diversity of humanity.",
+          "similitudes": "The Mesopotamian Etemenanki ziggurat of Babylon (90 m high, dedicated to Marduk) is the most likely architectural model of the biblical story.",
+          "diferencias": "The biblical text reverses the purpose of the ziggurat: while the ziggurat is the house where the god descends into the world, the biblical tower is the human attempt to ascend to heaven.",
+          "significado_teologico": "The dispersion of peoples is not a historical accident but rather the divine response to idolatrous centralism. The diversity of languages ​​is simultaneously punishment and gift.",
+          "posible_relacion_cultural": "The Babylonian Enuma Elish and the hymns to Marduk describe Babylon as the center of the cosmos and the umbilicus mundi; The biblical text is a polemic against this claim."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Génesis 11:1-9; Hechos 2:1-11; Apocalipsis 17-18",
+          "fuente_secundaria": "Agustín, Ciudad de Dios XVI.4; Orígenes, Contra Celso V.30",
+          "descripcion": "The confusion of Babel is reversed at Pentecost (Acts 2): the Holy Spirit allows everyone to hear in their own language, reuniting what Babel scattered. The Apocalypse uses Babylon as a symbol of Rome and every oppressive imperial power, announcing its final fall.",
+          "similitudes": "Babel as a symbol of human pride contrary to God is shared by both traditions.",
+          "diferencias": "The New Testament adds the eschatological dimension: the new Babylon (Rome) will fall as the old one fell.",
+          "significado_teologico": "Pentecost as anti-Babel: where pride divided, the Spirit unites. The universal Church is God's response to the dispersion of Babel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2:102 (mención de Harut y Marut en Babilonia)",
+          "fuente_secundaria": "Tafsir de Ibn Kathir sobre la Sura 2:102; Qisas al-Anbiya",
+          "descripcion": "The Quran mentions Babylon in relation to two angels, Harut and Marut, sent to teach magic to men as a test. The Islamic exegetical tradition develops the story of the Tower with similar Jewish elements and associates Nimrod with the persecution of Ibrahim.",
+          "similitudes": "Babylon as a place of spiritual testing and Nimrod as an ungodly tyrant are shared.",
+          "diferencias": "The Quran does not develop the confusion of languages; the emphasis falls on magic and disobedience.",
+          "significado_teologico": "Babylon in Islam is a symbol of the world corrupted by magic and distancing itself from God.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

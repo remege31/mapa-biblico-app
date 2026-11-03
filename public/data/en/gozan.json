@@ -1,0 +1,133 @@
+{
+  "id": "gozan",
+  "nombre": "Gozan",
+  "tipo": "ciudad",
+  "lat": 36.84,
+  "lng": 40.07,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "City and river in northern Syria (modern Tell Halaf/Habur) where Israelites were deported from the northern kingdom.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Fate of the Israelite exile deported by the Assyrians.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "goz_h1",
+      "titulo": "The ten tribes deported to Gozan",
+      "fecha": "722 BC",
+      "descripcion": "The Assyrians deported the northern Israelites 'to Hala, Gozan by the river Habor and to the cities of the Medes'.",
+      "referencias": [
+        "2 Kgs 17:6",
+        "2 Kgs 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "goz_h2",
+      "titulo": "The gods of Gozan: Assyrian argument",
+      "fecha": "701 BC",
+      "descripcion": "Sennacherib asks: 'Did the gods of Gozan and Haran deliver those lands from my hand?'",
+      "referencias": [
+        "2 Kgs 19:12",
+        "Isa 37:12"
+      ],
+      "personajes_clave": [
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "goz_h3",
+      "titulo": "Hezekiah and the deportees from Gozan",
+      "fecha": "ca. 701 BC",
+      "descripcion": "The mention of Gozan as the destination of the Israelite exile reinforces the Assyrian argument that no god can resist them.",
+      "referencias": [
+        "2 Kgs 19:12"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goz_p1",
+      "nombre": "Sargon II",
+      "rol": "King by Assyria",
+      "periodo": "722-705 BC",
+      "descripcion": "He deported Israelites to Gozan; Their descendants are the 'ten lost tribes'.",
+      "referencias": [
+        "2 Kgs 17:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p2",
+      "nombre": "Sennacherib",
+      "rol": "King by Assyria",
+      "periodo": "705-681 BC",
+      "descripcion": "He used Gozan as an example of his power to intimidate Hezekiah.",
+      "referencias": [
+        "2 Kgs 19:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p3",
+      "nombre": "Hezekiah",
+      "rol": "King by Judah",
+      "periodo": "715-686 BC",
+      "descripcion": "He responded to the threats Gozan cited with prayer; the Lord responded.",
+      "referencias": [
+        "2 Kgs 19:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gozan: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "goz_m1",
+        "nombre": "The ten lost tribes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The deportation to Gozan marks the beginning of the 'ten lost tribes': Israel from the north scattered among the towns with no recorded return.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The deportation to Gozan marks the beginning of the 'ten lost tribes': Israel from the north scattered among the towns with no recorded return.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

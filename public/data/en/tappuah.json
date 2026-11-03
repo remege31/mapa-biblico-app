@@ -1,0 +1,145 @@
+{
+  "id": "tappuah",
+  "nombre": "Tapúa",
+  "tipo": "ciudad",
+  "lat": 32.11666666666667,
+  "lng": 35.23333333333333,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City on the border between Ephraim and Manasseh"
+    }
+  ],
+  "descripcion_geo": "Canaanite city in the central region of Canaan, situated on the border between the territories of Ephraim and Manasseh, whose name ('apple' or 'apple region') suggests the agricultural fertility of the immediate surroundings.",
+  "altitud_m": 450,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the central hills of Canaan.",
+  "recursos": [
+    "Fertile lands (origin of the name, associated with apples or fruit trees)",
+    "Border position between Ephraim and Manasseh"
+  ],
+  "importancia_estrategica": "Tapua exemplifies a particular case of the tribal allotment system: the city itself belongs to Manasseh, but the surrounding territory (the 'land of Tapua') is assigned to Ephraim, a complex administrative situation that reflects the necessary territorial adjustments between neighboring tribes with interlocking boundaries in the center of Canaan.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_tapua",
+      "nombre": "Canaanites",
+      "descripcion": "Original population of Tapúa, a city whose king appears among those defeated by Joshua in the list of Canaan's conquest.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "efrainitas_manasitas_tapua",
+      "nombre": "Tribes of Ephraim and Manasseh",
+      "descripcion": "Israelite population that complexly shares possession of Tapua and its surrounding territory, with the city assigned to Manasseh but the adjacent land to Ephraim.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-derrota-rey-tapua",
+      "titulo": "Joshua defeats the king of Tapúa",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Tapúa appears in the list of the thirty-one Canaanites kings defeated by Joshua during the conquest of Canaan, confirming its status as an independent city-state before the Israelite occupation.",
+      "referencias": [
+        "Josh 12:17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "tapua-frontera-efrain-manases",
+      "titulo": "Tapúa on the border between Ephraim and Manasseh",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "The book of Joshua specifies the particular situation of Tapua: the city belongs to Manasseh, but the land of Tapua surrounding it is assigned to the sons of Ephraim, reflecting the complex adjustments of territorial distribution between neighboring tribes.",
+      "referencias": [
+        "Josh 16:8",
+        "Josh 17:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "tapua-limite-tribal-confirmado",
+      "titulo": "Tapúa confirmed as a border reference point",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "The city and its territory are mentioned repeatedly in the detailed description of the central tribal boundaries of Canaan, serving as a stable geographical reference point to define the border between Ephraim and Manasseh.",
+      "referencias": [
+        "Josh 17:7-8"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_tapua",
+      "nombre": "Joshua",
+      "rol": "Military leader and organizer of territorial distribution",
+      "periodo": "bronce_tardio",
+      "descripcion": "He defeats King Canaanite of Tapúa and subsequently organizes the complex territorial allocation of the city and its surroundings between the tribes of Ephraim and Manasseh.",
+      "referencias": [
+        "Josh 12:17",
+        "Josh 16:8",
+        "Josh 17:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "efrainitas_tapua_personaje",
+      "nombre": "Tribe of Ephraim",
+      "rol": "Owners of the land of Tapúa",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "It receives the agricultural territory surrounding Tapúa, although the city itself is formally assigned to Manasseh, a particular situation of the border distribution.",
+      "referencias": [
+        "Josh 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "manasitas_tapua_personaje",
+      "nombre": "Tribe of Manasseh",
+      "rol": "Owners of the city of Tapúa",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "It receives the city of Tapúa itself, although the surrounding agricultural lands belong to Ephraim, an example of the territorial intertwining between both sister tribes.",
+      "referencias": [
+        "Josh 17:7-8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tapúa lacks its own narrative or mythical development; Its value for the biblical corpus is exclusively geographical-administrative, illustrating the practical complexity of the tribal distribution system where a city and its surrounding territory can belong to different tribes, reflecting the adjustments necessary to accommodate the limits of sister tribes (Ephraim and Manasseh, both descendants of Joseph) in the same geographical region of the center of Canaan.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "frontera-compleja-tapua-tribus",
+        "nombre": "The border complexity of Tapúa between sister tribes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 16:8; Jos 17:7-8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la división detallada de territorios entre Efraín y Manasés, ambas tribus descendientes de José, como ejemplo de la precisión legal del sistema de reparto territorial mosaico",
+          "descripcion": "Jewish tradition observes that the particular situation of Tapua—city of one tribe, territory of another—exemplifies the meticulousness of the legal system of territorial distribution established by Joshua, capable of accommodating complex border situations between closely related tribes such as Ephraim and Manasseh without generating conflict, through a carefully differentiated distribution of city and agricultural territory.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The administrative precision of the territorial distribution, even in complex border cases like Tapúa, reflects the order and justice with which the distribution of the promised land is carried out among the tribes of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

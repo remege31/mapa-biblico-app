@@ -1,0 +1,251 @@
+{
+  "id": "kidron",
+  "nombre": "Kidron Valley",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.775,
+  "lng": 35.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Iron II - Roman"
+    }
+  ],
+  "descripcion_geo": "Valley between Jerusalem and the Mount of Olives that descends towards the Dead Sea. Seasonal channel of the Kidrón torrent.",
+  "altitud_m": -20,
+  "clima": "Mediterranean",
+  "recursos": [
+    "seasonal water",
+    "olive groves"
+  ],
+  "importancia_estrategica": "Eastern border of Jerusalem; crossed by David in his flight and by Jesus on the way to Gethsemane.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ced_h1",
+      "titulo": "David crosses the Kidron in his flight",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "David crosses the Kidron torrent crying as he flees from Absalom, just as Jesus crossed the same valley before his arrest.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ced_h2",
+      "titulo": "Josiah burns the idols in the Kidron",
+      "fecha": "ca. 621 BC",
+      "descripcion": "The reformer king Josiah drags and burns all objects of pagan worship to the Kidron torrent.",
+      "referencias": [
+        "2 Kgs 23:4,6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "ced_h3",
+      "titulo": "Jesus crosses the Kidron towards Gethsemane",
+      "fecha": "ca. 30 AD",
+      "descripcion": "After the Last Supper, Jesus crosses the Kidron stream with his disciples and enters the garden where he would be arrested.",
+      "referencias": [
+        "John 18:1"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ced_p1",
+      "nombre": "David",
+      "rol": "King on the run",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "She crossed the Kidron in tears as she fled from her son; typological image of betrayal.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p2",
+      "nombre": "Josiah",
+      "rol": "reformer king",
+      "periodo": "640-609 BC",
+      "descripcion": "He used the Kidron as a place of religious purification, burning the idols.",
+      "referencias": [
+        "2 Kgs 23:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p3",
+      "nombre": "Jesus",
+      "rol": "Messiah",
+      "periodo": "ca. 30 AD",
+      "descripcion": "He crossed the Kidron on the way to Gethsemane; The Fathers of the Church compare it with David.",
+      "referencias": [
+        "John 18:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valley of passage and purification; Its crossing through David and Jesus makes it a symbol of the suffering of the righteous.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ced_m1",
+        "nombre": "The crossing of the Kidron",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "David crossed the Kidron crying; the prophets used the valley as a place of purification and judgment.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "David crossed the Kidron crying; the prophets used the valley as a place of purification and judgment.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus crosses the Kidron before his passion, fulfilling the type of David in his suffering.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus crosses the Kidron before his passion, fulfilling the type of David in his suffering.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ced_nt_h1",
+        "titulo": "Jesus crosses the Kidron",
+        "fecha": "ca. 30 AD",
+        "descripcion": "After the Last Supper, Jesus and his disciples cross the Kidron to the garden of Gethsemane.",
+        "referencias": [
+          "John 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h2",
+        "titulo": "The arrest in the orchard",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Judas knew the place because Jesus frequently met there with the disciples.",
+        "referencias": [
+          "John 18:2"
+        ],
+        "personajes_clave": [
+          "Judas",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h3",
+        "titulo": "The typological judgment",
+        "fecha": "ca. 30 AD",
+        "descripcion": "The crossing of the Kidron by Jesus recapitulates that of David: the innocent king crosses the valley towards his suffering.",
+        "referencias": [
+          "2 Sam 15:23",
+          "John 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "David"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ced_nt_p1",
+        "nombre": "Jesus",
+        "rol": "Messiah",
+        "periodo": "ca. 30 AD",
+        "descripcion": "He crossed the Kidron on the night of his arrest.",
+        "referencias": [
+          "John 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p2",
+        "nombre": "Judas Iscariot",
+        "rol": "Traitor",
+        "periodo": "s. I AD",
+        "descripcion": "He led the mob to the garden on the other side of the Kidron.",
+        "referencias": [
+          "John 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p3",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He crossed the Kidron with Jesus and later denied knowing him.",
+        "referencias": [
+          "John 18:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The Kidron is the threshold between Jerusalem and Gethsemane; Their crossing marks the beginning of passion.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ced_nt_m1",
+          "nombre": "The valley of passion",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The crossing of the Kidron by Jesus fulfills the Davidic type: the suffering king crosses the valley in his hour of betrayal.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The crossing of the Kidron by Jesus fulfills the Davidic type: the suffering king crosses the valley in his hour of betrayal.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "salt_sea",
+  "nombre": "Salt Sea (Dead Sea)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.538593,
+  "lng": 35.482268,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Middle Bronze — Destruction of Sodom and Gomorrah"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Southern and eastern border of Israelite territory"
+    }
+  ],
+  "descripcion_geo": "The lowest hypersaline body of water on the earth's surface, located on the Rift Fault between Israel/West Bank and Jordan, fed by the Jordan River with no natural outlet, which produces its extreme concentration of salts. It functions in the biblical text as a recurring geographical limit of the territory of various tribes.",
+  "altitud_m": -430,
+  "clima": "Extreme desert — the lowest point and one of the hottest in the region, with very high evaporation that maintains the saline concentration.",
+  "recursos": [
+    "Salt and minerals in high concentration",
+    "Geographic reference point for tribal boundaries",
+    "Natural asphalt (bitumen) that occasionally emerged to the surface in ancient times"
+  ],
+  "importancia_estrategica": "The Salt Sea marks the eastern and southern limit of several Israelite tribal assignments (Judah, Benjamin) and is, above all, the geographical setting associated with the destruction of Sodom and Gomorrah, a foundational episode for the biblical theology of divine judgment on human evil, the memory of which is preserved in the sterile and infertile nature of the sea itself.",
+  "otros_habitantes": [
+    {
+      "id": "ciudades_llanura_mar_salado",
+      "nombre": "Inhabitants of the Plain Cities",
+      "descripcion": "Population of Sodom, Gomorrah and other cities in the region before their destruction, described as extremely wicked and sinful before YHWH.",
+      "religion": "Early Canaanite-Transjordan religion",
+      "periodo": "c. 2067 BC (narrative, Abraham era)"
+    },
+    {
+      "id": "rubenitas_juditas_mar_salado",
+      "nombre": "Tribes of Judah, Benjamin and Reuben",
+      "descripcion": "Israelite towns whose territory borders the coasts of the Salt Sea, used as a fixed geographical reference in tribal distribution.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "destruccion-sodoma-mar-salado",
+      "titulo": "The destruction of Sodom and Gomorrah",
+      "fecha": "c. 2067 BC (narrativa, época de Abraham)",
+      "descripcion": "After the announcement received in Mamre, YHWH rains sulfur and fire on Sodom and Gomorrah due to their extreme evil, destroying the cities of the plain and turning Lot's wife into a pillar of salt for looking back during the flight, an episode that biblical tradition links with the origin of the Salt Sea region.",
+      "referencias": [
+        "Gen 19:24-26"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    },
+    {
+      "id": "frontera-tribal-mar-salado",
+      "titulo": "The Salt Sea as the limit of tribal allocations",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "The book of Joshua repeatedly uses the Salt Sea as a fixed reference point to define the territorial limits of Judah, Benjamin and Transjordan, establishing its coast as a recognized natural border in the tribal division of Canaan.",
+      "referencias": [
+        "Josh 15:2-5",
+        "Josh 18:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ezequiel-vision-aguas-sanadas",
+      "titulo": "Ezekiel's vision of healed waters",
+      "fecha": "c. 573 BC (visión)",
+      "descripcion": "In his vision of the restored Temple, Ezekiel describes a river flowing from the sanctuary toward the Salt Sea, healing its waters to the point of allowing abundant marine life, while the marshes and swampy places remain as a source of salt, an eschatological image of future restoration applied precisely to the most barren sea in biblical geography.",
+      "referencias": [
+        "Ezek 47:1-12"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot_mar_salado",
+      "nombre": "lots",
+      "rol": "Nephew of Abraham, survivor of Sodom",
+      "periodo": "bronce_medio",
+      "descripcion": "He escapes the destruction of Sodom with his daughters, while his wife, disobeying the order not to look back, is turned into a pillar of salt in the region of the Salt Sea.",
+      "referencias": [
+        "Gen 19:15-26"
+      ],
+      "ruta": [
+        "mamre",
+        "zoar"
+      ]
+    },
+    {
+      "id": "abraham_mar_salado",
+      "nombre": "Abraham",
+      "rol": "Patriarch, witness of destruction",
+      "periodo": "bronce_medio",
+      "descripcion": "He contemplates from afar, the next morning, the smoke rising from the region of the cities of the plain 'like the smoke of a furnace', visually confirming the magnitude of the destruction announced the previous day in Mamre.",
+      "referencias": [
+        "Gen 19:27-28"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    },
+    {
+      "id": "ezequiel_mar_salado",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of exile, visionary of the restored Temple",
+      "periodo": "hierro_2",
+      "descripcion": "Receive the eschatological vision of a river that heals the waters of the Salt Sea, transforming the biblical symbol of judgment and sterility into a sign of future restoration and abundant life.",
+      "referencias": [
+        "Ezek 47:1-12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Salt Sea is, in the biblical imagination, the most powerful geographical symbol of divine judgment on human evil: its own physical nature—water that does not sustain life, high concentration of salt, absence of natural outlet—is interpreted retrospectively as a permanent trace of the punishment on Sodom and Gomorrah. Ezekiel's later vision of a river healing its waters completely reverses this symbolism, turning the place of final judgment into the very scene of the most radical eschatological restoration imagined by the prophets.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Early Canaanite-Transjordan religion (Plain Cities)"
+    ],
+    "mitos": [
+      {
+        "id": "destruccion-sodoma-mito",
+        "nombre": "The destruction of Sodom and Gomorrah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:16-33; Gén 19:1-29",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 49-51 (sobre la intercesión de Abraham y los pecados específicos de Sodoma)",
+          "descripcion": "Rabbinic tradition extensively develops both the intercession of Abraham for the city and the specific catalog of sins of Sodom—identified mainly with institutionalized cruelty toward the foreigner and the poor, beyond the later reading focused on sexual sin—turning the episode into a paradigm of divine justice that does not destroy without first considering the possibility of salvation for the righteous present.",
+          "similitudes": "It shares with Christianity and Islam the recognition of the episode as a paradigmatic example of divine judgment on collective evil.",
+          "diferencias": null,
+          "significado_teologico": "The destruction of Sodom establishes the principle that divine judgment, though severe, always considers the possibility of mercy for the sake of the righteous, and that the pillar of salt of Lot's wife symbolizes the danger of longing for what must be definitively abandoned.",
+          "posible_relacion_cultural": "Shared tradition of the cycle of Abraham and Lot as a founding story common to the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 19:1-29 (recepción neotestamentaria, Lc 17:28-32; 2 Pe 2:6-9; Jud 1:7)",
+          "fuente_secundaria": "Comentarios patrísticos que usan a Sodoma como paradigma escatológico del juicio final",
+          "descripcion": "The New Testament repeatedly cites the destruction of Sodom as a reference model for the final eschatological judgment, and Jesus itself explicitly invokes Lot's wife as a warning about the danger of clinging to the former life at the time of judgment.",
+          "similitudes": "It shares with the Jewish reading the use of the episode as a paradigm of divine judgment on collective evil.",
+          "diferencias": "The New Testament Christian reading projects the episode towards an explicit eschatological dimension, using it as a type of the coming final judgment, a dimension less developed in the rabbinic reading focused more on the historical episode itself.",
+          "significado_teologico": "Sodom becomes a recurring figure in the New Testament to illustrate the certainty and imminence of the final judgment, and the memory of Lot's wife as a warning against the lack of total decision at the moment of salvation.",
+          "posible_relacion_cultural": "Shared tradition of the cycle of Abraham and Lot as a common founding story of Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 11:77-83; 15:57-77; 29:28-35 (relato del pueblo de Lut)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la destrucción del pueblo de Lut",
+          "descripcion": "The Quran tells at length the story of the people of Lut (Lot), sent as a prophet to a community that practices acts of great immorality; After their warning is rejected, the angels destroy the city by turning it upside down and raining down clay stones, while Lut and his family—except his wife, who remains and perishes with the others—are saved.",
+          "similitudes": "It shares the essential structure of the story: prophetic warning rejected, salvation of the prophet's family except the wife, and destruction by a violent celestial phenomenon.",
+          "diferencias": "The Qur'anic account emphasizes the prophetic function of Lut (explicitly sent to warn the people) more than the intercessory episode of Abraham present in the biblical account, and the wife perishes along with the city rather than becoming a pillar of salt.",
+          "significado_teologico": "The story confirms in Islam the recurring pattern of people rejecting their prophets and being destroyed as a direct consequence of their rejection, serving as a universal warning applicable to any community.",
+          "posible_relacion_cultural": "Shared tradition of the Lot/Lut cycle as a foundational prophetic story common to the three Abrahamic religions."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1"
+  ]
+}

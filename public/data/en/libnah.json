@@ -1,0 +1,183 @@
+{
+  "id": "libnah",
+  "nombre": "Libnah",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.62,
+  "lng": 34.89,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Coordenadas corregidas — el esqueleto original tenía las mismas coordenadas que Lachish. Identificación probable con Tel Burna (lat 31.62, lng 34.89), aunque Tel Zayit es también candidato.",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city conquered by Joshua"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Levitical city of refuge in Judah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Judah Border Town"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Libnah (Hebrew: לִבְנָה, 'whiteness' or 'white poplar') was a city in the Shephelah of Judah, northeast of Lachish. Its exact identification is debated between Tel Burna and Tel Zayit, both in the Shefela area about 8-10 km north of Lachish. It was a Levitical city assigned to the Aaronite priests (Josh 21:13) and a city of refuge. It appears repeatedly alongside Lachish in military narratives—the conquest of Joshua, the siege of Sennacherib—evidencing that they formed a complementary defensive system in the western corridor of Judah. The birthplace of the mother of King Josiah (2 Kings 23:31) and King Jehoahaz.",
+  "altitud_m": 250,
+  "clima": "Transitional Mediterranean in the Sefela — rainfall of 400-450 mm annually, dry and hot summers, mild rainy winters. Soils suitable for olive groves and dryland agriculture.",
+  "recursos": [
+    "Olive groves in the Sefela hills",
+    "Rainfed agriculture — wheat, barley",
+    "Defensive position in the mountainous Sefela-Judah corridor",
+    "Levitical city — center of religious instruction and justice",
+    "Access to routes between the Philistine Plain and Hebron"
+  ],
+  "importancia_estrategica": "Libnah formed with Lachish the system of fortress cities in the west of Judah. His conquest by Joshua preceded that of Lachish in the southern campaign. At the siege of Sennacherib (701 BC), Libnah resisted the Assyrian army while the king negotiated from Lachish—remarkable resistance for a minor city. Its character as a Levitical city made it a religious and judicial center for the entire area.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-libnah",
+      "nombre": "Canaanites of Libnah",
+      "descripcion": "The king of Libnah is one of the thirty-one Canaanites kings defeated by Joshua (Josh 12:15). The city was conquered in the southern campaign after Lachish, as part of the systematic sweep of the western corridor of Canaan. Its name may refer to the white color of its local limestone buildings or to the white poplars that grew in the area.",
+      "religion": "Canaanite polytheism — worship of Baal and local deities of the heights",
+      "periodo": "Late Bronze to c. 1200 BC"
+    },
+    {
+      "id": "familia-real-libnah",
+      "nombre": "Libnah royal family — connection to Judah monarchy",
+      "descripcion": "Hamital bat Jeremiah of Libnah was the mother of both King Jehoahaz (2 Kgs 23:31) and King Zedekiah (2 Kgs 24:18), the last two kings of Judah before the Babylonian destruction. This connection between a family of Libnah and the Davidic royal family in the final period of the kingdom of Judah is a piece of biblical prosopography that places Libnah in the network of marriage alliances of the court of Jerusalem.",
+      "religion": "Actual Yahwism from Judah",
+      "periodo": "Late Iron II, end of the 7th century BC."
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-libnah",
+      "titulo": "Joshua conquers Libnah: the systematic sweep of the south",
+      "fecha": "c. 1220 BC",
+      "descripcion": "Following the Battle of Gibeon and the execution of the Five Southern Kings, Joshua undertook the systematic conquest of the coalition cities. After taking Makkedah, he marched to Libnah and attacked it. Yahweh also handed her into the hands of Israel along with her king. He wounded her with the edge of the sword with every living being, leaving no survivors, as he had done with the king of Jericho. Immediately afterwards Lachish attacked. The pattern is identical in all cities: attack, victory in a day or two, total destruction, march to the next city. Libnah, being the first of the south-north sequence, established the rhythm of the campaign and the consistent application of the herem.",
+      "referencias": [
+        "Josh 10:29-30",
+        "Josh 10:38-39",
+        "Josh 12:15"
+      ],
+      "personajes_clave": [
+        "josue-libnah"
+      ]
+    },
+    {
+      "id": "libnah-se-rebela",
+      "titulo": "Libnah rebels against Judah: the rebellion in the time of Joram",
+      "fecha": "c. 848 BC",
+      "descripcion": "During the reign of King Joram of Judah — son of Jehoshaphat, son-in-law of Ahab, who 'did evil in the sight of Yahweh' — Libnah rebelled simultaneously with Edom. The biblical text is brief: 'At that time Libnah rebelled against his rule, because he had abandoned Yahweh God of his fathers.' The Chronicler adds that Joram had built heights in the mountains of Judah, committed fornication with the inhabitants of Judah, and strayed to Jerusalem. The rebellion of Libnah — a Levitical city — is read as divine judgment: the city that was supposed to be a center of Torah teaching rejected a king who had betrayed it. It was the only documented case in the OT of an inner city of Judah rebelling against its king.",
+      "referencias": [
+        "2 Kgs 8:22",
+        "2 Chr 21:10-11"
+      ],
+      "personajes_clave": [
+        "joran-juda",
+        "libnah-ancianos"
+      ]
+    },
+    {
+      "id": "senaquerib-libnah",
+      "titulo": "Sennacherib attacks Libnah during the siege of Jerusalem",
+      "fecha": "701 BC",
+      "descripcion": "While Sennacherib negotiated (or pressured) Hezekiah from Lachish, he sent his generals with a large army towards Jerusalem. According to the biblical text, when the king of Ethiopia advanced against Sennacherib, the Assyrian king, upon hearing the news, sent messengers to Hezekiah telling him not to trust his God. In that context, the text mentions that Sennacherib 'was fighting against Libnah' (2 Kgs 19:8), suggesting that Libnah resisted the Assyrian army while Lachish had already fallen. Libnah's resistance is brief in the text but significant: a Levitical city that fought off the invader while the king negotiated from Lachish.",
+      "referencias": [
+        "2 Kgs 19:8",
+        "Isa 37:8",
+        "2 Kgs 18:17"
+      ],
+      "personajes_clave": [
+        "senaquerib-libnah",
+        "ezequias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue-libnah",
+      "nombre": "Joshua",
+      "rol": "Military commander of Israel, conqueror of Libnah in the southern campaign",
+      "periodo": "bronce_tardio",
+      "descripcion": "Joshua ben Nun appears in the conquest of Libnah as the methodical commander who executes Canaan's divine plan of southern conquest with systematic discipline. His sweeping tactics — from city to city, without rest, applying the herem to each one — turned the southern campaign into the most rapid military operation of the conquest. The mention of Libnah alongside Lachish, Eglon and Hebron in the same sequence evidences that Joshua understood strategic geography: the cities of the Shephelah and the south of Judah formed a system that had to be dismantled in order.",
+      "referencias": [
+        "Josh 10:29-43",
+        "Josh 1:1-9",
+        "Josh 24:29-30"
+      ],
+      "ruta": [
+        "jericho",
+        "ai",
+        "gibeon",
+        "lachish",
+        "libnah",
+        "hebron"
+      ]
+    },
+    {
+      "id": "joran-juda",
+      "nombre": "Jorán by Judah",
+      "rol": "King of Judah, son-in-law of Ahab, under whose reign Libnah rebelled",
+      "periodo": "c. 848–841 BC",
+      "descripcion": "Joran ben Josaphat is one of the most negatively presented kings of Judah. His marriage to Athaliah, daughter of Ahab and Jezebel, introduced into Judah the religious practices that had contaminated the northern kingdom. The Chronicler records that he killed all his brothers with the sword upon ascending the throne. Under his reign, Edom and Libnah became independent from Judah. He died of a painful intestinal illness - the Chronicler presents it as a fulfillment of the prophetic letter of Elijah - and the text adds that 'he left without anyone regretting it', being buried in Jerusalem but not in the royal tombs.",
+      "referencias": [
+        "2 Kgs 8:16-24",
+        "2 Chr 21:1-20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "hamital",
+      "nombre": "Hamital bat Jeremiah by Libnah",
+      "rol": "Mother of the last kings of Judah, native of Libnah",
+      "periodo": "c. 630–580 BC",
+      "descripcion": "Hamital bat Jeremiah of Libnah was the mother of King Jehoahaz (reigned 3 months, 609 BC) and King Zedekiah (the last king, 597-586 BC). Her origin in Libnah – the Levitical city of the Shephelah – places her in a family with possibly a priestly or Levitical background. The explicit mention of their city of origin in the enthronement texts of their sons (2 Kgs 23:31; 24:18) follows the biblical pattern of identifying the mothers of the kings of Judah by their geographical origin. Hamital lived to see the Babylonian deportation of both sons: Jehoahaz was taken to Egypt by Pharaoh Neco; Zedekiah was blinded and taken to Babylon.",
+      "referencias": [
+        "2 Kgs 23:31",
+        "2 Kgs 24:18",
+        "Jer 52:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Libnah is the Levitical city that rebelled against an unjust king — the only documented case of rebellion by an inner city of Judah against the Davidic monarchy. This rebellion was read by the biblical text not as betrayal but as a direct consequence of the abandonment of Yahweh by King Joram. The city that was supposed to teach the Torah rejected the king who had betrayed it. Libnah thus concentrates two themes of biblical Yahwism: the Levitical city as guardian of fidelity, and the judgment that begins with the house of Israel rather than with external enemies.",
+    "religiones_presentes": [
+      "Polytheism Canaanite — pre-Israelite cult before the conquest of Joshua",
+      "Yahwism Levitical — priestly city assigned to the sons of Aaron and city of refuge",
+      "Omrid Baalism — influence of Joram's religious policy by Judah"
+    ],
+    "mitos": [
+      {
+        "id": "ciudad-que-juzga-al-rey",
+        "nombre": "Libnah rebels: when the Levitical city judges the faithless king",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 8:22; 2 Cr 21:10-11",
+          "fuente_secundaria": "Midrash Rabbah, Números 13; Talmud Bavli, Sanedrín 102b sobre reyes de Judá",
+          "descripcion": "The Talmud and Midrashim used Libnah's rebellion to illustrate the principle that the king's apostasy contaminates the entire kingdom and sets off chain reactions—first the rebellion of Edom (pagan people), then that of Libnah (Levitical Israelite city). The sequence shows that the judgment extends from the outside in: first the pagans are freed from the unfaithful king, then the Israelites themselves. The rebellion of a Levitical city is especially significant because Levitical cities were to be centers of Yahwist loyalty—their rebellion against an apostate king is the most dramatic form of religious denunciation.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The king who abandons Yahweh loses the loyalty of both neighboring nations and his own people. The legitimacy of the Davidic monarchy rested on fidelity to the alliance, not on hereditary right alone.",
+          "posible_relacion_cultural": "The rebellion of city-states against a king who violates his religious or judicial obligations appears in ancient Near Eastern texts, including the Mari texts about cities refusing to pay tribute to kings considered illegitimate."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

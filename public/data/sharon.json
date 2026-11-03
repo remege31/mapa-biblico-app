@@ -1,0 +1,144 @@
+{
+  "id": "sharon",
+  "nombre": "Llanura de Sarón",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 32.3,
+  "lng": 34.9,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Hierro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Fértil llanura costera entre el monte Carmelo al norte y Jaffa al sur, famosa por su belleza natural.",
+  "altitud_m": 50,
+  "clima": "mediterráneo",
+  "recursos": [
+    "cereales",
+    "flores",
+    "ganadería",
+    "madera"
+  ],
+  "importancia_estrategica": "La llanura más fértil de Israel; su belleza proverbial es símbolo de abundancia y amor en el Cantar.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sha_h1",
+      "titulo": "La rosa de Sarón en el Cantar",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "La amada del Cantar de los Cantares se describe como 'la rosa de Sarón y el lirio de los valles'.",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "sha_h2",
+      "titulo": "Los rebaños reales en Sarón",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Salomón tenía a Satrí el ismaelita como encargado de los rebaños que pastaban en Sarón.",
+      "referencias": [
+        "1 Cr 27:29"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "sha_h3",
+      "titulo": "Los moradores de Sarón se convierten",
+      "fecha": "ca. 35 d.C.",
+      "descripcion": "Tras la curación de Eneas en Lida, todos los habitantes de Sarón vieron el milagro y se convirtieron al Señor.",
+      "referencias": [
+        "Hch 9:35"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sha_p1",
+      "nombre": "La Sulamita",
+      "rol": "Amada del Cantar",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Se identifica como 'la rosa de Sarón'; símbolo de la amada perfecta.",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p2",
+      "nombre": "Pedro",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Su ministerio milagroso en Lida alcanzó a toda la llanura de Sarón.",
+      "referencias": [
+        "Hch 9:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p3",
+      "nombre": "Salomón",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Sus rebaños reales pastaban en la fértil llanura de Sarón.",
+      "referencias": [
+        "1 Cr 27:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Llanura de belleza proverbial; la 'rosa de Sarón' es uno de los poemas más evocadores del AT; en el NT, escenario de la evangelización costera.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "sha_m1",
+        "nombre": "La rosa de Sarón",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La rosa de Sarón es símbolo de la amada en el Cantar y del pueblo de Israel amado por Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La rosa de Sarón es símbolo de la amada en el Cantar y del pueblo de Israel amado por Dios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Los Padres de la Iglesia interpretan la 'rosa de Sarón' como Cristo o como la Virgen María.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los Padres de la Iglesia interpretan la 'rosa de Sarón' como Cristo o como la Virgen María.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

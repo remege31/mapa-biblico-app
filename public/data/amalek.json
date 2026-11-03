@@ -1,0 +1,137 @@
+{
+  "id": "amalek",
+  "nombre": "Amalec",
+  "tipo": "territorio",
+  "lat": 30.66,
+  "lng": 34.84,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 49,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -700,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Pueblo nómada del desierto de Néguev y del Sinaí, descendiente de Esaú. Enemigo perenne de Israel en el período del éxodo y los jueces.",
+  "altitud_m": 500,
+  "clima": "árido-desértico",
+  "recursos": [
+    "pastoreo",
+    "saqueo",
+    "comercio de caravanas"
+  ],
+  "importancia_estrategica": "Primer enemigo de Israel en el desierto; control de los pasos del Néguev y el Sinaí.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ama_h1",
+      "titulo": "La primera batalla en Refidim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Amalec ataca a Israel recién salido de Egipto en Refidim; Josué lucha mientras Moisés mantiene los brazos alzados.",
+      "referencias": [
+        "Ex 17:8-16"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Moisés",
+        "Aarón",
+        "Hur"
+      ]
+    },
+    {
+      "id": "ama_h2",
+      "titulo": "Saúl desobedece al exterminar a Amalec",
+      "fecha": "ca. 1030 a.C.",
+      "descripcion": "Saúl derrota a Amalec pero perdona al rey Agag y lo mejor del ganado; Samuel lo reprueba y rompe con él.",
+      "referencias": [
+        "1 Sam 15"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel",
+        "Agag"
+      ]
+    },
+    {
+      "id": "ama_h3",
+      "titulo": "David recupera el botín amalecita",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Mientras David está en guerra, amalecitas saquean Siclag; David los persigue y recupera todo lo que habían tomado.",
+      "referencias": [
+        "1 Sam 30"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ama_p1",
+      "nombre": "Josué",
+      "rol": "Primer general de Israel",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Comandó la primera batalla de Israel en el desierto contra Amalec en Refidim.",
+      "referencias": [
+        "Ex 17:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p2",
+      "nombre": "Saúl",
+      "rol": "Primer rey de Israel",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "Su misericordia con Agag rey de Amalec le costó el reino; señal de su desobediencia a Dios.",
+      "referencias": [
+        "1 Sam 15:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p3",
+      "nombre": "Agag",
+      "rol": "Rey de Amalec",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "Perdonado por Saúl pero ejecutado por Samuel: 'Como tu espada dejó mujeres sin hijos, así tu madre quedará sin hijo'.",
+      "referencias": [
+        "1 Sam 15:33"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Primer adversario de Israel en la historia; símbolo del mal que acecha al pueblo de Dios en el desierto. 'Guerra con Amalec de generación en generación' (Ex 17:16).",
+    "religiones_presentes": [
+      "paganismo_nómada"
+    ],
+    "mitos": [
+      {
+        "id": "ama_m1",
+        "nombre": "El eterno enemigo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ex 17:16",
+          "fuente_secundaria": "",
+          "descripcion": "La guerra con Amalec es declarada eterna (Ex 17:16); los rabinos lo identifican como símbolo del mal radical.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La guerra con Amalec es declarada eterna (Ex 17:16); los rabinos lo identifican como símbolo del mal radical.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "gibbethon",
+  "nombre": "Gibbetón",
+  "tipo": "ciudad",
+  "lat": 31.98,
+  "lng": 35.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Ciudad en la Sefela asignada a Dan y cedida a los levitas; disputada repetidamente entre Israel y los filisteos.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Ciudad en litigio constante entre Israel y los filisteos.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gib_h1",
+      "titulo": "Israel sitiaba Gibbetón cuando cambió el rey",
+      "fecha": "ca. 885-885 a.C.",
+      "descripcion": "Cuando Israel sitiaba la filistea Gibbetón, la noticia de la conspiración de Zimri llegó al campamento; Omri fue proclamado rey allí.",
+      "referencias": [
+        "1 Re 16:15-17"
+      ],
+      "personajes_clave": [
+        "Omri",
+        "Zimri"
+      ]
+    },
+    {
+      "id": "gib_h2",
+      "titulo": "Nadab muerto durante el sitio de Gibbetón",
+      "fecha": "ca. 909 a.C.",
+      "descripcion": "El rey Nadab de Israel fue asesinado por Baasa mientras Israel sitiaba Gibbetón.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "personajes_clave": [
+        "Baasa",
+        "Nadab"
+      ]
+    },
+    {
+      "id": "gib_h3",
+      "titulo": "Gibbetón asignada a los levitas",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Gibbetón fue asignada como ciudad levítica de la tribu de Dan.",
+      "referencias": [
+        "Jos 19:44",
+        "Jos 21:23"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gib_p1",
+      "nombre": "Omri",
+      "rol": "Rey de Israel",
+      "periodo": "885-874 a.C.",
+      "descripcion": "Fue proclamado rey en el campamento frente a Gibbetón y luego fundó Samaria.",
+      "referencias": [
+        "1 Re 16:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p2",
+      "nombre": "Baasa",
+      "rol": "Usurpador del trono",
+      "periodo": "909-886 a.C.",
+      "descripcion": "Asesinó al rey Nadab durante el sitio de Gibbetón y tomó el trono.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p3",
+      "nombre": "Nadab",
+      "rol": "Rey de Israel",
+      "periodo": "910-909 a.C.",
+      "descripcion": "Fue asesinado durante el largo sitio israelita de Gibbetón.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibbetón: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gib_m1",
+        "nombre": "Gibbetón: donde se cambian los reyes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dos cambios de dinastía en Israel ocurrieron mientras se sitiaba Gibbetón; la ciudad disputada se convierte en escenario accidental de la historia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dos cambios de dinastía en Israel ocurrieron mientras se sitiaba Gibbetón; la ciudad disputada se convierte en escenario accidental de la historia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

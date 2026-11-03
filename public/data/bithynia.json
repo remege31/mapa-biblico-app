@@ -1,0 +1,242 @@
+{
+  "id": "bithynia",
+  "nombre": "Bitinia",
+  "tipo": "territorio",
+  "lat": 40.66,
+  "lng": 30.63,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana en el noroeste de Asia Menor a orillas del mar Negro. Pablo intentó ir allí pero fue impedido por el Espíritu.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bit_h1",
+      "titulo": "El Espíritu impide a Pablo ir a Bitinia",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Pablo intenta entrar en Bitinia pero 'el Espíritu de Jesús no se lo permitió'; la visión del macedonio lo redirige a Europa.",
+      "referencias": [
+        "Hch 16:7-9"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "bit_h2",
+      "titulo": "La carta de Pedro a los creyentes de Bitinia",
+      "fecha": "ca. 64 d.C.",
+      "descripcion": "Pedro dirige su primera carta a los 'elegidos' de varias provincias, incluida Bitinia; hay comunidades cristinas allí.",
+      "referencias": [
+        "1 Pe 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "bit_h3",
+      "titulo": "Plinio el Joven y los cristianos de Bitinia",
+      "fecha": "ca. 112 d.C.",
+      "descripcion": "El gobernador romano Plinio el Joven escribe al emperador Trajano sobre los cristianos en Bitinia: testimonio pagano del crecimiento de la Iglesia.",
+      "referencias": [
+        "Historia romana"
+      ],
+      "personajes_clave": [
+        "Plinio el Joven"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bit_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Intentó ir a Bitinia; el Espíritu lo redirigió hacia Macedonia.",
+      "referencias": [
+        "Hch 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p2",
+      "nombre": "Pedro",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Dirigió su primera carta a los creyentes de Bitinia y otras provincias de Asia Menor.",
+      "referencias": [
+        "1 Pe 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p3",
+      "nombre": "Plinio el Joven",
+      "rol": "Gobernador romano",
+      "periodo": "ca. 61-112 d.C.",
+      "descripcion": "Sus cartas a Trajano sobre los cristanos en Bitinia son el primer testimonio romano detallado del cristianismo primitivo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bitinia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "bit_m1",
+        "nombre": "El Espíritu cierra una puerta y abre Europa",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La redirección de Pablo en Bitinia es paradigma de la providencia divina en la misión: una puerta cerrada abre otra hacia Europa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La redirección de Pablo en Bitinia es paradigma de la providencia divina en la misión: una puerta cerrada abre otra hacia Europa.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bit_h1",
+        "titulo": "El Espíritu impide a Pablo ir a Bitinia",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Pablo intenta entrar en Bitinia pero 'el Espíritu de Jesús no se lo permitió'; la visión del macedonio lo redirige a Europa.",
+        "referencias": [
+          "Hch 16:7-9"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "bit_h2",
+        "titulo": "La carta de Pedro a los creyentes de Bitinia",
+        "fecha": "ca. 64 d.C.",
+        "descripcion": "Pedro dirige su primera carta a los 'elegidos' de varias provincias, incluida Bitinia; hay comunidades cristinas allí.",
+        "referencias": [
+          "1 Pe 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "bit_h3",
+        "titulo": "Plinio el Joven y los cristianos de Bitinia",
+        "fecha": "ca. 112 d.C.",
+        "descripcion": "El gobernador romano Plinio el Joven escribe al emperador Trajano sobre los cristianos en Bitinia: testimonio pagano del crecimiento de la Iglesia.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "personajes_clave": [
+          "Plinio el Joven"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bit_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Intentó ir a Bitinia; el Espíritu lo redirigió hacia Macedonia.",
+        "referencias": [
+          "Hch 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p2",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Dirigió su primera carta a los creyentes de Bitinia y otras provincias de Asia Menor.",
+        "referencias": [
+          "1 Pe 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p3",
+        "nombre": "Plinio el Joven",
+        "rol": "Gobernador romano",
+        "periodo": "ca. 61-112 d.C.",
+        "descripcion": "Sus cartas a Trajano sobre los cristanos en Bitinia son el primer testimonio romano detallado del cristianismo primitivo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Bitinia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "bit_m1",
+          "nombre": "El Espíritu cierra una puerta y abre Europa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La redirección de Pablo en Bitinia es paradigma de la providencia divina en la misión: una puerta cerrada abre otra hacia Europa.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La redirección de Pablo en Bitinia es paradigma de la providencia divina en la misión: una puerta cerrada abre otra hacia Europa.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

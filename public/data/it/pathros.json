@@ -1,0 +1,133 @@
+{
+  "id": "pathros",
+  "nombre": "Patros",
+  "tipo": "territorio",
+  "lat": 28.32,
+  "lng": 30.69,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Egitto superiore (Egitto meridionale), dove vivevano le comunità ebraiche nel periodo post-esilico. Il nome significa \"terra del sud\" in egiziano.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Terra della diaspora ebraica nel sud di Egitto.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pat_h1",
+      "titulo": "Ebrei esiliati a Patros",
+      "fecha": "ca. 586-400 a.C.",
+      "descripcion": "Dopo la caduta di Gerusalemme, le comunità ebraiche furono stabilite a Patros (Alto Egitto); i papiri Elefantini documentano la sua vita.",
+      "referencias": [
+        "Ger 44:1,15"
+      ],
+      "personajes_clave": [
+        "Jeremías",
+        "judíos"
+      ]
+    },
+    {
+      "id": "pat_h2",
+      "titulo": "Geremia avverte gli ebrei di Patros",
+      "fecha": "ca. 586 a.C.",
+      "descripcion": "Geremia avverte le comunità ebraiche di Patros che il loro sincretismo religioso porterà giudizio.",
+      "referencias": [
+        "Ger 44:15-30"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "pat_h3",
+      "titulo": "Il ritorno dei dispersi di Patros",
+      "fecha": "ca. 700 a.C.",
+      "descripcion": "Isaia profetizza che il Signore radunerà il suo popolo disperso da Patros, tra gli altri luoghi.",
+      "referencias": [
+        "Is 11:11"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pat_p1",
+      "nombre": "Geremia",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Si recò a Egitto e mise in guardia gli ebrei di Patros dal sincretismo.",
+      "referencias": [
+        "Ger 44:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p2",
+      "nombre": "Isaia",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Ha incluso Patros nella profezia del ritorno dei dispersi a Israele.",
+      "referencias": [
+        "Is 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p3",
+      "nombre": "Comunità ebraiche di Patros",
+      "rol": "Diaspora ebraica",
+      "periodo": "ca. 586-400 a.C.",
+      "descripcion": "Vivevano in Alto Egitto; i papiri Elefantini mostrano un tempio ebraico nella regione.",
+      "referencias": [
+        "Ger 44:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Patros: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "pat_m1",
+        "nombre": "La diaspora a Patros",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Patros è il simbolo della diaspora ebraica: Israele dispersi fino ai confini del mondo conosciuto; ma Isaia promette che Dio lo radunerà di lì.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Patros è il simbolo della diaspora ebraica: Israele dispersi fino ai confini del mondo conosciuto; ma Isaia promette che Dio lo radunerà di lì.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

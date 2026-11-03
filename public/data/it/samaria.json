@@ -1,0 +1,312 @@
+{
+  "id": "samaria",
+  "nombre": "Samaria",
+  "tipo": "ciudad",
+  "lat": 32.2784,
+  "lng": 35.1964,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 109,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -880,
+      "hasta": -722,
+      "nombre": "Età del Ferro II — Capitale del Regno Settentrionale"
+    },
+    {
+      "desde": -722,
+      "hasta": -586,
+      "nombre": "Tarda età del ferro II: provincia assira"
+    }
+  ],
+  "descripcion_geo": "Samaria è stato costruito su una collina isolata di forma ovale nel cuore degli altopiani di Efraim, a circa 65 km a nord di Gerusalemme. Il colle, alto 430 metri, domina nettamente in tutte le direzioni le valli circostanti. Omri la scelse proprio perché si trattava di una posizione vergine – senza precedenti discendenza tribale – che gli avrebbe permesso di fondare una capitale neutrale, simile a quanto aveva fatto Davide con Gerusalemme.",
+  "altitud_m": 430,
+  "clima": "Mediterraneo: più secco della costa ma con precipitazioni sufficienti (400-500 mm all'anno) per l'agricoltura pluviale. La posizione elevata mitiga la calura estiva.",
+  "recursos": [
+    "Acqua (cisterne scavate nella roccia e sorgenti vicine)",
+    "Uliveti e vigneti sui pendii",
+    "Pietra calcarea di alta qualità (la costruzione del Palazzo d'Avorio è stata ribattezzata)",
+    "Rotta commerciale con Fenicia"
+  ],
+  "importancia_estrategica": "Capitale politica del regno più grande e potente di Israele. Samaria controllava il corridoio tra la costa fenicia e il Giordano, ed era un punto di contatto con le rotte carovaniere siriane e Mesopotamia. La sua alleanza con Fenicia sotto Omri e Achab portò prosperità commerciale e conflitti religiosi del ciclo Elia.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-samaria",
+      "nombre": "Influenza fenicia (Sidonia)",
+      "descripcion": "Il matrimonio di Achab con Jezebel, figlia del re fenicio Ethbaal di Sidone, introdusse in Samaria il culto ufficiale di Baal di Sidone. Jezebel mantenne alla sua tavola 450 profeti Baal e 400 profeti Asera e perseguitò i profeti di YHWH. La costruzione di un tempio di Baal a Samaria simboleggiava la penetrazione del culto fenicio.",
+      "religion": "Culto di Baal da parte di Sidone e Asera — Politeismo fenicio nel cuore del Regno del Nord",
+      "periodo": "C. 874–852 a.C. (regno di Achab)"
+    },
+    {
+      "id": "asirios-samaria",
+      "nombre": "Coloni e deportati assiri",
+      "descripcion": "Dopo la conquista di Sargon II (722 a.C.), Samaria fu ripopolata con città di Babilonia, Cuta, Ava, Hamat e Sepharvaim. Questi coloni mescolarono il culto Yahvista con le proprie tradizioni religiose, generando il sincretismo descritto in 2 Re 17:24-41.",
+      "religion": "Sincretismo: Yahwismo misto a culti mesopotamici e siriani",
+      "periodo": "C. 722–539 a.C"
+    },
+    {
+      "id": "profetas-samaria",
+      "nombre": "Comunità profetiche del Nord",
+      "descripcion": "Elia, Eliseo e i figli dei profeti operavano principalmente nel territorio del Regno del Nord. La tensione tra la profezia jahvista e la corte di Achab e Jezebel ha generato le narrazioni più drammatiche del ciclo profetico biblico.",
+      "religion": "Yahvismo profetico: opposizione al sincretismo ufficiale della corte",
+      "periodo": "C. 870–722 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "omri-funda-samaria",
+      "titulo": "Omri fonda la capitale: la collina comprata da due talenti",
+      "fecha": "c. 880 a.C.",
+      "descripcion": "Omri, un generale salito al trono dopo una guerra civile, acquistò la collina di Semer dal suo proprietario per due talenti d'argento e fondò una nuova città chiamata Samaria. Fondando la capitale su un terreno acquistato senza storia tribale, Omri evitò le controversie di lealtà che sarebbero sorte in qualsiasi città esistente. L'archeologia conferma una città di Ferro II costruita su roccia vergine.",
+      "referencias": [
+        "1 Re 16:23-28"
+      ],
+      "personajes_clave": [
+        "omri"
+      ]
+    },
+    {
+      "id": "acab-jezabel-elias",
+      "titulo": "Elia contro Achab: la vigna di Nabot e il giudizio di Dio",
+      "fecha": "c. 860 a.C.",
+      "descripcion": "Naboth di Izreel rifiutò di vendere la sua vigna al re Achab perché era un'eredità di famiglia. Jezebel organizzò un processo fraudolento che portò alla lapidazione di Nabot. Quando Acab andò a prendere possesso della vigna, Elia lo affrontò: Nel luogo dove i cani leccarono il sangue di Nabot, i cani leccheranno anche il tuo sangue. L'episodio è il caso paradigmatico della profetica difesa del diritto di proprietà.",
+      "referencias": [
+        "1 Re 21:1-29",
+        "1 Re 22:38"
+      ],
+      "personajes_clave": [
+        "elias",
+        "acab"
+      ]
+    },
+    {
+      "id": "caida-samaria",
+      "titulo": "L'Assedio di Sargon II: la fine del Regno del Nord",
+      "fecha": "722 a.C.",
+      "descripcion": "Dopo un assedio di tre anni iniziato da Shalmaneser V, Samaria cadde sotto Sargon II di Assiria. Le iscrizioni assire registrano la deportazione di 27.290 israeliti a Mesopotamia, l'esilio delle dieci tribù perdute. Sargon ripopolò la regione con coloni provenienti da altre province. Il regno che era durato 200 anni scomparve in un solo anno.",
+      "referencias": [
+        "2 Re 17:1-23",
+        "2 Re 18:9-12"
+      ],
+      "personajes_clave": [
+        "oseas-rey"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "omri",
+      "nombre": "Omri",
+      "rol": "Fondatore della dinastia Omrid e della città di Samaria",
+      "periodo": "hierro_2",
+      "descripcion": "Generale dell'esercito israelita che salì al trono dopo una guerra civile e fondò la più stabile delle dinastie del nord (quattro generazioni). Successivamente le iscrizioni assire continuarono a chiamare il Regno del Nord la casa di Omri (Bit-Humri) anche dopo la sua estinzione. La Bibbia lo giudica negativamente per il suo sincretismo religioso.",
+      "referencias": [
+        "1 Re 16:16-28"
+      ],
+      "ruta": [
+        "samaria"
+      ]
+    },
+    {
+      "id": "elias",
+      "nombre": "Elia il Tishbite",
+      "rol": "Profeta di YHWH, avversario di Achab e Jezebel",
+      "periodo": "hierro_2",
+      "descripcion": "Galaad profeta di origine misteriosa che irruppe nella storia di Israele come forza della natura. Il suo ministero è stato un confronto permanente con la corte di Samaria. La tradizione ebraica fa di lui un precursore del Messia (Mal 4,5-6); il Nuovo Testamento lo identifica con Giovanni Battista.",
+      "referencias": [
+        "1 Re 17:1",
+        "1 Re 18:1-46",
+        "1 Re 19:1-18",
+        "2 Re 2:1-12"
+      ],
+      "ruta": [
+        "samaria",
+        "carmel_mount",
+        "beersheba",
+        "sinai"
+      ]
+    },
+    {
+      "id": "amos-profeta",
+      "nombre": "Amos di Tekoa",
+      "rol": "Profeta della giustizia sociale, primo profeta scrittore",
+      "periodo": "hierro_2",
+      "descripcion": "Pastore e custode del sicomoro di Tekoa (Giuda), inviato a profetizzare nel regno settentrionale durante la prosperità di Geroboamo II. I suoi oracoli contro Samaria denunciavano che la prosperità economica delle élite era costruita sullo sfruttamento dei poveri. Amos fu il primo ad articolare la giustizia sociale come un requisito religioso di primo ordine.",
+      "referencias": [
+        "Am 1:1",
+        "Am 3:9-15",
+        "Am 6:1-7",
+        "Am 7:10-17"
+      ],
+      "ruta": [
+        "samaria",
+        "bethel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Samaria concentra le tensioni religiose più esplosive dell'Antico Testamento. Città fondata ex nihilo da Omri, raggiunse il suo splendore sotto Achab e Jezebel, quando il culto di Baal di Sidone gareggiò apertamente con lo Yahwismo. Da questo confronto nasce il ciclo di Elia e Eliseo. I profeti scrittori – Amos, Osea, Michea – indirizzarono i loro oracoli più duri contro la corte e il popolo di Samaria. La caduta a Assiria (722 a.C.) generò il mistero delle dieci tribù perdute.",
+    "religiones_presentes": [
+      "Ufficiale Yahvismo (regno del nord, sincretista)",
+      "Culto di Baal di Sidone (introdotto da Jezebel)",
+      "Culto di Asera",
+      "Profetico Yahvismo (Elia, Eliseo, Amos, Osea)",
+      "Sincretismo assiro-yahvista (dopo il 722 a.C.)"
+    ],
+    "mitos": [
+      {
+        "id": "diez-tribus-perdidas",
+        "nombre": "Le dieci tribù perdute di Israele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Reyes 17:1-23",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 110b; Midrash Bereshit Rabbah 73; Eldad ha-Dani (siglo IX)",
+          "descripcion": "Il dibattito talmudico ruota intorno alla questione se le dieci tribù torneranno nell'era messianica. Alcune fonti affermano che siano già tornati e assimilati; altri sostengono che siano al di là del fiume Sambation. Le comunità di tutto il mondo affermano di discendere da tribù deportate.",
+          "similitudes": "L’idea di un popolo disperso che mantiene la propria identità è condivisa da diverse tradizioni.",
+          "diferencias": "L'ebraismo rabbinico è ambivalente riguardo alla realtà fisica del ritorno; La maggior parte delle comunità ricorrenti sono state viste con scetticismo.",
+          "significado_teologico": "Le tribù perdute sono un simbolo della promessa non mantenuta, o rinviata, del ripristino totale di Israele. Il suo ritorno è una condizione di tutta l'era messianica.",
+          "posible_relacion_cultural": "Le deportazioni di massa assire sono documentate in iscrizioni di Sargon II e sono storicamente verificabili."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Santiago 1:1; Mateo 19:28",
+          "fuente_secundaria": "Ireneo de Lyon, Adversus Haereses",
+          "descripcion": "La lettera di Giacomo è indirizzata alle dodici tribù disperse, utilizzando lo schema delle dodici tribù per la comunità cristiana universale. Gesù promette ai suoi discepoli che giudicheranno le dodici tribù di Israele al rinnovamento.",
+          "similitudes": "La restaurazione delle dodici tribù è un segno escatologico in entrambe le tradizioni.",
+          "diferencias": "Il cristianesimo tende a spiritualizzare le tribù come figura della Chiesa universale.",
+          "significado_teologico": "Le dodici tribù sono figura della pienezza del popolo di Dio, realizzato nella comunità cristiana che trascende le etnie.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sam_nt_h1",
+        "titulo": "Il Samaritano al Pozzo di Giacobbe",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Gesù parla con una samaritana accanto al pozzo di Giacobbe; Gli rivela che è lui il Messia.",
+        "referencias": [
+          "Gv 4:1-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "samaritana"
+        ]
+      },
+      {
+        "id": "sam_nt_h2",
+        "titulo": "Filippo evangelizza Samaria",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Filippo il diacono predica nella città di Samaria; Moltissime persone credono e vengono battezzate.",
+        "referencias": [
+          "At 8:5-8"
+        ],
+        "personajes_clave": [
+          "Felipe",
+          "Simón el Mago"
+        ]
+      },
+      {
+        "id": "sam_nt_h3",
+        "titulo": "Pietro e Giovanni confermano i Samaritani",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Gli apostoli scendono da Gerusalemme per imporre le mani sui nuovi credenti di Samaria.",
+        "referencias": [
+          "At 8:14-17"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sam_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia che rompe le barriere etniche",
+        "periodo": "ca. 28 d.C.",
+        "descripcion": "Attraversò Samaria e parlò con una donna, superando il tabù tra ebrei e samaritani.",
+        "referencias": [
+          "Gv 4:4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sam_nt_p2",
+        "nombre": "Il Samaritano",
+        "rol": "Primo evangelizzatore registrato",
+        "periodo": "s. I d.C.",
+        "descripcion": "Dopo l'incontro con Gesù, andò ad annunciare al suo popolo di aver trovato il Messia.",
+        "referencias": [
+          "Gv 4:28-30"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sam_nt_p3",
+        "nombre": "Filippo evangelista",
+        "rol": "Diacono e missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Primo missionario a portare il Vangelo fuori dalla Giudea, nella regione samaritana.",
+        "referencias": [
+          "At 8:5"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Regione con tensioni storiche con gli ebrei; il Nuovo Testamento ne fa il teatro della riconciliazione e dell'espansione del vangelo.",
+      "religiones_presentes": [
+        "samaritanesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "sam_nt_m1",
+          "nombre": "Il buon samaritano",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "I Samaritani erano considerati impuri dagli ebrei a causa della loro mescolanza etnica e culturale.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I Samaritani erano considerati impuri dagli ebrei a causa della loro mescolanza etnica e culturale.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù utilizza un samaritano come eroe della parabola del prossimo, ribaltando i pregiudizi etnici.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù utilizza un samaritano come eroe della parabola del prossimo, ribaltando i pregiudizi etnici.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

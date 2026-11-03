@@ -1,0 +1,152 @@
+{
+  "id": "beth_shean",
+  "nombre": "Beth-shean",
+  "tipo": "ciudad",
+  "lat": 32.5042384550589,
+  "lng": 35.50307739108582,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Unconquered Canaanite city, Saul body exposed"
+    }
+  ],
+  "descripcion_geo": "Important Canaanite city strategically located at the confluence of the Jordan Valley and the Jezreel Valley, with an extensive tell that archaeologically confirms its continued importance from the Late Bronze Age to later periods, formally assigned to Manasseh but never militarily conquered during the period of the Judges.",
+  "altitud_m": -120,
+  "clima": "Jordan Valley Mediterranean — very hot and dry summers, mild winters, typical of the confluence of the Jordan and Jezreel valleys.",
+  "recursos": [
+    "Strategic position at the confluence of main trade routes",
+    "Fertile lands of the Jordan Valley",
+    "Temple of Astarte (mentioned in Saul episode)"
+  ],
+  "importancia_estrategica": "Beth-shean is one of the most powerful Canaanite cities that Israel never manages to conquer during the entire period of the Judges, maintaining Philistine control or independent Canaanite well into the monarchy; Its greatest narrative relevance is as a place of humiliating display of Saul's decapitated body after the defeat of Gilboa, an episode that tragically closes Israel's first reign.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_bethshean",
+      "nombre": "Canaanites of Beth-shean",
+      "descripcion": "A population that Manasseh never manages to expel from the city, keeping Beth-shean under independent or Philistine control throughout the period of the Judges.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC and persistent after"
+    },
+    {
+      "id": "filisteos_bethshean",
+      "nombre": "Philistines",
+      "descripcion": "Philistine forces displaying Saul's decapitated body on the wall of Bethshean following the Battle of Gilboa, using control of the city as a basis for this public humiliation of the fallen king.",
+      "religion": "Philistine polytheism – cult of Dagon and Astarte",
+      "periodo": "c. 1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "manases-no-expulsa-bethshean",
+      "titulo": "Manasseh fails to expel the Canaanites from Beth-shean",
+      "fecha": "c. 1150 BC",
+      "descripcion": "The Book of Judges explicitly records that Manasseh was unable to dispossess the inhabitants of Beth-shean and its villages, subjecting them instead to forced labor instead of the planned outright conquest.",
+      "referencias": [
+        "Judg 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "exposicion-saul-bethshean",
+      "titulo": "Saul's body is exposed on the wall of Beth-shean",
+      "fecha": "c. 1010 BC",
+      "descripcion": "After the Battle of Mount Gilboa, the Philistines nail the headless bodies of Saul and his sons to the wall of Bethshean, publicly displaying them as a war trophy, while the king's head and armor are sent as an offering to the temples of their gods in other Philistine cities.",
+      "referencias": [
+        "1 Sam 31:8-10"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "rescate-jabes-galaad-bethshean",
+      "titulo": "The men of Jabez from Gilead rescue the bodies",
+      "fecha": "c. 1010 BC",
+      "descripcion": "Upon learning of the public humiliation inflicted on Saul, the brave men of Jabesh of Gilead—a city that Saul had rescued at the beginning of his reign—march all night, remove the bodies from the wall of Beth-shean, burn them, and bury their bones under a tamarisk tree, fasting seven days as a sign of mourning and honor toward their former liberator.",
+      "referencias": [
+        "1 Sam 31:11-13"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul_bethshean",
+      "nombre": "Saul",
+      "rol": "First king of Israel (body exposed posthumously)",
+      "periodo": "hierro_1",
+      "descripcion": "His decapitated body is publicly displayed on the wall of Beth-shean by the Philistines as a war trophy, in the episode of the greatest posthumous humiliation suffered by a king of Israel in the entire biblical story.",
+      "referencias": [
+        "1 Sam 31:8-10"
+      ],
+      "ruta": [
+        "gilboa_mount",
+        "beth_shean"
+      ]
+    },
+    {
+      "id": "hombres_jabes_bethshean",
+      "nombre": "Brave Men of Jabez by Gilead",
+      "rol": "Loyal Corps Rescuers by Saul",
+      "periodo": "hierro_1",
+      "descripcion": "They demonstrate exceptional loyalty to Saul by risking their lives to rescue his humiliated body from Beth-shean, in gratitude for having been delivered by him from the threat of the Ammonite Nahash at the beginning of his reign.",
+      "referencias": [
+        "1 Sam 31:11-13",
+        "1 Sam 11:1-11"
+      ],
+      "ruta": [
+        "jabesh",
+        "beth_shean"
+      ]
+    },
+    {
+      "id": "filisteos_bethshean_personaje",
+      "nombre": "Commanders Philistines",
+      "rol": "Executors of public humiliation by Saul",
+      "periodo": "c. 1010 BC",
+      "descripcion": "They organize the public display of Saul's body in Beth-shean as a demonstration of their decisive victory over Israel at the Battle of Mount Gilboa.",
+      "referencias": [
+        "1 Sam 31:9-10"
+      ],
+      "ruta": [
+        "beth_shean"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-shean is the scene of the episode of greatest public degradation suffered by the Israelite monarchy in the entire Old Testament, deliberately contrasted by the narrator with the act of heroic loyalty of the men of Jabesh of Gilead, who risk their lives to restore the dignity of the fallen king through a nighttime rescue and an honorable burial, illustrating that honor towards YHWH's anointed can survive even the most humiliating defeat and death.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite and Philistine polytheism — cult of Dagon and Astarte"
+    ],
+    "mitos": [
+      {
+        "id": "rescate-honor-saul-bethshean",
+        "nombre": "The rescue of the honor of Saul by the men of Jabes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 31:11-13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la lealtad excepcional de Jabés de Galaad como ejemplo de gratitud duradera y honor hacia el rey ungido incluso después de su muerte vergonzosa",
+          "descripcion": "Jewish tradition especially values ​​the episode of the nighttime rescue of the bodies by the men of Jabez as a paradigmatic example of hakarat hatov (recognition of good received), a virtue that motivates this city to risk everything to restore the dignity of the one who had freed them decades before, even when all the rest of Israel seemed to have abandoned the fallen king in his moment of greatest humiliation.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Jabez's act of Gilead demonstrates that the recognition of gratitude and honor due to YHWH's anointed transcends even the most adverse and humiliating circumstances.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

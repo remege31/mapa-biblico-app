@@ -1,0 +1,140 @@
+{
+  "id": "baalath_beer",
+  "nombre": "Birra Baalat",
+  "tipo": "ciudad",
+  "lat": 31.244952,
+  "lng": 34.840888,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: città di frontiera di Simeone nel Negev"
+    }
+  ],
+  "descripcion_geo": "Città all'estremità meridionale del territorio di Simeone, nel Negev, identificata in alcuni elenchi biblici paralleli con Ramah del Negev. Il suo nome composto (\"Baal del pozzo\") riflette il substrato Cananeo prima dell'occupazione israelita, dove il culto di Baal era spesso associato a fonti d'acqua vitali nelle aree aride.",
+  "altitud_m": 300,
+  "clima": "Semi-arido: estati molto secche e calde, inverni miti con poche piogge, tipici del Negev settentrionale.",
+  "recursos": [
+    "Pozzo o fonte d'acqua (origine del nome del composto)",
+    "Posizione di confine nell'estremo sud del territorio israeliano"
+  ],
+  "importancia_estrategica": "Baalat-birra segna il limite meridionale del territorio assegnato alla tribù di Simeone, in una zona di transizione verso il deserto del profondo Negev; Il suo nome, che conserva l'elemento 'Baal', è una diretta traccia linguistica della precedente popolazione cananea e del processo di assimilazione e israelitizzazione dei toponimi nelle zone di confine.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_baalat_beer",
+      "nombre": "Popolazione cananea originaria",
+      "descripcion": "Abitanti prima dell'occupazione israeliana che diedero al luogo il nome composto dall'elemento 'Baal', associato al culto Cananeo della fertilità e delle fonti d'acqua.",
+      "religion": "Politeismo Cananeo: culto di Baal",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "simeonitas_baalat_beer",
+      "nombre": "Tribù di Simeone",
+      "descripcion": "La popolazione israelita si stabilì nell'estremo sud del territorio assegnato, nella zona di confine del Negev che comprende Baalat-birra.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "baalat-beer-ciudad-simeon",
+      "titulo": "Birra Baalat nell'elenco delle città di Simeone",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Il libro di Giosuè registra Baalat-beer tra le ultime città nell'elenco del territorio di Simeone, identificandola esplicitamente come 'Ramah di Negev', confermando il modello di doppia denominazione frequente nella toponomastica delle zone di confine.",
+      "referencias": [
+        "Gs 19:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "baalat-beer-juda-lista-paralela",
+      "titulo": "Menzione parallela nella lista di Giuda",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Un elenco parallelo di città all'estremità meridionale di Giuda include una località dal nome simile (\"Baal\"), che riflette la natura condivisa e talvolta ambigua del confine tra i territori di Giuda e Simeone nell'Negev.",
+      "referencias": [
+        "Gs 15:29"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "baalat-beer-territorio-frontera",
+      "titulo": "Birra Baalat come indicatore di confine tribale",
+      "fecha": "c. 1200–1000 a.C.",
+      "descripcion": "La menzione di Baalat-Beer insieme ad altre città dell'estremo sud serve nel testo biblico come indicatore del limite effettivo della presenza israelita organizzata prima della transizione nel deserto del profondo Negev, un'area di controllo tribale meno stabile.",
+      "referencias": [
+        "Gs 19:1-9"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_baalat_beer",
+      "nombre": "Giosuè",
+      "rol": "Leader della conquista, organizzatore della distribuzione territoriale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dirige l'assegnazione della birra Baalat e delle città dell'estremo sud al territorio della tribù di Simeone nell'ambito della distribuzione generale di Canaan.",
+      "referencias": [
+        "Gs 19:1-9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "simeonitas_baalat_personaje",
+      "nombre": "Clan di Simeone",
+      "rol": "Popolazione tribale dell'estremo sud del territorio israelita",
+      "periodo": "c. 1200–1000 a.C.",
+      "descripcion": "Abitanti della tribù di Simeone si stabilirono nelle città di confine del Negev, tra cui Baalat-beer, al limite della presenza israelita organizzata verso il deserto.",
+      "referencias": [
+        "Gs 19:1-9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "poblacion_cananea_baal_beer",
+      "nombre": "Popolazione cananea originaria",
+      "rol": "Abitanti prima dell'occupazione israeliana",
+      "periodo": "Anterior a c. 1200 a.C.",
+      "descripcion": "Da essi deriva il nome del luogo legato al culto Cananeo di Baal associato alle fonti d'acqua, vestigia linguistica della precedente presenza cananea nella regione.",
+      "referencias": [
+        "Gs 19:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La birra Baalat è priva di un proprio sviluppo narrativo; Il suo principale valore è storico-linguistico, in quanto testimonianza della persistenza dei nomi Cananei composti con l'elemento 'Baal' anche dopo l'assimilazione israelitica del territorio, fenomeno comune nella toponomastica biblica del Negev e riflesso della lenta e mai completa sostituzione culturale e religiosa dell'originaria popolazione cananea.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (substrato originario, conservato nel toponimo)"
+    ],
+    "mitos": [
+      {
+        "id": "toponimos-baal-persistencia",
+        "nombre": "La persistenza dei toponimi con l'elemento 'Baal' in territorio israeliano",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 19:8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la conservación de nombres cananeos como recordatorio histórico de la conquista incompleta y la necesidad de vigilancia frente a la idolatría",
+          "descripcion": "La tradizione ebraica osserva che la persistenza di toponimi con l'elemento 'Baal' in città già sotto il controllo israelita - come Baalat-birra - serve a ricordare costantemente la necessità di vigilare contro la tentazione idolatrica, poiché il nome stesso del luogo conserva la memoria del precedente culto Cananeo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "I toponimi persistenti funzionano come un avvertimento implicito sulla costante tentazione dell'idolatria cananea anche nel territorio nominalmente yahvista.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

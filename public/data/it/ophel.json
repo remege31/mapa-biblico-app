@@ -1,0 +1,133 @@
+{
+  "id": "ophel",
+  "nombre": "Ofel",
+  "tipo": "ciudad",
+  "lat": 31.7774,
+  "lng": 35.2349,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Collina tra la città di Davide e il Monte del Tempio in Gerusalemme; zona residenziale d'élite e guardia.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Quartiere tra la città di Davide e il Tempio; residenza dei servi del Tempio.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oph_h1",
+      "titulo": "Jotham edifica nell'Ofel",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Il re Jotham di Giuda costruì la porta superiore del Tempio e eseguì molti lavori sul muro dell'Ofel.",
+      "referencias": [
+        "2 Cr 27:3"
+      ],
+      "personajes_clave": [
+        "Jotam"
+      ]
+    },
+    {
+      "id": "oph_h2",
+      "titulo": "Manasse rinforza Ofel",
+      "fecha": "ca. 697-642 a.C.",
+      "descripcion": "Il re Manasse, dopo la sua conversione, costruì un muro esterno dalla città di Davide all'Ofel.",
+      "referencias": [
+        "2 Cr 33:14"
+      ],
+      "personajes_clave": [
+        "Manasés"
+      ]
+    },
+    {
+      "id": "oph_h3",
+      "titulo": "I servitori del Tempio vivevano nell'Ofel",
+      "fecha": "ca. 445 a.C.",
+      "descripcion": "Nella ricostruzione di Neemia, i servitori del Tempio (Nethiniti) vivevano nell'Ofel.",
+      "referencias": [
+        "Ne 3:26",
+        "Ne 11:21"
+      ],
+      "personajes_clave": [
+        "Nehemías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oph_p1",
+      "nombre": "Jotam",
+      "rol": "Re di Giuda",
+      "periodo": "750-735 a.C.",
+      "descripcion": "Realizzò importanti costruzioni a Ofel; Era un re fedele che non entrò nel Tempio in modo improprio.",
+      "referencias": [
+        "2 Cr 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p2",
+      "nombre": "Manasse",
+      "rol": "Re di Giuda",
+      "periodo": "697-642 a.C.",
+      "descripcion": "Dopo la sua conversione in esilio, rafforzò l'Ofel.",
+      "referencias": [
+        "2 Cr 33:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p3",
+      "nombre": "Neemia",
+      "rol": "Governatore",
+      "periodo": "ca. 445-433 a.C.",
+      "descripcion": "Assegnò l'Ofel ai servi del Tempio nella ricostruzione.",
+      "referencias": [
+        "Ne 3:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ofel: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "oph_m1",
+        "nombre": "L'Ofel: tra il re e il Tempio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "L'Ofel è lo spazio intermedio tra la residenza reale (città di Davide) e il luogo di culto (Tempio); simbolo della zona grigia tra potere politico e culto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Ofel è lo spazio intermedio tra la residenza reale (città di Davide) e il luogo di culto (Tempio); simbolo della zona grigia tra potere politico e culto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

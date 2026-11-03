@@ -1,0 +1,147 @@
+{
+  "id": "derbe",
+  "nombre": "Dovere",
+  "tipo": "ciudad",
+  "lat": 37.3578,
+  "lng": 33.2861,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città di confine della Licaonia, nella Galazia meridionale, ai margini dei Monti Tauro.",
+  "altitud_m": 1100,
+  "clima": "continentale-secco",
+  "recursos": [
+    "agricoltura",
+    "allevamento del bestiame"
+  ],
+  "importancia_estrategica": "Ultima tappa del primo viaggio missionario di Paolo prima del ritorno.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "der_h1",
+        "titulo": "Evangelizzazione di Derbe",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Paolo e Barnaba predicano a Derbe e fanno molti discepoli.",
+        "referencias": [
+          "At 14:20-21"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "der_h2",
+        "titulo": "Punto di ritorno del primo viaggio",
+        "fecha": "ca. 47-48 d.C.",
+        "descripcion": "Da Derbe ritornano consolidando chiese: Listra, Iconio, Antiochia della Pisidia.",
+        "referencias": [
+          "At 14:21-23"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "der_h3",
+        "titulo": "Gaio di Derbe",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Gaius, originario di Derbe, accompagna Paolo nel suo terzo viaggio.",
+        "referencias": [
+          "At 20:4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Gayo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "der_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Missionario",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Arrivò a Derbe dopo la lapidazione di Listra; chiesa fondata.",
+        "referencias": [
+          "At 14:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "der_p2",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha accompagnato Paolo nell'evangelizzazione di Derbe.",
+        "referencias": [
+          "At 14:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "der_p3",
+        "nombre": "Gay",
+        "rol": "Paolo Collaboratore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Nato a Derbe, ha accompagnato Paolo nel viaggio in Macedonia.",
+        "referencias": [
+          "At 20:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città di confine dove il Vangelo penetrò senza resistenze documentate; tappa fondamentale del primo viaggio missionario.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "der_m1",
+          "nombre": "La missione senza resistenza",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Derbe accolse il Vangelo in modo pacifico, in contrasto con le persecuzioni nelle città vicine.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Derbe accolse il Vangelo in modo pacifico, in contrasto con le persecuzioni nelle città vicine.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "dedan",
+  "nombre": "Dedan",
+  "tipo": "territorio",
+  "lat": 26.63,
+  "lng": 37.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Oasi e città carovaniera nel nord-ovest dell'Arabia Saudita (l'attuale Al-'Ula). Centro del commercio dell'incenso tra l'Arabia e il Mediterraneo.",
+  "altitud_m": 800,
+  "clima": "arido",
+  "recursos": [
+    "incenso",
+    "commercio di carovane",
+    "date"
+  ],
+  "importancia_estrategica": "Nodo chiave della via dell'incenso; I profeti la menzionano come potenza commerciale del sud.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ded_h1",
+      "titulo": "I Dedaniti: commercianti di carovane",
+      "fecha": "ca. 600-550 a.C.",
+      "descripcion": "Ezechiele menziona i Dedaniti come commercianti che forniscono a Tiro sedie e tappeti.",
+      "referencias": [
+        "Ez 27:15,20"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "ded_h2",
+      "titulo": "Geremia profetizza contro Dedan",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Geremia inserisce Dedan negli oracoli contro le nazioni arabe che berranno il calice del giudizio divino.",
+      "referencias": [
+        "Ger 25:23",
+        "Ger 49:8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "ded_h3",
+      "titulo": "Isaia e le carovane di Dedan",
+      "fecha": "ca. 740-700 a.C.",
+      "descripcion": "Isaia menziona le carovane di Dedan che si rifugiano nelle foreste dell'Arabia in fuga dal nemico.",
+      "referencias": [
+        "Is 21:13"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ded_p1",
+      "nombre": "Ezechiele",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Ha menzionato i prodotti Dedán nella descrizione commerciale Tiro.",
+      "referencias": [
+        "Ez 27:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p2",
+      "nombre": "Geremia",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Pronunciò un oracolo contro Dedan nei giudizi sulle nazioni.",
+      "referencias": [
+        "Ger 49:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p3",
+      "nombre": "Isaia",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Ha descritto le carovane dedanite in fuga come un segno di giudizio sull'Arabia.",
+      "referencias": [
+        "Is 21:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dedan: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ded_m1",
+        "nombre": "Le vie dell'incenso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dedan era il principale nodo della via dell'incenso in Arabia; i profeti lo usano come simbolo del lusso e del commercio che cadrà anche sotto il giudizio divino.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dedan era il principale nodo della via dell'incenso in Arabia; i profeti lo usano come simbolo del lusso e del commercio che cadrà anche sotto il giudizio divino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

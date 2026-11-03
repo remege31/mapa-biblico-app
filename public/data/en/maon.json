@@ -1,0 +1,168 @@
+{
+  "id": "maon",
+  "nombre": "Maon",
+  "tipo": "ciudad",
+  "lat": 31.41666666666668,
+  "lng": 35.1166666666667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Home of Nabal and Abigail, refuge of David"
+    }
+  ],
+  "descripcion_geo": "City at the southern end of the mountainous region of Judah, south of Hebron, on the edge of the homonymous desert that extends to the southeast. Close to Carmel, where Nabal had his extensive flocks, in a transition zone between arable land and desert suitable for extensive grazing.",
+  "altitud_m": 850,
+  "clima": "Semi-arid — very dry and hot summers, cold winters with little rain, on the southern edge of the Judah desert.",
+  "recursos": [
+    "Extensive grazing of sheep and goats (Nabal's flocks in Carmel)",
+    "Desert terrain suitable for concealment",
+    "Border position at the southern end of Judah"
+  ],
+  "importancia_estrategica": "Maon is relevant primarily for his connection to the Nabal and Abigail episode, which marks a turning point in David's character development as a future king: his initial disposition toward violent revenge is deflected by the diplomatic intervention of Abigail, who later becomes his wife. The desert of Maon also figures among David's refuges during his escape from Saul.",
+  "otros_habitantes": [
+    {
+      "id": "calebitas_maon",
+      "nombre": "Clan of Caleb (line of Nabal)",
+      "descripcion": "Calebite family that owns extensive flocks in the Carmel region, near Maon; Nabal, described as harsh and of bad habits, belongs to this lineage.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    },
+    {
+      "id": "pastores_maon",
+      "nombre": "Shepherds and servants of Nabal",
+      "descripcion": "Numerous servants and shepherds at the service of Nabal who guarded his flocks in the desert of Maon and the surroundings of Carmel.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-protege-rebanos-nabal",
+      "titulo": "David and his men protect Nabal's flocks",
+      "fecha": "c. 1015 BC",
+      "descripcion": "While hiding in the nearby desert, David and his men provide informal protection to Nabal's shepherds and flocks in Carmel, causing them no harm or stealing anything from them, an implicit expectation of reciprocal hospitality according to desert custom.",
+      "referencias": [
+        "1 Sam 25:4-8",
+        "1 Sam 25:14-16"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "negativa-nabal-ira-david",
+      "titulo": "Nabal rejects David's messengers",
+      "fecha": "c. 1015 BC",
+      "descripcion": "When David sends messengers to ask for provisions in recognition of the protection provided, Nabal insults them and refuses, comparing David to a runaway slave; Furious, David arms himself to destroy Nabal and his entire house.",
+      "referencias": [
+        "1 Sam 25:9-13"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "abigail-intercede-david",
+      "titulo": "Abigail intercedes with David and prevents the massacre",
+      "fecha": "c. 1015 BC",
+      "descripcion": "Informed by a servant, Abigail, Nabal's wife, goes out to meet David with abundant provisions and a calming speech that convinces him not to shed innocent blood; Upon returning, Nabal collapses upon learning what happened and dies ten days later, after which David takes Abigail as his wife.",
+      "referencias": [
+        "1 Sam 25:18-42"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nabal",
+      "nombre": "Nabal",
+      "rol": "Rich Calebite rancher from Maón-Carmel",
+      "periodo": "c. 1015 BC",
+      "descripcion": "Wealthy but tough-willed man ('nabal' means 'fool') who rejects David's request for provision, almost causing a massacre averted only by the intervention of his wife Abigail; He dies shortly after collapsing upon learning what happened.",
+      "referencias": [
+        "1 Sam 25:2-3",
+        "1 Sam 25:36-38"
+      ],
+      "ruta": [
+        "maon"
+      ]
+    },
+    {
+      "id": "abigail",
+      "nombre": "Abigail",
+      "rol": "Wife of Nabal, later wife of David",
+      "periodo": "hierro_2",
+      "descripcion": "Woman described as sensible and beautiful who prevents the massacre of her house with her diplomatic intervention, a gesture that David explicitly recognizes as providential; After Nabal's death, she becomes one of David's wives.",
+      "referencias": [
+        "1 Sam 25:3",
+        "1 Sam 25:18-35",
+        "1 Sam 25:39-42"
+      ],
+      "ruta": [
+        "maon",
+        "hebron"
+      ]
+    },
+    {
+      "id": "david_maon",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Initially set on violent revenge against Nabal, he is diverted from that course by Abigail's intervention, an episode that David himself recognizes as a providential avoidance of an act that would have compromised his moral integrity.",
+      "referencias": [
+        "1 Sam 25:21-22",
+        "1 Sam 25:32-34"
+      ],
+      "ruta": [
+        "ziph",
+        "maon",
+        "engedi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Maon is the scene of one of the episodes of greatest character development in the David cycle prior to his reign: the temptation of violent personal revenge, contained not by his own self-control but by Abigail's providential mediation. The story reinforces the theological idea that the future king of Israel must learn to trust that YHWH will do justice in his time, without needing to shed innocent blood to defend his honor.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "abigail-intercesion-mito",
+        "nombre": "Abigail's intercession as providential containment of revenge",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 25:1-42",
+          "fuente_secundaria": "Talmud Babilónico, Meguilá 14a (Abigail contada entre las siete profetisas de Israel)",
+          "descripcion": "Rabbinic tradition elevates Abigail to the status of one of the seven prophetesses of Israel, valuing her speech to David not only as skillful diplomacy but as genuine prophetic insight that anticipates David's future reign and protects him from bloodguilt that would have compromised his legitimacy.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Abigail's intervention is interpreted as a providential instrument that preserves the moral purity of YHWH's anointed future in the face of an act of personal vengeance.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 25:1-42 (recepción patrística de Abigail como modelo de prudencia y paz)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que presentan a Abigail como ejemplo de sabiduría femenina que previene el derramamiento de sangre",
+          "descripcion": "Ancient Christian tradition values ​​Abigail as a figure of prudence and peacemaking mediation, sometimes read typologically in relation to intercession that averts judgment or wrath, although without developing the explicit prophetic status attributed to her by rabbinic tradition.",
+          "similitudes": "He shares the positive assessment of Abigail's role as a decisive moral agent who prevents an act of unjustified violence.",
+          "diferencias": "The Christian tradition does not usually attribute formal prophetic status to it as the rabbinic tradition does.",
+          "significado_teologico": "The episode is read as an example of how prudence and the timely word can divert righteous anger toward a course more in line with God's will.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as a central figure in the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

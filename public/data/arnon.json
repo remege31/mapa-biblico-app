@@ -1,0 +1,136 @@
+{
+  "id": "arnon",
+  "nombre": "Río Arnón",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.43,
+  "lng": 35.68,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 25,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Profundo cañón y río que desemboca en el mar Muerto por el este; frontera entre Moab y los amorreos.",
+  "altitud_m": -80,
+  "clima": "árido",
+  "recursos": [
+    "agua",
+    "pesca",
+    "paso estratégico"
+  ],
+  "importancia_estrategica": "Frontera natural del Transjordán; límite entre el territorio moabita y el amorreo que Israel debía cruzar.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "arn_h1",
+      "titulo": "Israel cruza el Arnón",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israel cruza el río Arnón en su avance por el Transjordán hacia Canaán, entrando en territorio amorreo.",
+      "referencias": [
+        "Nm 21:13-14",
+        "Dt 2:24"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h2",
+      "titulo": "El Arnón como frontera prometida",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dios fija el Arnón como la frontera sur del territorio que Israel conquistará al este del Jordán.",
+      "referencias": [
+        "Dt 3:8",
+        "Jos 12:2"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h3",
+      "titulo": "El Libro de las Guerras del Señor",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Un antiguo poema citado en el Libro de las Guerras del Señor menciona el Arnón como escenario de las batallas de Israel.",
+      "referencias": [
+        "Nm 21:14-15"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "arn_p1",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condujo a Israel a través del Arnón en la marcha hacia Canaán.",
+      "referencias": [
+        "Nm 21:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p2",
+      "nombre": "Sehón rey amorreo",
+      "rol": "Rey amorreo de Hesbón",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Rechazó el paso de Israel y fue derrotado; su territorio (norte del Arnón) fue dado a Rubén y Gad.",
+      "referencias": [
+        "Nm 21:21-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p3",
+      "nombre": "Mesa rey de Moab",
+      "rol": "Rey moabita",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "La Estela de Mesa menciona el Arnón como frontera norte de Moab.",
+      "referencias": [
+        "2 Re 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El Arnón fue el primer obstáculo natural que Israel superó en Transjordán; su cruce inauguró la secuencia de victorias que preparó la conquista de Canaán.",
+    "religiones_presentes": [
+      "paganismo_amorreo",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "arn_m1",
+        "nombre": "El cruce del Arnón",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El cruce del Arnón inicia la conquista del Transjordán; prefigura el cruce del Jordán.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El cruce del Arnón inicia la conquista del Transjordán; prefigura el cruce del Jordán.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "red_sea",
+  "nombre": "Mar Rosso",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 27.09,
+  "lng": 34.77,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "bronzo tardo"
+    }
+  ],
+  "descripcion_geo": "Mare stretto tra l'Africa e la penisola arabica. Nell'AT, lo 'Yam Suf' (Mare dei Canneti), teatro del passaggio miracoloso dell'esodo.",
+  "altitud_m": 0,
+  "clima": "desertico-tropicale",
+  "recursos": [
+    "pesca",
+    "commercio marittimo",
+    "sale"
+  ],
+  "importancia_estrategica": "Confine naturale tra Egitto e Arabia; scena del miracolo della fondazione della città di Israele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "red_h1",
+      "titulo": "Il passaggio miracoloso del Mar Rosso",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Mosè allunga l'asta e il mare si divide; Israele attraversa sulla terraferma mentre l'esercito egiziano muore nelle acque.",
+      "referencias": [
+        "Es 14:21-31"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "red_h2",
+      "titulo": "La canzone di Mosè e Miriam",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Dopo il passaggio del mare, Mosè canta il canto della vittoria e Miriam danza con i tamburelli celebrando la salvezza del Signore.",
+      "referencias": [
+        "Es 15:1-21"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "red_h3",
+      "titulo": "Il Mar Rosso nel NT: tipo di battesimo",
+      "fecha": "ca. 50-55 d.C.",
+      "descripcion": "Paolo interpreta la traversata del Mar Rosso come una sorta di battesimo cristiano: tutti furono 'battezzati in Mosè nel mare'.",
+      "referencias": [
+        "1 Cor 10:1-2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "red_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Stese la verga sul mare; la sua fede nel momento più critico ha salvato l'intero Israele.",
+      "referencias": [
+        "Es 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p2",
+      "nombre": "Miriam",
+      "rol": "Profetessa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Ha guidato il canto di vittoria delle donne israelite dopo il passaggio del mare.",
+      "referencias": [
+        "Es 15:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p3",
+      "nombre": "faraone",
+      "rol": "Re di Egitto",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Il suo esercito inseguì Israele in mare ed egli morì nelle acque.",
+      "referencias": [
+        "Es 14:28"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Mar Rosso è lo scenario dell'evento fondatore di Israele: l'esodo. Il suo passo miracoloso è citato in tutta la Bibbia come paradigma della salvezza divina.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "red_m1",
+        "nombre": "Il passaggio del Mar Rosso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "L'attraversamento del Mar Rosso è l'evento fondativo del popolo di Dio: la nascita di Israele come nazione libera.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'attraversamento del Mar Rosso è l'evento fondativo del popolo di Dio: la nascita di Israele come nazione libera.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo lo interpreta come una sorta di battesimo cristiano (1 Cor 10,1-2); Ebrei lo cita come un atto di fede (Eb 11:29).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo lo interpreta come una sorta di battesimo cristiano (1 Cor 10,1-2); Ebrei lo cita come un atto di fede (Eb 11:29).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 26,63-66",
+          "fuente_secundaria": "",
+          "descripcion": "Il Corano narra il passaggio del mare di Musa (Mosè) e l'annegamento del Faraone (Cor 26,63-66).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il Corano narra il passaggio del mare di Musa (Mosè) e l'annegamento del Faraone (Cor 26,63-66).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

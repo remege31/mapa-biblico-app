@@ -1,0 +1,153 @@
+{
+  "id": "jazer",
+  "nombre": "Jazer",
+  "tipo": "ciudad",
+  "lat": 31.94352951689796,
+  "lng": 35.72776961157128,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquered from the Amorites, assigned to Gad"
+    }
+  ],
+  "descripcion_geo": "City in Gilead, in Amorite territory conquered by Israel, later assigned to the tribe of Gad and also designated a Levitical city, known in the biblical text for the fertility of its surrounding region, especially suitable for grazing and viticulture.",
+  "altitud_m": 750,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead highlands.",
+  "recursos": [
+    "Extensive grazing land (reason for Reuben and Gad's request)",
+    "Vineyards (mentioned in the prophetic oracles against Moab)",
+    "Levitical city within the territory of Gad"
+  ],
+  "importancia_estrategica": "Jazer is one of the cities whose pastoral fertility specifically motivates the request of the tribes of Reuben and Gad to settle in Transjordan rather than crossing into Canaan proper; Centuries later, its agricultural prosperity, especially wine, becomes a topic of lament in the prophetic oracles of judgment against Moab, which recovers the region in later periods.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_jazer",
+      "nombre": "Amorites",
+      "descripcion": "Original town of Jazer under the kingdom of Sihon, conquered by Israelite explorers before the decisive battle against the rest of the Amorite kingdom.",
+      "religion": "Amorite polytheism",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "gaditas_jazer",
+      "nombre": "Tribe of Gad",
+      "descripcion": "Beneficiary of the Jazer land allocation, specifically requested for its suitability for grazing the tribe's extensive flocks.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "exploradores-toman-jazer",
+      "titulo": "Israel takes Jazer before the battle against Sihon",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Israel sends scouts who take Jazer and its villages, expelling the Amorites who lived there, an episode that precedes the decisive battle of Yahas against the bulk of Sihon's army.",
+      "referencias": [
+        "Num 21:32"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ruben-gad-solicitan-jazer",
+      "titulo": "Reuben and Gad request Jazer for their pastures",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Seeing that the land of Jazer and Gilead was suitable for livestock, the tribes of Reuben and Gad, who had numerous livestock, request Moses to settle in this region of Transjordan instead of receiving inheritance on the other side of the Jordan, a request that Moses finally grants under the condition that their warriors cross first to fight alongside the other tribes.",
+      "referencias": [
+        "Num 32:1-5",
+        "Num 32:34-36"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "isaias-jeremias-vinedos-jazer",
+      "titulo": "The vineyards of Jazer in the prophetic oracles against Moab",
+      "fecha": "c. 740–600 BC",
+      "descripcion": "Both Isaiah and Jeremiah mention the vineyards of Jazer in their respective oracles of lament against Moab, linking the historical fertility of the region—now under Moabite control or influence—with the announced loss of its agricultural prosperity.",
+      "referencias": [
+        "Isa 16:8-9",
+        "Jer 48:32"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_jazer",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He grants the request of Reuben and Gad to settle in the region of Jazer and Gilead for its pastoral suitability, under the condition that his warriors first participate in the conquest of Canaan together with the other tribes.",
+      "referencias": [
+        "Num 32:1-33"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gaditas_jazer_personaje",
+      "nombre": "Tribe of Gad",
+      "rol": "Possessors of the fertile region of Jazer",
+      "periodo": "Desde c. 1400 BC",
+      "descripcion": "They request and receive Jazer as part of their territorial inheritance in Transjordan, taking advantage of the fertility of their grazing lands and, later, their vineyards.",
+      "referencias": [
+        "Num 32:1-5",
+        "Num 32:34-36"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_jeremias_jazer",
+      "nombre": "Isaiah and Jeremiah",
+      "rol": "Prophets by Judah",
+      "periodo": "c. 740–600 BC",
+      "descripcion": "In their respective oracles they lament the loss of Jazer's wine-growing prosperity as part of the judgment announced against the Moabite territory that had recovered the region.",
+      "referencias": [
+        "Isa 16:8-9",
+        "Jer 48:32"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jazer illustrates the entire territorial pattern of Transjordan throughout biblical history: sought after and obtained for its pastoral fertility in Moses times, it prospers under Gadite Israelite control, and eventually becomes a source of prophetic lament when its productive wine region passes into Moabite hands, repeating the same cycle of possession, loss, and judgment that characterizes so many other localities in this contested border strip.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Amorite polytheism (original substrate)",
+      "Moabite polytheism (intermittent later control)"
+    ],
+    "mitos": [
+      {
+        "id": "peticion-tierra-pastoril-jazer",
+        "nombre": "The request for pastoral land of Reuben and Gad as a precedent for territorial negotiation",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 32:1-33",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la negociación entre Moisés y las tribus de Rubén y Gad como modelo de diálogo entre necesidades particulares y responsabilidad colectiva",
+          "descripcion": "Jewish tradition values ​​the episode of the petition of Jazer and Gilead by Reuben and Gad as an example of legitimate negotiation between particular tribal interests (the pastoral suitability of the land) and collective responsibility towards the rest of Israel (the obligatory participation in the conquest of Canaan), establishing a balanced model where self-interest does not exclude commitment to the larger community.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode teaches that the particular needs and preferences of a group within Israel can be legitimately addressed as long as they do not compromise the shared responsibility towards the town as a whole.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

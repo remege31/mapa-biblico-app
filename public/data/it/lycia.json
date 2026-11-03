@@ -1,0 +1,242 @@
+{
+  "id": "lycia",
+  "nombre": "Licia",
+  "tipo": "territorio",
+  "lat": 36.64,
+  "lng": 29.98,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione costiera dell'Asia Minore sudoccidentale, con città come Pátara e Mira. Scenario di scalo per il viaggio di Paolo a Roma.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyc_h1",
+      "titulo": "Paolo a Pátara de Licia: percorso verso Gerusalemme",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Da Mileto, Paolo e i suoi compagni arrivano a Pátara e cambiano nave per navigare verso Fenicia.",
+      "referencias": [
+        "At 21:1"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyc_h2",
+      "titulo": "Il cambio di barca a Mira de Licia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Durante il viaggio di Paolo verso Roma, il centurione Giulio si trasferisce a Mira de Licia su una nave alessandrina diretta in Italia.",
+      "referencias": [
+        "At 27:5-6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "lyc_h3",
+      "titulo": "Nicola di Mira: vescovo di Licia",
+      "fecha": "ca. s. IV d.C.",
+      "descripcion": "San Nicola, vescovo di Mira in Licia, è il santo patrono dei bambini e la fonte storica della tradizione di Babbo Natale.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Nicolás de Mira"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyc_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Ha attraversato la Licia in due dei suoi viaggi: verso Gerusalemme e verso Roma.",
+      "referencias": [
+        "At 21:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p2",
+      "nombre": "Giulio il centurione",
+      "rol": "Ufficiale romano",
+      "periodo": "ca. 60 d.C.",
+      "descripcion": "Responsabile del trasferimento di Paolo a Roma; A Mira ha fatto il trasferimento decisivo.",
+      "referencias": [
+        "At 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p3",
+      "nombre": "Nicola di Mira",
+      "rol": "Vescovo",
+      "periodo": "ca. s. IV d.C.",
+      "descripcion": "Vescovo di Mira in Licia; La sua generosità divenne una leggenda universale.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Licia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "lyc_m1",
+        "nombre": "San Nicola di Mira",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il vescovo Nicola di Mira (Licia) era così generoso con i poveri che il suo ricordo divenne la leggenda di Babbo Natale.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il vescovo Nicola di Mira (Licia) era così generoso con i poveri che il suo ricordo divenne la leggenda di Babbo Natale.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyc_h1",
+        "titulo": "Paolo a Pátara de Licia: percorso verso Gerusalemme",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Da Mileto, Paolo e i suoi compagni arrivano a Pátara e cambiano nave per navigare verso Fenicia.",
+        "referencias": [
+          "At 21:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyc_h2",
+        "titulo": "Il cambio di barca a Mira de Licia",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "Durante il viaggio di Paolo verso Roma, il centurione Giulio si trasferisce a Mira de Licia su una nave alessandrina diretta in Italia.",
+        "referencias": [
+          "At 27:5-6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio"
+        ]
+      },
+      {
+        "id": "lyc_h3",
+        "titulo": "Nicola di Mira: vescovo di Licia",
+        "fecha": "ca. s. IV d.C.",
+        "descripcion": "San Nicola, vescovo di Mira in Licia, è il santo patrono dei bambini e la fonte storica della tradizione di Babbo Natale.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Nicolás de Mira"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyc_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Ha attraversato la Licia in due dei suoi viaggi: verso Gerusalemme e verso Roma.",
+        "referencias": [
+          "At 21:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p2",
+        "nombre": "Giulio il centurione",
+        "rol": "Ufficiale romano",
+        "periodo": "ca. 60 d.C.",
+        "descripcion": "Responsabile del trasferimento di Paolo a Roma; A Mira ha fatto il trasferimento decisivo.",
+        "referencias": [
+          "At 27:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p3",
+        "nombre": "Nicola di Mira",
+        "rol": "Vescovo",
+        "periodo": "ca. s. IV d.C.",
+        "descripcion": "Vescovo di Mira in Licia; La sua generosità divenne una leggenda universale.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Licia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "lyc_m1",
+          "nombre": "San Nicola di Mira",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Il vescovo Nicola di Mira (Licia) era così generoso con i poveri che il suo ricordo divenne la leggenda di Babbo Natale.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il vescovo Nicola di Mira (Licia) era così generoso con i poveri che il suo ricordo divenne la leggenda di Babbo Natale.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

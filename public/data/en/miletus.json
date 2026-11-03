@@ -1,0 +1,147 @@
+{
+  "id": "miletus",
+  "nombre": "Miletus",
+  "tipo": "ciudad",
+  "lat": 37.53,
+  "lng": 27.27,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Port city at the mouth of the Meander River, on the Aegean coast of Asia Minor.",
+  "altitud_m": 10,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "wool"
+  ],
+  "importancia_estrategica": "Important philosophical and commercial center of ancient Ionia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mil_h1",
+        "titulo": "Farewell speech by Paul",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul summons the elders of Ephesus to Miletus and says goodbye with tears.",
+        "referencias": [
+          "Acts 20:17-38"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "ancianos de Éfeso"
+        ]
+      },
+      {
+        "id": "mil_h2",
+        "titulo": "Imprisonment prediction",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul announces that they will not see his face again and entrusts them with the flock.",
+        "referencias": [
+          "Acts 20:25-31"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mil_h3",
+        "titulo": "Sick trophic in Miletus",
+        "fecha": "ca. 65 AD",
+        "descripcion": "Paul leaves Trophimus sick at Miletus during the fourth voyage.",
+        "referencias": [
+          "2 Tim 4:20"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Trófimo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mil_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He gave his most moving farewell speech to the Ephesian elders at Miletus.",
+        "referencias": [
+          "Acts 20:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mil_p2",
+        "nombre": "Elders of Ephesus",
+        "rol": "Church leaders",
+        "periodo": "s. I AD",
+        "descripcion": "They received Paul's last pastoral instructions in Miletus.",
+        "referencias": [
+          "Acts 20:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mil_p3",
+        "nombre": "Trophimus",
+        "rol": "Paul Contributor",
+        "periodo": "s. I AD",
+        "descripcion": "Gentle companion of Paul, left ill in Miletus.",
+        "referencias": [
+          "2 Tim 4:20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Ancient Ionian metropolis known for its philosophers; in the NT, scene of Paul's pastoral farewell.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "mil_m1",
+          "nombre": "The shepherd who says goodbye",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Paul's speech at Miletus is his only recorded sermon before Christian leaders; model of the shepherd who watches over the flock.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paul's speech at Miletus is his only recorded sermon before Christian leaders; model of the shepherd who watches over the flock.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "gog",
+  "nombre": "Gog (Tierra de Magog)",
+  "tipo": "territorio",
+  "lat": 46.0,
+  "lng": 47.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Entidad geopolítica del extremo norte mencionada en Ezequiel 38-39 y en el Apocalipsis; identificada con los pueblos escitas o con un símbolo escatológico.",
+  "altitud_m": 200,
+  "clima": "continental",
+  "recursos": [
+    "metales",
+    "ganado",
+    "comercio nórdico"
+  ],
+  "importancia_estrategica": "Símbolo de la potencia hostil del norte que atacará a Israel en el tiempo del fin; nombre escatológico por excelencia.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gog_h1",
+      "titulo": "La profecía de Ezequiel contra Gog",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezequiel profetiza que 'Gog de la tierra de Magog, príncipe de Ros, Mesec y Tubal' invadirá Israel en los últimos días, pero Dios lo destruirá.",
+      "referencias": [
+        "Ez 38-39"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "gog_h2",
+      "titulo": "La derrota de Gog: los pájaros y las bestias",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "El ejército de Gog será destruido en los montes de Israel; las aves y las bestias devorarán sus cadáveres en el gran festín de Dios.",
+      "referencias": [
+        "Ez 39:17-20"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "gog_h3",
+      "titulo": "Gog y Magog en el Apocalipsis",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "Al final del milenio, Satanás reunirá a las naciones 'Gog y Magog' para la batalla final; serán consumidos por fuego del cielo.",
+      "referencias": [
+        "Ap 20:7-10"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gog_p1",
+      "nombre": "Gog",
+      "rol": "Príncipe escatológico del norte",
+      "periodo": "Tiempo del fin",
+      "descripcion": "Símbolo de la potencia enemiga de Dios y de Israel en el tiempo escatológico.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gog_p2",
+      "nombre": "Ezequiel",
+      "rol": "Profeta del exilio",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Pronunció los oráculos más detallados del AT contra Gog y Magog.",
+      "referencias": [
+        "Ez 38:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gog_p3",
+      "nombre": "Juan el Apóstol",
+      "rol": "Profeta del Apocalipsis",
+      "periodo": "s. I d.C.",
+      "descripcion": "Retomó los nombres Gog y Magog de Ezequiel para la batalla escatológica final.",
+      "referencias": [
+        "Ap 20:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gog (Tierra de Magog): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gog_m1",
+        "nombre": "Gog y Magog: el enemigo final",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La profecía de Ezequiel sobre Gog es la mayor visión escatológica del AT: el ataque final contra Israel termina con la destrucción milagrosa del enemigo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La profecía de Ezequiel sobre Gog es la mayor visión escatológica del AT: el ataque final contra Israel termina con la destrucción milagrosa del enemigo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 20:7-10",
+          "fuente_secundaria": "",
+          "descripcion": "El Apocalipsis identifica Gog y Magog con todas las naciones que Satanás reúne para la batalla final antes del juicio universal (Ap 20:7-10).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Apocalipsis identifica Gog y Magog con todas las naciones que Satanás reúne para la batalla final antes del juicio universal (Ap 20:7-10).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 18:94-98",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam identifica a Yajuj y Majuj (Gog y Magog) con pueblos del fin que serán liberados antes del día del juicio (Cor 18:94-98).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam identifica a Yajuj y Majuj (Gog y Magog) con pueblos del fin que serán liberados antes del día del juicio (Cor 18:94-98).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

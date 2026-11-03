@@ -1,0 +1,175 @@
+{
+  "id": "socoh",
+  "nombre": "Soko",
+  "tipo": "ciudad",
+  "lat": 31.68123465358001,
+  "lng": 34.97639817516712,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Philistine camp, battle of David and Goliath"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomonic administrative district"
+    }
+  ],
+  "descripcion_geo": "City in the western Shephelah of Judah, in the Elah Valley, near Azekah, in the position where the Philistine army camped against the Israelite forces in the episode of the confrontation between David and Goliath.",
+  "altitud_m": 360,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah.",
+  "recursos": [
+    "Agricultural lands of the Valley of Elah",
+    "Strategic position in the valley disputed between Israel and Philistia",
+    "Integrated into the Solomonic administrative system"
+  ],
+  "importancia_estrategica": "Soco marks, together with Azeka, the limits of the Philistine camp in the episode of David and Goliath, one of the most famous stories of the Old Testament; Centuries later, under Solomon, the city was integrated as part of an administrative district of the kingdom, reflecting the subsequent territorial consolidation of the united monarchy over an area that in Saul's time was still disputed land with the Philistines.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_socoh",
+      "nombre": "Philistine army",
+      "descripcion": "Philistine forces camping between Soco and Azekah to confront the Israelite army in the Valley of Elah, including Gath's champion Goliath.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1020 BC"
+    },
+    {
+      "id": "judaitas_socoh",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Jewish population of Soco, a city later integrated into the administrative district system of Solomon.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "campamento-filisteo-socoh",
+      "titulo": "The Philistine army camps in Soco",
+      "fecha": "c. 1020 BC",
+      "descripcion": "The Philistines gather their armies for battle at Soco, belonging to Judah, and camp between Soco and Azekah, in Ephesh-damim, while Saul and the men of Israel camp in the Valley of Elah in front of them.",
+      "referencias": [
+        "1 Sam 17:1-3"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "goliat-desafio-socoh",
+      "titulo": "Goliath launches his challenge from the Soco camp",
+      "fecha": "c. 1020 BC",
+      "descripcion": "For forty days, the Philistine champion Goliath of Gath leaves the camp located in Soco to challenge an Israelite combatant in a single duel, a challenge that no soldier of Saul dares to accept until the arrival of David.",
+      "referencias": [
+        "1 Sam 17:4-11",
+        "1 Sam 17:16"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "socoh-distrito-salomon",
+      "titulo": "Soco in the administrative district of Ben-Heser",
+      "fecha": "c. 970–931 BC",
+      "descripcion": "Solomon organizes the kingdom into twelve administrative districts; Soco is integrated into one of them under the responsibility of Ben-Heser, in charge of the monthly supply of the royal court.",
+      "referencias": [
+        "1 Kgs 4:10"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goliat_socoh",
+      "nombre": "Goliath by Gath",
+      "rol": "Champion of the Philistine army",
+      "periodo": "c. 1020 BC",
+      "descripcion": "Giant Philistine warrior who challenges the Israelite army for forty days from the camp located between Soco and Azekah, until he is defeated by David with a sling.",
+      "referencias": [
+        "1 Sam 17:4-51"
+      ],
+      "ruta": [
+        "socoh"
+      ]
+    },
+    {
+      "id": "david_socoh",
+      "nombre": "David",
+      "rol": "Young shepherd, future king by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "He arrives at the Israelite camp in front of Soco, sent by his father Jesse to bring supplies to his brothers, and there he accepts Goliath's challenge that no one else dared to face.",
+      "referencias": [
+        "1 Sam 17:12-51"
+      ],
+      "ruta": [
+        "bethlehem",
+        "socoh"
+      ]
+    },
+    {
+      "id": "ben_heser_socoh",
+      "nombre": "Ben-Heser",
+      "rol": "Soco District Administrative Officer",
+      "periodo": "c. 970–931 BC",
+      "descripcion": "Responsible for the Solomonic administrative district that included Soco, in charge of organizing the monthly supplies of the royal court.",
+      "referencias": [
+        "1 Kgs 4:10"
+      ],
+      "ruta": [
+        "socoh"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Soco is the background setting for one of the best-known Old Testament stories, in which David, before being publicly anointed as Saul's successor, demonstrates that victory depends on trust in YHWH and not conventional weaponry: he confronts Goliath by explicitly declaring that the battle belongs to YHWH. The episode functions as a narrative preview of all later Davidic theology about the strength that comes from faith and not from brute military power.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Philistine polytheism — cult of Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "david-goliat-mito",
+        "nombre": "David and Goliath: faith versus brute force",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 17:1-58",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la declaración de David ('Tú vienes a mí con espada... mas yo vengo a ti en el nombre de YHWH') como fórmula paradigmática de confianza",
+          "descripcion": "Rabbinic tradition extensively develops the episode as a demonstration that Israel's true strength lies in fidelity to YHWH and not in weaponry or physical stature, turning David into an eternal model of the 'small' who defeats the 'great' through faith and cunning placed at the service of divine trust.",
+          "similitudes": "It shares with Christianity and Islam the recognition of the episode as a demonstration of divine power over human strength.",
+          "diferencias": null,
+          "significado_teologico": "The victory of David confirms that YHWH saves not with sword or spear, but according to his own will, regardless of the disparity of forces.",
+          "posible_relacion_cultural": "Shared tradition of the cycle of David as a central figure of sacred history in the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 17:1-58 (recepción patrística y popular como arquetipo del débil que vence al fuerte mediante la fe)",
+          "fuente_secundaria": "Comentarios patrísticos y tradición iconográfica cristiana que retoman a David como tipo de Cristo venciendo al poder del mal",
+          "descripcion": "The popular and patristic Christian tradition turns the episode into a universal archetype of faith that defeats brute force, and in some typological readings it sees in David a foretaste of Christ defeating the power of sin and death symbolically represented by Goliath.",
+          "similitudes": "Share the central reading of the episode as a triumph of faith over material force.",
+          "diferencias": "The Christological typological reading of David as a prefiguration of Christ is a specifically Christian addition absent in the Jewish and Islamic reading.",
+          "significado_teologico": "The story becomes a general figure of the victory of faith and humility over power and pride, applicable both historically and typologically.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as sacred history common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:249-251 (relato de Talut/Saúl y Jalut/Goliat)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la batalla de Talut contra Jalut y la victoria de Dawud (David)",
+          "descripcion": "The Quran narrates a parallel version of the episode in the context of the army of Talut (identified with Saul): after the river test, a small group of faithful confronts the army of Jalut (Goliath), and it is Dawud who finally kills him, a victory explicitly attributed to the permission and will of God over the number of combatants.",
+          "similitudes": "It shares the essential structure of the story: a numerically inferior but faithful army defeats a superior force thanks to divine intervention, with Dawud as the instrument of final victory.",
+          "diferencias": "The Quranic account frames the episode within the broader narrative of the river ordeal with Talut, absent in the biblical account, and omits the specific topography of Soco and the Elah Valley.",
+          "significado_teologico": "The Quran uses the episode to teach that victory depends on divine permission and not the number of combatants, explicitly citing 'How many times, by the will of God, a small troop defeated a large one!'",
+          "posible_relacion_cultural": "Shared tradition of the cycle of Dawud/David as a prophetic and warrior figure common to Judaism, Christianity and Islam."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

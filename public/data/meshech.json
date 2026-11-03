@@ -1,0 +1,133 @@
+{
+  "id": "meshech",
+  "nombre": "Mesec",
+  "tipo": "territorio",
+  "lat": 46.0,
+  "lng": 47.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Pueblo mencionado junto a Tubal y Gog en las genealogías de Génesis 10 y en los oráculos de Ezequiel; identificado con pueblos del Cáucaso.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Pueblo del norte asociado a Gog y Tubal en la profecía escatológica de Ezequiel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mes_h1",
+      "titulo": "Mesec y Tubal en la genealogía de Noé",
+      "fecha": "ca. s. V a.C.",
+      "descripcion": "En la tabla de las naciones, Mesec y Tubal son hijos de Jafet; representan pueblos del norte del Mediterráneo.",
+      "referencias": [
+        "Gn 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "mes_h2",
+      "titulo": "Ezequiel: Gog, Mesec y Tubal",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezequiel identifica a 'Gog de la tierra de Magog, príncipe de Mesec y Tubal' como el enemigo escatológico del norte.",
+      "referencias": [
+        "Ez 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "mes_h3",
+      "titulo": "Mesec en el Salmo 120",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "El Salmo 120 lamenta: '¡Ay de mí que moro en Mesec!' como imagen de estar entre gente hostil.",
+      "referencias": [
+        "Sal 120:5"
+      ],
+      "personajes_clave": [
+        "autor del salmo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mes_p1",
+      "nombre": "Ezequiel",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Identificó a Mesec como parte de la coalición de Gog en los últimos tiempos.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p2",
+      "nombre": "Gog",
+      "rol": "Príncipe escatológico",
+      "periodo": "Tiempo del fin",
+      "descripcion": "Lidera a Mesec y Tubal en el ataque final contra Israel.",
+      "referencias": [
+        "Ez 38:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p3",
+      "nombre": "Jafet",
+      "rol": "Hijo de Noé",
+      "periodo": "ca. s. V a.C.",
+      "descripcion": "Padre de Mesec y Tubal en la tabla de las naciones.",
+      "referencias": [
+        "Gn 10:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mesec: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "mes_m1",
+        "nombre": "El extremo norte",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Mesec y Tubal representan los pueblos del extremo norte, más allá del mundo conocido; el ataque de Gog desde el norte es el paradigma de la amenaza escatológica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mesec y Tubal representan los pueblos del extremo norte, más allá del mundo conocido; el ataque de Gog desde el norte es el paradigma de la amenaza escatológica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

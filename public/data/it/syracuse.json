@@ -1,0 +1,146 @@
+{
+  "id": "syracuse",
+  "nombre": "Siracusa",
+  "tipo": "ciudad",
+  "lat": 37.0755,
+  "lng": 15.2866,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "La più grande città greca dell'Occidente, sulla costa sud-orientale della Sicilia.",
+  "altitud_m": 10,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "agricoltura",
+    "pesca"
+  ],
+  "importancia_estrategica": "Città-stato greca di enorme importanza storica e culturale.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "syr_h1",
+        "titulo": "Paolo si ferma per tre giorni a Siracusa",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "In rotta verso Roma, la nave Paolo fa uno scalo di tre giorni a Siracusa.",
+        "referencias": [
+          "At 28:12"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_h2",
+        "titulo": "La rotta siciliana",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "Da Siracusa il battello costeggia verso Reggio e poi Puteoli.",
+        "referencias": [
+          "At 28:13"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_h3",
+        "titulo": "La predicazione della tradizione in Sicilia",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "La tradizione locale vuole che Paolo abbia predicato a Siracusa durante la sua sosta.",
+        "referencias": [
+          "Tradición cristiana siciliana"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "syr_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Trascorse tre giorni a Siracusa durante il suo viaggio verso Roma.",
+        "referencias": [
+          "At 28:12"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_p2",
+        "nombre": "Giulio il centurione",
+        "rol": "Paolo Guardiano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha curato lo scalo a Siracusa.",
+        "referencias": [
+          "At 27:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_p3",
+        "nombre": "Archimede",
+        "rol": "Scienziato e matematico",
+        "periodo": "ca. 287-212 a.C.",
+        "descripcion": "Il figlio più famoso di Siracusa; La sua città era un simbolo della grandezza greca in Occidente.",
+        "referencias": [
+          "Historia griega"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Antica metropoli greca con i culti di Atena e Artemide; testimone silenzioso del passo apostolico verso Roma.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "syr_m1",
+          "nombre": "Il passaggio di Paolo attraverso la Sicilia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Sebbene siano solo tre giorni, la tradizione cristiana siciliana onora Paolo come colui che portò il Vangelo sull'isola mentre si recava a Roma.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sebbene siano solo tre giorni, la tradizione cristiana siciliana onora Paolo come colui che portò il Vangelo sull'isola mentre si recava a Roma.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "engedi",
+  "nombre": "Engadi",
+  "tipo": "ciudad",
+  "lat": 31.46152536164766,
+  "lng": 35.39241108242345,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Middle Bronze Age — Victory of Chedorlaomer"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — David Refuge, Judah Desert Oasis"
+    }
+  ],
+  "descripcion_geo": "Fertile oasis on the western coast of the Salt Sea, fed by freshwater springs that descend from the desert cliffs of Judah, creating a vivid contrast between the surrounding aridity and the lush tropical vegetation of the oasis itself, including natural caves in the nearby cliffs.",
+  "altitud_m": -200,
+  "clima": "Desert with oasis — extremely hot and arid in the general environment, but with humid microclimate and dense vegetation in the area irrigated by the springs.",
+  "recursos": [
+    "Permanent freshwater springs",
+    "Tropical and subtropical vegetation (palm trees, balsamic plants)",
+    "Natural refuge caves in the nearby cliffs"
+  ],
+  "importancia_estrategica": "Engadi is one of David's most significant refuges during their escape from Saul thanks to its unique combination of abundant water, vegetation that allows concealment, and a defensible cave system in extreme desert terrain; centuries earlier, it also appears as a point in Chedorlaomer's military campaign in the Abraham cycle.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_engadi",
+      "nombre": "Amorites (inhabitants of Hazezon-tamar)",
+      "descripcion": "Amorite population of the region identified with the ancient name of Engedi ('Hazezon-tamar'), defeated by the Chedorlaomer coalition in the cycle of Abraham.",
+      "religion": "Amorite polytheism",
+      "periodo": "c. 2050 BC (narrative, Abraham era)"
+    },
+    {
+      "id": "judaitas_engadi",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Jewish population of the desert region near Engedi, territory that David travels during his period as a fugitive.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "quedorlaomer-hazezon-tamar",
+      "titulo": "Chedorlaomer defeats the Amorites at Hazezon-tamar",
+      "fecha": "c. 2050 BC (narrativa, época de Abraham)",
+      "descripcion": "In their campaign through Transjordan and the south of Canaan, the coalition of four eastern kings led by Chedorlaomer defeats the Amorites of Hazezon-tamar, identified by biblical tradition with Engedi, an episode prior to the capture of Lot in Sodom.",
+      "referencias": [
+        "Gen 14:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-cueva-engadi-saul",
+      "titulo": "David forgives Saul in a cave in Engedi",
+      "fecha": "c. 1014 BC",
+      "descripcion": "While Saul chases David through the mountain goat cliffs near Engedi, he enters alone to rest precisely in the deepest cave where David and his men were hiding; David stealthily cuts the edge of Saul's cloak but refuses to make any attempt on his life, later showing him proof that he could have killed him without doing so.",
+      "referencias": [
+        "1 Sam 24:1-22"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    },
+    {
+      "id": "cantar-cantares-engadi",
+      "titulo": "Engedi in the Song of Songs",
+      "fecha": "Atribución salomónica tradicional",
+      "descripcion": "The beloved in the Song of Songs compares her lover to 'a cluster of henna flowers in the vineyards of Engedi', using the exceptional fertility of the oasis as a metaphor for beauty and desire in one of the most famous poetic passages in biblical wisdom literature.",
+      "referencias": [
+        "Song 1:14"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_engadi",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "In a cave in Engedi, he has the closest opportunity to eliminate Saul during his entire chase, and instead opts for a symbolic gesture of respect that provokes a momentary recognition of his righteousness from the king himself.",
+      "referencias": [
+        "1 Sam 24:1-22"
+      ],
+      "ruta": [
+        "maon",
+        "engedi"
+      ]
+    },
+    {
+      "id": "saul_engadi",
+      "nombre": "Saul",
+      "rol": "First king of Israel, pursuer of David",
+      "periodo": "hierro_1",
+      "descripcion": "He enters the cave where David is hiding in Engedi unprepared; Upon later discovering David's gesture of mercy, he cries and publicly acknowledges that David is more just than him and that he will reign over Israel.",
+      "referencias": [
+        "1 Sam 24:8-22"
+      ],
+      "ruta": [
+        "engedi"
+      ]
+    },
+    {
+      "id": "quedorlaomer_engadi",
+      "nombre": "Quedorlaomer",
+      "rol": "King of Elam, leader of the eastern coalition",
+      "periodo": "c. 2050 BC (narrativa)",
+      "descripcion": "He defeats the Amorites of Hazezon-tamar (Engedi) in their military campaign prior to the capture of Lot, an early episode that documents the antiquity of organized human presence in the region.",
+      "referencias": [
+        "Gen 14:7"
+      ],
+      "ruta": [
+        "engedi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Engadi condenses in the same space the theological contrast between judgment and grace: scene of ancient military conquest in the cycle of Abraham, providential refuge for the persecuted anointed one in the cycle of David, and finally metaphor of fertility and beauty in the wisdom literature of the Song of Songs. The oasis functions as a recurring symbol of the unexpected provision of life and protection in the midst of the driest desert, reflecting a central motif of biblical theology about sustaining grace in the most hostile places.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Amorite polytheism (original substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "clemencia-david-cueva-engadi",
+        "nombre": "The clemency of David in the cave of Engedi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 24:1-22",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el reconocimiento de Saúl ('tú eres más justo que yo') como momento de lucidez profética sobre el destino real de David",
+          "descripcion": "Jewish tradition values ​​the Engedi episode as a supreme example of moral self-control in the face of the opportunity for legitimate revenge, highlighting that even Saul, in his moment of greatest clarity, explicitly recognizes the justice of David and the inevitability of his future reign, prophetically anticipating what Saul himself refuses to accept at other times.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode confirms that the legitimacy of the future king of Israel is based on moral rectitude demonstrated even in the face of the strongest temptation for personal revenge.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 24:1-22 (recepción patrística sobre el perdón y la paciencia ante la persecución injusta)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que vinculan la conducta de David en Engadi con la enseñanza neotestamentaria sobre amar a los enemigos",
+          "descripcion": "Christian tradition takes up the episode of Engedi, along with the later parallel of Zif, as an Old Testament antecedent of the principle of not returning evil for evil, presenting David as a model of active meekness in the face of unjust persecution.",
+          "similitudes": "It shares with the Jewish reading the exemplary value of moral restraint when faced with the opportunity for revenge.",
+          "diferencias": "The Christian reading tends to generalize the principle as an antecedent to the universal ethics of forgiveness taught by Jesus.",
+          "significado_teologico": "The episode is integrated as an Old Testament prefiguration of the Christian ethics of non-retaliation and active forgiveness towards the persecutor.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as a central figure in the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "italy",
+  "nombre": "Italy",
+  "tipo": "territorio",
+  "lat": 43.53,
+  "lng": 11.31,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Roman"
+    }
+  ],
+  "descripcion_geo": "Mediterranean Peninsula, heart of the Roman Empire. Rome, its capital, is the final destination of Paul's apostolic journey.",
+  "altitud_m": 200,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "trade",
+    "agriculture",
+    "manufacture",
+    "right"
+  ],
+  "importancia_estrategica": "Spiritual capital of the Roman world; Rome as the final goal of Paul and seat of the martyrdom of Peter and Paul.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ita_h1",
+      "titulo": "Paul appeals to Caesar and sails to Italy",
+      "fecha": "ca. 60 AD",
+      "descripcion": "Before the court of Festus, Paul appeals to the emperor; He is sent under guard to Rome by sea.",
+      "referencias": [
+        "Acts 25:11",
+        "Acts 27:1"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Festo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "ita_h2",
+      "titulo": "The shipwreck and arrival in Italy",
+      "fecha": "ca. 60 AD",
+      "descripcion": "After shipwrecking in Malta, Paul finally arrives in Italy and disembarks in Poteoli.",
+      "referencias": [
+        "Acts 28:13-14"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ita_h3",
+      "titulo": "Paul in Rome: two years of free preaching",
+      "fecha": "ca. 61-63 AD",
+      "descripcion": "In Rome, Paul preaches the kingdom of God under house arrest for two years.",
+      "referencias": [
+        "Acts 28:30-31"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ita_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "martyr apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He arrived in Italy as a prisoner; There he wrote letters, preached and was martyred.",
+      "referencias": [
+        "Acts 28:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p2",
+      "nombre": "Peter",
+      "rol": "martyr apostle",
+      "periodo": "ca. 1-67 AD",
+      "descripcion": "According to tradition, he went to Rome and died crucified face down under Nero.",
+      "referencias": [
+        "1 Pet 5:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p3",
+      "nombre": "Aquila and Priscilla",
+      "rol": "Missionaries expelled from Italy",
+      "periodo": "s. I AD",
+      "descripcion": "Jews expelled from Rome by Claudius' edict; Paul found them in Corinth.",
+      "referencias": [
+        "Acts 18:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Rome as the goal and destination of the gospel; his letter to the Romans is the most complete theological treatise in the NT.",
+    "religiones_presentes": [
+      "roman_paganism",
+      "imperial_cult",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ita_m1",
+        "nombre": "Paul in Rome",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The book of Acts ends with Paul preaching freely in Rome; The gospel has reached the center of the world.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The book of Acts ends with Paul preaching freely in Rome; The gospel has reached the center of the world.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ita_nt_h1",
+        "titulo": "Paul arrives in Rome",
+        "fecha": "ca. 61 AD",
+        "descripcion": "Paul arrives in Rome as a prisoner; The brothers go out to welcome him to the Forum of Celery.",
+        "referencias": [
+          "Acts 28:14-16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h2",
+        "titulo": "The letter to the Romans: the gospel for the capital",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul writes the Letter to the Romans before arriving, his most systematic theological work.",
+        "referencias": [
+          "Rom 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h3",
+        "titulo": "The martyrdom of Peter and Paul in Rome",
+        "fecha": "ca. 64-68 AD",
+        "descripcion": "Under Nero, Peter and Paul are martyred in Rome; The blood of the martyrs becomes the seed of the Church.",
+        "referencias": [
+          "Tradición eclesiástica"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ita_nt_p1",
+        "nombre": "Paul",
+        "rol": "martyr apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He arrived in Rome as a prisoner; He preached, wrote and was beheaded.",
+        "referencias": [
+          "Acts 28:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p2",
+        "nombre": "Peter",
+        "rol": "martyr apostle",
+        "periodo": "ca. 1-67 AD",
+        "descripcion": "Martyred in Rome; His tomb in the Vatican is the center of the Catholic Church.",
+        "referencias": [
+          "1 Pet 5:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p3",
+        "nombre": "Nero",
+        "rol": "Roman Emperor Persecutor",
+        "periodo": "54-68 AD",
+        "descripcion": "It triggered the first systemic persecution of Christians in Rome after the fire of 64 AD.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Rome is the final destination of the gospel in Acts and the scene of apostolic martyrdom.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "imperial_cult",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ita_nt_m1",
+          "nombre": "Rome and the gospel",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Acts 1:8",
+            "fuente_secundaria": "",
+            "descripcion": "The book of Acts culminates with Paul preaching freely in the heart of the Roman Empire: the gospel has reached 'to the ends of the earth' (Acts 1:8).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The book of Acts culminates with Paul preaching freely in the heart of the Roman Empire: the gospel has reached 'to the ends of the earth' (Acts 1:8).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

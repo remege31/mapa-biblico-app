@@ -1,0 +1,259 @@
+{
+  "id": "syria",
+  "nombre": "Siria",
+  "tipo": "territorio",
+  "lat": 33.52,
+  "lng": 36.31,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 135,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Hierro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Región al norte de Israel entre el Mediterráneo y el río Éufrates, con Damasco como ciudad principal.",
+  "altitud_m": 700,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "agricultura",
+    "comercio",
+    "artesanía"
+  ],
+  "importancia_estrategica": "Corredor estratégico entre Mesopotamia, Anatolia y Egipto; escenario de guerras y alianzas con Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "syr_h1",
+      "titulo": "Las guerras sirio-israelitas",
+      "fecha": "ca. 850-800 a.C.",
+      "descripcion": "Ben-adad y Hazael, reyes de Siria, hostigan a Israel repetidamente; Eliseo profetiza sobre los reyes sirios.",
+      "referencias": [
+        "2 Re 6-8"
+      ],
+      "personajes_clave": [
+        "Eliseo",
+        "Hazael",
+        "Ben-adad"
+      ]
+    },
+    {
+      "id": "syr_h2",
+      "titulo": "Naamán el sirio curado de lepra",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "El general sirio Naamán se baña siete veces en el Jordán siguiendo la palabra del profeta Eliseo y es sanado.",
+      "referencias": [
+        "2 Re 5"
+      ],
+      "personajes_clave": [
+        "Naamán",
+        "Eliseo"
+      ]
+    },
+    {
+      "id": "syr_h3",
+      "titulo": "Antioquía de Siria: cuna del nombre cristiano",
+      "fecha": "ca. 40-46 d.C.",
+      "descripcion": "En Antioquía de Siria los seguidores de Jesús reciben el nombre 'cristianos' y Pablo lanza sus viajes misioneros.",
+      "referencias": [
+        "Hch 11:26",
+        "Hch 13:1-3"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "syr_p1",
+      "nombre": "Hazael",
+      "rol": "Rey de Siria",
+      "periodo": "ca. 842-800 a.C.",
+      "descripcion": "Usurpó el trono de Damasco; oprimió a Israel según la profecía de Eliseo.",
+      "referencias": [
+        "2 Re 8:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p2",
+      "nombre": "Naamán",
+      "rol": "General sirio convertido",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "Curado de lepra por la fe en el Dios de Israel; primer gentil curado por un profeta.",
+      "referencias": [
+        "2 Re 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p3",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Siria fue el escenario de su conversión (Damasco) y la base de sus viajes misioneros (Antioquía).",
+      "referencias": [
+        "Hch 9:3",
+        "Hch 13:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Región de culto a Baal y Hadad; más tarde provincia romana y cuna del cristianismo gentil desde Antioquía.",
+    "religiones_presentes": [
+      "paganismo_arameo",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "syr_m1",
+        "nombre": "Naamán y el Jordán",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 5:12",
+          "fuente_secundaria": "",
+          "descripcion": "Naamán prefería los ríos de Siria al Jordán, pero la obediencia al profeta israelita lo sanó (2 Re 5:12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Naamán prefería los ríos de Siria al Jordán, pero la obediencia al profeta israelita lo sanó (2 Re 5:12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Lc 4:27",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús cita la curación de Naamán como ejemplo de la gracia de Dios que trasciende las fronteras de Israel (Lc 4:27).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús cita la curación de Naamán como ejemplo de la gracia de Dios que trasciende las fronteras de Israel (Lc 4:27).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "syr_nt_h1",
+        "titulo": "Pablo se convierte camino a Damasco",
+        "fecha": "ca. 33-35 d.C.",
+        "descripcion": "Saulo de Tarso, en territorio sirio, es derribado por la luz de Cristo en el camino a Damasco.",
+        "referencias": [
+          "Hch 9:1-9"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_nt_h2",
+        "titulo": "Antioquía: base de las misiones paulinas",
+        "fecha": "ca. 46-57 d.C.",
+        "descripcion": "La iglesia de Antioquía envía a Pablo y Bernabé en tres viajes misioneros que transformarán el mundo mediterráneo.",
+        "referencias": [
+          "Hch 13:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "syr_nt_h3",
+        "titulo": "El conflicto de Antioquía",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Pablo confronta a Pedro en Antioquía por su comportamiento discriminatorio con los gentiles.",
+        "referencias": [
+          "Gál 2:11-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "syr_nt_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Su conversión en Siria y su base en Antioquía lo convirtieron en el gran misionero del evangelio.",
+        "referencias": [
+          "Hch 9:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p2",
+        "nombre": "Bernabé",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cofundador de la misión gentil desde Antioquía.",
+        "referencias": [
+          "Hch 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p3",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Visitó Antioquía; fue reprendido por Pablo por su comportamiento con los gentiles.",
+        "referencias": [
+          "Gál 2:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Siria fue el puente entre el judaismo palestino y el mundo grecorromano; cuna del nombre 'cristiano'.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo",
+        "paganismo_greco_romano"
+      ],
+      "mitos": [
+        {
+          "id": "syr_nt_m1",
+          "nombre": "El nombre cristiano",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "En Antioquía de Siria los seguidores de Jesús son llamados por primera vez 'cristianos'.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "En Antioquía de Siria los seguidores de Jesús son llamados por primera vez 'cristianos'.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

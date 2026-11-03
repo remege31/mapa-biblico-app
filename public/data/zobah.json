@@ -1,0 +1,136 @@
+{
+  "id": "zobah",
+  "nombre": "Sobá",
+  "tipo": "territorio",
+  "lat": 34.31,
+  "lng": 36.93,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Reino arameo al norte de Damasco, entre el Líbano y el Éufrates; potencia que David derrotó en la expansión de su reino.",
+  "altitud_m": 600,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "comercio",
+    "pastoreo",
+    "artesanía"
+  ],
+  "importancia_estrategica": "Reino arameo enemigo de David; su derrota extendió el dominio israelita hasta el Éufrates.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sob_h1",
+      "titulo": "David derrota a Hadadezer rey de Sobá",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "David derrota al rey Hadadezer de Sobá capturando 1.700 jinetes y 20.000 soldados; los arameos de Damasco acuden en ayuda y también son derrotados.",
+      "referencias": [
+        "2 Sam 8:3-8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h2",
+      "titulo": "El ejército de Sobá en la guerra ammonita",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Los ammonitas contratan al ejército de Sobá para enfrentarse a David; Joab los derrota en dos frentes.",
+      "referencias": [
+        "2 Sam 10:6-19"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h3",
+      "titulo": "El cobre del Templo procedente de Sobá",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "David tomó grandes cantidades de bronce de las ciudades de Sobá; Salomón usó ese metal para los utensilios del Templo.",
+      "referencias": [
+        "1 Cr 18:8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Salomón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sob_p1",
+      "nombre": "Hadadezer",
+      "rol": "Rey de Sobá",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Fue derrotado dos veces por David; sus tesoros metálicos terminaron en el Templo de Jerusalén.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p2",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Derrotó a Sobá extendiendo el dominio israelita hasta el Éufrates, cumpliendo la promesa a Abraham.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p3",
+      "nombre": "Joab",
+      "rol": "General de David",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Comandó la batalla contra el ejército de Sobá en el frente ammonita.",
+      "referencias": [
+        "2 Sam 10:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sobá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sob_m1",
+        "nombre": "El metal de Sobá en el Templo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El bronce de Sobá capturado por David fue fundido para hacer los utensilios del Templo: los tesoros del enemigo vencido sirven a la gloria de Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El bronce de Sobá capturado por David fue fundido para hacer los utensilios del Templo: los tesoros del enemigo vencido sirven a la gloria de Dios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

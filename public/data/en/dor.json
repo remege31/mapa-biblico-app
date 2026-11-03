@@ -1,0 +1,156 @@
+{
+  "id": "dor",
+  "nombre": "Dor",
+  "tipo": "ciudad",
+  "lat": 32.61323618394521,
+  "lng": 34.91889683434057,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Unconquered coastal city, assigned to Manasseh"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomonic administrative district"
+    }
+  ],
+  "descripcion_geo": "Important port city on the coastal plain of Carmel, with a natural harbor that made it a significant commercial center of the eastern Mediterranean, formally assigned to the half-tribe of Manasseh but never conquered militarily during the period of the Judges.",
+  "altitud_m": 10,
+  "clima": "Coastal Mediterranean — hot, humid summers, mild winters with rain, constant sea breezes.",
+  "recursos": [
+    "Natural harbor on the Carmel coast",
+    "Mediterranean maritime trade",
+    "Purple production from the coastal region (associated with the nearby Phoenician industry)"
+  ],
+  "importancia_estrategica": "Dor is one of the most prosperous coastal Canaanite cities that Israel never manages to conquer during the period of the Judges, maintaining its commercial independence under Canaanite or Phoenician influence; Centuries later, under Solomon, it was finally integrated as part of one of the twelve administrative districts of the kingdom, under the government of a son-in-law of the king himself.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_dor",
+      "nombre": "Canaanites of Dor",
+      "descripcion": "Original population of the port city, which Manasseh never manages to completely expel, keeping it under dominion subjected to forced labor instead of total conquest.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC and persistent after"
+    },
+    {
+      "id": "fenicios_dor",
+      "nombre": "Phoenician commercial influence",
+      "descripcion": "Commercial presence linked to the Phoenician maritime routes that connected Dor with the rest of the Mediterranean trade on the Levantine coast.",
+      "religion": "Phoenician polytheism — cult of Baal, Astarte and Melkart",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-derrota-rey-dor",
+      "titulo": "Joshua defeats the king of Dor",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Dor appears in the list of the thirty-one Canaanites kings defeated by Joshua during the conquest of Canaan, confirming its status as an independent and powerful city-state before territorial allocation.",
+      "referencias": [
+        "Josh 12:23"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "manases-no-expulsa-dor",
+      "titulo": "Manasseh fails to expel the Canaanites from Dor",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Despite Joshua's initial military victory over their king, the Book of Judges records that Manasseh was unable to dispossess the inhabitants of Dor and its villages, keeping the city under dominion by forced labor rather than the planned outright conquest.",
+      "referencias": [
+        "Judg 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "dor-distrito-salomon",
+      "titulo": "Dor in the administrative district of Ben-Abinadab",
+      "fecha": "c. 970–931 BC",
+      "descripcion": "Solomon finally integrated Dor into its system of twelve administrative districts, under the responsibility of Ben-Abinadab, who had also married Tafat, daughter of Solomon himself, closely linking the government of this coastal region with the royal family.",
+      "referencias": [
+        "1 Kgs 4:11"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_dor",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He defeats King Canaanite of Dor in his campaign of conquest, although the city will remain effectively independent for generations after this initial victory.",
+      "referencias": [
+        "Josh 12:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ben_abinadab_dor",
+      "nombre": "Ben-Abinadab",
+      "rol": "Governor of the Dor district, son-in-law of Solomon",
+      "periodo": "c. 970–931 BC",
+      "descripcion": "He administers the district that eventually incorporates Dor into the Solomonic system of government, linked to the royal family by his marriage to the king's daughter.",
+      "referencias": [
+        "1 Kgs 4:11"
+      ],
+      "ruta": [
+        "dor"
+      ]
+    },
+    {
+      "id": "salomon_dor",
+      "nombre": "Solomon",
+      "rol": "King of Israel, administrative organizer of the kingdom",
+      "periodo": "hierro_2",
+      "descripcion": "It finally completes the full administrative integration of Dor into the Israelite kingdom, several centuries after Manasseh's initial failure to conquer it militarily.",
+      "referencias": [
+        "1 Kgs 4:7-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dor, like other prosperous Canaanite coastal cities, illustrates the recurring pattern of initial military conquest followed by prolonged effective independence, until its final administrative integration through political consolidation under Solomon rather than military conquest; This pattern reflects the theological tension in the Book of Judges between the promise of full possession and the historical reality of prolonged coexistence with unsubjected Canaanite populations.",
+    "religiones_presentes": [
+      "Yahwism (Solomonic administrative integration period)",
+      "Polytheism Canaanite (original persistent population)",
+      "Phoenician polytheism (coastal commercial influence)"
+    ],
+    "mitos": [
+      {
+        "id": "integracion-tardia-dor",
+        "nombre": "Dor's late integration through administration rather than conquest",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 1:27; 1 Re 4:11",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las distintas vías de incorporación territorial —conquista militar directa o integración administrativa posterior— como mecanismos complementarios de cumplimiento gradual de la promesa territorial",
+          "descripcion": "Jewish tradition observes that the case of Dor demonstrates that full possession of the promised land can be fulfilled by mechanisms other than direct military conquest, including administrative consolidation and royal marital alliances, suggesting that divine providence operates through various historical avenues for the final fulfillment of its territorial promises.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The final integration of Dor under Solomon, several centuries after the initial military failure, demonstrates that the fulfillment of divine promises is not limited to a single method or given historical moment.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

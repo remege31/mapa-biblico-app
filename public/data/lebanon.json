@@ -1,0 +1,145 @@
+{
+  "id": "lebanon",
+  "nombre": "Líbano",
+  "tipo": "territorio",
+  "lat": 33.75,
+  "lng": 35.59,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 63,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Hierro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Cadena montañosa costera al norte de Israel, cubierta de bosques de cedros legendarios. Incluye los valles del Líbano y el Antilíbano.",
+  "altitud_m": 2000,
+  "clima": "mediterráneo-montañoso",
+  "recursos": [
+    "cedros",
+    "madera",
+    "recursos hídricos",
+    "comercio"
+  ],
+  "importancia_estrategica": "Principal fuente de madera de construcción del Mediterráneo antiguo; los cedros del Líbano fueron usados en el Templo de Salomón.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lib_h1",
+      "titulo": "Los cedros para el Templo de Salomón",
+      "fecha": "ca. 960 a.C.",
+      "descripcion": "Salomón negocia con Hiram de Tiro el suministro de cedros del Líbano para construir el Templo de Jerusalén.",
+      "referencias": [
+        "1 Re 5:1-12"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "lib_h2",
+      "titulo": "El bosque del Líbano en los poemas de amor",
+      "fecha": "ca. 1000-700 a.C.",
+      "descripcion": "El Cantar de los Cantares evoca el aroma del Líbano como fragancia del amado.",
+      "referencias": [
+        "Cnt 4:8,11,15"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "lib_h3",
+      "titulo": "Jesús en los territorios de Tiro y el Líbano",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Jesús se retira hacia los territorios de Tiro, en la región libanesa, donde sana a la hija de la mujer sirofeniciana.",
+      "referencias": [
+        "Mc 7:24-30"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "mujer sirofeniciana"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lib_p1",
+      "nombre": "Hiram de Tiro",
+      "rol": "Rey fenicio del Líbano",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Suministró cedros y artesanos a Salomón para el Templo; aliado comercial de Israel.",
+      "referencias": [
+        "1 Re 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p2",
+      "nombre": "Salomón",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Usó los cedros del Líbano para construir el Templo y su propio palacio.",
+      "referencias": [
+        "1 Re 5:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p3",
+      "nombre": "Jesús de Nazaret",
+      "rol": "Mesías",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "Visitó la región del Líbano (Tiro y Sidón) extendiendo su ministerio a territorio gentil.",
+      "referencias": [
+        "Mc 7:24"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Los cedros del Líbano simbolizan grandeza y permanencia en la Biblia; la región fue escenario del encuentro entre Israel y el mundo fenicio.",
+    "religiones_presentes": [
+      "paganismo_fenicio",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "lib_m1",
+        "nombre": "Los cedros del Señor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Sal 104:16",
+          "fuente_secundaria": "",
+          "descripcion": "Los cedros del Líbano son plantados por Dios mismo (Sal 104:16) y símbolo de lo majestuoso y poderoso.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los cedros del Líbano son plantados por Dios mismo (Sal 104:16) y símbolo de lo majestuoso y poderoso.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús visita la región libanesa; la mujer sirofeniciana representa la apertura del evangelio a los gentiles.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús visita la región libanesa; la mujer sirofeniciana representa la apertura del evangelio a los gentiles.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

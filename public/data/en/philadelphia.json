@@ -1,0 +1,145 @@
+{
+  "id": "philadelphia",
+  "nombre": "Philadelphia",
+  "tipo": "ciudad",
+  "lat": 38.3552,
+  "lng": 28.5178,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City founded by Attalus II of Pergamon on the border between Lydia and Phrygia, on the edge of the plateau.",
+  "altitud_m": 290,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "viticulture",
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Gate of the Phrygian plateau; city ​​of frequent earthquakes.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phi_h1",
+        "titulo": "Letter to the church of Philadelphia",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ congratulates the church of Philadelphia without reproach; He promises an open door.",
+        "referencias": [
+          "Rev 3:7-13"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "phi_h2",
+        "titulo": "The door that no one can close",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ has the key to David and opens doors; It promises to make adversaries prostrate.",
+        "referencias": [
+          "Rev 3:7-9"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "phi_h3",
+        "titulo": "Saved in the test",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ promises to save the faithful of Philadelphia in the hour of universal testing.",
+        "referencias": [
+          "Rev 3:10"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phi_p1",
+        "nombre": "John the Apostle",
+        "rol": "Prophet of the Apocalypse",
+        "periodo": "s. I AD",
+        "descripcion": "It conveys the only blameless message of the glorious Christ to Philadelphia.",
+        "referencias": [
+          "Rev 3:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi_p2",
+        "nombre": "Attalus II Philadelphus",
+        "rol": "King of Pergamon, founder",
+        "periodo": "159-138 BC",
+        "descripcion": "He founded the city and gave it his name ('brotherly love').",
+        "referencias": [
+          "Historia helenística"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi_p3",
+        "nombre": "Ignatius by Antioch",
+        "rol": "Bishop and martyr",
+        "periodo": "ca. 35-110 AD",
+        "descripcion": "He wrote a letter to the Philadelphia church while being transferred to Rome.",
+        "referencias": [
+          "Cartas de Ignacio"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Missionary city at the Phrygian gate; his church received the blameless praise of the Apocalypse.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "phi_m1",
+          "nombre": "The open door",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Christ promises Philadelphia an 'open door' that no one can close, a symbol of missionary opportunity and divine protection.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Christ promises Philadelphia an 'open door' that no one can close, a symbol of missionary opportunity and divine protection.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

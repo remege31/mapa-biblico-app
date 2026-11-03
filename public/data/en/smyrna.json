@@ -1,0 +1,146 @@
+{
+  "id": "smyrna",
+  "nombre": "Izmir",
+  "tipo": "ciudad",
+  "lat": 38.4189,
+  "lng": 27.1287,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Port city on the Aegean coast of Asia Minor, rival to Ephesus in trade and culture.",
+  "altitud_m": 25,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "came",
+    "olive trees"
+  ],
+  "importancia_estrategica": "City loyal to the imperial cult; first class shopping center.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "smy_h1",
+        "titulo": "Letter to the Church of Smyrna",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ consoles the persecuted church of Smyrna: 'be faithful until death.'",
+        "referencias": [
+          "Rev 2:8-11"
+        ],
+        "personajes_clave": [
+          "Juan el Apóstol"
+        ]
+      },
+      {
+        "id": "smy_h2",
+        "titulo": "Martyrdom of Polycarp",
+        "fecha": "ca. 155-156 AD",
+        "descripcion": "Bishop Polycarp is burned in the Smyrna stadium for refusing to deny Christ.",
+        "referencias": [
+          "Martirio de Policarpo"
+        ],
+        "personajes_clave": [
+          "Policarpo"
+        ]
+      },
+      {
+        "id": "smy_h3",
+        "titulo": "The crown of life",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ promises the 'crown of life' to those who are faithful under the ten-day tribulation.",
+        "referencias": [
+          "Rev 2:10"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "smy_p1",
+        "nombre": "Polycarp",
+        "rol": "martyr bishop",
+        "periodo": "ca. 69-155 AD",
+        "descripcion": "Disciple of John; bishop of Smyrna who was burned alive for his faith.",
+        "referencias": [
+          "Rev 2:8"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "smy_p2",
+        "nombre": "John the Apostle",
+        "rol": "Prophet",
+        "periodo": "s. I AD",
+        "descripcion": "He addressed the letter of Christ to the persecuted church of Smyrna.",
+        "referencias": [
+          "Rev 2:8"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "smy_p3",
+        "nombre": "Ignatius by Antioch",
+        "rol": "Bishop and martyr",
+        "periodo": "ca. 35-110 AD",
+        "descripcion": "He wrote letters from Smyrna on the way to his martyrdom in Rome.",
+        "referencias": [
+          "Cartas de Ignacio"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City with strong imperial cult; His church was a paradigm of Christian fidelity under persecution.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "smy_m1",
+          "nombre": "The crown of life",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "To the poor and persecuted church of Smyrna, Christ promises spiritual wealth and the crown of eternal life.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "To the poor and persecuted church of Smyrna, Christ promises spiritual wealth and the crown of eternal life.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

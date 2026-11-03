@@ -1,0 +1,134 @@
+{
+  "id": "rephaim_valley",
+  "nombre": "Valle de los Refaítas",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.76,
+  "lng": 35.22,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Valle al suroeste de Jerusalén, entre la ciudad y Belén. Tierra fértil; escenario de batallas entre David y los filisteos.",
+  "altitud_m": 700,
+  "clima": "mediterráneo",
+  "recursos": [
+    "cereales",
+    "olivos",
+    "vid"
+  ],
+  "importancia_estrategica": "Campo de batalla entre David y los filisteos; su nombre (Refaítas = gigantes) evoca a los pueblos pre-israelitas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ref_h1",
+      "titulo": "Las batallas de David contra los filisteos en el valle",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Los filisteos se despliegan en el valle de los Refaítas; David consulta al Señor dos veces y los derrota.",
+      "referencias": [
+        "2 Sam 5:18-25"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ref_h2",
+      "titulo": "La cosecha del valle de los Refaítas en Isaías",
+      "fecha": "ca. 740 a.C.",
+      "descripcion": "Isaías usa la cosecha del valle de los Refaítas como imagen del juicio: solo quedará un racimo, como se sacude un olivo.",
+      "referencias": [
+        "Is 17:5"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    },
+    {
+      "id": "ref_h3",
+      "titulo": "El ataque sorpresa de los sicómoros",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Dios ordena a David atacar a los filisteos cuando oiga el ruido de pasos en las copas de los sicómoros del valle.",
+      "referencias": [
+        "2 Sam 5:23-24"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ref_p1",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Ganó dos batallas decisivas contra los filisteos en el valle de los Refaítas.",
+      "referencias": [
+        "2 Sam 5:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p2",
+      "nombre": "Isaías",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Usó el valle como imagen de la destrucción del norte de Israel.",
+      "referencias": [
+        "Is 17:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p3",
+      "nombre": "Refaítas",
+      "rol": "Pueblo pre-israelita",
+      "periodo": "Época pre-israelita",
+      "descripcion": "Gigantes que habitaron el valle antes de la llegada de Israel; su nombre persiste como topónimo.",
+      "referencias": [
+        "Dt 2:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle de los Refaítas: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ref_m1",
+        "nombre": "El ruido en los sicómoros",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 5:24",
+          "fuente_secundaria": "",
+          "descripcion": "Dios da a David una señal militar única: atacar cuando suene el ruido en las copas de los sicómoros (2 Sam 5:24). La victoria es milagrosa, no táctica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dios da a David una señal militar única: atacar cuando suene el ruido en las copas de los sicómoros (2 Sam 5:24). La victoria es milagrosa, no táctica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

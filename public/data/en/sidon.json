@@ -1,0 +1,342 @@
+{
+  "id": "sidon",
+  "nombre": "Sidon",
+  "tipo": "ciudad",
+  "lat": 33.5635,
+  "lng": 35.3706,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 39,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Phoenician Metropolis"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — First city of Phoenicia"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Babylonian and Persian rule"
+    }
+  ],
+  "descripcion_geo": "Sidon (now Saida, Lebanon) sits on the Mediterranean coast of Phoenicia, about 40 km north of Tyre. It has one of the best natural ports in the Levant, with two bays protected by an island that served as a naval base. The city controlled access to Lebanon and its famous cedars, a raw material exported throughout the Mediterranean basin.",
+  "altitud_m": 5,
+  "clima": "Coastal Mediterranean — mild, wet winters, hot, dry summers. Precipitation of 700-900 mm annually. The fertile coast allowed for intensive agriculture of olive, grapevine and fruit trees.",
+  "recursos": [
+    "Natural port (Mediterranean trade)",
+    "Cedars of Lebanon (precious wood throughout the region)",
+    "Murex purple (most expensive dye from ancient times, extracted from sea snails)",
+    "Glass crafts (the Phoenicians are considered inventors of blown glass)",
+    "Worked ivory and luxury objects"
+  ],
+  "importancia_estrategica": "First metropolis of Phoenicia and mother of colonies throughout the Mediterranean. Its mastery of maritime trade made it a cultural bridge between Egypt, Mesopotamia, Greece and the Iberian Peninsula. Omri's alliance with Etbaal of Sidon (father of Jezebel) introduced the Phoenician cult into Israel with catastrophic religious consequences.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-sidon",
+      "nombre": "Sidonian Phoenicians",
+      "descripcion": "The Sidon Phoenicians were Canaanites Semites who developed the first commercial civilization in the Mediterranean. They invented the consonant alphabet (abyad) from which all Western alphabets are derived. Its Tyrian purple was so valuable that the color became a symbol of royalty throughout the ancient world. The Bible frequently calls them Sidonians to refer to all Phoenicians.",
+      "religion": "Phoenician polytheism — cult of Baal of Sidon, Asherah (Astarte), Melqart (god of Tyre)",
+      "periodo": "c. 1200 BC onwards"
+    },
+    {
+      "id": "jezabel-familia",
+      "nombre": "Etbaal royal family",
+      "descripcion": "Ethbaal (Ittobaal), king of Sidon and high priest of Asherah, was the father of Jezebel. The marriage alliance with Omri of Israel introduced the official Phoenician cult at the court of Samaria. Jezebel imported 450 prophets from Baal and 400 from Asherah, directly challenging prophet Elijah. The persecution of Elijah by Jezebel is the most dramatic religious crisis in the Northern Kingdom.",
+      "religion": "Phoenician polytheism — Baal of Sidon and Asherah as patron gods of the Israelite court",
+      "periodo": "c. 885–843 BC"
+    },
+    {
+      "id": "viuda-sarepta",
+      "nombre": "Residents of Zarephath",
+      "descripcion": "Zarepta (between Sidon and Tyre) was Elijah's place of refuge during the drought that he himself had announced. A widow in Zarephath shared her last flour and oil with the prophet and was rewarded with the multiplication of her provisions and the resurrection of her son. Jesus cites this episode to illustrate that prophets are rejected in their homeland (Luke 4:26).",
+      "religion": "Local Phoenician polytheism, with openness to the action of YHWH through the prophet",
+      "periodo": "c. 875–850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-sarepta",
+      "titulo": "Elijah in Zarephath: the prophet who took refuge among the Phoenicians",
+      "fecha": "c. 870 BC",
+      "descripcion": "When the drought announced by Elijah decimated the land of Israel, YHWH ordered the prophet to take refuge in Zarephath of Sidon, in the heart of Phoenician territory. A widow, about to consume her last provisions with her son before dying of hunger, shared her flour and oil with the stranger. The jar of flour was not emptied nor the jar of oil depleted during the entire drought. When the widow's son died of illness, Elijah resurrected him. The episode highlights that YHWH's providence reaches beyond the borders of Israel, even into the heart of Phoenician territory.",
+      "referencias": [
+        "1 Kgs 17:8-24",
+        "Luke 4:25-26"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "jezabel-israel",
+      "titulo": "Jezebel by Sidon: the queen who imported the Phoenician gods",
+      "fecha": "c. 874 BC",
+      "descripcion": "Jezebel, daughter of the Phoenician king Ethbaal of Sidon, married Ahab of Israel within the framework of Omri's political alliance with Phoenicia. His influence transformed the court of Samaria: he built a temple to Baal of Sidon, maintained 850 pagan prophets at the expense of the state, persecuted the prophets of YHWH, and ordered the death of Naboth to seize his vineyard. Jezebel became the biblical symbol of the idolatrous seduction of foreign power. She was thrown to death from a window by her eunuchs and her body was devoured by dogs, fulfilling the prophecy of Elijah.",
+      "referencias": [
+        "1 Kgs 16:31",
+        "1 Kgs 18:4",
+        "1 Kgs 21:1-25",
+        "2 Kgs 9:30-37"
+      ],
+      "personajes_clave": [
+        "elias",
+        "jezabel"
+      ]
+    },
+    {
+      "id": "hiram-templo",
+      "titulo": "Hiram from Sidon and the construction of the Temple",
+      "fecha": "c. 970 BC",
+      "descripcion": "Solomon negotiated with Hiram I of Tyre (also identified with Sidon in tradition) the supply of cedars of Lebanon and specialized craftsmen for the construction of the Temple of Jerusalem. The cedars were felled in Lebanon, transported on rafts across the Mediterranean to Joppa and brought to Jerusalem. The Temple thus combined the Yahwist faith with Phoenician craftsmanship. Hiram-Abif, a master craftsman sent by the king of Tyre, cast the bronze sea and the pillars Jachin and Boaz.",
+      "referencias": [
+        "1 Kgs 5:1-18",
+        "1 Kgs 7:13-47",
+        "2 Chr 2:1-16"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias-fenicio",
+      "nombre": "Elijah the Tishbite",
+      "rol": "Prophet takes refuge in Phoenicia during the drought",
+      "periodo": "hierro_2",
+      "descripcion": "Elijah spent part of his ministry in Phoenician territory, in Zarephath of Sidon, where YHWH sent him to be fed by a widow. This experience, in the heart of the territory where Jezebel came from and the gods that Elijah fought, highlights the paradox of faith: providence acts precisely where it is least expected.",
+      "referencias": [
+        "1 Kgs 17:8-24",
+        "1 Kgs 18:1-19",
+        "2 Kgs 2:1-12"
+      ],
+      "ruta": [
+        "samaria",
+        "carmel_mount",
+        "sidon",
+        "beersheba",
+        "sinai"
+      ],
+      "viajes": [
+        {
+          "nombre": "The prophetic ministry",
+          "ruta": [
+            "samaria",
+            "sidon",
+            "carmel_mount"
+          ],
+          "referencias": [
+            "1 Kgs 17:1",
+            "1 Kgs 17:9-24",
+            "1 Kgs 18:20-40"
+          ]
+        },
+        {
+          "nombre": "The flight to Horeb",
+          "ruta": [
+            "carmel_mount",
+            "beersheba",
+            "sinai"
+          ],
+          "referencias": [
+            "1 Kgs 19:1-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jezabel",
+      "nombre": "Jezebel",
+      "rol": "Queen of Israel, daughter of the king of Sidon",
+      "periodo": "hierro_2",
+      "descripcion": "Daughter of Ethbaal of Sidon, wife of Ahab king of Israel, Jezebel is the most powerful and most condemned female figure in the OT. He introduced the official Baal cult of Sidon, persecuted YHWH's prophets, murdered Naboth to take his vineyard, and ruled de facto after Ahab's death. His violent death—thrown from a window, trampled and devoured by dogs—became the exemplary punishment for idolatry and abuse of power.",
+      "referencias": [
+        "1 Kgs 16:31",
+        "1 Kgs 19:1-2",
+        "1 Kgs 21:1-25",
+        "2 Kgs 9:30-37"
+      ],
+      "ruta": [
+        "sidon",
+        "samaria"
+      ]
+    },
+    {
+      "id": "salomon-sidon",
+      "nombre": "Solomon",
+      "rol": "King builder of the Temple, ally of Phoenicia",
+      "periodo": "hierro_2",
+      "descripcion": "Solomon inherited from his father David the alliance with the Phoenician king of Tyre-Sidon and took advantage of it to obtain cedars from Lebanon and specialized craftsmen for the Temple. But he also built altars to the gods of his foreign wives, including Astarte of the Sidonians (1 Kings 11:5), which is why biblical authors judge his reign as the beginning of the religious decline that would culminate in the exile.",
+      "referencias": [
+        "1 Kgs 3:1-15",
+        "1 Kgs 5:1-18",
+        "1 Kgs 11:1-13"
+      ],
+      "ruta": [
+        "jerusalen",
+        "sidon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sidon represents the Phoenician culture that persistently seduced and threatened Israel. Their influence was not only military or commercial but deeply religious: the Baal cult of Sidon, introduced by Jezebel, triggered the prophetic crisis of Elijah and Elisha. Paradoxically, it was also in Sidonian territory where Elijah found refuge and where YHWH demonstrated his sovereignty beyond the borders of Israel. The Phoenician trade in cedar and crafts allowed the Temple to be built, and the Phoenician alphabet—adapted by Israel—was the vehicle of written revelation.",
+    "religiones_presentes": [
+      "Phoenician polytheism (Baal of Sidon, Astarte/Asherah, Melqart)",
+      "Prophetic Yahwism (presence of Elijah in Zarephath)",
+      "Solomonic syncretism (Phoenician altars in Jerusalem)"
+    ],
+    "mitos": [
+      {
+        "id": "baal-sidon",
+        "nombre": "Baal of Sidon vs. YHWH in Carmel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Reyes 18:20-40",
+          "fuente_secundaria": "Midrash Tanjuma, Ki Tisa; comentario de Rashi a 1 Re 18",
+          "descripcion": "The combat on Mount Carmel between Elijah and the 450 prophets of Baal is the programmatic text of Yahwist monotheism. The God who responds with fire is the true God. The irony of Elijah—Shout louder, maybe he's sleeping—is the first religious satire in Western literature.",
+          "similitudes": "The combat between gods has parallels in Ugaritic literature (Baal cycle), where Baal also fights against chaos and death.",
+          "diferencias": "In Ugarit, Baal is the hero; In 1 Kings, Baal is the defeated impostor. The investment is deliberately controversial.",
+          "significado_teologico": "YHWH is not one god among others but the only one who acts in history. The fire that consumes the wet sacrifice is the definitive demonstration of divine sovereignty.",
+          "posible_relacion_cultural": "The Ugarit texts (14th century BC) describe Baal Hadad as lord of rain and storm—exactly the role that Elijah denies to Baal by announcing drought."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sid_nt_h1",
+        "titulo": "Jesus goes through Sidon",
+        "fecha": "ca. 29 AD",
+        "descripcion": "On his journey through the Decapolis, Jesus passes through the territories of Tyre and Sidon.",
+        "referencias": [
+          "Mark 7:31"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "sid_nt_h2",
+        "titulo": "Sidon in the judgment of the cities",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Jesus declares that Tyre and Sidon will fare better on the day of judgment than Chorazin and Bethsaida.",
+        "referencias": [
+          "Matt 11:21-22",
+          "Luke 10:13-14"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "sid_nt_h3",
+        "titulo": "Paul stops at Sidon on the way to Rome",
+        "fecha": "ca. 59-60 AD",
+        "descripcion": "Centurion Julius allows Paul to visit his friends in Sidon during the voyage to Rome.",
+        "referencias": [
+          "Acts 27:3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sid_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Preacher",
+        "periodo": "ca. 29 AD",
+        "descripcion": "It crossed the Sidon region; He used the city as a reference in his teachings on judgment.",
+        "referencias": [
+          "Mark 7:31"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sid_nt_p2",
+        "nombre": "Paul of Tarsus",
+        "rol": "Prisoner Apostle",
+        "periodo": "ca. 59-60 AD",
+        "descripcion": "He briefly disembarked at Sidon on his last voyage; He was treated kindly by the centurion.",
+        "referencias": [
+          "Acts 27:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sid_nt_p3",
+        "nombre": "Julius the centurion",
+        "rol": "Paul Guardian",
+        "periodo": "s. I AD",
+        "descripcion": "He allowed Paul to visit friends in Sidon, showing an unusual humanitarian attitude.",
+        "referencias": [
+          "Acts 27:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Ancient Phoenician metropolis; in the NT it serves as a reference to the Gentile world that will be judged with more mercy than the unbelieving Jewish cities.",
+      "religiones_presentes": [
+        "Roman_Phoenician_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "sid_nt_m1",
+          "nombre": "The judgment of the pagan cities",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Ez 28:20-23",
+            "fuente_secundaria": "",
+            "descripcion": "Sidon was condemned by the prophets (Ez 28:20-23; Jl 3:4).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sidon was condemned by the prophets (Ez 28:20-23; Jl 3:4).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus declares that Tyre and Sidon will receive a more lenient judgment than the cities of Galilee that rejected the gospel.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus declares that Tyre and Sidon will receive a more lenient judgment than the cities of Galilee that rejected the gospel.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

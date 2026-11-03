@@ -1,0 +1,143 @@
+{
+  "id": "edom",
+  "nombre": "Edom",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 109,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Regno a sud del Mar Morto e ad est dell'Araba, sui monti rossi di Seir. Capitale: Petra (Sela).",
+  "altitud_m": 1000,
+  "clima": "arido",
+  "recursos": [
+    "rame",
+    "commercio di carovane",
+    "allevamento del bestiame"
+  ],
+  "importancia_estrategica": "Controllo della Via Regia, rotta commerciale tra l'Arabia e il Mediterraneo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "edo_h1",
+      "titulo": "Esaù e Giacobbe: l'origine del conflitto",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Esaù, padre di Edom, vende la sua primogenitura a Giacobbe per un piatto di lenticchie; Il conflitto tra i due prefigura quello del loro popolo.",
+      "referencias": [
+        "Gen 25:29-34",
+        "Gen 27"
+      ],
+      "personajes_clave": [
+        "Esaú",
+        "Jacob"
+      ]
+    },
+    {
+      "id": "edo_h2",
+      "titulo": "Edom nega il passaggio a Israele",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Quando Israele richiede il passaggio attraverso il territorio edomita sulla strada per Canaan, Edom lo nega con la minaccia di guerra.",
+      "referencias": [
+        "Nm 20:14-21"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "edo_h3",
+      "titulo": "Profetizzata distruzione di Edom",
+      "fecha": "ca. 590 a.C.",
+      "descripcion": "Il profeta Abdia annuncia la distruzione totale di Edom per la sua gioia per la caduta di Gerusalemme.",
+      "referencias": [
+        "Abd 1"
+      ],
+      "personajes_clave": [
+        "Abdías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "edo_p1",
+      "nombre": "Esaù",
+      "rol": "Edom Patriarca",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Figlio di Isacco; Vendette la sua primogenitura e divenne il padre degli Edomiti.",
+      "referencias": [
+        "Gen 25:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p2",
+      "nombre": "Erode il Grande",
+      "rol": "Re di Giudea (origine idumea)",
+      "periodo": "37-4 a.C.",
+      "descripcion": "Discendente degli edomiti (idumei) convertito al giudaismo; re sotto Roma.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p3",
+      "nombre": "Abdia",
+      "rol": "Profeta",
+      "periodo": "ca. 590 a.C.",
+      "descripcion": "Ha pronunciato l'oracolo più breve dell'Antico Testamento contro l'arroganza di Edom.",
+      "referencias": [
+        "Abd 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Città imparentata con Israele ma nemica permanente; I suoi discendenti idumei governarono la Giudea sotto Erode.",
+    "religiones_presentes": [
+      "edomita_paganesimo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "edo_m1",
+        "nombre": "Il fratello nemico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Mal 1,2-3",
+          "fuente_secundaria": "",
+          "descripcion": "Edom e Giacobbe rappresentano l'eterno conflitto tra fratelli: 'Ho amato Giacobbe, ma ho odiato Esaù' (Mal 1,2-3).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Edom e Giacobbe rappresentano l'eterno conflitto tra fratelli: 'Ho amato Giacobbe, ma ho odiato Esaù' (Mal 1,2-3).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Rm 9:13",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo cita Malachia per illustrare l'elezione sovrana di Dio (Rm 9:13).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo cita Malachia per illustrare l'elezione sovrana di Dio (Rm 9:13).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

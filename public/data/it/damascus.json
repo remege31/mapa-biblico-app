@@ -1,0 +1,310 @@
+{
+  "id": "damascus",
+  "nombre": "Damasco",
+  "tipo": "ciudad",
+  "lat": 33.5138,
+  "lng": 36.2765,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 59,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Regno aramaico di Damasco"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: dominio babilonese e persiano"
+    }
+  ],
+  "descripcion_geo": "Damasco si trova nell'oasi di Ghouta, ai piedi del monte Qasiyun, sul confine sud-occidentale della pianura siriana interna. Irrigata dai fiumi Abana (Barada) e Farfar, la città è stata abitata ininterrottamente per almeno 11.000 anni, essendo forse la città più antica del mondo in continua attività. La sua posizione tra il deserto siriano e il Mediterraneo ne fece un nodo commerciale insostituibile.",
+  "altitud_m": 690,
+  "clima": "Mediterraneo continentale: estati calde e secche, inverni freddi con precipitazioni (250 mm all'anno). L'oasi della Ghouta, alimentata dal fiume Barada, crea un microclima più umido e fertile rispetto al deserto circostante.",
+  "recursos": [
+    "Acqua (fiumi Abana e Pharfar, menzionati in 2 Re 5:12)",
+    "Oasi agricola (alberi da frutto, vigneti, cereali)",
+    "Rotta commerciale (nodo tra Mesopotamia, Egitto e il Mediterraneo)",
+    "Ferro (commercio con le città filistee)",
+    "Tessuti e profumi (artigianato rinomato)"
+  ],
+  "importancia_estrategica": "Capitale del più potente regno aramaico di Ferro II, rivale permanente di Israele e Giuda. Damasco controllava le rotte commerciali tra Mesopotamia e il Mediterraneo e la forza militare aramaica era sufficiente a sfidare Assiria per decenni. L'alleanza o il conflitto con Damasco ha determinato la politica estera di Israele per due secoli.",
+  "otros_habitantes": [
+    {
+      "id": "arameos-damasco",
+      "nombre": "Aramaico di Damasco",
+      "descripcion": "Il regno aramaico di Damasco (Aram-Damasco) era lo stato più potente della Siria durante il Ferro II. I loro re - Rezón, Ben-Hadad I, II e III, Hazael - mantennero un rapporto di rivalità permanente e alleanza occasionale con Israele. La lingua aramaica, che era la lingua di questa corte, paradossalmente divenne la lingua franca del Medio Oriente e alla fine la lingua quotidiana di Gesù.",
+      "religion": "Politeismo aramaico: culto di Hadad (dio della tempesta, equivalente a Baal), Rimmon e pantheon siriano",
+      "periodo": "C. 1000–732 a.C"
+    },
+    {
+      "id": "asirios-damasco",
+      "nombre": "Dominio assiro",
+      "descripcion": "Tiglath-Pileser III conquistò Damasco nel 732 a.C., trasformando il regno aramaico in una provincia assira. L'alleanza tra Peka di Israele e Rezín di Damasco contro Giuda e Assiria (crisi siro-efraimita, Is 7) è stata l'innesco di questa conquista. Il profeta Isaia annunciò la desolazione di Damasco (Is 17,1-3), che si compì nel 732 a.C.",
+      "religion": "Politeismo assiro: culto di Ashur, Ishtar e del pantheon imperiale",
+      "periodo": "732–612 a.C"
+    },
+    {
+      "id": "naaman-damasco",
+      "nombre": "Siriani in contatto con Israele",
+      "descripcion": "La storia di Naaman (2 Re 5) riflette la presenza degli Israeliti alla corte di Damasco – un giovane prigioniero che informa Naaman del profeta Eliseo – e l'apertura dello Yahwismo verso gli stranieri. Naaman, guarito dalla lebbra nel Giordano, dichiara: Non c'è Dio su tutta la terra se non in Israele, e chiede terra a Israele per costruire un altare in Damasco.",
+      "religion": "Politeismo aramaico con apertura allo Yahwismo (caso Naaman)",
+      "periodo": "C. 850 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-damasco",
+      "titulo": "Davide e dominio su Damasco",
+      "fecha": "c. 990 a.C.",
+      "descripcion": "Dopo aver sconfitto Hadad-Ezer di Sobá, Davide sconfisse anche gli Aramei di Damasco che erano accorsi in suo aiuto, installando guarnigioni nel territorio. Damasco cadde sotto la tassazione davidica. Tuttavia, Rezon ben Eliada, un fuggitivo di Hadad-Ezer, radunò una banda e si impadronì di Damasco durante il regno di Salomone, dando inizio al regno aramaico indipendente che rivaleggiò con Israele per secoli.",
+      "referencias": [
+        "2 Sam 8:5-6",
+        "1 Re 11:23-25"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "naaman-sanacion",
+      "titulo": "Naaman il Siro: la guarigione che ha oltrepassato i confini",
+      "fecha": "c. 850 a.C.",
+      "descripcion": "Naaman, generale dell'esercito arameo e uomo di grande valore presso il re di Damasco, era affetto da lebbra. Una giovane ragazza israelita prigioniera gli parlò del profeta Eliseo. Naaman si recò a Israele con una lettera del re di Aram e grandi ricchezze. Eliseo gli ordinò di bagnarsi sette volte nel Giordano. Naaman, dapprima indignato (i fiumi di Damasco non sono migliori di tutti i fiumi di Israele?) obbedì e fu guarito. La sua conversione allo Yahwismo è il primo caso documentato di uno straniero che abbraccia la fede di Israele senza convertirsi.",
+      "referencias": [
+        "2 Re 5:1-27"
+      ],
+      "personajes_clave": [
+        "eliseo",
+        "naaman"
+      ]
+    },
+    {
+      "id": "crisis-siroefaimita",
+      "titulo": "La crisi siro-efraimitica: Isaia e il segno dell'Immanuele",
+      "fecha": "734 a.C.",
+      "descripcion": "Rezín di Damasco e Peka di Israele hanno formato un'alleanza per costringere Giuda a unirsi alla loro coalizione anti-assira. Minacciarono di detronizzare il re Acaz e di mettere un burattino al suo posto. Achaz, terrorizzato, chiese aiuto a Tiglath-Pileser III di Assiria. Isaia confrontò Acaz con il famoso oracolo: La giovane concepirà e darà alla luce un figlio e lo chiamerà Emmanuel. Prima che quel bambino sappia rifiutare il male e scegliere il bene, la terra dei due re che temi sarà abbandonata. L'alleanza siro-efraimita fu distrutta: Assiria conquistò Damasco nel 732 a.C.",
+      "referencias": [
+        "Is 7:1-17",
+        "2 Re 16:5-9",
+        "Is 17:1-3"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "naaman",
+      "nombre": "Naaman",
+      "rol": "Generale aramaico guarito dalla lebbra da Eliseo",
+      "periodo": "hierro_2",
+      "descripcion": "Comandante dell'esercito di Damasco, uomo di grande prestigio militare, Naaman rappresenta il nobile straniero che riconosce la potenza di YHWH. La sua iniziale resistenza a fare il bagno nel Giordano - paragonato sfavorevolmente ai fiumi di Damasco - e la sua conversione finale costituiscono uno dei resoconti più universalistici dell'Antico Testamento. Gesù lo cita come esempio del fatto che la grazia divina non riconosce confini etnici (Luca 4:27).",
+      "referencias": [
+        "2 Re 5:1-27",
+        "Lc 4:27"
+      ],
+      "ruta": [
+        "damascus",
+        "jericho"
+      ]
+    },
+    {
+      "id": "eliseo-damasco",
+      "nombre": "Eliseo",
+      "rol": "Profeta che unge i re e guarisce gli stranieri",
+      "periodo": "hierro_2",
+      "descripcion": "Eliseo interagisce con la corte di Damasco in due occasioni: la guarigione di Naaman e l'unzione di Hazael come re di Aram (2 Re 8:7-15), adempiendo al comando originale dato a Elia sull'Oreb (1 Re 19:15). Hazael si rivelò essere un re brutale che opprimeva Israele. Il pianto di Eliseo mentre lo unge, perché so il male che farai a Israele, è uno dei momenti più dolorosi della letteratura profetica.",
+      "referencias": [
+        "1 Re 19:15",
+        "2 Re 5:1-27",
+        "2 Re 8:7-15"
+      ],
+      "ruta": [
+        "damascus",
+        "jericho",
+        "samaria",
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "isaias-damasco",
+      "nombre": "Isaia ben Amos",
+      "rol": "Profeta di Gerusalemme, consigliere dei re",
+      "periodo": "hierro_2",
+      "descripcion": "Il più grande dei profeti scrittori, Isaia profetizzò durante i regni di Uzzia, Jotham, Achaz ed Ezechia. Il suo intervento durante la crisi siro-efraimita – quando Damasco e Samaria minacciarono Gerusalemme – produsse l'oracolo di Emmanuele (Is 7:14), il più citato dall'Antico Testamento nel Nuovo Testamento. Le sue visioni della pace universale (Is 2,4, le spade trasformate in vomeri) e del Servo sofferente (Is 52-53) definiscono l'immaginario messianico dell'Occidente.",
+      "referencias": [
+        "Is 1:1",
+        "Is 6:1-13",
+        "Is 7:1-17",
+        "Is 53:1-12"
+      ],
+      "ruta": [
+        "jerusalen",
+        "damascus"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Damasco rappresenta il potente mondo straniero con cui Israele convive, combatte e talvolta diventa un canale di benedizione. La storia di Naaman è il testo più universalista del ciclo profetico dell'Antico Testamento: un generale pagano guarito nel Giordano dichiara l'unicità di YHWH e chiede un terreno a Israele per costruire un altare a Damasco. La lingua aramaica di Damasco finì per essere la lingua del popolo ebraico dopo l'esilio e la lingua di Gesù, ironia storica che l'Antico Testamento non poteva prevedere.",
+    "religiones_presentes": [
+      "Politeismo aramaico (culto di Hadad-Rimon)",
+      "Contattare Yahvismo (caso Naaman, schiavi israeliti in Damasco)",
+      "Politeismo assiro (dopo il 732 a.C.)"
+    ],
+    "mitos": [
+      {
+        "id": "hadad-rimmon",
+        "nombre": "Il lutto per Hadad-Rimón nella valle di Meghiddo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Zacarías 12:11",
+          "fuente_secundaria": "Talmud Bavli, Moed Katan 28b; comentarios medievales sobre Zac 12:11",
+          "descripcion": "Zaccaria 12:11 paragona il pianto escatologico su Gerusalemme con il lutto per Hadad-Rimmon nella valle di Meghiddo, riferendosi probabilmente al lamento per la morte del re Giosia in Meghiddo (2 Cr 35:22-25) o ad un rituale cultuale aramaico di pianto per la divinità. Hadad-Rimon era il nome composto del dio della tempesta in Damasco.",
+          "similitudes": "Il pianto rituale per la divinità ha paralleli nel culto di Tammuz/Adone in tutta la regione.",
+          "diferencias": "La tradizione ebraica reinterpreta il lutto pagano per la divinità come figura di lamento messianico per Gerusalemme.",
+          "significado_teologico": "Il lutto più intenso della storia – il grido escatologico per Gerusalemme – supera persino il grido per il dio morente.",
+          "posible_relacion_cultural": "Il ciclo di morte e resurrezione di Baal/Hadad documentato nei testi di Ugarit costituisce lo sfondo religioso dell'intera regione."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "dam_nt_h1",
+        "titulo": "Conversione di Paolo verso Damasco",
+        "fecha": "ca. 33-35 d.C.",
+        "descripcion": "Saulo di Tarso cade a terra dopo essere stato accecato da una luce; Cristo gli parla e lo manda a Damasco.",
+        "referencias": [
+          "At 9:1-9",
+          "Gal 1:17"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Ananías"
+        ]
+      },
+      {
+        "id": "dam_nt_h2",
+        "titulo": "Anania battezza Paolo",
+        "fecha": "ca. 33-35 d.C.",
+        "descripcion": "Il discepolo Anania impone le mani su Paolo; Gli si aprono gli occhi e viene battezzato.",
+        "referencias": [
+          "At 9:10-19"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Ananías"
+        ]
+      },
+      {
+        "id": "dam_nt_h3",
+        "titulo": "Paolo fugge in un cestino oltre il muro",
+        "fecha": "ca. 37 d.C.",
+        "descripcion": "Gli ebrei complottano per uccidere Paolo; I suoi discepoli lo portano di notte in una cesta lungo il muro Damasco.",
+        "referencias": [
+          "At 9:23-25",
+          "2 Cor 11:32-33"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "dam_nt_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Il persecutore divenne apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "È andato a Damasco per perseguitare i cristiani; Partì da lì come il più ardente missionario del Vangelo.",
+        "referencias": [
+          "At 9:1"
+        ],
+        "ruta": [
+          "damascus",
+          "antioch",
+          "ephesus",
+          "rome"
+        ]
+      },
+      {
+        "id": "dam_nt_p2",
+        "nombre": "Anania di Damasco",
+        "rol": "Discepolo e messaggero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha ricevuto la visione di andare a Paolo nonostante la paura; Gli impose le mani e lo battezzò.",
+        "referencias": [
+          "At 9:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "dam_nt_p3",
+        "nombre": "Areta IV",
+        "rol": "Re Nabateo di Damasco",
+        "periodo": "9 a.C.–40 d.C.",
+        "descripcion": "Il suo etnarca in Damasco stava cercando di arrestare Paolo quando è scappato nel cestino.",
+        "referencias": [
+          "2 Cor 11:32"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città molto antica; scena della svolta più drammatica della storia cristiana: la conversione del suo più grande persecutore.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "Paganesimo_romano_nabateo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "dam_nt_m1",
+          "nombre": "L'inseguitore convertito",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "La conversione di Paolo nel cammino verso Damasco è il paradigma della grazia del Nuovo Testamento che trasforma il nemico in un apostolo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La conversione di Paolo nel cammino verso Damasco è il paradigma della grazia del Nuovo Testamento che trasforma il nemico in un apostolo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Damasco (Dimashq) è la capitale della Siria e una città santa per l'Islam; La Grande Moschea Omayyade fu costruita sopra l'antica basilica cristiana.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Damasco (Dimashq) è la capitale della Siria e una città santa per l'Islam; La Grande Moschea Omayyade fu costruita sopra l'antica basilica cristiana.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

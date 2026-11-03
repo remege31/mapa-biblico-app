@@ -1,0 +1,71 @@
+{
+  "id": "sicar",
+  "nombre": "Sychar",
+  "tipo": "ciudad",
+  "lat": 32.228,
+  "lng": 35.286,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Samaritan village at the foot of Mount Ebal, next to the well of Jacob, near ancient Shechem.",
+  "altitud_m": 520,
+  "clima": "Mediterranean",
+  "recursos": [
+    "well water",
+    "wheat",
+    "olive trees"
+  ],
+  "importancia_estrategica": "Passing point on the route between Judea and Galilee via Samaria.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sic_h1",
+        "titulo": "The Samaritan at the well",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Jesus converses with a Samaritan woman at Jacob's well and reveals himself to be the Messiah; many Samaritans believe in him.",
+        "referencias": [
+          "John 4:5-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "La samaritana",
+          "Los discípulos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sic_p1",
+        "nombre": "The Samaritan",
+        "rol": "First evangelist of Samaria",
+        "periodo": "s. I AD",
+        "descripcion": "Woman who talks to Jesus next to Jacob's well and brings the news to her village.",
+        "referencias": [
+          "John 4:5-42"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

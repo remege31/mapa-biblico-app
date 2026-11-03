@@ -1,0 +1,135 @@
+{
+  "id": "ivvah",
+  "nombre": "Ivva",
+  "tipo": "ciudad",
+  "lat": 34.47,
+  "lng": 41.97,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città mesopotamica menzionata insieme ad Hamat e Arfad nelle discussioni assire davanti a Ezechia; I loro dei non hanno potuto resistere a Assiria.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Città usata come argomento a favore dell'onnipotenza assira.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ivy_h1",
+      "titulo": "Gli dei di Ivvá non poterono resistere",
+      "fecha": "701 a.C.",
+      "descripcion": "Il messaggero assiro sostiene che gli dei di Hamath, Arfad e Ivva non liberarono le loro città dal potere assiro.",
+      "referencias": [
+        "2 Re 18:34",
+        "Is 36:19"
+      ],
+      "personajes_clave": [
+        "Rabsaqué",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h2",
+      "titulo": "La sfida ad Ezechia con l'esempio di Ivva",
+      "fecha": "701 a.C.",
+      "descripcion": "Sennacherib invia una lettera citando Ivva tra i popoli i cui dei hanno fallito: come si aspetterebbe Giuda di essere diverso?",
+      "referencias": [
+        "2 Re 19:13",
+        "Is 37:13"
+      ],
+      "personajes_clave": [
+        "Senaquerib",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h3",
+      "titulo": "Ezechia porta la lettera al Tempio",
+      "fecha": "701 a.C.",
+      "descripcion": "Ezechia diffonde la lettera di Sennacherib (che menziona Ivvah) davanti al Signore nel Tempio e prega.",
+      "referencias": [
+        "2 Re 19:14-19"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ivy_p1",
+      "nombre": "Rabsaqué",
+      "rol": "Generale assiro",
+      "periodo": "ca. 701 a.C.",
+      "descripcion": "Ha usato l'argomentazione di Ivvá per demoralizzare i difensori di Gerusalemme.",
+      "referencias": [
+        "2 Re 18:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p2",
+      "nombre": "Ezechia",
+      "rol": "Re di Giuda",
+      "periodo": "715-686 a.C.",
+      "descripcion": "Portò la sfida di Sennacherib (con menzione di Ivvah) al Tempio in preghiera.",
+      "referencias": [
+        "2 Re 19:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p3",
+      "nombre": "Isaia",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Ha risposto alla preghiera di Ezechia: il Signore proteggerà Gerusalemme anche se gli dei di Ivvah e altri cadessero.",
+      "referencias": [
+        "2 Re 19:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ivvá: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ivy_m1",
+        "nombre": "L’argomento del potere comparativo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 19:35",
+          "fuente_secundaria": "",
+          "descripcion": "Ivva e altre città sono usate come \"prova\" che nessun dio può resistere a Assiria; Dio risponde distruggendo l'esercito assiro in una notte (2 Re 19:35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ivva e altre città sono usate come \"prova\" che nessun dio può resistere a Assiria; Dio risponde distruggendo l'esercito assiro in una notte (2 Re 19:35).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

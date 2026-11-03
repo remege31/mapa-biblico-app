@@ -1,0 +1,153 @@
+{
+  "id": "elath",
+  "nombre": "Elat",
+  "tipo": "ciudad",
+  "lat": 29.528502,
+  "lng": 35.005732,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Porto edomita conteso tra Giuda e Edom"
+    }
+  ],
+  "descripcion_geo": "Porto all'estremità settentrionale del Golfo di Aqaba, molto vicino a Ezion-geber, in territorio originariamente edomita, il cui controllo oscillò ripetutamente tra Giuda e Edom durante la monarchia divisa, riflettendo l'instabilità del confine meridionale del regno.",
+  "altitud_m": 0,
+  "clima": "Deserto tropicale — estremamente caldo tutto l'anno, con pochissime precipitazioni, tipico della costa del Golfo di Aqaba.",
+  "recursos": [
+    "Porto naturale sul Mar Rosso",
+    "Posizione contestata tra Giuda e Edom",
+    "Accesso alle rotte commerciali del sud"
+  ],
+  "importancia_estrategica": "Elath esemplifica il modello della disputa sul confine meridionale tra Giuda e Edom: fortificata da Uzzia dopo averla riconquistata per Giuda, fu infine riconquistata dagli edomiti durante il regno di Achaz, segnando la fine definitiva del controllo giudaita su questo porto strategico del Mar Rosso e l'effettiva chiusura dell'accesso commerciale marittimo meridionale di Giuda.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_elat",
+      "nombre": "Edomiti",
+      "descripcion": "Originaria e definitiva popolazione di Elat in ripresa, che riprese il controllo del porto durante il regno di Achaz, espellendo definitivamente i Giudei dalla regione.",
+      "religion": "Politeismo edomita – culto di Qos",
+      "periodo": "C. 1000–586 aC, con controllo definitivo da c. 735 a.C"
+    },
+    {
+      "id": "judaitas_elat",
+      "nombre": "Giudaiti",
+      "descripcion": "Città e guarnigione di Giuda che occupò Elat dopo il suo recupero e fortificazione da parte del re Uzias, perduta definitivamente decenni dopo.",
+      "religion": "Yahvismo",
+      "periodo": "C. 791–735 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "uzias-fortifica-elat",
+      "titulo": "Uzzia recupera e fortifica Elat",
+      "fecha": "c. 791–740 a.C.",
+      "descripcion": "Re Uzzia di Giuda costruisce Elath e la restaura a Giuda dopo un periodo di controllo edomita, ricostruendo il porto come parte del suo vasto programma di rafforzamento militare e commerciale del regno.",
+      "referencias": [
+        "2 Re 14:22",
+        "2 Cr 26:2"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "rezin-recupera-elat",
+      "titulo": "Edom recupera definitivamente Elat sotto Achaz",
+      "fecha": "c. 735 a.C.",
+      "descripcion": "Durante il regno di Achaz, Rezin, re di Siria, recupera Elat per Edom e da lì espelle i Giudaiti; Gli edomiti si stabiliscono a Elat e vi restano fino al momento del racconto biblico, che segna la fine definitiva del controllo giudaita sul porto.",
+      "referencias": [
+        "2 Re 16:6"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "salomon-elat-contexto-original",
+      "titulo": "Elat insieme a Ezion-geber all'origine del commercio marittimo salomonico",
+      "fecha": "c. 960 a.C.",
+      "descripcion": "Il testo biblico collega Elath a Ezion-Geber come punto di partenza originale della flotta mercantile del Mar Rosso di Salomone, stabilendo il precedente storico per l'importanza commerciale di questa regione costiera meridionale per Israele.",
+      "referencias": [
+        "1 Re 9:26"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias_elat",
+      "nombre": "Uzzia",
+      "rol": "Re di Giuda, recuperatore e fortificatore di Elat",
+      "periodo": "hierro_2",
+      "descripcion": "Reclama e fortifica Elat per Giuda come parte del suo ampio e riuscito programma di rafforzamento militare ed economico del regno, prima della sua successiva caduta nell'orgoglio e nella malattia.",
+      "referencias": [
+        "2 Cr 26:1-15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "elath"
+      ]
+    },
+    {
+      "id": "rezin_elat",
+      "nombre": "Rezin, re di Siria",
+      "rol": "Re aramaico, ultimo recuperatore di Elat per Edom",
+      "periodo": "c. 735 a.C.",
+      "descripcion": "Recupera Elat per gli edomiti ed espelle i giudaiti durante il regno di Achaz, nel contesto della guerra siro-efraimita contro Giuda.",
+      "referencias": [
+        "2 Re 16:5-6"
+      ],
+      "ruta": [
+        "elath"
+      ]
+    },
+    {
+      "id": "acaz_elat",
+      "nombre": "Achaz",
+      "rol": "Re di Giuda, contemporaneo della perdita di Elat",
+      "periodo": "c. 735–715 a.C.",
+      "descripcion": "Durante il suo regno, segnato da una crisi politica e religiosa, Giuda perse definitivamente il controllo su Elat, episodio che si inserisce nel generale deterioramento della posizione di Giuda nei confronti dei suoi vicini in questo periodo.",
+      "referencias": [
+        "2 Re 16:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elath non ha una tradizione di culto propria prominente nel testo biblico, ma la sua storia ricorrente di perdita e recupero tra Giuda e Edom illustra il modello teologico deuteronomista secondo cui il possesso territoriale di Giuda è direttamente collegato alla forza morale e politica dei suoi re: prospera sotto il regno militarmente vincente di Uzzia e viene definitivamente perduta durante il regno di Achaz, associata nel testo biblico a politiche religiose compromesse e crisi di fede nazionale.",
+    "religiones_presentes": [
+      "Yahvismo (periodo di controllo ebraico)",
+      "Politeismo edomita – culto di Qos"
+    ],
+    "mitos": [
+      {
+        "id": "perdida-elat-deterioro-acaz",
+        "nombre": "La perdita di Elat come segno di deterioramento sotto Achaz",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 16:5-6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el reinado de Acaz como período de crisis política y religiosa para Judá",
+          "descripcion": "La tradizione ebraica collega la perdita definitiva di Elat al contesto più ampio del regno di Achaz, caratterizzato da scelte religiose problematiche e debolezza politica nei confronti delle potenze vicine, interpretando l'episodio del porto perduto come un sintomo tangibile del generale deterioramento del regno sotto questo monarca.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La perdita territoriale di Elat viene interpretata come una conseguenza tangibile dell'indebolimento religioso e politico del regno sotto un re infedele all'alleanza con YHWH.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

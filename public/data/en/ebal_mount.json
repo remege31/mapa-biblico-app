@@ -1,0 +1,148 @@
+{
+  "id": "ebal_mount",
+  "nombre": "Mount Ebal",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.23293813761263,
+  "lng": 35.27304180036391,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Ceremony of Blessings and Curses"
+    }
+  ],
+  "descripcion_geo": "Mountain in the center of Canaan, facing Mount Gerizim, separated by the valley where Shechem sits, scene of the ritual ceremony of blessings and curses prescribed by Moses to be performed immediately after Israel's entry into the promised land.",
+  "altitud_m": 940,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the central hills of Samaria.",
+  "recursos": [
+    "Elevated position for the ceremony of blessings and curses",
+    "Altar built by Joshua with unhewn stones"
+  ],
+  "importancia_estrategica": "Mount Ebal is the scene of one of the most significant covenant renewal rituals in the entire Pentateuch: six tribes stand on the Gerizim to pronounce blessings and six on the Ebal to pronounce curses, while Joshua builds an altar and writes the Law on stones, publicly formalizing the pact between Israel and YHWH just as effective possession of the land begins.",
+  "otros_habitantes": [
+    {
+      "id": "seis_tribus_ebal",
+      "nombre": "Tribes of Reuben, Gad, Asher, Zebulun, Dan and Naphtali",
+      "descripcion": "The six tribes designated to stand on Mount Ebal and pronounce the curses corresponding to disobedience of the Law.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200 BC (narrative)"
+    },
+    {
+      "id": "levitas_ebal",
+      "nombre": "Levitical priests",
+      "descripcion": "Responsible for carrying the Ark of the Covenant and formally proclaiming each blessing and curse before the entire congregation gathered between both mountains.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-instruye-ceremonia-ebal",
+      "titulo": "Moses instructs the ceremony of Ebal and Gerizim",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Before his death, Moses instructs in detail that, upon crossing the Jordan, Israel must divide into two groups of six tribes each, placing themselves on the Gerizim for blessings and on the Ebal for curses, also specifying the construction of an altar of unhewn stones on the latter mountain.",
+      "referencias": [
+        "Deut 27:1-13"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "josue-construye-altar-ebal",
+      "titulo": "Joshua builds an altar on Mount Ebal",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Fulfilling the Mosaic instruction, Joshua builds an altar to YHWH on Mount Ebal with whole stones on which no iron tool had been raised, offering burnt offerings and peace sacrifices, and writes there a copy of the Law of Moses on the stones.",
+      "referencias": [
+        "Josh 8:30-32"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "lectura-publica-bendiciones-maldiciones-ebal",
+      "titulo": "Public reading of the entire Law between Ebal and Gerizim",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Joshua publicly reads the entire Law—blessings and curses—before the entire assembly of Israel, including women, children, and resident foreigners, situated between both mountains in exact compliance with the instructions given by Moses generations before.",
+      "referencias": [
+        "Josh 8:33-35"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_ebal",
+      "nombre": "Moses",
+      "rol": "Legislator, instructor of the ceremony",
+      "periodo": "bronce_tardio",
+      "descripcion": "It establishes in detail the instructions for the ceremony of renewal of the covenant that will be performed on Mounts Ebal and Gerizim immediately after entering the promised land.",
+      "referencias": [
+        "Deut 27:1-26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_ebal",
+      "nombre": "Joshua",
+      "rol": "Leader of Israel, performer of the ceremony",
+      "periodo": "bronce_tardio",
+      "descripcion": "He carries out the Mosaic instructions exactly by building the altar, writing the Law on the stones, and leading the public reading of blessings and curses before the entire Israel congregation.",
+      "referencias": [
+        "Josh 8:30-35"
+      ],
+      "ruta": [
+        "ebal_mount"
+      ]
+    },
+    {
+      "id": "levitas_ebal_personaje",
+      "nombre": "Levitical priests carrying the Ark",
+      "rol": "Ritual performers of the ceremony",
+      "periodo": "c. 1200 BC",
+      "descripcion": "They carry the Ark of the Covenant and formally proclaim each specific blessing and curse before the entire assembly gathered between the two mountains.",
+      "referencias": [
+        "Deut 27:14-26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Ebal is the scene of the most complete ritual formalization of the alliance between Israel and YHWH immediately after the conquest: the symmetrical division of the tribes between blessing and curse, the construction of an altar with stones not carved by human tools, and the public and inclusive reading of the entire Law before men, women, children and foreigners, establish a model of covenant renewal that combines liturgical solemnity with universal community participation.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "altar-piedras-no-labradas-ebal",
+        "nombre": "The altar of unhewn stones on Mount Ebal",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 27:5-6; Jos 8:30-31",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el simbolismo de las piedras sin labrar como rechazo del orgullo humano en la construcción de altares dedicados a YHWH",
+          "descripcion": "Jewish tradition extensively develops the meaning of the prohibition of using iron tools to carve the stones of the altar of Ebal, interpreting this restriction as a symbolic rejection of the intervention of pride or artificial human perfection in a space dedicated exclusively to the presence and service of YHWH, a principle later extended to the construction of the Temple itself.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The uncut natural stones symbolize that the sanctity of the place comes exclusively from the divine presence, not from human artifice or aesthetic perfection.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

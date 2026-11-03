@@ -1,0 +1,149 @@
+{
+  "id": "horonaim",
+  "nombre": "Horonaim",
+  "tipo": "ciudad",
+  "lat": 31.288056,
+  "lng": 35.515,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Città moabita meridionale, oracoli di giudizio"
+    }
+  ],
+  "descripcion_geo": "Città all'estremità meridionale di Moab, menzionata esclusivamente in contesti di oracoli profetici di giudizio. Il suo nome (\"due caverne\" o \"doppia caverna\") suggerisce un terreno con caratteristiche formazioni rocciose o grotte.",
+  "altitud_m": 500,
+  "clima": "Semi-arido: estati calde e secche, inverni freddi, tipici dell'estremità meridionale di Moab.",
+  "recursos": [
+    "Formazioni rocciose o grotte (probabile origine del nome)",
+    "Posizione all'estremità meridionale del territorio moabita"
+  ],
+  "importancia_estrategica": "Horonaim non ha alcuna rilevanza narrativa al di là della sua ripetuta menzione negli oracoli profetici di giudizio contro Moab, dove appare come una delle città del 'sentiero di Horonaim' attraverso il quale si diffonde il grido di distruzione descritto sia da Isaia che da Geremia, a conferma che anche le città dell'estremo sud del regno sono incluse nell'intero ambito del giudizio annunciato.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_horonaim",
+      "nombre": "Moabiti",
+      "descripcion": "Originaria e unica popolazione documentata di Horonaim, città situata all'estremità meridionale del regno di Moab.",
+      "religion": "Politeismo moabita: culto di Chemosh",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "fugitivos_horonaim",
+      "nombre": "Fuggitivi dal giudizio profetizzato",
+      "descripcion": "Popolazione moabita che, secondo oracoli profetici, fugge lungo la strada verso Horonaim, gridando distruzione e distruzione davanti al giudizio annunciato.",
+      "religion": "Politeismo moabita",
+      "periodo": "C. 600 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-clamor-horonaim",
+      "titulo": "Isaia descrive il grido di distruzione sul sentiero di Horonaim",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Il profeta Isaia annovera la strada verso Horonaim tra i luoghi dove si leva il grido di distruzione nel suo ampio oracolo di giudizio contro Moab, descrivendo la fuga disperata della popolazione dalla devastazione annunciata.",
+      "referencias": [
+        "Is 15:5"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-llanto-horonaim",
+      "titulo": "Geremia profetizza il grido di distruzione di Horonaim",
+      "fecha": "c. 600 a.C.",
+      "descripcion": "Geremia riprende ed espande l'immagine di Isaia, descrivendo come da Horonaim si levi un grido di distruzione e di grande sconquasso, in uno dei passaggi più estesi e dettagliati dell'oracolo di giudizio contro l'insieme delle città moabite.",
+      "referencias": [
+        "Ger 48:3",
+        "Ger 48:5",
+        "Ger 48:34"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "horonaim-geografia-completa-moab",
+      "titulo": "Horonaim come parte della geografia totale della sperimentazione Moab",
+      "fecha": "c. 600 a.C.",
+      "descripcion": "La ripetuta menzione di Horonaim insieme ad altre città moabite negli oracoli di Isaia e Geremia conferma l'intenzione profetica di documentare l'interezza geografica del territorio sotto giudizio, dalle città settentrionali come Nebo all'estremo sud rappresentato da Horonaim.",
+      "referencias": [
+        "Ger 48:1-46"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_horonaim",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Menziona Horonaim nel suo oracolo di giudizio contro Moab, stabilendo il modello che Geremia avrebbe ripreso e ampliato considerevolmente nelle generazioni successive.",
+      "referencias": [
+        "Is 15:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_horonaim",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Sviluppa più dettagliatamente il lamento su Horonaim, integrandolo nell'ampio catalogo delle città moabite interessate dall'annunciato giudizio divino.",
+      "referencias": [
+        "Ger 48:1-46"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "moabitas_horonaim_personaje",
+      "nombre": "Popolazione moabita di Horonaim",
+      "rol": "Abitanti in fuga dalla sentenza annunciata",
+      "periodo": "c. 600 a.C.",
+      "descripcion": "Descritto negli oracoli profetici in fuga lungo la strada che porta il nome della città, lanciando grida di distruzione per l'imminente devastazione del regno moabita.",
+      "referencias": [
+        "Ger 48:3-5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Horonaim manca di un proprio sviluppo narrativo al di fuori degli oracoli profetici di giudizio; La sua funzione nel testo biblico è puramente geografico-poetica, costituendo uno dei punti della 'mappa profetica' che documenta la totale estensione del territorio moabita sottoposto al giudizio divino, dalle città degli altipiani settentrionali fino a questa punta meridionale, rafforzando l'idea che nessuna regione del regno sfuggirà alla distruzione annunciata.",
+    "religiones_presentes": [
+      "Politeismo moabita: culto di Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "mapa-profetico-horonaim",
+        "nombre": "Horonaim nella mappa profetica del giudizio su Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 15:5; Jer 48:3-5, 34",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función geográfica de las listas de ciudades en los oráculos de juicio profético contra las naciones",
+          "descripcion": "La tradizione ebraica osserva che la menzione sistematica e dettagliata di città specifiche come Horonaim negli oracoli profetici contro Moab funziona come un espediente retorico per sottolineare la completezza e la certezza del giudizio annunciato, coprendo metodicamente l'intera geografia del regno da nord a sud senza eccezioni.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L’attenta inclusione di città minori come Horonaim rafforza l’idea che il giudizio divino sulle nazioni è esaustivo e non lascia alcun posto fuori dalla sua portata.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

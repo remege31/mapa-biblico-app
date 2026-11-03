@@ -1,0 +1,192 @@
+{
+  "id": "debir",
+  "nombre": "essere debitore",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.4167,
+  "lng": 34.9667,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città cananea conquistata da Giosuè e Othniel"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Città di rifugio levitico in Giuda"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Giuda Città di confine meridionale"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Debir (ebraico: דְּבִיר, forse \"santuario interiore\" o \"luogo dell'oracolo\") era una città cananea sulle colline meridionali di Giuda, a circa 13 km a sud-ovest di Hebron. Probabilmente identificato con Tell Beit Mirsim (ampiamente scavato da W.F. Albright negli anni '20 -'30) o Khirbet Rabud, dominava le rotte tra Hebron e il Negev occidentale. Chiamata anche Kiriath-séfer (\"città del libro\" o \"città della scrittura\") prima della conquista israelita, suggerendo che potrebbe essere stata un centro di cultura scritta o di archivi. Gli scavi a Tell Beit Mirsim hanno rivelato una fiorente città del tardo bronzo con un'industria tessile avanzata.",
+  "altitud_m": 580,
+  "clima": "Giuda Mediterraneo meridionale semi-arido: precipitazioni di 350-450 mm all'anno, estati calde e secche, inverni freddi con piogge occasionali. Terreni adatti ad uliveto e allevamento.",
+  "recursos": [
+    "Industria tessile e tintoria (documentata archeologicamente a Tell Beit Mirsim)",
+    "Uliveti sulle pendici delle colline",
+    "Allevamento ovino e caprino",
+    "Posizione di controllo sulla rotta meridionale-Hebron verso il Negev occidentale",
+    "Calcare per l'edilizia"
+  ],
+  "importancia_estrategica": "Debir era una città di rifugio (Gsè 20:7, sebbene condivida questo incarico con altre città; Gsè 21:15 la elenca come una città levitica). La sua conquista da parte di Otoniel, il primo giudice di Israele, ne fece un simbolo dell'inizio del periodo dei giudici. Era un punto chiave nel sistema difensivo meridionale di Giuda e controllava l'accesso al Negev da ovest di Hebron.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-debir",
+      "nombre": "Cananei di Kiriath-Sefer",
+      "descripcion": "La città era conosciuta come Kiriath-sepher (\"città della scrittura\") prima della conquista israelita, suggerendo un'élite cananea colta o un centro di documenti amministrativi. Il loro re era uno dei trentuno re Cananei sconfitti da Giosuè (Giosuè 12:13). La città fu distrutta e ricostruita, testimonianza archeologica della violenta transizione tra la tarda età del bronzo e la prima età del ferro.",
+      "religion": "Politeismo Cananeo: culto di Baal, Asera e divinità locali delle alture meridionali di Giuda",
+      "periodo": "Tardo Bronzo al c. 1200 a.C"
+    },
+    {
+      "id": "levitas-debir",
+      "nombre": "Leviti della famiglia di Aronne",
+      "descripcion": "Debir fu assegnata come città levitica ai figli di Aronne (Gs 21:15; 1 Cron 6:43). I leviti qui stabiliti facevano parte del sistema di città sacerdotali distribuite su tutto il territorio israelita per garantire l'istruzione religiosa e la giustizia nelle regioni lontane dai santuari centrali. La sua presenza trasformò una città cananea di cultura scritta in un centro di insegnamento della Torah.",
+      "religion": "Yahvismo Levitico: insegnamento della Torah e funzioni della città di rifugio",
+      "periodo": "Ferro I-II, dalla conquista fino al 586 a.C."
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-debir",
+      "titulo": "Giosuè conquista Debir: la campagna del sud",
+      "fecha": "c. 1220 a.C.",
+      "descripcion": "Dopo le vittorie di Canaan (Gerico, Ai, Gabaon) al centro, Giosuè ha intrapreso la campagna meridionale. Il re di Gerusalemme formò una coalizione di cinque re contro Gabaon per essersi alleato con Israele; Giosuè ha marciato tutta la notte da Galgala e li ha sorpresi. Jahvè ha lanciato su di loro grossi chicchi di grandine e ha fermato il sole su Gabaon. Dopo la vittoria, Giosuè ha continuato sistematicamente verso sud: ha preso Libna, Lachis, Eglon, Hebron e infine Debir. Il testo descrive la campagna come un'operazione metodica: 'Giosuè prese Debir con il suo re, con tutte le sue città dipendenti; Li trafisse a fil di spada e lanciò l'anatema su ogni essere vivente». La città che era stata Kiriath-Sefer passò nelle mani degli Israeliti.",
+      "referencias": [
+        "Gs 10:38-39",
+        "Gs 10:1-15",
+        "Gs 12:13"
+      ],
+      "personajes_clave": [
+        "josue-debir",
+        "caleb"
+      ]
+    },
+    {
+      "id": "otoniel-conquista-debir",
+      "titulo": "Otoniel conquista Debir: il primo giudice vince la moglie",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Il libro di Giosuè preserva una tradizione alternativa o complementare sulla conquista di Debir, con protagonisti Caleb e la sua famiglia. Caleb, ormai vecchio, ricevette Hebron in eredità e annunciò: \"Chiunque attaccherà Kiriath-Sefer e la prenderà, io darò mia figlia Achsha in moglie\". Othniel ben Kenaz, nipote di Caleb (alcuni testi lo chiamano fratello minore), prese la città e ricevette Achsha come sua moglie. Qui, lungi dall'essere una ricompensa passiva, agì in modo intelligente: convinse suo padre a dargli anche delle sorgenti d'acqua: \"Mi hai dato la terra del Negev, dammi anche delle sorgenti d'acqua\". Caleb gli diede le molle superiori e inferiori. Questo Otniel sarebbe diventato il primo giudice di Israele, liberatore dal giogo di Cushan-rishataim di Mesopotamia (Giudici 3:7-11), trasformando la sua impresa a Debir nel trampolino di lancio per una carriera di leadership nazionale.",
+      "referencias": [
+        "Gs 15:15-19",
+        "Gdc 1:11-15",
+        "Gdc 3:7-11"
+      ],
+      "personajes_clave": [
+        "otoniel",
+        "acsa",
+        "caleb"
+      ]
+    },
+    {
+      "id": "debir-ciudad-refugio-levitas",
+      "titulo": "Debir: città levitica e rifugio",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Nella distribuzione del territorio tra le tribù, Debir ricevette un doppio incarico speciale: città levitica per i figli di Aronne (Gsè 21,15) e città di rifugio (Gsè 20). Le città di rifugio erano centri in cui l'assassino involontario poteva fuggire per sfuggire al \"vendicatore del sangue\" fino al giudizio del suo caso. Debir, all'estremità meridionale del territorio di Giuda, completava il sistema di sei città di rifugio distribuite simmetricamente su tutto il territorio israelita (tre a est del Giordano, tre a ovest). La sua funzione legale – garantire che la giustizia prevalesse sulla vendetta privata – fece dell’antica città cananea della scrittura la custode di un principio giuridico rivoluzionario nell’antico Vicino Oriente.",
+      "referencias": [
+        "Gs 20:7",
+        "Gs 21:13-15",
+        "Nm 35:9-15"
+      ],
+      "personajes_clave": [
+        "otoniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "otoniel",
+      "nombre": "Otoniel",
+      "rol": "Conquistatore di Debir, primo giudice di Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Othniel ben Kenaz è il prototipo del giudice israelita: guerriero coraggioso, marito di una donna intelligente, liberatore del suo popolo. La sua conquista di Kiriath-Sefer/Debir gli valse Acsa come moglie e stabilì la sua reputazione militare. In qualità di giudice, liberò Israele dal giogo di Cushan-rishataim (re di Mesopotamia) per quarant'anni. Il testo del libro dei Giudici lo presenta come un modello senza difetti: non gli viene attribuito alcun fallimento personale o apostasia, a differenza di giudici successivi come Gedeone o Sansone. È significativo che il primo giudice provenga dal clan di Caleb, non dalle tribù centrali, sottolineando che la leadership in Israele derivava dal merito dimostrato, non dalla nascita.",
+      "referencias": [
+        "Gdc 1:13",
+        "Gdc 3:7-11",
+        "Gs 15:17"
+      ],
+      "ruta": [
+        "debir",
+        "hebron"
+      ]
+    },
+    {
+      "id": "acsa",
+      "nombre": "Qui",
+      "rol": "Figlia di Caleb, moglie di Otniel, negoziatore delle sorgenti",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "Qui Caleb è uno dei personaggi femminili più assertivi nel libro di Giosuè. Donata come premio di nozze al conquistatore di Debir, trasformò la sua posizione da oggetto a soggetto attivo: convinse il padre a integrare l'arida terra del Negev con sorgenti d'acqua, risorsa vitale in un'area semiarida. La sua richiesta diretta (\"Mi hai dato la terra del Negev, dammi anche sorgenti d'acqua\") e la generosa risposta di Caleb (le diede le sorgenti sopra e le sorgenti sotto) stabiliscono un modello insolito di una donna che negozia la sua eredità in un sistema patriarcale. Le sorgenti da lui ottenute hanno garantito per generazioni la vitalità economica della zona di Debir.",
+      "referencias": [
+        "Gs 15:16-19",
+        "Gdc 1:12-15"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caleb",
+      "nombre": "Caleb",
+      "rol": "Fedele esploratore, conquistatore di Hebron, padre di Acsá",
+      "periodo": "bronce_tardio",
+      "descripcion": "Caleb ben Jefone, del clan Kenaz integrato in Giuda, è stata una delle dodici spie inviate ad esplorare Canaan. Insieme a Giosuè, ha dato un rapporto di fede rispetto al rapporto di paura degli altri dieci, che gli è valso la promessa divina di ereditare la terra sotto i suoi piedi. All'età di ottantacinque anni, quando Israele stava spartindosi il territorio, rivendicò Hebron e le colline meridionali di Giuda: \"Dammi questa montagna di cui ha parlato Jahvè\". Il suo vigore in età avanzata e l'assegnazione di Debir a suo nipote/fratello Otoniel lo presentano come un leader che alleva la generazione successiva mentre lui stesso conquista la propria eredità.",
+      "referencias": [
+        "Nm 13:30",
+        "Nm 14:24",
+        "Gs 14:6-15"
+      ],
+      "ruta": [
+        "sinai",
+        "canaan",
+        "hebron",
+        "debir"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Debir, il cui nome può significare \"santuario interiore\" o \"oracolo\", incarna un'ironia significativa: la città cananea della scrittura (Kiriath-sepher) divenne una città levitica di insegnamento della Torah. La conquista di Debir è anche la scena del primo matrimonio mediante impresa militare nell'Antico Testamento, un motivo che unisce l'eroismo guerriero con l'intelligente negoziazione matrimoniale di Acsá. Il sistema delle città di rifugio, di cui Debir faceva parte, rappresentò uno dei progressi giuridici più significativi nel diritto biblico: la distinzione tra omicidio intenzionale e non intenzionale e la protezione dell'accusato fino al processo.",
+    "religiones_presentes": [
+      "Politeismo Cananeo — culto pre-israelita nella città di Kiriath-Sefer",
+      "Yahvismo levitico — città sacerdotale e rifugio dopo la conquista"
+    ],
+    "mitos": [
+      {
+        "id": "ciudades-refugio",
+        "nombre": "Città di rifugio: giustizia contro vendetta",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 35:9-28; Jos 20:1-9; Dt 19:1-13",
+          "fuente_secundaria": "Mishná Makot 2:1-8; Maimonides, Mishné Torá, Hiljot Rotzeaj 5:1",
+          "descripcion": "Le sei città di rifugio (arei miklat) sono una delle istituzioni giuridiche più elaborate del diritto biblico. La Mishnah (Makot 2) specifica che le strade verso le città di rifugio dovevano essere mantenute larghe e ben segnalate, che i leviti dovevano fornire cibo al rifugiato e che il sommo sacerdote la cui morte liberò il rifugiato doveva vivere lunghi anni in modo che gli assassini involontari non desiderassero la sua morte. Maimonide sistematizzò che la città di rifugio non fosse una prigione ma una protezione: il profugo poteva esercitare liberamente la sua professione entro i suoi limiti.",
+          "similitudes": "La distinzione tra omicidio colposo e colposo e la tutela dell'imputato prima del processo sono principi condivisi anche dagli ordinamenti successivi.",
+          "diferencias": "L'impianto biblico collega la liberazione del profugo alla morte naturale del sommo sacerdote, elemento senza paralleli in altri ordinamenti giuridici.",
+          "significado_teologico": "La vita umana ha un valore assoluto che non può essere oggetto di vendetta privata. Lo Stato (rappresentato dai leviti e dal sistema giudiziario) ha l'obbligo di proteggere anche chi ha causato involontariamente un danno.",
+          "posible_relacion_cultural": "Il principio di distinzione tra omicidio intenzionale e involontario appare nel Codice di Hammurabi (§206-208) e nel diritto ittita, pur senza il sistema istituzionale di rifugio che il testo biblico sviluppa."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Eb 6:18; Mt 5:21-26",
+          "fuente_secundaria": "Orígenes, Homilías sobre Josué, X",
+          "descripcion": "Origene interpreta allegoricamente le città di rifugio: sono una figura di Cristo, il rifugio verso cui può rifugiarsi il peccatore. L'«ampia via verso la città del rifugio» prefigura la facilità di accesso alla grazia. Ebrei 6:18 utilizza implicitamente il motivo: i credenti hanno 'una forte consolazione per coloro che fuggono per rifugiarsi nella speranza proposta'. Gesù nel Discorso della Montagna (Mt 5,21-22) radicalizzò la distinzione tra omicidio e ira, interiorizzando il principio giuridico in un'esigenza morale.",
+          "similitudes": "La funzione protettiva della città di rifugio come libero accesso alla sicurezza è parallela alla funzione di Cristo come mediatore nella teologia paolina e nella lettera agli Ebrei.",
+          "diferencias": "La tipologia cristiana trasforma l'istituto giuridico in un'immagine spirituale; la città fisica diventa una persona (Cristo).",
+          "significado_teologico": "Cristo è la città di rifugio definitiva: in Lui il peccatore trova protezione dalla giustizia divina, non perché non abbia commesso un danno, ma perché intercede l'eterno sommo sacerdote.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

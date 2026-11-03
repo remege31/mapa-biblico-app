@@ -1,0 +1,153 @@
+{
+  "id": "elath",
+  "nombre": "Elat",
+  "tipo": "ciudad",
+  "lat": 29.528502,
+  "lng": 35.005732,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Edomite port disputed between Judah and Edom"
+    }
+  ],
+  "descripcion_geo": "Port at the northern end of the Gulf of Aqaba, very close to Ezion-geber, in originally Edomite territory, whose control repeatedly oscillated between Judah and Edom throughout the divided monarchy, reflecting the kingdom's southern border instability.",
+  "altitud_m": 0,
+  "clima": "Tropical desert — extremely hot throughout the year, with very little precipitation, typical of the coast of the Gulf of Aqaba.",
+  "recursos": [
+    "Natural harbor on the Red Sea",
+    "Disputed position between Judah and Edom",
+    "Access to southern trade routes"
+  ],
+  "importancia_estrategica": "Elath exemplifies the pattern of southern border dispute between Judah and Edom: fortified by Uzziah after recapturing it for Judah, it was eventually reconquered by the Edomites during the reign of Ahaz, marking the definitive end of Judahite control over this strategic Red Sea port and the effective closure of Judah's southern maritime trade access.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_elat",
+      "nombre": "Edomites",
+      "descripcion": "Original and final recovering population of Elat, which regained control of the port during the reign of Ahaz, definitively expelling the Judaites from the region.",
+      "religion": "Edomite polytheism – cult of Qos",
+      "periodo": "c. 1000–586 BC, with definitive control from c. 735 BC"
+    },
+    {
+      "id": "judaitas_elat",
+      "nombre": "Judaites",
+      "descripcion": "Town and garrison of Judah that occupied Elat after its recovery and fortification by King Uzias, definitively lost decades later.",
+      "religion": "Yahwism",
+      "periodo": "c. 791–735 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "uzias-fortifica-elat",
+      "titulo": "Uzziah recovers and fortifies Elat",
+      "fecha": "c. 791–740 BC",
+      "descripcion": "King Uzziah of Judah builds Elath and restores it to Judah after a period of Edomite control, rebuilding the port as part of his extensive program of military and commercial strengthening of the kingdom.",
+      "referencias": [
+        "2 Kgs 14:22",
+        "2 Chr 26:2"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "rezin-recupera-elat",
+      "titulo": "Edom definitively recovers Elat under Ahaz",
+      "fecha": "c. 735 BC",
+      "descripcion": "During the reign of Ahaz, Rezin, king of Syria, recovers Elat for Edom and expels the Judahites from there; The Edomites settle in Elat and remain until the time of the biblical account, marking the definitive end of Judaite control over the port.",
+      "referencias": [
+        "2 Kgs 16:6"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "salomon-elat-contexto-original",
+      "titulo": "Elat together with Ezion-geber at the origin of Solomonic maritime trade",
+      "fecha": "c. 960 BC",
+      "descripcion": "The biblical text links Elath to Ezion-geber as the original departure point of Solomon's Red Sea merchant fleet, establishing the historical precedent for the commercial importance of this southern coastal region to Israel.",
+      "referencias": [
+        "1 Kgs 9:26"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias_elat",
+      "nombre": "Uzziah",
+      "rol": "King of Judah, recoverer and fortifier of Elat",
+      "periodo": "hierro_2",
+      "descripcion": "He reclaims and fortifies Elat for Judah as part of his successful and extensive program of military and economic strengthening of the kingdom, before its subsequent fall into pride and disease.",
+      "referencias": [
+        "2 Chr 26:1-15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "elath"
+      ]
+    },
+    {
+      "id": "rezin_elat",
+      "nombre": "Rezin, king of Syria",
+      "rol": "Aramaic king, final recoverer of Elat for Edom",
+      "periodo": "c. 735 BC",
+      "descripcion": "He recovers Elat for the Edomites and expels the Judaites during the reign of Ahaz, in the context of the Syro-Ephraimite war against Judah.",
+      "referencias": [
+        "2 Kgs 16:5-6"
+      ],
+      "ruta": [
+        "elath"
+      ]
+    },
+    {
+      "id": "acaz_elat",
+      "nombre": "Ahaz",
+      "rol": "King of Judah, contemporary of the loss of Elat",
+      "periodo": "c. 735–715 BC",
+      "descripcion": "During his reign, marked by political and religious crisis, Judah definitively lost control over Elat, an episode that is part of the general deterioration of Judah's position vis-à-vis its neighbors in this period.",
+      "referencias": [
+        "2 Kgs 16:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elath has no cult tradition of its own prominent in the biblical text, but its recurring story of loss and recovery between Judah and Edom illustrates the Deuteronomist theological pattern that the territorial possession of Judah is directly linked to the moral and political strength of its kings: it prospers under the militarily successful reign of Uzziah and is definitively lost during the reign of Ahaz, associated in the biblical text with compromised religious policies and crises of national faith.",
+    "religiones_presentes": [
+      "Yahwism (Jewish control period)",
+      "Edomite polytheism – cult of Qos"
+    ],
+    "mitos": [
+      {
+        "id": "perdida-elat-deterioro-acaz",
+        "nombre": "The loss of Elat as a sign of deterioration under Ahaz",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 16:5-6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el reinado de Acaz como período de crisis política y religiosa para Judá",
+          "descripcion": "Jewish tradition links the definitive loss of Elath to the broader context of Ahaz's reign, characterized by problematic religious decisions and political weakness vis-à-vis neighboring powers, interpreting the episode of the lost port as a tangible symptom of the general deterioration of the kingdom under this monarch.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The territorial loss of Elat is interpreted as a tangible consequence of the religious and political weakening of the kingdom under a king unfaithful to the alliance with YHWH.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

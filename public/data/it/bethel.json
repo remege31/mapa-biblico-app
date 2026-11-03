@@ -1,0 +1,216 @@
+{
+  "id": "bethel",
+  "nombre": "Betel",
+  "tipo": "ciudad",
+  "lat": 31.9305,
+  "lng": 35.221,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 82,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Età del Bronzo Medio – Periodo Patriarcale"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: pre-conquista Canaan"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: insediamento tribale"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: Regno diviso"
+    }
+  ],
+  "descripcion_geo": "Betel si trova nelle Benjamin Highlands, a circa 18 km a nord di Gerusalemme, a 880 metri sul livello del mare. Situato all'incrocio di due percorsi principali, il percorso di montagna nord-sud e la strada che scende a Gerico, controllava l'accesso al cuore di Canaan. La sua posizione elevata gli dava il dominio visivo sulle fertili valli e consentiva la comunicazione con le città vicine come Ai e Mizpah.",
+  "altitud_m": 880,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con precipitazioni frequenti. Le precipitazioni annuali raggiungono i 550-650 mm, sufficienti per l'agricoltura nelle zone aride.",
+  "recursos": [
+    "Acqua (sorgenti locali e cisterne scavate nella roccia)",
+    "Calcare (costruzione)",
+    "Terreni agricoli terrazzati",
+    "pascolo del bestiame"
+  ],
+  "importancia_estrategica": "Controllava l'incrocio stradale tra Gerusalemme e Sichem e l'accesso dalla pianura costiera all'interno montuoso. La sua altezza ne faceva una naturale posizione difensiva. Come centro religioso pre-israelita e poi santuario reale nel nord, concentrava contemporaneamente il potere politico e quello sacerdotale.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-bethel",
+      "nombre": "Cananei della Luce",
+      "descripcion": "Il nome originale di Betel era Luz, una città cananea di notevoli dimensioni. I suoi abitanti praticavano culti della fertilità in luoghi alti. Quando la casa di Giuseppe fu presa (Giudici 1:22-26), un abitante mostrò loro l'ingresso in cambio della sua vita.",
+      "religion": "Politeismo Cananeo: culto di Baal e Asera nei bamot (altari in luoghi alti)",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "bethel-sacerdotes",
+      "nombre": "Sacerdoti del santuario reale",
+      "descripcion": "Dopo la divisione del regno (930 a.C. circa), Geroboamo I installò un clero non levitico in Betel per servire il vitello d'oro. Il sacerdote Amatsia, capo del santuario, affrontò il profeta Amos e lo espulse dalla città (Am 7,10-17).",
+      "religion": "Culto sincretistico Yahwista: adorazione di YHWH sotto forma di vitello d'oro",
+      "periodo": "C. 930–722 a.C. (periodo del Regno del Nord)"
+    },
+    {
+      "id": "bethel-asirios",
+      "nombre": "Coloni assiri e samaritani",
+      "descripcion": "Dopo la caduta di Samaria (722 a.C.), gli Assiri ripopolarono la regione con genti provenienti da altre province. Un sacerdote israelita fu rimandato a Betel per insegnare ai nuovi abitanti la religione del dio di quella terra (2 Re 17:27-28).",
+      "religion": "Sincretismo: mescolanza del culto yahvista con le tradizioni religiose mesopotamiche",
+      "periodo": "C. 722–539 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-escalera",
+      "titulo": "La scala di Giacobbe: la soglia del paradiso",
+      "fecha": "c. 1800 a.C.",
+      "descripcion": "In fuga da suo fratello Esaù, Giacobbe si accampò a Luz e dormì con una pietra come cuscino. Nei suoi sogni vedeva una scala che collegava la terra al cielo, lungo la quale gli angeli salivano e scendevano. YHWH ha rinnovato le promesse fatte a Abramo. Al risveglio, Giacobbe unse la pietra con olio, la dichiarò casa di Dio e promise la decima se fosse tornata sana e salva. Il posto si chiamava Betel. Più tardi, al ritorno da Paddan-Aram, Dio gli comandò di tornare a Betel, dove Giacobbe seppellì gli idoli della sua famiglia, ricevette il nome Israele e costruì un altare.",
+      "referencias": [
+        "Gen 28:10-22",
+        "Gen 35:1-15"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "jeroboam-becerro",
+      "titulo": "Il vitello d'oro: il santuario del regno diviso",
+      "fecha": "c. 930 a.C.",
+      "descripcion": "Dopo la morte di Salomone e la secessione delle dieci tribù settentrionali, Geroboamo I stabilì due vitelli d'oro, uno a Betel e uno a Dan, per impedire alle persone di fare un pellegrinaggio a Gerusalemme. Il profeta anonimo di Giuda venuto a denunciare l'altare fu divorato da un leone. Amos e Osea profetizzarono contro il santuario, chiamandolo Beth-Aven (casa del male).",
+      "referencias": [
+        "1 Re 12:26-33",
+        "1 Re 13:1-32",
+        "Am 7:10-17",
+        "Os 10:5-8"
+      ],
+      "personajes_clave": [
+        "jeroboam",
+        "amos"
+      ]
+    },
+    {
+      "id": "elias-eliseo-bethel",
+      "titulo": "Eliseo e i figli dei profeti",
+      "fecha": "c. 850 a.C.",
+      "descripcion": "Betel ospitava una comunità di figli dei profeti, discepoli organizzati sotto la guida di Elia e successivamente Eliseo. Mentre Eliseo stava percorrendo il sentiero da Gerico a Betel, un gruppo di ragazzi lo ha insultato. La comunità profetica di Betel fungeva da contrappeso spirituale al culto ufficiale del santuario reale.",
+      "referencias": [
+        "2 Re 2:1-3",
+        "2 Re 2:23-25",
+        "2 Re 4:38-41"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob",
+      "nombre": "Giacobbe / Israele",
+      "rol": "Patriarca, omonimo fondatore della città di Israele",
+      "periodo": "bronce_medio",
+      "descripcion": "Nipote di Abramo e figlio di Isacco, Giacobbe è il patriarca che riceve in Betel la visione che segna l'inizio della sua vocazione. Il suo nome cambia in Israele dopo aver combattuto con l'angelo a Jabbok. In Betel seppellì gli idoli domestici della sua famiglia, segno di purificazione religiosa prima di rinnovare il patto.",
+      "referencias": [
+        "Gen 28:10-22",
+        "Gen 32:22-32",
+        "Gen 35:1-15"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "jeroboam",
+      "nombre": "Geroboamo I",
+      "rol": "Primo re del Regno del Nord (Israele)",
+      "periodo": "hierro_2",
+      "descripcion": "Ex funzionario Salomone che guidò la secessione delle Dieci Tribù del Nord. La sua decisione di installare il vitello d'oro in Betel e Dan fu condannata dai profeti come peccato di Geroboamo, formula che i libri dei Re ripetono per ciascuno dei suoi successori.",
+      "referencias": [
+        "1 Re 11:26-40",
+        "1 Re 12:20-33",
+        "1 Re 13:33-34"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "dan"
+      ]
+    },
+    {
+      "id": "amos",
+      "nombre": "Amos",
+      "rol": "Profeta Giuda inviato nel regno settentrionale",
+      "periodo": "hierro_2",
+      "descripcion": "Pastore e custode dei sicomori di Tekoa (Giuda), Amos fu chiamato a profetizzare in Betel durante il regno di Geroboamo II. I suoi oracoli contro l'ingiustizia sociale e il culto vuoto provocarono l'espulsione ordinata dal sacerdote Amatsia. Il suo libro è il più antico dei profeti scrittori.",
+      "referencias": [
+        "Am 1:1",
+        "Am 7:10-17",
+        "Am 8:1-14"
+      ],
+      "ruta": [
+        "bethel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Betel è uno dei luoghi più religiosi dell'Antico Testamento. Prima di Israele, era già un luogo di culto Cananeo a Luz. La visione di Giacobbe ne fa il primo santuario fondato da un patriarca con un nome teoforico esplicito. Di questa sacralità si è appropriato il regno del nord per legittimare un culto alternativo a Gerusalemme, generando la tensione che attraversa l'intera storia del luogo. I profeti Amos e Osea chiamarono il santuario Beth-Aven (casa del male), invertendone il nome per indicare l'idolatria ufficiale. Il re Giosia distrusse il santuario e profanò l'altare (2 Re 23:15-20), adempiendo la profezia anonima del secolo precedente.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo (Abramo, Giacobbe)",
+      "Politeismo Cananeo (periodo pre-israelita)",
+      "Yahvismo sincretista (culto del vitello d'oro, regno settentrionale)",
+      "Profetismo yahvista (comunità di figli dei profeti)"
+    ],
+    "mitos": [
+      {
+        "id": "escalera-cielo",
+        "nombre": "La scala di Giacobbe (Sulam Yaakov)",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 28:10-22",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 68-69; Zohar I, 149b",
+          "descripcion": "La scala collega terra e cielo; Gli angeli che salgono e scendono sono interpretati nel Midrash come gli angeli custodi delle nazioni. La pietra consacrata da Giacobbe è identificata con la prima pietra su cui è stato costruito il Tempio di Gerusalemme.",
+          "similitudes": "La pietra sacra e l'unzione con olio si collegano alle tradizioni della pietra betil in tutto il Vicino Oriente antico.",
+          "diferencias": "A differenza di altri culti della pietra, la tradizione ebraica sposta la sacralità di Betel in Gerusalemme, subordinando il santuario settentrionale al Tempio.",
+          "significado_teologico": "Betel come porta del paradiso stabilisce che la presenza divina non è limitata a un luogo, ma si rivela ovunque YHWH scelga di manifestarsi.",
+          "posible_relacion_cultural": "I templi ziggurat mesopotamici, scale che collegavano terra e cielo, sono il parallelo culturale più vicino."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Juan 1:51",
+          "fuente_secundaria": "Orígenes, Homilías sobre el Génesis; Agustín, Ciudad de Dios XVI",
+          "descripcion": "Gesù reinterpreta la visione di Giacobbe riferendosi a se stesso: vedrai il cielo aperto e gli angeli di Dio salire e scendere sul Figlio dell'Uomo. La scala è una figura di Cristo come mediatore tra Dio e l'umanità.",
+          "similitudes": "La struttura di mediazione cielo-terra è condivisa: sia Giacobbe che Gesù sono il punto di contatto tra il divino e l'umano.",
+          "diferencias": "Nella tradizione cristiana la scala non indica un luogo geografico ma una persona. Betel perde la centralità geografica a favore della Cristologia.",
+          "significado_teologico": "Cristo come nuova scala o porta verso il cielo incontra e supera il simbolismo del santuario di Betel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán — no menciona Betel explícitamente",
+          "fuente_secundaria": "Tafsir de Ibn Kathir sobre Yusuf; tradiciones sobre Yaqub",
+          "descripcion": "La tradizione islamica riconosce Yaqub come profeta e patriarca, ma la visione della scala non appare nel Corano. Le tradizioni esegetiche conoscono la storia attraverso fonti ebraiche e cristiane.",
+          "similitudes": "Il riconoscimento di Giacobbe come profeta e l'importanza di Canaan come terra promessa sono condivisi.",
+          "diferencias": "Il Corano non tematizza Betel o la scala; La rivelazione a Yaqub è descritta genericamente senza dettagli topografici.",
+          "significado_teologico": "Betel non ha particolare rilevanza nella teologia islamica; La terra santa per eccellenza è La Mecca e Gerusalemme.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

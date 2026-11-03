@@ -1,0 +1,85 @@
+{
+  "id": "crete",
+  "nombre": "Crete",
+  "tipo": "territorio",
+  "lat": 35.2401,
+  "lng": 24.8093,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "The largest island in the Aegean, mountainous and elongated, on the maritime route between the Levant and Italy.",
+  "altitud_m": 0,
+  "clima": "Mediterranean",
+  "recursos": [
+    "navigation",
+    "came",
+    "oil"
+  ],
+  "importancia_estrategica": "Alexandria-Rome grain route stopover; winter shelter for ships.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cre_h1",
+        "titulo": "Stopover heading to Rome",
+        "fecha": "ca. 59 AD",
+        "descripcion": "The ship that takes Paul prisoner skirts Crete and anchors in Good Harbors; Paul warns of the danger, but they set sail and are caught in the storm.",
+        "referencias": [
+          "Acts 27:7-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio el centurión",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "cre_h2",
+        "titulo": "Titus organizes the churches",
+        "fecha": "ca. 63 AD",
+        "descripcion": "Paul leaves Titus in Crete to “put in order what was missing” and appoint elders in each city.",
+        "referencias": [
+          "Titus 1:5-12"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cre_p1",
+        "nombre": "Titus",
+        "rol": "Paul contributor, leader in Crete",
+        "periodo": "s. I AD",
+        "descripcion": "Greek disciple of Paul, in charge of organizing the Cretan churches.",
+        "referencias": [
+          "Titus 1:4-5",
+          "Gal 2:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

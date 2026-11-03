@@ -1,0 +1,153 @@
+{
+  "id": "ephesus",
+  "nombre": "Efeso",
+  "tipo": "ciudad",
+  "lat": 37.939,
+  "lng": 27.3412,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Grande metropoli sulla costa egea dell'Asia Minore, centro del culto di Artemide e capitale della provincia romana dell'Asia.",
+  "altitud_m": 30,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "produzione",
+    "turismo religioso"
+  ],
+  "importancia_estrategica": "Seconda città dell'Impero Romano in Asia; grande centro culturale e commerciale.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "eph_h1",
+        "titulo": "Paolo Ministero a Efeso",
+        "fecha": "ca. 54-57 d.C.",
+        "descripcion": "Paolo rimane ad Efeso per tre anni; La chiesa cresce notevolmente.",
+        "referencias": [
+          "At 19:1-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Priscila",
+          "Aquila"
+        ]
+      },
+      {
+        "id": "eph_h2",
+        "titulo": "L'ammutinamento degli argentieri",
+        "fecha": "ca. 56 d.C.",
+        "descripcion": "Demetrio l'argentiere chiede una protesta per la minaccia al commercio del tempio di Artemide.",
+        "referencias": [
+          "At 19:23-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Demetrio"
+        ]
+      },
+      {
+        "id": "eph_h3",
+        "titulo": "Lettera agli Efesini",
+        "fecha": "ca. 60-62 d.C.",
+        "descripcion": "Paolo scrive dal carcere alla chiesa di Efeso sull'unità del corpo di Cristo.",
+        "referencias": [
+          "Ef 1-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "eph_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Trascorse più tempo a Efeso che in qualsiasi altra città; Da lì scrisse diverse lettere.",
+        "referencias": [
+          "At 19:1"
+        ],
+        "ruta": [
+          "ephesus",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "eph_p2",
+        "nombre": "Priscilla e l'Aquila",
+        "rol": "Mentori di Apollo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Coppia di artigiani e leader della chiesa a Efeso.",
+        "referencias": [
+          "At 18:24-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "eph_p3",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Apostolo e anziano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Secondo la tradizione visse a Efeso e lì scrisse il Vangelo di Giovanni.",
+        "referencias": [
+          "Ap 1:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città del tempio di Artemide, una delle sette meraviglie del mondo antico; teatro dello scontro tra il Vangelo e il culto imperiale.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "eph_m1",
+          "nombre": "Artemide degli Efesini",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Il vangelo sfidò il culto di Artemide/Diana, dea della fertilità venerata a Efeso, provocando l'ammutinamento degli argentieri.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il vangelo sfidò il culto di Artemide/Diana, dea della fertilità venerata a Efeso, provocando l'ammutinamento degli argentieri.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "id": "egipto",
+  "nombre": "Egypt",
+  "tipo": "territorio",
+  "lat": 29.8495,
+  "lng": 31.2551,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 200,
+  "jerarquia_pin": "primario",
+  "nota_coordenadas": "Anclado en Menfis antigua (Mit Rahina, Gobernación de Giza) — capital más relevante de Egipto en el período del AT, mencionada como 'Nof' o 'Mof' en los profetas bíblicos",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "New Kingdom — Ramses II, Exodus"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Decline of the New Kingdom"
+    },
+    {
+      "desde": -1000,
+      "hasta": -664,
+      "nombre": "Third Intermediate Period"
+    },
+    {
+      "desde": -664,
+      "hasta": -400,
+      "nombre": "Late Period — Persian influence"
+    }
+  ],
+  "descripcion_geo": "Territory in northeastern Africa, geographically defined by the Nile Valley between the first cataract (Aswan) and the Mediterranean Delta. The Nile is the vital axis: its annual floods deposit the fertile silt that makes agriculture possible in the desert. Memphis, at the apex of the Delta (20 km south of present-day Cairo), was the capital of the Old and Middle Kingdom — a strategic crossroads between the Upper and Lower Egypt.",
+  "altitud_m": "22 m (Memphis / Mit Rahina) — Nile floodplain",
+  "clima": "Arid desert — less than 50 mm of annual rainfall. All life depends on the Nile. Extremely hot summers, mild winters. The flooding of the Nile (June-September) was the central annual event.",
+  "recursos": [
+    "Nile alluvial soil (grain, papyrus, flax)",
+    "Limestone and granite (construction)",
+    "Gold (Nubia)",
+    "Copper (Sinai)",
+    "Red Sea trade (frankincense, ivory)",
+    "Papyrus (write and export)"
+  ],
+  "importancia_estrategica": "Dominant power of the eastern Mediterranean for more than 1500 years of the AT period. Control of the Canaanite corridor was a permanent objective. Israelite slavery in Egypt and the Exodus are the founding event of Israel's identity as a liberated people by Yahweh.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios",
+      "nombre": "Egyptians",
+      "descripcion": "Nile Civilization with more than 3000 years of continuity. Its cultural, religious and political influence penetrated deeply into Canaan during the Late Bronze Age. The Egyptian religion (Ra, Osiris, Isis, Horus) was the closest theological alternative to Yahwism.",
+      "religion": "Polytheism — Ra (sun), Osiris (death and resurrection), Isis, Horus, Amon, Ptah (in Memphis)",
+      "periodo": "c. 3100 BC onwards"
+    },
+    {
+      "id": "hicsos",
+      "nombre": "Hyksos",
+      "descripcion": "People of Asian (Western Semitic) origin who conquered the Egyptian Delta (c. 1650–1550 BC) and established the 15th and 16th dynasties. His period of dominance may coincide with Joseph's time in Egypt. The Hyksos introduced the war chariot and the composite bow in Egypt.",
+      "religion": "Semitic polytheism assimilated to the Egyptian pantheon — they worshiped Set",
+      "periodo": "c. 1650–1550 BC"
+    },
+    {
+      "id": "israelitas-egipto",
+      "nombre": "Israelites in Egypt",
+      "descripcion": "According to the OT, the descendants of Jacob (Israel) lived in the Egyptian Delta region (Goshen) as forced laborers until the Exodus led by Moses. The experience of slavery in Egypt is the moral horizon of Yahwism: 'you were slaves in Egypt' justifies Israelite social ethics.",
+      "religion": "Yahwism emerging — in tension with Egyptian cults",
+      "periodo": "c. 1650–1250 BC (trans.)"
+    },
+    {
+      "id": "nubios",
+      "nombre": "Nubians/Kushites",
+      "descripcion": "People of the southern Nile who ruled Egypt during the 25th Dynasty (c. 744–656 BC). The Kushite Pharaoh Taharka attempted to aid Judah against Assyria during Sennacherib's siege of Jerusalem (2 Kgs 19:9).",
+      "religion": "Egyptian polytheism adopted and adapted",
+      "periodo": "c. 744–656 BC (like pharaohs)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jose-egipto",
+      "titulo": "José at Egypt",
+      "fecha": "c. 1700–1600 BC (trad.)",
+      "descripcion": "Joseph, sold into slavery by his brothers, rises to become Pharaoh's vizier. His interpretation of dreams saves Egypt and Canaan from famine. His story is the narrative bridge between the patriarchs and the period of slavery and the Exodus.",
+      "referencias": [
+        "Gen 37:1-36",
+        "Gen 39:1-41:57",
+        "Gen 45:1-28"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "exodo",
+      "titulo": "The Exodus of Egypt",
+      "fecha": "c. 1250 BC (trad.)",
+      "descripcion": "Moses leads the liberation of the Israelite people from slavery in Egypt after the ten plagues. The crossing of the Sea of ​​Reeds and the march through the Sinai are the founding events of the identity of Israel as a people liberated by Yahweh. The Exodus is the gravitational center of all OT theology.",
+      "referencias": [
+        "Exod 1:1-15:21",
+        "Exod 12:29-42",
+        "Exod 14:5-31"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron",
+        "faraon"
+      ]
+    },
+    {
+      "id": "huida-jeremias-egipto",
+      "titulo": "The refuge in Egypt after the fall of Jerusalem",
+      "fecha": "586 BC",
+      "descripcion": "After the destruction of Jerusalem, a group of Jews—against Jeremiah's warning—flee to Egypt (Tahpanhes / Defne) taking the prophet. Jeremiah continues to prophesy in Egypt. The historical irony is total: Israel returns to the land of slavery.",
+      "referencias": [
+        "Jer 41:16-43:13",
+        "Jer 44:1-30"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises",
+      "nombre": "Moses",
+      "rol": "Liberator — legislator — mediator of the Alliance",
+      "periodo": "bronce_tardio",
+      "descripcion": "Born in Egypt, educated in Pharaoh's court, and a refugee in Midian, Moses is called upon by Yahweh in Sinai to free Israel. Torah Mediator on Mount Sinai. The most mentioned human figure in the OT.",
+      "referencias": [
+        "Exod 2:1-25",
+        "Exod 3:1-4:17",
+        "Exod 19:1-20:21",
+        "Deut 34:1-12"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai",
+        "canaan"
+      ]
+    },
+    {
+      "id": "jose",
+      "nombre": "José",
+      "rol": "Patriarch — vizier of Egypt",
+      "periodo": "bronce_medio",
+      "descripcion": "Son of Jacob, sold as a slave and elevated to vizier of Egypt. His story prefigures the theme of divine providence acting through suffering. The most literary elaborate story of Genesis.",
+      "referencias": [
+        "Gen 37:1-50:26"
+      ],
+      "ruta": [
+        "canaan",
+        "egipto"
+      ]
+    },
+    {
+      "id": "jeremias-egipto",
+      "nombre": "Jeremiah",
+      "rol": "Prophet — witness to the exile in Egypt",
+      "periodo": "hierro_2",
+      "descripcion": "Taken against his will to Egypt after the fall of Jerusalem. He prophesies against the Jewish refugees in Egypt who return to the cult of 'the Queen of Heaven' (Ishtar/Isis). His presence in Egypt closes the circle of the history of the AT.",
+      "referencias": [
+        "Jer 43:1-44:30"
+      ],
+      "ruta": [
+        "jerusalen",
+        "egipto"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Egypt represents in the OT the polar opposite of Yahweh: land of slavery, polytheism and death. The departure of Egypt (Exodus) is the founding act of Israel faith. However, Egypt is also a refuge in times of crisis (Abraham, Joseph, the Holy Family in the NT). The ambivalence of Egypt in the OT reflects the complexity of the historical relationship.",
+    "religiones_presentes": [
+      "Egyptian polytheism (Ra, Osiris, Isis, Ptah, Amon)",
+      "Cult of Aten (short-lived monotheism under Akhenaten, c. 1350 BC)",
+      "Israeli Yahwism (in tension with Egypt)"
+    ],
+    "mitos": [
+      {
+        "id": "plagas-egipto",
+        "nombre": "The Ten Plagues of Egypt",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 7:14-12:36",
+          "fuente_secundaria": "Midrash Rabbah, Éxodo 25:1 — las plagas como demostración de la soberanía de Yahvé sobre los dioses de Egipto; el cielo como origen de todos los actos divinos",
+          "descripcion": "The ten plagues are the demonstration of Yahweh's sovereignty over the gods of Egypt — each plague attacks a specific deity in the Egyptian pantheon. Pesach (Easter) commemorates the last plague and the liberation of Egypt. It is the founding holiday of Judaism.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Yahweh demonstrates his superiority over all gods. The liberation of Egypt defines Israel as a people of the Exodus.",
+          "posible_relacion_cultural": "Some scholars relate the plagues to natural phenomena in the Nile Delta (Santorini eruptions, c. 1600 BC)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 7-12 · 1 Cor 5:7 · Heb 11:28",
+          "fuente_secundaria": "Melitón de Sardes, Sobre la Pascua 32-45 — tipología pascual más antigua; la décima plaga como prefiguración del sacrificio de Cristo",
+          "descripcion": "The Jewish Passover is the type of the death and resurrection of Christ—Christ is the 'Passover lamb' (1 Cor 5:7). The tenth plague (death of the firstborn) prefigures the sacrifice of the Son of God.",
+          "diferencias": "The Christian typology spiritualizes the plagues—they are not foreground historical events, but anticipatory signs of redemption.",
+          "similitudes": "The blood of the lamb as a sign of salvation — parallel to the blood of Christ.",
+          "significado_teologico": "The Exodus is a type of universal redemption in Christ. The Christian Easter (Holy Week) inherits and transforms the Jewish Easter.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 7:103-137 · Corán 26:10-68",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Araf 7:103-137 — las señales de Musa como argumentos proféticos ante el Faraón, paradigma del kufr",
+          "descripcion": "The Quran narrates the signs (ayat) of Musa (Moses) before Pharaoh: the rod that turns into a snake, the luminous hand. The plagues are mentioned in a more condensed way than in the biblical Exodus. The Pharaoh is the Koranic paradigm of the ruler who believes himself to be a god.",
+          "diferencias": "The Quran does not list the ten plagues individually. The emphasis falls on the prophetic mission of Musa and the arrogance of the Pharaoh.",
+          "similitudes": "Muse as divine envoy; Pharaoh as opponent; signs as arguments of divine sovereignty.",
+          "significado_teologico": "The Pharaoh as a type of kufr (arrogant disbelief) — a negative model that is repeated in Islamic prophetic history.",
+          "posible_relacion_cultural": "Shared tradition about Moses/Musa that has roots in the same textual substrate of the ancient Near East."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "egi_nt_h1",
+        "titulo": "The escape to Egypt",
+        "fecha": "ca. 5-4 BC",
+        "descripcion": "Joseph flees with Mary and the child Jesus to Egypt to escape Herod's massacre; They return after their death.",
+        "referencias": [
+          "Matt 2:13-21"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "José",
+          "Herodes el Grande"
+        ]
+      },
+      {
+        "id": "egi_nt_h2",
+        "titulo": "Fulfillment of the prophecy: 'From Egypt I called my son'",
+        "fecha": "ca. 5-4 BC",
+        "descripcion": "Matthew cites Hosea 11:1 to interpret Jesus's return from Egypt as prophetic fulfillment.",
+        "referencias": [
+          "Matt 2:15",
+          "Hos 11:1"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "José"
+        ]
+      },
+      {
+        "id": "egi_nt_h3",
+        "titulo": "The church in Egypt: Mark in Alexandria",
+        "fecha": "ca. 45-68 AD",
+        "descripcion": "Christian tradition places John Mark as founder of the church of Alexandria.",
+        "referencias": [
+          "Tradición copta",
+          "Eusebio Historia Eclesiástica II.16"
+        ],
+        "personajes_clave": [
+          "Juan Marcos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "egi_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messianic refugee",
+        "periodo": "ca. 5-4 BC",
+        "descripcion": "Lived briefly in Egypt during childhood; his return recapitulates the exodus of Israel.",
+        "referencias": [
+          "Matt 2:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "egi_nt_p2",
+        "nombre": "Joseph of Nazareth",
+        "rol": "Adoptive father and protector",
+        "periodo": "s. I BC",
+        "descripcion": "In dreams he received the warning to flee to Egypt and return; He obeyed on both occasions.",
+        "referencias": [
+          "Matt 2:13-21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "egi_nt_p3",
+        "nombre": "John Mark",
+        "rol": "Evangelist and missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Cousin of Barnabas, author of the second gospel; Tradition links it with the founding of the Egyptian church.",
+        "referencias": [
+          "Acts 12:12",
+          "Col 4:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Land of slavery and refuge; in the NT, Egypt serves as a place of protection for the Messiah and later as the birthplace of the Alexandrian church.",
+      "religiones_presentes": [
+        "egyptian_paganism",
+        "alexandrian_judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "egi_nt_m1",
+          "nombre": "From Egypt I called my son",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "The exodus of Israel from Egypt is the founding event of God's people (Ex 12-15).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The exodus of Israel from Egypt is the founding event of God's people (Ex 12-15).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus's Escape and Return from Egypt recapitulates the exodus, introducing Jesus as the new Israel.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus's Escape and Return from Egypt recapitulates the exodus, introducing Jesus as the new Israel.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Islam recognizes the childhood of Isa (Jesus) as miraculous but does not mention the Egyptian episode in the Quran.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Islam recognizes the childhood of Isa (Jesus) as miraculous but does not mention the Egyptian episode in the Quran.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

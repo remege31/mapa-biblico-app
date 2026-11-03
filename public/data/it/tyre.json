@@ -1,0 +1,319 @@
+{
+  "id": "tyre",
+  "nombre": "Tiro",
+  "tipo": "ciudad",
+  "lat": 33.2705,
+  "lng": 35.1966,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 43,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: fondazione del porto fenicio"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Metropoli commerciale del Mediterraneo"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: resistenza al dominio babilonese"
+    }
+  ],
+  "descripcion_geo": "Tiro (oggi Sud, Libano) era originariamente un'isola a circa 600 metri al largo della costa mediterranea di Fenicia, 35 km a sud di Sidone. La sua naturale insularità la rendeva praticamente inespugnabile per gli eserciti terrestri e le permetteva di controllare il commercio marittimo in totale sicurezza. Alessandro Magno la collegò finalmente alla terraferma nel 332 a.C. costruendo una strada rialzata, trasformando l'isola nella penisola che è oggi.",
+  "altitud_m": 2,
+  "clima": "Mediterraneo costiero: morbido e umido. Precipitazioni di 600-800 mm all'anno. La posizione dell'isola moderava le temperature estreme e garantiva l'acqua piovana per le cisterne.",
+  "recursos": [
+    "Porto dell'isola (il più sicuro del Mediterraneo orientale)",
+    "Murex viola (la tintura più costosa nell'antichità)",
+    "Cedri del Libano (commercio ed esportazione)",
+    "Vetro (artigianato fenicio per l'esportazione)",
+    "Colonie commerciali in tutto il Mediterraneo (Cartagine era una colonia di Tiro)"
+  ],
+  "importancia_estrategica": "La città più ricca e potente di Fenicia su Iron II. La sua rete di colonie raggiunse Cartagine (Tunisia), Gades (Cadice) e Malta. Resistette per tredici anni senza arrendersi all'assedio di Nabucodonosor II (585-573 a.C.) e altri sette mesi a quello di Alessandro Magno (332 a.C.). La profezia di Ezechiele contro Tiro (cap. 26-28) è l'oracolo profetico più ampio contro una città straniera nell'Antico Testamento.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-tiro",
+      "nombre": "Fenici di Tiro",
+      "descripcion": "I Tiri erano l'élite commerciale del mondo antico. Le loro navi di cedro con chiglie di pino e remi di quercia (Ez 27:5-6) raggiunsero Tartesso (Spagna) e forse le coste dell'Africa occidentale. Cartagine, la sua colonia più famosa, rivaleggiò con Roma per secoli. L'alfabeto fenicio da loro inventato fu adottato dai greci, dagli arabi e, infine, da tutti i sistemi di scrittura occidentali.",
+      "religion": "Politeismo fenicio - culto di Melqart (dio protettore di Tiro, identificato con Ercole), Baal e Astarte",
+      "periodo": "C. 1000 a.C. in poi"
+    },
+    {
+      "id": "hiram-tiro",
+      "nombre": "Corte del re Hiram I",
+      "descripcion": "Hiram I di Tiro (c. 980-947 a.C.) era un alleato sia di Davide che di Salomone. Fornì cedri del Libano per il palazzo di Davide e per il Tempio di Salomone, ricevendo in cambio venti città in Galilea e grano e olio per la sua corte. La Bibbia lo descrive come un amico personale di entrambi i re. Il suo maestro falegname Hiram-Abif fuse gli elementi in bronzo del Tempio.",
+      "religion": "Politeismo fenicio: culto di Melqart come dio protettore della città e della navigazione",
+      "periodo": "C. 980–947 a.C"
+    },
+    {
+      "id": "tiro-resistencia",
+      "nombre": "Tiro sotto assedio",
+      "descripcion": "Tiro resistette per tredici anni (585-573 a.C.) all'assedio di Nabucodonosor II senza arrendersi del tutto. La città insulare era inaccessibile agli eserciti di terra. Ezechiele profetizzò la distruzione totale di Tiro, cosa che portò a dibattiti successivi quando la profezia non si adempì con l'accuratezza attesa (Ez 29:17-20 rivede implicitamente l'oracolo). Alessandro Magno completò ciò che Nabucodonosor non poté fare: costruì una strada rialzata e distrusse la città nel 332 a.C.",
+      "religion": "Il politeismo fenicio sotto pressione: la resistenza Tiro era anche resistenza religiosa al dominio straniero",
+      "periodo": "C. 585–573 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "hiram-salomon",
+      "titulo": "Hiram e Salomone: l'alleanza che ha costruito il Tempio",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "L'alleanza tra Salomone e Hiram I di Tiro è stata la più produttiva nella storia israelita in termini materiali. Hiram fornì cedri e cipressi dal Libano, artigiani specializzati e il suo maestro Hiram-Abif per fondere le colonne e il mare di bronzo del Tempio. In cambio, Salomone ha ceduto venti città in Galilea, consegnato 20.000 coros di grano e 20.000 batos di petrolio all'anno. Hiram ispezionò le città e rimase insoddisfatto, definendole la terra di Cabul (senza valore). Il rapporto, tuttavia, fu di amicizia duratura.",
+      "referencias": [
+        "1 Re 5:1-18",
+        "1 Re 7:13-51",
+        "1 Re 9:10-14",
+        "2 Cr 2:1-16"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "hiram"
+      ]
+    },
+    {
+      "id": "ezequiel-tiro",
+      "titulo": "L'oracolo di Ezechiele contro Tiro: il re che si credeva un dio",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Ezechiele dedicò tre interi capitoli alla profezia contro Tiro (Ez 26-28), il più ampio oracolo profetico contro una nazione straniera nell'Antico Testamento. Il capitolo 27 è un canto funebre di straordinaria bellezza, che descrive Tiro come una nave perfetta costruita con i migliori materiali del mondo antico. Il capitolo 28 dirige un oracolo contro il principe di Tiro che credeva di essere un dio: Tu sei un uomo e non un dio, anche se ti credi saggio come un dio. Questo testo è spesso citato nella tradizione come riferimento alla caduta di Satana.",
+      "referencias": [
+        "Ez 26:1-21",
+        "Ez 27:1-36",
+        "Ez 28:1-19"
+      ],
+      "personajes_clave": [
+        "ezequiel-profeta"
+      ]
+    },
+    {
+      "id": "amos-tiro",
+      "titulo": "Il giudizio di Amos su Tiro: il tradimento del fratello",
+      "fecha": "c. 760 a.C.",
+      "descripcion": "Nei suoi oracoli contro le nazioni, Amos accusava Tiro di aver consegnato a Edom un'intera comunità di schiavi, senza ricordare il patto di fratellanza. Questo oracolo è il primo testo biblico che condanna la tratta degli schiavi come un crimine internazionale, applicando la giustizia divina alle nazioni che non fanno parte del popolo di Israele. Tiro era il principale mercato di schiavi nel Mediterraneo orientale.",
+      "referencias": [
+        "Am 1:9-10"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "hiram-i",
+      "nombre": "Hiram I di Tiro",
+      "rol": "Re fenicio alleato di Davide e Salomone",
+      "periodo": "hierro_2",
+      "descripcion": "Il re più famoso di Tiro, alleato personale di Davide e Salomone. Ha fornito i materiali e gli artigiani che hanno reso possibile la realizzazione del palazzo di Davide e del Tempio di Salomone. L'alleanza commerciale è stata reciprocamente vantaggiosa: Tiro ha guadagnato grano, petrolio e città; Israele ha ottenuto cedri, rame e lavorazione artigianale. La Bibbia lo descrive con rispetto, senza le solite condanne religiose per i re stranieri.",
+      "referencias": [
+        "2 Sam 5:11",
+        "1 Re 5:1-18",
+        "1 Re 9:10-14"
+      ],
+      "ruta": [
+        "tyre",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequiel-profeta",
+      "nombre": "Ezechiele",
+      "rol": "Profeta visionario dell'esilio, autore dell'oracolo contro Tiro",
+      "periodo": "hierro_2",
+      "descripcion": "Sacerdote deportato a Babilonia, Ezechiele dedicò i suoi oracoli più letterari a Tiro. Il canto funebre del capitolo 27, con il suo elenco di nazioni e prodotti commerciali, è uno dei documenti più ricchi sull'antico commercio del Mediterraneo. Il suo oracolo contro il principe di Tiro che credeva di essere un dio influenzò la tradizione della caduta di Satana nel tardo giudaismo e nel cristianesimo.",
+      "referencias": [
+        "Ez 26:1-28:26",
+        "Ez 37:1-14",
+        "Ez 40:1-4"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    },
+    {
+      "id": "amos-tiro-pj",
+      "nombre": "Amos di Tekoa",
+      "rol": "Profeta che condanna la tratta degli schiavi da Tiro",
+      "periodo": "hierro_2",
+      "descripcion": "Nei suoi oracoli internazionali, Amos ha accusato Tiro di schiavizzare intere comunità in violazione del patto di fratellanza. Questo oracolo, brevissimo ma devastante, applica l'etica jahvista alle relazioni internazionali e al commercio: nessuna nazione, anche se non conosce YHWH, può spezzare la fratellanza umana senza conseguenze. È la prima condanna biblica della tratta di esseri umani come crimine internazionale.",
+      "referencias": [
+        "Am 1:1",
+        "Am 1:9-10",
+        "Am 7:10-17"
+      ],
+      "ruta": [
+        "bethel",
+        "samaria"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tiro è l'incarnazione biblica della ricchezza, del potere e dell'orgoglio umano che arriva a credere di essere divino. I capitoli 26-28 di Ezechiele sono il grande poema biblico sulla caduta dell'orgoglio: la nave perfetta che affonda, il re che si credeva dio e viene gettato nell'abisso. Allo stesso tempo, Tiro è stato un alleato indispensabile per la costruzione del Tempio di Gerusalemme, apportando i materiali più nobili alla casa di YHWH. Questa tensione – Tiro come costruttore e distruttore, come alleato e rivale – attraversa l’intera teologia biblica delle nazioni.",
+    "religiones_presentes": [
+      "Politeismo fenicio (culto di Melqart, Baal, Astarte)",
+      "Contatto con Yahwismo (alleanza con Israele, materiali del Tempio)"
+    ],
+    "mitos": [
+      {
+        "id": "principe-tiro-dios",
+        "nombre": "Il principe di Tiro che pensava di essere dio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ezequiel 28:1-19",
+          "fuente_secundaria": "Midrash sobre Ezequiel; comentario de Rashi a Ez 28",
+          "descripcion": "L'oracolo di Ezechiele descrive un essere perfettamente saggio e bello, ricoperto di pietre preziose, che abitava sul monte santo di Dio, finché l'ingiustizia riscontrata in lui portò alla sua espulsione. I commentatori medievali discutono se questo sia il re storico di Tiro o una figura mitica primordiale.",
+          "similitudes": "L'essere perfetto espulso dal giardino divino ha paralleli nel mito dell'Adapa babilonese e nella storia dell'Eden.",
+          "diferencias": "Il testo biblico applica il mito a uno specifico re storico, politicizzando il linguaggio mitico.",
+          "significado_teologico": "Nessuna potenza umana, per quanto ricca e saggia, può prendere il posto di Dio. L'orgoglio che si eleva al divino porta inevitabilmente ad una caduta.",
+          "posible_relacion_cultural": "Il giardino di Dio con le pietre di fuoco menzionato in Ez 28 ha paralleli nella mitologia della montagna cosmica (Zaphon) di Ugarit."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ezequiel 28:12-19; Isaías 14:12-15",
+          "fuente_secundaria": "Orígenes, Peri Archon I.5; Agustín, Ciudad de Dios XI.15; Tertuliano, Adversus Marcionem",
+          "descripcion": "I Padri della Chiesa interpretarono l'oracolo contro il re di Tiro (Ez 28) e l'oracolo contro il re di Babilonia (Is 14, Lucifero/stella del mattino) come descrizioni della caduta di Satana prima della creazione. Questa lettura, che non si trova nel testo ebraico originale, divenne la spiegazione standard dell'origine del male nella tradizione cristiana.",
+          "similitudes": "L'essere luminoso espulso dalla montagna divina è l'immagine condivisa.",
+          "diferencias": "L'esegesi cristiana traspone il testo storico-politico in un dramma cosmico pretemporale; L'ebraismo rabbinico lo mantiene sul piano storico.",
+          "significado_teologico": "L'orgoglio è il peccato originale di Satana e l'origine di ogni male: voler essere come Dio.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tir_nt_h1",
+        "titulo": "La donna sirofenicia",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Una donna greca della regione Tiro insiste nel chiedere la guarigione della figlia; Gesù la loda per la sua fede.",
+        "referencias": [
+          "Mt 15:21-28",
+          "Mc 7:24-30"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "mujer sirofeniciana"
+        ]
+      },
+      {
+        "id": "tir_nt_h2",
+        "titulo": "Moltitudini di Tiro e Sidone seguono Gesù",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Grandi folle di Tiro e Sidone vengono per ascoltare Gesù e farsi guarire.",
+        "referencias": [
+          "Mc 3:8",
+          "Lc 6:17"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "tir_nt_h3",
+        "titulo": "Paolo si ferma a Tiro",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo ed i suoi compagni restano sette giorni in Tiro; I discepoli lo avvertono mediante lo Spirito di non salire a Gerusalemme.",
+        "referencias": [
+          "At 21:3-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tir_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Il Messia estende la grazia ai gentili",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Si recò nella regione di Tiro, territorio dei Gentili, dove guarì la figlia della donna sirofenicia.",
+        "referencias": [
+          "Mt 15:21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tir_nt_p2",
+        "nombre": "La donna sirofenicia",
+        "rol": "Gentile di grande fede",
+        "periodo": "s. I d.C.",
+        "descripcion": "La sua tenacia ha fatto sì che Gesù estendesse la guarigione oltre Israele.",
+        "referencias": [
+          "Mc 7:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tir_nt_p3",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Hai visitato Tiro durante il tuo ultimo viaggio a Gerusalemme; Lì trovò una comunità cristiana.",
+        "referencias": [
+          "At 21:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città fenicia con una lunga storia commerciale; nel NT, terra dei Gentili dove il Vangelo ha oltrepassato i confini di Israele.",
+      "religiones_presentes": [
+        "Paganesimo_fenicio_romano",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tir_nt_m1",
+          "nombre": "La fede dei gentili",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Tiro fu condannata dai profeti AT (Ez 26-28; Is 23) per il suo orgoglio.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tiro fu condannata dai profeti AT (Ez 26-28; Is 23) per il suo orgoglio.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù visita la regione di Tiro e vi trova la più grande fede tra i Gentili, ribaltando il giudizio profetico.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù visita la regione di Tiro e vi trova la più grande fede tra i Gentili, ribaltando il giudizio profetico.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

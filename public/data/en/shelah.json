@@ -1,0 +1,165 @@
+{
+  "id": "shelah",
+  "nombre": "Pool of Siloam (Shelah)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.775194,
+  "lng": 35.230435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — estanque y túnel en el extremo sur de la Ciudad de David, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — David City Hydraulics, Hezekiah Tunnel"
+    }
+  ],
+  "descripcion_geo": "Pond located at the southern end of the City of David, reception point for the waters of the Guijón spring channeled through a tunnel excavated in the limestone rock. The name 'Shelah' ('sent' or 'canal') relates to the place's function as a destination for water artificially conveyed into the walled interior of the city.",
+  "altitud_m": "South end of the City of David, c. 630-640",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Water from the Guijón spring, channeled through a tunnel",
+    "Hydraulic defensive system against sieges",
+    "Water supply point within the walls"
+  ],
+  "importancia_estrategica": "The Shelah pond and its feeding tunnel represent one of the most significant works of hydraulic engineering of the ancient Israel: they guaranteed access to the water of the Gihon spring from inside the walled city without exposing the population to an enemy siege, anticipating and, according to the biblical account, directly frustrating the plans of Sennacherib of Assyria.",
+  "otros_habitantes": [
+    {
+      "id": "obreros_tunel_shelah",
+      "nombre": "Crews of tunnel workers",
+      "descripcion": "Teams of workers who excavated simultaneously from both ends of Hezekiah's tunnel, documented in the Siloam inscription found in the tunnel itself, which describes the moment of the meeting of the two teams.",
+      "religion": "Yahwism",
+      "periodo": "c. 701 BC"
+    },
+    {
+      "id": "poblacion_jerusalen_shelah",
+      "nombre": "Jerusalem Population",
+      "descripcion": "City dwellers who depended on the Shelah Pool as a primary source of water during periods of siege, especially during the Assyrian siege of Sennacherib.",
+      "religion": "Yahwism",
+      "periodo": "c. 701 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ezequias-tunel-shelah",
+      "titulo": "Hezekiah digs the tunnel to the pool of Shelah",
+      "fecha": "c. 701 BC",
+      "descripcion": "Faced with the imminent threat of an Assyrian invasion under Sennacherib, King Hezekiah orders the plugging of external water sources and the excavation of an underground tunnel of more than 500 meters that carries water from the Gihon spring to the pool of Shelah, within the city walls.",
+      "referencias": [
+        "2 Kgs 20:20",
+        "2 Chr 32:2-4",
+        "2 Chr 32:30"
+      ],
+      "personajes_clave": [
+        "ezequias"
+      ]
+    },
+    {
+      "id": "isaias-aguas-siloe",
+      "titulo": "Isaiah and the 'gently flowing waters of Siloam'",
+      "fecha": "c. 734 BC",
+      "descripcion": "The prophet Isaiah uses the image of the still waters of Siloam as a contrast to the people's reliance on foreign military alliances (Rezin and Remaliah's son), warning that rejection of YHWH's reliable provision will bring the turbulent waters of the Euphrates River as judgment.",
+      "referencias": [
+        "Isa 8:6-7"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "nehemias-shelah-reconstruccion",
+      "titulo": "The pool in the reconstruction of Nehemiah's walls",
+      "fecha": "c. 445 BC",
+      "descripcion": "In the list of builders of the Jerusalem wall under Nehemiah, the wall of the pool of Shelah, next to the king's garden, is mentioned as one of the sections assigned for repair, confirming that the hydraulic system was still in use centuries after Hezekiah.",
+      "referencias": [
+        "Neh 3:15"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequias_shelah",
+      "nombre": "Hezekiah",
+      "rol": "Judah King, hydraulic tunnel builder",
+      "periodo": "hierro_2",
+      "descripcion": "He orders the excavation of the tunnel that bears his name to ensure Jerusalem's water supply in the face of the imminent Assyrian siege, one of the most cited engineering works in the kingdom of Judah.",
+      "referencias": [
+        "2 Kgs 20:20",
+        "2 Chr 32:2-4"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "isaias_shelah",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He uses the waters of Siloam as a prophetic image of serene trust in YHWH in the face of the temptation of foreign political and military alliances.",
+      "referencias": [
+        "Isa 8:5-8"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nehemias_shelah",
+      "nombre": "Nehemiah",
+      "rol": "Governor of Judah, rebuilder of the walls",
+      "periodo": "post_exilio",
+      "descripcion": "Includes the Shelah Pool area in the organization of the reconstruction of the walls of Jerusalem after the return from exile.",
+      "referencias": [
+        "Neh 3:15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The pool of Shelah and its tunnel embody in the biblical story the combination of human technical prudence and theological trust in YHWH: Hezekiah acts with concrete engineering foresight, but the chronicler's account frames the work within a broader narrative of the king's religious fidelity, while Isaiah uses the same hydraulic system as a central metaphor for correctly oriented faith in the face of fear that seeks security in foreign powers.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "aguas-mansas-siloe",
+        "nombre": "The calm waters of Siloam as a figure of trust in YHWH",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 8:6-7; 2 Re 20:20",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la inscripción de Siloé y la obra de Ezequías como modelo de previsión piadosa",
+          "descripcion": "Jewish tradition values ​​Hezekiah's tunnel as an example of practical wisdom put at the service of trust in the divine promise of protection of Jerusalem, combining responsible human preparation with faith in providence.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The hydraulic work is read as a legitimate expression of human prudence that does not contradict, but accompanies, the ultimate trust in YHWH as protector of the city.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "John 9:1-11 (curación del ciego de nacimiento, enviado a lavarse en el estanque de Siloé)",
+          "fuente_secundaria": "Comentarios patrísticos sobre el significado del nombre 'Siloé' como 'Enviado' aplicado a Cristo",
+          "descripcion": "The Gospel of John takes up the pond—explicitly identifying it with the meaning of its name, 'Sent'—as the scene of the healing of a man blind from birth, reading the episode in a Christological key: the water of the Old Testament pond becomes a sign of Christ himself as 'the Sent' of the Father.",
+          "similitudes": "Share the appreciation of pond water as an element of provision and healing linked to divine action.",
+          "diferencias": "The Christian reading adds a layer of Christological interpretation absent in the original Old Testament sense, focused on the etymological meaning of the place name.",
+          "significado_teologico": "The pond becomes a sign of Christ's mission as the Father's messenger who brings light and healing.",
+          "posible_relacion_cultural": "Geographic and symbolic continuity between the Jerusalem of the Old and the New Testament around the same hydraulic system of the City of David."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

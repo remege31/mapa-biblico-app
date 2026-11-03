@@ -1,0 +1,158 @@
+{
+  "id": "thyatira",
+  "nombre": "Tiatira",
+  "tipo": "ciudad",
+  "lat": 38.9186,
+  "lng": 27.8386,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città della valle del Lico nella Lidia, nota per i tintori e le corporazioni artigiane.",
+  "altitud_m": 110,
+  "clima": "mediterraneo",
+  "recursos": [
+    "lana tinta",
+    "ceramica",
+    "bronzo",
+    "commercio"
+  ],
+  "importancia_estrategica": "Città della Gilda; attraversamento della strada tra Pergamo e Sardi.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tia_h1",
+        "titulo": "Lidia di Tiatira",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Lydia, una venditrice di viola di Tiatira, è la prima convertita europea battezzata da Paolo.",
+        "referencias": [
+          "At 16:14-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "tia_h2",
+        "titulo": "Lettera alla chiesa di Tiatira",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo loda l'amore e la fede di Tiatira ma condanna \"Jezebel\" per aver insegnato la fornicazione.",
+        "referencias": [
+          "Ap 2:18-29"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "tia_h3",
+        "titulo": "Promessa ai fedeli di Tiatira",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo promette autorità sulle nazioni a coloro che mantengono la sua parola.",
+        "referencias": [
+          "Ap 2:26-28"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tia_p1",
+        "nombre": "Lidia",
+        "rol": "Il primo cristiano d'Europa",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mercante di porpora di Tiatira; battezzato a Filippi da Paolo.",
+        "referencias": [
+          "At 16:14"
+        ],
+        "ruta": [
+          "thyatira",
+          "philippi"
+        ]
+      },
+      {
+        "id": "tia_p2",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizza la lettera più lunga delle sette alla chiesa di Tiatira.",
+        "referencias": [
+          "Ap 2:18"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tia_p3",
+        "nombre": "'Jezebel'",
+        "rol": "falsa profetessa",
+        "periodo": "s. I d.C.",
+        "descripcion": "Donna che insegnò a Tiatira dottrine che l'Apocalisse condanna con il nome di Jezebel.",
+        "referencias": [
+          "Ap 2:20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città delle corporazioni con i suoi banchetti rituali pagani; La chiesa doveva decidere come rapportarsi alle pratiche sindacali.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tia_m1",
+          "nombre": "La nuova Jezebel",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "1 Re 16:31",
+            "fuente_secundaria": "",
+            "descripcion": "Jezebel, regina che introdusse il culto di Baal in Israele (1 Re 16:31).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jezebel, regina che introdusse il culto di Baal in Israele (1 Re 16:31).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "L'Apocalisse usa il nome Jezebel per una profetessa di Tiatira che corruppe la chiesa con il sincretismo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'Apocalisse usa il nome Jezebel per una profetessa di Tiatira che corruppe la chiesa con il sincretismo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

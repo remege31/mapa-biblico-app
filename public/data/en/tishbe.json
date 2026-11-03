@@ -1,0 +1,165 @@
+{
+  "id": "tishbe",
+  "nombre": "Thisbe",
+  "tipo": "ciudad",
+  "lat": 32.193237,
+  "lng": 35.75,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Ubicación exacta incierta; coordenada aproximada que sitúa a Tisbe en la región central de Galaad, conforme a la identificación tradicional, distinta de la zona de Hazor (Galilea, al oeste del Jordán). Corregido el 21 jun 2026 — antes compartía coordenada con Hazor por error.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Elijah's Hometown"
+    }
+  ],
+  "descripcion_geo": "City or village of uncertain and disputed origin, traditionally located in the region of Gilead, east of the Jordan, known exclusively for being the place of origin of the prophet Elijah, with no other narrative development of its own in the biblical text.",
+  "altitud_m": "Uncertain (Gilead region)",
+  "clima": "Mountain Mediterranean — typical of the Gilead region, with dry summers and cold winters.",
+  "recursos": [
+    "No specifically documented resources in the biblical text"
+  ],
+  "importancia_estrategica": "Thisbe has no strategic, military or administrative relevance in the biblical story; Its only function is to identify the geographical origin of Elijah, one of the most significant prophets in the entire Old Testament, whose ministry took place mainly in the northern kingdom during the reign of Ahab.",
+  "otros_habitantes": [
+    {
+      "id": "galaaditas_tishbe",
+      "nombre": "Gilead Population",
+      "descripcion": "Inhabitants of the Gilead region from which Elijah originates, a Transjordanian territory with a strong tribal identity and a certain cultural distance from the political center of Israel and Judah.",
+      "religion": "Yahwism",
+      "periodo": "c. 870–850 BC"
+    },
+    {
+      "id": "familia_elias_tishbe",
+      "nombre": "Elijah family",
+      "descripcion": "Family nucleus of the prophet in his place of origin, without further details provided by the biblical text beyond the 'Tishbite' geographical identification.",
+      "religion": "Yahwism",
+      "periodo": "c. 900–870 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-presentado-tishbe",
+      "titulo": "Elijah is presented as 'Tishbite, of the inhabitants of Gilead'",
+      "fecha": "c. 870 BC",
+      "descripcion": "The prophet Elijah appears for the first time in the biblical text explicitly identified with his geographical origin, directly announcing to Ahab a drought as divine punishment, without any prior narrative of his calling or training being provided, in marked contrast to the extensive vocation narratives of other prophets.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "tishbe-origen-ambiguo",
+      "titulo": "The textual ambiguity regarding the exact origin of Thisbe",
+      "fecha": "Contexto textual, c. 870 BC",
+      "descripcion": "The Hebrew text of 1 Kings 17:1 presents some grammatical ambiguity about whether 'Tishbite' refers to a demonym derived from a city called Thisbe or to another possible reading of the original text, generating exegetical debate since ancient times about the exact location of the homeland of Elijah.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "elias-ministerio-posterior-tishbe",
+      "titulo": "The later ministry of Elijah after its origin in Thisbe",
+      "fecha": "c. 870–850 BC",
+      "descripcion": "After his brief identification of origin in Thisbe, Elijah develops his entire extensive ministry in other places in the northern kingdom and its surroundings, without the biblical text mentioning his hometown again in any subsequent episode of his prophetic career.",
+      "referencias": [
+        "1 Kgs 17:1-19:21",
+        "2 Kgs 1:1-2:11"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias_tishbe",
+      "nombre": "Elijah",
+      "rol": "Prophet of Israel, originally from Thisbe",
+      "periodo": "hierro_2",
+      "descripcion": "One of the most significant prophets of the Old Testament, identified in his first textual appearance through his origin in Thisbe, of Gilead, without further biographical information being provided prior to his public appearance at Ahab's court.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "ruta": [
+        "tishbe",
+        "jabbok",
+        "sidon",
+        "carmel"
+      ]
+    },
+    {
+      "id": "acab_tishbe_contexto",
+      "nombre": "Ahab",
+      "rol": "King of Israel, recipient of the prophetic announcement of Elijah",
+      "periodo": "c. 874–853 BC",
+      "descripcion": "He receives Elijah's first prophetic announcement of the coming drought, beginning the extensive cycle of confrontation between the king and the Tishbite prophet that characterizes much of the narrative of 1 Kings.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "galaaditas_tishbe_personaje",
+      "nombre": "Residents of Gilead",
+      "rol": "Community of origin of the prophet",
+      "periodo": "c. 900–870 BC",
+      "descripcion": "Population of the Transjordan region where the biblical text places the origin of Elijah, without further specific narrative development beyond the geographical identification of the prophet.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Thisbe lacks any narrative, mythical or cultic development of its own in the biblical text; Its only function is to identify the origin of one of the most transcendental prophets of the Old Testament, whose sudden emergence into the narrative—without detailed genealogy or account of vocation, unlike Isaiah, Jeremiah or Ezekiel—reinforces the abrupt and almost supernatural character with which Elijah appears in biblical history, as a direct instrument of divine judgment on the apostasy of Ahab and Jezebel.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "elias-aparicion-abrupta-tishbe",
+        "nombre": "The abrupt appearance of Elijah without a vocation story",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 17:1",
+          "fuente_secundaria": "Comentario rabínico y tradición posterior sobre la identidad y origen misteriosos de Elías, incluyendo especulaciones sobre su posible identificación con otras figuras bíblicas",
+          "descripcion": "Jewish tradition develops an extensive speculative literature on the origins and nature of Elijah, motivated in part by the absence of detailed genealogical information on his first appearance, which contributes to the subsequent elevation of Elijah to a quasi-supernatural figure in Jewish folklore and liturgy, including his eschatological role as a precursor of the Messiah.",
+          "similitudes": "It shares with Christianity and Islam the recognition of Elijah as a prophetic figure of exceptional status.",
+          "diferencias": null,
+          "significado_teologico": "The unprecedented appearance of Elijah reinforces its character as a direct prophetic instrument of YHWH, not dependent on conventional genealogical or institutional credentials.",
+          "posible_relacion_cultural": "Shared tradition of Elijah as a prophetic figure of eschatological relevance in the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Kgs 17:1 (recepción neotestamentaria de Elías en Mt 17:1-13, la Transfiguración; Lc 1:17, el paralelo con Juan el Bautista)",
+          "fuente_secundaria": "Comentarios patrísticos sobre Elías como figura precursora y tipológica",
+          "descripcion": "The Christian tradition takes up Elijah as a central figure of eschatological expectation, present alongside Moses in the Transfiguration of Jesus, and as a typological model applied to John the Baptist, granting the prophet of obscure origin in Thisbe a theological relevance that far transcends his brief initial presentation in the text.",
+          "similitudes": "It shares with Jewish reading the assessment of Elijah as a figure of exceptional eschatological relevance.",
+          "diferencias": "The Christian reading specifically develops the typology between Elijah and John the Baptist, absent in Jewish and Islamic readings.",
+          "significado_teologico": "Elijah becomes a central typological figure that connects the Old and New Testaments in the Christian messianic expectation.",
+          "posible_relacion_cultural": "Shared tradition of Elijah as a prophet of eschatological relevance common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 6:85; 37:123-132 (referencias a Ilyas)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre Ilyas como profeta enviado a un pueblo idólatra",
+          "descripcion": "The Quran recognizes Ilyas (Elijah) among the righteous prophets, sent to warn his people against the idolatry of the god Baal, in thematic parallel with the biblical conflict of Elijah against the prophets of Baal on Mount Carmel, although without detailing his specific geographical origin in Thisbe.",
+          "similitudes": "Shared recognition of Elijah/Ilyas as a prophet sent specifically against idolatry to Baal.",
+          "diferencias": "The Quran does not develop the specific geographical identification of Ilyas' origin in Thisbe nor the extensive narrative cycle present in the biblical text.",
+          "significado_teologico": "Ilyas is part of the chain of prophets recognized by Islam sent to confront the idolatry of their respective peoples.",
+          "posible_relacion_cultural": "Shared recognition of Elijah/Ilyas as a foundational prophet in the common Abrahamic tradition."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

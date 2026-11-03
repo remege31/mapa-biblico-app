@@ -1,0 +1,244 @@
+{
+  "id": "pamphylia",
+  "nombre": "Panfilia",
+  "tipo": "territorio",
+  "lat": 36.87,
+  "lng": 30.74,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Estrecha llanura costera del sur de Asia Menor entre Licia y Cilicia. Perge fue su ciudad principal.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pam_h1",
+      "titulo": "Juan Marcos abandona a Pablo en Panfilia",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "En Perge de Panfilia, Juan Marcos deja a Pablo y Bernabé y regresa a Jerusalén; este abandono causará después la separación de Pablo y Bernabé.",
+      "referencias": [
+        "Hch 13:13"
+      ],
+      "personajes_clave": [
+        "Juan Marcos",
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "pam_h2",
+      "titulo": "Pablo predica en Perge de Panfilia",
+      "fecha": "ca. 48 d.C.",
+      "descripcion": "En el regreso del primer viaje, Pablo predica en Perge antes de embarcarse.",
+      "referencias": [
+        "Hch 14:25"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "pam_h3",
+      "titulo": "Panfilios en Pentecostés",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Entre los presentes en Pentecostés hay hombres de Panfilia.",
+      "referencias": [
+        "Hch 2:10"
+      ],
+      "personajes_clave": [
+        "panfilios"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pam_p1",
+      "nombre": "Juan Marcos",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Abandonó la misión en Panfilia; más tarde fue restaurado y escribió el segundo evangelio.",
+      "referencias": [
+        "Hch 13:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pam_p2",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Pasó por Panfilia dos veces en el primer viaje misionero.",
+      "referencias": [
+        "Hch 14:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pam_p3",
+      "nombre": "Bernabé",
+      "rol": "Misionero",
+      "periodo": "s. I d.C.",
+      "descripcion": "Continuó el viaje tras el abandono de Juan Marcos.",
+      "referencias": [
+        "Hch 13:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Panfilia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "pam_m1",
+        "nombre": "Panfilia: tierra del abandono y la restauración",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "2 Tim 4:11",
+          "fuente_secundaria": "",
+          "descripcion": "Juan Marcos abandonó la misión en Panfilia; Pablo lo rechazó después, pero más tarde Pablo mismo valoró su servicio (2 Tim 4:11).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Juan Marcos abandonó la misión en Panfilia; Pablo lo rechazó después, pero más tarde Pablo mismo valoró su servicio (2 Tim 4:11).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pam_h1",
+        "titulo": "Juan Marcos abandona a Pablo en Panfilia",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "En Perge de Panfilia, Juan Marcos deja a Pablo y Bernabé y regresa a Jerusalén; este abandono causará después la separación de Pablo y Bernabé.",
+        "referencias": [
+          "Hch 13:13"
+        ],
+        "personajes_clave": [
+          "Juan Marcos",
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "pam_h2",
+        "titulo": "Pablo predica en Perge de Panfilia",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "En el regreso del primer viaje, Pablo predica en Perge antes de embarcarse.",
+        "referencias": [
+          "Hch 14:25"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "pam_h3",
+        "titulo": "Panfilios en Pentecostés",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Entre los presentes en Pentecostés hay hombres de Panfilia.",
+        "referencias": [
+          "Hch 2:10"
+        ],
+        "personajes_clave": [
+          "panfilios"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pam_p1",
+        "nombre": "Juan Marcos",
+        "rol": "Evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Abandonó la misión en Panfilia; más tarde fue restaurado y escribió el segundo evangelio.",
+        "referencias": [
+          "Hch 13:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pam_p2",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Pasó por Panfilia dos veces en el primer viaje misionero.",
+        "referencias": [
+          "Hch 14:24"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pam_p3",
+        "nombre": "Bernabé",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Continuó el viaje tras el abandono de Juan Marcos.",
+        "referencias": [
+          "Hch 13:13"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Panfilia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "pam_m1",
+          "nombre": "Panfilia: tierra del abandono y la restauración",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Juan Marcos abandonó la misión en Panfilia; Pablo lo rechazó después, pero más tarde Pablo mismo valoró su servicio (2 Tim 4:11).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Juan Marcos abandonó la misión en Panfilia; Pablo lo rechazó después, pero más tarde Pablo mismo valoró su servicio (2 Tim 4:11).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "geshur",
+  "nombre": "Gesur",
+  "tipo": "territorio",
+  "lat": 33.0,
+  "lng": 36.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 15,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Pequeño reino arameo al noreste del lago de Galilea, en la meseta del Golán. Aliado y luego enemigo de David.",
+  "altitud_m": 400,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "pastoreo",
+    "agricultura",
+    "comercio"
+  ],
+  "importancia_estrategica": "Territorio que David no pudo conquistar; su rey Talmai fue abuelo de Absalón.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ges_h1",
+      "titulo": "David se casa con la princesa de Gesur",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "David tomó por esposa a Maacá hija del rey Talmai de Gesur; de ella nació Absalón.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "personajes_clave": [
+        "David",
+        "Maacá",
+        "Talmai"
+      ]
+    },
+    {
+      "id": "ges_h2",
+      "titulo": "Absalón huye a Gesur tras matar a Amnón",
+      "fecha": "ca. 990 a.C.",
+      "descripcion": "Después de matar a su medio hermano Amnón para vengar la violación de Tamar, Absalón huye a la corte de su abuelo Talmai en Gesur.",
+      "referencias": [
+        "2 Sam 13:37-38"
+      ],
+      "personajes_clave": [
+        "Absalón",
+        "David",
+        "Amnón",
+        "Tamar"
+      ]
+    },
+    {
+      "id": "ges_h3",
+      "titulo": "Joab negocia el regreso de Absalón de Gesur",
+      "fecha": "ca. 988 a.C.",
+      "descripcion": "Joab convence a David de permitir que Absalón regrese de Gesur; David lo acepta pero tardará dos años en verlo.",
+      "referencias": [
+        "2 Sam 14:1-24"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "David",
+        "Absalón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ges_p1",
+      "nombre": "Absalón",
+      "rol": "Hijo de David",
+      "periodo": "ca. 1010-978 a.C.",
+      "descripcion": "Hijo de la princesa de Gesur; fue refugio y exilio de su madre; lideró la rebelión más grande contra David.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p2",
+      "nombre": "Talmai",
+      "rol": "Rey de Gesur",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Abuelo materno de Absalón; dio refugio a su nieto tras el asesinato de Amnón.",
+      "referencias": [
+        "2 Sam 13:37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p3",
+      "nombre": "Maacá",
+      "rol": "Princesa de Gesur, esposa de David",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Hija del rey de Gesur; madre de Absalón y de Tamar.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gesur: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ges_m1",
+        "nombre": "El refugio del fugitivo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Gesur fue el refugio de Absalón tras su crimen; el exilio de un principe en tierra extranjera es motivo recurrente en la narrativa bíblica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesur fue el refugio de Absalón tras su crimen; el exilio de un principe en tierra extranjera es motivo recurrente en la narrativa bíblica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

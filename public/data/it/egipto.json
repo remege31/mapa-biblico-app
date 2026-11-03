@@ -1,0 +1,355 @@
+{
+  "id": "egipto",
+  "nombre": "Egitto",
+  "tipo": "territorio",
+  "lat": 29.8495,
+  "lng": 31.2551,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 200,
+  "jerarquia_pin": "primario",
+  "nota_coordenadas": "Anclado en Menfis antigua (Mit Rahina, Gobernación de Giza) — capital más relevante de Egipto en el período del AT, mencionada como 'Nof' o 'Mof' en los profetas bíblicos",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Nuovo Regno – Ramses II, Esodo"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Declino del Nuovo Regno"
+    },
+    {
+      "desde": -1000,
+      "hasta": -664,
+      "nombre": "Terzo Periodo Intermedio"
+    },
+    {
+      "desde": -664,
+      "hasta": -400,
+      "nombre": "Periodo Tardo: influenza persiana"
+    }
+  ],
+  "descripcion_geo": "Territorio dell'Africa nord-orientale, geograficamente delimitato dalla Valle del Nilo tra la prima cataratta (Aswan) e il delta del Mediterraneo. Il Nilo è l'asse vitale: le sue piene annuali depositano il fertile limo che rende possibile l'agricoltura nel deserto. Menfi, all'apice del Delta (20 km a sud dell'attuale Cairo), era la capitale dell'Antico e del Medio Regno, un crocevia strategico tra l'Alto e il Basso Egitto.",
+  "altitud_m": "22 m (Memphis / Mit Rahina) — Piana alluvionale del Nilo",
+  "clima": "Deserto arido: meno di 50 mm di pioggia annua. Tutta la vita dipende dal Nilo. Estati estremamente calde, inverni miti. L'evento centrale dell'anno era l'inondazione del Nilo (giugno-settembre).",
+  "recursos": [
+    "Terreno alluvionale del Nilo (grano, papiro, lino)",
+    "Calcare e granito (edilizia)",
+    "Oro (Nubia)",
+    "Rame (Sinai)",
+    "Commercio nel Mar Rosso (incenso, avorio)",
+    "Papyrus (scrivere ed esportare)"
+  ],
+  "importancia_estrategica": "Potenza dominante del Mediterraneo orientale per più di 1500 anni del periodo AT. Il controllo del corridoio Cananeo era un obiettivo permanente. La schiavitù israelita in Egitto e l'Esodo sono l'evento fondante dell'identità di Israele come popolo liberato da Jahvè.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios",
+      "nombre": "Egiziani",
+      "descripcion": "Civiltà del Nilo con più di 3000 anni di continuità. La sua influenza culturale, religiosa e politica penetrò profondamente in Canaan durante la tarda età del bronzo. La religione egiziana (Ra, Osiride, Iside, Horus) era l'alternativa teologica più vicina allo Yahwismo.",
+      "religion": "Politeismo: Ra (sole), Osiride (morte e resurrezione), Iside, Horus, Amon, Ptah (a Menfi)",
+      "periodo": "C. 3100 a.C. in poi"
+    },
+    {
+      "id": "hicsos",
+      "nombre": "Hyksos",
+      "descripcion": "Popolo di origine asiatica (semitica occidentale) che conquistò il delta egiziano (1650–1550 aC circa) e fondò la XV e la XVI dinastie. Il suo periodo di dominio potrebbe coincidere con il periodo di Joseph in Egitto. Gli Hyksos introdussero il carro da guerra e l'arco composito in Egitto.",
+      "religion": "Il politeismo semitico si assimilò al pantheon egiziano: adoravano Set",
+      "periodo": "C. 1650–1550 a.C"
+    },
+    {
+      "id": "israelitas-egipto",
+      "nombre": "Israeliti in Egitto",
+      "descripcion": "Secondo l'OT, i discendenti di Giacobbe (Israele) vivevano nella regione del Delta egiziano (Goshen) come lavoratori forzati fino all'Esodo guidato da Mosè. L'esperienza della schiavitù in Egitto è l'orizzonte morale dello Yahwismo: \"eravate schiavi in ​​Egitto\" giustifica l'etica sociale israelita.",
+      "religion": "Yahvismo emergente – in tensione con i culti egiziani",
+      "periodo": "C. 1650–1250 a.C. (trad.)"
+    },
+    {
+      "id": "nubios",
+      "nombre": "Nubiani/Kushiti",
+      "descripcion": "Popolo del Nilo meridionale che governò Egitto durante la XXV dinastia (744–656 aC circa). Il faraone kushita Taharka tentò di aiutare Giuda contro Assiria durante l'assedio di Gerusalemme da parte di Sennacherib (2 Re 19:9).",
+      "religion": "Il politeismo egiziano fu adottato e adattato",
+      "periodo": "C. 744–656 a.C. (come i faraoni)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jose-egipto",
+      "titulo": "José a Egitto",
+      "fecha": "c. 1700–1600 a.C. (trad.)",
+      "descripcion": "Giuseppe, venduto schiavo dai suoi fratelli, diventa visir del faraone. La sua interpretazione dei sogni salva Egitto e Canaan dalla carestia. La sua storia è il ponte narrativo tra i patriarchi e il periodo della schiavitù e dell'Esodo.",
+      "referencias": [
+        "Gen 37:1-36",
+        "Gen 39:1-41:57",
+        "Gen 45:1-28"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "exodo",
+      "titulo": "L'esodo di Egitto",
+      "fecha": "c. 1250 a.C. (trad.)",
+      "descripcion": "Mosè guida la liberazione del popolo israelita dalla schiavitù in Egitto dopo le dieci piaghe. L’attraversamento del Mar Canneto e la marcia attraverso Sinai sono gli eventi fondanti dell’identità di Israele come popolo liberato da Jahvè. L'Esodo è il centro gravitazionale di tutta la teologia dell'Antico Testamento.",
+      "referencias": [
+        "Es 1:1-15:21",
+        "Es 12:29-42",
+        "Es 14:5-31"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron",
+        "faraon"
+      ]
+    },
+    {
+      "id": "huida-jeremias-egipto",
+      "titulo": "Il rifugio in Egitto dopo la caduta di Gerusalemme",
+      "fecha": "586 a.C.",
+      "descripcion": "Dopo la distruzione di Gerusalemme, un gruppo di ebrei, contro l'avvertimento di Geremia, fugge a Egitto (Tahpanhes / Defne) portando via il profeta. Geremia continua a profetizzare in Egitto. L'ironia storica è totale: Israele ritorna nella terra della schiavitù.",
+      "referencias": [
+        "Ger 41:16-43:13",
+        "Ger 44:1-30"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises",
+      "nombre": "Mosè",
+      "rol": "Liberatore – legislatore – mediatore dell’Alleanza",
+      "periodo": "bronce_tardio",
+      "descripcion": "Nato a Egitto, educato alla corte del Faraone e rifugiato a Madian, Mosè viene chiamato da Jahvè in Sinai per liberare Israele. Mediatore della Torah sul monte Sinai. La figura umana più citata nell'Antico Testamento.",
+      "referencias": [
+        "Es 2:1-25",
+        "Es 3:1-4:17",
+        "Es 19:1-20:21",
+        "Dt 34:1-12"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai",
+        "canaan"
+      ]
+    },
+    {
+      "id": "jose",
+      "nombre": "Josè",
+      "rol": "Patriarca: visir di Egitto",
+      "periodo": "bronce_medio",
+      "descripcion": "Figlio di Giacobbe, venduto come schiavo ed elevato a visir di Egitto. La sua storia prefigura il tema della divina provvidenza che agisce attraverso la sofferenza. La storia più elaborata dal punto di vista letterario della Genesi.",
+      "referencias": [
+        "Gen 37:1-50:26"
+      ],
+      "ruta": [
+        "canaan",
+        "egipto"
+      ]
+    },
+    {
+      "id": "jeremias-egipto",
+      "nombre": "Geremia",
+      "rol": "Profeta: testimone dell'esilio in Egitto",
+      "periodo": "hierro_2",
+      "descripcion": "Portato contro la sua volontà a Egitto dopo la caduta di Gerusalemme. Profetizza contro i rifugiati ebrei in Egitto che ritornano al culto della \"Regina del Cielo\" (Ishtar/Isis). La sua presenza in Egitto chiude il cerchio della storia dell'AT.",
+      "referencias": [
+        "Ger 43:1-44:30"
+      ],
+      "ruta": [
+        "jerusalen",
+        "egipto"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Egitto rappresenta nell'Antico Testamento l'esatto opposto di Jahvè: terra di schiavitù, politeismo e morte. La partenza di Egitto (Esodo) è l'atto fondativo della fede di Israele. Tuttavia, Egitto è anche un rifugio in tempi di crisi (Abramo, Giuseppe, la Sacra Famiglia nel NT). L'ambivalenza di Egitto nell'Antico Testamento riflette la complessità della relazione storica.",
+    "religiones_presentes": [
+      "Politeismo egiziano (Ra, Osiride, Iside, Ptah, Amon)",
+      "Culto di Aton (monoteismo di breve durata sotto Akhenaton, 1350 a.C. circa)",
+      "Yahvismo israeliano (in tensione con Egitto)"
+    ],
+    "mitos": [
+      {
+        "id": "plagas-egipto",
+        "nombre": "Le dieci piaghe di Egitto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 7:14-12:36",
+          "fuente_secundaria": "Midrash Rabbah, Éxodo 25:1 — las plagas como demostración de la soberanía de Yahvé sobre los dioses de Egipto; el cielo como origen de todos los actos divinos",
+          "descripcion": "Le dieci piaghe sono la dimostrazione della sovranità di Jahvè sugli dei di Egitto: ciascuna piaga attacca una divinità specifica nel pantheon egiziano. Pesach (Pasqua) commemora l'ultima piaga e la liberazione di Egitto. È la festa fondatrice del giudaismo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jahvè dimostra la sua superiorità su tutti gli dei. La liberazione di Egitto definisce Israele come un popolo dell'Esodo.",
+          "posible_relacion_cultural": "Alcuni studiosi collegano le pestilenze a fenomeni naturali avvenuti nel delta del Nilo (eruzioni di Santorini, 1600 aC circa)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 7-12 · 1 Cor 5:7 · Heb 11:28",
+          "fuente_secundaria": "Melitón de Sardes, Sobre la Pascua 32-45 — tipología pascual más antigua; la décima plaga como prefiguración del sacrificio de Cristo",
+          "descripcion": "La Pasqua ebraica è il tipo della morte e risurrezione di Cristo: Cristo è l'«agnello pasquale» (1 Cor 5,7). La decima piaga (la morte dei primogeniti) prefigura il sacrificio del Figlio di Dio.",
+          "diferencias": "La tipologia cristiana spiritualizza le piaghe: non sono eventi storici in primo piano, ma segni anticipatori di redenzione.",
+          "similitudes": "Il sangue dell'agnello come segno di salvezza – parallelo al sangue di Cristo.",
+          "significado_teologico": "L'Esodo è una forma di redenzione universale in Cristo. La Pasqua cristiana (Settimana Santa) eredita e trasforma la Pasqua ebraica.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 7:103-137 · Corán 26:10-68",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Araf 7:103-137 — las señales de Musa como argumentos proféticos ante el Faraón, paradigma del kufr",
+          "descripcion": "Il Corano narra i segni (ayat) di Musa (Mosè) davanti al Faraone: la verga che si trasforma in serpente, la mano luminosa. Le piaghe sono menzionate in modo più condensato rispetto all'Esodo biblico. Il Faraone è il paradigma coranico del sovrano che crede di essere un dio.",
+          "diferencias": "Il Corano non elenca le dieci piaghe individualmente. L'enfasi ricade sulla missione profetica di Musa e sull'arroganza del Faraone.",
+          "similitudes": "Musa come inviata divina; Faraone come avversario; segni come argomenti della sovranità divina.",
+          "significado_teologico": "Il Faraone come una sorta di kufr (incredulità arrogante) – un modello negativo che si ripete nella storia profetica islamica.",
+          "posible_relacion_cultural": "Tradizione condivisa circa Mosè/Musa che affonda le radici nello stesso substrato testuale del Vicino Oriente antico."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "egi_nt_h1",
+        "titulo": "La fuga verso Egitto",
+        "fecha": "ca. 5-4 a.C.",
+        "descripcion": "Giuseppe fugge con Maria e il bambino Gesù a Egitto per sfuggire al massacro di Erode; Ritornano dopo la loro morte.",
+        "referencias": [
+          "Mt 2:13-21"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "José",
+          "Herodes el Grande"
+        ]
+      },
+      {
+        "id": "egi_nt_h2",
+        "titulo": "Compimento della profezia: 'Da Egitto ho chiamato mio figlio'",
+        "fecha": "ca. 5-4 a.C.",
+        "descripcion": "Matteo cita Osea 11:1 per interpretare il ritorno di Gesù da Egitto come adempimento profetico.",
+        "referencias": [
+          "Mt 2:15",
+          "Os 11:1"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "José"
+        ]
+      },
+      {
+        "id": "egi_nt_h3",
+        "titulo": "La chiesa in Egitto: Marco ad Alessandria",
+        "fecha": "ca. 45-68 d.C.",
+        "descripcion": "La tradizione cristiana colloca Giovanni Marco come fondatore della chiesa di Alessandria.",
+        "referencias": [
+          "Tradición copta",
+          "Eusebio Historia Eclesiástica II.16"
+        ],
+        "personajes_clave": [
+          "Juan Marcos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "egi_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Profugo messianico",
+        "periodo": "ca. 5-4 a.C.",
+        "descripcion": "Ha vissuto brevemente in Egitto durante l'infanzia; il suo ritorno ricapitola l'esodo di Israele.",
+        "referencias": [
+          "Mt 2:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "egi_nt_p2",
+        "nombre": "Giuseppe di Nazaret",
+        "rol": "Padre adottivo e protettore",
+        "periodo": "s. I a.C.",
+        "descripcion": "Nei sogni riceveva l'avvertimento di fuggire a Egitto e ritornare; Obbedì in entrambe le occasioni.",
+        "referencias": [
+          "Mt 2:13-21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "egi_nt_p3",
+        "nombre": "Giovanni Marco",
+        "rol": "Evangelista e missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cugino di Barnaba, autore del secondo vangelo; La tradizione lo collega alla fondazione della chiesa egiziana.",
+        "referencias": [
+          "At 12:12",
+          "Col 4:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Terra di schiavitù e di rifugio; nel NT, Egitto funge da luogo di protezione per il Messia e successivamente come luogo di nascita della chiesa alessandrina.",
+      "religiones_presentes": [
+        "egiziano_paganesimo",
+        "alessandrino_ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "egi_nt_m1",
+          "nombre": "Da Egitto ho chiamato mio figlio",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "L'esodo di Israele da Egitto è l'evento fondativo del popolo di Dio (Es 12-15).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'esodo di Israele da Egitto è l'evento fondativo del popolo di Dio (Es 12-15).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Escape and Return from Egitto di Gesù ricapitola l'esodo, introducendo Gesù come il nuovo Israele.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Escape and Return from Egitto di Gesù ricapitola l'esodo, introducendo Gesù come il nuovo Israele.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "L'Islam riconosce miracolosa l'infanzia di Isa (Gesù) ma non menziona l'episodio egiziano nel Corano.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'Islam riconosce miracolosa l'infanzia di Isa (Gesù) ma non menziona l'episodio egiziano nel Corano.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

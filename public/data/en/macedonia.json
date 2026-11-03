@@ -1,0 +1,246 @@
+{
+  "id": "macedonia",
+  "nombre": "Macedonia",
+  "tipo": "territorio",
+  "lat": 40.63,
+  "lng": 22.93,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 30,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Region in the north of Greece, between Mounts Olympus and Pindus and the Aegean coast. Homeland of Alexander the Great and first European region evangelized by Paul.",
+  "altitud_m": 200,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "gold",
+    "silver",
+    "wood",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Hellenistic kingdom that expanded Greek culture throughout the known world; in the NT, the first European soil of the gospel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mac_h1",
+      "titulo": "The Macedonian Vision by Paul",
+      "fecha": "ca. 50 AD",
+      "descripcion": "In Troad Paul has a vision of a Macedonian who says 'Come over to Macedonia and help us'; the gospel crosses Europe.",
+      "referencias": [
+        "Acts 16:9-10"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Lucas"
+      ]
+    },
+    {
+      "id": "mac_h2",
+      "titulo": "Macedonian churches and their generosity",
+      "fecha": "ca. 55-57 AD",
+      "descripcion": "Paul praises the generosity of the Macedonians (Philippians and Thessalonica) who gave to the poor of Jerusalem despite their own poverty.",
+      "referencias": [
+        "2 Cor 8:1-5"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "mac_h3",
+      "titulo": "Paul in the Philippian prison",
+      "fecha": "ca. 50 AD",
+      "descripcion": "Imprisoned in Philippi, Paul and Silas sing hymns; An earthquake opens the doors and the jailer converts.",
+      "referencias": [
+        "Acts 16:23-34"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mac_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He brought the gospel to Macedonia in response to the vision; He founded churches in Philippi, Thessalonica and Berea.",
+      "referencias": [
+        "Acts 16:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mac_p2",
+      "nombre": "Alexander the Great",
+      "rol": "King of Macedonia",
+      "periodo": "356-323 BC",
+      "descripcion": "He conquered the known world and spread Greek as a lingua franca, preparing the ground for the NT.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mac_p3",
+      "nombre": "Lydia",
+      "rol": "Merchant, first European convert",
+      "periodo": "s. I AD",
+      "descripcion": "Born in Thyatira, established in Philippi (Macedonia); first baptized on European soil.",
+      "referencias": [
+        "Acts 16:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Land of Hellenism; in the NT, the soil where the gospel made the leap from Asia to Europe, fulfilling the vision of the Macedonian.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "imperial_cult",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "mac_m1",
+        "nombre": "The move to Europe",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Macedonian's vision in Troad redirected the Pauline mission from Asia to Europe; The Western Church was born in Macedonia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Macedonian's vision in Troad redirected the Pauline mission from Asia to Europe; The Western Church was born in Macedonia.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mac_nt_h1",
+        "titulo": "Paul founds the first European church in Philippi",
+        "fecha": "ca. 50 AD",
+        "descripcion": "By the river at Philippi, Paul preaches to Lydia and her household; The first Christian community in Europe is born.",
+        "referencias": [
+          "Acts 16:12-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "mac_nt_h2",
+        "titulo": "The Letters to the Thessalonians: Early Epistles of the NT",
+        "fecha": "ca. 51 AD",
+        "descripcion": "Paul writes from Corinth to the church of Thessalonica: the oldest letters of the NT.",
+        "referencias": [
+          "1 Thess 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mac_nt_h3",
+        "titulo": "Macedonian generosity",
+        "fecha": "ca. 56 AD",
+        "descripcion": "The poor churches of Macedonia give generously to the saints of Jerusalem, being a model of liberality.",
+        "referencias": [
+          "2 Cor 8:1-5"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mac_nt_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "Macedonia evangelized; He founded the churches of Philippi, Thessalonica and Berea.",
+        "referencias": [
+          "Acts 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mac_nt_p2",
+        "nombre": "silas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Partner of Paul in the evangelization of Macedonia.",
+        "referencias": [
+          "Acts 16:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mac_nt_p3",
+        "nombre": "Lydia",
+        "rol": "First European convert",
+        "periodo": "s. I AD",
+        "descripcion": "Merchant from Thyatira baptized in Philippi of Macedonia.",
+        "referencias": [
+          "Acts 16:14"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Macedonia was the first European territory where the gospel took deep roots.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "mac_nt_m1",
+          "nombre": "The vision of the Macedonian",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "A night vision redirected Paul's mission from Asia to Macedonia; axial moment of Christian history.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "A night vision redirected Paul's mission from Asia to Macedonia; axial moment of Christian history.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

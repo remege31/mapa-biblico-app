@@ -1,0 +1,166 @@
+{
+  "id": "timnah",
+  "nombre": "Timnah",
+  "tipo": "ciudad",
+  "lat": 31.784368,
+  "lng": 34.90968,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Philistine-Danite border city, Samson cycle"
+    }
+  ],
+  "descripcion_geo": "City in the western Shephelah, in the valley of Sorek, on the fluctuating border between the territory assigned to Dan and the area of ​​Philistine control. Land of low hills with vineyards, a constant point of friction between both populations during the period of the Judges.",
+  "altitud_m": 165,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rainfall; The Sorek Valley favors the cultivation of vines.",
+  "recursos": [
+    "Sorek Valley Vineyards",
+    "Agricultural lands of the Shephelah",
+    "Border position between Philistia and the territory of Dan"
+  ],
+  "importancia_estrategica": "Timnah marked the line of contact between the Philistines settled on the coastal plain and the Dan tribe in the mountainous foothills; Its border and mixed character (nominally assigned to Dan but under strong Philistine influence or control) makes it the natural setting for Samson's personal conflicts with the Philistines, which function narratively as a preview of the subsequent national confrontation between Israel and Philistia.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_timnah",
+      "nombre": "Philistines",
+      "descripcion": "Dominant population in Timnah during the period of the Judges; The Philistine woman whom Samson takes as his wife resides there, and the city functions as an extension of the Philistine presence on the border with Dan.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "danitas_timnah",
+      "nombre": "Tribe by Dan",
+      "descripcion": "Israelites settled in the foothills near Timnah; Samson's (Zorah's) family belongs to this group, in constant contact and conflict with the neighboring Philistine population.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-leon-timnah",
+      "titulo": "Samson kills the lion on the way to Timnah",
+      "fecha": "c. 1100 BC",
+      "descripcion": "While descending to Timnah to propose in marriage to a Philistine woman, Samson is attacked by a young lion and tears it to pieces with his hands without his parents knowing; Some time later he finds a honeycomb on the animal's corpse.",
+      "referencias": [
+        "Judg 14:5-9"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "boda-enigma-sanson",
+      "titulo": "Samson's wedding and the riddle of the lion",
+      "fecha": "c. 1100 BC",
+      "descripcion": "During the wedding banquet in Timnah, Samson poses a riddle to thirty Philistines companions based on the episode of the lion and the honey; Unable to solve it, they pressure Samson's wife until she extracts the secret from him and reveals it to them, which unleashes Samson's anger and the beginning of his open enmity with the Philistines.",
+      "referencias": [
+        "Judg 14:10-20"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "viñas-timnah-zorras",
+      "titulo": "The incendiary bitches in the fields Philistines",
+      "fecha": "c. 1100 BC",
+      "descripcion": "After discovering that his wife was given to another, Samson captures three hundred foxes, ties them in pairs with burning torches between their tails, and releases them into the grain fields, vineyards, and olive groves Philistines near Timnah, beginning a cycle of mutual retaliation.",
+      "referencias": [
+        "Judg 15:1-8"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Samson",
+      "rol": "Israel Judge, Nazarite of superhuman strength",
+      "periodo": "hierro_1",
+      "descripcion": "Judge of the tribe of Dan, consecrated Nazirite from the womb, whose personal conflict with the Philistines—initiated by his marriage in Timnah—becomes the driving force of twenty years of harassment against Philistine oppression.",
+      "referencias": [
+        "Judg 13:24-25",
+        "Judg 14:1-20",
+        "Judg 16:1-31"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah"
+      ]
+    },
+    {
+      "id": "esposa_timnah_sanson",
+      "nombre": "Timnah Woman",
+      "rol": "Samson's first Philistine wife",
+      "periodo": "c. 1100 BC",
+      "descripcion": "Philistine woman from Timnah chosen by Samson against the advice of his parents; Pressured by her compatriots, she reveals the secret of the wedding enigma, and is subsequently handed over to another man, triggering Samson's retaliation.",
+      "referencias": [
+        "Judg 14:1-20",
+        "Judg 15:6"
+      ],
+      "ruta": [
+        "timnah"
+      ]
+    },
+    {
+      "id": "padres_sanson",
+      "nombre": "Manoah and his wife",
+      "rol": "Samson's parents",
+      "periodo": "hierro_1",
+      "descripcion": "They accompany Samson to Timnah to negotiate the marriage, initially expressing their disapproval at his choice of a Philistine wife over an Israelite woman.",
+      "referencias": [
+        "Judg 14:1-5"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Timnah is the scene of the first great personal-political conflict between Samson and the Philistines, presented by the biblical narrator as an instrument of a greater divine design: the search for opportunity against Philistia at a time of Philistine dominance over Israel. The city embodies the religious tension of the border—a mixed marriage between Yahwism and the cult of Dagon—that the story does not resolve through explicit condemnation but through its narrative instrumentalization.",
+    "religiones_presentes": [
+      "Yahwism (Samson's family)",
+      "Philistine polytheism — cult of Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "enigma-leon-miel",
+        "nombre": "The enigma of the lion and the honey",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 14:5-18",
+          "fuente_secundaria": "Midrash, Bereshit Rabbah (paralelos sobre fuerza y designio divino en los jueces)",
+          "descripcion": "Rabbinic tradition frames the episode of the lion and the enigma within the pattern of charismatic judges whose personal strength is an instrument of Israel's plan of liberation, highlighting the motif of 'from him who eats came food' as a figure of how good can arise from the impure.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode exemplifies how God uses seemingly private and even transgressive events (contact with an animal carcass, prohibited for a Nazirite) to initiate the deliverance of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Judg 14:5-18 (recepción patrística de Sansón como figura de fuerza paradójica)",
+          "fuente_secundaria": "Agustín de Hipona, comentarios homiléticos sobre los jueces como prefiguraciones",
+          "descripcion": "Some Church Fathers read Samson—including the episode of the enigma of Timnah—as an ambiguous figure of strength that, despite its moral weaknesses, is used providentially, anticipating later typological readings about strength that conquers through apparent weakness.",
+          "similitudes": "Share the recognition of the providential design behind the episode.",
+          "diferencias": "The ancient Christian reading tends to moralize Samson's weaknesses more explicitly than the rabbinic tradition.",
+          "significado_teologico": "Samson's strength, arising from an impure episode, is read as a preview of how divine power operates through unexpected means.",
+          "posible_relacion_cultural": "Shared reception of the Israel Judges as historical figures with moral and theological value in both traditions."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

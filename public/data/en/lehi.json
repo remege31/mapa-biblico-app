@@ -1,0 +1,163 @@
+{
+  "id": "lehi",
+  "nombre": "Lehi",
+  "tipo": "ciudad",
+  "lat": 31.75274835811488,
+  "lng": 34.97660913147738,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Samson's last battle against the Philistines"
+    }
+  ],
+  "descripcion_geo": "Locality of the Shephelah, very close to Zorah and the valley of Sorek, whose name ('jawbone' in Hebrew) derives directly from the biblical episode that takes place there. Low hilly terrain typical of the border between Danite territory and the Philistine plain.",
+  "altitud_m": 220,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah.",
+  "recursos": [
+    "Border position between Danite and Philistine territory",
+    "Agricultural lands of the Shephelah",
+    "Spring associated with the story (En-hacore)"
+  ],
+  "importancia_estrategica": "Lehi is the scene of Samson's greatest single military victory against the Philistines, and his own name became fixed in biblical memory from that episode. Geographically it articulates the Samson cycle together with Zorah and Timnah, forming a small triangle of places all linked to the same narrative cycle.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_lehi",
+      "nombre": "Philistines",
+      "descripcion": "Philistine troops going up to Lehi to capture Samson after he took refuge in the rock of Etam after his reprisals in the fields of Timnah.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1100 BC"
+    },
+    {
+      "id": "judaitas_lehi",
+      "nombre": "Men of Judah",
+      "descripcion": "Three thousand men from Judah who descend to the rock of Etam to tie Samson and hand him over to the Philistines, seeking to avoid collective reprisals against their territory.",
+      "religion": "Yahwism",
+      "periodo": "c. 1100 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "entrega-sanson-judaitas",
+      "titulo": "Judah's men hand over Samson",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Faced with the threat of Philistine retaliation for the burning of the fields, three thousand Judah men go down to the rock of Etam, reproach Samson for his behavior and tie him with new ropes to hand him over to the Philistines in Lehi, thus avoiding a major conflict with the occupier.",
+      "referencias": [
+        "Judg 15:9-13"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "quijada-asno-lehi",
+      "titulo": "donkey's jaw",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Upon reaching Lehi, the Spirit of YHWH takes hold of Samson, the ropes that bind him loosen like burnt linen, and with the fresh jaw of a donkey he kills a thousand men Philistines, giving rise to the name of the place and a short song attributed to Samson.",
+      "referencias": [
+        "Judg 15:14-17"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "manantial-en-hacore",
+      "titulo": "The En-hacore spring",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Exhausted and thirsty after the slaughter, Samson cries out to YHWH fearing that he will die of thirst; God opens a crack in the rock of Lehi from which water flows, a spring that retains the name 'En-hacore' ('fountain of the one who cries') until the time of the biblical narrator.",
+      "referencias": [
+        "Judg 15:18-19"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Samson",
+      "rol": "Israel Judge, Nazarite of superhuman strength",
+      "periodo": "hierro_1",
+      "descripcion": "Protagonist of the most decisive battle of his personal cycle against the Philistines, fought in Lehi with an improvised weapon; The episode marks the climax of their feud that arose in Timnah.",
+      "referencias": [
+        "Judg 15:9-19"
+      ],
+      "ruta": [
+        "timnah",
+        "zorah",
+        "lehi"
+      ]
+    },
+    {
+      "id": "hombres_judá_lehi",
+      "nombre": "Men of Judah",
+      "rol": "Delegation of three thousand men from Judah",
+      "periodo": "c. 1100 BC",
+      "descripcion": "They represent the accommodation attitude of the leadership of Judah under Philistine rule, willing to hand over their own judge in order to avoid reprisals, in contrast to Samson's individual liberating action.",
+      "referencias": [
+        "Judg 15:9-13"
+      ],
+      "ruta": [
+        "lehi"
+      ]
+    },
+    {
+      "id": "filisteos_derrotados_lehi",
+      "nombre": "A thousand men Philistines",
+      "rol": "Philistine troops defeated at Lehi",
+      "periodo": "c. 1100 BC",
+      "descripcion": "Philistine force annihilated by Samson with the jawbone of a donkey, an episode that represents the greatest casualty inflicted by a single Israelite judge in a single narrated confrontation.",
+      "referencias": [
+        "Judg 15:15-16"
+      ],
+      "ruta": [
+        "lehi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lehi condenses the central theological pattern of the Samson cycle: superhuman strength as a direct manifestation of the Spirit of YHWH, exercised through a deliberately unworthy instrument (a dead animal jawbone, a source of ritual impurity for a Nazirite). The cry of thirst and the divine response through the spring underlines that the military victory does not exclude the judge's human fragility, balancing the heroic story with a moment of vulnerability and explicit dependence on God.",
+    "religiones_presentes": [
+      "Yahwism (including the institution of the Nazirite)",
+      "Philistine polytheism — cult of Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "quijada-mil-filisteos",
+        "nombre": "The jawbone of a donkey and the slaughter of a thousand Philistines",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 15:14-19",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 9b-10a (sobre la fuerza de Sansón y su origen)",
+          "descripcion": "Rabbinic tradition discusses the episode as a display of the power granted by the Spirit of YHWH to a humble and ritually questionable instrument, linking it to reflections on the humility of the means that God chooses to effect liberation.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The contrast between the weakness of the weapon (a bone) and the magnitude of the victory reinforces the idea that strength comes entirely from YHWH, not human ability.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Judg 15:14-19 (recepción patrística sobre Sansón como tipo de fuerza paradójica)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre Sansón en la tradición de los 'jueces-salvadores'",
+          "descripcion": "The early patristic reading takes up Samson in Lehi as an example of divine power manifested through weak or despised instruments, a theme that is later integrated into the tradition of typological readings on strength that is perfected in weakness.",
+          "similitudes": "It shares the emphasis on the contrast between the smallness of the means and the magnitude of the result.",
+          "diferencias": "Christian tradition tends to generalize the motif as a broad theological principle, beyond the specific episode of Samson.",
+          "significado_teologico": "The episode is read as antecedent to the principle that the power of God is perfected in what is weak or despised according to human standards.",
+          "posible_relacion_cultural": "Shared reception of the cycle of Israel judges as part of the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

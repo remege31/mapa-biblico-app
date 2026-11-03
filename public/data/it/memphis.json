@@ -1,0 +1,153 @@
+{
+  "id": "memphis",
+  "nombre": "Menfi",
+  "tipo": "ciudad",
+  "lat": 29.849632,
+  "lng": 31.253958,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II - Capitale egiziana, oracoli di giudizio"
+    }
+  ],
+  "descripcion_geo": "Una delle più importanti e antiche città di Egitto, tradizionale capitale del Basso Egitto, menzionata nel testo biblico con il nome ebraico 'Nof' negli oracoli profetici di giudizio contro Egitto pronunciati durante l'ultimo periodo del regno di Giuda.",
+  "altitud_m": 20,
+  "clima": "Deserto subtropicale: estremamente caldo e secco durante tutto l'anno, tipico della Valle del Nilo nel Basso Egitto.",
+  "recursos": [
+    "Capitale tradizionale di Bajo Egitto",
+    "Centro amministrativo e religioso di grande prestigio",
+    "Templi dedicati a varie divinità egizie, incluso il dio Ptah"
+  ],
+  "importancia_estrategica": "Memphis appare nel tardo corpus profetico come destinazione di fuga dei profughi ebrei in seguito alla distruzione di Gerusalemme e, contemporaneamente, come bersaglio del giudizio divino annunciato contro Egitto, riflettendo l'ambigua posizione di questa grande potenza vicina sia come rifugio che come minaccia per i sopravvissuti alla caduta di Giuda.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_menfis",
+      "nombre": "Popolazione egiziana di Menfi",
+      "descripcion": "Abitanti di una delle città più prestigiose e antiche di Egitto, bersaglio dei profetici oracoli di giudizio pronunciati da Isaia, Geremia e Ezechiele.",
+      "religion": "Politeismo egiziano: culto di Ptah e di altre divinità",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "refugiados_judios_menfis",
+      "nombre": "Profughi ebrei a Memphis",
+      "descripcion": "Popolazione di Giuda che, dopo la distruzione di Gerusalemme, fugge verso Egitto cercando rifugio, includendo Memphis tra le destinazioni menzionate nelle profezie di Geremia.",
+      "religion": "Yahvismo (con successivo sincretismo riportato da Geremia)",
+      "periodo": "C. 586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-menfis",
+      "titulo": "Isaia profetizza lo sgomento dei principi di Menfi",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Il profeta Isaia include Menfi (Nof) nel suo oracolo di giudizio contro Egitto, annunciando che i suoi principi saranno ingannati e indotti in errore, parte di un ampio passaggio che mette in discussione la saggezza tradizionale egiziana.",
+      "referencias": [
+        "Is 19:13"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-juicio-menfis",
+      "titulo": "Geremia annuncia la desolazione di Menfi",
+      "fecha": "c. 600–580 a.C.",
+      "descripcion": "Geremia profetizza che Menfi sarà devastata, deserta e senza abitanti, nel contesto dei suoi oracoli contro Egitto pronunciati soprattutto dopo la fuga dei profughi ebrei in quel paese.",
+      "referencias": [
+        "Ger 46:14",
+        "Ger 46:19"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "ezequiel-imagenes-menfis",
+      "titulo": "Ezechiele annuncia la fine degli idoli di Memphis",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Il profeta Ezechiele, nel suo ampio oracolo contro Egitto, annuncia espressamente che distruggerà le immagini e porrà fine agli idoli di Menfi, prendendo di mira il cuore stesso del sistema religioso egiziano in una delle sue città di maggior prestigio cultuale.",
+      "referencias": [
+        "Ez 30:13"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_menfis",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Mette in dubbio la saggezza tradizionale dei consiglieri di Menfi nel loro ampio oracolo di giudizio contro il potere egiziano.",
+      "referencias": [
+        "Is 19:1-15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_menfis",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Profetizza la desolazione di Menfi nel contesto più ampio dei suoi oracoli contro Egitto, pronunciati in parte durante il suo esilio forzato in quel paese in seguito alla caduta di Gerusalemme.",
+      "referencias": [
+        "Ger 46:1-26"
+      ],
+      "ruta": [
+        "tahpanhes",
+        "memphis"
+      ]
+    },
+    {
+      "id": "ezequiel_menfis",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio",
+      "periodo": "hierro_2",
+      "descripcion": "Annuncia la fine degli idoli e del sistema cultuale di Menfi nel suo ampio oracolo di giudizio contro Egitto.",
+      "referencias": [
+        "Ez 30:1-19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Nel corpus profetico tardo, Menfi rappresenta la potenza egiziana nella sua duplice veste di apparente rifugio e di minaccia reale per i sopravvissuti di Giuda: gli oracoli coincidono nell'annunciare il giudizio divino su questa grande capitale e sul suo sistema religioso politeista, mettendo al tempo stesso in guardia dalla falsa fiducia riposta da alcuni ebrei nella protezione egiziana contro l'inevitabilità del giudizio che raggiungerà anche questa potenza vicina.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva degli oracoli profetici)",
+      "Politeismo egiziano: culto di Ptah e di altre divinità"
+    ],
+    "mitos": [
+      {
+        "id": "juicio-convergente-tres-profetas-menfis",
+        "nombre": "Il giudizio convergente di tre profeti su Menfi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 19:13; Jer 46:14-19; Ez 30:13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la convergencia de tres profetas distintos —Isaías, Jeremías y Ezequiel, en períodos separados por más de un siglo— en su anuncio de juicio contra la misma ciudad egipcia",
+          "descripcion": "La tradizione ebraica osserva con interesse che tre grandi profeti, attivi in ​​periodi storici diversi e separati da generazioni, convergono indipendentemente nel loro annuncio di giudizio contro Menfi, interpretando questa coincidenza profetica sostenuta nel tempo come conferma dell'ineluttabilità del destino annunciato contro la potenza egiziana.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La convergenza di molteplici voci profetiche di diverse generazioni nell'annuncio dello stesso giudizio rafforza la certezza e l'autorevolezza del messaggio profetico sulla sorte delle grandi potenze pagane.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

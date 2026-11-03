@@ -1,0 +1,157 @@
+{
+  "id": "great_sea",
+  "nombre": "Great Sea (Mediterranean)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 34.0,
+  "lng": 29.0,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Middle bronze - Roman"
+    }
+  ],
+  "descripcion_geo": "The 'Great Sea' of the Bible, also called 'Sea of ​​the West'. Western frontier of the promised land and artery of ancient trade.",
+  "altitud_m": 0,
+  "clima": "Mediterranean",
+  "recursos": [
+    "fishing",
+    "maritime trade",
+    "salt",
+    "navigation route"
+  ],
+  "importancia_estrategica": "Western border of Israel and axis of trade between Canaan, Phoenicia, Greece and Rome.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "grs_h1",
+      "titulo": "The sea as the western border of the promised land",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "God points to the Great Sea as the western border of Israel's inheritance: 'from the desert to this sea.'",
+      "referencias": [
+        "Num 34:6",
+        "Josh 1:4"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué"
+      ]
+    },
+    {
+      "id": "grs_h2",
+      "titulo": "Jonah throws into the sea in a storm",
+      "fecha": "ca. s. VIII BC",
+      "descripcion": "Jonah, fleeing to Tarshish across the Mediterranean, is thrown into the sea by sailors during a storm; a big fish swallows it.",
+      "referencias": [
+        "Jonah 1:15"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    },
+    {
+      "id": "grs_h3",
+      "titulo": "Paul shipwrecked in the Mediterranean",
+      "fecha": "ca. 60 AD",
+      "descripcion": "Paul shipwrecked on the way to Rome in the Mediterranean; The ship runs aground in Malta but everyone is saved.",
+      "referencias": [
+        "Acts 27:27-44"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "grs_p1",
+      "nombre": "Jonah",
+      "rol": "fugitive prophet",
+      "periodo": "ca. s. VIII BC",
+      "descripcion": "He tried to flee to Tarshish through the Mediterranean; He was rescued from the bottom of the sea by a large fish.",
+      "referencias": [
+        "Jonah 1:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p2",
+      "nombre": "Hiram by Tyre",
+      "rol": "Phoenician king",
+      "periodo": "ca. 980-947 BC",
+      "descripcion": "The Phoenicians dominated Mediterranean trade; Hiram supplied wood to Solomon by sea.",
+      "referencias": [
+        "1 Kgs 5:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p3",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He made three missionary trips through the Mediterranean and was shipwrecked on the way to Rome.",
+      "referencias": [
+        "Acts 27:41"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The sea was for Israel the border of the known world and the scene of Jonah's flight; in the NT, the Pauline mission highway.",
+    "religiones_presentes": [
+      "Phoenician_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "grs_m1",
+        "nombre": "Jonah and the big fish",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Jonah in the belly of the fish at the bottom of the Mediterranean: symbol of death and resurrection, prayer from the abyss.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jonah in the belly of the fish at the bottom of the Mediterranean: symbol of death and resurrection, prayer from the abyss.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:40",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus cites the 'sign of Jonah' as ​​an announcement of his death and resurrection (Mt 12:40).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus cites the 'sign of Jonah' as ​​an announcement of his death and resurrection (Mt 12:40).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 37:139-148",
+          "fuente_secundaria": "",
+          "descripcion": "Yunus (Jonah) is a prophet in Islam; the Quran tells his story at sea (Cor 37:139-148).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Yunus (Jonah) is a prophet in Islam; the Quran tells his story at sea (Cor 37:139-148).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "jabesh",
+  "nombre": "Jabesh-Gilead",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.3798,
+  "lng": 35.6116,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 21,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — City of Gilead, ally of Benjamin"
+    },
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Iron II — City of the northern kingdom, loyal to the memory of Saul"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Jabesh-Gilead (Hebrew: יָבֵשׁ גִּלְעָד, 'dry of Gilead') was a city in the region of Gilead, east of the Jordan, in the territory of the half-tribe of Manasseh. Its exact identification is debated between Tell Abu Kharaz and Wadi Yabis, in the eastern hills of the Jordan Valley, about 35 km south of the Galilee Sea. The city controlled routes in the Gilead area and had special tribal ties to Benjamin (the tribe of Saul), ties that explain its extraordinary loyalty to the Saulid dynasty even after the king's death. Its name ('seca') may refer to the characteristics of the local wadi in summer.",
+  "altitud_m": 400,
+  "clima": "Transitional continental Mediterranean — rainfall of 400-500 mm annually in the hills, hot dry summers, cool winters. The proximity to the Jordan Valley creates microclimatic variations between the plain and the hills.",
+  "recursos": [
+    "Agriculture on the terraces of Gilead (olive trees, vineyards, figs)",
+    "Livestock ranching on the plains of Gilead",
+    "Gilead balm — famous medicinal resin in the ancient world",
+    "Route control in northern Transjordan",
+    "Wood from the forests by Gilead"
+  ],
+  "importancia_estrategica": "Jabesh-Gilead was the city that established the link between northern Transjordan and the tribe of Benjamin in the period of the judges and early monarchy. Her loyalty to Saul — rescued by him at the beginning of his reign, rescued by his body at the end — makes the city the most powerful testament to tribal loyalty in the OT. Its position in Gilead placed it in the zone of permanent tension between Israel and the transjordanian kingdoms of Ammon and Aram.",
+  "otros_habitantes": [
+    {
+      "id": "galaditas",
+      "nombre": "Galaditas of the half tribe of Manasseh",
+      "descripcion": "Gilead was a region densely populated by Israelites from the half tribe of Manasseh and the tribes of Reuben and Gad. The inhabitants of Jabesh-Gilead shared the semi-independent character of the Transjordanian tribes — far from the central sanctuaries, exposed to pressures from Ammon and Aram, with their own tribal ties. Their non-participation in the war against Benjamin (Judges 21) reflects this independence and cost them brutal retaliation from the Israelite assembly.",
+      "religion": "Transjordanian Yahwism — with possible influences from local Gilead cults; Gilead balm had ritual and medicinal uses",
+      "periodo": "Iron I-II, c. 1200-722 BC"
+    },
+    {
+      "id": "amonitas-jabesh",
+      "nombre": "Ammonites under Nahas",
+      "descripcion": "Nahas the Ammonite besieging Jabesh-Gilead at the beginning of Saul's reign highlights the permanent pressure that Ammon exerted on the Israelite cities of Transjordan. The degrading condition that Nahas imposed — gouging out the right eyes of all inhabitants — was a form of military mutilation that rendered them incapable of combat and marked permanent defeat. Jabesh's petition to the rest of Israel and Saul's response established the pattern of the monarchy as a centralized military defense institution.",
+      "religion": "Ammonite polytheism — Milcom (Moloch) as national god of Ammon",
+      "periodo": "Iron I, c. 1020 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "guerra-benjaminita-jabesh",
+      "titulo": "Jabesh-Gilead and the Benjaminite War: the origin of a tribal bond",
+      "fecha": "c. 1150 BC",
+      "descripcion": "After the civil war that almost exterminated the tribe of Benjamin for the crime of Gibeah, Israel swore that no one would give his daughter in marriage to a Benjaminite. Then they regretted having excluded Benjamín from Israel. They discovered that no one from Jabesh-Gilead had participated in the Mispah assembly. Israel sent twelve thousand warriors to Jabesh-Gilead with orders to kill all men and women who had known men, and bring back the virgins. They found four hundred maidens who were given to the surviving Benjaminites. This dark episode from the book of Judges established the link between Jabesh-Gilead and Benjamin — a link sealed in blood and marriage that would explain the city's extreme loyalty to Saul, Benjaminite king, two generations later.",
+      "referencias": [
+        "Judg 21:8-14",
+        "Judg 20:1-48",
+        "Judg 21:1-7"
+      ],
+      "personajes_clave": [
+        "ancianos-jabesh"
+      ]
+    },
+    {
+      "id": "saul-libera-jabesh",
+      "titulo": "Saul frees Jabesh: the victory that confirmed the first king",
+      "fecha": "c. 1020 BC",
+      "descripcion": "Nahas the Ammonite laid siege to Jabesh-Gilead and offered humiliating conditions: gouging out everyone's right eye as a disgrace to Israel. The Jasheshites asked for seven days to seek help. The messengers arrived at Gibeah from Saul. Saul, who was returning from the field behind his oxen, heard the crying of the people. The spirit of God came upon him with fury: he cut down his team of oxen and sent the pieces throughout Israel with the threat: 'This is what will be done to the oxen of anyone who does not go out after Saul and Samuel.' The fear of Yahweh fell on the people and they came out as one man — three hundred and thirty thousand according to the text. Nahas's army was destroyed at dawn. The people wanted to execute those who had questioned the kingship of Saul; He prevented it: 'No one will die today, because today Yahweh has worked salvation in Israel.' Jabesh-Gilead was forever linked to the memory of Saul.",
+      "referencias": [
+        "1 Sam 11:1-13",
+        "1 Sam 11:6-8",
+        "1 Sam 11:12-13"
+      ],
+      "personajes_clave": [
+        "saul-jabesh",
+        "nahas"
+      ]
+    },
+    {
+      "id": "jabesh-rescata-saul",
+      "titulo": "Jabesh's men rescue Saul's body",
+      "fecha": "c. 1010 BC",
+      "descripcion": "Following the defeat of Israel at Mount Guilboa and the death of Saul and his sons, the Philistines cut off Saul's head and hung his body and those of his sons on the walls of Beth-Shean. When the inhabitants of Jabesh-Gilead heard what the Philistines had done to Saul, all their mighty men walked all night, took the body of Saul and the bodies of his sons from the walls of Beth-Shean, returned to Jabesh, burned them there and buried their bones under the tamarisk tree of Jabesh, fasting seven days. When David learned of this gesture, he sent messengers to bless them: 'Blessed are you from Yahweh for having shown this loyalty to your lord Saul... I will also reward you for this good.' The rescue of the royal body was the last act of a loyalty that began when Saul saved them from Nahas.",
+      "referencias": [
+        "1 Sam 31:11-13",
+        "2 Sam 2:4-7",
+        "1 Chr 10:11-12"
+      ],
+      "personajes_clave": [
+        "varones-jabesh",
+        "saul-jabesh",
+        "david-jabesh"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul-jabesh",
+      "nombre": "Saul",
+      "rol": "First king of Israel, liberator of Jabesh and victim rescued by her",
+      "periodo": "hierro_1",
+      "descripcion": "Saul ben Kish, of the tribe of Benjamin and the city of Gibeah, was the first king of Israel, anointed by Samuel at the demand of the people. His relationship with Jabesh-Gilead frames his entire career: he freed her in his first victory (confirming his reign) and was rescued by her in his death (his only post-mortem honor). Between those two moments, Saul fought the Philistines, pursued David, consulted the medium of Endor, and died on Mount Guilboa. The biblical text presents him as a man of great potential frustrated by disobedience — capable of nobility (forgiving his detractors after the victory over Nahas) and incapable of consistent obedience (the herem of Amalek, the persecution of David).",
+      "referencias": [
+        "1 Sam 9:1-10:27",
+        "1 Sam 11:1-15",
+        "1 Sam 31:1-13"
+      ],
+      "ruta": [
+        "gibeah",
+        "jabesh",
+        "carmel"
+      ]
+    },
+    {
+      "id": "nahas",
+      "nombre": "Nahas the Ammonite",
+      "rol": "King of Ammon who besieged Jabesh-Gilead, triggering the reign of Saul",
+      "periodo": "c. 1020 BC",
+      "descripcion": "Nahas (נָחָשׁ, 'serpent') the Ammonite is the antagonist whose cruelty triggers Saul's first public act as king. His condition of putting out the right eyes of all the inhabitants of Jabesh – 'to bring reproach upon all Israel' – was a threat of collective humiliation rather than a military tactic. Nahas appears briefly in 2 Samuel 10 as a friend of David — his son Hanun humiliated David's envoys, triggering the Ammonite War. A fragment of the Dead Sea Scroll (4QSam a) adds an introductory paragraph about Nahas that does not appear in the Masoretic text, describing his previous cruelties against the Transjordanian tribes.",
+      "referencias": [
+        "1 Sam 11:1-3",
+        "2 Sam 10:1-5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "varones-jabesh",
+      "nombre": "The Brave of Jabesh-Gilead",
+      "rol": "Men of Jabesh who rescued the body of Saul from the walls of Beth-Shean",
+      "periodo": "c. 1010 BC",
+      "descripcion": "The 'men of Jabesh-Gilead' are the only anonymous collective in the OT to whom David sent a formal blessing for an act of loyalty to their predecessor and rival. His night march of more than 30 km to rescue the bodies of Saul and his children from the walls of Beth-Shean is one of the most moving gestures of loyalty in the OT: the city that Saul saved at the beginning of his reign rescued him at its end, closing the circle of a loyalty that lasted an entire generation. The text does not give individual names — the act is of the entire city, as when it was threatened and as when it was liberated.",
+      "referencias": [
+        "1 Sam 31:11-13",
+        "2 Sam 2:4-7",
+        "1 Chr 10:11-12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jabesh-Gilead is the place where tribal loyalty and collective memory are most strongly expressed throughout the narrative of early monarchy. The city that received salvation from Saul gave him dignity in death. His bond with Benjamin, sealed in the dark history of the book of Judges, became an engine of political and personal fidelity that transcended the collapse of the Saulid kingdom. Theologically, the city illustrates that gratitude and loyalty are values ​​that Yahweh recognizes even in turbulent political contexts.",
+    "religiones_presentes": [
+      "Transjordanian Yahwism from Gilead — with possible local cult influences",
+      "Ammonite polytheism — external pressure of Ammon with its god Milcom"
+    ],
+    "mitos": [
+      {
+        "id": "lealtad-jabesh-saul",
+        "nombre": "Jabesh's Loyalty: Honoring the Fallen King",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 31:11-13; 2 Sam 2:4-7; 2 Sam 21:12-14",
+          "fuente_secundaria": "Talmud Bavli, Berajot 12b — sobre la obligación de honrar a los muertos; Midrash Samuel 29",
+          "descripcion": "The Talmud uses the gesture of the men of Jabesh to illustrate the principle of kavod ha-met (honoring the dead): the obligation to provide a dignified burial prevails even over personal danger. Midrash Samuel notes that David, in blessing Jabesh, did so not out of political weakness but out of genuine recognition of an act of hesed (loving fidelity)—the same quality that David valued in his own relationships. The subsequent gathering of Saul's bones by David (2 Sam 21:12-14) for burial in the family tomb at Bethelah completes the cycle of dignity restored to the fallen king.",
+          "similitudes": "The moral obligation to honor the dead and fidelity to those who benefited us are values ​​shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism elaborates the kavod ha-met as a codified religious obligation; the NT expresses it in terms of brotherly love without specific legal codification.",
+          "significado_teologico": "Loyalty (hesed) does not end with the death of the benefactor. The men of Jabesh expressed in their nocturnal action what the text calls 'loyalty and truth'—the combination of practical fidelity and upright commitment that the OT presents as imitating divine attributes.",
+          "posible_relacion_cultural": "The rescue of the body of the fallen king to give him a dignified burial is a recurring motif in the heroic epic of the Near East, including Achilles' lament for Patroclus in the Iliad and the rescue of Hector's body by Priam."
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 2:5-6; Jn 19:38-42; Mc 14:8",
+          "fuente_secundaria": "Juan Crisóstomo, Homilías sobre el Evangelio de Juan 85",
+          "descripcion": "The Church Fathers established a typology between the rescue of Saul's body by Jabesh's men and the burial of Jesus by Joseph of Arimathea and Nicodemus — two men who risked their social position to give a dignified burial to the fallen Master. John Chrysostom pointed out that in both cases post-mortem loyalty to the fallen lord is the last declaration of fidelity when all others have fled. The anointing of Jesus's body by Mary of Bethany ('he has done what he could', Mark 14:8) was also read in this context of loyalty that honors the lord in his death.",
+          "similitudes": "The fidelity expressed in the care of the dead man's body is identical in both stories.",
+          "diferencias": "The NT adds the dimension of resurrection — the honored body will be glorified; Jabesh's loyalty had no such expectation.",
+          "significado_teologico": "Honoring the dead is an act of faith that life and human dignity do not end with death. For the NT, it is anticipation of the resurrection.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

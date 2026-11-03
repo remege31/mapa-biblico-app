@@ -1,0 +1,161 @@
+{
+  "id": "ashkelon",
+  "nombre": "Ashkelon",
+  "tipo": "ciudad",
+  "lat": 31.66240510553615,
+  "lng": 34.54722773494757,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — One of the five Philistine cities, Samson's enigma"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Target of Prophetic Oracles of Judgment"
+    }
+  ],
+  "descripcion_geo": "Important Philistine port city on the southern coastal plain, one of the five main city-states of the Philistine Pentapolis (along with Gaza, Ashdod, Gath and Ekron), with a natural port that made it a major commercial and military center.",
+  "altitud_m": 20,
+  "clima": "Coastal Mediterranean — hot, humid summers, mild winters with rain, constant sea breezes.",
+  "recursos": [
+    "Natural seaport",
+    "Mediterranean international trade",
+    "Central position in the Philistine confederation of the five cities"
+  ],
+  "importancia_estrategica": "Ashkelon is one of the five main cities of the Philistine confederacy, a military and commercial power that dominated the southern coastal plain throughout the period of the Judges and much of the monarchy; Its recurring mention in the prophetic oracles of judgment against Philistia confirms its status as a central symbol of Philistine power systematically opposed to Israel.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_ascalon",
+      "nombre": "Philistines",
+      "descripcion": "Dominant population of Ashkelon, one of the five main cities of the Philistine Pentapolis, ruled by its own princes ('serenim') throughout the period of the Judges and early monarchy.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1200–586 BC"
+    },
+    {
+      "id": "danitas_personal_ascalon",
+      "nombre": "Occasional Danite presence",
+      "descripcion": "Samson kills thirty men of Ashkelon to pay the debt of the riddle of his wedding in Timnah, an episode that documents the extent of his individual actions against the different Philistine cities.",
+      "religion": "Yahwism",
+      "periodo": "c. 1100 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-treinta-hombres-ascalon",
+      "titulo": "Samson kills thirty men by Ashkelon",
+      "fecha": "c. 1100 BC",
+      "descripcion": "After losing the bet of the riddle of the lion and the honey at his wedding in Timnah, Samson descends to Ashkelon, kills thirty men, takes their spoils and gives their clothes to those who had solved the riddle, a violent episode that illustrates the territorial scope of his personal conflict with the Philistines.",
+      "referencias": [
+        "Judg 14:19"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "amos-oraculo-ascalon",
+      "titulo": "Amos prophesies fire on Ashkelon",
+      "fecha": "c. 760–750 BC",
+      "descripcion": "The prophet Amos includes Ashkelon in his series of oracles against the neighboring nations, announcing that he will send fire that will consume their palaces as punishment for the slave deportation practices of entire populations practiced by the Philistines.",
+      "referencias": [
+        "Amos 1:6-8"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    },
+    {
+      "id": "sofonias-jeremias-ascalon-destruccion",
+      "titulo": "Zephaniah and Jeremiah announce the final destruction of Ashkelon",
+      "fecha": "c. 630–600 BC",
+      "descripcion": "Both Zephaniah and Jeremiah prophesy the final destruction of Ashkelon, with Zephaniah announcing that it will be devastated and Jeremiah describing the clamor and mourning baldness among its inhabitants in the face of imminent devastation, oracles that would be fulfilled historically with the Babylonian conquest of the city in 604 BC.",
+      "referencias": [
+        "Zeph 2:4-7",
+        "Jer 47:5-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson_ascalon",
+      "nombre": "Samson",
+      "rol": "Israel Judge, Nazarite of superhuman strength",
+      "periodo": "hierro_1",
+      "descripcion": "He extends his personal conflict with the Philistines to Ashkelon, killing thirty men to fulfill his debt from the riddle of Timnah's wedding.",
+      "referencias": [
+        "Judg 14:19"
+      ],
+      "ruta": [
+        "timnah",
+        "ashkelon"
+      ]
+    },
+    {
+      "id": "amos_ascalon",
+      "nombre": "Amos",
+      "rol": "Judah prophet sent to neighboring nations",
+      "periodo": "hierro_2",
+      "descripcion": "He denounces Ashkelon and the other Philistine cities for their slave trade practices, announcing divine judgment by fire on their palaces.",
+      "referencias": [
+        "Amos 1:6-8"
+      ],
+      "ruta": [
+        "tekoa"
+      ]
+    },
+    {
+      "id": "jeremias_ascalon",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He prophesies the destruction of Ashkelon in the context of the Babylonian invasion, an oracle that is historically fulfilled with the conquest of the city by Nebuchadnezzar in 604 BC.",
+      "referencias": [
+        "Jer 47:1-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ashkelon, as the center of Philistine power and the cult of Dagon, functions in the prophetic corpus as a recurring symbol of systematic opposition to Israel over several centuries, from the individual conflicts of Samson to the judgment oracles of Amos, Zephaniah, and Jeremiah; its historical destruction documented by Nebuchadnezzar in 604 BC. confirms the literal fulfillment of the prophecies of devastation pronounced against her.",
+    "religiones_presentes": [
+      "Yahwism (prophetic oracles perspective)",
+      "Philistine polytheism — cult of Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "cumplimiento-profecia-ascalon",
+        "nombre": "The historical fulfillment of the prophecy against Ashkelon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Zeph 2:4-7; Jer 47:1-7",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la confirmación histórica de los oráculos proféticos mediante la destrucción babilónica documentada de Ascalón en 604 a.C.",
+          "descripcion": "Jewish tradition especially values ​​that the destruction of Ashkelon prophesied by Zephaniah and Jeremiah was historically verifiably fulfilled with Nebuchadnezzar's campaign, confirming through extrabiblical evidence (Babylonian chronicles) the accuracy and veracity of the prophecies of judgment against the neighboring nations of Israel.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The verifiable historical fulfillment of the prophecy against Ashkelon reinforces confidence in the general reliability of the biblical prophetic corpus regarding the destiny of nations.",
+          "posible_relacion_cultural": "Documented convergence between the biblical prophetic oracle and extrabiblical Babylonian chronicles on Nebuchadnezzar's campaign against Philistia."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

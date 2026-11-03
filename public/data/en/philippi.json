@@ -1,0 +1,157 @@
+{
+  "id": "philippi",
+  "nombre": "Philippi",
+  "tipo": "ciudad",
+  "lat": 41.0134,
+  "lng": 24.2879,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman colony in eastern Macedonia, on the plain between the Aegean Sea and the Pangean Mountains.",
+  "altitud_m": 45,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "gold",
+    "silver",
+    "agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "First European city evangelized by Paul; Roman colony with military veterans.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phi2_h1",
+        "titulo": "First European church",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul, Silas and Lucas found the first church in Europe next to the river.",
+        "referencias": [
+          "Acts 16:11-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "Lucas",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "phi2_h2",
+        "titulo": "Paul and Silas in jail",
+        "fecha": "ca. 50 AD",
+        "descripcion": "After exorcising a slave, Paul and Silas are imprisoned; an earthquake opens the doors.",
+        "referencias": [
+          "Acts 16:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "carcelero"
+        ]
+      },
+      {
+        "id": "phi2_h3",
+        "titulo": "Letter to the Philippians",
+        "fecha": "ca. 61 AD",
+        "descripcion": "From prison, Paul writes his most joyful letter to the Philippian community.",
+        "referencias": [
+          "Phil 1-4"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phi2_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He founded the first European church in Philippi; He was imprisoned there.",
+        "referencias": [
+          "Acts 16:12"
+        ],
+        "ruta": [
+          "philippi",
+          "thessalonica",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "phi2_p2",
+        "nombre": "Lydia",
+        "rol": "First European convert",
+        "periodo": "s. I AD",
+        "descripcion": "Merchant of Thyatira; baptized in Philippi with her entire house.",
+        "referencias": [
+          "Acts 16:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi2_p3",
+        "nombre": "silas",
+        "rol": "Missionary companion of Paul",
+        "periodo": "s. I AD",
+        "descripcion": "He accompanied Paul on the second trip; imprisoned with him in Philippi.",
+        "referencias": [
+          "Acts 16:25"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Roman colony with imperial cult; the first bridgehead of the gospel in Europe.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "Judaism",
+        "imperial_cult",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "phi2_m1",
+          "nombre": "The liberating earthquake",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "An earthquake opens the doors of the Philippian prison while Paul and Silas sing hymns; el carcelero se convierte.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "An earthquake opens the doors of the Philippian prison while Paul and Silas sing hymns; el carcelero se convierte.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

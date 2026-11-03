@@ -1,0 +1,148 @@
+{
+  "id": "nebo_mount",
+  "nombre": "Mount Nebo",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.76,
+  "lng": 35.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Mountain in Moab east of the Jordan (present-day Jordan) overlooking the entire promised land. Place of death of Moses.",
+  "altitud_m": 817,
+  "clima": "arid-mediterranean",
+  "recursos": [
+    "panoramic by Canaan",
+    "grazing"
+  ],
+  "importancia_estrategica": "Moses's last place: He went up there to see the promised land and died.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neb_h1",
+      "titulo": "Moses climb Nebo and see the promised land",
+      "fecha": "ca. 1200 BC",
+      "descripcion": "From Mount Nebo, Moses views the entire promised land from Gilead to Negev, the Great Sea and the Jordan.",
+      "referencias": [
+        "Deut 34:1-4"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h2",
+      "titulo": "The death of Moses in the Nebo",
+      "fecha": "ca. 1200 BC",
+      "descripcion": "Moses dies on Mount Nebo at 120 years of age; God buries him and no one knows his tomb.",
+      "referencias": [
+        "Deut 34:5-8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h3",
+      "titulo": "The Ark of the Covenant hidden in the Nebo",
+      "fecha": "ca. 586 BC",
+      "descripcion": "The second book of Maccabees relates that Jeremiah hid the tabernacle and the ark in a cave on Mount Nebo.",
+      "referencias": [
+        "2 Mac 2:4-8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neb_p1",
+      "nombre": "Moses",
+      "rol": "Liberator and legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He died on Mount Nebo in sight of the promised land that he was not allowed to set foot on; the greatest prophet of the OT.",
+      "referencias": [
+        "Deut 34:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p2",
+      "nombre": "Joshua",
+      "rol": "Successor of Moses",
+      "periodo": "ca. 1250-1200 BC",
+      "descripcion": "He waited in the camp while Moses climbed the Nebo to die.",
+      "referencias": [
+        "Deut 34:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p3",
+      "nombre": "Jeremiah",
+      "rol": "Prophet",
+      "periodo": "627-586 BC",
+      "descripcion": "Tradition from the book of Maccabees links it to the hiding place of the ark in Nebo.",
+      "referencias": [
+        "2 Mac 2:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Nebo: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "neb_m1",
+        "nombre": "The unknown tomb of Moses",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 34:6",
+          "fuente_secundaria": "",
+          "descripcion": "To this day, no one knows where the tomb of Moses is (Deut 34:6): a mystery that preserves the greatest prophet from all postmortem idolatry.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "To this day, no one knows where the tomb of Moses is (Deut 34:6): a mystery that preserves the greatest prophet from all postmortem idolatry.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Transfiguration of Jesus includes Moses; The contrast with Nebo is notable: there he died without entering, in Hermon he appears glorified.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Transfiguration of Jesus includes Moses; The contrast with Nebo is notable: there he died without entering, in Hermon he appears glorified.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Islam considers Musa (Moses) the greatest prophet before Muhammad; His death in Nebo is narrated in Islamic traditions.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam considers Musa (Moses) the greatest prophet before Muhammad; His death in Nebo is narrated in Islamic traditions.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

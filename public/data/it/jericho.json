@@ -1,0 +1,319 @@
+{
+  "id": "jericho",
+  "nombre": "Gerico",
+  "tipo": "ciudad",
+  "lat": 31.8667,
+  "lng": 35.4447,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 57,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: città cananea"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: conquista e abbandono"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: ricostruzione e occupazione"
+    }
+  ],
+  "descripcion_geo": "Gerico si trova nella Valle del Giordano, a circa 10 km a nord del Mar Morto e a 258 metri sotto il livello del mare, rendendola una delle città abitate più basse del pianeta. La sorgente Eliseo (Ein es-Sultan) ha alimentato un'oasi permanente sin dal Neolitico, rendendo Gerico uno dei più antichi insediamenti umani continui al mondo. La ferocia dell'oasi contrasta drammaticamente con il circostante deserto della Giudea.",
+  "altitud_m": -258,
+  "clima": "Deserto tropicale: inverni miti e secchi, estati estremamente calde (fino a 45°C). Le precipitazioni non superano i 150 mm all'anno. L'oasi di Ein es-Sultan consente un'agricoltura irrigua intensiva.",
+  "recursos": [
+    "Acqua (sorgente permanente di Ein es-Sultan)",
+    "Palme da dattero (l'Antico Testamento la chiama la città delle palme)",
+    "Balsamo Gerico (albero resinoso di alto valore commerciale)",
+    "Colture irrigue (grano, orzo, fichi)",
+    "Sale del Mar Morto"
+  ],
+  "importancia_estrategica": "Porta orientale per Canaan dal deserto della Transgiordania. Chi controllava Gerico controllava il passaggio del Giordano e l'accesso agli altipiani di Giuda e Benjamin. La sua posizione sulla rotta commerciale del Mar Morto ne fece un nodo di scambio per sale, balsamo e prodotti dell'oasi.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-jerico",
+      "nombre": "Cananei di Gerico",
+      "descripcion": "La città fortificata trovata da Israele era una città-stato cananea governata da un re locale. A questo popolo apparteneva Rahab, la prostituta che nascondeva le spie israelite. La tradizione biblica la presenta come l'unica abitante che ha riconosciuto la potenza di YHWH. La sua famiglia fu l'unica sopravvissuta quando la città fu distrutta.",
+      "religion": "Politeismo Cananeo: culto di Baal, Asera e divinità locali",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "reconstruccion-hiel",
+      "nombre": "Abitanti del periodo del ferro",
+      "descripcion": "Dopo l'anatema imposto da Giosuè, Hiel di Betel ricostruì Gerico al tempo di Achab, pagando il prezzo annunciato: il suo primo e ultimo figlio morirono durante la costruzione (1 Re 16:34), adempiendo la maledizione di Giosuè (Gsè 6:26). La città ricostruita ospitava una comunità di figli dei profeti discepoli di Eliseo.",
+      "religion": "Yahvismo: comunità profetiche sotto Eliseo",
+      "periodo": "C. 870–800 a.C"
+    },
+    {
+      "id": "jerico-exilio",
+      "nombre": "Comunità post-esilica",
+      "descripcion": "Il libro di Neemia riporta che 345 uomini di Gerico tornarono dall'esilio babilonese (Esdra 2:34; Neemia 7:36) e che gli uomini di Gerico parteciparono alla ricostruzione delle mura di Gerusalemme (Neemia 3:2).",
+      "religion": "Yahvismo post-esilico - Osservanza della Torah dopo il ritorno di Babilonia",
+      "periodo": "C. 538–400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "caida-murallas",
+      "titulo": "La caduta delle mura: la prima battaglia di Canaan",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Giosuè ha inviato due spie a Gerico che si sono rifugiate nella casa di Rahab, che le ha nascoste in cambio della protezione della sua famiglia. Il Signore ordinò a Israele di circondare la città in silenzio per sei giorni. Il settimo giorno circondarono la città sette volte; Quando suonarono le trombe, la gente gridò e i muri crollarono. Tutta la città fu consacrata all'anatema (herem), tranne Rahab e la sua famiglia.",
+      "referencias": [
+        "Gs 2:1-24",
+        "Gs 6:1-27"
+      ],
+      "personajes_clave": [
+        "josue",
+        "rahab"
+      ]
+    },
+    {
+      "id": "eliseo-manantial",
+      "titulo": "Eliseo cura le acque di Gerico",
+      "fecha": "c. 850 a.C.",
+      "descripcion": "Quando Eliseo arrivò a Gerico, gli abitanti gli dissero che le acque erano cattive e la terra era arida. Eliseo chiese un nuovo vaso di sale, lo versò nella sorgente e dichiarò: Così dice il Signore: Io ho sanato queste acque; non ci sarà più morte né sterilità. Da allora la sorgente, oggi chiamata Ein es-Sultan o Fontana di Eliseo, diede acqua pura.",
+      "referencias": [
+        "2 Re 2:19-22"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    },
+    {
+      "id": "zaqueo-jerico",
+      "titulo": "Zaccheo e il passaggio di Gesù: la città come soglia di trasformazione",
+      "fecha": "c. 29 d.C.",
+      "descripcion": "Il Vangelo di Luca colloca in Gerico l'incontro di Gesù con Zaccheo, capo dei pubblicani che salì su un sicomoro per guardarlo passare. Gesù lo ha chiamato per nome e gli ha annunciato che sarebbe rimasto a casa sua. La conversione di Zaccheo – che promette di restituire il quadruplo di quanto rubato e di donare la metà dei suoi beni ai poveri – diventa simbolo della misericordia che raggiunge gli esclusi.",
+      "referencias": [
+        "Lc 19:1-10",
+        "Mc 10:46-52",
+        "Lc 18:35-43"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue",
+      "nombre": "Giosuè",
+      "rol": "Successore di Mosè, motore della conquista di Canaan",
+      "periodo": "bronce_tardio",
+      "descripcion": "Originario della tribù di Efraim, Giosuè era l'assistente personale di Mosè durante il deserto e una delle due spie fidate nella conquista di Canaan. Ha guidato l'ingresso di Israele attraverso il Giordano e ha guidato la campagna iniziata con la cattura di Gerico. La caduta della città senza battaglia convenzionale stabilì il modello teologico: la vittoria appartiene a YHWH.",
+      "referencias": [
+        "Gs 1:1-9",
+        "Gs 3:1-17",
+        "Gs 6:1-27",
+        "Gs 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "rahab",
+      "nombre": "Rahab",
+      "rol": "Gerico prostituta, protettrice delle spie israeliane",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "Rahab è uno dei personaggi più sorprendenti dell'Antico Testamento: una donna cananea, una prostituta, che riconobbe la potenza di YHWH davanti a molti israeliti. La sua confessione di fede è teologicamente paragonabile alle grandi professioni di fede dell'Antico Testamento. Una corda scarlatta legata alla finestra l'ha identificata come sopravvissuta. La sua menzione nella genealogia di Gesù la rende un simbolo di inclusione.",
+      "referencias": [
+        "Gs 2:1-24",
+        "Gs 6:22-25",
+        "Eb 11:31",
+        "Mt 1:5"
+      ],
+      "ruta": [
+        "jericho"
+      ]
+    },
+    {
+      "id": "eliseo",
+      "nombre": "Eliseo ben Safat",
+      "rol": "Profeta successore di Elia",
+      "periodo": "hierro_2",
+      "descripcion": "Contadino Abel-Mehola chiamato da Elia mentre ara con dodici paia di buoi. Ha ricevuto una doppia porzione dello spirito di Elia dopo aver assistito alla sua ascensione sul carro di fuoco. In Gerico guarisce la sorgente con il sale – trasformando il simbolo dell'anatema in simbolo della vita – e forma discepoli nella comunità dei figli dei profeti.",
+      "referencias": [
+        "1 Re 19:19-21",
+        "2 Re 2:1-22",
+        "2 Re 4:1-44",
+        "2 Re 6:1-7"
+      ],
+      "ruta": [
+        "jericho",
+        "samaria",
+        "carmel_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gerico è la soglia della Terra Promessa: il primo posto conquistato, il primo anatema pronunciato, il primo miracolo di Eliseo. La conquista non comincia con la strategia militare ma con l'obbedienza liturgica (sette sacerdoti, sette trombe, sette giorni). La maledizione di Giosuè e la sua successiva rimozione da parte di Eliseo creano un arco narrativo che trasforma Gerico in uno spazio di morte e vita. Nel Nuovo Testamento è l'ultima città prima di Gerusalemme, teatro della conversione di Zaccheo e della guarigione del cieco.",
+    "religiones_presentes": [
+      "Politeismo Cananeo (periodo pre-conquista)",
+      "Yahvismo (periodo di conquista e successivo)",
+      "Profetismo yahvista (comunità Eliseo)",
+      "Ebraismo del Secondo Tempio (comunità post-esilica)"
+    ],
+    "mitos": [
+      {
+        "id": "murallas-jerico",
+        "nombre": "La caduta delle mura di Gerico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josué 6:1-27",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 44a; Midrash Tanjuma, Kedoshim",
+          "descripcion": "La caduta di Gerico è il paradigma della guerra santa (herem) nella letteratura rabbinica. Il mantenimento dell'erema segnala che la terra appartiene a Dio e che la conquista non è un diritto ma una missione.",
+          "similitudes": "L'idea di una città distrutta per intervento divino diretto ha paralleli nei testi di anatemi della media età del bronzo.",
+          "diferencias": "A differenza di altre guerre sante dell'antico Oriente, in Gerico non c'è bottino: il tutto è consacrato a Dio.",
+          "significado_teologico": "Conquista senza spada stabilisce che YHWH è il vero guerriero di Israele; l'obbedienza liturgica precede la vittoria militare.",
+          "posible_relacion_cultural": "La pratica dell'herem ha paralleli nelle iscrizioni moabite (Stele di Mesha, 840 aC circa)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hebreos 11:30",
+          "fuente_secundaria": "Orígenes, Homilías sobre Josué; Agustín, Cuestiones sobre el Heptateuco",
+          "descripcion": "La Lettera agli Ebrei cita la caduta di Gerico come esempio di fede. Origene interpretò la conquista allegoricamente: Gerico è il mondo, Giosuè (Yeshua = Gesù) è colui che lo conquista, e la corda scarlatta di Rahab prefigura il sangue di Cristo.",
+          "similitudes": "Fede e obbedienza come condizioni di vittoria sono condivise da entrambe le tradizioni.",
+          "diferencias": "L'esegesi cristiana tende ad allegorizzare la conquista; La tradizione ebraica lo interpreta più letteralmente come storia sacra.",
+          "significado_teologico": "Giosuè come figura tipologica di Gesù che conquista il mondo spirituale con la spada della Parola.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jer2_nt_h1",
+        "titulo": "Zaccheo sale sul sicomoro",
+        "fecha": "ca. 29-30 d.C.",
+        "descripcion": "Il capo dei pubblicani Zaccheo sale su un albero per vedere Gesù; Gesù resta a casa sua e Zaccheo promette di risarcire.",
+        "referencias": [
+          "Lc 19:1-10"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Zaqueo"
+        ]
+      },
+      {
+        "id": "jer2_nt_h2",
+        "titulo": "Guarigione del cieco Bartimeo",
+        "fecha": "ca. 29-30 d.C.",
+        "descripcion": "Un mendicante cieco all'uscita di Gerico grida \"Figlio di Davide, abbi pietà!\" ed è curato da Gesù.",
+        "referencias": [
+          "Mc 10:46-52"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Bartimeo"
+        ]
+      },
+      {
+        "id": "jer2_nt_h3",
+        "titulo": "La parabola del buon Samaritano: il percorso Gerico-Gerusalemme",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù colloca la parabola del Buon Samaritano sul pericoloso percorso da Gerusalemme a Gerico.",
+        "referencias": [
+          "Lc 10:25-37"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jer2_nt_p1",
+        "nombre": "Zaccheo",
+        "rol": "pubblicano convertito",
+        "periodo": "s. I d.C.",
+        "descripcion": "Capo esattore delle tasse presso Gerico; Il suo incontro con Gesù lo ha trasformato.",
+        "referencias": [
+          "Lc 19:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer2_nt_p2",
+        "nombre": "Bartimeo",
+        "rol": "Cieco guarito da Gesù",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mendicante cieco che ha proclamato la messianità di Gesù e ha riacquistato la vista.",
+        "referencias": [
+          "Mc 10:46"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer2_nt_p3",
+        "nombre": "Gesù di Nazareth",
+        "rol": "messia guaritore",
+        "periodo": "ca. 29-30 d.C.",
+        "descripcion": "È passato da Gerico nel suo ultimo viaggio a Gerusalemme, compiendo miracoli.",
+        "referencias": [
+          "Lc 19:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città oasi sulla rotta da Galilea a Gerusalemme; scena di incontri trasformativi nel ministero finale di Gesù.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "jer2_nt_m1",
+          "nombre": "La caduta di Gerico e il nuovo Gerico",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Il muro di Gerico è caduto contro Giosuè nell'AT come primo trionfo di Canaan.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il muro di Gerico è caduto contro Giosuè nell'AT come primo trionfo di Canaan.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Nel NT, Gerico è teatro di vittorie spirituali: un cieco riacquista la vista e un peccatore riacquista la dignità.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Nel NT, Gerico è teatro di vittorie spirituali: un cieco riacquista la vista e un peccatore riacquista la dignità.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

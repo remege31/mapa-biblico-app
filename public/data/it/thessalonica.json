@@ -1,0 +1,154 @@
+{
+  "id": "thessalonica",
+  "nombre": "Salonicco",
+  "tipo": "ciudad",
+  "lat": 40.6401,
+  "lng": 22.9444,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Capitale della Macedonia romana, grande porto sul Golfo Termaico e nodo della Via Egnatia.",
+  "altitud_m": 30,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "amministrazione"
+  ],
+  "importancia_estrategica": "Capitale provinciale della Macedonia; città libera e strategica sulla via Egnatia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tes_h1",
+        "titulo": "Paolo predica nella sinagoga",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo predica tre sabati nella sinagoga; credono molti greci e donne illustri.",
+        "referencias": [
+          "At 17:1-4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "tes_h2",
+        "titulo": "Inseguimento e fuga",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Un ammutinamento spinge Paolo a fuggire di notte a Berea.",
+        "referencias": [
+          "At 17:5-10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "Jasón"
+        ]
+      },
+      {
+        "id": "tes_h3",
+        "titulo": "Lettere ai Tessalonicesi",
+        "fecha": "ca. 51-52 d.C.",
+        "descripcion": "Paolo scrive le due lettere più antiche del NT da Corinto a Salonicco.",
+        "referencias": [
+          "1 Ts 1:1",
+          "2 Ts 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tes_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Fondò la chiesa di Tessalonica; scrisse le lettere più antiche del NT.",
+        "referencias": [
+          "At 17:1"
+        ],
+        "ruta": [
+          "thessalonica",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "tes_p2",
+        "nombre": "Giasone",
+        "rol": "Ospite Paolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha ospitato Paolo a Salonicco; È stato portato davanti alle autorità.",
+        "referencias": [
+          "At 17:5-7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tes_p3",
+        "nombre": "silas",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha accompagnato Paolo nella missione a Salonicco.",
+        "referencias": [
+          "At 17:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città con culto di Cabiros e culto imperiale; La chiesa nascente dovette affrontare la persecuzione fin dall'inizio.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "imperial_cult",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tes_m1",
+          "nombre": "La Parusia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Le lettere ai Tessalonicesi affrontano la seconda venuta di Cristo, rispondendo all'ansia dei credenti per i defunti.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Le lettere ai Tessalonicesi affrontano la seconda venuta di Cristo, rispondendo all'ansia dei credenti per i defunti.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

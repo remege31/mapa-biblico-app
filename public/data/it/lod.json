@@ -1,0 +1,246 @@
+{
+  "id": "lod",
+  "nombre": "Lod (Lida)",
+  "tipo": "ciudad",
+  "lat": 31.953,
+  "lng": 34.894,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Ferro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Città sulla pianura costiera di Sefela, tra Jaffa e Gerusalemme. Chiamato Lida nel NT.",
+  "altitud_m": 50,
+  "clima": "mediterraneo",
+  "recursos": [
+    "cereali",
+    "mestiere",
+    "commercio"
+  ],
+  "importancia_estrategica": "Città di transito tra il porto di Giaffa e Gerusalemme; scena della guarigione di Enea da parte di Pietro.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lod_h1",
+      "titulo": "I figli di Beniamino trovarono Lod",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "La città di Lod fu fondata dai figli di Elpaal della tribù di Beniamino.",
+      "referencias": [
+        "1 Cr 8:12"
+      ],
+      "personajes_clave": [
+        "Elpaál"
+      ]
+    },
+    {
+      "id": "lod_h2",
+      "titulo": "Il ritorno degli esuli a Lod",
+      "fecha": "ca. 520 a.C.",
+      "descripcion": "Tra gli esuli di ritorno da Babilonia ci sono 725 abitanti di Lod, Hadid e Ono.",
+      "referencias": [
+        "Esd 2:33",
+        "Ne 7:37"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "lod_h3",
+      "titulo": "Pietro guarisce Enea a Lidda",
+      "fecha": "ca. 35 d.C.",
+      "descripcion": "A Lydda (Lod), Pietro visita i credenti e guarisce Enea, paralizzato da otto anni.",
+      "referencias": [
+        "At 9:32-35"
+      ],
+      "personajes_clave": [
+        "Pedro",
+        "Eneas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lod_p1",
+      "nombre": "Pietro",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Sanò Enea a Lidda; Il suo ministero sulla pianura costiera preparò la strada alla conversione di Cornelio.",
+      "referencias": [
+        "At 9:32"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p2",
+      "nombre": "Enea",
+      "rol": "Paralitico guarito",
+      "periodo": "ca. 35 d.C.",
+      "descripcion": "Paralizzato da otto anni e guarito da Pietro a Lida; La sua guarigione convertì l'intera pianura.",
+      "referencias": [
+        "At 9:33"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p3",
+      "nombre": "Elpaál",
+      "rol": "Fondatore benjaminita di Lod",
+      "periodo": "ca. 1200 a.C.",
+      "descripcion": "I suoi figli fondarono Lod, Ono e Guéber.",
+      "referencias": [
+        "1 Cr 8:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Città benjaminita trasformata in teatro di miracoli apostolici; La guarigione di Enea ha aperto la strada al ministero di Pietro in Cesarea.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "lod_m1",
+        "nombre": "La guarigione di Enea",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pietro guarisce il paralitico Enea a Lidda con le parole 'Gesù il Messia ti guarisce'; tutti gli abitanti della pianura si convertono.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pietro guarisce il paralitico Enea a Lidda con le parole 'Gesù il Messia ti guarisce'; tutti gli abitanti della pianura si convertono.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lod_nt_h1",
+        "titulo": "Pietro a Lidda: la guarigione di Enea",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Pietro visita i discepoli a Lidda e guarisce Enea, paralizzato da otto anni; tutti quelli di Sharon e Lydda si convertono.",
+        "referencias": [
+          "At 9:32-35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Eneas"
+        ]
+      },
+      {
+        "id": "lod_nt_h2",
+        "titulo": "Lida: scalo tra Jaffa e Cesarea",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Pietro passò per Lidda nel suo cammino verso Cesarea dove avrebbe battezzato Cornelio, il primo Gentile.",
+        "referencias": [
+          "At 9:32",
+          "At 10:24"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "lod_nt_h3",
+        "titulo": "La chiesa primitiva sulla pianura costiera",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "La guarigione di Enea a Lidda fu il catalizzatore dell'evangelizzazione dell'intera pianura di Sharon.",
+        "referencias": [
+          "At 9:35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "comunidad cristiana"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lod_nt_p1",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Compì il miracolo che aprì al Vangelo l'intera pianura costiera.",
+        "referencias": [
+          "At 9:32"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p2",
+        "nombre": "Enea",
+        "rol": "Paralitico guarito",
+        "periodo": "ca. 35 d.C.",
+        "descripcion": "La sua guarigione fu il segno che convertì l'intera regione.",
+        "referencias": [
+          "At 9:33"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p3",
+        "nombre": "Tabitha (Dorcas)",
+        "rol": "Discepolo risorto a Giaffa",
+        "periodo": "s. I d.C.",
+        "descripcion": "A Jaffa, vicino a Lydda, Pietro ha resuscitato Tabita; Entrambi i miracoli prepararono il suo incontro con Cornelio.",
+        "referencias": [
+          "At 9:36"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Lida fu il ponte tra il ministero ebraico-galileiano di Pietro e la sua apertura ai Gentili in Cesarea.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "lod_nt_m1",
+          "nombre": "La via verso i Gentili",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "I miracoli di Pietro a Lidda e Giaffa preparano il suo incontro con Cornelio: il vangelo avanza di città in città verso le genti.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I miracoli di Pietro a Lidda e Giaffa preparano il suo incontro con Cornelio: il vangelo avanza di città in città verso le genti.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

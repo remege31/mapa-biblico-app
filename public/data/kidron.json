@@ -1,0 +1,252 @@
+{
+  "id": "kidron",
+  "nombre": "Valle del Cedrón",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.775,
+  "lng": 35.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Hierro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Valle entre Jerusalén y el Monte de los Olivos que desciende hacia el mar Muerto. Cauce estacional del torrente Cedrón.",
+  "altitud_m": -20,
+  "clima": "mediterráneo",
+  "recursos": [
+    "agua estacional",
+    "olivares"
+  ],
+  "importancia_estrategica": "Frontera oriental de Jerusalén; atravesado por David en su huida y por Jesús camino a Getsemaní.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ced_h1",
+      "titulo": "David cruza el Cedrón en su huida",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "David cruza el torrente Cedrón llorando al huir de Absalón, igual que Jesús cruzó el mismo valle antes del arresto.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ced_h2",
+      "titulo": "Josías quema los ídolos en el Cedrón",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "El rey reformador Josías arrastra y quema todos los objetos de culto pagano al torrente Cedrón.",
+      "referencias": [
+        "2 Re 23:4,6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "ced_h3",
+      "titulo": "Jesús cruza el Cedrón hacia Getsemaní",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Después de la Última Cena, Jesús cruza el torrente Cedrón con sus discípulos y entra en el huerto donde sería arrestado.",
+      "referencias": [
+        "Jn 18:1"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ced_p1",
+      "nombre": "David",
+      "rol": "Rey en fuga",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Cruzó el Cedrón en lágrimas al huir de su hijo; imagen tipológica de la traición.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p2",
+      "nombre": "Josías",
+      "rol": "Rey reformador",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Usó el Cedrón como lugar de purificación religiosa, quemando los ídolos.",
+      "referencias": [
+        "2 Re 23:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p3",
+      "nombre": "Jesús",
+      "rol": "Mesías",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Cruzó el Cedrón camino a Getsemaní; los Padres de la Iglesia lo comparan con David.",
+      "referencias": [
+        "Jn 18:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle de paso y purificación; su cruce por David y por Jesús lo convierte en símbolo del sufrimiento del justo.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ced_m1",
+        "nombre": "El cruce del Cedrón",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "David cruzó el Cedrón llorando; los profetas usaron el valle como lugar de purificación y juicio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "David cruzó el Cedrón llorando; los profetas usaron el valle como lugar de purificación y juicio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús cruza el Cedrón antes de su pasión, cumpliendo el tipo de David en su sufrimiento.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús cruza el Cedrón antes de su pasión, cumpliendo el tipo de David en su sufrimiento.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ced_nt_h1",
+        "titulo": "Jesús cruza el Cedrón",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Tras la Última Cena, Jesús y sus discípulos cruzan el Cedrón al huerto de Getsemaní.",
+        "referencias": [
+          "Jn 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h2",
+        "titulo": "El arresto en el huerto",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Judas conocía el lugar porque Jesús se reunía allí frecuentemente con los discípulos.",
+        "referencias": [
+          "Jn 18:2"
+        ],
+        "personajes_clave": [
+          "Judas",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h3",
+        "titulo": "El juicio tipológico",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "El cruce del Cedrón por Jesús recapitula el de David: el rey inocente atraviesa el valle hacia su sufrimiento.",
+        "referencias": [
+          "2 Sam 15:23",
+          "Jn 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "David"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ced_nt_p1",
+        "nombre": "Jesús",
+        "rol": "Mesías",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Cruzó el Cedrón la noche de su arresto.",
+        "referencias": [
+          "Jn 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p2",
+        "nombre": "Judas Iscariote",
+        "rol": "Traidor",
+        "periodo": "s. I d.C.",
+        "descripcion": "Guió la turba al huerto al otro lado del Cedrón.",
+        "referencias": [
+          "Jn 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p3",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cruzó el Cedrón con Jesús y más tarde negó conocerlo.",
+        "referencias": [
+          "Jn 18:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "El Cedrón es el umbral entre Jerusalén y Getsemaní; su cruce marca el inicio de la pasión.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "ced_nt_m1",
+          "nombre": "El valle de la pasión",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El cruce del Cedrón por Jesús cumple el tipo davídico: el rey sufriente cruza el valle en su hora de traición.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El cruce del Cedrón por Jesús cumple el tipo davídico: el rey sufriente cruza el valle en su hora de traición.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

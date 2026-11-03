@@ -1,0 +1,132 @@
+{
+  "id": "elim",
+  "nombre": "Delim",
+  "tipo": "ciudad",
+  "lat": 29.31,
+  "lng": 32.98,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Oasis in the Sinai desert with twelve water fountains and seventy palm trees; Israel's first pleasant stop after crossing the Red Sea.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Oasis of rest and divine provision in the desert.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eli_h1",
+      "titulo": "Israel rests in Elim",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "After the bitter water of Marah, Israel arrives at Elim where there are twelve fountains and seventy palm trees; They camp by the waters.",
+      "referencias": [
+        "Exod 15:27",
+        "Num 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "eli_h2",
+      "titulo": "The Twelve Fountains of Elim",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "The twelve fountains of Elim symbolically correspond to the twelve tribes of Israel; The oasis is a preview of the promised land.",
+      "referencias": [
+        "Exod 15:27"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "eli_h3",
+      "titulo": "Elim: stopover on the journey",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Elim was one of the stations on the exodus itinerary between the Red Sea and the Sinai.",
+      "referencias": [
+        "Num 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eli_p1",
+      "nombre": "Moses",
+      "rol": "Liberator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He led the people from bitter Mara to pleasant Elim as a sign of divine provision.",
+      "referencias": [
+        "Exod 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p2",
+      "nombre": "Israelites",
+      "rol": "Town of the exodus",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "They rested in Elim after the miracle of the bitter waters of Marah.",
+      "referencias": [
+        "Exod 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p3",
+      "nombre": "Aaron",
+      "rol": "High priest",
+      "periodo": "ca. 1280-1220 BC",
+      "descripcion": "He walked with Moses and Israel through the desert to Elim.",
+      "referencias": [
+        "Exod 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elim: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "eli_m1",
+        "nombre": "The desert oasis",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Elim, with its twelve fountains and seventy palm trees, is a foretaste of the promised land: God's providence gives rest along the way.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Elim, with its twelve fountains and seventy palm trees, is a foretaste of the promised land: God's providence gives rest along the way.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

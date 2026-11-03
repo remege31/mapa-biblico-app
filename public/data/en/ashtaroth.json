@@ -1,0 +1,148 @@
+{
+  "id": "ashtaroth",
+  "nombre": "Ashtaroth",
+  "tipo": "ciudad",
+  "lat": 32.8333333333,
+  "lng": 36.0166666667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Capital of Og, Levitical city"
+    }
+  ],
+  "descripcion_geo": "One of the capitals of the kingdom of Og in Bashan, whose name derives directly from the Canaanite goddess Astarte, suggesting that the city was a center of worship for this divinity before its conquest by Israel.",
+  "altitud_m": 600,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Bashan region.",
+  "recursos": [
+    "Administrative capital of the kingdom of Og",
+    "Canaanite cult center to Astarte (origin of the name)",
+    "Later Levitical city within the territory of Transjordanian Manasseh"
+  ],
+  "importancia_estrategica": "Astarot, along with Edrei, is one of the two capitals of the kingdom of Og defeated by Israel; After the conquest, it became a Levitical city within the territory of the half-tribe of Manasseh in Transjordan, transforming an ancient pagan cult center into a seat of Yahwist priestly presence.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_astarot",
+      "nombre": "Amorites of the kingdom of Og",
+      "descripcion": "Population of one of the two capitals of the kingdom of Og, dedicated to the cult of Astarte as suggested by the name of the city, defeated in the conquest of Bashan.",
+      "religion": "Amorite polytheism – cult of Astarte",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "levitas_astarot",
+      "nombre": "Levites of the line of Gershom",
+      "descripcion": "Priestly families settled in Ashtaroth after its designation as a Levitical city within the territory of the half-tribe of Manasseh.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "og-rey-astarot",
+      "titulo": "Og, king of Ashtaroth and Edrei",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The biblical text identifies Og as a king who reigned in Ashtaroth and Edrei, the two capitals of his extensive dominion in Bashan, before being completely defeated by Israel under Moses.",
+      "referencias": [
+        "Deut 1:4",
+        "Josh 9:10"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "astarot-asignada-manases",
+      "titulo": "Ashtaroth assigned to the half tribe of Manasseh",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the defeat of Og, the territory that includes Ashtaroth is assigned to the half-tribe of Manasseh who settles in Transjordan along with Reuben and Gad.",
+      "referencias": [
+        "Josh 13:31"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "astarot-ciudad-levitica",
+      "titulo": "Ashtaroth designated Levitical city",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "Ashtaroth is included among the Levitical cities assigned to the line of Gershon within the territory of the half-tribe of Manasseh in Transjordan, transforming the ancient cult center Canaanite into a Yahwist priestly seat.",
+      "referencias": [
+        "1 Chr 6:71"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "og_astarot",
+      "nombre": "Og, king by Bashan",
+      "rol": "Last king of the Rephaim",
+      "periodo": "bronce_tardio",
+      "descripcion": "He rules his extensive kingdom of Bashan from his two capitals, Ashtaroth and Edrei, before being completely defeated by Israel under Moses.",
+      "referencias": [
+        "Deut 1:4",
+        "Josh 9:10"
+      ],
+      "ruta": [
+        "ashtaroth",
+        "edrei"
+      ]
+    },
+    {
+      "id": "moises_astarot",
+      "nombre": "Moses",
+      "rol": "Leader of Israel in the conquest of Transjordan",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the conquest of the kingdom of Og which includes Ashtaroth, completing Israelite possession of all of northern Transjordan.",
+      "referencias": [
+        "Deut 3:1-11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "levitas_gerson_astarot",
+      "nombre": "Levites of the line of Gershom",
+      "rol": "Priestly residents of Ashtaroth",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Assigned to reside in Ashtaroth, transforming the ancient center of Ashtarte worship into a seat of Yahwist priestly presence within the Transjordanian Manassite territory.",
+      "referencias": [
+        "1 Chr 6:71"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ashtaroth commemorates in its own name the Canaanite cult of the goddess Astarte, a deity of fertility and war widely venerated throughout the ancient Levant; Its subsequent transformation into a Levitical city symbolically represents the replacement of the old polytheistic cult by the institutional presence of Yahwism, a recurring pattern in biblical geography where places of worship Canaanite become headquarters of the Israelite religious administration after the conquest.",
+    "religiones_presentes": [
+      "Yahwism (post-conquest period)",
+      "Amorite polytheism — cult of Astarte (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "transformacion-culto-astarot",
+        "nombre": "The transformation of a center of worship to Astarte into a Levitical city",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 1:4; 1 Cr 6:71",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la práctica de convertir antiguos centros de culto pagano en sedes de presencia yahvista como signo de la victoria del monoteísmo sobre la idolatría cananea",
+          "descripcion": "Jewish tradition observes with interest that Ashtaroth, a city whose very name commemorates a Canaanite goddess, became, after the conquest, the residence of Levitical families dedicated exclusively to the service of YHWH, interpreting this transformation as an eloquent example of how the Israelite presence reorients spaces previously dedicated to idolatry towards the exclusive worship of the true God.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The conversion of Ashtaroth into a Levitical city symbolizes the replacement of the idolatrous cult Canaanite by the institutional presence of Yahwism in the conquered territory.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

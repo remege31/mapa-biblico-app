@@ -1,0 +1,165 @@
+{
+  "id": "hor_mount",
+  "nombre": "Mount Hor",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 30.317396,
+  "lng": 35.407152,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Death and burial of Aaron"
+    }
+  ],
+  "descripcion_geo": "Mountain on the border of Edom, near Kadesh, where Israel camps during their wilderness wanderings shortly before Aaron's death. Its traditional identification places it in the vicinity of the region that would later become Sela/Petra.",
+  "altitud_m": 1350,
+  "clima": "Semi-arid mountain — dry and hot summers, cold winters, typical of the southern border of Edom.",
+  "recursos": [
+    "Elevated position on the border with Edom",
+    "Reference priestly burial place"
+  ],
+  "importancia_estrategica": "Mount Hor has no military significance; Its importance is exclusively religious as the site of Aaron's death and the formal transfer of the high priesthood to his son Eleazar, an episode that marks the institutional continuity of the Aaronic priesthood regardless of the mortality of its first holder.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_hor",
+      "nombre": "Edomites",
+      "descripcion": "Neighboring population of the border region where Mount Hor is located, with whom Israel had had a tense diplomatic meeting shortly before, when the king of Edom refused the peaceful passage requested by Moses.",
+      "religion": "Edomite polytheism – cult of Qos",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "israelitas_hor",
+      "nombre": "Israel of the exodus",
+      "descripcion": "People camped next to Mount Hor at the time of Aaron's death, witnessing the thirty-day mourning that follows his death.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "anuncio-muerte-aaron-hor",
+      "titulo": "YHWH announces the death of Aaron on Mount Hor",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "YHWH instructs Moses to go up with Aaron and Eleazar to Mount Hor, where Aaron will die and be 'gathered to his people' for not having been able to enter the promised land, just like Moses, due to the episode of disobedience at the waters of Meribah.",
+      "referencias": [
+        "Num 20:23-26"
+      ],
+      "personajes_clave": [
+        "aaron",
+        "moises",
+        "eleazar"
+      ]
+    },
+    {
+      "id": "transferencia-sacerdocio-hor",
+      "titulo": "Eleazar receives the priestly vestments at the summit",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "At the top of the mountain, Moses strips Aaron of his priestly vestments and puts them on Eleazar, his son, formalizing the transfer of the high priesthood before Aaron dies on the spot, establishing the pattern of hereditary succession of the office.",
+      "referencias": [
+        "Num 20:27-28"
+      ],
+      "personajes_clave": [
+        "aaron",
+        "eleazar",
+        "moises"
+      ]
+    },
+    {
+      "id": "duelo-aaron-hor",
+      "titulo": "Thirty days of mourning for Aaron",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The entire congregation of Israel mourns Aaron for thirty days upon seeing that he has died, an observance of mourning that sets a precedent for prolonged communal mourning for the loss of a central religious leader of the town.",
+      "referencias": [
+        "Num 20:29"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "aaron_hor",
+      "nombre": "Aaron",
+      "rol": "First High Priest of Israel",
+      "periodo": "bronce_tardio",
+      "descripcion": "Brother of Moses and first high priest of Israel, he dies on the summit of Mount Hor at the age of one hundred and twenty-three, unable to enter the promised land due to his participation in the disobedience of Meribah.",
+      "referencias": [
+        "Num 20:23-29",
+        "Num 33:38-39"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "eleazar_hor",
+      "nombre": "Eleazar",
+      "rol": "Son of Aaron, successor to the high priesthood",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He receives the priestly vestments from his father Aaron at the summit of Mount Hor, formally assuming the office of high priest of Israel in an act that guarantees the institutional continuity of the priesthood.",
+      "referencias": [
+        "Num 20:25-28"
+      ],
+      "ruta": [
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "moises_hor",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He climbs Mount Hor alongside Aaron and Eleazar by divine instruction, personally presiding over both the transfer of the priesthood and the death of his brother.",
+      "referencias": [
+        "Num 20:25-28"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Hor is the place where the principle of institutional continuity of the Aaronic priesthood is formally established above the mortality of any individual holder: the transfer of Aaron's vestments to Eleazar before the former's death guarantees that the priestly office is not interrupted, establishing a model of succession that will endure throughout the entire history of the Israelite priesthood until the destruction of the Second Temple.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "continuidad-sacerdocio-hor",
+        "nombre": "The continuity of the high priesthood established on Mount Hor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 20:22-29",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el luto especial por Aarón ('toda la casa de Israel') en contraste con el duelo posterior por Moisés ('los hijos de Israel'), interpretado como reflejo de la popularidad excepcional de Aarón como pacificador",
+          "descripcion": "Rabbinic tradition observes that the text specifies that 'the entire house of Israel' (including women) mourned Aaron, in contrast to the formula used for Moses, interpreting this difference as testimony to the especially conciliatory and peacemaking character of Aaron, whose death on Mount Hor further establishes the permanent pattern of hereditary transmission of the high priesthood.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The formal transfer of the priestly vestments before Aaron's death establishes the principle that the priestly institution transcends any particular individual who occupies it.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Num 20:22-29 (recepción tipológica en Heb 7:23-24, contraste entre el sacerdocio aarónico mortal y el sacerdocio eterno de Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la Carta a los Hebreos y la limitación del sacerdocio levítico frente al sacerdocio perpetuo según el orden de Melquisedec",
+          "descripcion": "The Letter to the Hebrews explicitly cites the mortality of the Aaronic priests—exemplified in the death of Aaron himself on Mount Hor—as a central theological argument to contrast the Levitical priesthood, necessarily successive by death, with the single and perpetual priesthood attributed to Christ according to the order of Melchizedek.",
+          "similitudes": "It shares with the Jewish reading the recognition of the structural importance of the episode for the priestly institution.",
+          "diferencias": "The Christian reading uses precisely the need for succession through mortality—the central point of the Mount Hor episode—as an argument to affirm the superiority of a priesthood that does not require succession.",
+          "significado_teologico": "The death of Aaron and the necessary transfer of the priesthood become a New Testament argument about the inherent limitation of the Levitical priestly system compared to the eternal priesthood of Christ.",
+          "posible_relacion_cultural": "Christian reception of the Aaronic priestly institution typologically reinterpreted in a Christological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "maacah",
+  "nombre": "Maacá",
+  "tipo": "territorio",
+  "lat": 33.2,
+  "lng": 36.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Pequeño reino arameo al suroeste del Hermón, contiguo a Gesur. Mencionado en la conquista de Josué y en las guerras de David.",
+  "altitud_m": 400,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Reino arameo junto al Hermón; David no lo conquistó; sus habitantes fueron aliados ocasionales de los enemigos de Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "maa_h1",
+      "titulo": "Maacá no fue conquistada por Israel",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Maacá y Gesur quedaron sin conquistar en la campaña de Josué; sus habitantes vivieron entre los israelitas.",
+      "referencias": [
+        "Jos 13:13"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "maa_h2",
+      "titulo": "Los ammonitas contratan a Maacá contra David",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Los ammonitas contratan al ejército de Maacá y Sobá para enfrentarse a David en su guerra.",
+      "referencias": [
+        "2 Sam 10:6-8"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "maa_h3",
+      "titulo": "La madre de Absalón es de Maacá",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "Maacá, madre de Absalón, era hija del rey de Gesur; la región de Maacá estaba unida a Gesur.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "personajes_clave": [
+        "David",
+        "Maacá"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "maa_p1",
+      "nombre": "Josué",
+      "rol": "Conquistador",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Dejó Maacá sin conquistar; sus habitantes persistieron en la tierra.",
+      "referencias": [
+        "Jos 13:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "maa_p2",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Luchó contra el ejército de Maacá contratado por los ammonitas.",
+      "referencias": [
+        "2 Sam 10:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "maa_p3",
+      "nombre": "Maacá",
+      "rol": "Princesa de la región",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Nombre de la princesa gesureo-maacatita que se casó con David.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Maacá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "maa_m1",
+        "nombre": "Lo no conquistado dentro de Israel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Las tierras no conquistadas como Maacá y Gesur son señales de obediencia incompleta en la teología deuteronómica: lo que no se elimina termina siendo trampa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Las tierras no conquistadas como Maacá y Gesur son señales de obediencia incompleta en la teología deuteronómica: lo que no se elimina termina siendo trampa.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

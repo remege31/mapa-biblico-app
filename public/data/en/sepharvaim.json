@@ -1,0 +1,134 @@
+{
+  "id": "sepharvaim",
+  "nombre": "Sepharvaim",
+  "tipo": "ciudad",
+  "lat": 33.79,
+  "lng": 44.46,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Mesopotamian city (possibly Sippar on the Euphrates) whose inhabitants were deported to Samaria by the Assyrians.",
+  "altitud_m": 40,
+  "clima": "continental-arid",
+  "recursos": [
+    "river agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Source of foreign settlers transplanted to Samaria after the Israeli deportation.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sep_h1",
+      "titulo": "Assyrians deport Sepharvaim to Samaria",
+      "fecha": "722 BC",
+      "descripcion": "After deporting the northern Israelites, the Assyrians bring people from Sepharvaim and other cities to repopulate Samaria.",
+      "referencias": [
+        "2 Kgs 17:24,31"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "sep_h2",
+      "titulo": "The gods of Sepharvaim: Adramelech and Anamelech",
+      "fecha": "ca. 722 BC",
+      "descripcion": "The Sepharvaim worshiped Adramelech and Anamelech, gods to whom they sacrificed their children in fire.",
+      "referencias": [
+        "2 Kgs 17:31"
+      ],
+      "personajes_clave": [
+        "sefarvaímitas"
+      ]
+    },
+    {
+      "id": "sep_h3",
+      "titulo": "Sennacherib: where are the gods of Sepharvaim?",
+      "fecha": "701 BC",
+      "descripcion": "The Assyrian general Rabshakeh asks the people of Jerusalem: 'Did the gods of Sepharvaim free their city from my hands?'",
+      "referencias": [
+        "2 Kgs 18:34",
+        "Isa 36:19"
+      ],
+      "personajes_clave": [
+        "Senaquerib",
+        "Rabsaqué",
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sep_p1",
+      "nombre": "Sargon II",
+      "rol": "King by Assyria",
+      "periodo": "722-705 BC",
+      "descripcion": "He deported Israelites to Assyria and brought Sepharvaim to Samaria.",
+      "referencias": [
+        "2 Kgs 17:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sep_p2",
+      "nombre": "Rabsaqué",
+      "rol": "Assyrian general",
+      "periodo": "ca. 701 BC",
+      "descripcion": "He used the fall of Sepharvaim as an argument to intimidate Jerusalem.",
+      "referencias": [
+        "2 Kgs 18:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sep_p3",
+      "nombre": "Hezekiah",
+      "rol": "King by Judah",
+      "periodo": "715-686 BC",
+      "descripcion": "He responded to Rabshakeh's argument with faith in the God of Israel in the face of the challenge of the gods of Sepharvaim.",
+      "referencias": [
+        "2 Kgs 18:36"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sepharvaim: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "sep_m1",
+        "nombre": "The gods of Sepharvaim against the God of Israel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The gods of Sepharvaim could not save their city from Assyria; The contrast with the God of Israel who did save Jerusalem is the central argument of Isaiah's book.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The gods of Sepharvaim could not save their city from Assyria; The contrast with the God of Israel who did save Jerusalem is the central argument of Isaiah's book.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

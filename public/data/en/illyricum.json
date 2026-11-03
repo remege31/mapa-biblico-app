@@ -1,0 +1,242 @@
+{
+  "id": "illyricum",
+  "nombre": "Illyria",
+  "tipo": "territorio",
+  "lat": 42.47,
+  "lng": 19.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Region on the eastern coast of the Adriatic (present-day Albania and former Yugoslavia). Paul came there on his European mission.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ill_h1",
+      "titulo": "Paul preaches to Illyria",
+      "fecha": "ca. 57 AD",
+      "descripcion": "Paul describes the scope of its mission: from Jerusalem to Illyria, on the Adriatic coast.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h2",
+      "titulo": "Titus sent to Dalmatia (Illyria)",
+      "fecha": "ca. 64-66 AD",
+      "descripcion": "Titus was sent to Dalmatia (part of Illyria) in the final ministry of Paul.",
+      "referencias": [
+        "2 Tim 4:10"
+      ],
+      "personajes_clave": [
+        "Tito",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h3",
+      "titulo": "Illyria: western limit of the Pauline mission",
+      "fecha": "ca. 57 AD",
+      "descripcion": "Illyria was the westernmost point reached by Paul before his final journey to Rome.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ill_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He came preaching the gospel to Illyria on the shore of the Adriatic.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p2",
+      "nombre": "Titus",
+      "rol": "Disciple of Paul",
+      "periodo": "s. I AD",
+      "descripcion": "He was sent to Dalmatia (Illyria) in the last stage of the Pauline ministry.",
+      "referencias": [
+        "2 Tim 4:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p3",
+      "nombre": "Luke",
+      "rol": "Evangelist",
+      "periodo": "s. I AD",
+      "descripcion": "Companion of Paul who recorded his missionary trips.",
+      "referencias": [
+        "Acts 16:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Illyria: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ill_m1",
+        "nombre": "From Jerusalem to Illyria",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paul described the full arc of his mission: from Jerusalem to Illyria, fulfilling the mandate to take the gospel to the ends of the earth.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul described the full arc of his mission: from Jerusalem to Illyria, fulfilling the mandate to take the gospel to the ends of the earth.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ill_h1",
+        "titulo": "Paul preaches to Illyria",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul describes the scope of its mission: from Jerusalem to Illyria, on the Adriatic coast.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h2",
+        "titulo": "Titus sent to Dalmatia (Illyria)",
+        "fecha": "ca. 64-66 AD",
+        "descripcion": "Titus was sent to Dalmatia (part of Illyria) in the final ministry of Paul.",
+        "referencias": [
+          "2 Tim 4:10"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h3",
+        "titulo": "Illyria: western limit of the Pauline mission",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Illyria was the westernmost point reached by Paul before his final journey to Rome.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ill_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He came preaching the gospel to Illyria on the shore of the Adriatic.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p2",
+        "nombre": "Titus",
+        "rol": "Disciple of Paul",
+        "periodo": "s. I AD",
+        "descripcion": "He was sent to Dalmatia (Illyria) in the last stage of the Pauline ministry.",
+        "referencias": [
+          "2 Tim 4:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p3",
+        "nombre": "Luke",
+        "rol": "Evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "Companion of Paul who recorded his missionary trips.",
+        "referencias": [
+          "Acts 16:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Illyria in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ill_m1",
+          "nombre": "From Jerusalem to Illyria",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Paul described the full arc of his mission: from Jerusalem to Illyria, fulfilling the mandate to take the gospel to the ends of the earth.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paul described the full arc of his mission: from Jerusalem to Illyria, fulfilling the mandate to take the gospel to the ends of the earth.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

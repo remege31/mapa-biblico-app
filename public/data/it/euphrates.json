@@ -1,0 +1,154 @@
+{
+  "id": "euphrates",
+  "nombre": "Fiume Eufrate",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 35.09,
+  "lng": 40.43,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 65,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronzo medio - Romano"
+    }
+  ],
+  "descripcion_geo": "Il fiume più grande dell'Asia occidentale, nasce in Anatolia e sfocia nel Golfo Persico dopo 2.700 km. Confine orientale della terra promessa.",
+  "altitud_m": 50,
+  "clima": "arido-continentale",
+  "recursos": [
+    "acqua",
+    "agricoltura fluviale",
+    "commercio"
+  ],
+  "importancia_estrategica": "Confine nord-orientale della terra promessa e asse dei grandi imperi mesopotamici.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "euf_h1",
+      "titulo": "L'Eufrate come confine della promessa",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dio promette a Abramo che i suoi discendenti erediteranno la terra 'dal fiume Egitto al grande fiume, l'Eufrate'.",
+      "referencias": [
+        "Gen 15:18",
+        "Dt 1:7"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "euf_h2",
+      "titulo": "Esilio lungo i fiumi di Babilonia",
+      "fecha": "586 a.C.",
+      "descripcion": "I deportati di Giuda si siedono lungo i fiumi di Babilonia (l'Eufrate e i suoi canali) e piangono per Sion.",
+      "referencias": [
+        "Sal 137:1"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "euf_h3",
+      "titulo": "L'Eufrate nell'Apocalisse",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "L'Apocalisse usa l'Eufrate come confine escatologico: le sue acque si prosciugano per far posto ai re dell'oriente.",
+      "referencias": [
+        "Ap 16:12"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "euf_p1",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "ca. 2000-1800 a.C.",
+      "descripcion": "Dio ha promesso Abramo la terra fino all'Eufrate come eredità per i suoi discendenti.",
+      "referencias": [
+        "Gen 15:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p2",
+      "nombre": "Nabucodonosor II",
+      "rol": "Re di Babilonia",
+      "periodo": "605-562 a.C.",
+      "descripcion": "Trasformò l'Eufrate nel cuore del più grande impero del mondo antico.",
+      "referencias": [
+        "2 Re 24:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p3",
+      "nombre": "Ciro il Grande",
+      "rol": "re di Persia",
+      "periodo": "559-530 a.C.",
+      "descripcion": "Ha attraversato l'Eufrate per conquistare Babilonia; Liberò gli ebrei dall'esilio.",
+      "referencias": [
+        "Is 45:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Fiume Sacro di Mesopotamia; limite della promessa divina e simbolo escatologico nell'Apocalisse.",
+    "religiones_presentes": [
+      "mesopotamico_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "euf_m1",
+        "nombre": "Il fiume del paradiso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 2,14",
+          "fuente_secundaria": "",
+          "descripcion": "L'Eufrate è uno dei quattro fiumi che irrigavano il Giardino dell'Eden (Gen 2,14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Eufrate è uno dei quattro fiumi che irrigavano il Giardino dell'Eden (Gen 2,14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 16,12",
+          "fuente_secundaria": "",
+          "descripcion": "L'Apocalisse se ne serve come di un confine che inaridisce nel momento della fine (Ap 16,12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Apocalisse se ne serve come di un confine che inaridisce nel momento della fine (Ap 16,12).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam colloca l'Eufrate nella terra dei profeti; Le tradizioni dicono che nasconderà tesori alla fine dei tempi.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam colloca l'Eufrate nella terra dei profeti; Le tradizioni dicono che nasconderà tesori alla fine dei tempi.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

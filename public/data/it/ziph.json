@@ -1,0 +1,166 @@
+{
+  "id": "ziph",
+  "nombre": "zif",
+  "tipo": "ciudad",
+  "lat": 31.4833,
+  "lng": 35.1333,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Rifugio di Davide, tradimento degli Ziphaeans"
+    }
+  ],
+  "descripcion_geo": "Città nel deserto omonimo a sud-est di Hebron, al confine tra la regione montuosa abitata di Giuda e il deserto che degrada verso il Mar Morto. Il suo ambiente arido e di difficile accesso ne faceva un rifugio naturale, ma anche un'area dove la popolazione locale poteva facilmente tradire un fuggitivo alle autorità.",
+  "altitud_m": 850,
+  "clima": "Semi-arido: estati molto secche e calde, inverni freddi con poche piogge, ai margini del deserto Giuda.",
+  "recursos": [
+    "Terreno desertico adatto al nascondiglio temporaneo",
+    "Posizione di confine tra la popolata Giuda e il deserto",
+    "Successivamente fortificato da Roboamo"
+  ],
+  "importancia_estrategica": "Il deserto di Zif è teatro di due episodi paralleli di tradimento frustrato durante la fuga di Davide da Saul: in entrambi i casi gli abitanti locali informano Saul di dove si trova Davide, ma questi riesce a sfuggire alla cattura, in uno degli episodi attraverso un intervento provvidenziale (un attacco filisteo che costringe Saul alla ritirata) e in un altro attraverso un raid notturno in cui Davide, lungi dall'uccidere Saul addormentato, gli risparmia la vita per la seconda volta.",
+  "otros_habitantes": [
+    {
+      "id": "zifeos",
+      "nombre": "Residenti di Zif",
+      "descripcion": "Popolazione locale che in due distinte occasioni informa Saul del nascondiglio di Davide nel proprio territorio, episodio ricordato negativamente nella tradizione biblica come esempio di tradimento di un fuggitivo ingiustamente perseguitato.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015–1010 a.C"
+    },
+    {
+      "id": "judaitas_zif",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Zif compare nell'elenco delle città nel territorio di Giuda secondo la distribuzione di Giosuè, e successivamente tra le città fortificate da Roboamo.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "primera-traicion-zifeos",
+      "titulo": "Gli zipheo rivelano per la prima volta Davide",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Gli abitanti di Zif informano Saul che Davide si nasconde sulle colline Hakila, a sud del deserto; Saul marcia con tremila uomini scelti, ma prima che possa catturarlo riceve la notizia di un'invasione filistea e deve ritirarsi, permettendo a Davide di scappare.",
+      "referencias": [
+        "1 Sam 23:19-29"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    },
+    {
+      "id": "segunda-traicion-zifeos",
+      "titulo": "Gli zipheo tradiscono Davide per la seconda volta",
+      "fecha": "c. 1014 a.C.",
+      "descripcion": "Gli zipheani informano nuovamente Saul della posizione di Davide nel passo Hakila; Saul si accampa lì con il suo esercito, ma Davide si intrufola nell'accampamento di notte con Abishai, trova Saul addormentato e, invece di ucciderlo, prende la sua lancia e la sua brocca d'acqua come prova che avrebbe potuto farlo.",
+      "referencias": [
+        "1 Sam 26:1-25"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    },
+    {
+      "id": "roboam-fortifica-zif",
+      "titulo": "Roboamo fortifica Zif",
+      "fecha": "c. 925–913 a.C.",
+      "descripcion": "Zif è inclusa tra le quindici città che Roboamo fortifica in Giuda dopo la divisione del Regno Unito, come parte del sistema difensivo del regno meridionale contro la minaccia del regno settentrionale e delle potenze straniere.",
+      "referencias": [
+        "2 Cr 11:8"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_zif",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Si rifugia nel deserto di Zif durante la fuga da Saul, sopravvivendo a due successivi tradimenti da parte degli abitanti locali; Nel secondo episodio risparmia la vita al dormiente Saul, ribadendo il suo rifiuto di attaccare 'l'unto di YHWH'.",
+      "referencias": [
+        "1 Sam 23:14-29",
+        "1 Sam 26:1-25"
+      ],
+      "ruta": [
+        "maon",
+        "ziph",
+        "engedi"
+      ]
+    },
+    {
+      "id": "saul_zif",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele, inseguitore di Davide",
+      "periodo": "hierro_1",
+      "descripcion": "Marcia due volte contro Davide nel deserto dello Zif dopo essere stato informato dagli abitanti locali; Nella seconda occasione viene sorpreso nel sonno da Davide, che gli risparmia la vita, episodio che provoca un momentaneo riconoscimento da parte di Saul della rettitudine di Davide.",
+      "referencias": [
+        "1 Sam 23:19-25",
+        "1 Sam 26:1-25"
+      ],
+      "ruta": [
+        "ziph"
+      ]
+    },
+    {
+      "id": "abisai_zif",
+      "nombre": "Abishai",
+      "rol": "Nipote di Davide, compagno nel raid notturno",
+      "periodo": "c. 1014 a.C.",
+      "descripcion": "Accompagna Davide nel suo raid notturno contro l'accampamento di Saul a Hakila, offrendosi di uccidere il re addormentato, proposta che Davide rifiuta, optando invece di prendere la lancia e la brocca d'acqua come prova simbolica.",
+      "referencias": [
+        "1 Sam 26:6-9"
+      ],
+      "ruta": [
+        "ziph"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il deserto di Zif è l'ambientazione ripetuta del principio teologico centrale che struttura il ciclo galoppante di Davide: il rifiuto deliberato di \"stendere la mano contro l'unto di YHWH\", anche quando l'opportunità di eliminare Saul si presenta chiaramente due volte. Il tradimento degli abitanti di Ziphe, in contrasto con la condotta di Davide, rafforza narrativamente la legittimità morale e religiosa di Davide a fronte della legittimità meramente istituzionale, già erosa, di Saul.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "ungido-yhwh-zif",
+        "nombre": "Rispetto per l'“unto di YHWH” nel deserto di Zif",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 26:1-25",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la conducta de David como modelo de respeto a la autoridad ungida incluso cuando esta actúa injustamente",
+          "descripcion": "La tradizione ebraica valorizza in particolare l'episodio del perdono di Saul a Zif come esempio paradigmatico di autocontrollo e rispetto per l'ufficio consacrato al di sopra del rancore personale, stabilendo un principio etico sui limiti della legittima vendetta anche di fronte a un'ingiusta persecuzione.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il racconto afferma che la legittimità del potere dell'unto deve essere rispettata a prescindere dalla condotta morale di chi lo esercita, lasciando il giudizio finale nelle mani di YHWH.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 26:1-25 (recepción patrística sobre el perdón y la paciencia ante la injusticia)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que vinculan la conducta de David con la enseñanza neotestamentaria sobre amar a los enemigos",
+          "descripcion": "Alcuni padri della Chiesa assumono l'episodio dello Zif come antecedente veterotestamentario del principio di non rendere male per male, leggendo la condotta di Davide in una chiave morale applicabile all'insegnamento cristiano sul perdono e sulla pazienza di fronte all'offesa.",
+          "similitudes": "Condivide con la lettura ebraica il valore esemplare della moderazione di fronte all'opportunità di una legittima vendetta.",
+          "diferencias": "La lettura cristiana tende a generalizzare il principio come antecedente ad un'etica universale del perdono, al di là del contesto specifico della legittimità degli 'unti'.",
+          "significado_teologico": "L'episodio si integra come prefigurazione veterotestamentaria dell'etica della non ritorsione pienamente sviluppata nell'insegnamento di Gesù.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "en_rogel",
+  "nombre": "En-rogel",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.767775,
+  "lng": 35.234408,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Spring south of Jerusalem, Adonijah's frustrated proclamation"
+    }
+  ],
+  "descripcion_geo": "Spring located at the confluence of the Kidron and Hinnom valleys, just south of the City of David, outside the original walled perimeter. Its peripheral location with respect to the center of power of the city makes it a discreet point for meetings and messages that required a certain distance from the direct control of the court.",
+  "altitud_m": "Kidron-Hinom Confluence, south of the City of David, c. 600-620",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Secondary water source south of the city",
+    "Discreet location outside the direct control of the urban center",
+    "Passage and communication point in the southern valleys of Jerusalem"
+  ],
+  "importancia_estrategica": "En-rogel functions in the biblical account as a geographical counterpoint to Gihon: while the latter is the scene of Solomon's legitimate anointing within David's sphere of control, En-rogel—outside the city's immediate perimeter—is the location chosen by Adonijah for his hasty self-proclamation, and also serves as a passage point for messengers during Absalom's rebellion.",
+  "otros_habitantes": [
+    {
+      "id": "seguidores_adonias_enrogel",
+      "nombre": "Followers of Adonijah",
+      "descripcion": "Joab, Abiathar the priest, and other sons of the king accompanying Adonijah to En-rogel for his attempted royal proclamation, deliberately sidelining Solomon, Nathan, Zadok, and Benaiah.",
+      "religion": "Yahwism",
+      "periodo": "c. 970 BC"
+    },
+    {
+      "id": "mensajeros_absalon_enrogel",
+      "nombre": "Jonathan and Ahimaaz",
+      "descripcion": "Sons of the priests Abiathar and Zadok who remain stationed in En-rogel to receive and transmit information to David during their flight from Jerusalem in the face of Absalom's rebellion.",
+      "religion": "Yahwism",
+      "periodo": "c. 975 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "mensajeros-david-enrogel",
+      "titulo": "Jonathan and Ahimaaz wait at En-rogel during Absalom's rebellion",
+      "fecha": "c. 975 BC",
+      "descripcion": "During David's flight from Jerusalem following his son Absalom's rebellion, the sons of the priests Zadok and Abiathar station themselves at En-rogel, out of sight of the city, to receive secret information and quickly transmit it to David about Absalom's movements.",
+      "referencias": [
+        "2 Sam 17:17"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "adonias-proclamacion-enrogel",
+      "titulo": "Adonijah proclaims himself king in En-rogel",
+      "fecha": "c. 970 BC",
+      "descripcion": "Taking advantage of David's old age, Adonijah organizes a festive sacrifice on the stone of Zohelet, together with En-rogel, and invites his brothers and influential men from Judah to proclaim himself king, deliberately excluding Solomon, Nathan, Zadok, Benaiah and the royal elite guard.",
+      "referencias": [
+        "1 Kgs 1:5-10"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "noticia-uncion-salomon-enrogel",
+      "titulo": "News of Solomon's anointing reaches En-rogel's banquet",
+      "fecha": "c. 970 BC",
+      "descripcion": "As Adonijah's banquet concludes in En-rogel, Jonathan son of Abiathar arrives with the news that Solomon has already been anointed king in Gihon by order of David, causing the terrified dispersal of Adonijah's guests and the abrupt end of his attempted usurpation.",
+      "referencias": [
+        "1 Kgs 1:41-49"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "adonias",
+      "nombre": "Adonijah",
+      "rol": "Son of David, frustrated contender for the throne",
+      "periodo": "hierro_2",
+      "descripcion": "He organizes a banquet of royal self-proclamation in En-rogel that falls apart when news arrives of the already consummated anointing of Solomon in Gijón, an episode that marks the definitive failure of his aspirations to the throne.",
+      "referencias": [
+        "1 Kgs 1:5-10",
+        "1 Kgs 1:41-53"
+      ],
+      "ruta": [
+        "en_rogel",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jonatan_hijo_abiatar",
+      "nombre": "Jonathan son of Abiathar",
+      "rol": "priestly messenger",
+      "periodo": "hierro_2",
+      "descripcion": "He acts as a key messenger in two successive episodes centered on En-rogel: first conveying information to David during Absalom's rebellion, then bringing the decisive news of Solomon's anointing to Adonijah's banquet.",
+      "referencias": [
+        "2 Sam 17:17-21",
+        "1 Kgs 1:41-49"
+      ],
+      "ruta": [
+        "en_rogel",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joab_enrogel",
+      "nombre": "Joab",
+      "rol": "Army general, supporter of Adonijah",
+      "periodo": "c. 970 BC",
+      "descripcion": "Veteran military commander of David who supports the proclamation of Adonijah in En-rogel, a decision that will have fatal consequences for him once Solomon consolidates the throne.",
+      "referencias": [
+        "1 Kgs 1:7",
+        "1 Kgs 2:28-34"
+      ],
+      "ruta": [
+        "en_rogel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "En-rogel functions narratively as a space of contested legitimacy in direct contrast to Gihon: Adonijah's proclamation, made outside the city perimeter and without the participation of the central religious figures (Zadok, Nathan), is implicitly marked as illegitimate in the face of the official anointing of Solomon. The place illustrates how the geography itself—inside or outside the symbolic center of the city—reinforces the distinction between authorized succession and usurpation in the biblical story.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "proclamacion-fallida-adonias",
+        "nombre": "Adonijah's failed proclamation at En-rogel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 1:5-53",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la legitimidad dinástica y el papel de la unción profética y sacerdotal frente a la autoproclamación",
+          "descripcion": "Jewish tradition contrasts the proclamation of Adonijah at En-rogel—without central prophetic or priestly intervention, and without the presence of the reigning king—with the anointing of Solomon at Gihon, presented as a model of legitimate succession requiring the concurrence of prophetic, priestly, and royal authority.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode reinforces the idea that dynastic legitimacy does not depend on military or numerical support, but on the prophetic and priestly confirmation of the divine plan.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "subtipo_geo": "Spring"
+}

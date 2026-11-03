@@ -1,0 +1,240 @@
+{
+  "id": "abilene",
+  "nombre": "Abilene",
+  "tipo": "territorio",
+  "lat": 33.55,
+  "lng": 36.19,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Piccolo territorio a nord-ovest di Damasco sulle pendici dell'Antilibano, governato dal tetrarca Lisania al tempo di Giovanni Battista.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "abi_h1",
+      "titulo": "Lisania tetrarca di Abilene nel NT",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Luca data l'inizio del ministero di Giovanni Battista menzionando che \"Lisania era tetrarca di Abilene\".",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    },
+    {
+      "id": "abi_h2",
+      "titulo": "Abilene sotto Erode Agrippa",
+      "fecha": "ca. 37-44 d.C.",
+      "descripcion": "Il territorio di Abilene fu donato dall'imperatore Caligola ad Erode Agrippa I.",
+      "referencias": [
+        "Historia"
+      ],
+      "personajes_clave": [
+        "Herodes Agripa I"
+      ]
+    },
+    {
+      "id": "abi_h3",
+      "titulo": "Abilene: territorio di transizione",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Abilene segna il limite nord-orientale della regione di influenza erodiana nel NT.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "personajes_clave": [
+        "Lisanias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abi_p1",
+      "nombre": "Lisania",
+      "rol": "Tetrarca di Abilene",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "La sua menzione in Luca 3:1 è un fatto storico chiave per datare l'inizio del ministero di Giovanni Battista.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "abi_p2",
+      "nombre": "Erode Agrippa I",
+      "rol": "Re della Giudea",
+      "periodo": "41-44 d.C.",
+      "descripcion": "Ha ricevuto Abilene come parte del suo regno.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "abi_p3",
+      "nombre": "Giovanni Battista",
+      "rol": "Profeta precursore",
+      "periodo": "ca. 5 a.C.-29 d.C.",
+      "descripcion": "Il suo ministero inizia mentre Lisania governa Abilene.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Abilene: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "abi_m1",
+        "nombre": "Il cronista Luca",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Luca elenca sei governanti simultanei (incluso Lisania di Abilene) per ancorare l'inizio del Vangelo nella storia del mondo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Luca elenca sei governanti simultanei (incluso Lisania di Abilene) per ancorare l'inizio del Vangelo nella storia del mondo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "abi_h1",
+        "titulo": "Lisania tetrarca di Abilene nel NT",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Luca data l'inizio del ministero di Giovanni Battista menzionando che \"Lisania era tetrarca di Abilene\".",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "personajes_clave": [
+          "Juan el Bautista"
+        ]
+      },
+      {
+        "id": "abi_h2",
+        "titulo": "Abilene sotto Erode Agrippa",
+        "fecha": "ca. 37-44 d.C.",
+        "descripcion": "Il territorio di Abilene fu donato dall'imperatore Caligola ad Erode Agrippa I.",
+        "referencias": [
+          "Historia"
+        ],
+        "personajes_clave": [
+          "Herodes Agripa I"
+        ]
+      },
+      {
+        "id": "abi_h3",
+        "titulo": "Abilene: territorio di transizione",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Abilene segna il limite nord-orientale della regione di influenza erodiana nel NT.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "personajes_clave": [
+          "Lisanias"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "abi_p1",
+        "nombre": "Lisania",
+        "rol": "Tetrarca di Abilene",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "La sua menzione in Luca 3:1 è un fatto storico chiave per datare l'inizio del ministero di Giovanni Battista.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "abi_p2",
+        "nombre": "Erode Agrippa I",
+        "rol": "Re della Giudea",
+        "periodo": "41-44 d.C.",
+        "descripcion": "Ha ricevuto Abilene come parte del suo regno.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "abi_p3",
+        "nombre": "Giovanni Battista",
+        "rol": "Profeta precursore",
+        "periodo": "ca. 5 a.C.-29 d.C.",
+        "descripcion": "Il suo ministero inizia mentre Lisania governa Abilene.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Abilene nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "abi_m1",
+          "nombre": "Il cronista Luca",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Luca elenca sei governanti simultanei (incluso Lisania di Abilene) per ancorare l'inizio del Vangelo nella storia del mondo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Luca elenca sei governanti simultanei (incluso Lisania di Abilene) per ancorare l'inizio del Vangelo nella storia del mondo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

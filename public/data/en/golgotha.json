@@ -1,0 +1,261 @@
+{
+  "id": "golgotha",
+  "nombre": "Golgotha ​​(Calvary)",
+  "tipo": "ciudad",
+  "lat": 31.7783,
+  "lng": 35.2296,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": 30,
+      "hasta": 30,
+      "nombre": "Roman"
+    }
+  ],
+  "descripcion_geo": "Jesus crucifixion site, outside the walls of Jerusalem. 'Golgotha' in Hebrew and 'Calvary' in Latin mean 'place of the skull'.",
+  "altitud_m": 740,
+  "clima": "Mediterranean",
+  "recursos": [
+    "limestone"
+  ],
+  "importancia_estrategica": "The most sacred point in Christianity: site of the crucifixion and possible burial of Jesus.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gol_h1",
+      "titulo": "The crucifixion of Jesus on Golgotha",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Jesus is crucified on Golgotha ​​with two thieves; The words from the cross and the accompanying wonders are narrated by the four gospels.",
+      "referencias": [
+        "Matt 27:33-56",
+        "John 19:17-37"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "María",
+        "Juan",
+        "María Magdalena"
+      ]
+    },
+    {
+      "id": "gol_h2",
+      "titulo": "Golgotha ​​and the tomb of Joseph of Arimathea",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Near Golgotha ​​there was a garden with a new tomb where Joseph of Arimathea and Nicodemus laid the body of Jesus.",
+      "referencias": [
+        "John 19:41-42"
+      ],
+      "personajes_clave": [
+        "José de Arimatea",
+        "Nicodemo"
+      ]
+    },
+    {
+      "id": "gol_h3",
+      "titulo": "The Church of the Holy Sepulcher on Golgotha",
+      "fecha": "ca. 335 AD",
+      "descripcion": "Constantine builds the Basilica of the Holy Sepulcher on the probable site of Golgotha ​​and the tomb of Jesus.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Constantino",
+        "Helena"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gol_p1",
+      "nombre": "Jesus of Nazareth",
+      "rol": "crucified messiah",
+      "periodo": "ca. 30 AD",
+      "descripcion": "He was crucified on Golgotha; His death is the central event of the Christian faith.",
+      "referencias": [
+        "Matt 27:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p2",
+      "nombre": "Joseph of Arimathea",
+      "rol": "Member of the Sanhedrin",
+      "periodo": "ca. 30 AD",
+      "descripcion": "Secret disciple of Jesus; He requested the body and buried it in his new tomb near Golgotha.",
+      "referencias": [
+        "John 19:38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p3",
+      "nombre": "Mary Magdalene",
+      "rol": "Witness to the crucifixion",
+      "periodo": "s. I AD",
+      "descripcion": "He remained next to the cross until the end; Then she was the first witness of the resurrection.",
+      "referencias": [
+        "John 19:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The most sacred point of Christianity; place of the redemptive death of Jesus and, according to tradition, of the empty tomb.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "gol_m1",
+        "nombre": "The death of the Just",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The biblical typology prefigures the death of Jesus on Golgotha: the suffering servant (Is 53), the paschal lamb (Ex 12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The biblical typology prefigures the death of Jesus on Golgotha: the suffering servant (Is 53), the paschal lamb (Ex 12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "John 3:16",
+          "fuente_secundaria": "",
+          "descripcion": "The cross on Golgotha ​​is the center of Christian theology: 'For God so loved the world...' (John 3:16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The cross on Golgotha ​​is the center of Christian theology: 'For God so loved the world...' (John 3:16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 4:157-158",
+          "fuente_secundaria": "",
+          "descripcion": "Islam does not accept that Jesus died on the cross (Cor 4:157-158); For Islam, Jesus was taken to heaven without dying.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam does not accept that Jesus died on the cross (Cor 4:157-158); For Islam, Jesus was taken to heaven without dying.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gol_nt_h1",
+        "titulo": "The crucifixion",
+        "fecha": "ca. 30 AD",
+        "descripcion": "'And they brought Jesus to the place called Golgotha... and crucified him' (Mark 15:22-24): the founding event of Christianity.",
+        "referencias": [
+          "Matt 27:33-50"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h2",
+        "titulo": "The seven words from the cross",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus pronounces seven phrases from the cross; the last: 'Father, into your hands I commend my spirit.'",
+        "referencias": [
+          "Luke 23:46"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h3",
+        "titulo": "The torn veil and the centurion",
+        "fecha": "ca. 30 AD",
+        "descripcion": "When Jesus dies the veil of the Temple is torn; the Roman centurion exclaims: 'Truly this was the Son of God!'",
+        "referencias": [
+          "Matt 27:51-54"
+        ],
+        "personajes_clave": [
+          "centurión romano",
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gol_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah crucified and resurrected",
+        "periodo": "ca. 30 AD",
+        "descripcion": "His death on Golgotha ​​is the heart of Christian proclamation.",
+        "referencias": [
+          "Matt 27:35"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p2",
+        "nombre": "Maria, mother of Jesus",
+        "rol": "Mother of the crucified",
+        "periodo": "s. I AD",
+        "descripcion": "He witnessed the crucifixion next to the cross; Juan welcomed her as a mother.",
+        "referencias": [
+          "John 19:25-27"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p3",
+        "nombre": "The Roman centurion",
+        "rol": "Gentle witness",
+        "periodo": "ca. 30 AD",
+        "descripcion": "He confessed the divine filiation of Jesus in the face of death: the first Gentile proclaimer of the gospel.",
+        "referencias": [
+          "Mark 15:39"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Golgotha ​​is the geographical and theological center of the NT: place of redemption.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "gol_nt_m1",
+          "nombre": "The Lamb of God",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Golgotha ​​fulfills the entire sacrificial typology of the OT: the paschal lamb, the suffering servant, the righteous who dies for the guilty.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Golgotha ​​fulfills the entire sacrificial typology of the OT: the paschal lamb, the suffering servant, the righteous who dies for the guilty.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

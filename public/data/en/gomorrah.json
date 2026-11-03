@@ -1,0 +1,194 @@
+{
+  "id": "gomorrah",
+  "nombre": "Gomorrah",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.1572,
+  "lng": 35.474,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Ubicación aproximada al sur del Mar Muerto — identificación arqueológica exacta incierta; coordenadas basadas en la tradición que sitúa las ciudades del llano en el extremo sur del Mar Muerto",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -1800,
+      "nombre": "Middle Bronze — Patriarchal era, destruction of the cities of the plain"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio"
+  ],
+  "descripcion_geo": "Gomorrah (Hebrew: עֲמֹרָה) was one of the five cities of the plain (kikkar) of the Jordan, along with Sodom, Adma, Zeboyim and Bela/Zoar. Its exact location is archaeologically uncertain; The most widespread tradition places it south of the Dead Sea, in the area currently submerged or covered by the deposits at the southern end of the lake. Another current identifies it with Tall el-Hammam northeast of the Dead Sea. The 'plain of Jordan' described in Genesis as 'well watered like the garden of Yahweh' suggested an area of ​​high agricultural productivity before the catastrophe. The geology of the area shows evidence of volcanic activity and sulfur deposits compatible with the biblical description.",
+  "altitud_m": -400,
+  "clima": "Extreme arid desert — the Dead Sea and its surroundings have the driest and hottest climate in the region. Precipitation less than 50 mm per year, summer temperatures up to 45°C, very low relative humidity. In the patriarchal era the southern area may have been more fertile before geological or climatic changes.",
+  "recursos": [
+    "Dead Sea bitumen/asphalt (used in boat construction and caulking)",
+    "Dead Sea mineral salts",
+    "Agriculture on the fertile 'plain of Jordan' before destruction (according to Gen 13:10)",
+    "Caravan routes between Arabia and Canaan"
+  ],
+  "importancia_estrategica": "Gomorrah, along with Sodom, was part of a coalition of five city-states on the Jordan plain that controlled the trade routes from the southern end of the Dead Sea to Arabia. Its destruction suddenly eliminated the entire political and economic infrastructure of the region and left Lot, nephew of Abraham, as the only survivor in the area.",
+  "otros_habitantes": [
+    {
+      "id": "habitantes-llano",
+      "nombre": "Inhabitants of the cities of the plain",
+      "descripcion": "The five cities of the plain formed a political coalition that had been under Chedorlaomer of Elam for twelve years before rebelling. His capture and release by Abraham is the first military act of the patriarch narrated in Genesis. The text presents them as politically independent but ethnically and culturally related to Canaan — Sodom and Gomorrah are children of Canaan in the table of nations (Gen 10:19).",
+      "religion": "Polytheism Canaanite — without specification of divinities; the biblical text emphasizes moral evil more than the specific religious system",
+      "periodo": "Middle Bronze, c. 2000-1800 BC"
+    },
+    {
+      "id": "coalition-reyes-este",
+      "nombre": "Coalition of the four kings of the East",
+      "descripcion": "Chedorlaomer of Elam, Tidal king of Goyim, Amraphel of Shinar and Arioch of Elasar formed the coalition that dominated the cities of the plain for twelve years. When they rebelled, the eastern coalition marched against them, defeated them and took Abraham's nephew Lot captive. This episode (Gen 14) is the first war narrated in the Bible and places the patriarchal world in the context of the rivalries between great powers of the Middle Bronze Age.",
+      "religion": "Mesopotamian polytheism — Marduk, Enlil and divinities of Elam and Babylon",
+      "periodo": "Middle Bronze, c. 2000-1800 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "guerra-cinco-reyes",
+      "titulo": "The war of the four kings against the five: Abraham rescues Lot",
+      "fecha": "c. 1900 BC (tradición patriarcal)",
+      "descripcion": "The kings of Sodom, Gomorrah, Adma, Zeboyim and Bela rebelled against Chedorlaomer of Elam after twelve years of vassalage. The battle was fought in the valley of Siddim (south of the Dead Sea), full of bitumen pits. The kings of Sodom and Gomorrah fled and fell into the pits; the rest fled to the mountains. The victors took all the spoils of Sodom and Gomorrah and also took Lot, Abraham's nephew, who lived in Sodom. A fugitive came to tell Abraham. The patriarch gathered his three hundred and eighteen men born in his house, pursued them to Dan, attacked them at night, defeated them, and recovered all the loot and Lot. Upon his return, the priest Melchizedek of Salem met him with bread and wine and blessed him in the name of El Elyon.",
+      "referencias": [
+        "Gen 14:1-24",
+        "Gen 14:8-12",
+        "Gen 14:18-20"
+      ],
+      "personajes_clave": [
+        "abraham-gomorra",
+        "lot",
+        "melquisedec"
+      ]
+    },
+    {
+      "id": "destruccion-gomorra",
+      "titulo": "Fire and brimstone: the destruction of Sodom and Gomorrah",
+      "fecha": "c. 1850 BC (tradición patriarcal)",
+      "descripcion": "Yahweh informed Abraham of his decision to destroy Sodom and Gomorrah due to the severity of their sins. Abraham repeatedly interceded: Will you destroy the righteous along with the guilty? Will you not forgive for fifty righteous people? For forty-five? For forty? For thirty? For twenty? For ten? Yahweh accepted every time. But there were not ten righteous. Two angels arrived in Sodom, went to Lot's house, and the male population of the city surrounded the house demanding that Lot hand them over to abuse them. The angels blinded the attackers and took Lot out to his family. At dawn, Lot arrived at Zoar. Then Yahweh rained sulfur and fire on Sodom and Gomorrah. Lot's wife, who looked back, became a pillar of salt. Abraham, from the hills, saw the smoke rising from the earth like the smoke of a furnace.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 19:1-29",
+        "Gen 19:24-26"
+      ],
+      "personajes_clave": [
+        "abraham-gomorra",
+        "lot",
+        "angeles-sodoma"
+      ]
+    },
+    {
+      "id": "gomorra-memoria-profetica",
+      "titulo": "Sodom and Gomorrah as an archetype of divine judgment in the prophets",
+      "fecha": "siglos VIII-VI BC",
+      "descripcion": "The destruction of Sodom and Gomorrah became the prophetic paradigm of divine judgment on the nations and on the unfaithful Israel himself. Isaiah opens his book by comparing Jerusalem to Sodom and Gomorrah: 'If Yahweh had not left us a little remnant, we would have been like Sodom, like Gomorrah' (Is 1:9). Jeremiah uses the comparison to announce judgment on Babylon: 'As when God destroyed Sodom and Gomorrah and their surrounding cities' (Jer 50:40). Amos uses it to describe the punishment that Israel has already suffered: 'I destroyed you as I destroyed Sodom and Gomorrah, you were like a brand snatched from the fire' (Am 4:11). The image of burning cities became the ultimate measure of divine wrath in prophetic literature.",
+      "referencias": [
+        "Isa 1:9-10",
+        "Jer 50:40",
+        "Amos 4:11"
+      ],
+      "personajes_clave": [
+        "isaias-gomorra",
+        "jeremias-gomorra"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham-gomorra",
+      "nombre": "Abraham",
+      "rol": "Patriarch intercessor for Sodom and Gomorrah",
+      "periodo": "bronce_medio",
+      "descripcion": "Abraham's intercession to Yahweh for Sodom and Gomorrah (Gen 18:16-33) is one of the most profound theological texts in the OT. The patriarch does not intercede for Sodom because it is his city - he lives in Hebron - but because of the principle of universal justice: Will the Judge of the whole earth not do justice? Their regressive negotiation (50 → 45 → 40 → 30 → 20 → 10 righteous) establishes that divine mercy is willing to forgive a guilty multitude for a small remnant of the innocent. The tragedy is that not even ten righteous people existed. Abraham did not fail in his intercession — divine mercy had no material to work with.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 14:14-16",
+        "Gen 19:29"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "egipto",
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "lot",
+      "nombre": "lots",
+      "rol": "Nephew of Abraham, sole righteous survivor of Sodom",
+      "periodo": "bronce_medio",
+      "descripcion": "Lot ben Haran, nephew of Abraham, is the character who embodies the moral ambiguity throughout the entire narrative of Sodom and Gomorrah. He chose the fertile plain of Jordan over the arid hills of Canaan; he progressively set up his tent 'as far as Sodom'; then he lived in Sodom itself. His hospitality to the two angels—offering them his home and protecting them from mob violence at the cost of offering his own daughters—qualifies him as righteous in the context of a city of total perversion. He fled with his wife and two daughters; The woman looked back and turned into a pillar of salt. Lot ended his days in a cave with his daughters, in circumstances that the text narrates without explicit moral comment.",
+      "referencias": [
+        "Gen 13:10-12",
+        "Gen 19:1-11",
+        "Gen 19:30-38"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "hebron"
+      ]
+    },
+    {
+      "id": "melquisedec",
+      "nombre": "Melchizedek",
+      "rol": "King of Salén and priest of El Elyon, mysterious figure from the Middle Bronze",
+      "periodo": "c. 1900 BC (tradición patriarcal)",
+      "descripcion": "Melchizedek (מַלְכִּי-צֶדֶק, 'king of justice') is the most enigmatic character in Genesis. King of Salem (identified with Jerusalem) and priest of El Elyon ('God Most High'), he met Abraham after his victory over the four kings with bread and wine, and blessed him. Abraham gave him a tithe of all the loot. The text does not give its genealogy, nor its origin, nor its end—absences that tradition interpreted as significant. Psalm 110 ('You are a priest forever according to the order of Melchizedek') made his figure the foundation of the Davidic priesthood and, later, the typology of the eternal priesthood of Christ in the letter to the Hebrews.",
+      "referencias": [
+        "Gen 14:18-20",
+        "Ps 110:4",
+        "Heb 7:1-17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gomorrah, along with Sodom, is the quintessential symbol of divine judgment in the Bible and in the three Abrahamic traditions. But the Genesis narrative also contains the intercession of Abraham — the oldest known text on intercessory prayer — and the enigmatic figure of Melchizedek, whose blessing to Abraham prefigures a priestly tradition that predates Levitism. The geography of the Jordan plain as the 'garden of Yahweh' turned into smoking desolation is the most powerful image in the OT of the consequences of collective sin.",
+    "religiones_presentes": [
+      "Polytheism Canaanite of the Middle Bronze Age — cult of Him and local divinities",
+      "Cult of El Elyon — tradition of Melchizedek in Salem/Jerusalem, possibly predating Yahwism",
+      "Patriarchal Yahwism — Abraham as recipient of El Elyon's blessing"
+    ],
+    "mitos": [
+      {
+        "id": "sodoma-gomorra-juicio",
+        "nombre": "The destruction of Sodom and Gomorrah: the judgment that is never forgotten",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:16-19:29; Ez 16:49-50",
+          "fuente_secundaria": "Mishná Sanedrín 10:3; Talmud Bavli, Sanedrín 109a; Midrash Rabbah Génesis 49-50",
+          "descripcion": "The Talmud (Sanhedrin 109a) elaborates at length on the sins of Sodom: they were not just those in chapter 19 but a systematic social injustice — they denied hospitality to strangers, they had laws protecting cruelty, they punished generosity. Ezekiel 16:49 specifies: 'The sin of your sister Sodom was this: pride, plenty of bread and idle comfort she and her daughters had, but she did not help the poor and the needy.' The Midrash develops that the inhabitants of Sodom established a Procrustean bed for travelers: they stretched the upper one, and shrunk the lower one. The Mishnah states that the inhabitants of Sodom will have no part in the world to come.",
+          "similitudes": "All three traditions preserve destruction as an act of divine justice in the face of maximum collective perversion.",
+          "diferencias": "Rabbinic Judaism emphasizes social injustice (Ez 16:49) as well as sexual perversion; Islam mainly emphasizes the rejection of the prophet Lot and sexual perversion.",
+          "significado_teologico": "The judgment of Sodom and Gomorrah establishes that God intervenes in history when human perversion reaches a point of no return. Abraham's intercession simultaneously establishes that divine mercy is the first response, not judgment.",
+          "posible_relacion_cultural": "The destruction of cities by divine fire as punishment appears in the Babylonian Flood (Atrahasis, Gilgamesh) and in myths of city destruction by offended gods throughout the ancient Near East."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Luke 17:28-30; 2 Pe 2:6-9; Jud 7",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios XVI,30; Orígenes, Homilías sobre el Génesis V",
+          "descripcion": "Jesus used the destruction of Sodom as an image of the sudden final judgment: 'As it was in the days of Lot... so will be the day when the Son of Man is revealed' (Luke 17:28-30). Peter (2 Pe 2:6-9) presents it as a precedent that God knows how to rescue the righteous from judgment while destroying the wicked. Jude (Jude 7) emphasizes the sexual dimension of sin. Origen read Lot as a type of the righteous man who lives in the middle of the world without being corrupted; Augustine used it to argue for the permissibility of divine violence. Lot's wife 'turned to salt' was interpreted allegorically as the soul looking back at the sin it left behind.",
+          "similitudes": "The sudden destruction of Sodom as an image of the final judgment is identical in the three synoptic gospels and in 2 Peter.",
+          "diferencias": "The NT uses Sodom primarily as an eschatological type (judgment will come like this); Judaism uses it primarily as a present ethical warning.",
+          "significado_teologico": "Sodom and Gomorrah are proof that divine judgment is real, sudden, and total—and that mercy (Lot's rescue) operates simultaneously with judgment.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 7:80-84; 11:69-83; 15:57-74; 26:160-175",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de la Sura Al-Araf 7:80-84; Al-Tabari, Tafsir",
+          "descripcion": "The Quran narrates the story of Lut (Lot) in at least six surahs. The angels came to the city of Lut sent by Allah as messengers to Ibrahim (Abraham) and then as executors of punishment. The people of Lut rejected the prophet and wanted to abuse his guests. Allah saved Lut and his family (except his wife, who was left behind) and destroyed the city with a shower of hardened clay stones. The Quranic narrative emphasizes the rejection of the Prophet Lut as the main cause of punishment, along with sexual perversion. Ibn Kathir details that the destruction was by inversion of the city (turned upside down) and a shower of stones.",
+          "similitudes": "Divine destruction in the face of collective perversion and the rescue of the righteous prophet are identical in all three traditions.",
+          "diferencias": "Islam places Lut as a prophet explicitly sent to that city; the Quranic narrative does not include Ibrahim's intercession for the city (he only receives it from the angels as notification); The destruction is by inversion and rain of stones, not by sulfur and fire.",
+          "significado_teologico": "The people of Lut are a Quranic paradigm of the community that rejects the prophet sent by Allah. His punishment is a model of what awaits those who reject divine revelation.",
+          "posible_relacion_cultural": "Islamic tradition identifies the place with the Dead Sea area, coinciding with biblical geography, although the details of the punishment differ."
+        }
+      }
+    ]
+  }
+}

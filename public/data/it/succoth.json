@@ -1,0 +1,158 @@
+{
+  "id": "succoth",
+  "nombre": "Sukkot",
+  "tipo": "ciudad",
+  "lat": 32.19998298531073,
+  "lng": 35.63331303389634,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I - Rifiuto a Gedeone, successiva punizione"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: fusione del bronzo di Salomone"
+    }
+  ],
+  "descripcion_geo": "Città in Galaad, a est del Giordano, il cui nome (\"capanne\" o \"tende\") commemora il luogo in cui Giacobbe costruì ricoveri temporanei per il suo bestiame dopo la separazione da Esaù. Successivamente la scena del rifiuto dell'aiuto a Gedeone e, secoli dopo, l'area della fusione del bronzo per il Tempio di Salomone.",
+  "altitud_m": 350,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici degli altopiani Galaad.",
+  "recursos": [
+    "Pascoli per bovini (origine del nome, associato ai rifugi Giacobbe)",
+    "Terreno argilloso adatto alla fusione del bronzo",
+    "Posizione nel territorio di Gad"
+  ],
+  "importancia_estrategica": "Sukkot è teatro di uno degli episodi di mancanza di solidarietà tribale più severamente puniti dell'intero periodo dei Giudici: il rifiuto dei loro capi di fornire pane all'esercito di Gedeone durante la persecuzione dei re madianiti si traduce in una punizione esemplare dopo la vittoria; Secoli dopo, la città riacquista rilevanza come centro di fonderia metallurgica per gli oggetti del Tempio di Salomone.",
+  "otros_habitantes": [
+    {
+      "id": "gaditas_succoth",
+      "nombre": "Tribù di Gad",
+      "descripcion": "Popolazione israelita di Sukkot, i cui leader si rifiutano di fornire cibo alle truppe esauste di Gedeone durante l'inseguimento dei re madianiti Zebach e Zalmunna.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1150–1130 a.C"
+    },
+    {
+      "id": "fundidores_salomon_succoth",
+      "nombre": "Salomone Artigiani della Fonderia",
+      "descripcion": "Operai specializzati nella metallurgia che utilizzano il terreno argilloso della regione tra Sukkot e Zaretan per fondere i grandi oggetti in bronzo del Tempio di Salomone.",
+      "religion": "Yahvismo (progetto) e politeismo fenicio (tecnica)",
+      "periodo": "C. 960 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-cabanas-succoth",
+      "titulo": "Giacobbe costruisce capanne a Sukkot",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Dopo la sua riconciliazione con Esaù, Giacobbe si reca a Sukkot, dove costruisce una casa per sé e ricoveri per il suo bestiame, dando origine al nome del luogo che commemora questi primi insediamenti temporanei dopo il suo ritorno a Canaan.",
+      "referencias": [
+        "Gen 33:17"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "sucot-rechaza-gedeon",
+      "titulo": "I leader di Sukkot si rifiutano di aiutare Gideon",
+      "fecha": "c. 1130 a.C.",
+      "descripcion": "Durante la persecuzione dei re madianiti Zebach e Zalmunna, Gedeone chiede del pane per i suoi uomini esausti a Sukkot, ma i capi della città rifiutano beffardamente, chiedendosi se abbia già in suo possesso i re catturati; Gideon avverte che punirà il suo rifiuto quando tornerà vittorioso.",
+      "referencias": [
+        "Gdc 8:4-7"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-castiga-sucot",
+      "titulo": "Gedeone punisce gli uomini di Sukkot",
+      "fecha": "c. 1130 a.C.",
+      "descripcion": "Dopo aver catturato Zebach e Zalmunna, Gedeone torna a Sukkot e adempie al suo avvertimento: punisce i settantasette anziani della città con spine e cardi del deserto, grave esempio delle conseguenze della negazione della solidarietà alle truppe che combattono per la comune liberazione di Israele.",
+      "referencias": [
+        "Gdc 8:13-16"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_succoth",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "Costruisce i primi rifugi temporanei a Sukkot dopo la sua riconciliazione con Esaù, dando il nome al luogo all'inizio del suo graduale insediamento nel Canaan.",
+      "referencias": [
+        "Gen 33:17"
+      ],
+      "ruta": [
+        "peniel",
+        "succoth"
+      ]
+    },
+    {
+      "id": "gedeon_succoth",
+      "nombre": "Gedeone",
+      "rol": "Giudice Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Punisce severamente i capi di Sukkot per essersi rifiutati di sostenere le sue truppe durante la decisiva persecuzione dei re madianiti, episodio che illustra le conseguenze della mancanza di solidarietà tribale in tempi di comune necessità militare.",
+      "referencias": [
+        "Gdc 8:4-7",
+        "Gdc 8:13-16"
+      ],
+      "ruta": [
+        "succoth"
+      ]
+    },
+    {
+      "id": "ancianos_sucot",
+      "nombre": "Settantasette anziani di Sukkot",
+      "rol": "Leader locali puniti da Gideon",
+      "periodo": "c. 1130 a.C.",
+      "descripcion": "Inizialmente si rifiutano di aiutare le truppe di Gedeone, decisione che procura loro una punizione esemplare dopo la vittoria del giudice sui re madianiti.",
+      "referencias": [
+        "Gdc 8:14-16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sukkot illustra il principio teologico della responsabilità tribale condivisa nella lotta comune di Israele: il rifiuto dei suoi capi di fornire sostegno materiale alle truppe che combattono per la liberazione di tutto il popolo è punito con severità esemplare, stabilendo il precedente secondo cui la solidarietà intertribale nella guerra santa non è facoltativa ma necessaria, in contrasto con il precedente ideale pacifico di ospitalità stabilito da Giacobbe nello stesso luogo generazioni prima.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "castigo-falta-solidaridad-sucot",
+        "nombre": "La punizione di Gideon come monito sulla solidarietà tribale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 8:4-7; Jue 8:13-16",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la responsabilidad colectiva de Israel ('kol Israel arevim zeh lazeh', todo Israel es responsable unos de otros) aplicada al episodio de Sucot",
+          "descripcion": "La tradizione ebraica collega la severa punizione di Gedeone inflitta ai capi di Sukkot al più ampio principio di responsabilità collettiva tra le tribù di Israele, interpretando il rifiuto degli aiuti in un momento di comune necessità militare come una grave violazione della solidarietà fondamentale che dovrebbe unire tutte le tribù nella comune difesa del popolo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio stabilisce che il rifiuto di sostenere la causa comune di liberazione di Israele costituisce una grave violazione del principio di responsabilità reciproca tra tribù.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

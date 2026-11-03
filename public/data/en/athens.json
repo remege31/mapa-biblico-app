@@ -1,0 +1,154 @@
+{
+  "id": "athens",
+  "nombre": "Athens",
+  "tipo": "ciudad",
+  "lat": 37.9755,
+  "lng": 23.7348,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Cultural and philosophical capital of the Greek world, seat of the Areopagus and the Acropolis.",
+  "altitud_m": 70,
+  "clima": "Mediterranean",
+  "recursos": [
+    "philosophy",
+    "art",
+    "trade",
+    "olive trees"
+  ],
+  "importancia_estrategica": "Intellectual center of the ancient world; city ​​with myriads of temples and philosophical schools.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ath_h1",
+        "titulo": "Paul in the Areopagus",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul presents the gospel to the Stoic and Epicurean philosophers at the Areopagus.",
+        "referencias": [
+          "Acts 17:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Dionisio",
+          "Dámaris"
+        ]
+      },
+      {
+        "id": "ath_h2",
+        "titulo": "The altar to the unknown God",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul cites the altar 'To the Unknown God' from Athens to introduce the creator God.",
+        "referencias": [
+          "Acts 17:23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ath_h3",
+        "titulo": "Mixed reaction to the gospel",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Some mock the resurrection; others ask for more information; some believe.",
+        "referencias": [
+          "Acts 17:32-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Dionisio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ath_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle and philosopher",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He dialogued with Athenian philosophers; only evangelistic speech before a completely pagan audience.",
+        "referencias": [
+          "Acts 17:22"
+        ],
+        "ruta": [
+          "athens",
+          "corinth"
+        ]
+      },
+      {
+        "id": "ath_p2",
+        "nombre": "Dionysius the Areopagite",
+        "rol": "Converted from Athens",
+        "periodo": "s. I AD",
+        "descripcion": "Member of the Areopagus who believed after Paul's speech.",
+        "referencias": [
+          "Acts 17:34"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ath_p3",
+        "nombre": "Damaris",
+        "rol": "Converted from Athens",
+        "periodo": "s. I AD",
+        "descripcion": "Woman who believed in the Areopagus; Tradition links it with the first Athenian church.",
+        "referencias": [
+          "Acts 17:34"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City full of idols and temples; scene of the only debate of the gospel before the pagan intellectual elite.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "stoicism",
+        "Epicureanism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ath_m1",
+          "nombre": "The unknown God",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Paul uses the 'To the Unknown God' altar of Athens to proclaim the creator God, connecting the Greek religious quest with the gospel.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paul uses the 'To the Unknown God' altar of Athens to proclaim the creator God, connecting the Greek religious quest with the gospel.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

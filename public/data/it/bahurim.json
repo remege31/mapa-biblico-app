@@ -1,0 +1,163 @@
+{
+  "id": "bahurim",
+  "nombre": "Bahurim",
+  "tipo": "ciudad",
+  "lat": 31.824736,
+  "lng": 35.388486,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Maledizione di Shimei, fuga da Davide"
+    }
+  ],
+  "descripcion_geo": "Piccolo villaggio nel territorio di Beniamino, sulla strada che scende da Gerusalemme verso la Valle del Giordano, situato sul sentiero che Davide compie durante la sua fuga da Absalom. Vicino al limite orientale del territorio beniaminita, anch'esso legato alla famiglia Saul.",
+  "altitud_m": 600,
+  "clima": "Montagna mediterranea in transizione verso il deserto della Giudea: estati secche, inverni freddi con precipitazioni moderate.",
+  "recursos": [
+    "Posizione sulla via di discesa verso il Giordano",
+    "Territorio legato alla famiglia di Saul (luogo di origine di Shimeí)"
+  ],
+  "importancia_estrategica": "Bahurim non ha alcuna rilevanza militare, ma è teatro di due episodi significativi durante la ribellione di Absalom: la maledizione pubblica di Shimei contro Davide come rappresentante caduto della casa di Saul, e il nascondimento dei messaggeri di Hushai in un pozzo del villaggio per sfuggire agli inseguitori di Absalom, un episodio cruciale per la sopravvivenza di Davide.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas_bahurim",
+      "nombre": "Clan di Saul (linea di Shimei)",
+      "descripcion": "Famiglia beniaminita di Bahurim legata alla casa di Saul; Shimei, un parente di Saul, è originario di questo villaggio e espresse apertamente la sua ostilità nei confronti di Davide durante la ribellione di Absalom.",
+      "religion": "Yahvismo",
+      "periodo": "C. 975 a.C"
+    },
+    {
+      "id": "mujer_bahurim",
+      "nombre": "Famiglia che nasconde i messaggeri di Davide",
+      "descripcion": "Residenti di Bahurim che aiutano a nascondere Jonathan e Ahimaaz, messaggeri di Davide, in una fossa ricoperta di grano, sfuggendo agli inseguitori di Absalom.",
+      "religion": "Yahvismo",
+      "periodo": "C. 975 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "simei-maldice-david-bahurim",
+      "titulo": "Shimei maledice Davide a Bahurim",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Mentre Davide fugge da Gerusalemme di fronte alla ribellione di Absalom, Shimei, un parente di Saul originario di Bahurim, si mette sulla sua strada, lanciandogli pietre e maledicendolo pubblicamente come un 'uomo assetato di sangue', accusandolo di usurpare il regno della casa di Saul; Davide rifiuta la proposta di Abishai di ucciderlo, accettando la maledizione come possibile disegno di YHWH.",
+      "referencias": [
+        "2 Sam 16:5-14"
+      ],
+      "personajes_clave": [
+        "david",
+        "simei"
+      ]
+    },
+    {
+      "id": "mensajeros-ocultos-pozo-bahurim",
+      "titulo": "Jonathan e Ahimaaz si nascondono nel pozzo di Bahurim",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Dopo aver ricevuto informazioni segrete dal consigliere Hushai sui piani di Absalom, i messaggeri Jonathan e Ahimaaz vengono scoperti da un servitore di Absalom vicino a Bahurim, ma una donna locale li nasconde in un pozzo coperto di grano macinato, consentendo in seguito loro di continuare la loro missione su Davide con informazioni vitali per la loro sopravvivenza.",
+      "referencias": [
+        "2 Sam 17:17-21"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "simei-perdon-bahurim",
+      "titulo": "Shimeí si scusa con Davide dopo la sconfitta di Absalom",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Dopo la sconfitta di Absalom, Shimei di Bahurim si precipita ad incontrare Davide al suo ritorno a Gerusalemme, prostrandosi e chiedendo perdono per la sua precedente maledizione; Davide, nonostante l'insistenza di Abishai nel volerlo giustiziare, in quel momento gli risparmia la vita, sebbene la questione rimanga in sospeso fino alla fine del regno.",
+      "referencias": [
+        "2 Sam 19:16-23"
+      ],
+      "personajes_clave": [
+        "david",
+        "simei"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "simei",
+      "nombre": "Shimei",
+      "rol": "Parente di Saul, originario di Bahurim",
+      "periodo": "c. 975 a.C.",
+      "descripcion": "Maledice pubblicamente Davide durante la sua fuga da Absalom, accusandolo di aver usurpato il trono della casa di Saul; Successivamente chiede perdono e lo riceve da Davide, anche se la questione verrà risolta diversamente sotto il regno di Salomone.",
+      "referencias": [
+        "2 Sam 16:5-13",
+        "2 Sam 19:16-23"
+      ],
+      "ruta": [
+        "bahurim"
+      ]
+    },
+    {
+      "id": "david_bahurim",
+      "nombre": "Davide",
+      "rol": "Re di Israele, fuggitivo durante la ribellione di Absalom",
+      "periodo": "hierro_2",
+      "descripcion": "Sopporta con teologica rassegnazione la pubblica maledizione di Shimei a Bahurim, interpretandola come un possibile disegno divino, e successivamente perdona lo stesso uomo che lo aveva umiliato nel suo momento di massima vulnerabilità.",
+      "referencias": [
+        "2 Sam 16:10-12",
+        "2 Sam 19:23"
+      ],
+      "ruta": [
+        "jerusalen",
+        "bahurim"
+      ]
+    },
+    {
+      "id": "jonatan_ahimaas_bahurim",
+      "nombre": "Jonathan e Ahimaaz",
+      "rol": "Messaggeri sacerdotali in fuga a Bahurim",
+      "periodo": "hierro_2",
+      "descripcion": "Fuggono dagli inseguitori di Absalom grazie a una donna Bahurim che li nasconde in un pozzo, riuscendo finalmente a fornire a Davide informazioni critiche sui piani militari di Absalom.",
+      "referencias": [
+        "2 Sam 17:17-21"
+      ],
+      "ruta": [
+        "jerusalen",
+        "bahurim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bahurim condensa due episodi che esplorano la teologia della divina provvidenza in momenti di umiliazione e pericolo estremo: la decisione di Davide di non vendicarsi di Shimei, accettando la possibilità che la maledizione derivi da un disegno di YHWH, e la protezione provvidenziale dei messaggeri attraverso l'aiuto anonimo di una famiglia locale. Entrambi gli episodi rafforzano il tema della fiducia nella giustizia divina e della protezione rispetto all'immediata reazione violenta.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "maldicion-simei-providencia",
+        "nombre": "La maledizione di Shimei come possibile disegno divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 16:5-14",
+          "fuente_secundaria": "Talmud Babilónico, Shabat 105b y Sanedrín 21a (discusión sobre la conducta de David frente a Simeí)",
+          "descripcion": "La tradizione rabbinica discute ampiamente la risposta di Davide alla maledizione di Shimei - \"forse YHWH ha visto la mia afflizione e mi ripagherà bene per la sua maledizione oggi\" - come esempio di umiltà e accettazione della disciplina divina anche quando arriva attraverso uno strumento umano ostile e ingiusto.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio insegna che anche l'insulto e l'umiliazione possono essere strumenti del disegno purificatore di YHWH, e che la reazione adeguata è l'umile accettazione, non la vendetta immediata.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 16:5-14 (recepción patrística sobre la paciencia de David ante la injuria)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que vinculan la respuesta de David con la enseñanza neotestamentaria de no devolver mal por mal",
+          "descripcion": "L'antica tradizione cristiana riprende la risposta di Davide a Scimei come antecedente veterotestamentario della pazienza cristiana di fronte all'insulto e alla calunnia, generalizzando l'episodio come modello di mitezza applicabile alla vita del credente.",
+          "similitudes": "Condivide con la lettura ebraica il valore dell'umile accettazione dell'umiliazione come possibile disciplina divina.",
+          "diferencias": "La lettura cristiana tende a universalizzare il principio come etica generale della mitezza, al di là del contesto specifico della legittimità regale.",
+          "significado_teologico": "L'episodio si integra come prefigurazione veterotestamentaria dell'etica cristiana della non resistenza al male e della fiducia nel giudizio divino.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

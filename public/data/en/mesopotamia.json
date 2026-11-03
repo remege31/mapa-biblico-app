@@ -1,0 +1,227 @@
+{
+  "id": "mesopotamia",
+  "nombre": "Mesopotamia",
+  "tipo": "territorio",
+  "lat": 32.5352,
+  "lng": 44.4192,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 280,
+  "jerarquia_pin": "primario",
+  "nota_coordenadas": "Anclado en las ruinas de Babilonia antigua (cerca de Hilla, Iraq) — ciudad más mencionada del AT dentro del territorio mesopotámico",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Casitas in Babylon"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Transition and fragmentation"
+    },
+    {
+      "desde": -1000,
+      "hasta": -609,
+      "nombre": "Iron II — Neo-Assyrian Empire"
+    },
+    {
+      "desde": -626,
+      "hasta": -539,
+      "nombre": "Neo-Babylonian Empire"
+    },
+    {
+      "desde": -539,
+      "hasta": -400,
+      "nombre": "Persian Domain (Achaemenid)"
+    }
+  ],
+  "descripcion_geo": "Region between the Tigris and Euphrates rivers, from the Anatolian mountains to the Persian Gulf. The Greek name means 'land between the rivers'. Annual floods deposited fertile silt that made the world's first cities possible. Lacking stone and wood, Mesopotamia depended on trade with the Levant, Anatolia, and India. The southern floodplain (Babylon/Sumer) and the northern highlands (Assyria) define its two main cultural zones.",
+  "altitud_m": "Variable — from sea level (south) to 500 m (north, Assyria)",
+  "clima": "Semi-arid continental — extremely hot summers (45°C), cold winters. Little rain; All agriculture depends on irrigation by canals from the Euphrates and Tigris.",
+  "recursos": [
+    "Fertile alluvial soil (with irrigation)",
+    "Clay for brick and cuneiform tablets",
+    "Asphalt (natural bitumen)",
+    "Dates",
+    "Wool and textiles",
+    "Position on trade routes to India, Egypt and Anatolia"
+  ],
+  "importancia_estrategica": "Crossing of trade routes between the Mediterranean, India and the Persian Gulf. The Mesopotamian great powers (Assyria, Babylon) controlled the Levant and put direct pressure on Israel and Judah throughout the Iron Age.",
+  "otros_habitantes": [
+    {
+      "id": "sumerios",
+      "nombre": "Sumerians",
+      "descripcion": "First known urban civilization. Inventors of cuneiform writing, the sexagesimal system (base 60), the ziggurat and epic literature (Gilgamesh). Ur was their main city and Abraham's hometown.",
+      "religion": "Polytheism — pantheon of astral gods (Anu, Enlil, Enki, Inanna)",
+      "periodo": "c. 4500–2000 BC"
+    },
+    {
+      "id": "asirios",
+      "nombre": "Assyrians",
+      "descripcion": "Northern Empire of Mesopotamia, centered on Nineveh and Assur. They conquer the northern kingdom of Israel (722 BC) and deport the 10 tribes. His policy of mass deportation reshaped the demographics of the Levant.",
+      "religion": "Polytheism — Assur (national god), Ishtar (war and love), Shamash (sun and justice)",
+      "periodo": "c. 2500–609 BC"
+    },
+    {
+      "id": "babilonios",
+      "nombre": "Babylonians",
+      "descripcion": "Southern Empire of Mesopotamia, capital Babylon. Nebuchadnezzar II destroys Jerusalem (586 BC) and begins the Jewish Exile. Babylonian culture deeply impacts the theology, calendar, and literature of post-exilic Judaism.",
+      "religion": "Polytheism — Marduk (supreme god), Ishtar, Nabu (writing), Sin (moon)",
+      "periodo": "c. 2000–539 BC"
+    },
+    {
+      "id": "caldeos",
+      "nombre": "Chaldeans",
+      "descripcion": "Southern Semitic tribe of Mesopotamia that took control of Babylon in the 7th century BC. The biblical prophets use 'Chaldeans' as a synonym for Babylonians. Nebuchadnezzar II was a Chaldean. Ur of the Chaldeans is the hometown of Abraham.",
+      "religion": "Babylonian polytheism — heirs of the Sumerian-Akkadian pantheon",
+      "periodo": "c. 1000–539 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "origen-abraham",
+      "titulo": "Abraham part of Ur",
+      "fecha": "c. 2000–1800 BC (trad.)",
+      "descripcion": "Abraham (Abram) departs from Ur of the Chaldees, in the south of Mesopotamia, called by Yahweh towards Canaan. The departure of Mesopotamia is the first movement of salvation history — the geographical and theological starting point of the OT.",
+      "referencias": [
+        "Gen 11:31-32",
+        "Gen 12:1-5",
+        "Acts 7:2-4"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "torre-babel",
+      "titulo": "The Tower of Babel",
+      "fecha": "Época primordial (relato etiológico)",
+      "descripcion": "On the plain of Sinear (Mesopotamia), humanity builds a tower to reach heaven. Yahweh confuses languages ​​and disperses peoples. The Babylonian ziggurat is the architectural reference of the story.",
+      "referencias": [
+        "Gen 11:1-9"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "exilio-babilonico",
+      "titulo": "The Babylonian Exile",
+      "fecha": "597–539 BC",
+      "descripcion": "Nebuchadnezzar II deports the Jewish elite to Babylon in two waves (597 and 586 BC). In Mesopotamia, Judaism is transformed: the synagogue as an institution emerges, the Scriptures are compiled, messianic hope develops. The Exile is the crucible of classical Judaism.",
+      "referencias": [
+        "2 Kgs 24:10-17",
+        "2 Kgs 25:1-21",
+        "Ps 137:1-9",
+        "Ezek 1:1-3"
+      ],
+      "personajes_clave": [
+        "daniel",
+        "ezequiel",
+        "nabucodonosor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham-meso",
+      "nombre": "Abraham",
+      "rol": "Patriarch — origin in Ur of Chaldea",
+      "periodo": "bronce_medio",
+      "descripcion": "Born in Ur, a Sumerian city in the south of Mesopotamia. His call and departure to Canaan is the founding act of the biblical story. Mesopotamia is your home land — Canaan, your destination land.",
+      "referencias": [
+        "Gen 11:28-31",
+        "Gen 15:7",
+        "Neh 9:7"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "canaan"
+      ]
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniel",
+      "rol": "Prophet at the Babylonian court",
+      "periodo": "hierro_2",
+      "descripcion": "Young Jewish man deported to Babylon serving in Nebuchadnezzar's court. Interprets dreams and visions. His book is the most influential apocalyptic text in the OT and reflects the experience of the Mesopotamian diaspora.",
+      "referencias": [
+        "Dan 1:1-21",
+        "Dan 2:1-49",
+        "Dan 6:1-28"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mesopotamia"
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of Exile in Babylon",
+      "periodo": "hierro_2",
+      "descripcion": "Deported priest who prophesies among the exiles at the Chebar River (Mesopotamia). His visions (the divine chariot, the valley of dry bones, the new Temple) are the most visionary texts of biblical prophecy.",
+      "referencias": [
+        "Ezek 1:1-28",
+        "Ezek 37:1-14",
+        "Ezek 40:1-49"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mesopotamia"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mesopotamia is the origin of many of the myths and literary structures that the OT reinterprets from a monotheistic perspective: the universal flood, creation from chaos, the primordial garden, the figure of the priest-king. The Babylonian Exile forces Judaism to reformulate itself without land or Temple, generating its most lasting institutions.",
+    "religiones_presentes": [
+      "Sumerian-Akkadian polytheism (Anu, Enlil, Enki)",
+      "Babylonian polytheism (Marduk, Ishtar)",
+      "Assyrian polytheism (Assur, Ishtar)",
+      "Zoroastrianism (Persian influence post-539 BC)"
+    ],
+    "mitos": [
+      {
+        "id": "diluvio",
+        "nombre": "The Universal Flood",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 6:1-9:29",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 32:1-6 — el diluvio como castigo moral; Noé como justo probado; paralelo con el Épico de Gilgamesh reconocido implícitamente",
+          "descripcion": "Noah builds the ark and saves his family and animals from the flood sent by Yahweh to purge human evil. The rainbow is a sign of the post-flood alliance. The parallel story to the Mesopotamian Epic of Gilgamesh (table XI) shows the monotheistic reinterpretation of an older myth.",
+          "diferencias": "In the biblical version, the flood responds to the moral evil of humanity. In Gilgamesh, the gods send him for human noise — without ethical motivation.",
+          "similitudes": "Survivor warned by a god, construction of a boat, animals on board, release of birds to recognize the land, offering at the end.",
+          "significado_teologico": "The flood reveals Yahweh's sovereignty over creation and the moral order of the universe.",
+          "posible_relacion_cultural": "The biblical story probably knows the Mesopotamian tradition (Atrahasis, Gilgamesh) and reinterprets it from monotheism."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 6-9 · 1 Pe 3:20-21 · Heb 11:7",
+          "fuente_secundaria": "Tertuliano, De Baptismo VIII — tipología bautismal del diluvio; el arca como prefiguración de la Iglesia",
+          "descripcion": "The flood is a type of baptism: just as Noah was saved by water, the believer is saved through baptism. Noah as a figure of the righteous man who obeys God in the midst of universal corruption.",
+          "diferencias": "The Christian typological reading sees in the flood an anticipated sacrament rather than a historical judgment.",
+          "similitudes": "Noah's obedience as a model of faith; judgment as the reality of sin.",
+          "significado_teologico": "Foundation of baptismal typology; Noah as a prefiguration of the just saved.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 71:1-28 · Corán 11:25-49",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat Hud 11:25-49 — Nuh como profeta rechazado durante 950 años; modelo del patrón profético coránico",
+          "descripcion": "Nuh (Noah) is a prophet sent to his people for 950 years. Build the ark under divine instruction. One of his sons refuses to board and perishes – a detail absent from the Bible. The Qur'an emphasizes the prophetic mission of Nuh, not the post-flood alliance.",
+          "diferencias": "The son of Nuh who perishes does not appear in the Bible. No rainbow alliance. The emphasis is prophetic, not alliancestic.",
+          "similitudes": "Divine warning, ark, animals, universal flood, survival of the faithful.",
+          "significado_teologico": "Nuh as a model of a persevering prophet rejected by his people — a pattern that is repeated in all the prophets of the Quran.",
+          "posible_relacion_cultural": "Shared tradition of the universal flood that has roots in Mesopotamian culture."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

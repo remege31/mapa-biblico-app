@@ -1,0 +1,179 @@
+{
+  "id": "susa",
+  "nombre": "Susa",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.1892,
+  "lng": 48.2579,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Capitale amministrativa dell'Impero Persiano, situata nella pianura del Khuzistan, ai piedi dei Monti Zagros (l'attuale Iran). Una delle città più antiche del mondo, abitata fin dal IV millennio a.C. Sede del palazzo invernale dei re achemenidi, dove venivano ricevute le ambasciate e dove veniva amministrato il vasto impero persiano da Egitto all'India.",
+  "altitud_m": 23,
+  "clima": "Continentale arido; estati estremamente calde (fino a 50°C), inverni miti.",
+  "recursos": [
+    "Agricoltura irrigua sui fiumi Karún e Shavur",
+    "Rotte commerciali reali persiane",
+    "Materiali da costruzione provenienti da tutto l'impero (cedro, oro, pietra)",
+    "Produzione tessile e artigianale della corte"
+  ],
+  "importancia_estrategica": "Sede del trono persiano dove si decideva la sorte dei popoli soggetti all'impero, compresi gli ebrei in esilio. I libri di Ester e Neemia furono scritti a Susa e lì il profeta Daniele ricevette visioni apocalittiche. La città simboleggia l'incontro tra il potere imperiale e la lealtà ebraica nella diaspora.",
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ],
+  "periodos": [
+    {
+      "desde": -539,
+      "hasta": -330,
+      "nombre": "Capitale dell'impero persiano achemenide"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "persas_aqueménidas",
+      "nombre": "Persiani achemenidi",
+      "descripcion": "Città iraniana che ha fatto di Susa una delle sue quattro capitali (insieme a Persepoli, Ecbatana e Babilonia). Sotto Ciro, Dario e Serse costruirono l'Apadana, la grande sala delle udienze del palazzo.",
+      "religion": "Zoroastrismo",
+      "periodo": "post_esilio"
+    },
+    {
+      "id": "elamitas",
+      "nombre": "Elamiti",
+      "descripcion": "Popolo che abitava Susa per millenni prima della conquista persiana. La loro civiltà era una delle più antiche del Medio Oriente e lasciò il segno nell'architettura e nella cultura della città.",
+      "religion": "Politeismo elamita: culto di Inshushinak",
+      "periodo": "ferro_2"
+    },
+    {
+      "id": "judios_exiliados",
+      "nombre": "Comunità ebraica in esilio",
+      "descripcion": "Ebrei deportati da Babilonia rimasti nella diaspora dopo l'editto di Ciro. A Susa era attiva una comunità ebraica nella quale sono ambientate le storie di Ester, Mardocheo e la missione di Neemia.",
+      "religion": "Ebraismo della diaspora",
+      "periodo": "post_esilio"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ester_en_susa",
+      "titulo": "Ester e Mardocheo alla corte di Susa",
+      "fecha": "c. 480 a.C.",
+      "descripcion": "Durante il regno di Assuero (Serse I), la giovane ebrea Ester viene scelta regina dopo la deposizione di Vasti. Suo cugino Mordecai scopre una cospirazione del visir Haman per sterminare tutti gli ebrei dell'impero. Ester, rischiando la vita presentandosi davanti al re senza essere chiamata, riesce a revocare il decreto. Haman viene giustiziato sulla forca che aveva preparato per Mardocheo e gli ebrei ottengono il diritto di difendersi. La festa di Purim commemora la sua liberazione.",
+      "referencias": [
+        "Est 1:1-2",
+        "Est 2:5-17",
+        "Est 7:1-10",
+        "Est 9:20-28"
+      ],
+      "personajes_clave": [
+        "ester",
+        "mardoqueo"
+      ]
+    },
+    {
+      "id": "nehemias_en_susa",
+      "titulo": "Neemia: coppiere del re di Susa",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Neemia, coppiere del re Artaserse nel palazzo di Susa, riceve la notizia che le mura di Gerusalemme rimangono in rovina. Il suo dolore davanti al re gli apre la porta per richiedere il permesso di tornare a Giuda come governatore e ricostruire la città. Il re è d'accordo e gli fornisce lettere e materiali. Neemia si mette in viaggio, ispeziona di notte le mura e organizza la ricostruzione in 52 giorni nonostante l'opposizione di Samballat e Tobiah.",
+      "referencias": [
+        "Ne 1:1-11",
+        "Ne 2:1-8",
+        "Ne 6:15"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    },
+    {
+      "id": "daniel_en_susa",
+      "titulo": "Le visioni di Daniele a Susa",
+      "fecha": "c. 550–539 a.C.",
+      "descripcion": "Il profeta Daniele riceve a Susa, vicino al fiume Ulai, la visione dell'ariete e del capro che simboleggiano gli imperi di Persia e Grecia. L'angelo Gabriele gli spiega la visione nello stesso luogo. Più tardi, presso il fiume Tigri, riceve la visione finale che include la promessa della risurrezione. Le visioni di Susa trasformano la città nella scena della più antica apocalittica biblica.",
+      "referencias": [
+        "Dn 8:2-27",
+        "Dn 10:1-21"
+      ],
+      "personajes_clave": [
+        "daniel",
+        "gabriel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ester",
+      "nombre": "Estere",
+      "rol": "Regina ebrea alla corte di Susa",
+      "periodo": "c. 480 a.C.",
+      "descripcion": "Giovane donna ebrea dal nome ebraico Hadassá, adottata dal cugino Mordecai dopo la morte dei suoi genitori. Eletta regina dell'Impero Persiano, inizialmente nascose la sua identità ebraica. Il suo intervento davanti al re Assuero per salvare il suo popolo la rese il simbolo più potente della fedeltà e del coraggio ebraico nella diaspora. La sua storia non menziona Dio esplicitamente, una caratteristica unica nella Bibbia ebraica.",
+      "referencias": [
+        "Est 2:7-17",
+        "Est 4:15-16",
+        "Est 7:3-6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nehemias",
+      "nombre": "Neemia",
+      "rol": "Coppiere reale: governatore in ricostruzione di Gerusalemme",
+      "periodo": "post_exilio",
+      "descripcion": "Funzionario ebreo di grande fiducia alla corte di Artaserse I. La sua posizione di coppiere reale gli dava accesso diretto al re, permettendogli di ottenere il permesso e le risorse per ricostruire le mura di Gerusalemme. Le sue memorie personali, conservate nel libro di Neemia, costituiscono una delle fonti storiche più dirette del periodo post-esilico.",
+      "referencias": [
+        "Ne 1:1-3",
+        "Ne 2:1-9",
+        "Ne 13:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniele",
+      "rol": "Profeta visionario alla corte imperiale",
+      "periodo": "hierro_2",
+      "descripcion": "Giovane ebreo deportato nel Babilonia che raggiunse le più alte posizioni nell'amministrazione imperiale babilonese e persiana. A Susa ricevette visioni angeliche di contenuto apocalittico che annunciavano la fine degli imperi pagani e l'instaurazione del regno di Dio. Il suo libro inaugura il genere apocalittico nella letteratura ebraica.",
+      "referencias": [
+        "Dn 8:2",
+        "Dn 10:4-12",
+        "Dn 12:1-3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Susa è il luogo biblico per eccellenza dell'ebraismo della diaspora: il luogo in cui il popolo ebraico imparò a sopravvivere e prosperare sotto il potere imperiale senza rinunciare alla propria identità. Le storie di Ester, Neemia e Daniele condividono la tensione tra l'integrazione nella cultura imperiale e la fedeltà alla tradizione ancestrale, un dilemma che definirebbe il giudaismo postbiblico.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "ester_salva_a_su_pueblo",
+        "nombre": "Ester salva il popolo ebraico a Susa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Est 4:14 — 9:28",
+          "fuente_secundaria": "Talmud Bavli, Meguilá 7a — debate sobre si el libro de Ester es sagrado; Raba afirma que fue compuesta con inspiración del Espíritu Santo; discusión sobre la ausencia del nombre de Dios",
+          "descripcion": "Ester digiuna tre giorni prima di presentarsi al re, atto che la tradizione ebraica interpreta come preghiera collettiva anche se il testo non menziona Dio. Il suo intervento salva gli ebrei dall'editto di sterminio di Haman. La festa di Purim, celebrata ad Adar, commemora questi eventi.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il libro di Ester mostra che la divina provvidenza opera anche negli spazi dove Dio non è menzionato. L’identità ebraica è preservata non da evidenti miracoli ma dal coraggio e dalla solidarietà della comunità.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2 (Al-Baqara): 49 — referencia general a la liberación de Israel",
+          "fuente_secundaria": "Ibn Kathir, Al-Bidaya wa-l-Nihaya, vol. 2 — menciona a los reyes persas y su relación con los israelitas en el exilio",
+          "descripcion": "La tradizione islamica riconosce il periodo persiano come un periodo di favore nei confronti degli israeliti dopo l'esilio babilonese. Sebbene Ester non appaia nominalmente nel Corano, il quadro storico del ritorno e della protezione divina su Israele nella diaspora è coerente con la narrativa coranica dei profeti.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'Islam interpreta i cicli Israele di esilio e ritorno come segni di giustizia divina che punisce la disobbedienza e premia il pentimento.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  }
+}

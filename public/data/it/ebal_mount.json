@@ -1,0 +1,148 @@
+{
+  "id": "ebal_mount",
+  "nombre": "Monte Ebal",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.23293813761263,
+  "lng": 35.27304180036391,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: cerimonia di benedizioni e maledizioni"
+    }
+  ],
+  "descripcion_geo": "Montagna al centro di Canaan, di fronte al Monte Gerizim, separata dalla valle dove si trova Sichem, scena della cerimonia rituale di benedizioni e maledizioni prescritta da Mosè da eseguire immediatamente dopo l'ingresso di Israele nella terra promessa.",
+  "altitud_m": 940,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici delle colline centrali di Samaria.",
+  "recursos": [
+    "Posizione elevata per la cerimonia di benedizioni e maledizioni",
+    "Altare costruito da Giosuè con pietre grezze"
+  ],
+  "importancia_estrategica": "Il monte Ebal è teatro di uno dei rituali di rinnovamento dell’alleanza più significativi dell’intero Pentateuco: sei tribù stanno sul Garizim per pronunciare benedizioni e sei sull’Ebal per pronunciare maledizioni, mentre Giosuè costruisce un altare e scrive la Legge sulle pietre, formalizzando pubblicamente il patto tra Israele e YHWH proprio nel momento in cui inizia il possesso effettivo della terra.",
+  "otros_habitantes": [
+    {
+      "id": "seis_tribus_ebal",
+      "nombre": "Tribù di Ruben, Gad, Aser, Zabulon, Dan e Neftali",
+      "descripcion": "Le sei tribù designate a stare sul monte Ebal e pronunciare le maledizioni corrispondenti alla disobbedienza alla Legge.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200 a.C. (narrativa)"
+    },
+    {
+      "id": "levitas_ebal",
+      "nombre": "Sacerdoti levitici",
+      "descripcion": "Responsabile del trasporto dell'Arca dell'Alleanza e della proclamazione formale di ogni benedizione e maledizione davanti all'intera congregazione riunita tra le due montagne.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-instruye-ceremonia-ebal",
+      "titulo": "Mosè istruisce la cerimonia di Ebal e Gerizim",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Prima della sua morte, Mosè istruisce dettagliatamente che, una volta attraversato il Giordano, Israele dovrà dividersi in due gruppi di sei tribù ciascuno, ponendosi sui Gerizim per le benedizioni e sugli Ebal per le maledizioni, specificando anche la costruzione di un altare di pietre grezze su quest'ultimo monte.",
+      "referencias": [
+        "Dt 27:1-13"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "josue-construye-altar-ebal",
+      "titulo": "Giosuè costruisce un altare sul monte Ebal",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Adempiendo l'istruzione mosaica, Giosuè costruisce un altare a YHWH sul monte Ebal con pietre intere su cui non era stato innalzato alcun utensile di ferro, offrendo olocausti e sacrifici di pace, e scrive lì una copia della Legge di Mosè sulle pietre.",
+      "referencias": [
+        "Gs 8:30-32"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "lectura-publica-bendiciones-maldiciones-ebal",
+      "titulo": "Lettura pubblica dell'intera Legge tra Ebal e Garizim",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Giosuè legge pubblicamente l'intera Legge, benedizioni e maledizioni, davanti all'intera assemblea di Israele, inclusi donne, bambini e stranieri residenti, situata tra entrambe le montagne, nel rigoroso rispetto delle istruzioni fornite da Mosè generazioni prima.",
+      "referencias": [
+        "Gs 8:33-35"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_ebal",
+      "nombre": "Mosè",
+      "rol": "Legislatore, istruttore della cerimonia",
+      "periodo": "bronce_tardio",
+      "descripcion": "Stabilisce nel dettaglio le istruzioni per la cerimonia di rinnovamento dell'alleanza che verrà celebrata sui monti Ebal e Garizim subito dopo l'ingresso nella terra promessa.",
+      "referencias": [
+        "Dt 27:1-26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_ebal",
+      "nombre": "Giosuè",
+      "rol": "Leader di Israele, esecutore della cerimonia",
+      "periodo": "bronce_tardio",
+      "descripcion": "Egli esegue esattamente le istruzioni mosaiche costruendo l'altare, scrivendo la Legge sulle pietre e guidando la lettura pubblica delle benedizioni e delle maledizioni davanti all'intera congregazione Israele.",
+      "referencias": [
+        "Gs 8:30-35"
+      ],
+      "ruta": [
+        "ebal_mount"
+      ]
+    },
+    {
+      "id": "levitas_ebal_personaje",
+      "nombre": "Sacerdoti leviti che trasportano l'Arca",
+      "rol": "Esecutori rituali della cerimonia",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "Portano l'Arca dell'Alleanza e proclamano formalmente ogni specifica benedizione e maledizione davanti all'intera assemblea riunita tra le due montagne.",
+      "referencias": [
+        "Dt 27:14-26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il monte Ebal è il teatro della più completa formalizzazione rituale dell’alleanza tra Israele e YHWH subito dopo la conquista: la divisione simmetrica delle tribù tra benedizione e maledizione, la costruzione di un altare con pietre non scolpite da strumenti umani, e la lettura pubblica e inclusiva dell’intera Legge davanti a uomini, donne, bambini e stranieri, stabiliscono un modello di rinnovamento dell’alleanza che unisce solennità liturgica e partecipazione comunitaria universale.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "altar-piedras-no-labradas-ebal",
+        "nombre": "L'altare di pietre grezze sul monte Ebal",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 27:5-6; Jos 8:30-31",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el simbolismo de las piedras sin labrar como rechazo del orgullo humano en la construcción de altares dedicados a YHWH",
+          "descripcion": "La tradizione ebraica sviluppa ampiamente il significato del divieto di utilizzare strumenti di ferro per scolpire le pietre dell'altare di Ebal, interpretando tale restrizione come un simbolico rifiuto dell'intervento dell'orgoglio o dell'artificiosa perfezione umana in uno spazio dedicato esclusivamente alla presenza e al servizio di YHWH, principio poi esteso alla costruzione del Tempio stesso.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Le pietre naturali non tagliate simboleggiano che la sacralità del luogo deriva esclusivamente dalla presenza divina, non dall'artificio umano o dalla perfezione estetica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

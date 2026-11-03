@@ -1,0 +1,198 @@
+{
+  "id": "sodom",
+  "nombre": "Sodoma",
+  "tipo": "ciudad",
+  "lat": 31.1,
+  "lng": 35.48,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 48,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Età del bronzo medio: città della Pentapoli del Mar Salato"
+    }
+  ],
+  "descripcion_geo": "L'esatta ubicazione di Sodoma è uno dei dibattiti archeologici più attivi negli studi biblici. La tradizione più diffusa lo colloca all'estremità meridionale del Mar Morto, nella piana di Siddim, forse sotto le acque correnti o nella zona di Bab edh-Dhra (Giordania). Faceva parte della Pentapoli, una confederazione di cinque città (Sodoma, Gomorra, Adma, Zeboim e Bela/Zoar) che controllavano la fertile pianura bagnata dal Giordano prima della catastrofe.",
+  "altitud_m": -400,
+  "clima": "Estremamente arida: la punta meridionale del Mar Morto è una delle regioni più calde e secche della terra. Prima della catastrofe, il testo biblico descrive la pianura come un giardino ben irrigato, come il giardino di YHWH o la terra di Egitto (Gen 13,10).",
+  "recursos": [
+    "Acqua (il Giordano irrigava la pianura prima della catastrofe)",
+    "Bitume naturale (la pianura di Siddim aveva pozzi di bitume, Gen 14:10)",
+    "Sale e minerali del Mar Morto",
+    "Terreni agricoli fertili (prima della distruzione)"
+  ],
+  "importancia_estrategica": "Controlla la rotta meridionale del Giordano e l'accesso al Mar Morto e alle sue risorse minerarie. Essendo il centro della Pentapoli, era la città più importante della confederazione delle pianure. La sua distruzione trasformò una regione fertile in un deserto salato all'estremità meridionale del Mar Morto.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-sodoma",
+      "nombre": "Cananei della Pentapoli",
+      "descripcion": "Le cinque città della pianura erano città-stato cananee con la propria confederazione politica e militare. Rendevano omaggio al re Chedorlaomer dell'Elam per dodici anni prima di ribellarsi (Gen 14,4). I suoi abitanti sono descritti dal testo biblico come molto malvagi e peccatori contro YHWH (Gen 13,13), sebbene l'esatta natura di quel peccato sia stata oggetto di dibattito esegetico.",
+      "religion": "Politeismo Cananeo: culto delle divinità locali delle pianure",
+      "periodo": "C. 2100–1900 a.C. (Bronzo medio)"
+    },
+    {
+      "id": "lot-familia",
+      "nombre": "La famiglia di Lot",
+      "descripcion": "Lot, nipote di Abramo, scelse di stabilirsi nella pianura del Giordano e infine nella città di Sodoma, attratto dalla sua fertilità. La sua presenza in città all'arrivo dei due angeli fa sì che la sua famiglia sia l'unica salvata. La moglie di Lot, che guardò indietro, divenne una statua di sale. I due figli che Lot ebbe con le sue figlie nella grotta dopo la distruzione - Moab e Ben-Ami - sono gli antenati eponimi dei Moabiti e degli Ammoniti.",
+      "religion": "Yahvismo della tradizione patriarcale",
+      "periodo": "C. 1800 a.C"
+    },
+    {
+      "id": "reyes-sodoma",
+      "nombre": "I cinque re della Pentapoli",
+      "descripcion": "Il capitolo 14 della Genesi descrive la prima guerra narrata nella Bibbia: quattro re orientali contro i cinque re della Pentapoli. Chedorlaomer di Elam e i suoi alleati sconfissero i cinque re nella valle di Siddim. Abramo è intervenuto con 318 guerrieri addestrati per liberare il Lot catturato. Il re di Sodoma offrì il bottino a Abramo, che lo rifiutò per non dovere a nessuno le sue ricchezze.",
+      "religion": "Politeismo delle città-stato cananee",
+      "periodo": "C. 1900–1800 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-intercesion",
+      "titulo": "Abramo intercede per Sodoma: distruggerai il giusto insieme all'empio?",
+      "fecha": "c. 1800 a.C.",
+      "descripcion": "Quando YHWH rivelò a Abramo la sua intenzione di distruggere Sodoma, Abramo iniziò uno dei negoziati più audaci nella letteratura religiosa: distruggerai i giusti con i malvagi? Il giudice di tutta la terra non farà giustizia? Abbassò progressivamente la soglia dei giusti necessari per salvare la città: da cinquanta a quarantacinque, a quaranta, a trenta, a venti, a dieci. YHWH accettò ogni condizione. La città fu distrutta perché non c'erano nemmeno dieci giusti. L'intercessione di Abramo è il primo testo biblico sulla preghiera supplichevole a favore degli altri e sulla giustizia divina.",
+      "referencias": [
+        "Gen 18:16-33"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "lot"
+      ]
+    },
+    {
+      "id": "destruccion-sodoma",
+      "titulo": "La distruzione di Sodoma: pioggia di fuoco e zolfo",
+      "fecha": "c. 1800 a.C.",
+      "descripcion": "I due angeli giunti a Sodoma furono riconosciuti da Lot come messaggeri divini. Di fronte all’ostilità dei sodomiti, accecarono gli aggressori e ordinarono a Lot di fuggire con la sua famiglia senza voltarsi indietro. All'alba, YHWH fece piovere dal cielo zolfo e fuoco su Sodoma e Gomorra. La moglie di Lot guardò indietro e si trasformò in una statua di sale. Abramo vide da Mamré come il fumo saliva dalla terra come il fumo di una fornace. La distruzione di Sodoma divenne il paradigma biblico del giudizio divino sul male collettivo.",
+      "referencias": [
+        "Gen 19:1-29"
+      ],
+      "personajes_clave": [
+        "lot",
+        "abraham"
+      ]
+    },
+    {
+      "id": "profecias-sodoma",
+      "titulo": "Sodoma come paradigma profetico: il peccato che dura per sempre",
+      "fecha": "c. 760–580 a.C.",
+      "descripcion": "I profeti usarono Sodoma come misura ultima del male e del giudizio. Isaia paragona la corruzione di Gerusalemme a Sodoma (Is 1,10). Amos menziona Sodoma e Gomorra come esempio di distruzione divina (Am 4:11). Geremia afferma che il peccato di Giuda supera quello di Sodoma (Ger 23:14). Ezechiele identifica il peccato di Sodoma non con la violenza sessuale ma con l'orgoglio, la sazietà e l'indifferenza verso i poveri (Ez 16,49-50). Quest’ultima caratterizzazione ha influenzato profondamente la teologia sociale contemporanea.",
+      "referencias": [
+        "Is 1:9-10",
+        "Am 4:11",
+        "Ger 23:14",
+        "Ez 16:49-50",
+        "Mt 10:15"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot",
+      "nombre": "molti",
+      "rol": "Nipote di Abramo, unico giusto salvato da Sodoma",
+      "periodo": "bronce_medio",
+      "descripcion": "Lot emigrò con Abramo da Ur e si separò da essa in Canaan, scegliendo la fertile pianura del Giordano. Il suo graduale impegno a Sodoma – prima pianta le tende verso la città, poi vi abita, infine siede alla porta come magistrato – è letto dai commentatori come una progressiva assimilazione al mondo che lo circonda. La sua ambivalenza verso il male (offre le sue figlie alla folla) e la sua conseguente ubriachezza mettono in dubbio la sua statura morale. Tuttavia, il Nuovo Testamento lo chiama giusto (2 Pt 2,7-8).",
+      "referencias": [
+        "Gen 13:1-13",
+        "Gen 14:1-16",
+        "Gen 19:1-38"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "sodom",
+        "zoar"
+      ]
+    },
+    {
+      "id": "abraham-sodoma",
+      "nombre": "Abramo",
+      "rol": "Intercessore per i giusti di Sodoma",
+      "periodo": "bronce_medio",
+      "descripcion": "L'intercessione di Abramo per Sodoma rivela una dimensione del carattere che va oltre l'obbediente esecutore dei comandi divini: è un negoziatore che fa appello alla giustizia intrinseca di Dio. La sua argomentazione – secondo cui distruggere il giusto con il malvagio sarebbe contrario alla stessa natura divina – stabilisce il fondamento della teologia profetica della giustizia. La scena è uno dei dialoghi più intimi tra Dio e un essere umano dell'intero AT.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 19:27-29"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "beersheba"
+      ]
+    },
+    {
+      "id": "angeles-sodoma",
+      "nombre": "I due angeli (messaggeri)",
+      "rol": "Esecutori del giudizio divino su Sodoma",
+      "periodo": "bronce_medio",
+      "descripcion": "I due messaggeri divini che hanno visitato Abramo a Mamre sono arrivati ​​a Sodoma al tramonto. L'incontro con Lot alla porta della città, l'ospitalità offerta, l'assedio della folla, la cecità degli aggressori e l'ordine di fuga costituiscono la storia più drammatica del ciclo Abramo. L’identità di questi esseri – angeli, manifestazioni divine, uomini dotati di poteri speciali – ha generato secoli di dibattito teologico.",
+      "referencias": [
+        "Gen 18:1-3",
+        "Gen 19:1-22"
+      ],
+      "ruta": [
+        "hebron",
+        "sodom"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sodoma è il simbolo biblico per eccellenza della città condannata. La sua distruzione mediante fuoco e zolfo, forse correlata all’attività sismica o vulcanica sulla faglia del Mar Morto, divenne il paradigma del giudizio divino sul male collettivo. Ma il dibattito su quale fosse esattamente il peccato di Sodoma ha generato letture molto diverse: la tradizione più letterale enfatizza la violenza sessuale, mentre Ezechiele la reinterpreta come orgoglio, sazietà e indifferenza verso i poveri – una lettura che ha enorme rilevanza per la teologia sociale contemporanea. Nell'Islam, la città di Lut (Lot) viene distrutta come punizione divina per coloro che hanno rifiutato il profeta.",
+    "religiones_presentes": [
+      "Politeismo Cananeo (periodo pre-distruzione)",
+      "Patriarcale Yahvismo (presenza di Lot)",
+      "Tradizione profetica (Sodoma come paradigma di giudizio)"
+    ],
+    "mitos": [
+      {
+        "id": "destruccion-paradigma",
+        "nombre": "La distruzione di Sodoma: paradigma del giudizio divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 18-19; Ezequiel 16:49-50; Amós 4:11",
+          "fuente_secundaria": "Mishná, Sanhedrin 10:3; Talmud Bavli, Sanhedrin 109a; Yalkut Shimoni",
+          "descripcion": "Il Talmud discute a lungo del peccato di Sodoma: i Sodomiti negavano l'ospitalità, non permettevano ai poveri di mendicare e avevano un sistema legale perverso che formalmente legale nascondeva l'ingiustizia. Il letto di Sodoma (middat Sedom) divenne un proverbio: la tendenza a fare le cose formalmente giuste ma sostanzialmente ingiuste.",
+          "similitudes": "Il giudizio divino sulla città corrotta ha paralleli nel diluvio e nella distruzione di Gerico.",
+          "diferencias": "A differenza del diluvio (tutta l’umanità) e di Gerico (guerra santa), Sodoma viene distrutta per la sua intrinseca malvagità morale senza mediazione militare.",
+          "significado_teologico": "L'ospitalità verso gli stranieri (hakhnasat orechim) è un valore cardinale nell'ebraismo, definito in contrasto con il modello anti-Sodoma.",
+          "posible_relacion_cultural": "Racconti di città distrutte dalle divinità sono comuni nella letteratura del Bronzo Medio: il lamento sumero per la distruzione di Ur ha una struttura simile."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mateo 10:15; 2 Pedro 2:6-8; Judas 7; Apocalipsis 11:8",
+          "fuente_secundaria": "Agustín, Ciudad de Dios XVI; Tertuliano; Orígenes",
+          "descripcion": "Gesù usa Sodoma come misura del giudizio che verrà sulle città che rifiutano i suoi discepoli: il castigo di Sodoma sarà più sopportabile di quello di quelle città (Mt 10,15). L'Apocalisse chiama metaforicamente Gerusalemme Sodoma e Egitto (Ap 11:8). La lettera di Giuda interpreta il peccato di Sodoma come immoralità sessuale.",
+          "similitudes": "Sodoma come paradigma del giudizio divino è condiviso da tutte e tre le tradizioni.",
+          "diferencias": "Il NT sottolinea più la dimensione del rifiuto del messaggero divino che il peccato specifico di Sodoma.",
+          "significado_teologico": "Il rifiuto del messaggero divino (il missionario, il Figlio) è più grave dei peccati di Sodoma.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 7:80-84 (Al-A'raf); Sura 11:77-83 (Hud); Sura 26:160-175 (Ash-Shu'ara)",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya — Historia de Lut",
+          "descripcion": "Nel Corano, Lut (Lot) è un profeta inviato al suo popolo per avvertirlo dei suoi peccati. Il popolo respinse l'avvertimento e gli angeli che visitarono Lut. Allah distrusse la città con una pioggia di pietre di argilla cotta (hijara min Sijjil), capovolgendo la terra. La moglie di Lut, rimasta indietro, è stata distrutta insieme agli altri.",
+          "similitudes": "La struttura della storia – profeta, avvertimento rifiutato, distruzione, salvezza del credente – è identica in tutte e tre le tradizioni.",
+          "diferencias": "Nell'Islam Lut è un profeta con una missione esplicita; Nell'Antico Testamento Lot è un uomo giusto ma non un profeta. Il Corano sottolinea il rifiuto del profeta piuttosto che il peccato specifico.",
+          "significado_teologico": "La distruzione della città di Lut è la prova che Allah punisce coloro che rifiutano i suoi profeti e che nessun potere umano può resistere al giudizio divino.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

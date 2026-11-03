@@ -1,0 +1,151 @@
+{
+  "id": "troas",
+  "nombre": "Troas",
+  "tipo": "ciudad",
+  "lat": 39.7553,
+  "lng": 26.0889,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Port on the northwest coast of Asia Minor, near the site of ancient Troy.",
+  "altitud_m": 30,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "wood"
+  ],
+  "importancia_estrategica": "Gateway to Europe from Asia; Aegean crossing point.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tro_h1",
+        "titulo": "The Macedonian vision",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul has a vision of a Macedonian asking for help; crosses to Europe.",
+        "referencias": [
+          "Acts 16:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "tro_h2",
+        "titulo": "Resurrection of Eutychus",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Eutychus falls from the third floor asleep during Paul's sermon and is resurrected.",
+        "referencias": [
+          "Acts 20:7-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Eutico"
+        ]
+      },
+      {
+        "id": "tro_h3",
+        "titulo": "Paul awaits his companions in Troas",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul waits in Tróas for seven days preaching and celebrating the breaking of bread.",
+        "referencias": [
+          "Acts 20:6-7"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tro_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Missionary",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He received the vision in Troad that changed the direction of the gospel towards Europe.",
+        "referencias": [
+          "Acts 16:8"
+        ],
+        "ruta": [
+          "troas",
+          "philippi",
+          "corinth"
+        ]
+      },
+      {
+        "id": "tro_p2",
+        "nombre": "Luke",
+        "rol": "Doctor and evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "Joined Paul in Troad; narrator of 'we' in Acts.",
+        "referencias": [
+          "Acts 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tro_p3",
+        "nombre": "Eutychus",
+        "rol": "resurrected young man",
+        "periodo": "s. I AD",
+        "descripcion": "He fell asleep and died when he fell; was resurrected by Paul.",
+        "referencias": [
+          "Acts 20:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Hellenistic port with Trojan heritage; geographical and spiritual turning point where the gospel crossed into Europe.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tro_m1",
+          "nombre": "The Macedonian vision",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "In Tróas Paul receives the divine call to bring the gospel to Europe, an axial moment in Christian history.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In Tróas Paul receives the divine call to bring the gospel to Europe, an axial moment in Christian history.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

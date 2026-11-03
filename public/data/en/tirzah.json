@@ -1,0 +1,157 @@
+{
+  "id": "tirzah",
+  "nombre": "Tirsa",
+  "tipo": "ciudad",
+  "lat": 32.27136869937776,
+  "lng": 35.29430386845415,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquest by Joshua, inheritance from the daughters of Zelophehad"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Early capital of the northern kingdom"
+    }
+  ],
+  "descripcion_geo": "Canaanite city of notable beauty, as described in the biblical text itself, which became one of the first capitals of the northern kingdom of Israel after the division of the united kingdom, before the definitive transfer of the capital to Samaria by Omri.",
+  "altitud_m": 440,
+  "clima": "Mountain Mediterranean — hot, dry summers, cold winters with rain, typical of the northern hills of Israel.",
+  "recursos": [
+    "Landscape beauty recognized in the biblical text",
+    "Early administrative capital of the northern kingdom",
+    "Fertile agricultural land in the region"
+  ],
+  "importancia_estrategica": "Tirzah serves as the successive capital of several northern Israel kings following the division of the kingdom—including Jeroboam, Baasha, Elah, and the early years of Omri—until the latter decides to permanently move the capital to the newly built Samaria, marking the end of Tirzah's period as the seat of northern Israelite political power.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_tirsa",
+      "nombre": "Canaanites",
+      "descripcion": "Original population of Tirza, city whose king appears among those defeated by Joshua in the list of Canaan's conquest.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "israelitas_tirsa",
+      "nombre": "Northern Kingdom (Israel)",
+      "descripcion": "Population that inhabited Tirsa during its period as successive capital of several kings of the northern kingdom after the division of the united monarchy.",
+      "religion": "Yahwism (with later syncretism under Jeroboam)",
+      "periodo": "c. 930–880 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-derrota-rey-tirsa",
+      "titulo": "Joshua defeats the king of Tirzah",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Tirzah appears in the list of the thirty-one Canaanites kings defeated by Joshua during the conquest of Canaan, confirming its status as an independent city-state before the Israelite occupation.",
+      "referencias": [
+        "Josh 12:24"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "zelofehad-tirsa-herencia",
+      "titulo": "The daughters of Zelophehad and the female inheritance",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Mahla, Noah, Hogla, Milcah, and Tirzah, daughters of Zelophehad of the tribe of Manasseh (the latter possibly eponymous of the city), present their case to Moses for lacking male siblings to inherit, obtaining the legal right to inherit their father's land, establishing a significant legal precedent for female inheritance rights in the absence of male offspring.",
+      "referencias": [
+        "Num 27:1-11"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "tirsa-capital-reino-norte",
+      "titulo": "Tirzah as successive capital of the northern kingdom",
+      "fecha": "c. 930–880 BC",
+      "descripcion": "After the division of the united kingdom, Tirzah became the residence and capital of several successive kings of Israel—Jeroboam, Baasha, Elah, and the beginning of the reign of Omri—until the latter definitively moved the capital to the new city of Samaria.",
+      "referencias": [
+        "1 Kgs 14:17",
+        "1 Kgs 15:33",
+        "1 Kgs 16:23-24"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_tirsa",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "Defeat King Canaanite of Tirzah in his extensive campaign of conquest, integrating the city into Israelite territory.",
+      "referencias": [
+        "Josh 12:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "hijas_zelofehad_tirsa",
+      "nombre": "Daughters of Zelophehad",
+      "rol": "Claimants of the right of female inheritance",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "They establish before Moses a significant legal precedent on the right of women to inherit their paternal land in the absence of male brothers, an episode that possibly gives its name to the future city of Tirzah.",
+      "referencias": [
+        "Num 27:1-11",
+        "Num 36:1-12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "omri_tirsa",
+      "nombre": "Omri",
+      "rol": "King of Israel, founder of Samaria",
+      "periodo": "hierro_2",
+      "descripcion": "He initially reigns from Tirzah before moving the capital of the northern kingdom to the new city of Samaria, a decision that marks the definitive end of Tirzah's period as the seat of Israelite political power.",
+      "referencias": [
+        "1 Kgs 16:23-24"
+      ],
+      "ruta": [
+        "tirzah",
+        "samaria"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tirsa connects two episodes of very different relevance: the establishment of a significant legal precedent on female inheritance rights in the Mosaic cycle, and centuries later, its purely political function as the early and unstable capital of the northern kingdom, marked by successive conspiracies and royal assassinations until the final consolidation of power under Omri in Samaria, reflecting the political instability characteristic of the early years of the divided kingdom.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "herencia-hijas-zelofehad-tirsa",
+        "nombre": "The legal precedent of the daughters of Zelophehad",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 27:1-11; Núm 36:1-12",
+          "fuente_secundaria": "Talmud Babilónico, Bava Batra 119a-120a (discusión extensa sobre el caso legal de las hijas de Zelofehad como precedente halájico)",
+          "descripcion": "Jewish tradition extensively develops the case of Zelophehad's daughters—including the eponymous Tirzah—as fundamental legal precedent for female inheritance rights, discussing in detail the halakhic implications of the case and its subsequent application to similar situations of absence of direct male descent.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The legal case demonstrates the openness of the Mosaic legal system to adapt and interpret inheritance laws in situations not explicitly provided for, through direct consultation with YHWH through Moses.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

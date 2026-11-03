@@ -1,0 +1,174 @@
+{
+  "id": "carmel_mount",
+  "nombre": "Monte Carmelo",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.729350157734,
+  "lng": 35.04978957235391,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II: confronto di Elia con i profeti di Baal"
+    }
+  ],
+  "descripcion_geo": "Catena montuosa boscosa che si estende verso il Mediterraneo nella parte settentrionale del Israele, nota per la sua fertilità e la bellezza paesaggistica più volte citata nella letteratura poetica biblica e teatro di uno degli scontri religiosi più drammatici dell'intero Antico Testamento.",
+  "altitud_m": 530,
+  "clima": "Mediterraneo montano costiero: estati calde con una certa umidità dovuta alla vicinanza del mare, inverni miti con piogge abbondanti che sostengono la caratteristica vegetazione forestale.",
+  "recursos": [
+    "Abbondante vegetazione forestale (poeticamente citata come simbolo di fertilità)",
+    "Posizione elevata con vista sul Mediterraneo",
+    "Palcoscenico dell'altare di YHWH ricostruito da Elia"
+  ],
+  "importancia_estrategica": "Il Monte Carmelo è teatro dello scontro decisivo tra il profeta Elia e i quattrocentocinquanta profeti di Baal durante il regno di Achab, episodio che funge da culmine della lotta contro l'istituzionalizzazione del culto baalista promossa da Jezebel, e che conferma pubblicamente l'esclusività di YHWH come vero Dio di Israele.",
+  "otros_habitantes": [
+    {
+      "id": "profetas_baal_carmel",
+      "nombre": "Quattrocentocinquanta profeti di Baal",
+      "descripcion": "Sacerdoti del culto baalista sponsorizzato dalla regina Jezebel, convocati al Carmelo per un confronto pubblico con Elia sull'identità del vero Dio.",
+      "religion": "Politeismo Cananeo: culto di Baal",
+      "periodo": "C. 860 a.C"
+    },
+    {
+      "id": "pueblo_israel_carmel",
+      "nombre": "Villaggio di Israele riunito",
+      "descripcion": "Folla convocata da Elia al Carmelo, presentata in bilico 'tra due pensieri' riguardo se seguire YHWH o Baal, testimone dello scontro decisivo.",
+      "religion": "Sincretismo yahwista-baalista (situazione pre-confronto)",
+      "periodo": "C. 860 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-convoca-carmel",
+      "titulo": "Elia convoca Israele e i profeti di Baal al Carmelo",
+      "fecha": "c. 860 a.C.",
+      "descripcion": "Elia sfida direttamente il popolo a decidere tra YHWH e Baal, proponendo una prova pubblica sul Monte Carmelo: ciascuna parte preparerà un sacrificio senza fuoco, e il dio che risponderà mandando fuoco dal cielo sarà riconosciuto come il vero Dio.",
+      "referencias": [
+        "1 Re 18:19-24"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "fracaso-profetas-baal-carmel",
+      "titulo": "I profeti di Baal piangono invano per ore",
+      "fecha": "c. 860 a.C.",
+      "descripcion": "Dalla mattina fino a mezzogiorno, i profeti di Baal gridano, danzano e si laceravano ritualmente davanti al loro altare senza ricevere alcuna risposta, mentre Elia ironizza suggerendo che forse il loro dio sta meditando, è occupato, in viaggio o dorme.",
+      "referencias": [
+        "1 Re 18:25-29"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "fuego-yhwh-carmel",
+      "titulo": "Il fuoco di YHWH consuma il sacrificio di Elia",
+      "fecha": "c. 860 a.C.",
+      "descripcion": "Elia ripara l'altare rovesciato di YHWH, prepara il sacrificio, lo immerge deliberatamente con acqua tre volte per escludere qualsiasi inganno e prega brevemente; Il fuoco di YHWH scende subito e consuma l'olocausto, la legna, le pietre e perfino l'acqua della fossa, facendo cadere a terra tutto il popolo esclamando 'YHWH è il Dio! YHWH è il Dio!', dopo di che Elia ordina che i profeti di Baal vengano giustiziati nel torrente Kishon.",
+      "referencias": [
+        "1 Re 18:30-40"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias_carmel",
+      "nombre": "Elia",
+      "rol": "Profeta di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Nel Carmelo è protagonista del confronto religioso più decisivo di tutto il suo ministero, dimostrando pubblicamente attraverso il fuoco disceso dal cielo l'esclusività di YHWH di fronte al culto istituzionalizzato di Baal.",
+      "referencias": [
+        "1 Re 18:17-40"
+      ],
+      "ruta": [
+        "jabbok",
+        "sidon",
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "acab_carmel",
+      "nombre": "Achab",
+      "rol": "Re di Israele, testimone dello scontro",
+      "periodo": "c. 874–853 a.C.",
+      "descripcion": "Lo testimonia lo scontro tra Elia e i profeti di Baal, pressati dai tre anni di siccità annunciati in precedenza dallo stesso profeta come punizione per l'apostasia promossa da sua moglie Jezebel.",
+      "referencias": [
+        "1 Re 18:17-19",
+        "1 Re 18:41-46"
+      ],
+      "ruta": [
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "profetas_baal_carmel_personaje",
+      "nombre": "Profeti di Baal",
+      "rol": "Sacerdoti sconfitti e giustiziati",
+      "periodo": "hierro_2",
+      "descripcion": "Dopo il pubblico fallimento della loro intercessione davanti a Baal e l'inequivocabile manifestazione del potere di YHWH, vengono catturati e giustiziati per ordine di Elia nel torrente Kishon.",
+      "referencias": [
+        "1 Re 18:40"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "kishon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Monte Carmelo è il teatro del più famoso e drammaticamente narrato confronto religioso dell'intero Antico Testamento tra lo Yahwismo esclusivo e il sincretismo baalista istituzionalizzato dalla corte di Achab e Jezebel; l'episodio funziona come una dimostrazione pubblica e inequivocabile, davanti a tutto il popolo riunito, che YHWH è l'unico vero Dio capace di rispondere con vera potenza, in diretto contrasto con la silenziosa impotenza di Baal nonostante ore di frenetica invocazione da parte dei suoi profeti.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo - culto Baal (sponsorizzato istituzionalmente da Jezebel)"
+    ],
+    "mitos": [
+      {
+        "id": "fuego-celestial-carmel-mito",
+        "nombre": "Il fuoco celeste del Carmelo come manifestazione del vero Dio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 18:17-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la confrontación del Carmelo como momento culminante de la lucha de Elías contra la idolatría institucionalizada, y discusiones sobre la excepcionalidad del sacrificio ofrecido fuera de Jerusalén",
+          "descripcion": "La tradizione ebraica valorizza il confronto del Carmelo come uno dei momenti più decisivi di tutta la letteratura profetica nell'affermazione pubblica e inequivocabile del monoteismo yahvista, discutendo ulteriormente la questione halachica di come Elia abbia potuto offrire un legittimo sacrificio al di fuori del Tempio di Gerusalemme, solitamente risolto facendo appello ad un'autorizzazione profetica eccezionale in un momento di estrema crisi nazionale.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Elia come figura profetica dall'eccezionale potere manifestato in questo episodio.",
+          "diferencias": null,
+          "significado_teologico": "Il fuoco del Carmelo dimostra pubblicamente e inconfutabilmente che YHWH è l'unico Dio con vero potere, smascherando la completa impotenza degli idoli nonostante la frenetica devozione dei suoi seguaci.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Re 18:17-40 (recepción patrística y popular sobre Elías como modelo de fe confrontativa)",
+          "fuente_secundaria": "Comentarios patrísticos que citan a Elías del Carmelo como ejemplo de oración eficaz (referenciado en Stg 5:17-18)",
+          "descripcion": "La tradizione cristiana riprende l’episodio del Carmelo, citato esplicitamente nella Lettera di Giacomo come esempio dell’efficacia della preghiera dei giusti, generalizzando il confronto specifico contro Baal verso un principio più ampio circa la forza della preghiera fervente e la fiducia incrollabile nella risposta divina.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento dell'episodio come dimostrazione decisiva del potere divino sull'idolatria.",
+          "diferencias": "La lettura cristiana, seguendo l'Epistola di Giacomo, tende a generalizzare l'episodio verso il principio universale dell'efficacia della preghiera dei giusti, al di là del contesto specifico del confronto monoteistico contro il Baalismo.",
+          "significado_teologico": "L'episodio diventa un esempio neotestamentario citato direttamente del potere di trasformazione della preghiera fervente offerta con fede genuina.",
+          "posible_relacion_cultural": "Accoglienza condivisa di Elia come figura profetica di eccezionale potere comune al giudaismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 37:123-132 (referencias a Ilyas y su confrontación contra la idolatría de Baal)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre Ilyas como profeta enviado contra el culto a Baal",
+          "descripcion": "Il Corano riconosce Ilyas (Elia) come un profeta inviato appositamente per affrontare il suo popolo per l'idolatria del culto Baal, in chiara corrispondenza tematica con l'episodio biblico del Carmelo, pur senza dettagliare la scena specifica del fuoco che scende sul sacrificio.",
+          "similitudes": "Riconoscimento condiviso di Elia/Ilyas come profeta inviato appositamente contro l'idolatria a Baal, tema centrale anche nel Carmelo.",
+          "diferencias": "Il Corano non descrive nei dettagli l'episodio specifico dello scontro del fuoco celeste al Carmelo, concentrandosi più in generale sulla missione profetica di Ilyas contro l'idolatria del suo popolo.",
+          "significado_teologico": "Ilyas fa parte della catena di profeti riconosciuti dall'Islam inviati appositamente per contrastare l'idolatria di Baal tra i rispettivi popoli.",
+          "posible_relacion_cultural": "Riconoscimento condiviso di Elia/Ilyas come profeta fondamentale nella comune tradizione abramitica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

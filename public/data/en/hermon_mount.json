@@ -1,0 +1,264 @@
+{
+  "id": "hermon_mount",
+  "nombre": "Mount Hermon",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 33.42,
+  "lng": 35.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 28,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Late Bronze - Roman"
+    }
+  ],
+  "descripcion_geo": "Mountain range on Israel's northern border with Syria and Lebanon, with its highest point at 2,814 m. Covered in snow much of the year.",
+  "altitud_m": 2814,
+  "clima": "alpine-mediterranean",
+  "recursos": [
+    "snow",
+    "water",
+    "cedar forests"
+  ],
+  "importancia_estrategica": "Northern border of the land of Israel; Its waters feed the Jordan and the lake of Galilee.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "her_h1",
+      "titulo": "The dew of Hermon",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Psalm 133 describes brotherly unity as the dew of Hermon descending on Mount Zion.",
+      "referencias": [
+        "Ps 133:3"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "her_h2",
+      "titulo": "The Transfiguration on the 'high mountain'",
+      "fecha": "ca. 29 AD",
+      "descripcion": "The majority tradition identifies Hermon as 'the high mountain' where Jesus was transfigured before Peter, James and John.",
+      "referencias": [
+        "Matt 17:1",
+        "Mark 9:2"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    },
+    {
+      "id": "her_h3",
+      "titulo": "Zion and Hermon cry out for God",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Psalm 42 mentions the land of Jordan and the heights of Hermon as a place of mourning and hope in God.",
+      "referencias": [
+        "Ps 42:6"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "her_p1",
+      "nombre": "Jesus of Nazareth",
+      "rol": "transfigured messiah",
+      "periodo": "ca. 29 AD",
+      "descripcion": "According to tradition, he was transfigured in Hermon; His face shone like the sun.",
+      "referencias": [
+        "Matt 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p2",
+      "nombre": "Peter",
+      "rol": "Witness Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "Eyewitness of the Transfiguration on the high mountain; He evoked the event in his second letter.",
+      "referencias": [
+        "2 Pet 1:16-18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p3",
+      "nombre": "Baal-hermon",
+      "rol": "Canaanite deity of the place",
+      "periodo": "Época cananea",
+      "descripcion": "Hermon was a place of worship to Baal; his primitive name 'Baal-Hermon' attests to this (Judg 3:3).",
+      "referencias": [
+        "Judg 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Holy mountain on the northern boundary of Israel; place of worship Canaanite (Baal-Hermón) and possible scene of the Transfiguration of Jesus.",
+    "religiones_presentes": [
+      "paganism_Canaanite",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "her_m1",
+        "nombre": "The mountain of the gods",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Hermon was 'the Sinai of the north': the place where the Canaanites gods met according to Ugaritic mythology.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Hermon was 'the Sinai of the north': the place where the Canaanites gods met according to Ugaritic mythology.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Transfiguration on the high mountain reveals the divine glory of Jesus before selected witnesses.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Transfiguration on the high mountain reveals the divine glory of Jesus before selected witnesses.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "her_nt_h1",
+        "titulo": "The Transfiguration",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Jesus climbs the high mountain (tradition = Hermon) with Peter, James and John; he transfigures and converses with Moses and Elijah.",
+        "referencias": [
+          "Matt 17:1-8"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "her_nt_h2",
+        "titulo": "Peter wants to build stores",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Peter, excited, proposes to build three stores; A cloud surrounds them and the voice of the Father speaks.",
+        "referencias": [
+          "Matt 17:4-5"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "her_nt_h3",
+        "titulo": "The descent and the instruction of silence",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Jesus orders the three not to tell the vision until he rises from the dead.",
+        "referencias": [
+          "Matt 17:9"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "her_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "glorified messiah",
+        "periodo": "ca. 29 AD",
+        "descripcion": "He was transfigured on the high mountain, revealing his divine glory.",
+        "referencias": [
+          "Matt 17:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p2",
+        "nombre": "Peter",
+        "rol": "Eyewitness Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Witness of the Transfiguration; He evoked it as the foundation of his apostolic testimony.",
+        "referencias": [
+          "2 Pet 1:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p3",
+        "nombre": "Moses and Elijah",
+        "rol": "Representatives of the Law and the Prophets",
+        "periodo": "s. I AD",
+        "descripcion": "They appeared in the Transfiguration as witnesses that Jesus fulfills all the previous revelation.",
+        "referencias": [
+          "Matt 17:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Hermon as a 'sacred mountain' where the glory of God was manifested in the Transfiguration.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "her_nt_m1",
+          "nombre": "The mountain of glory",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Hermon/high mountain is the Sinai of the NT: where God reveals his glorified Son, fulfilling the Law and the Prophets.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Hermon/high mountain is the Sinai of the NT: where God reveals his glorified Son, fulfilling the Law and the Prophets.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

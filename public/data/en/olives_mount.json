@@ -1,0 +1,257 @@
+{
+  "id": "olives_mount",
+  "nombre": "Mount of Olives",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.778,
+  "lng": 35.247,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Iron II - Roman"
+    }
+  ],
+  "descripcion_geo": "Mountain ridge east of Jerusalem separated from the Temple Mount by the Kidron Valley. Covered with olive groves since ancient times.",
+  "altitud_m": 820,
+  "clima": "Mediterranean",
+  "recursos": [
+    "olive oil",
+    "olive groves",
+    "panoramic view by Jerusalem"
+  ],
+  "importancia_estrategica": "Holy place for Judaism (scene of Zechariah's prophecy) and the center of the last days of Jesus in Jerusalem.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oli_h1",
+      "titulo": "David flees through the Mount of Olives",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "David ascends the Mount of Olives crying barefoot when fleeing the rebellion of his son Absalom.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "personajes_clave": [
+        "David",
+        "Absalón"
+      ]
+    },
+    {
+      "id": "oli_h2",
+      "titulo": "Ezekiel sees the Glory leave the Temple",
+      "fecha": "592 BC",
+      "descripcion": "The Glory of God leaves the Temple of Jerusalem and stops on the Mount of Olives.",
+      "referencias": [
+        "Ezek 11:23"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "oli_h3",
+      "titulo": "Zechariah's prophecy about the mountain",
+      "fecha": "ca. 520 BC",
+      "descripcion": "Zechariah prophesies that on the day of the Lord his feet will rest on the Mount of Olives and it will split in two.",
+      "referencias": [
+        "Zech 14:4"
+      ],
+      "personajes_clave": [
+        "Zacarías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oli_p1",
+      "nombre": "David",
+      "rol": "King of Israel on the run",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "He ascended the Mount of Olives weeping as he fled from Absalom; symbol of passion by Jesus.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p2",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of exile",
+      "periodo": "593-571 BC",
+      "descripcion": "He saw the Glory of God rest on the mountain before Jerusalem was destroyed.",
+      "referencias": [
+        "Ezek 11:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p3",
+      "nombre": "Zechariah",
+      "rol": "post-exilic prophet",
+      "periodo": "520-480 BC",
+      "descripcion": "He prophesied that the Messiah will rest on the Mount of Olives on the final day.",
+      "referencias": [
+        "Zech 14:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sacred mountain between Jerusalem and the desert; scene of messianic prophecies and the final drama of Jesus's life.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "oli_m1",
+        "nombre": "The mountain of divine return",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11:23",
+          "fuente_secundaria": "",
+          "descripcion": "The Glory of God stopped on the mountain when leaving the Temple (Ez 11:23); there he will return at the end (Zech 14:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Glory of God stopped on the mountain when leaving the Temple (Ez 11:23); there he will return at the end (Zech 14:4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Acts 1:9-12",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus ascended to heaven from the Mount of Olives (Acts 1:9-12); The angels promised that he will return in the same way.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus ascended to heaven from the Mount of Olives (Acts 1:9-12); The angels promised that he will return in the same way.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "oli_nt_h1",
+        "titulo": "The triumphal entry from the Mount of Olives",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus descends the Mount of Olives on a donkey amidst cheers from the crowd; Zechariah 9:9 is fulfilled.",
+        "referencias": [
+          "Matt 21:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "oli_nt_h2",
+        "titulo": "The eschatological discourse on the Mount of Olives",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Sitting on the mount in front of the Temple, Jesus announces the destruction of Jerusalem and the signs of the end.",
+        "referencias": [
+          "Matt 24:3-25:46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "oli_nt_h3",
+        "titulo": "Gethsemane: the agony in the garden",
+        "fecha": "ca. 30 AD",
+        "descripcion": "In the garden at the foot of the Mount of Olives, Jesus prays until he sweats blood before being arrested.",
+        "referencias": [
+          "Matt 26:36-56"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "oli_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah",
+        "periodo": "ca. 30 AD",
+        "descripcion": "He prayed, taught and was arrested on the Mount of Olives; He ascended to heaven from there.",
+        "referencias": [
+          "Acts 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p2",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He slept in Gethsemane and cut off the servant's ear when he was arrested Jesus.",
+        "referencias": [
+          "Matt 26:51"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p3",
+        "nombre": "Judas Iscariot",
+        "rol": "traitor disciple",
+        "periodo": "s. I AD",
+        "descripcion": "He knew the orchard and led the mob to the arrest of Jesus.",
+        "referencias": [
+          "John 18:2"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The Mount of Olives was the central stage of the passion, eschatological discourse and ascension of Jesus.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "oli_nt_m1",
+          "nombre": "The mountain of passion and ascension",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The Mount of Olives fulfills Zechariah's prophecy: the Messiah descends in triumph and ascends in glory from there.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Mount of Olives fulfills Zechariah's prophecy: the Messiah descends in triumph and ascends in glory from there.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

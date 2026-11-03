@@ -1,0 +1,147 @@
+{
+  "id": "derbe",
+  "nombre": "Duty",
+  "tipo": "ciudad",
+  "lat": 37.3578,
+  "lng": 33.2861,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Border city of Lycaonia in southern Galatia, on the edge of the Taurus Mountains.",
+  "altitud_m": 1100,
+  "clima": "continental-dry",
+  "recursos": [
+    "agriculture",
+    "cattle raising"
+  ],
+  "importancia_estrategica": "Last point of Paul's first missionary trip before returning.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "der_h1",
+        "titulo": "Evangelization of Derbe",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Paul and Barnabas preach in Derbe and make many disciples.",
+        "referencias": [
+          "Acts 14:20-21"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "der_h2",
+        "titulo": "Return point of the first trip",
+        "fecha": "ca. 47-48 AD",
+        "descripcion": "From Derbe they return consolidating churches: Lystra, Iconium, Antioch of Pisidia.",
+        "referencias": [
+          "Acts 14:21-23"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "der_h3",
+        "titulo": "Gaius of Derbe",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Gaius, a native of Derbe, accompanies Paul on his third trip.",
+        "referencias": [
+          "Acts 20:4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Gayo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "der_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Missionary",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He arrived in Derbe after the stoning in Lystra; founded church.",
+        "referencias": [
+          "Acts 14:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "der_p2",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He accompanied Paul in the evangelization of Derbe.",
+        "referencias": [
+          "Acts 14:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "der_p3",
+        "nombre": "Gay",
+        "rol": "Paul Contributor",
+        "periodo": "s. I AD",
+        "descripcion": "Born in Derbe, he accompanied Paul on the trip to Macedonia.",
+        "referencias": [
+          "Acts 20:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Border city where the gospel penetrated without documented resistance; milestone of the first missionary journey.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "der_m1",
+          "nombre": "The mission without resistance",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Derbe received the gospel peacefully, contrasting with the persecutions in neighboring cities.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Derbe received the gospel peacefully, contrasting with the persecutions in neighboring cities.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

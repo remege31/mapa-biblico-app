@@ -1,0 +1,156 @@
+{
+  "id": "negeb",
+  "nombre": "Negev",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.3,
+  "lng": 34.2,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 42,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Middle bronze - Roman"
+    }
+  ],
+  "descripcion_geo": "Semi-arid region south of Israel, between the Sinai desert and the Dead Sea. Land of patriarchs and caravan route.",
+  "altitud_m": 400,
+  "clima": "arid-desert",
+  "recursos": [
+    "grazing",
+    "caravan trade",
+    "copper"
+  ],
+  "importancia_estrategica": "Passage area between Egypt and Canaan; land of Abraham, Isaac and the first communities of Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neg_h1",
+      "titulo": "Abraham lives in Negev",
+      "fecha": "ca. 1900-1800 BC",
+      "descripcion": "Abraham is set between Kadesh and Shur in the Negev; Isaac is born there and Hagar finds water in the desert.",
+      "referencias": [
+        "Gen 20:1",
+        "Gen 21:14"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Agar",
+        "Sara"
+      ]
+    },
+    {
+      "id": "neg_h2",
+      "titulo": "Israel in the desert of Negev",
+      "fecha": "ca. 1260-1220 BC",
+      "descripcion": "Israel wanders around the Negev and Sinai for forty years as punishment for the spies' disbelief.",
+      "referencias": [
+        "Num 13-14"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "neg_h3",
+      "titulo": "John the Baptist in the Judean Desert",
+      "fecha": "ca. 26-29 AD",
+      "descripcion": "John the Baptist preaches in the Judean desert (edges of the Negev): 'Repent, for the kingdom of heaven is at hand.'",
+      "referencias": [
+        "Matt 3:1-4"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neg_p1",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "He lived and camped in the Negev; There he received angelic visits and fathered Isaac.",
+      "referencias": [
+        "Gen 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p2",
+      "nombre": "Caleb",
+      "rol": "Explorer and conqueror",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "Only explorer along with Joshua who trusted God when recognizing Negev; received Hebron as inheritance.",
+      "referencias": [
+        "Num 13:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p3",
+      "nombre": "John the Baptist",
+      "rol": "Prophet and precursor",
+      "periodo": "ca. 5 BC–29 AD",
+      "descripcion": "He lived and preached in the Judean Desert, on the margins of the Negev.",
+      "referencias": [
+        "Matt 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The southern desert: place of testing, encounter with God and purification. The patriarchs inhabited it; Israel traveled through it in the exodus; John the Baptist used it as a platform.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "neg_m1",
+        "nombre": "The desert as a divine meeting place",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Hos 2:14",
+          "fuente_secundaria": "",
+          "descripcion": "The Negev is a land of patriarchs and pilgrimage; In the Bible, the desert is the place where God speaks to the heart (Hos 2:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Negev is a land of patriarchs and pilgrimage; In the Bible, the desert is the place where God speaks to the heart (Hos 2:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Isa 40:3",
+          "fuente_secundaria": "",
+          "descripcion": "John the Baptist 'prepares the way of the Lord' in the wilderness, fulfilling Isa 40:3.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "John the Baptist 'prepares the way of the Lord' in the wilderness, fulfilling Isa 40:3.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Islam venerates Ibrahim (Abraham) who inhabited the region; The desert is a land of prophets.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam venerates Ibrahim (Abraham) who inhabited the region; The desert is a land of prophets.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

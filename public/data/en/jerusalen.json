@@ -1,0 +1,369 @@
+{
+  "id": "jerusalen",
+  "nombre": "Jerusalem",
+  "tipo": "ciudad",
+  "lat": 31.7683,
+  "lng": 35.2137,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 660,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Monarchy"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Reconstruction"
+    }
+  ],
+  "descripcion_geo": "City in the mountains of Judah, at 754 m altitude, at the crossroads of the trade routes between Egypt and Mesopotamia. Strategic position on a defensible plateau between the Mount of Olives to the east and the Valley of Hinnom to the south. Access to the Guijón spring, an essential water source for its continued occupation.",
+  "altitud_m": 754,
+  "clima": "Mediterranean — hot, dry summers, cool winters with occasional rain",
+  "recursos": [
+    "Water (Guijon spring)",
+    "limestone",
+    "Trade routes",
+    "Elevated defensive position"
+  ],
+  "importancia_estrategica": "Crossroads between the coastal route (Via Maris) and the highland road. Religious and political capital of the United Kingdom of Israel and the kingdom of Judah.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos",
+      "nombre": "Jebusites",
+      "descripcion": "Original Canaanite town of Jerusalem, called Jebus before the conquest of David. They partially coexisted with Israel after the capture of the city.",
+      "religion": "Canaanite polytheism — worship of Baal and Asherah",
+      "periodo": "Prior to c. 1000 BC"
+    },
+    {
+      "id": "cananeos",
+      "nombre": "Canaanites",
+      "descripcion": "Semitic inhabitants of the Levant, whose polytheism (Baal, Asherah, El) was in permanent tension with Israelite monotheism. Advanced urban culture with writing and metallurgy.",
+      "religion": "Polytheism — pantheon headed by El and Baal",
+      "periodo": "c. 3000–1200 BC"
+    },
+    {
+      "id": "filisteos",
+      "nombre": "Philistines",
+      "descripcion": "Sea people settled on the southwestern coast of Canaan. Military rivals of Israel during the period of the Judges and early monarchy.",
+      "religion": "Polytheism — Dagon as main god",
+      "periodo": "c. 1200–600 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-david",
+      "titulo": "David conquers Jerusalem",
+      "fecha": "c. 1000 BC",
+      "descripcion": "David captures the Jebusite city of Zion and makes it the capital of the united kingdom of Israel, moving the Ark of the Covenant from Quiryat-Yearim. The gesture unifies the northern and southern tribes under a single political and religious center.",
+      "referencias": [
+        "2 Sam 5:6-10",
+        "1 Chr 11:4-9",
+        "2 Sam 6:1-19"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "templo-salomon",
+      "titulo": "Solomon builds the First Temple",
+      "fecha": "c. 957 BC",
+      "descripcion": "Construction of the Temple on Mount Moria in seven years, with materials brought from Lebanon (cedars from Tyre) and Phoenician craftsmen. The Ark of the Covenant is installed in the Holy of Holies. The Temple becomes the axis of the centralized Yahwist cult.",
+      "referencias": [
+        "1 Kgs 6:1-38",
+        "1 Kgs 8:1-66",
+        "2 Chr 3:1-17"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "destruccion-babilonica",
+      "titulo": "Babylonian Destruction and Exile",
+      "fecha": "586 BC",
+      "descripcion": "Nebuchadnezzar II destroys the Temple, demolishes the walls and deports the Jewish elite to Babylon. End of the monarchical period and beginning of the Babylonian Exile. The event marks a theological turning point: Yahweh acts through the enemy as an instrument of judgment.",
+      "referencias": [
+        "2 Kgs 25:1-21",
+        "Jer 52:1-30",
+        "Lam 1:1-22"
+      ],
+      "personajes_clave": [
+        "jeremias",
+        "nabucodonosor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david",
+      "nombre": "David",
+      "rol": "Founding king of the Davidic dynasty",
+      "periodo": "hierro_2",
+      "descripcion": "Bethlehem shepherd who becomes king. He conquers Jerusalem and establishes it as a political and religious capital. His reign marks the territorial apogee of the united kingdom of Israel.",
+      "referencias": [
+        "2 Sam 5:1-25",
+        "2 Sam 7:1-29",
+        "1 Kgs 2:1-12"
+      ],
+      "ruta": [
+        "bethlehem",
+        "jerusalen",
+        "hebron"
+      ]
+    },
+    {
+      "id": "salomon",
+      "nombre": "Solomon",
+      "rol": "Builder King — First Temple",
+      "periodo": "hierro_2",
+      "descripcion": "Son of David, symbol of Israelite wisdom. Builder of the First Temple and organizer of the state. His reign represents the height of the united monarchy before the division of the kingdom.",
+      "referencias": [
+        "1 Kgs 3:1-28",
+        "1 Kgs 6:1-38",
+        "1 Kgs 11:1-43"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias",
+      "nombre": "Jeremiah",
+      "rol": "Prophet of the pre-exilic period",
+      "periodo": "hierro_2",
+      "descripcion": "Prophet who lived and preached during the destruction of Jerusalem. Direct witness to the collapse of Judah's kingdom. His lamentations are the most intimate testimony of the trauma of the Babylonian Exile.",
+      "referencias": [
+        "Jer 1:1-19",
+        "Jer 7:1-34",
+        "Jer 52:1-34",
+        "Lam 1:1-22"
+      ],
+      "ruta": [
+        "jerusalen",
+        "anathoth"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jerusalem is the center of Yahwist monotheism and the holiest city for all three Abrahamic traditions. In the OT period, the Temple of Solomon concentrates the official cult and defines the religious identity of Israel. The tension between the Yahwist faith and Canaanite polytheism is the great line of force in the religious history of the city.",
+    "religiones_presentes": [
+      "Yahwism (Israelite monotheism)",
+      "Polytheism Canaanite (Baal, Asherah)",
+      "Egyptian cults (period of influence)"
+    ],
+    "mitos": [
+      {
+        "id": "aqeda",
+        "nombre": "Sacrifice of Isaac (Aqedah)",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 22:1-19",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 55:4 — el Monte Moria como lugar donde Yahvé prueba a los justos; la Aqedá como modelo de sometimiento a prueba divina",
+          "descripcion": "The Mount Moria where Abraham offers Isaac is identified with the Temple Mount at Jerusalem. The Aqedah is the central text of Rosh Hashanah and a symbol of absolute obedience to Yahweh.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Foundation of the alliance between God and Israel. The ram provided as a substitute prefigures the cult sacrifice of the Temple.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 22:1-19 · Heb 11:17-19",
+          "fuente_secundaria": "Orígenes, Homilías sobre el Génesis VIII,6; tipología patrística: Isaac cargando la leña prefigura a Cristo cargando la cruz",
+          "descripcion": "Isaac carrying firewood to Mount Moria is read as a prefiguration of Christ carrying the cross. Abraham's willingness to sacrifice prefigures the Father's redemptive sacrifice.",
+          "diferencias": "Isaac does not die; The Christian typology completes what the OT anticipates.",
+          "similitudes": "Total obedience of the son to the father, vicarious substitution.",
+          "significado_teologico": "Central typology of the theology of atonement.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 37:99-111",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Saffat 37:99-111 — el hijo sacrificado identificado como Ismael; debate clásico de los exegetas sobre la identidad del hijo",
+          "descripcion": "The offered child is Ishmael, not Isaac. The event is commemorated on Eid al-Adha and is geographically associated with Mecca, not Jerusalem.",
+          "diferencias": "The son is Ishmael. The place is Mecca. The Quranic narration does not mention Mount Moria.",
+          "similitudes": "Abraham (Ibrahim)'s absolute obedience and willingness to sacrifice.",
+          "significado_teologico": "Foundation of total submission (Islam) to the divine will. Axis of the Islamic liturgical calendar.",
+          "posible_relacion_cultural": "Shared tradition of patriarch Abraham — basis of the three Abrahamic religions."
+        }
+      },
+      {
+        "id": "templo-morada",
+        "nombre": "The Temple as a divine abode",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 8:1-66 · Ez 40-48",
+          "fuente_secundaria": "Talmud Babilónico, Taanit 4a — la destrucción del Templo como trauma central; la Shekhiná que se retira",
+          "descripcion": "The Temple is the earthly abode of the Shekhina (divine presence). Axis of Jewish eschatology — the reconstruction of the Third Temple is messianic hope.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Temple defines the sacred geography of Judaism. Its destruction (586 BC and 70 AD) is the central historical trauma.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "John 2:19-21 · 1 Cor 3:16",
+          "fuente_secundaria": "Ireneo de Lyon, Adversus Haereses IV,36,4 — el cuerpo de Cristo como nuevo templo; eclesiología del templo como comunidad",
+          "descripcion": "The body of Christ is the new Temple that replaces the stone one. The Christian community is the temple of the Holy Spirit. The historical Temple becomes a type fulfilled in Christ.",
+          "diferencias": "The Stone Temple is surpassed — the divine presence dwells in the community, not in a building.",
+          "similitudes": "The logic of localized divine presence is maintained, but redefined.",
+          "significado_teologico": "Foundation of ecclesiology: the Church as the body of Christ.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jer_nt_h1",
+        "titulo": "The triumphant entry of Jesus",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus enters Jerusalem on a donkey amid messianic acclamations; The entire city is moved.",
+        "referencias": [
+          "Matt 21:1-11",
+          "Mark 11:1-10",
+          "Luke 19:28-44",
+          "John 12:12-19"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "jer_nt_h2",
+        "titulo": "The Last Supper and Gethsemane",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus celebrates Easter with his disciples in the Cenacle, institutes the Eucharist and prays in the garden of Gethsemane.",
+        "referencias": [
+          "Matt 26:17-56",
+          "Luke 22:7-53"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Juan",
+          "Judas Iscariote"
+        ]
+      },
+      {
+        "id": "jer_nt_h3",
+        "titulo": "Pentecost: birth of the Church",
+        "fecha": "ca. 30 AD",
+        "descripcion": "The Holy Spirit descends upon the disciples gathered at Jerusalem; Peter preaches and 3,000 people are baptized.",
+        "referencias": [
+          "Acts 2:1-41"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "apóstoles"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jer_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah",
+        "periodo": "ca. 6 BC–30 AD",
+        "descripcion": "He carried out his final ministry in Jerusalem: he purified the Temple, was judged, crucified and resurrected.",
+        "referencias": [
+          "Matt 21-28"
+        ],
+        "ruta": [
+          "nazareth",
+          "galilee",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "jer_nt_p2",
+        "nombre": "Pontius Pilate",
+        "rol": "Roman prefect of Judea",
+        "periodo": "26-36 AD",
+        "descripcion": "Governor who sentenced Jesus to death after the trial before the Sanhedrin.",
+        "referencias": [
+          "Matt 27:11-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer_nt_p3",
+        "nombre": "Peter",
+        "rol": "Apostle and leader of the Church",
+        "periodo": "s. I AD",
+        "descripcion": "He preached the first Christian sermon at Jerusalem on the day of Pentecost.",
+        "referencias": [
+          "Acts 2:14-36"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Center of Second Temple Judaism and cradle of the Christian movement; scene of the Passion, Resurrection and Pentecost.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "jer_nt_m1",
+          "nombre": "The Temple destroyed and rebuilt",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "The Temple of Solomon, destroyed and rebuilt, is the heart of Jewish identity.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Temple of Solomon, destroyed and rebuilt, is the heart of Jewish identity.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus prophesies the destruction of the Temple (70 AD) and announces that he himself is the new temple.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus prophesies the destruction of the Temple (70 AD) and announces that he himself is the new temple.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Jerusalem (Al-Quds) is the third holy city of Islam; The Dome of the Rock marks the site of Muhammad's night journey.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jerusalem (Al-Quds) is the third holy city of Islam; The Dome of the Rock marks the site of Muhammad's night journey.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

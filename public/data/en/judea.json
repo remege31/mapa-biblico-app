@@ -1,0 +1,165 @@
+{
+  "id": "judea",
+  "nombre": "Judea",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35.1,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Mountainous region south of the land of Israel, centered on Jerusalem and Bethlehem. Historical heart of the Jewish people.",
+  "altitud_m": 700,
+  "clima": "mediterranean-dry",
+  "recursos": [
+    "olive trees",
+    "cereals",
+    "cistern water"
+  ],
+  "importancia_estrategica": "Political and religious center of Judaism of the 1st century.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jud_h1",
+        "titulo": "Baptism of Jesus in the Jordan",
+        "fecha": "ca. 27 AD",
+        "descripcion": "John the Baptist baptizes Jesus in the Jordan River, border of Judea.",
+        "referencias": [
+          "Matt 3:13-17"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Juan el Bautista"
+        ]
+      },
+      {
+        "id": "jud_h2",
+        "titulo": "Temptation in the Judean Desert",
+        "fecha": "ca. 27 AD",
+        "descripcion": "Jesus fasts for 40 days in the desert and is tempted by the devil.",
+        "referencias": [
+          "Matt 4:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "jud_h3",
+        "titulo": "The Passion and Resurrection in Judea",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Arrest, crucifixion and resurrection of Jesus in Judea.",
+        "referencias": [
+          "Mark 14-16"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Poncio Pilato"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jud_p1",
+        "nombre": "John the Baptist",
+        "rol": "Prophet and precursor",
+        "periodo": "ca. 5 BC–29 AD",
+        "descripcion": "He preached in the Judean Desert and started the Baptist movement.",
+        "referencias": [
+          "Matt 3:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jud_p2",
+        "nombre": "Pontius Pilate",
+        "rol": "Roman prefect of Judea",
+        "periodo": "26-36 AD",
+        "descripcion": "Governor who sentenced Jesus to death.",
+        "referencias": [
+          "Matt 27:11-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jud_p3",
+        "nombre": "Herod the Great",
+        "rol": "King of Judea",
+        "periodo": "37-4 BC",
+        "descripcion": "Builder of the expanded Second Temple; He reigned over Judea at birth Jesus.",
+        "referencias": [
+          "Matt 2:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Holy land of Second Temple Judaism; scene of the Passion and the birth of the Christian faith.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "jud_m1",
+          "nombre": "The redemptive sacrifice",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud",
+            "fuente_secundaria": "",
+            "descripcion": "The sacrifice in the Temple of Jerusalem as atonement for sins.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The sacrifice in the Temple of Jerusalem as atonement for sins.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The crucifixion of Jesus in Judea as a definitive sacrifice that fulfills the Law.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The crucifixion of Jesus in Judea as a definitive sacrifice that fulfills the Law.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Isa (Jesus) did not die on the cross according to the Quran; Allah elevated him.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Isa (Jesus) did not die on the cross according to the Quran; Allah elevated him.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

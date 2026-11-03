@@ -1,0 +1,137 @@
+{
+  "id": "media",
+  "nombre": "Media",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 23,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -700,
+      "hasta": -330,
+      "nombre": "Post-exilio persa"
+    }
+  ],
+  "descripcion_geo": "Región montañosa al noroeste de Persia, entre el Caspio y Mesopotamia. Los medos formaron un poderoso reino aliado con Babilonia.",
+  "altitud_m": 1200,
+  "clima": "continental-árido",
+  "recursos": [
+    "caballos",
+    "plata",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Imperio que colaboró en la caída de Nínive y luego se fusionó con Persia bajo Ciro el Grande.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "med_h1",
+      "titulo": "Media en la caída de Nínive",
+      "fecha": "612 a.C.",
+      "descripcion": "Los medos aliados con Babilonia destruyen Nínive, capital de Asiria; se cumple la profecía de Nahún.",
+      "referencias": [
+        "Nah 3:18-19",
+        "2 Re 25:1"
+      ],
+      "personajes_clave": [
+        "Nabopolasar",
+        "Ciaxares"
+      ]
+    },
+    {
+      "id": "med_h2",
+      "titulo": "Las ciudades de los medos: destino del exilio israelita",
+      "fecha": "ca. 722 a.C.",
+      "descripcion": "El rey asirio deporta a las tribus del norte de Israel a las ciudades de los medos.",
+      "referencias": [
+        "2 Re 17:6",
+        "2 Re 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "med_h3",
+      "titulo": "Darío el medo en Daniel",
+      "fecha": "ca. 539 a.C.",
+      "descripcion": "Darío el medo recibe el reino de Babilonia; promulga edicto que prohíbe orar a cualquier dios excepto al rey, llevando a Daniel al foso de los leones.",
+      "referencias": [
+        "Dn 6"
+      ],
+      "personajes_clave": [
+        "Darío",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "med_p1",
+      "nombre": "Darío el Medo",
+      "rol": "Rey de Babilonia (medo)",
+      "periodo": "ca. 539 a.C.",
+      "descripcion": "Monarca medo que recibió el reino babilónico; permitió el complot contra Daniel.",
+      "referencias": [
+        "Dn 5:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p2",
+      "nombre": "Ciaxares",
+      "rol": "Rey de Media",
+      "periodo": "625-585 a.C.",
+      "descripcion": "Aliado de Babilonia; destruyó Nínive cumpliendo las profecías de Nahún.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p3",
+      "nombre": "Daniel",
+      "rol": "Profeta en el exilio",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Sobrevivió el foso de los leones bajo el rey medo Darío.",
+      "referencias": [
+        "Dn 6:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Imperio que fue instrumento del juicio divino sobre Asiria; los deportados israelitas convivieron con los medos en el exilio.",
+    "religiones_presentes": [
+      "zoroastrismo_incipiente",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "med_m1",
+        "nombre": "El foso de los leones",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Daniel sobrevive el foso de los leones bajo el rey medo Darío; señal del poder de Dios sobre los imperios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Daniel sobrevive el foso de los leones bajo el rey medo Darío; señal del poder de Dios sobre los imperios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

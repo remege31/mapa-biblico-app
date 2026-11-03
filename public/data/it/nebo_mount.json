@@ -1,0 +1,148 @@
+{
+  "id": "nebo_mount",
+  "nombre": "Monte Nebo",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.76,
+  "lng": 35.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Montagna nella Moab a est del Giordano (l'attuale Giordania) che domina l'intera terra promessa. Luogo di morte di Mosè.",
+  "altitud_m": 817,
+  "clima": "arido-mediterraneo",
+  "recursos": [
+    "panoramica da Canaan",
+    "pascolo"
+  ],
+  "importancia_estrategica": "L'ultimo posto di Mosè: salì lassù per vedere la terra promessa e morì.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neb_h1",
+      "titulo": "Mosè scala il Nebo e osserva la terra promessa",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Dal Monte Nebo, Mosè osserva l'intera terra promessa da Galaad a Negev, il Grande Mar e il Giordano.",
+      "referencias": [
+        "Dt 34:1-4"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h2",
+      "titulo": "La morte di Mosè nel Nebo",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Mosè muore sul Monte Nebo a 120 anni; Dio lo seppellisce e nessuno conosce la sua tomba.",
+      "referencias": [
+        "Dt 34:5-8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h3",
+      "titulo": "L'Arca dell'Alleanza nascosta nel Nebo",
+      "fecha": "ca. 586 a.C.",
+      "descripcion": "Il secondo libro dei Maccabei racconta che Geremia nascose il tabernacolo e l'arca in una grotta sul monte Nebo.",
+      "referencias": [
+        "2 Mac 2:4-8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neb_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore e legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Morì sul Monte Nebo in vista della terra promessa sulla quale non gli era stato permesso di mettere piede; il più grande profeta dell'Antico Testamento.",
+      "referencias": [
+        "Dt 34:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p2",
+      "nombre": "Giosuè",
+      "rol": "Successore di Mosè",
+      "periodo": "ca. 1250-1200 a.C.",
+      "descripcion": "Ha aspettato nel campo mentre Mosè scalava il Nebo per morire.",
+      "referencias": [
+        "Dt 34:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p3",
+      "nombre": "Geremia",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "La tradizione del libro dei Maccabei lo collega al nascondiglio dell'arca nel Nebo.",
+      "referencias": [
+        "2 Mac 2:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Monte Nebo: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "neb_m1",
+        "nombre": "La tomba sconosciuta di Mosè",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 34,6",
+          "fuente_secundaria": "",
+          "descripcion": "Ancora oggi nessuno sa dove sia la tomba di Mosè (Dt 34,6): un mistero che preserva il più grande profeta da ogni idolatria post mortem.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ancora oggi nessuno sa dove sia la tomba di Mosè (Dt 34,6): un mistero che preserva il più grande profeta da ogni idolatria post mortem.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La Trasfigurazione di Gesù include Mosè; Notevole il contrasto con Nebo: lì morì senza entrare, nell'Ermon appare glorificato.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Trasfigurazione di Gesù include Mosè; Notevole il contrasto con Nebo: lì morì senza entrare, nell'Ermon appare glorificato.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam considera Musa (Mosè) il più grande profeta prima di Maometto; La sua morte a Nebo è narrata nelle tradizioni islamiche.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam considera Musa (Mosè) il più grande profeta prima di Maometto; La sua morte a Nebo è narrata nelle tradizioni islamiche.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

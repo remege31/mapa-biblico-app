@@ -1,0 +1,142 @@
+{
+  "id": "east",
+  "nombre": "East (the biblical East)",
+  "tipo": "territorio",
+  "lat": 31.95,
+  "lng": 35.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Biblical geographical concept covering the lands east of the Jordan: Transjordan, Syria, Mesopotamia.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Symbol of the distant and unknown; source of the 'sons of the east' who are shepherds and wise men.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eas_h1",
+      "titulo": "The children of the east and their flocks",
+      "fecha": "ca. 1800 BC",
+      "descripcion": "Abraham and his contemporaries are related to 'the sons of the east', nomads and shepherds from the steppes east of the Jordan.",
+      "referencias": [
+        "Gen 29:1",
+        "Judg 6:3"
+      ],
+      "personajes_clave": [
+        "Jacob"
+      ]
+    },
+    {
+      "id": "eas_h2",
+      "titulo": "The wise men from the east in the NT",
+      "fecha": "ca. 6-4 BC",
+      "descripcion": "Magi 'from the east' follow the star to Bethlehem to worship the newborn king of the Jews.",
+      "referencias": [
+        "Matt 2:1"
+      ],
+      "personajes_clave": [
+        "magos"
+      ]
+    },
+    {
+      "id": "eas_h3",
+      "titulo": "Ezekiel sees the glory enter from the east",
+      "fecha": "ca. 593 BC",
+      "descripcion": "Ezekiel envisions the glory of God returning to the Temple from the east.",
+      "referencias": [
+        "Ezek 43:2"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eas_p1",
+      "nombre": "wizards of the east",
+      "rol": "wise worshipers",
+      "periodo": "ca. 6-4 BC",
+      "descripcion": "The wise men from the east are the first Gentiles to worship the Messiah.",
+      "referencias": [
+        "Matt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p2",
+      "nombre": "Ezekiel",
+      "rol": "Prophet",
+      "periodo": "593-571 BC",
+      "descripcion": "He envisioned the glory of God entering the restored Temple from the east.",
+      "referencias": [
+        "Ezek 43:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p3",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "ca. 1800-1700 BC",
+      "descripcion": "He traveled to the east to find a wife in Paddan; His journey represents the movement between the lands.",
+      "referencias": [
+        "Gen 29:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "East (the biblical East): relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "eas_m1",
+        "nombre": "Glory comes from the east",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11:23",
+          "fuente_secundaria": "",
+          "descripcion": "The glory of God left the Temple in the east (Ez 11:23) and will return in the east (Ez 43:2); The wise men from the east will worship the Messiah.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The glory of God left the Temple in the east (Ez 11:23) and will return in the east (Ez 43:2); The wise men from the east will worship the Messiah.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2:2",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus was born in Bethlehem; His star was seen in the east (Mt 2:2): the eastern cosmos announces the Messiah of the West.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus was born in Bethlehem; His star was seen in the east (Mt 2:2): the eastern cosmos announces the Messiah of the West.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

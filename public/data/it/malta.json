@@ -1,0 +1,148 @@
+{
+  "id": "malta",
+  "nombre": "Malta",
+  "tipo": "territorio",
+  "lat": 35.9375,
+  "lng": 14.3754,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Isola del Mediterraneo a sud della Sicilia, nello stretto tra il Mediterraneo occidentale e orientale.",
+  "altitud_m": 90,
+  "clima": "mediterraneo insulare",
+  "recursos": [
+    "porta",
+    "Miele",
+    "pesca",
+    "sale"
+  ],
+  "importancia_estrategica": "Isola strategica sulla rotta marittima tra Roma e l'Oriente.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mal_h1",
+        "titulo": "Naufragio Paolo",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "La nave che trasportava Paolo a Roma naufraga a Malta; tutti sopravvivono.",
+        "referencias": [
+          "At 27:41-44"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mal_h2",
+        "titulo": "Paolo e la vipera del fuoco",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "Una vipera morde la mano di Paolo; I maltesi aspettano che muoia, ma non gli succede nulla.",
+        "referencias": [
+          "At 28:1-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mal_h3",
+        "titulo": "Guarigione del padre di Publio",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "Paolo guarisce il padre del capo Publio attraverso la preghiera e l'imposizione delle mani.",
+        "referencias": [
+          "At 28:7-9"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Publio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mal_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Prigioniero e operatore di miracoli",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Naufragato a Malta; La sua permanenza di tre mesi ha portato a guarigioni e testimonianze.",
+        "referencias": [
+          "At 28:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mal_p2",
+        "nombre": "Publio",
+        "rol": "Capo capo di Malta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha accolto i naufraghi; Paolo ha guarito suo padre.",
+        "referencias": [
+          "At 28:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mal_p3",
+        "nombre": "Giulio il centurione",
+        "rol": "Paolo Guardiano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Centurione incaricato del trasferimento di Paolo a Roma; Lo trattava con considerazione.",
+        "referencias": [
+          "At 27:1",
+          "At 28:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Isola con un misto di cultura fenicia e romana; l'episodio Paolo lì inaugurò la tradizione cristiana maltese.",
+      "religiones_presentes": [
+        "Paganesimo_fenicio_romano",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "mal_m1",
+          "nombre": "Paolo e la vipera",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "I maltesi interpretano l'immunità di Paolo al morso di vipera come un segno divino; L'episodio prefigura il potere apostolico sul male.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I maltesi interpretano l'immunità di Paolo al morso di vipera come un segno divino; L'episodio prefigura il potere apostolico sul male.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

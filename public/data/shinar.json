@@ -1,0 +1,153 @@
+{
+  "id": "shinar",
+  "nombre": "Sinar (Tierra de Babel)",
+  "tipo": "territorio",
+  "lat": 32.54,
+  "lng": 44.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Nombre bíblico de la región de Mesopotamia sur (Babilonia), donde se construyó la Torre de Babel y el reino de Nimrod.",
+  "altitud_m": 10,
+  "clima": "continental-árido",
+  "recursos": [
+    "arcilla",
+    "asfalto",
+    "agricultura fluvial",
+    "comercio"
+  ],
+  "importancia_estrategica": "Cuna de la civilización humana según el AT; lugar del primer intento de unidad humana rebelde.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sin_h1",
+      "titulo": "La Torre de Babel en Sinar",
+      "fecha": "ca. mítico",
+      "descripcion": "La humanidad se asienta en Sinar y construye la torre con cúspide en el cielo; Dios confunde los idiomas y dispersa a los pueblos.",
+      "referencias": [
+        "Gn 11:1-9"
+      ],
+      "personajes_clave": [
+        "Nimrod",
+        "constructores"
+      ]
+    },
+    {
+      "id": "sin_h2",
+      "titulo": "Nimrod: primer imperio en Sinar",
+      "fecha": "ca. mítico",
+      "descripcion": "Nimrod, cazador poderoso ante el Señor, fundó el primer reino en Babel, Erec, Acad y Calné, en la tierra de Sinar.",
+      "referencias": [
+        "Gn 10:10"
+      ],
+      "personajes_clave": [
+        "Nimrod"
+      ]
+    },
+    {
+      "id": "sin_h3",
+      "titulo": "El exilio de Israel a Sinar",
+      "fecha": "ca. 605-586 a.C.",
+      "descripcion": "Nabucodonosor lleva los utensilios del Templo 'a tierra de Sinar'; allí vivieron Daniel y sus compañeros.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "personajes_clave": [
+        "Nabucodonosor",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sin_p1",
+      "nombre": "Nimrod",
+      "rol": "Primer rey de Sinar",
+      "periodo": "ca. mítico",
+      "descripcion": "Fundador del primer reino humano en Sinar; cazador y rey poderoso ante el Señor.",
+      "referencias": [
+        "Gn 10:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p2",
+      "nombre": "Daniel",
+      "rol": "Profeta en el exilio",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Llevado a Sinar (Babilonia) como exiliado; allí recibió sus visiones más importantes.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p3",
+      "nombre": "Nabucodonosor",
+      "rol": "Rey de Babilonia",
+      "periodo": "605-562 a.C.",
+      "descripcion": "Tomó a Daniel 'a tierra de Sinar' con los utensilios del Templo.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sinar (Tierra de Babel): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sin_m1",
+        "nombre": "La Torre de Babel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Los constructores de Babel (Sinar) quisieron alcanzar el cielo; Dios los dispersó confundiendo los idiomas: origen mítico de la diversidad de lenguas.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los constructores de Babel (Sinar) quisieron alcanzar el cielo; Dios los dispersó confundiendo los idiomas: origen mítico de la diversidad de lenguas.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hch 2:6",
+          "fuente_secundaria": "",
+          "descripcion": "Pentecostés invierte Babel: donde Dios dividió las lenguas, el Espíritu las reúne en una sola comprensión del evangelio (Hch 2:6).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pentecostés invierte Babel: donde Dios dividió las lenguas, el Espíritu las reúne en una sola comprensión del evangelio (Hch 2:6).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam narra la historia de Babel con Namrud (Nimrod) como el rey rebelde que desafió a Ibrahim (Abraham).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam narra la historia de Babel con Namrud (Nimrod) como el rey rebelde que desafió a Ibrahim (Abraham).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

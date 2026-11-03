@@ -1,0 +1,155 @@
+{
+  "id": "house_of_the_forest",
+  "nombre": "Casa forestale del Libano",
+  "tipo": "ciudad",
+  "lat": 31.779694,
+  "lng": 35.230435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — edificio del complejo palaciego de Salomón, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Edificio del complesso del palazzo Salomone"
+    }
+  ],
+  "descripcion_geo": "Grande sala costruita da Salomone come parte del suo complesso di palazzi presso Gerusalemme, così chiamato per le sue file di colonne di cedro libanese che evocavano una foresta. Misurava cento cubiti di lunghezza, cinquanta di larghezza e trenta di altezza, sostenuto da quarantacinque colonne di cedro disposte su tre file.",
+  "altitud_m": "Integrato nel complesso del palazzo, Gerusalemme, c. 740-760",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "Cedro del Libano (colonne, travi e soffitto a cassettoni)",
+    "Là erano custoditi scudi e scudi d'oro battuto",
+    "Vera e propria reception e spazio magazzino"
+  ],
+  "importancia_estrategica": "La Lebanon Forest House faceva parte del vasto programma di costruzione di Salomone che dimostrava la ricchezza e la portata commerciale del regno, dipendente dal cedro importato tramite Giaffa secondo un accordo con Hiram di Tiro. Fungeva da sala di ricevimento, da deposito di armi cerimoniali (scudi d'oro) e forse da arsenale, a testimonianza della fusione salomonica tra ostentazione, difesa e amministrazione.",
+  "otros_habitantes": [
+    {
+      "id": "artesanos_tirios_casa_bosque",
+      "nombre": "Artigiani e costruttori tiri",
+      "descripcion": "Lavoratori specializzati inviati da Hiram di Tiro, insieme al legno di cedro, per la costruzione delle opere salomoniche, inclusa la Lebanon Forest House.",
+      "religion": "Politeismo fenicio: culto di Baal, Astarte e Melkart",
+      "periodo": "C. 970–960 a.C"
+    },
+    {
+      "id": "funcionarios_palacio_casa_bosque",
+      "nombre": "Ufficiali e guardia reale",
+      "descripcion": "Personale amministrativo e militare israeliano responsabile del deposito di armi cerimoniali e dell'uso dell'edificio come spazio di ricevimento reale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 970–931 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "construccion-casa-bosque",
+      "titulo": "Salomone costruisce la Lebanon Forest House",
+      "fecha": "c. 970–960 a.C.",
+      "descripcion": "Come parte del suo programma di costruzione post-Tempio, Salomone costruisce il proprio palazzo, che comprende la Casa della Foresta del Libano, una grande sala con colonne di cedro che impiega tredici anni per essere completata insieme al resto del complesso reale.",
+      "referencias": [
+        "1 Re 7:1-12"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "escudos-oro-casa-bosque",
+      "titulo": "Gli scudi d'oro depositati nella Casa Forestale",
+      "fecha": "c. 960–950 a.C.",
+      "descripcion": "Salomone ordina duecento scudi grandi e trecento piccoli scudi d'oro battuto e li deposita nella Casa della Foresta del Libano come campione della ricchezza accumulata dal regno durante il suo periodo di massimo splendore.",
+      "referencias": [
+        "1 Re 10:16-17",
+        "2 Cr 9:15-16"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "saqueo-sisac-casa-bosque",
+      "titulo": "Sisac di Egitto saccheggia gli scudi d'oro",
+      "fecha": "c. 925 a.C.",
+      "descripcion": "Durante il regno di Roboamo, il faraone egiziano Shishak invade Giuda e prende i tesori del Tempio e del palazzo, tra cui gli scudi d'oro della Casa della Foresta, che Roboamo poi sostituisce con scudi di bronzo, episodio letto come segno di declino dopo lo splendore salomonico.",
+      "referencias": [
+        "1 Re 14:25-28",
+        "2 Cr 12:9-10"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon_casa_bosque",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore del complesso del palazzo",
+      "periodo": "hierro_2",
+      "descripcion": "Ordinò la costruzione della Casa della Foresta del Libano come parte del suo palazzo e vi depose i famosi scudi d'oro, simbolo materiale dello splendore economico del suo regno.",
+      "referencias": [
+        "1 Re 7:1-12",
+        "1 Re 10:16-17"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "hiram_tiro_casa_bosque",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re di Tiro, fornitore di legno e artigiani",
+      "periodo": "c. 980–947 a.C.",
+      "descripcion": "Fornisce a Salomone il legno di cedro del Libano e gli artigiani specializzati necessari per la costruzione della Casa Forestale e del resto del complesso del palazzo, nel quadro dell'alleanza commerciale tra i due regni.",
+      "referencias": [
+        "1 Re 5:1-12"
+      ],
+      "ruta": [
+        "joppa"
+      ]
+    },
+    {
+      "id": "roboam_casa_bosque",
+      "nombre": "Roboamo",
+      "rol": "Re di Giuda, successore di Salomone",
+      "periodo": "hierro_2",
+      "descripcion": "Dopo che il sacco egiziano di Sishak privò la Casa della Foresta dei suoi scudi d'oro, Roboamo ordinò che in sostituzione venissero realizzati scudi di bronzo, gesto che il testo biblico presenta come simbolo eloquente del declino dallo splendore salomonico.",
+      "referencias": [
+        "1 Re 14:25-28"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La Casa della Foresta del Libano non è uno spazio di culto, ma la sua costruzione – direttamente collegata a quella del Tempio nella stessa narrazione di 1 Re 7 – si inserisce nel racconto più ampio sulla legittimazione materiale della monarchia davidico-salomoniana come espressione del favore divino promesso a Davide. Il successivo saccheggio dei suoi tesori da parte di Shishak e la sua sostituzione con funzioni metalliche inferiori nella teologia deuteronomista come segno tangibile del giudizio divino dopo l'apostasia di Salomone nella sua vecchiaia.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo fenicio (artigiani e materiali tiri)"
+    ],
+    "mitos": [
+      {
+        "id": "esplendor-declive-casa-bosque",
+        "nombre": "Dall'oro al bronzo: splendore e declino salomonico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 10:16-17; 1 Re 14:25-28",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la riqueza de Salomón como cumplimiento y, después, advertencia del peligro de la abundancia material",
+          "descripcion": "La tradizione ebraica legge il contrasto tra gli originari scudi d'oro e la loro sostituzione con quelli di bronzo dopo il sacco di Shishak come un esempio paradigmatico di come la prosperità materiale, senza una corrispondente fedeltà, sia effimera, collegando l'episodio agli avvertimenti deuteronomici sui pericoli della ricchezza reale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il passaggio dall'oro al bronzo simboleggia il degrado spirituale e politico che segue l'apostasia di Salomone nella sua vecchiaia, anticipando la futura divisione del regno.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

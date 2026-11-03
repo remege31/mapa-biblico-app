@@ -1,0 +1,244 @@
+{
+  "id": "pamphylia",
+  "nombre": "Pamphyly",
+  "tipo": "territorio",
+  "lat": 36.87,
+  "lng": 30.74,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Narrow coastal plain of southern Asia Minor between Lycia and Cilicia. Perge was its main city.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pam_h1",
+      "titulo": "Juan Marcos abandons Paul in Pamfilia",
+      "fecha": "ca. 47 AD",
+      "descripcion": "In Perge of Pamphylia, John Mark leaves Paul and Barnabas and returns to Jerusalem; This abandonment will later cause the separation of Paul and Barnabas.",
+      "referencias": [
+        "Acts 13:13"
+      ],
+      "personajes_clave": [
+        "Juan Marcos",
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "pam_h2",
+      "titulo": "Paul preaches in Perge of Pamphylia",
+      "fecha": "ca. 48 AD",
+      "descripcion": "Upon returning from the first voyage, Paul preaches in Perge before embarking.",
+      "referencias": [
+        "Acts 14:25"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "pam_h3",
+      "titulo": "Pamphilios at Pentecost",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Among those present at Pentecost are men from Pamphylia.",
+      "referencias": [
+        "Acts 2:10"
+      ],
+      "personajes_clave": [
+        "panfilios"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pam_p1",
+      "nombre": "John Mark",
+      "rol": "Evangelist",
+      "periodo": "s. I AD",
+      "descripcion": "He abandoned the mission in Pamphylia; He was later restored and wrote the second gospel.",
+      "referencias": [
+        "Acts 13:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pam_p2",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He passed through Pamphylia twice on the first missionary journey.",
+      "referencias": [
+        "Acts 14:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pam_p3",
+      "nombre": "Barnabas",
+      "rol": "Missionary",
+      "periodo": "s. I AD",
+      "descripcion": "He continued the trip after Juan Marcos abandoned him.",
+      "referencias": [
+        "Acts 13:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pamphylia: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "pam_m1",
+        "nombre": "Pamphylia: land of abandonment and restoration",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "2 Tim 4:11",
+          "fuente_secundaria": "",
+          "descripcion": "John Mark abandoned the mission in Pamphylia; Paul later rejected him, but later Paul himself valued his service (2 Tim 4:11).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "John Mark abandoned the mission in Pamphylia; Paul later rejected him, but later Paul himself valued his service (2 Tim 4:11).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pam_h1",
+        "titulo": "Juan Marcos abandons Paul in Pamfilia",
+        "fecha": "ca. 47 AD",
+        "descripcion": "In Perge of Pamphylia, John Mark leaves Paul and Barnabas and returns to Jerusalem; This abandonment will later cause the separation of Paul and Barnabas.",
+        "referencias": [
+          "Acts 13:13"
+        ],
+        "personajes_clave": [
+          "Juan Marcos",
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "pam_h2",
+        "titulo": "Paul preaches in Perge of Pamphylia",
+        "fecha": "ca. 48 AD",
+        "descripcion": "Upon returning from the first voyage, Paul preaches in Perge before embarking.",
+        "referencias": [
+          "Acts 14:25"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "pam_h3",
+        "titulo": "Pamphilios at Pentecost",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Among those present at Pentecost are men from Pamphylia.",
+        "referencias": [
+          "Acts 2:10"
+        ],
+        "personajes_clave": [
+          "panfilios"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pam_p1",
+        "nombre": "John Mark",
+        "rol": "Evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "He abandoned the mission in Pamphylia; He was later restored and wrote the second gospel.",
+        "referencias": [
+          "Acts 13:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pam_p2",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He passed through Pamphylia twice on the first missionary journey.",
+        "referencias": [
+          "Acts 14:24"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pam_p3",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He continued the trip after Juan Marcos abandoned him.",
+        "referencias": [
+          "Acts 13:13"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Pamphylia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "pam_m1",
+          "nombre": "Pamphylia: land of abandonment and restoration",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "John Mark abandoned the mission in Pamphylia; Paul later rejected him, but later Paul himself valued his service (2 Tim 4:11).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "John Mark abandoned the mission in Pamphylia; Paul later rejected him, but later Paul himself valued his service (2 Tim 4:11).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

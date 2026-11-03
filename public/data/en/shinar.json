@@ -1,0 +1,152 @@
+{
+  "id": "shinar",
+  "nombre": "Shinar (Land of Babel)",
+  "tipo": "territorio",
+  "lat": 32.54,
+  "lng": 44.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Biblical name of the region of southern Mesopotamia (Babylon), where the Tower of Babel and the kingdom of Nimrod were built.",
+  "altitud_m": 10,
+  "clima": "continental-arid",
+  "recursos": [
+    "clay",
+    "asphalt",
+    "river agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Cradle of human civilization according to the OT; place of the first attempt at rebellious human unity.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sin_h1",
+      "titulo": "The Tower of Babel in Shinar",
+      "fecha": "ca. mítico",
+      "descripcion": "Humanity settles in Shinar and builds the tower with its top in the sky; God confuses languages ​​and disperses people.",
+      "referencias": [
+        "Gen 11:1-9"
+      ],
+      "personajes_clave": [
+        "Nimrod",
+        "constructores"
+      ]
+    },
+    {
+      "id": "sin_h2",
+      "titulo": "Nimrod: first empire in Shinar",
+      "fecha": "ca. mítico",
+      "descripcion": "Nimrod, a mighty hunter before the Lord, founded the first kingdom in Babel, Erech, Akkad and Calne, in the land of Shinar.",
+      "referencias": [
+        "Gen 10:10"
+      ],
+      "personajes_clave": [
+        "Nimrod"
+      ]
+    },
+    {
+      "id": "sin_h3",
+      "titulo": "Israel's exile to Shinar",
+      "fecha": "ca. 605-586 BC",
+      "descripcion": "Nebuchadnezzar takes the Temple utensils 'to the land of Shinar'; Daniel and his companions lived there.",
+      "referencias": [
+        "Dan 1:2"
+      ],
+      "personajes_clave": [
+        "Nabucodonosor",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sin_p1",
+      "nombre": "Nimrod",
+      "rol": "First king of Shinar",
+      "periodo": "ca. mítico",
+      "descripcion": "Founder of the first human kingdom in Shinar; hunter and powerful king before the Lord.",
+      "referencias": [
+        "Gen 10:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p2",
+      "nombre": "Daniel",
+      "rol": "Prophet in exile",
+      "periodo": "ca. 620-535 BC",
+      "descripcion": "Taken to Shinar (Babylon) as an exile; There he received his most important visions.",
+      "referencias": [
+        "Dan 1:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p3",
+      "nombre": "Nebuchadnezzar",
+      "rol": "King by Babylon",
+      "periodo": "605-562 BC",
+      "descripcion": "He took Daniel 'into the land of Shinar' with the utensils of the Temple.",
+      "referencias": [
+        "Dan 1:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shinar (Land of Babel): relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "sin_m1",
+        "nombre": "The Tower of Babel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The builders of Babel (Shinar) wanted to reach heaven; God dispersed them by confusing the languages: mythical origin of the diversity of languages.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The builders of Babel (Shinar) wanted to reach heaven; God dispersed them by confusing the languages: mythical origin of the diversity of languages.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Acts 2:6",
+          "fuente_secundaria": "",
+          "descripcion": "Pentecost reverses Babel: where God divided languages, the Spirit gathers them into a single understanding of the gospel (Acts 2:6).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pentecost reverses Babel: where God divided languages, the Spirit gathers them into a single understanding of the gospel (Acts 2:6).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Islam tells the story of Babel with Namrud (Nimrod) as the rebel king who challenged Ibrahim (Abraham).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam tells the story of Babel with Namrud (Nimrod) as the rebel king who challenged Ibrahim (Abraham).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "post_exilio"
+  ]
+}

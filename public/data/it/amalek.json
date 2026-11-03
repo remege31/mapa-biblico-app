@@ -1,0 +1,137 @@
+{
+  "id": "amalek",
+  "nombre": "Amalek",
+  "tipo": "territorio",
+  "lat": 30.66,
+  "lng": 34.84,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 49,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -700,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Popolo nomade del deserto di Negev e Sinai, discendenti di Esaù. Nemico perenne di Israele nel periodo dell'esodo e dei giudici.",
+  "altitud_m": 500,
+  "clima": "arido-deserto",
+  "recursos": [
+    "pascolo",
+    "saccheggio",
+    "commercio di carovane"
+  ],
+  "importancia_estrategica": "Il primo nemico di Israele nel deserto; controllo dei gradini dell'Negev e dell'Sinai.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ama_h1",
+      "titulo": "La prima battaglia a Refidim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Amalek attacca Israele fresco da Egitto a Refidim; Giosuè combatte mentre Mosè tiene le braccia alzate.",
+      "referencias": [
+        "Es 17:8-16"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Moisés",
+        "Aarón",
+        "Hur"
+      ]
+    },
+    {
+      "id": "ama_h2",
+      "titulo": "Saul disobbedisce sterminando Amalek",
+      "fecha": "ca. 1030 a.C.",
+      "descripcion": "Saul sconfigge Amalek ma risparmia il re Agag e il meglio del bestiame; Samuele disapprova e rompe con lui.",
+      "referencias": [
+        "1 Sam 15"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel",
+        "Agag"
+      ]
+    },
+    {
+      "id": "ama_h3",
+      "titulo": "Davide recupera il bottino di Amalekita",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Mentre Davide è in guerra, gli Amaleciti saccheggiano Ziklag; Davide li insegue e recupera tutto ciò che avevano preso.",
+      "referencias": [
+        "1 Sam 30"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ama_p1",
+      "nombre": "Giosuè",
+      "rol": "Israele Primo Generale",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Comandò la prima battaglia di Israele nel deserto contro Amalek a Refidim.",
+      "referencias": [
+        "Es 17:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p2",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "La sua misericordia verso Agag re di Amalek gli costò il regno; segno della sua disobbedienza a Dio.",
+      "referencias": [
+        "1 Sam 15:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p3",
+      "nombre": "Agag",
+      "rol": "Re di Amalek",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "Perdonato da Saul ma giustiziato da Samuele: \"Come la tua spada ha lasciato le donne senza figli, così tua madre rimarrà senza figli.\"",
+      "referencias": [
+        "1 Sam 15:33"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il primo avversario di Israele nella storia; simbolo del male che perseguita il popolo di Dio nel deserto. «Guerra contro Amalek di generazione in generazione» (Es 17,16).",
+    "religiones_presentes": [
+      "nomade_paganesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ama_m1",
+        "nombre": "L'eterno nemico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 17,16",
+          "fuente_secundaria": "",
+          "descripcion": "La guerra con Amalek è dichiarata eterna (Es 17,16); I rabbini lo identificano come un simbolo del male radicale.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La guerra con Amalek è dichiarata eterna (Es 17,16); I rabbini lo identificano come un simbolo del male radicale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

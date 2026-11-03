@@ -1,0 +1,147 @@
+{
+  "id": "goshen",
+  "nombre": "Goshen",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 31.8,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Fertile region of the eastern Nile delta, in Egypt, where the Israelites lived during their stay in Egypt.",
+  "altitud_m": 20,
+  "clima": "subtropical-humid",
+  "recursos": [
+    "grazing",
+    "agriculture",
+    "Nile water"
+  ],
+  "importancia_estrategica": "Land assigned by the pharaoh to the family of Jacob; The Israelites inhabited it for 430 years before the exodus.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gos_h1",
+      "titulo": "Joseph settles his family in Goshen",
+      "fecha": "ca. 1700 BC",
+      "descripcion": "Joseph, prime minister of Egypt, settles his father Jacob and brothers in the land of Goshen, the best of Egypt.",
+      "referencias": [
+        "Gen 46:28-34",
+        "Gen 47:1-6"
+      ],
+      "personajes_clave": [
+        "José",
+        "Jacob",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h2",
+      "titulo": "The Israelites grow up in Goshen",
+      "fecha": "ca. 1700-1280 BC",
+      "descripcion": "In Goshen the family of Jacob grew to become a numerous people; Pharaoh reduced them to slavery.",
+      "referencias": [
+        "Exod 1:7-14"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h3",
+      "titulo": "The plagues did not affect Goshen",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "During the plagues of Egypt, God separated the land of Goshen: the Israelites did not suffer from the plague of flies, the death of livestock, darkness, or the firstborn.",
+      "referencias": [
+        "Exod 8:22",
+        "Exod 9:26"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gos_p1",
+      "nombre": "José",
+      "rol": "Prime Minister of Egypt",
+      "periodo": "ca. 1720-1680 BC",
+      "descripcion": "He settled his family in Goshen; His wisdom saved Israel and Egypt from hunger.",
+      "referencias": [
+        "Gen 47:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p2",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "ca. 1750-1640 BC",
+      "descripcion": "He descended to Goshen when he was reunited with Joseph; died and was embalmed in Egypt.",
+      "referencias": [
+        "Gen 46:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p3",
+      "nombre": "Moses",
+      "rol": "Liberator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He was born and raised in the delta area where the Israelites lived; He left Goshen for the exodus.",
+      "referencias": [
+        "Exod 12:37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Goshen: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "gos_m1",
+        "nombre": "The land protected in the midst of judgment",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Goshen was the place where God separated his people in the midst of the plagues: the Israelites lived in Egypt but did not suffer the judgment on Egypt.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Goshen was the place where God separated his people in the midst of the plagues: the Israelites lived in Egypt but did not suffer the judgment on Egypt.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 12:99-100",
+          "fuente_secundaria": "",
+          "descripcion": "The descent from Jacob/Israel to Egypt and the stay in Goshen are narrated in the Qur'an as part of the story of Yusuf (Joseph) (Cor 12:99-100).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The descent from Jacob/Israel to Egypt and the stay in Goshen are narrated in the Qur'an as part of the story of Yusuf (Joseph) (Cor 12:99-100).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "perge",
+  "nombre": "Perge",
+  "tipo": "ciudad",
+  "lat": 36.9613,
+  "lng": 30.8536,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città della Panfilia a circa 12 km dalla costa meridionale dell'Asia Minore, prossima al fiume Cestro.",
+  "altitud_m": 60,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio fluviale",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Porta dalla costa della Panfilia all'altopiano della Pisidia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "per_h1",
+        "titulo": "Juan Marcos abbandona la missione",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Arrivando a Perge da Cipro, John Mark si separa da Paolo e Barnabas e ritorna a Gerusalemme.",
+        "referencias": [
+          "At 13:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Juan Marcos"
+        ]
+      },
+      {
+        "id": "per_h2",
+        "titulo": "Predicazione al ritorno",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "Di nuovo verso la costa, Paolo e Barnabas annunciano la parola a Perga prima di imbarcarsi su Atalia.",
+        "referencias": [
+          "At 14:24-26"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

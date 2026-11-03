@@ -1,0 +1,134 @@
+{
+  "id": "gilgal",
+  "nombre": "Guilgal",
+  "tipo": "ciudad",
+  "lat": 31.86,
+  "lng": 35.52,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 40,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1220,
+      "hasta": -800,
+      "nombre": "Hierro I y II"
+    }
+  ],
+  "descripcion_geo": "Campamento base de Israel al oeste del Jordán, cerca de Jericó. Primer lugar donde Israel acampó en Canaán.",
+  "altitud_m": -200,
+  "clima": "árido-mediterráneo",
+  "recursos": [
+    "agua",
+    "agricultura de oasis"
+  ],
+  "importancia_estrategica": "Primera capital espiritual de Israel en Canaán; lugar del primer campamento, la circuncisión colectiva y el monumento de doce piedras.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gal_h1",
+      "titulo": "Las doce piedras del Jordán en Guilgal",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Israel levanta doce piedras del Jordán en Guilgal como memorial del cruce milagroso.",
+      "referencias": [
+        "Jos 4:19-24"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h2",
+      "titulo": "La circuncisión colectiva en Guilgal",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Josué circuncida a toda la generación nacida en el desierto en Guilgal; 'Hoy he quitado de vosotros el oprobio de Egipto'.",
+      "referencias": [
+        "Jos 5:2-9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h3",
+      "titulo": "Saúl ungido rey en Guilgal",
+      "fecha": "ca. 1030 a.C.",
+      "descripcion": "Saúl es presentado al pueblo como rey en Guilgal; más tarde ofrece allí un sacrificio que le cuesta el reino.",
+      "referencias": [
+        "1 Sam 11:15",
+        "1 Sam 13:8-14"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gal_p1",
+      "nombre": "Josué",
+      "rol": "Líder de la conquista",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Estableció Guilgal como base de operaciones para la conquista de Canaán.",
+      "referencias": [
+        "Jos 5:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p2",
+      "nombre": "Saúl",
+      "rol": "Primer rey de Israel",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "Fue coronado y luego juzgado en Guilgal; su desobediencia allí marcó el fin de su reinado.",
+      "referencias": [
+        "1 Sam 13:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p3",
+      "nombre": "Samuel",
+      "rol": "Profeta y juez",
+      "periodo": "ca. 1050-1000 a.C.",
+      "descripcion": "Realizó circuitos judiciales que incluían Guilgal; reprendió a Saúl allí.",
+      "referencias": [
+        "1 Sam 7:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lugar de fundación religiosa: primera circuncisión en Canaán, primera Pascua en la tierra prometida, primer campamento después del Jordán.",
+    "religiones_presentes": [
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "gal_m1",
+        "nombre": "El oprobio de Egipto quitado",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jos 5:9",
+          "fuente_secundaria": "",
+          "descripcion": "'Hoy he quitado de vosotros el oprobio de Egipto' (Jos 5:9): la circuncisión en Guilgal marca el nuevo inicio del pueblo liberado.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "'Hoy he quitado de vosotros el oprobio de Egipto' (Jos 5:9): la circuncisión en Guilgal marca el nuevo inicio del pueblo liberado.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ophir",
+  "nombre": "Ophir",
+  "tipo": "territorio",
+  "lat": 22.0,
+  "lng": 77.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Mysterious land of origin of the purest gold in the Bible; its exact identification is uncertain (Arabia, India or East Africa).",
+  "altitud_m": 500,
+  "clima": "tropical",
+  "recursos": [
+    "gold",
+    "silver",
+    "precious wood",
+    "gemstones",
+    "ivory"
+  ],
+  "importancia_estrategica": "Main source of gold for the Temple of Solomon; symbol of unmatched wealth in the OT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ofi_h1",
+      "titulo": "Solomon fleets go to Ofir",
+      "fecha": "ca. 950 BC",
+      "descripcion": "Solomon sends a fleet from Ezion-Geber with Hiram's men from Tyre; They bring from Ophir four hundred and twenty talents of gold.",
+      "referencias": [
+        "1 Kgs 9:26-28"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "ofi_h2",
+      "titulo": "Ophir's gold for the Temple",
+      "fecha": "ca. 960 BC",
+      "descripcion": "David prepared large quantities of the purest gold from Ophir for the Temple that Solomon would build.",
+      "referencias": [
+        "1 Chr 29:4"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ofi_h3",
+      "titulo": "The gold of Ophir in the Psalms",
+      "fecha": "ca. 1000-400 BC",
+      "descripcion": "Psalm 45 uses 'the gold of Ophir' as an image of the most valuable jewel; Job uses it as a symbol of the incomparable.",
+      "referencias": [
+        "Ps 45:9",
+        "Job 28:16"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ofi_p1",
+      "nombre": "Solomon",
+      "rol": "King by Israel",
+      "periodo": "ca. 970-931 BC",
+      "descripcion": "He organized the maritime expeditions that brought gold from Ophir for the Temple and his palace.",
+      "referencias": [
+        "1 Kgs 9:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p2",
+      "nombre": "Hiram by Tyre",
+      "rol": "Navigating Phoenician king",
+      "periodo": "ca. 980-947 BC",
+      "descripcion": "His sailors guided the fleets of Solomon to Ophir.",
+      "referencias": [
+        "1 Kgs 9:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p3",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He reserved large quantities of gold from Ophir for the Temple that he was not allowed to build.",
+      "referencias": [
+        "1 Chr 29:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ophir: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ofi_m1",
+        "nombre": "Ophir's gold",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The 'gold of Ophir' is the biblical qualification for the purest gold; Their land of origin remains mysterious, a symbol of God's unfathomable wealth.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The 'gold of Ophir' is the biblical qualification for the purest gold; Their land of origin remains mysterious, a symbol of God's unfathomable wealth.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "achor_valley",
+  "nombre": "Valle di Acor",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.84,
+  "lng": 35.4,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Valle a nord di Gerico, vicino al Mar Morto. Luogo del giudizio su Acan e porta della speranza messianica secondo Osea.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Valle del tumulto e porta della speranza; dove il peccato veniva giudicato e la speranza promessa.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "aco_h1",
+      "titulo": "Il giudizio di Acan nella Valle di Acor",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Viene scoperto Acan, che ha rubato l'anatema di Gerico; tutto Israele lo lapida nella valle di Acor.",
+      "referencias": [
+        "Gs 7:24-26"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Acán"
+      ]
+    },
+    {
+      "id": "aco_h2",
+      "titulo": "La Valle di Acor come porta di speranza",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Osea profetizza che nella restaurazione Dio trasformerà la valle di Acor (\"turbance\") in una porta di speranza.",
+      "referencias": [
+        "Os 2:15"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "aco_h3",
+      "titulo": "La Valle di Acor nel patrimonio di Giuda",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La Valle di Acor segnava il limite settentrionale dell'eredità di Giuda.",
+      "referencias": [
+        "Gs 15:7"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "aco_p1",
+      "nombre": "Acan",
+      "rol": "Israelita che peccò",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Ha rubato l'anatema di Gerico e ha causato la sconfitta di Israele ad Hai; Fu giustiziato nella valle di Acor.",
+      "referencias": [
+        "Gs 7:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p2",
+      "nombre": "Giosuè",
+      "rol": "Conquistatore",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Ha presieduto il processo contro Acan; In sua memoria il luogo venne chiamato Achor (disturbo).",
+      "referencias": [
+        "Gs 7:26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p3",
+      "nombre": "Osea",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Promise che la valle del giudizio (Acor) sarebbe diventata una porta di speranza nella restaurazione.",
+      "referencias": [
+        "Os 2:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle di Acor: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "aco_m1",
+        "nombre": "Dalla confusione alla speranza",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La Valle di Acor (“turbazione”) fu teatro del giudizio sul peccato di Acan; Osea ne fa un simbolo di restaurazione: il luogo del fallimento diventa una porta di speranza.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Valle di Acor (“turbazione”) fu teatro del giudizio sul peccato di Acan; Osea ne fa un simbolo di restaurazione: il luogo del fallimento diventa una porta di speranza.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

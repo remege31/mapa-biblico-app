@@ -1,0 +1,147 @@
+{
+  "id": "thebes",
+  "nombre": "Tebe (No-Ammon)",
+  "tipo": "ciudad",
+  "lat": 25.700025,
+  "lng": 32.639441,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II - Capitale Superiore Egitto, profetizzò la distruzione"
+    }
+  ],
+  "descripcion_geo": "Antica e prestigiosa capitale dell'Alto Egitto, conosciuta in ebraico come 'No' o 'No-Ammon' (per il suo grande tempio dedicato al dio Ammon), una delle città più ricche e potenti del mondo antico, menzionata negli oracoli profetici come esempio della distruzione ormai compiuta di una grande potenza.",
+  "altitud_m": 80,
+  "clima": "Deserto subtropicale: estremamente caldo e secco tutto l'anno, tipico dell'Alto Egitto lungo il Nilo.",
+  "recursos": [
+    "Grande tempio dedicato al dio Ammon",
+    "Capitale di grande prestigio religioso e politico dell'Alto Egitto",
+    "Ricchezza leggendaria come una delle città più prospere del mondo antico"
+  ],
+  "importancia_estrategica": "Tebe funziona nel testo biblico, specialmente nell'oracolo di Nahum contro Ninive, come un esempio storico già compiuto della distruzione di una grande capitale apparentemente invincibile: la sua caduta effettiva nelle mani degli Assiri (663 a.C.) è usata retoricamente come un avvertimento che lo stesso destino attende Ninive nonostante il suo attuale potere, dimostrando che nessuna città, non importa quanto prestigiosa o fortificata, sfugge al giudizio divino.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_tebas",
+      "nombre": "Popolazione egiziana di Tebe",
+      "descripcion": "Abitanti di una delle città più prestigiose e antiche del Egitto, la cui storica distruzione da parte degli Assiri è citata come precedente ammonitore negli oracoli profetici biblici.",
+      "religion": "Politeismo egiziano: culto di Ammon",
+      "periodo": "C. 1000–663 a.C"
+    },
+    {
+      "id": "aliados_tebas",
+      "nombre": "Alleati di Tebe (Cush, Put, Lubim)",
+      "descripcion": "Città alleate menzionate da Naum come supporto militare per Tebe che, nonostante la loro forza combinata, non ne impedirono la distruzione definitiva da parte degli Assiri.",
+      "religion": "Diverse religioni politeiste africane",
+      "periodo": "C. 663 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "nahum-recuerda-destruccion-tebas",
+      "titulo": "Nahum ricorda la distruzione di Tebe come un avvertimento a Ninive",
+      "fecha": "c. 663–612 a.C.",
+      "descripcion": "Il profeta Nahum, nel suo oracolo contro Ninive, ricorda esplicitamente la distruzione già compiuta di Tebe (No-Ammon) pur avendo il fiume come difesa naturale e potenti alleati militari come Cush, Egitto, Put e i Libici, usando questo precedente storico come avvertimento che Ninive subirà un destino simile nonostante la sua apparente potenza.",
+      "referencias": [
+        "Na 3:8-10"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    },
+    {
+      "id": "ezequiel-oraculo-tebas",
+      "titulo": "Ezechiele include Tebe nel suo oracolo contro Egitto",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Il profeta Ezechiele menziona esplicitamente Noè (Tebe) nel suo ampio oracolo di giudizio contro Egitto, annunciando che questa città sarà distrutta insieme a Sin, Menfi e altre città in territorio egiziano.",
+      "referencias": [
+        "Ez 30:14-16"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "jeremias-mencion-no-tebas",
+      "titulo": "Geremia annovera No tra le città del giudizio egiziano",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Geremia menziona Noè anche nel suo catalogo delle città egiziane sotto giudizio, citando Ammon di Noè, la principale divinità della città, come oggetto specifico di punizione divina insieme al Faraone.",
+      "referencias": [
+        "Ger 46:25"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nahum_tebas",
+      "nombre": "Nahum",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 663–612 a.C.",
+      "descripcion": "Egli utilizza il precedente storico della distruzione di Tebe come argomento retorico centrale del suo oracolo di giudizio contro Ninive, dimostrando che nessuna capitale, per quanto difesa e alleata possa essere, sfugge al giudizio divino.",
+      "referencias": [
+        "Na 3:8-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ezequiel_tebas",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio",
+      "periodo": "hierro_2",
+      "descripcion": "Include Tebe tra le città egiziane destinate alla distruzione nel suo vasto oracolo di giudizio contro l'intero territorio del Nilo.",
+      "referencias": [
+        "Ez 30:14-16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "amon_dios_tebas",
+      "nombre": "Ammon di No (divinità)",
+      "rol": "Principale divinità di Tebe, oggetto del processo",
+      "periodo": "c. 1000–587 a.C.",
+      "descripcion": "Dio egiziano il cui grande tempio diede alla città il suo nome ebraico (\"No-Ammon\"), menzionato esplicitamente da Geremia come oggetto diretto della punizione divina insieme al potere politico del Faraone.",
+      "referencias": [
+        "Ger 46:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tebe funziona nel corpus profetico come un caso di studio storico verificabile dell'inevitabilità del giudizio divino contro il potere umano più consolidato: la sua distruzione reale da parte degli Assiri nel 663 a.C. –un evento storicamente documentato al di fuori del racconto biblico– diventa un argomento retorico di massima forza persuasiva per Nahum, che lo usa proprio perché il suo pubblico conosceva il fatto storico compiuto, non come una profezia futura ma come un precedente compiuto che garantisce la veridicità del giudizio annunciato contro Ninive.",
+    "religiones_presentes": [
+      "Politeismo egiziano: culto di Ammon",
+      "Yahvismo (prospettiva degli oracoli profetici)"
+    ],
+    "mitos": [
+      {
+        "id": "precedente-historico-tebas-ninive",
+        "nombre": "Tebe come precedente storico verificabile per il processo a Ninive",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Na 3:8-10",
+          "fuente_secundaria": "Comentario académico y rabínico tradicional sobre el valor retórico excepcional de Nahúm al citar un evento históricamente verificable (la destrucción de Tebas, confirmada por registros asirios extrabíblicos) como argumento para un juicio futuro",
+          "descripcion": "La tradizione ebraica e la successiva esegesi accademica apprezzano particolarmente la strategia retorica di Nahum nel basare il suo annuncio del futuro giudizio contro Ninive su un fatto storico già compiuto e verificabile dal suo stesso pubblico, una tecnica che conferisce una forza persuasiva speciale all'oracolo facendo appello a recenti prove tangibili invece di dichiarazioni puramente profetiche senza supporto verificabile.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L’utilizzo di un precedente storico verificabile rafforza la credibilità del giudizio profetico, dimostrando che lo stesso modello di distruzione che si è abbattuto su Tebe, grande capitale con potenti alleati, raggiungerà inevitabilmente anche Ninive.",
+          "posible_relacion_cultural": "Convergenza documentata tra il testo profetico biblico e documenti storici extrabiblici riguardanti la distruzione assira di Tebe nel 663 a.C."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

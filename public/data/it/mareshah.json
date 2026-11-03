@@ -1,0 +1,161 @@
+{
+  "id": "mareshah",
+  "nombre": "Maresa",
+  "tipo": "ciudad",
+  "lat": 31.60393321295081,
+  "lng": 34.90237777777779,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Città fortificata di Roboamo, battaglia contro gli Etiopi"
+    }
+  ],
+  "descripcion_geo": "Città nella Sefela meridionale di Giuda, fortificata da Roboamo come parte del sistema difensivo del regno dopo la divisione del Regno Unito. Vicino alle pianure meridionali dove passavano le rotte di invasione da Egitto e dal deserto.",
+  "altitud_m": 370,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah meridionale.",
+  "recursos": [
+    "Posizione fortificabile nella Shephelah meridionale",
+    "Controllo delle vie di accesso da sud e sud-ovest"
+  ],
+  "importancia_estrategica": "Maresah era una delle quindici città fortificate da Roboamo per la difesa del regno appena diviso di Giuda, e in seguito teatro della grande battaglia della valle di Shephathah vicino a Maresah, dove il re Asa affronta e sconfigge un massiccio esercito invasore etiope (cusita), un episodio presentato come un esempio paradigmatico di vittoria attraverso la fiducia in YHWH di fronte a una forza numericamente schiacciante.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_maresa",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Popolazione ebraica di Maresá, città inclusa nel sistema di fortificazioni organizzato da Roboamo dopo la secessione del regno settentrionale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 925–586 a.C"
+    },
+    {
+      "id": "ejercito_zera_maresa",
+      "nombre": "Esercito etiope (cusita) di Zera",
+      "descripcion": "Una massiccia forza d'invasione dall'Etiopia/Cush avanza verso Maresah e viene definitivamente sconfitta dall'esercito di Asa nella valle di Shephata.",
+      "religion": "Religione cushita (antico politeismo africano)",
+      "periodo": "C. 897 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "roboam-fortifica-maresa",
+      "titulo": "Roboamo fortifica Mareshah",
+      "fecha": "c. 925–913 a.C.",
+      "descripcion": "Mareshah è inclusa tra le quindici città che Roboamo fortifica in Giuda dopo la divisione del Regno Unito, facente parte della cintura difensiva meridionale del regno.",
+      "referencias": [
+        "2 Cr 11:8"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    },
+    {
+      "id": "asa-derrota-zera-maresa",
+      "titulo": "Asa sconfigge l'esercito etiope di Zerah nella valle di Shephathah",
+      "fecha": "c. 897 a.C.",
+      "descripcion": "Di fronte all'invasione di un milione di uomini e trecento carri al comando di Zerach l'etiope, il re Asa invoca YHWH prima della battaglia, dichiarando di fidarsi solo di lui di fronte alla moltitudine invasore; Israele sconfigge definitivamente l'esercito cusita nella valle di Shephathah, vicino a Mareshah, e lo insegue fino a Gerar, portando via un enorme bottino.",
+      "referencias": [
+        "2 Cr 14:9-15"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    },
+    {
+      "id": "azarias-profecia-maresa",
+      "titulo": "Il profeta Azaria riceve Asa dopo la vittoria",
+      "fecha": "c. 897 a.C.",
+      "descripcion": "Dopo la vittoria su Zerach, il profeta Azaria figlio di Oded va incontro ad Asa con un oracolo che lo incoraggia a perseverare nella riforma religiosa, avvertendolo anche dei pericoli dell'apostasia, episodio che spinge a un'ulteriore purificazione del culto in Giuda.",
+      "referencias": [
+        "2 Cr 15:1-8"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asa_maresa",
+      "nombre": "Maniglia",
+      "rol": "Re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Guida la difesa di Giuda contro la massiccia invasione etiope di Zera, sconfiggendola definitivamente nella valle di Shefata vicino a Maresá dopo aver invocato l'aiuto di YHWH, episodio che il testo della cronista presenta come modello di fiducia religiosa di fronte a una schiacciante minaccia militare.",
+      "referencias": [
+        "2 Cr 14:9-15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mareshah"
+      ]
+    },
+    {
+      "id": "zera_etiope",
+      "nombre": "Zera l'Etiope",
+      "rol": "Comandante dell'esercito invasore cusita",
+      "periodo": "c. 897 a.C.",
+      "descripcion": "Guida una massiccia forza d'invasione composta da un milione di uomini e trecento carri contro Giuda, definitivamente sconfitto da Asa nella valle di Shephathah, episodio ricordato come una delle più grandi vittorie difensive del regno di Giuda.",
+      "referencias": [
+        "2 Cr 14:9-13"
+      ],
+      "ruta": [
+        "mareshah"
+      ]
+    },
+    {
+      "id": "azarias_oded",
+      "nombre": "Azaria figlio di Oded",
+      "rol": "Profeta che riceve Asa dopo la vittoria",
+      "periodo": "c. 897 a.C.",
+      "descripcion": "Consegna un oracolo di incoraggiamento e avvertimento ad Asa dopo la vittoria su Zerah, provocando una nuova fase di riforma religiosa nel regno di Giuda.",
+      "referencias": [
+        "2 Cr 15:1-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Maresah è l'ambientazione di uno dei racconti di guerra più teologicamente carichi del cronista: la vittoria di Asa su un esercito di gran lunga superiore numericamente è presentata esplicitamente come risultato della fiducia dichiarata in YHWH prima della battaglia, non della superiorità militare israelita. L'episodio si inquadra nello schema del cronista di causalità diretta tra reale fedeltà religiosa e successo militare, poi rafforzato dall'intervento profetico di Azaria.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Religione cusita (esercito invasore)"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-confianza-yhwh-maresa",
+        "nombre": "La vittoria di Asa come modello di fiducia di fronte a una forza travolgente",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Cr 14:9-15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la oración de Asá como modelo de plegaria en momentos de amenaza existencial nacional",
+          "descripcion": "La tradizione ebraica valorizza la preghiera di Asa prima della battaglia - \"per te non c'è differenza tra aiutare i potenti o gli impotenti\" - come una formula paradigmatica di fiducia nella divina provvidenza di fronte a una minaccia sproporzionata, citata in successivi contesti liturgici di supplica nazionale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La vittoria su un nemico numericamente schiacciante dimostra che l’esito della guerra dipende da YHWH e non dalla grandezza delle forze avversarie.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Cr 14:9-15 (recepción patrística como ejemplo de oración confiada ante la adversidad)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre la oración de Asá como modelo de fe aplicable a toda situación de debilidad humana frente a fuerzas superiores",
+          "descripcion": "La tradizione cristiana riprende l'episodio come illustrazione generale del principio secondo cui la forza divina si manifesta pienamente nella riconosciuta debolezza umana, generalizzando la lezione oltre lo specifico contesto militare di Giuda.",
+          "similitudes": "Condividi con la lettura ebraica il valore della preghiera di Asa come modello di fiducia di fronte alle avversità.",
+          "diferencias": "La lettura cristiana tende a universalizzare il principio applicandolo a qualsiasi forma di debolezza o avversità, non solo ai contesti di guerra nazionale.",
+          "significado_teologico": "L'episodio viene integrato come precedente veterotestamentario del principio secondo cui la potenza divina si perfeziona nel riconoscimento umano della propria debolezza.",
+          "posible_relacion_cultural": "Ricezione condivisa delle storie dei re di Giuda come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

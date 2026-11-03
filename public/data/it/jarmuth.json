@@ -1,0 +1,151 @@
+{
+  "id": "jarmuth",
+  "nombre": "Jarmut",
+  "tipo": "ciudad",
+  "lat": 31.70926894307416,
+  "lng": 34.96995387025439,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città della coalizione amorrei, assegnata a Giuda"
+    }
+  ],
+  "descripcion_geo": "Città-stato cananea a Shephelah, vicino alla Valle di Elah e Azekah, governata da un re locale che era membro della coalizione di cinque re Amorrei che affrontava Giosuè dopo il patto di Gabaon con Israele.",
+  "altitud_m": 395,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale.",
+  "recursos": [
+    "Terreni agricoli della Shephelah",
+    "Posizione di controllo elevata sulle rotte locali"
+  ],
+  "importancia_estrategica": "Jarmut faceva parte della coalizione delle città-stato amorrei meridionali di Canaan guidate dal re di Gerusalemme; Dopo la sua sconfitta, la città viene assegnata al territorio di Giuda, integrandosi nella rete delle città della Sefela occidentale sotto il controllo israeliano.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_jarmut",
+      "nombre": "Cananei Amorrei",
+      "descripcion": "Città governata da Piram, re di Jarmut, membro della coalizione di cinque re Amorrei sconfitti da Giosuè nella campagna del sud.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "judaitas_jarmut",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Dopo la conquista, Jarmut viene assegnato al territorio di Giuda all'interno della divisione della Shephelah occidentale.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rey-jarmut-coalicion",
+      "titulo": "Piram, re di Jarmut, si unisce alla coalizione contro Gabaon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Piram, re di Jarmut, si unisce ad Adoni-sedec di Gerusalemme e ai re di Hebron, Lachis ed Eglon per attaccare Gabaon come rappresaglia per la sua alleanza con Israele, formando parte della coalizione di cinque re Amorrei che Giosuè sconfiggerà.",
+      "referencias": [
+        "Gs 10:3-5"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-rey-jarmut",
+      "titulo": "Esecuzione del re di Jarmut nella grotta di Maquedá",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dopo la sconfitta della coalizione, Piram, re di Jarmut, viene giustiziato insieme agli altri quattro re Amorrei riparati nella grotta di Makkedah, completando il processo contro la coalizione che aveva attaccato Gabaon.",
+      "referencias": [
+        "Gs 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jarmut-asignacion-juda",
+      "titulo": "Jarmut nell'elenco delle città Giuda",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Jarmut appare iscritta nell'elenco delle città della Sefela assegnate al territorio della tribù Giuda dopo la conquista, confermando la sua definitiva integrazione nel territorio israelita.",
+      "referencias": [
+        "Gs 15:35"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "piram_rey_jarmut",
+      "nombre": "Piram, re di Jarmut",
+      "rol": "Re amorreo di Jarmut, membro della coalizione meridionale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Si unisce alla coalizione di cinque re Amorrei contro Gabaon; Sconfitto in battaglia, fu giustiziato nella grotta di Maquedá insieme agli altri re della coalizione.",
+      "referencias": [
+        "Gs 10:3",
+        "Gs 10:23-26"
+      ],
+      "ruta": [
+        "jarmuth",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "josue_jarmut",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida la sconfitta della coalizione di cinque re che includeva Jarmut, consolidando il controllo israelita sulla Sefela occidentale.",
+      "referencias": [
+        "Gs 10:1-27"
+      ],
+      "ruta": [
+        "gibeon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "habitantes_jarmut",
+      "nombre": "Abitanti di Jarmut",
+      "rol": "Popolazione della città-stato cananea",
+      "periodo": "Anterior a c. 1200 a.C.",
+      "descripcion": "La popolazione locale si è successivamente integrata nel territorio di Giuda dopo la sconfitta del suo re nella coalizione contro Gabaon.",
+      "referencias": [
+        "Gs 15:35"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jarmut fa parte dello stesso episodio teologico di Eglon, Makkedah e delle altre città della coalizione dei cinque re: il racconto della conquista presentato dalla teologia deuteronomista come giudizio divino diretto contro i popoli Cananei che si oppongono al patto tra Israele e Gabaon, attuato attraverso la vittoria militare israelita assistita da prodigi naturali attribuiti a YHWH.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva della storia biblica)",
+      "Cananeo-Politeismo amorreo (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "coalicion-cinco-reyes-jarmut",
+        "nombre": "Jarmut nella coalizione dei cinque re Amorrei",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 10:3-27",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la solidaridad cananea contra Gabaón como ejemplo de la oposición unida de los pueblos de la tierra al pacto entre Israel y sus aliados",
+          "descripcion": "La tradizione ebraica rileva che la coalizione dei cinque re, inclusa quella di Jarmut, esemplifica come l'alleanza di Gabaon con Israele abbia innescato una risposta unificata da parte dei vicini regni Cananei, interpretando la sconfitta di questa coalizione come una conferma che nessun patto protettivo sotto l'egida di Israele è lasciato senza il sostegno divino.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La sconfitta della coalizione conferma che la protezione divina si estende anche a coloro che, come i gabaoniti, abbracciano il patto con Israele, anche con mezzi discutibili.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

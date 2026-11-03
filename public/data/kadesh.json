@@ -1,0 +1,150 @@
+{
+  "id": "kadesh",
+  "nombre": "Cades (Barnea)",
+  "tipo": "ciudad",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 27,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "Bronce tardío"
+    }
+  ],
+  "descripcion_geo": "Oasis en el desierto de Zin, al sur del Néguev. Principal campamento de Israel durante el peregrinaje por el desierto.",
+  "altitud_m": 280,
+  "clima": "árido",
+  "recursos": [
+    "agua de manantial",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Base de operaciones de Israel en el desierto durante casi cuarenta años; punto de partida de los espías enviados a Canaán.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kad_h1",
+      "titulo": "Los doce espías enviados desde Cades",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Moisés envía doce espías desde Cades a reconocer Canaán; diez traen informe negativo y el pueblo desespera.",
+      "referencias": [
+        "Nm 13:17-33"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "kad_h2",
+      "titulo": "El agua de Meribá en Cades",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "El pueblo murmura por falta de agua; Moisés golpea la roca en lugar de hablarle y Dios le prohíbe entrar en Canaán.",
+      "referencias": [
+        "Nm 20:1-13"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón"
+      ]
+    },
+    {
+      "id": "kad_h3",
+      "titulo": "La muerte de Miriam en Cades",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Miriam, la hermana de Moisés y profetisa de Israel, muere y es sepultada en Cades.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kad_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador y legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "En Cades cometió el error que le impidió entrar en Canaán; pasó aquí años de peregrinaje.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p2",
+      "nombre": "Miriam",
+      "rol": "Profetisa y hermana de Moisés",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Murió y fue sepultada en Cades; guió el cántico de victoria tras el paso del Mar Rojo.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p3",
+      "nombre": "Caleb",
+      "rol": "Explorador fiel",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Uno de los dos espías que confió en Dios al regresar de explorar Canaán desde Cades.",
+      "referencias": [
+        "Nm 13:30"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Oasis del desierto donde Israel pasó la mayor parte de sus cuarenta años de peregrinaje; lugar de fracasos y fidelidades.",
+    "religiones_presentes": [
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "kad_m1",
+        "nombre": "El agua de la roca",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dios hace brotar agua de la roca en el desierto (Ex 17 y Nm 20); símbolo de la provisión divina en la sequedad.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dios hace brotar agua de la roca en el desierto (Ex 17 y Nm 20); símbolo de la provisión divina en la sequedad.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo interpreta la roca en el desierto como figura de Cristo: 'la roca era Cristo' (1 Co 10:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo interpreta la roca en el desierto como figura de Cristo: 'la roca era Cristo' (1 Co 10:4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El milagro del agua en el desierto aparece también en la tradición islámica sobre Musa (Moisés).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El milagro del agua en el desierto aparece también en la tradición islámica sobre Musa (Moisés).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

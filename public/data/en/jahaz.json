@@ -1,0 +1,149 @@
+{
+  "id": "jahaz",
+  "nombre": "yahas",
+  "tipo": "ciudad",
+  "lat": 31.50100308502659,
+  "lng": 35.92063125199366,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Decisive battle against Sihon"
+    }
+  ],
+  "descripcion_geo": "City in the eastern desert of Moab, on the border of Amorite territory, scene of the decisive battle between Israel and Sihon, king of the Amorites, which opened the way to the conquest of all of northern Transjordan.",
+  "altitud_m": 750,
+  "clima": "Semi-arid highland — hot, dry summers, cold winters, typical of the eastern edge of Moab towards the desert.",
+  "recursos": [
+    "Strategic border position between the desert and Amorite territory",
+    "Decisive battle point for control of Transjordan"
+  ],
+  "importancia_estrategica": "Yahas is the site of the battle that decides the fate of all Amorite territory east of the Jordan: the defeat of Sihon there opens the way for Israel to occupy the entire region between the Arnon and Jabbok, territory that will later be assigned to the tribes of Reuben and Gad, marking Israel's first major territorial military success before even crossing the Jordan into Canaan proper.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_yahas",
+      "nombre": "Amorites (Sihon's army)",
+      "descripcion": "Military forces of Sihon, Amorite king, decisively defeated by Israel at Yahas after refusing to allow peaceful passage requested by Moses.",
+      "religion": "Amorite polytheism",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "israelitas_yahas",
+      "nombre": "Israel of the exodus",
+      "descripcion": "Israelite army that obtains its first great decisive territorial victory against an organized kingdom in Yahas, even before crossing the Jordan towards Canaan.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sehon-niega-paso-yahas",
+      "titulo": "Sihon denies the peaceful passage and gathers his army in Yahas",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Moses sends messengers to Sihon requesting peaceful passage through his territory, promising not to deviate or touch his fields; Sihon refuses and, instead, gathers his entire army and goes out to meet Israel in the desert, reaching Yahas to fight.",
+      "referencias": [
+        "Num 21:21-23"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "derrota-sehon-yahas",
+      "titulo": "Israel defeats Sihon at Yahas",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Israel wounds Sihon with the edge of the sword in the battle of Yahas and takes possession of all his land from the Arnon to the Jabbok, a victory that becomes a recurring reference in later stories as paradigmatic proof of YHWH's power in favor of Israel in the conquest of Transjordan.",
+      "referencias": [
+        "Num 21:23-25",
+        "Deut 2:32-36"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "jueces-recuerdo-yahas",
+      "titulo": "Jephthah invokes the memory of Yahas's victory",
+      "fecha": "c. 1100 BC (referencia retrospectiva)",
+      "descripcion": "Centuries later, Judge Jephthah, in his diplomatic dispute with the king of the Ammonites, explicitly invokes Israel's historic victory over Sihon in the region of Yahas as the legitimate basis for Israelite possession of the disputed territory.",
+      "referencias": [
+        "Judg 11:19-22"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_yahas",
+      "nombre": "Moses",
+      "rol": "Leader of Israel in the conquest of Transjordan",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads Israel's first major decisive territorial victory at Yahas against Sihon, opening the way for possession of all Amorite territory east of the Jordan.",
+      "referencias": [
+        "Num 21:21-25"
+      ],
+      "ruta": [
+        "jahaz"
+      ]
+    },
+    {
+      "id": "sehon_yahas",
+      "nombre": "Sihon, king of the Amorites",
+      "rol": "Amorite king defeated at Yahas",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He rejects Israel's request for peaceful passage and is decisively defeated at Yahas, losing his entire kingdom between the Arnon and the Jabbok to Israel.",
+      "referencias": [
+        "Num 21:23-24"
+      ],
+      "ruta": [
+        "jahaz"
+      ]
+    },
+    {
+      "id": "jefte_yahas",
+      "nombre": "Jephthah",
+      "rol": "Israel judge, diplomatic negotiator",
+      "periodo": "Activo c. 1100 BC",
+      "descripcion": "He cites the ancient victory of Yahas as a legal and historical argument in his dispute with the king of the Ammonites over the legitimacy of Israelite possession of the Transjordan territory.",
+      "referencias": [
+        "Judg 11:12-27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Yahas is the site of Israel's first great territorial military victory narrated in the Mosaic corpus, presented as an initial demonstration of YHWH's power to deliver land to his people before even crossing the Jordan. Its subsequent invocation by Jephthah centuries later confirms that the memory of this battle functioned as a citable legal and theological precedent to legitimize Israelite territorial possession against claims by neighboring peoples.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Amorite polytheism (defeated army)"
+    ],
+    "mitos": [
+      {
+        "id": "primera-victoria-territorial-yahas",
+        "nombre": "Yahas as Israel's first major territorial victory",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 21:21-25; Deut 2:32-36; Jue 11:19-22",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la victoria de Yahas como precedente legal citado por Jefté frente a reclamos territoriales posteriores",
+          "descripcion": "Jewish tradition especially values ​​Yahas's victory being explicitly invoked centuries later by Jephthah as an argument for territorial legitimacy, establishing a precedent for how the historical foundational events of land ownership can and should be cited as legal foundation in the face of later disputes with neighboring nations.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The victory of Yahas becomes a recurring historical-legal basis for the legitimacy of the Israelite possession of Transjordan, citable generations later as documented proof of the acquired right.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "seir",
+  "nombre": "Seír",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -586,
+      "nombre": "Medium bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Mountainous region east of the Arabah, between the Dead Sea and the Gulf of Aqaba. Inhabited by the Edomites, descendants of Esau.",
+  "altitud_m": 1500,
+  "clima": "arid",
+  "recursos": [
+    "copper",
+    "grazing",
+    "caravan trade"
+  ],
+  "importancia_estrategica": "Land of Esau / Edom; control of the southern caravan routes.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sei_h1",
+      "titulo": "Esau settles in Seir",
+      "fecha": "ca. 1700 BC",
+      "descripcion": "Esau moves to the mountains of Seir with his family and flocks; there he founded the Edomite nation.",
+      "referencias": [
+        "Gen 36:8"
+      ],
+      "personajes_clave": [
+        "Esaú"
+      ]
+    },
+    {
+      "id": "sei_h2",
+      "titulo": "The dominion of the leaders of Seir",
+      "fecha": "ca. 1700-1200 BC",
+      "descripcion": "Esau's descendants reign in Seir: the Edom king list predates the Israelite monarchy.",
+      "referencias": [
+        "Gen 36:31-39"
+      ],
+      "personajes_clave": [
+        "jefes edomitas"
+      ]
+    },
+    {
+      "id": "sei_h3",
+      "titulo": "Israel must respect Seir",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "God orders Israel not to provoke the Edomites of Seir because they are 'sons of Esau, your brother.'",
+      "referencias": [
+        "Deut 2:1-8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sei_p1",
+      "nombre": "Esau",
+      "rol": "Patriarch of Edom/Seír",
+      "periodo": "ca. 1800 BC",
+      "descripcion": "He settled in Seir and was the father of all the Edomite tribes.",
+      "referencias": [
+        "Gen 36:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_p2",
+      "nombre": "Horit",
+      "rol": "Original inhabitant of Seir",
+      "periodo": "Época pre-edomita",
+      "descripcion": "The Horites inhabited Seir before the Edomites; Esau displaced them.",
+      "referencias": [
+        "Deut 2:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_p3",
+      "nombre": "Obadiah",
+      "rol": "Prophet",
+      "periodo": "ca. 590 BC",
+      "descripcion": "He prophesied against Seir/Edom for his betrayal during the fall of Jerusalem.",
+      "referencias": [
+        "Obad 1:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sister Earth of Israel (Esau and Jacob); his pride and betrayal at the time of Jerusalem's fall brought about Obadiah's prophecy.",
+    "religiones_presentes": [
+      "edomite_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "sei_m1",
+        "nombre": "Seir: the land of the enemy brother",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Abd 1:3-4",
+          "fuente_secundaria": "",
+          "descripcion": "Seír/Edom represents the brother who becomes an enemy; their arrogance will be humbled (Abd 1:3-4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Seír/Edom represents the brother who becomes an enemy; their arrogance will be humbled (Abd 1:3-4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

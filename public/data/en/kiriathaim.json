@@ -1,0 +1,153 @@
+{
+  "id": "kiriathaim",
+  "nombre": "Kiriathaim",
+  "tipo": "ciudad",
+  "lat": 31.58333333329998,
+  "lng": 35.70000000000012,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Moabite city conquered, assigned to Reuben"
+    }
+  ],
+  "descripcion_geo": "Ancient city on the Moab plateau, already mentioned in the pre-Israelite period as a place inhabited by the Emites, a people of giants according to the Genesis tradition. Its name ('two cities') suggests a double or twin settlement.",
+  "altitud_m": 700,
+  "clima": "Semi-arid highland — dry and hot summers, cold winters, typical of the Moabite plateau.",
+  "recursos": [
+    "Agricultural land of the Moabite plateau",
+    "Documented pre-Israelite antiquity position"
+  ],
+  "importancia_estrategica": "Kiriataim is one of the oldest cities mentioned in the biblical record, linked to the Emites in the times of Abraham, long before the Israelite conquest; Its subsequent assignment to Reuben and eventual recovery by Moab follows the same pattern of border dispute as other nearby cities such as Baal-meón and Medeba.",
+  "otros_habitantes": [
+    {
+      "id": "emitas_kiriathaim",
+      "nombre": "emit",
+      "descripcion": "People described as large, numerous and tall 'like the Anakim', original inhabitants of Kiriataim according to the genealogical memory of Deuteronomy, defeated in the time of Chedorlaomer.",
+      "religion": "Early Canaanite-Transjordan religion",
+      "periodo": "c. 2050 BC (narrative, Abraham era)"
+    },
+    {
+      "id": "moabitas_kiriathaim",
+      "nombre": "Moabites",
+      "descripcion": "Population that occupies Kiriataim after the displacement of the Emites and that recovers it again after the period of Israelite control, the reason for the prophetic oracles of judgment.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "Since c. 1900 BC and again from c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "quedorlaomer-emitas-kiriathaim",
+      "titulo": "Chedorlaomer defeats the Emites at Kiryathaim",
+      "fecha": "c. 2050 BC (narrativa, época de Abraham)",
+      "descripcion": "In the campaign of the four eastern kings narrated in the Abraham cycle, Chedorlaomer and his allies defeat the Emites at Save-kiriathaim, an episode that precedes the capture of Lot and the subsequent military intervention of Abraham to rescue him.",
+      "referencias": [
+        "Gen 14:5"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "kiriathaim-asignada-ruben",
+      "titulo": "Kiriathaim assigned to the tribe of Reuben",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the conquest of the Amorite-Moabite territory, Kiriataim is included among the cities assigned to the tribe of Reuben in the division of Transjordan.",
+      "referencias": [
+        "Num 32:37",
+        "Josh 13:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jeremias-oraculo-kiriathaim",
+      "titulo": "Jeremiah prophesies the shame of Kiriathaim",
+      "fecha": "c. 600 BC",
+      "descripcion": "The prophet Jeremiah includes Kiryathaim among the shamed and broken Moabite cities in his extensive oracle of judgment against Moab, confirming that by this time the city had definitively returned to Moabite hands.",
+      "referencias": [
+        "Jer 48:1",
+        "Jer 48:23"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_kiriathaim",
+      "nombre": "Abraham",
+      "rol": "Patriarch, rescuer of Lot",
+      "periodo": "bronce_medio",
+      "descripcion": "Although he does not participate directly in the battle of Kiriathaim, his subsequent rescue of Lot after his capture by the same coalition of eastern kings indirectly connects the patriarch with this early war episode in the region.",
+      "referencias": [
+        "Gen 14:1-16"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    },
+    {
+      "id": "quedorlaomer_kiriathaim",
+      "nombre": "Chedorlaomer, king of Elam",
+      "rol": "Leader of the coalition of four eastern kings",
+      "periodo": "c. 2050 BC (narrativa)",
+      "descripcion": "He leads the military campaign that defeats the Emites in Kiriataim and other Transjordanian towns before capturing Lot in Sodom, an episode that precedes Abraham's intervention.",
+      "referencias": [
+        "Gen 14:1-11"
+      ],
+      "ruta": [
+        "kiriathaim"
+      ]
+    },
+    {
+      "id": "jeremias_kiriathaim",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He includes Kiryathaim in his extensive oracle of judgment against Moab, documenting the entire geography of the Moabite kingdom in its final phase before the exile.",
+      "referencias": [
+        "Jer 48:1-46"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kiriataim is one of the few transjordanian cities with explicit mention in the patriarchal cycle, long before the Israelite conquest, which gives it an exceptional temporal depth within the biblical story. Its appearance in the Chedorlaomer episode connects the cycle of Abraham with the geography that centuries later would be the scene of the Mosaic conquest and, finally, of the prophetic oracles of judgment against Moab, tracing a narrative arc that covers practically the entire history of the Old Testament.",
+    "religiones_presentes": [
+      "Yahwism (rubenite control period)",
+      "Religion of the Emites (oldest pre-Israelite substratum)",
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "emitas-gigantes-kiriathaim",
+        "nombre": "The Emites, a town of giants in Kiriathaim",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 14:5; Deut 2:10-11",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre los pueblos gigantes pre-israelitas (emitas, refaítas, anaceos) como categoría relacionada de habitantes primitivos de Canaán y la Transjordania",
+          "descripcion": "Jewish tradition groups the Emites of Kiryathaim within the broader category of people of great stature who inhabited the region before the later migrations, explicitly comparing them with the Anakims of Canaan, and understanding their successive displacement by Moabites and then by Israel as part of the providential process of land reallocation between nations.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The successive displacement of peoples in Kiryathaim exemplifies the biblical principle that YHWH arranges the distribution of lands among the nations according to his own design, including the replacement of powerful peoples with weaker ones.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

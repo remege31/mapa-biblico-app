@@ -1,0 +1,186 @@
+{
+  "id": "gibeon",
+  "nombre": "Gabaon",
+  "tipo": "ciudad",
+  "lat": 31.8394,
+  "lng": 35.1786,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 36,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città alveare, alleata di Israele"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Santuario reale Salomone"
+    }
+  ],
+  "descripcion_geo": "Gabaon (oggi el-Jib, Cisgiordania) si trova nelle Benjamin Highlands, a circa 9 km a nord-ovest di Gerusalemme. Il sito archeologico ha conservato straordinariamente bene la grande cisterna circolare (Piscina di Gabaon) menzionata in 2 Samuele 2:13, con una scala a chiocciola scavata nella roccia che scende per 12 metri fino alla falda freatica. La città controllava l'accesso al percorso che scendeva dagli altopiani alla pianura costiera.",
+  "altitud_m": 783,
+  "clima": "Montagna mediterranea — simile a Gerusalemme, con precipitazioni annuali di 500-600 mm ed estati secche. L'elevazione garantiva l'accumulo dell'acqua nelle grandi cisterne scavate nella roccia.",
+  "recursos": [
+    "Acqua (grande cisterna circolare scavata nella roccia, sistema di cunicoli fino alla falda freatica)",
+    "Terreno agricolo terrazzato",
+    "Posizione strategica (controllo dell'accesso a Gerusalemme da ovest)",
+    "Vigneti (anfore con iscrizioni lmlk da Gabaon rinvenute negli scavi)"
+  ],
+  "importancia_estrategica": "Controllava l'accesso a Gerusalemme dalla direzione della pianura costiera, la strada per Beth-Horon. Una grande città come una città reale (Gs 10,2), con i suoi guerrieri. Il santuario di Gabaon era il luogo di culto più importante di Israele prima della costruzione del Tempio, dove Salomone offriva 1.000 olocausti e riceveva saggezza nei sogni.",
+  "otros_habitantes": [
+    {
+      "id": "heveos-gabaon",
+      "nombre": "Hiviti della Tetrapoli gabaonita",
+      "descripcion": "I Gabaoniti erano Hivvei (una delle nazioni cananee pre-israelite) che formavano una confederazione di quattro città: Gabaon, Chephira, Beeroth e Kiriath-Jearim. Hanno ingannato Giosuè fingendosi viaggiatori provenienti da una terra lontana per ottenere un patto di pace. Scoperti, furono condannati a fare gli spaccalegna e i portatori d'acqua per la comunità e l'altare di YHWH, divenendo servi del santuario.",
+      "religion": "Cananeo-Politeismo evita, successiva integrazione nel servizio del santuario yahvista",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "gabaonitas-david",
+      "nombre": "Gabaoniti al tempo di Davide",
+      "descripcion": "Una carestia durata tre anni durante il regno di Davide fu attribuita alla violazione da parte di Saul del patto con i Gabaoniti tentando di sterminarli. Davide consegnò sette discendenti di Saul ai Gabaoniti, che li giustiziarono. Rizpah, concubina di Saul e madre di due dei giustiziati, vegliò sui loro corpi finché Davide non li seppellì con onori. L'episodio riflette la sacralità delle alleanze nella tradizione israelita.",
+      "religion": "Yahvismo con memoria dei sacri patti",
+      "periodo": "C. 1000 a.C"
+    },
+    {
+      "id": "levitas-gabaon",
+      "nombre": "Comunità levitica",
+      "descripcion": "Gabaon fu assegnata come città levitica della tribù di Beniamino (Gs 21:17; 1 Cron 6:60). Il tabernacolo di Mosè, la tenda originale del deserto, fu allestito in Gabaon, rendendo la città il principale santuario di Israele fino alla costruzione del Tempio di Salomone. La presenza levitica garantì la continuità del culto jahvista.",
+      "religion": "Yahvismo sacerdote levitico - tabernacolo del deserto in Gabaon",
+      "periodo": "C. 1200–950 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "engano-gabaonitas",
+      "titulo": "L'inganno dei Gabaoniti: alleanza con l'astuzia",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Quando Israele conquistò Canaan, gli abitanti di Gabaon temettero di essere sterminati. Inviarono ambasciatori con abiti logori, sandali strappati e pane secco, fingendosi viaggiatori provenienti da una terra lontana che chiedevano un patto di pace. Giosuè e i principi di Israele hanno stretto il patto senza consultare YHWH. Scoprendo l'inganno tre giorni dopo, non poterono infrangere il sacro giuramento. Condannarono i Gabaoniti a essere tagliatori di legna e portatori d'acqua per il santuario: un'integrazione forzata ma permanente.",
+      "referencias": [
+        "Gs 9:1-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "sol-detenido",
+      "titulo": "Il sole è fermo sopra Gabaon: la battaglia più lunga di Israele",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Quando i cinque re Amorrei attaccarono i Gabaoniti per aver stretto un patto con Israele, Giosuè venne in loro aiuto. Dio scagliò grandi pietre dal cielo contro il nemico. Quindi Giosuè pronunciò l'oracolo più audace del libro: Sol, fermati a Gabaon; e tu, luna, nella valle di Ajalon. E il sole rimase immobile finché Israele non si vendicò dei suoi nemici. Il testo aggiunge: Non ci fu giorno come quello, né prima né dopo, in cui YHWH ubbidì alla voce di un uomo.",
+      "referencias": [
+        "Gs 10:1-15"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "salomon-gabaon",
+      "titulo": "Salomone in Gabaon: il sogno che ha dato saggezza",
+      "fecha": "c. 960 a.C.",
+      "descripcion": "All'inizio del suo regno, Salomone andò a Gabaon, il santuario più grande, dove si trovava il tabernacolo nel deserto, e offrì 1.000 olocausti sull'altare. Quella notte YHWH gli apparve in sogno e gli disse: Chiedimi quello che vuoi che ti dia. Salomone ha chiesto un cuore in ascolto per governare le persone e distinguere il bene dal male. Dio, compiaciuto che non chiedesse ricchezze, onore o lunga vita, gli concesse la saggezza e anche ciò che non aveva chiesto. Il sogno di Gabaon è il testo fondante della tradizione di saggezza in Israele.",
+      "referencias": [
+        "1 Re 3:4-15",
+        "2 Cr 1:1-13"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue-gabaon",
+      "nombre": "Giosuè",
+      "rol": "Comandante che ha fermato il sole su Gabaon",
+      "periodo": "bronce_tardio",
+      "descripcion": "In Gabaon, Giosuè è stato protagonista di due degli episodi più importanti della sua carriera: l'alleanza con i Gabaoniti tramite l'inganno - che ha insegnato a Israele l'indissolubile sacralità dei patti - e la battaglia in cui ha fermato il sole, il prodigio militare più straordinario del libro che porta il suo nome. L'ordine al sole è il gesto più ardito di tutta la Bibbia: un uomo che ordina alle stelle.",
+      "referencias": [
+        "Gs 9:1-27",
+        "Gs 10:1-15",
+        "Gs 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "gibeon",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "salomon-gabaon-pj",
+      "nombre": "Salomone",
+      "rol": "Re che ha ricevuto la saggezza nei sogni in Gabaon",
+      "periodo": "hierro_2",
+      "descripcion": "Il sogno di Gabaon all'inizio del regno di Salomone è il momento di massima chiarezza spirituale della sua vita. La scelta della saggezza rispetto alla ricchezza, all'onore e alla lunga vita definisce l'ideale del re giusto nella tradizione biblica. Tutta la tradizione sapienziale di Israele – Proverbi, Ecclesiaste, Canzone – è attribuita alla figura di Salomone, la cui saggezza ebbe inizio in quel sogno di Gabaon.",
+      "referencias": [
+        "1 Re 3:4-15",
+        "1 Re 4:29-34",
+        "1 Re 10:1-13"
+      ],
+      "ruta": [
+        "bethlehem",
+        "jerusalen",
+        "gibeon"
+      ]
+    },
+    {
+      "id": "rizpa",
+      "nombre": "Rizpa pipistrello Aya",
+      "rol": "Concubina di Saul, guardiana dei morti",
+      "periodo": "c. 1000 a.C.",
+      "descripcion": "Rizpah è uno dei personaggi più tragici e silenziosi dell'Antico Testamento. Quando Davide consegnò ai Gabaoniti sette discendenti di Saul per espiare la violazione del patto, Rizpah, madre di due di loro, stese un sacco sulla roccia e vegliò sui cadaveri dall'inizio della mietitura fino alla pioggia, scacciando gli uccelli di giorno e le bestie selvatiche di notte. Quando Davide sentì parlare di lei, raccolse le ossa di Saul e dei suoi figli e li seppellì con onore. Il gesto di Rizpa è l'amore materno più puro e il silenzio più eloquente della Bibbia.",
+      "referencias": [
+        "2 Sam 21:1-14"
+      ],
+      "ruta": [
+        "gibeon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gabaon è il grande santuario pre-tempio di Israele. Il tabernacolo del deserto, la dimora portatile di YHWH durante l'esodo, fu installato in Gabaon, rendendo questa città ivita, integrata con la forza in Israele con un inganno, il luogo più sacro della città fino alla costruzione del Tempio. Il paradosso è teologicamente eloquente: il luogo dove viveva YHWH era una città di Cananei convertiti in servi del santuario. Il sogno di Salomone in Gabaon è il testo fondamentale della teologia della saggezza in Israele.",
+    "religiones_presentes": [
+      "Yahvismo del tabernacolo (santuario nel deserto in Gabaon)",
+      "Cananeo-Politeismo ivita (periodo pre-israelita)",
+      "Levitico Yahvismo (città assegnata ai Leviti)"
+    ],
+    "mitos": [
+      {
+        "id": "sol-detente",
+        "nombre": "Il sole si è fermato su Gabaon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josué 10:12-14",
+          "fuente_secundaria": "Talmud Bavli, Avoda Zara 25a; Midrash Bereshit Rabbah 6; Ben Sira 46:4",
+          "descripcion": "Il Talmud ricorda che il libro di Yashar (menzionato in Gsè 10,13) è il libro della Genesi, dove le nazioni vengono benedette attraverso Abramo: il merito dei patriarchi fermò il sole. Ben Sira 46:4 loda Giosuè: Non avvenne che ai suoi giorni il sole si ritirò e un giorno divenne due? La tradizione ebraica interpreta il miracolo come la più grande dimostrazione dell'attenzione divina alla preghiera umana.",
+          "similitudes": "Il prodigio solare ha paralleli nei testi astronomici babilonesi e nel ritiro solare del re Ezechia (Is 38,8).",
+          "diferencias": "Il prodigio di Giosuè è a favore della battaglia; Quello di Ezechia è un segno di guarigione. In Giosuè è l'uomo a parlare; in Ezechia è YHWH che offre il segno.",
+          "significado_teologico": "YHWH obbedisce alla voce di un uomo: l'affermazione più straordinaria dell'efficacia della domanda umana nell'intero AT.",
+          "posible_relacion_cultural": "I testi di battaglia dell'antico Oriente menzionano spesso i prodigi astronomici come segni di sostegno divino."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josué 10:12-14; Ben Sira 46:4",
+          "fuente_secundaria": "Agustín, Ciudad de Dios X.8; comentarios medievales",
+          "descripcion": "La tradizione patristica ha interpretato il sole fermo su Gabaon come tipo (figura) della vittoria di Cristo sulla morte. Così come il sole si è fermato per completare la vittoria di Giosuè, la risurrezione di Cristo interrompe il corso ordinario del tempo per donare la vittoria definitiva. L'identificazione del nome Giosuè = Gesù (stesso nome in ebraico) alimenta questa lettura tipologica.",
+          "similitudes": "La vittoria militare che trascende i limiti naturali del tempo è condivisa da entrambe le tradizioni.",
+          "diferencias": "L'esegesi cristiana traspone il prodigio storico in un simbolo di vittoria escatologica.",
+          "significado_teologico": "Giosuè come figura di Gesù; la battaglia di Gabaon come figura della vittoria di Pasqua.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

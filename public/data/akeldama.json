@@ -1,0 +1,250 @@
+{
+  "id": "akeldama",
+  "nombre": "Acéldama (Campo de Sangre)",
+  "tipo": "ciudad",
+  "lat": 31.77,
+  "lng": 35.229,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": 30,
+      "hasta": 30,
+      "nombre": "Romano"
+    }
+  ],
+  "descripcion_geo": "Terreno al sur de Jerusalén en el valle de Hinom, comprado con las treinta monedas de plata de la traición de Judas.",
+  "altitud_m": 600,
+  "clima": "mediterráneo",
+  "recursos": [
+    "arcilla",
+    "alfarería"
+  ],
+  "importancia_estrategica": "Lugar de sepultura de extranjeros; símbolo de la traición y el dinero de sangre en la narrativa pasional.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ace_h1",
+      "titulo": "El precio del traidor: el campo comprado con sangre",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Los sacerdotes devuelven las treinta monedas de Judas y compran el Campo del Alfarero para sepultar extranjeros; se llamó 'Campo de Sangre'.",
+      "referencias": [
+        "Mt 27:3-10"
+      ],
+      "personajes_clave": [
+        "Judas",
+        "sacerdotes"
+      ]
+    },
+    {
+      "id": "ace_h2",
+      "titulo": "La muerte de Judas en Acéldama",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Según Hechos, Judas cayó de cabeza en ese campo y sus intestinos se derramaron; el lugar recibió el nombre de Acéldama.",
+      "referencias": [
+        "Hch 1:18-19"
+      ],
+      "personajes_clave": [
+        "Judas"
+      ]
+    },
+    {
+      "id": "ace_h3",
+      "titulo": "El cumplimiento de la profecía de Jeremías",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Mateo ve en la compra del campo el cumplimiento del profeta Jeremías: treinta piezas de plata por el precio del Señor.",
+      "referencias": [
+        "Mt 27:9-10",
+        "Jer 32:9",
+        "Zac 11:12"
+      ],
+      "personajes_clave": [
+        "evangelista Mateo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ace_p1",
+      "nombre": "Judas Iscariote",
+      "rol": "Discípulo traidor",
+      "periodo": "s. I d.C.",
+      "descripcion": "Entregó a Jesús por treinta monedas; devolvió el dinero y murió en Acéldama.",
+      "referencias": [
+        "Mt 27:3-5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ace_p2",
+      "nombre": "Pedro",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Narró la historia de Judas y Acéldama ante los 120 discípulos en el cenáculo.",
+      "referencias": [
+        "Hch 1:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ace_p3",
+      "nombre": "Matías",
+      "rol": "Sucesor de Judas",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fue elegido por sorteo para ocupar el lugar vacante de Judas tras su muerte en Acéldama.",
+      "referencias": [
+        "Hch 1:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Campo de sangre: símbolo de la traición y la muerte del traidor; el precio del Salvador se convirtió en el precio de una tumba.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ace_m1",
+        "nombre": "El precio de la sangre",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Las treinta monedas de plata: precio del profeta en Zacarías 11:12-13; precio del traidor en el NT.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Las treinta monedas de plata: precio del profeta en Zacarías 11:12-13; precio del traidor en el NT.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Mateo ve en la compra del campo el cumplimiento de Jeremías y Zacarías: el dinero del rechazo se convierte en lugar de muerte.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mateo ve en la compra del campo el cumplimiento de Jeremías y Zacarías: el dinero del rechazo se convierte en lugar de muerte.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ace_nt_h1",
+        "titulo": "El campo comprado con las monedas de sangre",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Los sacerdotes usan las treinta monedas de Judas para comprar el campo del alfarero.",
+        "referencias": [
+          "Mt 27:6-8"
+        ],
+        "personajes_clave": [
+          "sacerdotes",
+          "Judas"
+        ]
+      },
+      {
+        "id": "ace_nt_h2",
+        "titulo": "La muerte de Judas en Acéldama",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Judas cayó en Acéldama y murió; el lugar es llamado 'Campo de Sangre' en arameo.",
+        "referencias": [
+          "Hch 1:18-19"
+        ],
+        "personajes_clave": [
+          "Judas"
+        ]
+      },
+      {
+        "id": "ace_nt_h3",
+        "titulo": "Pedro anuncia la elección del sucesor",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Pedro narra la historia de Judas ante los 120 y propone elegir a alguien que tome su apostolado.",
+        "referencias": [
+          "Hch 1:15-22"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ace_nt_p1",
+        "nombre": "Judas Iscariote",
+        "rol": "Traidor",
+        "periodo": "s. I d.C.",
+        "descripcion": "Murió en Acéldama tras devolver las treinta monedas.",
+        "referencias": [
+          "Mt 27:5"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ace_nt_p2",
+        "nombre": "Matías",
+        "rol": "Sucesor de Judas",
+        "periodo": "s. I d.C.",
+        "descripcion": "Elegido por sorteo para completar los Doce.",
+        "referencias": [
+          "Hch 1:26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ace_nt_p3",
+        "nombre": "Pedro",
+        "rol": "Portavoz apostólico",
+        "periodo": "s. I d.C.",
+        "descripcion": "Dio el discurso que llevó a la elección de Matías.",
+        "referencias": [
+          "Hch 1:15"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Acéldama es el memorial de la traición y el precio de la sangre.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "ace_nt_m1",
+          "nombre": "Las treinta monedas",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Zac 11:12-13",
+            "fuente_secundaria": "",
+            "descripcion": "El precio de la traición (30 monedas) cumple la profecía del pastor rechazado (Zac 11:12-13); el dinero de sangre compra un campo de muertos.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El precio de la traición (30 monedas) cumple la profecía del pastor rechazado (Zac 11:12-13); el dinero de sangre compra un campo de muertos.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

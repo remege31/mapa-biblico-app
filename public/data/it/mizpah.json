@@ -1,0 +1,187 @@
+{
+  "id": "mizpah",
+  "nombre": "Mizpa",
+  "tipo": "ciudad",
+  "lat": 31.8327,
+  "lng": 35.1802,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 47,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: Centro tribale Benjamin"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Fortezza del Regno Giuda"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio — Capitale della provincia di Giuda dopo la distruzione di Gerusalemme"
+    }
+  ],
+  "descripcion_geo": "Mizpa di Beniamino (identificata con Tell en-Nasbeh, circa 12 km a nord di Gerusalemme) era una città torre di guardia della tribù di Beniamino. Il suo nome significa torre di guardia o luogo di guardia. Situata su un punto elevato con visibilità sulle principali rotte verso Gerusalemme da nord, la città rivestiva un'importanza strategica continua. Dopo la distruzione di Gerusalemme nel 586 a.C., fu l'unica grande città beniaminita a sopravvivere relativamente intatta.",
+  "altitud_m": 895,
+  "clima": "Montagna mediterranea — simile a Gerusalemme, con precipitazioni annuali di 500-600 mm. Posizione elevata con buona visibilità strategica in tutte le direzioni.",
+  "recursos": [
+    "Acqua (serbatoi)",
+    "Terreno agricolo terrazzato",
+    "Posizione strategica (torre di avvistamento sulle principali vie di comunicazione)",
+    "Calcare (costruzione)"
+  ],
+  "importancia_estrategica": "Centro di incontri tribali prima della monarchia, fortezza di confine tra Israele e Giuda durante il regno diviso e unica capitale amministrativa funzionale dopo la distruzione di Gerusalemme nel 586 a.C. Fu a Mizpah che Gedaliah, governatore nominato da Babilonia, tentò di ricostituire la comunità ebraica prima di essere assassinato.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-mizpa",
+      "nombre": "Beniaminiti di Mizpa",
+      "descripcion": "Mizpa era una città beniaminita di importanza tribale. Era il luogo della grande assemblea israelita che decise la guerra contro Beniamino per il crimine di Ghibeah (Giudici 20:1), il luogo dove Samuele convocò il popolo per il rinnovo dell'alleanza e l'unzione di Saul (1 Sam 10:17-24), e il luogo dove il re Asa di Giuda costruì una fortezza per segnare il confine con Israele.",
+      "religion": "Yahvismo tribù di Beniamino: luogo sacro dell'assemblea",
+      "periodo": "C. 1150–900 a.C"
+    },
+    {
+      "id": "gedalias-comunidad",
+      "nombre": "Comunità di Gedalías",
+      "descripcion": "Dopo la distruzione di Gerusalemme nel 586 a.C., Nabucodonosor nominò Gedaliah ben Ahikam governatore dei sopravvissuti a Mizpah. A lui si unirono i soldati israeliti dispersi, il profeta Geremia (costretto a restare), i contadini che non erano stati deportati e i profughi di ritorno da Moab, Ammon e Edom. Gedaliah ha promesso di normalizzare la vita se avessero obbedito a Babilonia. Fu ucciso da Ismaele ben Nethaniah, di stirpe reale, che poi fuggì ad Ammon. Il digiuno di Gedaliah (3 Tishri) è ancora osservato dal giudaismo.",
+      "religion": "Yahvismo post-distruzione: comunità che riorganizza la vita religiosa senza Tempio",
+      "periodo": "C. 586–582 a.C"
+    },
+    {
+      "id": "pueblo-tierra-mizpa",
+      "nombre": "Gente della terra (che è rimasta)",
+      "descripcion": "I babilonesi lasciarono i più poveri, quelli che non avevano nulla, nella terra e diedero loro vigne e campi (2 Re 25:12; Jr 39:10). Questi am-ha-aretz (gente della terra) che continuarono a Giuda durante l'esilio mantennero una vita agricola e religiosa con risorse limitate. Mizpa, che non fu distrutta, ne divenne il centro amministrativo e forse un luogo di lamento rituale.",
+      "religion": "Yahvismo della gente comune - forse lamento rituale sul sito del Tempio distrutto",
+      "periodo": "C. 586–538 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "samuel-mizpa",
+      "titulo": "Samuele a Mizpa: il rinnovamento dell'alleanza e l'unzione di Saul",
+      "fecha": "c. 1025 a.C.",
+      "descripcion": "Samuele ha convocato tutti gli Israele a Mizpah per una cerimonia di rinnovo del patto: il popolo ha confessato di aver servito i Baal e gli Astartes. Samuele li ha giudicati lì. Quando gli Filistei seppero che Israele si era radunato a Mizpah, salirono per attaccare. Al grido rivolto al Signore durante il sacrificio venne risposto con un tuono che confuse l'Filistei. Israele li ha inseguiti e li ha sconfitti. Samuele eresse una pietra tra Mizpah e Shen e la chiamò Eben-Ezer (pietra dell'aiuto). Successivamente, quando il popolo chiese un re, Samuele li convocò nuovamente a Mizpah e fu lì che Saul, trovato nascosto tra i bagagli, fu presentato al popolo come il primo re di Israele.",
+      "referencias": [
+        "1 Sam 7:5-17",
+        "1 Sam 10:17-27"
+      ],
+      "personajes_clave": [
+        "samuel",
+        "saul"
+      ]
+    },
+    {
+      "id": "asa-fortaleza",
+      "titulo": "Asa fortifica Mizpah: il confine del regno diviso",
+      "fecha": "c. 895 a.C.",
+      "descripcion": "Quando il re Baasha di Israele iniziò a costruire Ramah per bloccare gli accessi a Giuda, il re Asa di Giuda usò l'argento e l'oro del Tempio per assumere il re arameo Ben-Hadad di Damasco, che attaccò le città settentrionali di Israele. Con il pericolo di Baasha scongiurato, Asa smantellò le opere di Ramah e utilizzò il materiale per costruire Geba e Mizpah come città fortezza sul confine settentrionale di Giuda. Mizpa divenne così la posizione difensiva più avanzata del regno di Giuda a nord.",
+      "referencias": [
+        "1 Re 15:16-22",
+        "2 Cr 16:1-6"
+      ],
+      "personajes_clave": [
+        "samuel"
+      ]
+    },
+    {
+      "id": "gedalias-asesinato",
+      "titulo": "L'assassinio di Gedalías: la fine della comunità post-distruzione",
+      "fecha": "c. 582 a.C.",
+      "descripcion": "Gedaliah ben Ahikam, governatore babilonese di Giuda con sede a Mizpah, fu avvertito che Ismaele ben Nethaniah aveva pianificato di assassinarlo per conto del re di Ammon. Gedalías non credette all'avvertimento. Ismaele arrivò a Mizpa con dieci uomini, fu invitato a mangiare e uccise Ghedalia, gli ebrei e i babilonesi presenti. Il giorno successivo, ottanta pellegrini provenienti da Sichem, Silo e Samaria con offerte per il Tempio furono massacrati nella fossa da Ismaele, che fuggì ad Ammon. Il resto della comunità, temendo ritorsioni babilonesi, fuggì a Egitto portando con sé il profeta Geremia contro la sua volontà.",
+      "referencias": [
+        "2 Re 25:22-26",
+        "Ger 40:1-41:18"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "samuel-mizpa-pj",
+      "nombre": "Samuele",
+      "rol": "Giudice-profeta che ha evocato Israele a Mizpah",
+      "periodo": "hierro_1",
+      "descripcion": "Samuele ha utilizzato Mizpah come corte itinerante e come sede di grandi assemblee nazionali. Il rinnovo del patto, la vittoria su Filistei e la presentazione di Saul come primo re avvengono tutti a Mizpah. Per Samuele, Mizpah rappresentava l'ideale Israele: un popolo riunito davanti a YHWH senza un re umano, guidato solo dalla parola profetica.",
+      "referencias": [
+        "1 Sam 7:5-17",
+        "1 Sam 10:17-27"
+      ],
+      "ruta": [
+        "mizpah",
+        "gibeah",
+        "hebron"
+      ]
+    },
+    {
+      "id": "gedalias",
+      "nombre": "Ghedalia ben Ahikam",
+      "rol": "Ultimo governatore di Giuda, assassinato a Mizpah",
+      "periodo": "post_exilio",
+      "descripcion": "Nominato governatore da Nabucodonosor, Gedaliah apparteneva a una famiglia filo-babilonese che aveva tentato di impedire un'inutile resistenza contro Babilonia (suo padre Ahikam proteggeva Geremia, Jr 26:24). Il suo progetto di ricostruire la comunità ebraica a Mizpah è stato il più promettente dei tentativi post-distruzione. Il suo omicidio fu una catastrofe dalle conseguenze irreversibili: disperse l'ultima comunità organizzata sulla terra. Il digiuno in sua memoria (3 Tishri) riconosce che la sua morte fu la vera fine del primo periodo del Tempio.",
+      "referencias": [
+        "2 Re 25:22-26",
+        "Ger 40:1-41:18",
+        "Ger 41:1-18"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mizpah"
+      ]
+    },
+    {
+      "id": "jeremias-mizpa",
+      "nombre": "Geremia",
+      "rol": "Profeta rimasto in Giuda, testimone del crollo finale",
+      "periodo": "hierro_2",
+      "descripcion": "Geremia, che aveva consigliato la resa a Babilonia come volontà di YHWH, fu liberato dai babilonesi e poté scegliere tra andare a Babilonia o restare a Giuda. Scelse di restare con Gedaliah a Mizpah, convinto che fosse ancora possibile ricostruire la comunità. Dopo l'assassinio di Gedaliah, fu portato con la forza a Egitto da profughi in fuga dalla rappresaglia babilonese, contro la sua esplicita protesta (Ger 42-44). La sua presenza a Mizpah è il capitolo finale del suo ministero nella terra di Israele.",
+      "referencias": [
+        "Ger 38:1-28",
+        "Ger 40:1-6",
+        "Ger 42:1-43:7"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mizpah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mizpah è la città che è sopravvissuta quando tutto il resto è caduto. Centro tribale prima della monarchia, confine fortificato durante il regno diviso, capitale della provincia di Giuda dopo la distruzione di Gerusalemme: Mizpah è il luogo degli inizi e della fine. L'assassinio di Ghedalia a Mizpa chiuse l'ultimo capitolo della comunità organizzata nel paese prima dell'esilio totale. Il digiuno di Ghedalia, osservato fino ad oggi, è l'unico digiuno ebraico che commemora la morte di un individuo, riconoscendo che più di un uomo morì durante esso.",
+    "religiones_presentes": [
+      "Yahvismo tribale premonarchico (luogo dell'assemblea nazionale)",
+      "Yahvismo istituzionale (Fortezza di confine Giuda)",
+      "Yahvismo post-distruzione (comunità Ghedalia senza Tempio)"
+    ],
+    "mitos": [
+      {
+        "id": "mizpa-eben-ezer",
+        "nombre": "Eben-Ezer: la pietra dell'aiuto a Mizpah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 7:5-17",
+          "fuente_secundaria": "Midrash Shmuel 14; Talmud Bavli, Rosh HaShaná 25a",
+          "descripcion": "La pietra Eben-Ezer (pietra del sollievo) eretta da Samuele tra Mizpah e Shen commemorava la vittoria su Filistei ottenuta attraverso la preghiera e il sacrificio, non la battaglia. È un monumento all'efficacia dell'intercessione profetica. La stessa espressione Eben-Ezer appare in precedenza come il luogo della sconfitta degli Israeliti (1 Sam 4:1), rendendo la nuova pietra un simbolico capovolgimento di quel fallimento.",
+          "similitudes": "Le pietre commemorative erette dopo le vittorie hanno paralleli in tutta la tradizione dell'antico Oriente (stele della vittoria).",
+          "diferencias": "A differenza delle stele reali della vittoria che glorificano il re-guerriero, la pietra di Samuele glorifica YHWH come unico agente della vittoria.",
+          "significado_teologico": "Il Signore ci ha aiutato fino a questo punto: la storia di Israele è la storia dell'aiuto divino, non dell'eroismo umano.",
+          "posible_relacion_cultural": "I Massebot (pietre erette) come monumenti di patti o eventi sacri sono onnipresenti nel Levante del Bronzo e del Ferro."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

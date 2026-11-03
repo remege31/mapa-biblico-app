@@ -1,0 +1,247 @@
+{
+  "id": "galatia",
+  "nombre": "Galatia",
+  "tipo": "territorio",
+  "lat": 39.64,
+  "lng": 32.74,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -278,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Central region of Asia Minor, home of the Galatians (emigrant Celtic tribes). Roman province since 25 BC.",
+  "altitud_m": 900,
+  "clima": "continental",
+  "recursos": [
+    "agriculture",
+    "cattle raising",
+    "trade"
+  ],
+  "importancia_estrategica": "First interior region of Asia Minor evangelized by Paul; recipient of the letter to the Galatians.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gal_h1",
+      "titulo": "Paul evangelizes Galacia on the first trip",
+      "fecha": "ca. 47-48 AD",
+      "descripcion": "Paul and Barnabas found churches in Antioch of Pisidia, Iconium, Lystra and Derbe, cities in the province of Galatia.",
+      "referencias": [
+        "Acts 13:14-14:23"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "gal_h2",
+      "titulo": "The letter to the Galatians: Christian freedom",
+      "fecha": "ca. 49 AD",
+      "descripcion": "Paul writes to the churches of Galatia to defend justification by faith against the Judaizers.",
+      "referencias": [
+        "Gal 1:2",
+        "Gal 3:1"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "gal_h3",
+      "titulo": "Paul confirms the churches of Galatia",
+      "fecha": "ca. 50 AD",
+      "descripcion": "On the second voyage, Paul strengthens the disciples of Galatia, visiting the cities founded on the first voyage.",
+      "referencias": [
+        "Acts 16:6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas",
+        "Timoteo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gal_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He evangelized Galatia twice; he wrote to them the most polemical and theologically powerful letter in the NT.",
+      "referencias": [
+        "Gal 1:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p2",
+      "nombre": "Timothy",
+      "rol": "Disciple of Lystra",
+      "periodo": "s. I AD",
+      "descripcion": "Born in Lystra in Galatia; He became Paul's favorite disciple.",
+      "referencias": [
+        "Acts 16:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p3",
+      "nombre": "Barnabas",
+      "rol": "Missionary",
+      "periodo": "s. I AD",
+      "descripcion": "He accompanied Paul in the first evangelization of Galatia.",
+      "referencias": [
+        "Acts 13:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Galatia was the first laboratory of the Pauline mission to the Gentiles; The letter that Paul wrote to them is the great letter of Christian freedom.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "gal_m1",
+        "nombre": "Justification by faith",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Faced with the Judaizers who demanded circumcision of the Gentiles, Paul proclaims in Galatians that justification is only by faith in Christ.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Faced with the Judaizers who demanded circumcision of the Gentiles, Paul proclaims in Galatians that justification is only by faith in Christ.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gal_nt_h1",
+        "titulo": "The first missionary journey: founding of Galatian churches",
+        "fecha": "ca. 47-48 AD",
+        "descripcion": "Paul and Barnabas found the first churches in the interior of Asia Minor in Galatia.",
+        "referencias": [
+          "Acts 13:14-14:23"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "gal_nt_h2",
+        "titulo": "The letter to the Galatians",
+        "fecha": "ca. 49 AD",
+        "descripcion": "Paul writes the most combative letter in the NT to defend the gospel of grace against the Judeo-Christian teachers.",
+        "referencias": [
+          "Gal 1:6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gal_nt_h3",
+        "titulo": "Timothy of Lystra",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul picks up Timothy, son of a Jewish mother and Greek father, in Lystra in Galatia, for his second journey.",
+        "referencias": [
+          "Acts 16:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Timoteo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gal_nt_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "Founder of the Galatian churches; His letter reminds them that they were set free for freedom.",
+        "referencias": [
+          "Gal 5:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_nt_p2",
+        "nombre": "Timothy",
+        "rol": "Disciple",
+        "periodo": "s. I AD",
+        "descripcion": "Born in Lystra in Galatia; He grew in faith thanks to the first Pauline journey.",
+        "referencias": [
+          "Acts 16:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_nt_p3",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Co-founder of the Galatian churches on the first voyage.",
+        "referencias": [
+          "Acts 13:14"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Galatia: crucible of the gospel of grace and faith, free from the law.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "gal_nt_m1",
+          "nombre": "Freedom in Christ",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Gal 5:1",
+            "fuente_secundaria": "",
+            "descripcion": "The letter to the Galatians is the declaration of independence of the gospel against legalism: 'Christ has set us free for freedom' (Gal 5:1).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The letter to the Galatians is the declaration of independence of the gospel against legalism: 'Christ has set us free for freedom' (Gal 5:1).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

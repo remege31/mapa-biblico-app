@@ -1,0 +1,134 @@
+{
+  "id": "rephaim_valley",
+  "nombre": "Valle dei Refaim",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.76,
+  "lng": 35.22,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Valle a sud-ovest di Gerusalemme, tra la città e Betlemme. terra fertile; scena di battaglia tra Davide e Filistei.",
+  "altitud_m": 700,
+  "clima": "mediterraneo",
+  "recursos": [
+    "cereali",
+    "ulivi",
+    "vite"
+  ],
+  "importancia_estrategica": "Campo di battaglia tra Davide e Filistei; Il suo nome (Rephaites = giganti) evoca i popoli pre-israeliti.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ref_h1",
+      "titulo": "Le battaglie di Davide contro Filistei nella valle",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Gli Filistei sono schierati nella valle dei Rephaim; Davide consulta il Signore due volte e li sconfigge.",
+      "referencias": [
+        "2 Sam 5:18-25"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ref_h2",
+      "titulo": "Il raccolto della valle dei Rephaim in Isaia",
+      "fecha": "ca. 740 a.C.",
+      "descripcion": "Isaia usa il raccolto della valle dei Refaim come immagine di giudizio: rimarrà solo un grappolo, come quando si scuote un olivo.",
+      "referencias": [
+        "Is 17:5"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    },
+    {
+      "id": "ref_h3",
+      "titulo": "L'attacco a sorpresa dei sicomori",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Dio ordina a Davide di attaccare Filistei quando sente il suono dei passi sulle cime dei sicomori nella valle.",
+      "referencias": [
+        "2 Sam 5:23-24"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ref_p1",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Ha vinto due battaglie decisive contro l'Filistei nella valle dei Rephaim.",
+      "referencias": [
+        "2 Sam 5:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p2",
+      "nombre": "Isaia",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Ha usato la valle come immagine della distruzione del nord di Israele.",
+      "referencias": [
+        "Is 17:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p3",
+      "nombre": "Rephaim",
+      "rol": "popolo pre-israelita",
+      "periodo": "Época pre-israelita",
+      "descripcion": "Giganti che abitavano la valle prima dell'arrivo di Israele; Il suo nome persiste come toponimo.",
+      "referencias": [
+        "Dt 2:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle dei Refaim: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ref_m1",
+        "nombre": "Il rumore dei sicomori",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 5,24",
+          "fuente_secundaria": "",
+          "descripcion": "Dio dà a Davide un segnale militare unico: attaccare quando risuona il rumore sulle cime dei sicomori (2 Sam 5,24). La vittoria è miracolosa, non tattica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dio dà a Davide un segnale militare unico: attaccare quando risuona il rumore sulle cime dei sicomori (2 Sam 5,24). La vittoria è miracolosa, non tattica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

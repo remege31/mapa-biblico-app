@@ -1,0 +1,156 @@
+{
+  "id": "tahpanhes",
+  "nombre": "Tafnes",
+  "tipo": "ciudad",
+  "lat": 30.860556,
+  "lng": 32.171389,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Rifugio dei rimpatriati Geremia e Giuda"
+    }
+  ],
+  "descripcion_geo": "Città di confine egiziana nel delta del Nilo, destinazione principale dei profughi ebrei in fuga verso Egitto dopo l'omicidio di Gedaliah e la distruzione finale di Gerusalemme, portando con sé con la forza lo stesso profeta Geremia.",
+  "altitud_m": 10,
+  "clima": "Deserto subtropicale: estremamente caldo e secco, tipico del delta orientale del Nilo nella zona Egitto.",
+  "recursos": [
+    "Accedi alla posizione di confine da Canaan a Egitto",
+    "Rifugio per la comunità ebraica dispersa dopo la caduta di Gerusalemme"
+  ],
+  "importancia_estrategica": "Taphnes è la destinazione principale dell'ultima grande ondata di profughi di Giuda dopo l'omicidio di Gedaliah, i quali, ignorando l'esplicito avvertimento di Geremia, fuggono verso Egitto, portando con sé con la forza il profeta; Lì Geremia compie un segno profetico seppellendo pietre che annuncia la futura invasione egiziana di Nabucodonosor, chiudendo tragicamente il suo ministero in terra straniera.",
+  "otros_habitantes": [
+    {
+      "id": "refugiados_juda_tahpanhes",
+      "nombre": "Giuda Rifugiati",
+      "descripcion": "Comunità di ebrei che fugge a Tafnes dopo l'uccisione di Ghedalia, temendo rappresaglie babilonesi, portando con sé Geremia e Baruc contro l'espressa volontà del profeta.",
+      "religion": "Yahvismo (con sincretismo idolatrico denunciato da Geremia)",
+      "periodo": "C. 582 a.C"
+    },
+    {
+      "id": "egipcios_tahpanhes",
+      "nombre": "Popolazione egiziana di Tafnes",
+      "descripcion": "Gli abitanti locali della città di confine accolgono la comunità di profughi ebrei fuggiti dopo la caduta definitiva di Gerusalemme.",
+      "religion": "Politeismo egiziano",
+      "periodo": "C. 586–580 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "huida-forzada-jeremias-tahpanhes",
+      "titulo": "Geremia viene portato con la forza a Tafnes",
+      "fecha": "c. 582 a.C.",
+      "descripcion": "Dopo l'assassinio di Gedaliah, i leader militari sopravvissuti decidono di fuggire a Egitto nonostante l'esplicito avvertimento di Geremia secondo cui YHWH aveva proibito loro di farlo, e portano con loro con la forza sia il profeta che il suo scriba Baruch, arrivando finalmente a Taphnes.",
+      "referencias": [
+        "Ger 43:1-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "signo-piedras-tahpanhes",
+      "titulo": "Geremia seppellisce pietre come segno profetico a Tafnes",
+      "fecha": "c. 582 a.C.",
+      "descripcion": "Per ordine di YHWH, Geremia nasconde grandi pietre nel pavimento di mattoni all'ingresso della casa del Faraone a Taphnes, annunciando che in quello stesso luogo Nabucodonosor porrà il suo trono quando invaderà Egitto, predicendo così che il rifugio scelto dai fuggitivi ebrei non sarà sicuro.",
+      "referencias": [
+        "Ger 43:8-13"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "jeremias-ultimo-oraculo-tahpanhes",
+      "titulo": "L'ultimo oracolo di Geremia contro gli idolatri di Egitto",
+      "fecha": "c. 580 a.C.",
+      "descripcion": "Da Taphnes e dalle altre colonie ebraiche di Egitto, Geremia consegna il suo ultimo oracolo registrato, denunciando severamente la persistenza idolatra della comunità di rifugiati e annunciando che la spada e la carestia li consumeranno finché non rimarranno più sopravvissuti, tranne pochi fuggitivi.",
+      "referencias": [
+        "Ger 44:1-30"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeremias_tahpanhes",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda, portato con la forza a Egitto",
+      "periodo": "hierro_2",
+      "descripcion": "Conclude il suo lungo ministero profetico a Taphnes, presa suo malgrado dai profughi in fuga da Babilonia, dove pronuncia sia il segno profetico delle pietre sia il suo ultimo oracolo conosciuto di denuncia contro la persistente idolatria del suo popolo.",
+      "referencias": [
+        "Ger 43:1-13",
+        "Ger 44:1-30"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    },
+    {
+      "id": "johanan_tahpanhes",
+      "nombre": "Johanan figlio di Kareah",
+      "rol": "Leader militare che dirige la fuga verso Egitto",
+      "periodo": "post_exilio",
+      "descripcion": "Dirige la decisione di fuggire su Egitto dopo l'omicidio di Gedaliah, ignorando l'esplicito avvertimento di Geremia e costringendo il profeta ad accompagnarli a Taphnes.",
+      "referencias": [
+        "Ger 43:1-7"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    },
+    {
+      "id": "baruc_tahpanhes",
+      "nombre": "Baruch",
+      "rol": "Geremia Scriba",
+      "periodo": "hierro_2",
+      "descripcion": "Accompagna Geremia nel suo trasferimento forzato a Taphnes, condividendo la sorte del profeta nel suo ultimo esilio in territorio egiziano.",
+      "referencias": [
+        "Ger 43:6"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tafnes segna la tragica chiusura del ministero di Geremia: il profeta che più volte metteva in guardia sui pericoli di cercare sicurezza nelle alleanze egiziane finisce proprio in territorio egiziano, portato via con la forza da coloro che hanno ignorato il suo ultimo consiglio, dove deve pronunciare la sua ultima e più severa denuncia contro la persistente idolatria di un popolo che, pur avendo assistito alla distruzione di Gerusalemme, ancora non abbandona le proprie pratiche pagane.",
+    "religiones_presentes": [
+      "Yahvismo (con denunciato sincretismo idolatrico)",
+      "Politeismo egiziano"
+    ],
+    "mitos": [
+      {
+        "id": "piedras-trono-nabucodonosor-tahpanhes",
+        "nombre": "Pietre sepolte come segno del trono di Nabucodonosor a Taphnes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 43:8-13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre los actos proféticos simbólicos como Jeremías enterrando piedras, comparados con otros gestos similares de profetas que comunican mensajes divinos mediante acciones físicas concretas más que solo palabras",
+          "descripcion": "La tradizione ebraica valorizza l'atto simbolico di Geremia che seppellisce le pietre all'ingresso della casa del Faraone a Taphnes come un esempio caratteristico della tradizione profetica di comunicare messaggi divini attraverso gesti fisici concreti e memorabili, una tecnica che rafforza l'impatto del messaggio verbale attraverso un'azione visibile e permanente che il pubblico può ricordare ed eventualmente verificare con compimento storico.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il gesto profetico conferma che nemmeno il rifugio in Egitto, tradizionalmente considerata terra di sicurezza alternativa, sfugge alla portata dell'annunciato giudizio divino, poiché lo stesso Nabucodonosor che distrusse Gerusalemme estenderà il suo potere fino al cuore di Egitto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

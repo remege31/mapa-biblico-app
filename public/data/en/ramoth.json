@@ -1,0 +1,171 @@
+{
+  "id": "ramoth",
+  "nombre": "Ramot by Gilead",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.5653,
+  "lng": 36.0056,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 37,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Levitical city and city of refuge located east of the Jordan in the region of Gilead (present-day northeastern Jordan). It controlled the caravan routes between Damascus and Arabia and dominated access to Transjordan territory. Disputed for centuries between Israel and Aram-Damascus, it was the scene of some of the divided monarchy's most decisive battles.",
+  "altitud_m": 1050,
+  "clima": "Semi-arid with Mediterranean influence; rains concentrated in winter, dry summers.",
+  "recursos": [
+    "Cattle pastures on the Gilead plateau",
+    "Transjordan trade routes",
+    "Oak forests on the slopes of Gilead",
+    "Rainfed agriculture — wheat and barley"
+  ],
+  "importancia_estrategica": "City of refuge designated by Moses for the Transjordan territory. Its strategic position made it the main military objective between Israel and Aram during the 9th century BC, being the scene of the death of King Ahab and the revolutionary anointing of Jehu.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "City of refuge in the period of the judges"
+    },
+    {
+      "desde": -875,
+      "hasta": -841,
+      "nombre": "Israel-Aram wars for control of Ramot"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "gaditas",
+      "nombre": "Gaditas",
+      "descripcion": "Israelite tribe settled in Gilead that inhabited the region of Ramot. Warriors known for their ferocity, mentioned among David followers.",
+      "religion": "Yahwism",
+      "periodo": "iron_1 — iron_2"
+    },
+    {
+      "id": "arameos",
+      "nombre": "Aramaic by Damascus",
+      "descripcion": "The city of Ramoth was occupied intermittently by the Arameans of Ben-Hadad I and II, who disputed control of Gilead from the Israelite kings. Its occupation provoked Ahab's campaigns.",
+      "religion": "Aramaic polytheism — cult of Hadad (Ba'al of the storm)",
+      "periodo": "iron_2"
+    },
+    {
+      "id": "levitas_ramot",
+      "nombre": "Levite administrators",
+      "descripcion": "Levitical priests appointed to administer the city of refuge according to the Mosaic law. Their presence guaranteed the legal process for those accused of involuntary manslaughter.",
+      "religion": "priestly Yahwism",
+      "periodo": "iron_1"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ciudad_de_refugio",
+      "titulo": "Ramot, city of refuge in Gilead",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Moses designated Ramoth of Gilead as one of the three cities of refuge east of the Jordan, along with Beser and Golan. Anyone who had killed someone unintentionally could flee to these cities and be safe from the revenge of the dead man's relative until receiving a formal trial. The institution represented an advanced legal system that distinguished involuntary manslaughter from intentional manslaughter in ancient Israelite law.",
+      "referencias": [
+        "Deut 4:43",
+        "Josh 20:8",
+        "Josh 21:38"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "muerte_de_acab",
+      "titulo": "The Battle of Ramoth and the Death of Ahab",
+      "fecha": "c. 853 BC",
+      "descripcion": "King Ahab of Israel convinces King Jehoshaphat of Judah to recover Ramoth from the Arameans. Four hundred royal prophets predict victory, but the prophet Micaiah ben Yimlah announces defeat and identifies a lying spirit in the court prophets. Ahab, disguised to avoid the prophecy, is hit by an arrow shot at random that penetrates between his armor. He dies at dusk and his car is washed in Samaria's pool, where the dogs lick his blood.",
+      "referencias": [
+        "1 Kgs 22:1-38",
+        "2 Chr 18:1-34"
+      ],
+      "personajes_clave": [
+        "acab",
+        "micaias"
+      ]
+    },
+    {
+      "id": "jehu_ungido_en_ramot",
+      "titulo": "Jehu's anointing at Ramoth",
+      "fecha": "c. 841 BC",
+      "descripcion": "The prophet Elisha sends a disciple to Ramoth of Gilead to secretly anoint the military officer Jehu as king of Israel. The disciple anoints him in a private room and announces the order to exterminate the house of Ahab. Jehu accepts the mission and sets out for Jezreel, where he kills King Joram of Israel and King Ahaziah of Judah, beginning a bloody purge that includes the death of Jezebel and the end of the Omrid dynasty.",
+      "referencias": [
+        "2 Kgs 9:1-16",
+        "2 Kgs 9:17-26"
+      ],
+      "personajes_clave": [
+        "jehu",
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "acab",
+      "nombre": "Ahab",
+      "rol": "King of Israel — died at Ramot",
+      "periodo": "c. 874–853 BC",
+      "descripcion": "Seventh king of the northern kingdom, son of Omri. Considered the most impious king of Israel by Deuteronomist authors for his marriage to Jezebel and the introduction of the cult of Baal. His death at Ramoth fulfills Micaiah's prophecy and ushers in the decline of the Omrid dynasty.",
+      "referencias": [
+        "1 Kgs 16:29-33",
+        "1 Kgs 22:34-38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "micaias",
+      "nombre": "Micaiah ben Yimlah",
+      "rol": "Prophet who announced the defeat of Ahab",
+      "periodo": "c. 853 BC",
+      "descripcion": "Israelite prophet who distinguished himself from the four hundred court prophets by refusing to prophesy victory. He described a celestial vision in which a lying spirit was authorized to deceive Ahab's prophets. He was imprisoned by his oracle, which turned out to be true.",
+      "referencias": [
+        "1 Kgs 22:8-28",
+        "2 Chr 18:7-27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jehu",
+      "nombre": "Jehu",
+      "rol": "Official anointed king in Ramoth — executor of judgment on the house of Ahab",
+      "periodo": "hierro_2",
+      "descripcion": "Military commander of the Israelite army anointed in Ramot by order of Elisha. His reign was the most violent in northern history: he executed the kings of Israel and Judah, Jezebel, the seventy sons of Ahab, and the priests of Baal. He founded the longest-lasting dynasty in the northern kingdom.",
+      "referencias": [
+        "2 Kgs 9:1-10",
+        "2 Kgs 10:1-28",
+        "Hos 1:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ramot of Gilead was the scene of tensions between independent Yahwist prophecy and court prophecy. Ahab's death there and Jehu's anointing made the city a symbol of divine judgment on the apostasy of the house of Omri. The institution of the city of refuge also gave it a unique legal-religious dimension in the Israeli legal system.",
+    "religiones_presentes": [
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "profecia_contra_acab",
+        "nombre": "The Lying Spirit and True Prophecy",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 22:19-23",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 89a — discusión rabínica sobre si un profeta que contradice a otro puede ser el verdadero; el caso de Micaías frente a los cuatrocientos",
+          "descripcion": "Micaiah describes a heavenly assembly in which God asks who will trick Ahab into going to Ramoth and dying. A spirit offers to be a lying spirit in the mouth of the court prophets. God authorizes it. The scene raises the radical question about the origin of false prophecy.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The vision of the heavenly assembly shows that even prophetic deception operates within divine sovereignty. The true prophet is the one who tells the truth even if it costs him his freedom, not the one who proclaims what the king wants to hear.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "laodicea",
+  "nombre": "Lico Laodicea",
+  "tipo": "ciudad",
+  "lat": 37.8326,
+  "lng": 29.1106,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Ricca città commerciale nella valle del Lico, in Frigia; famosa per le sue banche, la lana nera e i colliri.",
+  "altitud_m": 300,
+  "clima": "continentale-mediterraneo",
+  "recursos": [
+    "lana",
+    "produzione",
+    "bancario",
+    "medicinale"
+  ],
+  "importancia_estrategica": "Centro finanziario dell'Asia Minore interna.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lao_h1",
+        "titulo": "Lettera all'angelo di Laodicea",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Il Cristo glorioso rimprovera la chiesa di Laodicea per essere tiepida.",
+        "referencias": [
+          "Ap 3:14-22"
+        ],
+        "personajes_clave": [
+          "Juan el Apóstol"
+        ]
+      },
+      {
+        "id": "lao_h2",
+        "titulo": "La lettera circolare di Colosse",
+        "fecha": "ca. 60-62 d.C.",
+        "descripcion": "Paolo chiede che la sua lettera venga scambiata con quella destinata a Laodicea.",
+        "referencias": [
+          "Col 4:16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lao_h3",
+        "titulo": "Epafra intercede per Laodicea",
+        "fecha": "ca. 60-62 d.C.",
+        "descripcion": "Epafra lavora in preghiera per la chiesa di Laodicea e le città vicine.",
+        "referencias": [
+          "Col 4:13"
+        ],
+        "personajes_clave": [
+          "Epafras"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lao_p1",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta dell'Apocalisse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizza la lettera di Cristo alla tiepida chiesa di Laodicea.",
+        "referencias": [
+          "Ap 3:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lao_p2",
+        "nombre": "Epafra",
+        "rol": "Evangelista regionale",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fondò la chiesa di Laodicea insieme a quelle di Colosse e Hierapolis.",
+        "referencias": [
+          "Col 4:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lao_p3",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Scrisse una lettera destinata a Laodicea, oggi perduta.",
+        "referencias": [
+          "Col 4:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La città più ricca della Valle del Lico; La loro autosufficienza materiale divenne metafora della tiepidezza spirituale.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "lao_m1",
+          "nombre": "Né freddo né caldo",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Cristo rimprovera la chiesa di Laodicea per la sua tiepidezza spirituale, in contrasto con le fredde acque di Colosse e le calde sorgenti di Hierapolis.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Cristo rimprovera la chiesa di Laodicea per la sua tiepidezza spirituale, in contrasto con le fredde acque di Colosse e le calde sorgenti di Hierapolis.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

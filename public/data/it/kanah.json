@@ -1,0 +1,133 @@
+{
+  "id": "kanah",
+  "nombre": "Cana del fiume",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.75,
+  "lng": 35.34,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Il fiume Cana (non la città di Cana di Galilea) segnava il confine tra le tribù di Efraim e Manasse.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Confine fluviale tra Efraim e Manasse.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kan_h1",
+      "titulo": "Il fiume Cana come confine tribale",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Il fiume Cana segnava il confine settentrionale di Efraim e il confine meridionale di Manasse nella terra promessa.",
+      "referencias": [
+        "Gs 16:8",
+        "Gs 17:9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h2",
+      "titulo": "Le città di Manasse a sud di Cana",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Alcune città a sud del fiume Cana appartenevano a Manasse sebbene si trovassero nel territorio di Efraim.",
+      "referencias": [
+        "Gs 17:9-10"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h3",
+      "titulo": "Cana nella descrizione dei confini",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La descrizione dettagliata dei confini tribali in Giosuè include il fiume Cana come indicatore preciso.",
+      "referencias": [
+        "Gs 16:8"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kan_p1",
+      "nombre": "Giosuè",
+      "rol": "Conquistatore e distributore della terra",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Usò il fiume Cana come confine tra Efraim e Manasse.",
+      "referencias": [
+        "Gs 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p2",
+      "nombre": "tribù di Efraim",
+      "rol": "Tribù israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Cana era il limite settentrionale della loro eredità.",
+      "referencias": [
+        "Gs 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p3",
+      "nombre": "tribù di Manasse",
+      "rol": "Tribù israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Cana era il limite meridionale della loro eredità.",
+      "referencias": [
+        "Gs 17:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cana del fiume: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "kan_m1",
+        "nombre": "Il fiume come confine",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "I fiumi sono confini provvidenziali nella divisione della terra: la Cana separa due mezze tribù dello stesso patriarca Giuseppe.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I fiumi sono confini provvidenziali nella divisione della terra: la Cana separa due mezze tribù dello stesso patriarca Giuseppe.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

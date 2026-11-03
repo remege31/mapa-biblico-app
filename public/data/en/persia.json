@@ -1,0 +1,154 @@
+{
+  "id": "persia",
+  "nombre": "Persia",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 37,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -539,
+      "hasta": -330,
+      "nombre": "Persian post-exile"
+    }
+  ],
+  "descripcion_geo": "Achaemenid Empire with capital in Persepolis and Susa, which dominated the Middle East from 539 BC.",
+  "altitud_m": 1500,
+  "clima": "continental-arid",
+  "recursos": [
+    "agriculture",
+    "trade",
+    "silver",
+    "lapis lazuli"
+  ],
+  "importancia_estrategica": "Empire that freed the Jews from the Babylonian exile and financed the reconstruction of the Temple.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "per_h1",
+      "titulo": "Cyrus the Great decrees the return of the Jews",
+      "fecha": "538 BC",
+      "descripcion": "Cyrus the Persian decrees that the Jews can return to Jerusalem and rebuild the Temple; returns the golden utensils.",
+      "referencias": [
+        "Ezra 1:1-4",
+        "2 Chr 36:22-23"
+      ],
+      "personajes_clave": [
+        "Ciro"
+      ]
+    },
+    {
+      "id": "per_h2",
+      "titulo": "Esther and Haman's plot in Persia",
+      "fecha": "ca. 480 BC",
+      "descripcion": "The young Jewish Esther, Persian queen, thwarts the minister Haman's plot to exterminate the Jews of the Empire.",
+      "referencias": [
+        "Esth 1-10"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Mardoqueo",
+        "Amán",
+        "Asuero"
+      ]
+    },
+    {
+      "id": "per_h3",
+      "titulo": "Nehemiah: Persian governor rebuilds Jerusalem",
+      "fecha": "ca. 445 BC",
+      "descripcion": "Nehemiah, cupbearer to King Artaxerxes, obtains permission to rebuild the walls of Jerusalem.",
+      "referencias": [
+        "Neh 1-2"
+      ],
+      "personajes_clave": [
+        "Nehemías",
+        "Artajerjes"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "per_p1",
+      "nombre": "Cyrus the Great",
+      "rol": "king of persia",
+      "periodo": "559-530 BC",
+      "descripcion": "Called 'anointed' by Isaiah; He freed the Jews from the Babylonian exile.",
+      "referencias": [
+        "Isa 45:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p2",
+      "nombre": "Ester",
+      "rol": "Jewish queen in Persia",
+      "periodo": "ca. 480 BC",
+      "descripcion": "Young Jewish woman who became queen and saved her people from genocide.",
+      "referencias": [
+        "Esth 2:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p3",
+      "nombre": "Nehemiah",
+      "rol": "Judah Governor",
+      "periodo": "ca. 445-433 BC",
+      "descripcion": "Cupbearer to the Persian king who rebuilt the walls of Jerusalem.",
+      "referencias": [
+        "Neh 1:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Religiously tolerant empire; his restoration decrees permitted Second Temple Judaism. Setting of the book of Esther and the missions of Ezra and Nehemiah.",
+    "religiones_presentes": [
+      "Zoroastrianism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "per_m1",
+        "nombre": "Cyrus the anointed",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 45:1",
+          "fuente_secundaria": "",
+          "descripcion": "Isaiah calls Cyrus 'my anointed' (mashiach) a century in advance; God uses him to restore Israel (Is 45:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Isaiah calls Cyrus 'my anointed' (mashiach) a century in advance; God uses him to restore Israel (Is 45:1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Church Fathers see in Cyrus a type of Christ: the Gentile king who frees God's people.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Church Fathers see in Cyrus a type of Christ: the Gentile king who frees God's people.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 18:83-98",
+          "fuente_secundaria": "",
+          "descripcion": "Islam recognizes Cyrus as a possible candidate for the 'Dhul-Qarnayn' of the Quran (Cor 18:83-98).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam recognizes Cyrus as a possible candidate for the 'Dhul-Qarnayn' of the Quran (Cor 18:83-98).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

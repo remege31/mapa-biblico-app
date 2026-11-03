@@ -1,0 +1,134 @@
+{
+  "id": "gilgal",
+  "nombre": "Gilgal",
+  "tipo": "ciudad",
+  "lat": 31.86,
+  "lng": 35.52,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 40,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1220,
+      "hasta": -800,
+      "nombre": "Iron I and II"
+    }
+  ],
+  "descripcion_geo": "Israel base camp west of the Jordan, near Jericho. First place where Israel camped in Canaan.",
+  "altitud_m": -200,
+  "clima": "arid-mediterranean",
+  "recursos": [
+    "water",
+    "oasis agriculture"
+  ],
+  "importancia_estrategica": "First spiritual capital of Israel in Canaan; place of the first camp, the collective circumcision and the monument of twelve stones.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gal_h1",
+      "titulo": "The twelve stones of the Jordan in Gilgal",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Israel raises twelve stones from the Jordan at Gilgal as a memorial of the miraculous crossing.",
+      "referencias": [
+        "Josh 4:19-24"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h2",
+      "titulo": "Collective circumcision in Gilgal",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Joshua circumcises the entire generation born in the desert in Gilgal; 'Today I have removed from you the reproach of Egypt.'",
+      "referencias": [
+        "Josh 5:2-9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h3",
+      "titulo": "Saul anointed king in Gilgal",
+      "fecha": "ca. 1030 BC",
+      "descripcion": "Saul is presented to the people as king in Gilgal; Later he offers a sacrifice there that costs him the kingdom.",
+      "referencias": [
+        "1 Sam 11:15",
+        "1 Sam 13:8-14"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gal_p1",
+      "nombre": "Joshua",
+      "rol": "Conquest leader",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He established Gilgal as a base of operations for the conquest of Canaan.",
+      "referencias": [
+        "Josh 5:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p2",
+      "nombre": "Saul",
+      "rol": "First king by Israel",
+      "periodo": "ca. 1030 BC",
+      "descripcion": "He was crowned and then judged in Gilgal; His disobedience there marked the end of his reign.",
+      "referencias": [
+        "1 Sam 13:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p3",
+      "nombre": "Samuel",
+      "rol": "Prophet and judge",
+      "periodo": "ca. 1050-1000 BC",
+      "descripcion": "He made judicial circuits that included Gilgal; reprimanded Saul there.",
+      "referencias": [
+        "1 Sam 7:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Place of religious foundation: first circumcision in Canaan, first Passover in the promised land, first camp after the Jordan.",
+    "religiones_presentes": [
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "gal_m1",
+        "nombre": "The disgrace of Egypt removed",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jos 5:9",
+          "fuente_secundaria": "",
+          "descripcion": "'Today I have removed from you the reproach of Egypt' (Jos 5:9): the circumcision in Gilgal marks the new beginning of the liberated people.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "'Today I have removed from you the reproach of Egypt' (Jos 5:9): the circumcision in Gilgal marks the new beginning of the liberated people.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

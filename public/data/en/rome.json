@@ -1,0 +1,153 @@
+{
+  "id": "rome",
+  "nombre": "Rome",
+  "tipo": "ciudad",
+  "lat": 41.8902,
+  "lng": 12.4922,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Capital of the Roman Empire, city of more than a million inhabitants, center of Mediterranean power.",
+  "altitud_m": 21,
+  "clima": "Mediterranean",
+  "recursos": [
+    "administration",
+    "trade",
+    "manufacture",
+    "art"
+  ],
+  "importancia_estrategica": "Head of the Roman Empire; final destination of Paul's apostolic journey.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "rom_h1",
+        "titulo": "Paul's arrival in Rome",
+        "fecha": "ca. 60-61 AD",
+        "descripcion": "Paul arrives as a prisoner in Rome; the brothers come out to welcome him; He spends two years preaching.",
+        "referencias": [
+          "Acts 28:11-31"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "rom_h2",
+        "titulo": "The letter to the Romans",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul writes his most systematic theological letter to the community of Rome.",
+        "referencias": [
+          "Rom 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "rom_h3",
+        "titulo": "Martyrdom of Peter and Paul",
+        "fecha": "ca. 64-67 AD",
+        "descripcion": "Tradition places the martyrdom of Peter (crucified) and Paul (decapitated) in Rome under Nero.",
+        "referencias": [
+          "1 Clemente 5",
+          "Tradición patrística"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "rom_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle and martyr",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He arrived as a prisoner in Rome and preached freely for two years; died a martyr under Nero.",
+        "referencias": [
+          "Acts 28:16"
+        ],
+        "ruta": [
+          "rome",
+          "corinth",
+          "ephesus"
+        ]
+      },
+      {
+        "id": "rom_p2",
+        "nombre": "Simon Peter",
+        "rol": "Apostle and martyr",
+        "periodo": "s. I AD",
+        "descripcion": "Apostolic tradition places him in Rome as bishop; crucified inverted.",
+        "referencias": [
+          "1 Pet 5:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "rom_p3",
+        "nombre": "Nero",
+        "rol": "Roman emperor",
+        "periodo": "54-68 AD",
+        "descripcion": "He persecuted the Christians, accusing them of the burning of Rome; Peter and Paul died under him.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Heart of the Empire and its cults; The Christian community in Rome became the most influential in the world.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "imperial_cult",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "rom_m1",
+          "nombre": "Peter in Rome",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Christian tradition places the tomb of Peter under the Basilica of Saint Peter; Rome became the seat of the Western church.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Christian tradition places the tomb of Peter under the Basilica of Saint Peter; Rome became the seat of the Western church.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

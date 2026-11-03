@@ -1,0 +1,219 @@
+{
+  "id": "haran",
+  "nombre": "lo faranno",
+  "tipo": "ciudad",
+  "lat": 36.86386407659651,
+  "lng": 39.03219672227345,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Età del bronzo medio — Residenza di Terah, Giacobbe e Labano"
+    }
+  ],
+  "descripcion_geo": "Importante città commerciale nell'alto Mesopotamia (l'attuale regione di confine tra Turchia e Siria), sulla rotta commerciale tra Assiria e il Mediterraneo, residenza della famiglia di Abramo dopo aver lasciato Ur e, generazioni dopo, luogo di esilio di Giacobbe per vent'anni nella casa di suo zio Labano.",
+  "altitud_m": 350,
+  "clima": "Continentale semi-arido: estati molto calde e secche, inverni freddi, tipici di un Mesopotamia elevato.",
+  "recursos": [
+    "Posizione su importanti rotte commerciali mesopotamiche",
+    "Centro di culto del dio lunare Sin (come Ur)",
+    "Pascoli per le vaste greggi di Labano"
+  ],
+  "importancia_estrategica": "Haran è il punto di transito fondamentale nella migrazione della famiglia di Abramo da Ur a Canaan, e generazioni dopo diventa il luogo di rifugio e di formazione familiare di Giacobbe durante i suoi vent'anni di servizio a Labano, periodo in cui nascono la maggior parte dei suoi figli e si formano le basi delle future dodici tribù di Israele.",
+  "otros_habitantes": [
+    {
+      "id": "familia_tare_haran",
+      "nombre": "La famiglia di Terah",
+      "descripcion": "Padre di Abramo, che si stabilisce ad Haran durante il viaggio della famiglia da Ur a Canaan, morendo infine in questa città.",
+      "religion": "Politeismo mesopotamico: culto del dio lunare Sin",
+      "periodo": "C. 2150 a.C. (cronologia tradizionale)"
+    },
+    {
+      "id": "laban_familia_haran",
+      "nombre": "Labano e la sua famiglia",
+      "descripcion": "Parente di Abramo che vive ad Haran, le cui figlie Lea e Rachel diventano mogli di Giacobbe durante la loro prolungata permanenza in città.",
+      "religion": "Politeismo mesopotamico (compreso il culto dei teraphim domestici)",
+      "periodo": "C. 1900–1880 a.C. (cronologia tradizionale)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "tare-abraham-haran",
+      "titulo": "Terah si stabilisce ad Haran con la sua famiglia",
+      "fecha": "c. 2150 a.C. (cronología tradicional)",
+      "descripcion": "Terah prende suo figlio Abramo, suo nipote Lot e sua nuora Sarai e lascia Ur dei Caldei per andare a Canaan, ma si ferma e si stabilisce ad Haran, dove alla fine muore, segnando il punto a metà strada della migrazione della famiglia verso la terra promessa.",
+      "referencias": [
+        "Gen 11:31-32"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "abraham-llamado-deja-haran",
+      "titulo": "Abramo riceve la chiamata e lascia Haran",
+      "fecha": "c. 2091 a.C. (cronología tradicional)",
+      "descripcion": "YHWH chiama Abramo affinché lasci la sua terra, i suoi parenti e la casa di suo padre verso la terra che gli avrebbe mostrato; Abramo obbedisce e lascia Haran all'età di settantacinque anni, accompagnato da Sarah e Lot, dando inizio formalmente al ciclo patriarcale in Canaan.",
+      "referencias": [
+        "Gen 12:1-5"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "jacob-veinte-anos-haran",
+      "titulo": "Giacobbe trascorre vent'anni ad Haran con Labano",
+      "fecha": "c. 1900–1880 a.C. (cronología tradicional)",
+      "descripcion": "In fuga dall'ira di Esaù, Giacobbe arriva ad Haran, dove serve suo zio Labano per vent'anni, sposando Lea e Rachele, allevando la maggior parte dei suoi dodici figli e sviluppando un rapporto sempre più teso con Labano sulla gestione delle greggi, fino a tornare finalmente a Canaan.",
+      "referencias": [
+        "Gen 29:1-30",
+        "Gen 31:38-42"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tare_haran",
+      "nombre": "Tara",
+      "rol": "Padre di Abramo",
+      "periodo": "bronce_medio",
+      "descripcion": "Stabilì la sua famiglia ad Haran durante la migrazione da Ur a Canaan, morendo in questa città senza completare il viaggio verso la terra promessa.",
+      "referencias": [
+        "Gen 11:31-32"
+      ],
+      "ruta": [
+        "ur",
+        "haran"
+      ]
+    },
+    {
+      "id": "abraham_haran",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "Riceve la chiamata divina ad Haran che lo rende patriarca fondatore di Israele, lasciando la città per iniziare il suo pellegrinaggio verso Canaan.",
+      "referencias": [
+        "Gen 12:1-5"
+      ],
+      "ruta": [
+        "haran",
+        "shechem"
+      ]
+    },
+    {
+      "id": "jacob_haran",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca, nipote di Abramo",
+      "periodo": "bronce_medio",
+      "descripcion": "Trascorre vent'anni formativi ad Haran, dove sposa le sue due mogli principali e dà alla luce la maggior parte dei suoi figli, il fondamento diretto delle future tribù di Israele.",
+      "referencias": [
+        "Gen 29:1-30:24",
+        "Gen 31:38-42"
+      ],
+      "ruta": [
+        "beersheba",
+        "haran",
+        "mahanaim"
+      ],
+      "viajes": [
+        {
+          "nombre": "Il volo per Haran",
+          "ruta": [
+            "beersheba",
+            "bethel",
+            "haran"
+          ],
+          "referencias": [
+            "Gen 27:41-46",
+            "Gen 28:1-22"
+          ]
+        },
+        {
+          "nombre": "Il ritorno a Canaan",
+          "ruta": [
+            "haran",
+            "mahanaim",
+            "peniel",
+            "succoth",
+            "shechem",
+            "bethel",
+            "hebron"
+          ],
+          "referencias": [
+            "Gen 31:17-21",
+            "Gen 32:1-32",
+            "Gen 33:1-20",
+            "Gen 35:1-29"
+          ]
+        },
+        {
+          "nombre": "La discesa a Egitto",
+          "ruta": [
+            "hebron",
+            "beersheba",
+            "egipto"
+          ],
+          "referencias": [
+            "Gen 46:1-7",
+            "Gen 47:1-12"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Haran è un punto di transito geografico e spirituale fondamentale per due generazioni consecutive del ciclo patriarcale: luogo di temporanea detenzione e morte per Terah, e di chiamata decisiva e partenza definitiva per Abramo; Generazioni dopo, diventa un luogo di formazione familiare allargata per Giacobbe, i cui figli nati lì, insieme a quelli nati più tardi in Canaan, costituiranno le dodici tribù di Israele, collegando così questa città mesopotamica con l'origine stessa dell'identità nazionale israelita.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo (Abramo, Giacobbe)",
+      "Politeismo mesopotamico: culto del dio lunare Sin e dei teraphim domestici"
+    ],
+    "mitos": [
+      {
+        "id": "llamado-abraham-haran-mito",
+        "nombre": "Chiamata di Abramo per lasciare Haran",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 12:1-5",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 39 (sobre el significado de 'lej lejá', vete por ti mismo, y la prueba de fe que representa abandonar la seguridad familiar conocida)",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente la chiamata di Abramo da Haran come prima e fondamentale prova di fede del patriarca, sottolineando il sacrificio personale rappresentato dall'abbandono della terra conosciuta, della parentela e della casa paterna per una promessa non ancora mantenuta, stabilendo il modello archetipico di fede obbediente che caratterizzerà tutta la successiva tradizione ebraica su Abramo.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Haran come punto di partenza decisivo per la vocazione di Abramo.",
+          "diferencias": null,
+          "significado_teologico": "La chiamata da Haran stabilisce il modello fondamentale della fede come risposta obbediente a una promessa divina non ancora visibile, fondamento di tutta la successiva spiritualità abramitica.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo come figura fondatrice comune alle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 12:1-5 (recepción neotestamentaria en Hch 7:2-4; Heb 11:8-10)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la fe de Abraham como modelo para el creyente cristiano",
+          "descripcion": "Il Nuovo Testamento riprende esplicitamente la chiamata di Abramo da Haran come esempio paradigmatico di fede che agisce senza vedere pienamente il destino finale, citato sia nel discorso di Stefano che nella Lettera agli Ebrei come modello applicabile alla vita di fede del credente cristiano.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento di Haran come punto di partenza della fede obbediente di Abramo.",
+          "diferencias": "La lettura cristiana generalizza il modello di fede di Abramo verso un'applicazione universale per tutti i credenti, non limitata all'esperienza specifica delle persone di Israele.",
+          "significado_teologico": "La chiamata di Haran diventa un esplicito modello neotestamentario di fede che obbedisce senza vedere completamente la strada, applicabile ad ogni credente cristiano.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo come modello di fede comune all'ebraismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 6:74-83; 21:51-71 (relato de Ibrahim abandonando la idolatría de su pueblo)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la migración de Ibrahim desde la tierra de su padre",
+          "descripcion": "Il Corano narra la rottura di Ibrahim con l'idolatria del padre e del suo popolo, episodio che la tradizione islamica collega alla regione mesopotamica di Haran, anche se ponendo maggiore enfasi sul confronto diretto con l'idolatria che sullo specifico dettaglio geografico presente nel racconto biblico.",
+          "similitudes": "Riconoscimento condiviso della rottura decisiva di Ibrahim/Abramo con il contesto idolatrico di origine come momento fondativo della sua vocazione profetica.",
+          "diferencias": "Il Corano enfatizza il confronto verbale diretto di Ibrahim contro l'idolatria di suo padre più che l'aspetto della partenza geografica presente nel racconto della Genesi.",
+          "significado_teologico": "La rottura di Ibrahim con l'idolatria di Haran viene integrata come momento fondante della sua identità di primo monoteista puro (hanif) nella tradizione islamica.",
+          "posible_relacion_cultural": "Tradizione condivisa del Patriarca Ibrahim/Abramo come figura fondatrice comune a tutte e tre le religioni abramitiche."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "corinth",
+  "nombre": "Maroon",
+  "tipo": "ciudad",
+  "lat": 37.9063,
+  "lng": 22.8779,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Capital of the Roman province of Achaia, located on the isthmus that connects Greece with the Peloponnese.",
+  "altitud_m": 50,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "manufacture",
+    "ceramics",
+    "bronze"
+  ],
+  "importancia_estrategica": "The richest city in Greece; two ports controlled trade between East and West.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cor_h1",
+        "titulo": "Paul in Corinth: 18 months",
+        "fecha": "ca. 50-52 AD",
+        "descripcion": "Paul lives and works as a craftsman in Corinth; found a great church.",
+        "referencias": [
+          "Acts 18:1-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Priscila",
+          "Aquila",
+          "Crispo"
+        ]
+      },
+      {
+        "id": "cor_h2",
+        "titulo": "Encouraging night vision",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Christ encourages Paul: 'Speak and do not be silent, for I am with you.'",
+        "referencias": [
+          "Acts 18:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "cor_h3",
+        "titulo": "The letters to the Corinthians",
+        "fecha": "ca. 53-55 AD",
+        "descripcion": "Paul writes his two longest letters from Ephesus, addressing divisions and ethics.",
+        "referencias": [
+          "1 Cor 1:1",
+          "2 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cor_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle and craftsman",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He spent 18 months in Corinth; wrote four letters to this problematic community.",
+        "referencias": [
+          "Acts 18:1"
+        ],
+        "ruta": [
+          "corinth",
+          "ephesus",
+          "rome"
+        ]
+      },
+      {
+        "id": "cor_p2",
+        "nombre": "Priscilla and Aquila",
+        "rol": "Artisans and leaders",
+        "periodo": "s. I AD",
+        "descripcion": "Couple expelled from Rome; co-founders of the Corinthian church with Paul.",
+        "referencias": [
+          "Acts 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cor_p3",
+        "nombre": "Crispus",
+        "rol": "Converted synagogue chief",
+        "periodo": "s. I AD",
+        "descripcion": "Principal of the synagogue of Corinth who believed with his entire family.",
+        "referencias": [
+          "Acts 18:8"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cosmopolitan and vicious city with worship of Aphrodite; the church reflected all the conflicts of a pagan metropolis.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "imperial_cult",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "cor_m1",
+          "nombre": "Aphrodite and Corinth",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The temple of Aphrodite on the Acrocorinth dominated the city; Their worship with sacred prostitution contrasted with the sexual ethics that Paul taught the Corinthians.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The temple of Aphrodite on the Acrocorinth dominated the city; Their worship with sacred prostitution contrasted with the sexual ethics that Paul taught the Corinthians.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

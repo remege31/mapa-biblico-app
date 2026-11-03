@@ -1,0 +1,179 @@
+{
+  "id": "geba",
+  "nombre": "Geba",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8579,
+  "lng": 35.2598,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I - Città benjaminita, scena della prima vittoria di Jonathan"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Ferro II — Confine settentrionale del regno di Giuda"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Geba (ebraico: גֶּבַע, 'collina') era una città levitica nel territorio di Beniamino, situata a circa 9 km a nord-est di Gerusalemme, di fronte a Michmash attraverso il passo del wadi Suweinit. Identificata con la moderna Jeba, dominava uno dei passi strategici tra gli altopiani di Beniamino e la valle del Giordano. L'espressione 'da Geba a Beersheba' era usata per descrivere il territorio del regno di Giuda (2 Re 23:8), di cui Geba era il confine settentrionale. Il Passo Michmash, tra Gheba e Michmash, fu teatro dell'audace operazione di Gionata che cambiò il corso della guerra filistea.",
+  "altitud_m": 630,
+  "clima": "Montagna mediterranea: precipitazioni di 500-550 mm all'anno, inverni freddi con possibilità di neve, estati secche e calde. Wadi Suweinit a sud crea un microclima più umido nella conca.",
+  "recursos": [
+    "Posizione difensiva elevata con controllo del passaggio di Micmas",
+    "Agricoltura a terrazzamenti in collina (ulivi, vigneti, fichi)",
+    "Pascoli nelle colline circostanti",
+    "Calcare per l'edilizia",
+    "Controllo della rotta nord-sud attraverso gli altopiani di Benjamin"
+  ],
+  "importancia_estrategica": "Geba controllava il Passo Michmash, il corridoio naturale tra il nord e il centro di Benjamin. La sua funzione di \"confine settentrionale di Giuda\" (2 Re 23:8) ne fece un riferimento geografico permanente del regno meridionale. In epoca monarchica, Asa di Giuda la rafforzò con le pietre di Rama (1 Re 15:22), confermandone il valore difensivo. La battaglia di Michmas, con la guarnigione filistea dall'altra parte del passo, ne fece un simbolo del periodo della dominazione filistea e della sua rottura.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-geba",
+      "nombre": "Beniaminiti di Gheba",
+      "descripcion": "Gheba era una città levitica assegnata alla tribù di Beniamino (Gs 21:17; 1 Cron 6:45). I Beniaminiti della zona di Geba-Micmash erano conosciuti come guerrieri: la tribù di Beniamino era famosa per i suoi frombolieri mancini (Giudici 20:16) e per aver prodotto il primo re di Israele (Saul era un Beniaminita di Ghibeah, una città vicina). La famiglia di Saul aveva radici in questa zona di Benjamin.",
+      "religion": "Yahvismo tribale di Benjamin - con tensioni tra il santuario di Betel a nord e quello di Gerusalemme a sud",
+      "periodo": "Ferro I-II, c. 1200-586 a.C"
+    },
+    {
+      "id": "filisteos-guarnicion-micmas",
+      "nombre": "Guarnigione filistea di Micmas",
+      "descripcion": "Nel periodo della dominazione filistea, l'Filistei stabilì una guarnigione militare a Michmas, appena a nord del wadi di fronte a Geba. Questa guarnigione controllava il passaggio strategico e simboleggiava la sottomissione di Israele: l'Filistei proibiva addirittura agli Israeliti di avere fabbri affinché non fabbricassero armi (1 Sam 13,19-22). La distruzione di questa guarnigione da parte di Jonathan fu l'innesco della battaglia che liberò temporaneamente Israele dalla pressione filistea.",
+      "religion": "Politeismo filisteo - Dagon e Baal-Zebub, con sincretismo locale Cananeo",
+      "periodo": "Ferro I, c. 1050-1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jonatan-micmas",
+      "titulo": "Jonathan al Passo Micmas: l'audacia che ha salvato Israele",
+      "fecha": "c. 1020 a.C.",
+      "descripcion": "Saul era accampato a Ghibeah con seicento uomini; l'Filistei con un immenso esercito a Micmas, dall'altra parte del passo. Jonathan, senza dirlo a suo padre, propone al suo scudiero di recarsi presso la guarnigione filistea: 'Forse Jahvè agirà a nostro favore, poiché per Jahvè non c'è ostacolo nel salvare con molti o con pochi.' Scesero il pendio roccioso nel wadi e salirono dall'altra parte con le mani e i piedi. Venti Filistei sono morti in uno spazio di mezzo ettaro. Il panico si diffuse nell'accampamento filisteo, nella campagna e in tutta la truppa. Le guardie Saul a Ghibeah hanno visto la folla filistea disperdersi. Saul ha contato la sua gente e Jonathan mancava. L'arca è stata portata dentro, poi Saul se ne è sbarazzato e ha attaccato. Si diffuse il panico: gli ebrei in servizio nell'esercito filisteo si rivoltarono contro di loro. Gli Israeliti nascosti sul monte Efraim partirono all'inseguimento. Jahvè ha salvato Israele quel giorno.",
+      "referencias": [
+        "1 Sam 14:1-23",
+        "1 Sam 14:6",
+        "1 Sam 13:19-22"
+      ],
+      "personajes_clave": [
+        "jonatan",
+        "saul-geba"
+      ]
+    },
+    {
+      "id": "asa-fortalece-geba",
+      "titulo": "Asa rafforza Geba con le pietre di Ramah",
+      "fecha": "c. 895 a.C.",
+      "descripcion": "Re Baasha di Israele iniziò a costruire Ramah per bloccare il traffico verso Giuda. Asa di Giuda ha risposto con una mossa diplomatico-militare: ha inviato Ben-Hadad di Damasco argento e oro dal tesoro del tempio per rompere l'alleanza siro-israelita. Quando Ben-Hadad attaccò la parte settentrionale dell'Israele, Baasha abbandonò Ramah. Asa convocò tutti gli Giuda – nessuno era esentato – e presero le pietre e il legno con cui Baasá costruì Ramah; Con loro Asa costruì Gheba di Beniamino (Geba) e Mispah. L'episodio stabilisce Geba come una città militarmente rinnovata nel IX secolo, parte del sistema difensivo settentrionale di Giuda. Il profeta Hanani ha criticato Asa per aver fatto affidamento sulla Siria invece di fidarsi di Jahvè.",
+      "referencias": [
+        "1 Re 15:17-22",
+        "2 Cr 16:1-10"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    },
+    {
+      "id": "josias-geba-beersheba",
+      "titulo": "Giosia: la riforma da Gheba a Beersheba",
+      "fecha": "c. 621 a.C.",
+      "descripcion": "La grande riforma religiosa del re Giosia prevedeva la distruzione di tutti i luoghi di culto sulle alture \"da Geba a Beersheba\" - la formula biblica per l'intero territorio del regno di Giuda. Giosia profanò anche l'altare di Betel, che Geroboamo ben Nabat aveva costruito, distrusse l'Asherah e bruciò le ossa umane sull'altare. Geba, come limite settentrionale di Giuda, segna l'estensione settentrionale della riforma josiana che cercò di centralizzare l'intero culto yahwista nel tempio di Gerusalemme. Questa centralizzazione trasformò Geba da città levitica autonoma a punto di confine del territorio religiosamente unificato.",
+      "referencias": [
+        "2 Re 23:8",
+        "2 Re 23:4-20",
+        "2 Cr 34:3-7"
+      ],
+      "personajes_clave": [
+        "josias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonatan",
+      "nombre": "Jonathan",
+      "rol": "Principe di Israele, guerriero della fede, amico di Davide",
+      "periodo": "hierro_1",
+      "descripcion": "Jonathan ben Saul è uno dei personaggi più ammirati dell'OT. Guerriero eccezionale - la sua impresa al Passo Micmas davanti a Geba è un esempio di audacia militare fondata sulla fiducia divina - e amico fedele di Davide fino alla morte. La sua amicizia con Davide (\"amava Davide come se stesso\") portò la lealtà filiale in conflitto con la lealtà verso l'unto di Jahvè. Ha scelto ripetutamente Davide rispetto agli interessi della sua stessa dinastia. Morì nella battaglia del Monte Guilboa insieme a suo padre Saul, senza aver tradito né suo padre né il suo amico. Davide lo pianse con la canzone più bella dell'OT: \"Il tuo amore per me era ammirevole, più dell'amore delle donne\".",
+      "referencias": [
+        "1 Sam 14:1-15",
+        "1 Sam 18:1-4",
+        "2 Sam 1:19-27"
+      ],
+      "ruta": [
+        "geba",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "asa",
+      "nombre": "Maniglia",
+      "rol": "Re riformatore di Giuda, costruttore di Geba come fortezza di confine",
+      "periodo": "c. 911–870 a.C.",
+      "descripcion": "Asa è stato uno dei re più apprezzati di Giuda. Distrusse gli altari degli dei stranieri, le stele sacre, abbatté le asherah e ordinò a Giuda di cercare Jahvè. Depose addirittura sua nonna Macá dal rango di regina madre perché aveva fatto un'immagine oscena di Asera. La sua decisione di fortificare Geba con le pietre di Ramah fu tatticamente brillante ma teologicamente discutibile: usò il tesoro del tempio per pagare la Siria invece di fidarsi di Jahvè. Trascorse gli ultimi anni del suo regno malato - il testo suggerisce che cercò medici ma non Jahvè - e morì con una reputazione agrodolce: fedele nelle cose più grandi, negligente negli ultimi.",
+      "referencias": [
+        "1 Re 15:9-24",
+        "2 Cr 14:1-16:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josias",
+      "nombre": "Giosia",
+      "rol": "Re riformatore, il più fedele di tutti i re di Giuda secondo il testo biblico",
+      "periodo": "c. 640–609 a.C.",
+      "descripcion": "Josiah ben Ammon salì al trono all'età di otto anni. Nel 18° anno del suo regno, durante i lavori di riparazione del tempio, il sommo sacerdote Hilkiah trovò “il libro della legge”. Quando lo lessero al re, questi si stracciò le vesti e intraprese la riforma più radicale nella storia di Giuda: distruzione sistematica di tutti i luoghi di culto sincretistico da Geba a Beersheba, distruzione dell'altare di Betel, celebrazione della Pasqua con una solennità sconosciuta dai tempi dei giudici. Il testo lo loda senza riserve: \"Non c'era nessun re prima di lui che si convertì a Jahvè con tutto il cuore, con tutta l'anima e con tutte le forze, secondo tutta la legge di Mosè\". Morì in Meghiddo affrontando il faraone Neco II, incomprensibilmente per i suoi contemporanei.",
+      "referencias": [
+        "2 Re 22:1-23:30",
+        "2 Re 23:25",
+        "2 Cr 34:1-35:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Geba appare nell'Antico Testamento come contrassegno geografico del territorio di Giuda ('da Geba a Beersheba') e come teatro di due momenti chiave: la prima vittoria israelita sulla guarnigione filistea (Gionata) e il limite settentrionale della riforma giosiana. La sua condizione di città levitica in terra di confine la pone nella tensione permanente tra la centralizzazione del culto in Gerusalemme e la dispersione delle pratiche religiose nelle città periferiche.",
+    "religiones_presentes": [
+      "Yahvismo Levitico — città sacerdotale assegnata alla tribù di Levi in ​​Beniamino",
+      "Sincretismo popolare: luoghi di culto sulle alture distrutte da Giosia",
+      "Influenza filistea durante il periodo della dominazione di Ferro I"
+    ],
+    "mitos": [
+      {
+        "id": "fe-audaz-jonatan",
+        "nombre": "L'audace fede di Jonathan: risparmiare con molti o pochi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 14:6; 1 Sam 14:12-15",
+          "fuente_secundaria": "Talmud Bavli, Berajot 4a; Midrash Samuel 17",
+          "descripcion": "La frase di Jonathan — 'Per Jahvè non c'è ostacolo nel salvare con molti o con pochi' (1 Sam 14:6) — divenne una delle espressioni di fede più citate nella tradizione rabbinica. Il Talmud (Brachot 4a) lo utilizza per illustrare che l'azione di fede non attende condizioni favorevoli ma agisce piuttosto sulla fiducia nel potere divino. Il Midrash Samuele paragona l'audacia di Jonathan a quella di Davide contro Golia: entrambi agirono da soli contro una forza sproporzionata, confidando che Jahvè fosse il vero protagonista della battaglia.",
+          "similitudes": "La fiducia nell'intervento divino che trasforma la debolezza umana in vittoria è un principio condiviso dalla tradizione ebraica e da quella cristiana.",
+          "diferencias": "L'ebraismo enfatizza l'azione umana come una condizione necessaria (Jonathan ascese prima che Dio agisse); non esiste una fede passiva.",
+          "significado_teologico": "La fede biblica non è quietismo ma audacia attiva: il credente fa il primo passo e confida che Dio agirà in risposta.",
+          "posible_relacion_cultural": "Il motivo del piccolo esercito che sconfigge quello grande con l'aiuto divino appare nelle iscrizioni reali del Vicino Oriente (Rameses II a Kadesh, Sargon II), sebbene senza la componente di fede personale che caratterizza la narrativa israelita."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 14:6; 2 Cor 12:9-10; Fil 4:13",
+          "fuente_secundaria": "Juan Crisóstomo, Homilías sobre 1 Samuel 14",
+          "descripcion": "La teologia paolina della forza nella debolezza (“quando sono debole, allora sono forte”, 2 Cor 12,10) ha uno dei suoi antecedenti veterotestamentari più chiari in Gionata di Michmas. Giovanni Crisostomo utilizzò l'episodio di Gionata nelle sue omelie per illustrare che la fiducia in Dio non esclude l'azione coraggiosa, ma piuttosto la fonda. L'espressione 'con molti o con pochi' è stata letta come una figura dell'azione missionaria: la Chiesa non ha bisogno di maggioranze per agire, ma piuttosto della fiducia che Dio può operare con qualsiasi strumento.",
+          "similitudes": "Il paradosso della forza divina che si manifesta nella debolezza umana è identico in entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento porta all'estremo il principio sulla croce: la debolezza suprema (la morte) è lo strumento della vittoria suprema (la risurrezione).",
+          "significado_teologico": "La fede non calcola le probabilità ma confida nella sovranità divina. Gionata è l'Antico Testamento come prefigurazione del principio paolino: 'Tutto posso in Colui che mi dà la forza'.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

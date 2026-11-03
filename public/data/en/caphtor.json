@@ -1,0 +1,136 @@
+{
+  "id": "caphtor",
+  "nombre": "Caftor (Crete)",
+  "tipo": "territorio",
+  "lat": 35.17,
+  "lng": 25.01,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Eastern Mediterranean island, identified with Minoan Crete. Land of origin of the Philistines according to the AT.",
+  "altitud_m": 400,
+  "clima": "Mediterranean",
+  "recursos": [
+    "maritime trade",
+    "ceramics",
+    "agriculture",
+    "vine"
+  ],
+  "importancia_estrategica": "Origin of the Philistines; The Caphtori displaced the Avei from the Canaanite coastal plain.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "caf_h1",
+      "titulo": "The Philistines came from Caftor",
+      "fecha": "ca. 1200-1150 BC",
+      "descripcion": "The OT states that the Philistines (Chereteites) came from Caphtor, identified with Crete; They arrived with the migration of the Sea Peoples.",
+      "referencias": [
+        "Deut 2:23",
+        "Amos 9:7",
+        "Jer 47:4"
+      ],
+      "personajes_clave": [
+        "filisteos"
+      ]
+    },
+    {
+      "id": "caf_h2",
+      "titulo": "The Caftoríes displaced the Aveos",
+      "fecha": "ca. 1200 BC",
+      "descripcion": "The Caphtori came from Caphtor and destroyed the Avei who inhabited villages on the coastal strip of Gaza.",
+      "referencias": [
+        "Deut 2:23"
+      ],
+      "personajes_clave": [
+        "caftoríes",
+        "aveos"
+      ]
+    },
+    {
+      "id": "caf_h3",
+      "titulo": "Amos and the origin of the Philistines",
+      "fecha": "ca. 760 BC",
+      "descripcion": "The prophet Amos confirms that God brought Philistines from Caphtor, just as he brought Israel from Egypt.",
+      "referencias": [
+        "Amos 9:7"
+      ],
+      "personajes_clave": [
+        "Amós"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "caf_p1",
+      "nombre": "Amos",
+      "rol": "Prophet",
+      "periodo": "ca. 760 BC",
+      "descripcion": "He cited the Philistine origin in Caphtor to demonstrate that God guides the movements of all peoples.",
+      "referencias": [
+        "Amos 9:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caf_p2",
+      "nombre": "Quereteos",
+      "rol": "Royal Guard by David",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "The Cherethites, related to the Philistines of Caphtor, were part of David's personal guard.",
+      "referencias": [
+        "2 Sam 8:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caf_p3",
+      "nombre": "Philistines",
+      "rol": "Caftor Town",
+      "periodo": "ca. 1200-600 BC",
+      "descripcion": "The people most mentioned as opponents of Israel in the OT came from Caphtor/Crete.",
+      "referencias": [
+        "Amos 9:7"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Caphtor (Crete): relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "caf_m1",
+        "nombre": "The Philistine origin in Caphtor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Am 9:7",
+          "fuente_secundaria": "",
+          "descripcion": "God brought out the Philistines from Caphtor just as he brought out Israel from Egypt (Am 9:7): all peoples are directed by divine providence.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "God brought out the Philistines from Caphtor just as he brought out Israel from Egypt (Am 9:7): all peoples are directed by divine providence.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

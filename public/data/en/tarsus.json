@@ -1,0 +1,333 @@
+{
+  "id": "tarsus",
+  "nombre": "Tarsus",
+  "tipo": "ciudad",
+  "lat": 36.92,
+  "lng": 34.89,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City on the Cilician plain on the banks of the Cydnus river. Administrative capital of the province of Cilicia; homeland of Paul.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tar_h1",
+      "titulo": "Paul was born in Tarsus of Cilicia",
+      "fecha": "ca. 5 BC",
+      "descripcion": "Paul identifies himself as 'a citizen of Tarsus of Cilicia, a not insignificant city'; born there with Roman citizenship.",
+      "referencias": [
+        "Acts 21:39",
+        "Acts 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h2",
+      "titulo": "The Hellenistic formation of Paul in Tarsus",
+      "fecha": "ca. 5-14 AD",
+      "descripcion": "Tarsus was known for its university and its Stoic philosophy; The formation of Paul in his hometown influenced his thinking.",
+      "referencias": [
+        "Historia; Hch 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h3",
+      "titulo": "Paul returns to Tarsus after his conversion",
+      "fecha": "ca. 37 AD",
+      "descripcion": "After his conversion and escape from Damascus, Paul returned to his hometown of Tarsus.",
+      "referencias": [
+        "Acts 9:30"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tar_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "The great NT missionary was born and raised in Tarsus; his hometown shaped his bilingualism and Roman citizenship.",
+      "referencias": [
+        "Acts 21:39"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p2",
+      "nombre": "Barnabas",
+      "rol": "Missionary",
+      "periodo": "s. I AD",
+      "descripcion": "He went to Tarsus to find Paul for Antioch's mission.",
+      "referencias": [
+        "Acts 11:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p3",
+      "nombre": "Athenodorus",
+      "rol": "Stoic philosopher from Tarsus",
+      "periodo": "ca. 74 BC-7 AD",
+      "descripcion": "Stoic teacher and friend of Augustus; symbol of the philosophical tradition of Tarsus that formed the intellectual background of Paul.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pablo",
+      "nombre": "Paul",
+      "rol": "Apostle to the Gentiles, missionary to the Mediterranean",
+      "periodo": "apostolico",
+      "descripcion": "Pharisee of Tarsus converted on the way to Damascus. His four great voyages brought the gospel of Antioch to Rome, founding churches in Asia Minor, Macedonia, and Greece.",
+      "referencias": [
+        "Acts 9:1-19",
+        "Acts 13–28"
+      ],
+      "ruta": [
+        "tarsus",
+        "antioch",
+        "ephesus",
+        "corinth",
+        "rome"
+      ],
+      "viajes": [
+        {
+          "nombre": "First missionary trip",
+          "ruta": [
+            "antioch",
+            "cyprus",
+            "perge",
+            "antioch_pisidia",
+            "iconium",
+            "lystra",
+            "derbe",
+            "perge",
+            "antioch"
+          ],
+          "referencias": [
+            "Acts 13:1–14:28"
+          ]
+        },
+        {
+          "nombre": "Second missionary trip",
+          "ruta": [
+            "antioch",
+            "cilicia",
+            "lystra",
+            "troas",
+            "philippi",
+            "thessalonica",
+            "berea",
+            "athens",
+            "corinth",
+            "ephesus",
+            "caesarea",
+            "jerusalen",
+            "antioch"
+          ],
+          "referencias": [
+            "Acts 15:36–18:22"
+          ]
+        },
+        {
+          "nombre": "Third missionary trip",
+          "ruta": [
+            "antioch",
+            "galatia",
+            "phrygia",
+            "ephesus",
+            "macedonia",
+            "greece",
+            "troas",
+            "miletus",
+            "tyre",
+            "caesarea",
+            "jerusalen"
+          ],
+          "referencias": [
+            "Acts 18:23–21:17"
+          ]
+        },
+        {
+          "nombre": "Trip to Rome",
+          "ruta": [
+            "caesarea",
+            "crete",
+            "malta",
+            "syracuse",
+            "puteoli",
+            "rome"
+          ],
+          "referencias": [
+            "Acts 27:1–28:16"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tarsus: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "tar_m1",
+        "nombre": "Tarsus: city that formed the apostle",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Tarsus, with its Stoic tradition and Roman citizenship, formed Paul as the perfect bridge between the Jewish and Greco-Roman worlds.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tarsus, with its Stoic tradition and Roman citizenship, formed Paul as the perfect bridge between the Jewish and Greco-Roman worlds.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tar_h1",
+        "titulo": "Paul was born in Tarsus of Cilicia",
+        "fecha": "ca. 5 BC",
+        "descripcion": "Paul identifies himself as 'a citizen of Tarsus of Cilicia, a not insignificant city'; born there with Roman citizenship.",
+        "referencias": [
+          "Acts 21:39",
+          "Acts 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h2",
+        "titulo": "The Hellenistic formation of Paul in Tarsus",
+        "fecha": "ca. 5-14 AD",
+        "descripcion": "Tarsus was known for its university and its Stoic philosophy; The formation of Paul in his hometown influenced his thinking.",
+        "referencias": [
+          "Historia; Hch 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h3",
+        "titulo": "Paul returns to Tarsus after his conversion",
+        "fecha": "ca. 37 AD",
+        "descripcion": "After his conversion and escape from Damascus, Paul returned to his hometown of Tarsus.",
+        "referencias": [
+          "Acts 9:30"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tar_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "The great NT missionary was born and raised in Tarsus; his hometown shaped his bilingualism and Roman citizenship.",
+        "referencias": [
+          "Acts 21:39"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p2",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He went to Tarsus to find Paul for Antioch's mission.",
+        "referencias": [
+          "Acts 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p3",
+        "nombre": "Athenodorus",
+        "rol": "Stoic philosopher from Tarsus",
+        "periodo": "ca. 74 BC-7 AD",
+        "descripcion": "Stoic teacher and friend of Augustus; symbol of the philosophical tradition of Tarsus that formed the intellectual background of Paul.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Tarsus in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tar_m1",
+          "nombre": "Tarsus: city that formed the apostle",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Tarsus, with its Stoic tradition and Roman citizenship, formed Paul as the perfect bridge between the Jewish and Greco-Roman worlds.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tarsus, with its Stoic tradition and Roman citizenship, formed Paul as the perfect bridge between the Jewish and Greco-Roman worlds.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

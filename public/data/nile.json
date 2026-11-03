@@ -1,0 +1,156 @@
+{
+  "id": "nile",
+  "nombre": "Río Nilo",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 30.09,
+  "lng": 31.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 51,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -400,
+      "nombre": "Bronce medio - Post-exilio"
+    }
+  ],
+  "descripcion_geo": "El río más largo del mundo (6.650 km), fertiliza la estrecha franja de Egipto. Sus inundaciones anuales hacían posible la civilización egipcia.",
+  "altitud_m": 5,
+  "clima": "árido-subtropical",
+  "recursos": [
+    "agua",
+    "agricultura",
+    "papiro",
+    "pesca"
+  ],
+  "importancia_estrategica": "Columna vertebral de la civilización egipcia; escenario del éxodo y la infancia de Moisés.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "nil_h1",
+      "titulo": "El bebé Moisés en el Nilo",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "La madre de Moisés lo pone en una cesta de papiro en el Nilo para salvarlo del decreto de muerte; la hija del faraón lo encuentra y adopta.",
+      "referencias": [
+        "Ex 2:1-10"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jocabed",
+        "hija del faraón"
+      ]
+    },
+    {
+      "id": "nil_h2",
+      "titulo": "La primera plaga: el Nilo se vuelve sangre",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Moisés golpea el Nilo con su vara y el agua se convierte en sangre; todos los peces mueren.",
+      "referencias": [
+        "Ex 7:14-24"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "nil_h3",
+      "titulo": "José y el sueño del Nilo",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "El faraón sueña con siete vacas gordas y siete flacas saliendo del Nilo; José lo interpreta como siete años de abundancia y siete de hambre.",
+      "referencias": [
+        "Gn 41:1-36"
+      ],
+      "personajes_clave": [
+        "José",
+        "Faraón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nil_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador de Israel",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Salvado de las aguas del Nilo de bebé; luego convirtió esas aguas en sangre como señal ante el faraón.",
+      "referencias": [
+        "Ex 2:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p2",
+      "nombre": "José",
+      "rol": "Estadista y soñador",
+      "periodo": "ca. 1700 a.C.",
+      "descripcion": "Su interpretación del sueño del Nilo lo llevó al poder en Egipto y salvó a dos naciones del hambre.",
+      "referencias": [
+        "Gn 41:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p3",
+      "nombre": "La hija del Faraón",
+      "rol": "Princesa egipcia",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Rescató al bebé Moisés del Nilo y lo adoptó como hijo.",
+      "referencias": [
+        "Ex 2:5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El Nilo era divinidad en Egipto (Hapi); su conversión en sangre fue el golpe directo al corazón de la religiosidad egipcia.",
+    "religiones_presentes": [
+      "paganismo_egipcio",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "nil_m1",
+        "nombre": "El Nilo como dios",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La primera plaga convirtió el Nilo sagrado en sangre, declarando que el Dios de Israel supera al dios-río egipcio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La primera plaga convirtió el Nilo sagrado en sangre, declarando que el Dios de Israel supera al dios-río egipcio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2:13-16",
+          "fuente_secundaria": "",
+          "descripcion": "El bebé Moisés salvado de las aguas es visto como prefiguración de Jesús salvado de la matanza de Herodes (Mt 2:13-16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El bebé Moisés salvado de las aguas es visto como prefiguración de Jesús salvado de la matanza de Herodes (Mt 2:13-16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 20:37-40",
+          "fuente_secundaria": "",
+          "descripcion": "Musa (Moisés) aparece en el Corán; su historia en el Nilo es narrada en Cor 20:37-40.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Musa (Moisés) aparece en el Corán; su historia en el Nilo es narrada en Cor 20:37-40.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

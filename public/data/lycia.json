@@ -1,0 +1,242 @@
+{
+  "id": "lycia",
+  "nombre": "Licia",
+  "tipo": "territorio",
+  "lat": 36.64,
+  "lng": 29.98,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Región costera del suroeste de Asia Menor, con ciudades como Pátara y Mira. Escenario de escalas del viaje de Pablo a Roma.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyc_h1",
+      "titulo": "Pablo en Pátara de Licia: camino a Jerusalén",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Desde Mileto, Pablo y sus compañeros llegan a Pátara y cambian de barco para navegar hacia Fenicia.",
+      "referencias": [
+        "Hch 21:1"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyc_h2",
+      "titulo": "El cambio de barco en Mira de Licia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "En el viaje de Pablo a Roma, el centurión Julio hace transbordo en Mira de Licia a un barco alejandrino con destino a Italia.",
+      "referencias": [
+        "Hch 27:5-6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "lyc_h3",
+      "titulo": "Nicolás de Mira: obispo de Licia",
+      "fecha": "ca. s. IV d.C.",
+      "descripcion": "San Nicolás, obispo de Mira en Licia, es el patrón de los niños y la fuente histórica de la tradición de Santa Claus.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Nicolás de Mira"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyc_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Pasó por Licia en dos de sus viajes: hacia Jerusalén y hacia Roma.",
+      "referencias": [
+        "Hch 21:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p2",
+      "nombre": "Julio el centurión",
+      "rol": "Oficial romano",
+      "periodo": "ca. 60 d.C.",
+      "descripcion": "Responsable del traslado de Pablo a Roma; en Mira hizo el transbordo decisivo.",
+      "referencias": [
+        "Hch 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p3",
+      "nombre": "Nicolás de Mira",
+      "rol": "Obispo",
+      "periodo": "ca. s. IV d.C.",
+      "descripcion": "Obispo de Mira en Licia; su generosidad se convirtió en leyenda universal.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Licia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "lyc_m1",
+        "nombre": "San Nicolás de Mira",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "El obispo Nicolás de Mira (Licia) fue tan generoso con los pobres que su memoria se transformó en la leyenda de Santa Claus.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El obispo Nicolás de Mira (Licia) fue tan generoso con los pobres que su memoria se transformó en la leyenda de Santa Claus.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyc_h1",
+        "titulo": "Pablo en Pátara de Licia: camino a Jerusalén",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Desde Mileto, Pablo y sus compañeros llegan a Pátara y cambian de barco para navegar hacia Fenicia.",
+        "referencias": [
+          "Hch 21:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyc_h2",
+        "titulo": "El cambio de barco en Mira de Licia",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "En el viaje de Pablo a Roma, el centurión Julio hace transbordo en Mira de Licia a un barco alejandrino con destino a Italia.",
+        "referencias": [
+          "Hch 27:5-6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio"
+        ]
+      },
+      {
+        "id": "lyc_h3",
+        "titulo": "Nicolás de Mira: obispo de Licia",
+        "fecha": "ca. s. IV d.C.",
+        "descripcion": "San Nicolás, obispo de Mira en Licia, es el patrón de los niños y la fuente histórica de la tradición de Santa Claus.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Nicolás de Mira"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyc_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Pasó por Licia en dos de sus viajes: hacia Jerusalén y hacia Roma.",
+        "referencias": [
+          "Hch 21:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p2",
+        "nombre": "Julio el centurión",
+        "rol": "Oficial romano",
+        "periodo": "ca. 60 d.C.",
+        "descripcion": "Responsable del traslado de Pablo a Roma; en Mira hizo el transbordo decisivo.",
+        "referencias": [
+          "Hch 27:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p3",
+        "nombre": "Nicolás de Mira",
+        "rol": "Obispo",
+        "periodo": "ca. s. IV d.C.",
+        "descripcion": "Obispo de Mira en Licia; su generosidad se convirtió en leyenda universal.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Licia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "lyc_m1",
+          "nombre": "San Nicolás de Mira",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El obispo Nicolás de Mira (Licia) fue tan generoso con los pobres que su memoria se transformó en la leyenda de Santa Claus.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El obispo Nicolás de Mira (Licia) fue tan generoso con los pobres que su memoria se transformó en la leyenda de Santa Claus.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

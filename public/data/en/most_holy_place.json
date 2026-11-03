@@ -1,0 +1,180 @@
+{
+  "id": "most_holy_place",
+  "nombre": "Holy of Holies",
+  "tipo": "ciudad",
+  "lat": 31.779694,
+  "lng": 35.239435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — espacio interior del Tabernáculo y, después, del Templo, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Inner chamber of the mobile Tabernacle"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Inner Chamber of the Temple of Solomon"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Inner chamber of the Second Temple"
+    }
+  ],
+  "descripcion_geo": "Innermost cubic space of the Tabernacle and, later, of the Temple of Jerusalem, separated from the rest of the sanctuary by a veil. In the Tabernacle of the wilderness and the Temple of Solomon housed the Ark of the Covenant between the cherubim; After the loss of the Ark in the Babylonian destruction, the Holy of Holies of the Second Temple remained empty, marked only by a stone (the 'foundation stone').",
+  "altitud_m": "Interior of the Temple, Mount Moria, c. 740",
+  "clima": "Mountain Mediterranean — that of Jerusalem; The interior space lacked ventilation or natural light, illuminated only indirectly.",
+  "recursos": [
+    "Ark of the Covenant (Tabernacle and First Temple)",
+    "Cherubs of beaten gold",
+    "Veil of separation from the rest of the sanctuary"
+  ],
+  "importancia_estrategica": "The Holy of Holies has no military or economic relevance, but constitutes the absolute symbolic center of the Yahwist cult: the point of maximum ritual proximity between Israel and the presence of YHWH, accessible only to the high priest, only once a year, on the Day of Atonement. Its existence structures the entire sacrificial and ritual purity system of the Old Testament.",
+  "otros_habitantes": [
+    {
+      "id": "sumo_sacerdote_lugar_santisimo",
+      "nombre": "High priest",
+      "descripcion": "The only human being authorized to enter the Holy of Holies, and only once a year, on Yom Kippur, after an elaborate ritual purification process and carrying incense and the blood of the atoning sacrifice.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC (Tabernacle) until 70 AD. (destruction of the Second Temple)"
+    },
+    {
+      "id": "levitas_lugar_santisimo",
+      "nombre": "Levites",
+      "descripcion": "Priestly tribe in charge of the care, transportation (during the Tabernacle period) and general maintenance of the sanctuary, without direct access to the Holy of Holies, reserved exclusively for the high priest.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "instrucciones-tabernaculo-lugar-santisimo",
+      "titulo": "Divine Instructions for the Most Holy Place of the Tabernacle",
+      "fecha": "c. 1400 BC (narrativa del Sinaí)",
+      "descripcion": "YHWH instructs Moses in Sinai about the exact dimensions and furnishings of the Most Holy Place of the Tabernacle: a cube of ten cubits on each side, separated by a veil, intended to house the Ark of the Covenant under the wings of two golden cherubim.",
+      "referencias": [
+        "Exod 26:31-34",
+        "Exod 25:10-22"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "dedicacion-templo-salomon-lugar-santisimo",
+      "titulo": "Solomon introduces the Ark into the Holy of Holies of the Temple",
+      "fecha": "c. 960 BC",
+      "descripcion": "At the dedication of the Temple, the priests introduce the Ark of the Covenant into the Holy of Holies under the wings of the two large olive wood cherubs covered in gold; The glory of YHWH fills the Temple in the form of a cloud to the point that the priests cannot remain to minister.",
+      "referencias": [
+        "1 Kgs 8:1-11",
+        "2 Chr 5:2-14"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "yom-kipur-lugar-santisimo",
+      "titulo": "The ritual of the Day of Atonement in the Holy of Holies",
+      "fecha": "Instituido c. 1400 BC, observancia anual continua",
+      "descripcion": "Once a year, on Yom Kippur, the high priest enters the Holy of Holies carrying incense and the blood of the atoning sacrifice to sprinkle on the mercy seat, in the only ritual act in the Israelite calendar that allows direct human access to that space.",
+      "referencias": [
+        "Lev 16:2-17"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_lugar_santisimo",
+      "nombre": "Moses",
+      "rol": "Lawgiver, recipient of the instructions of the Tabernacle",
+      "periodo": "bronce_tardio",
+      "descripcion": "Receive on Mount Sinai YHWH's detailed instructions for the construction of the Tabernacle, including the exact specifications of the Holy of Holies and the Ark of the Covenant.",
+      "referencias": [
+        "Exod 25:1-22",
+        "Exod 26:31-34"
+      ],
+      "ruta": [
+        "sinai"
+      ]
+    },
+    {
+      "id": "salomon_lugar_santisimo",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the Temple",
+      "periodo": "hierro_2",
+      "descripcion": "He leads the dedication of the Temple and the solemn introduction of the Ark of the Covenant into the Holy of Holies, at which time the glory of YHWH is manifested as a cloud that fills the entire building.",
+      "referencias": [
+        "1 Kgs 8:1-66"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "sumo_sacerdote_yom_kipur",
+      "nombre": "High priest (office)",
+      "rol": "Only mediator authorized to enter the Holy of Holies",
+      "periodo": "Institución continua, c. 1400 BC–70 AD",
+      "descripcion": "Priestly figure whose central function is to symbolically represent the entire Israel in the only ritual access allowed to the space of maximum holiness, once a year, on the Day of Atonement.",
+      "referencias": [
+        "Lev 16:2-34"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Holy of Holies is the absolute center of the theological and ritual system of the Old Testament: the point where YHWH's transcendence is concentrated most intensely and, at the same time, most restricted. Its architecture of progressive exclusion—atrium, holy place, most holy place—spatially translates the theology of divine holiness and the need for priestly mediation. The loss of the Ark following the Babylonian destruction leaves the Holy of Holies of the Second Temple empty, transforming the dwelling space from a sacred object to a pure symbol of presence without physical representation.",
+    "religiones_presentes": [
+      "Yahwism (absolute center of the cultic and sacrificial system)"
+    ],
+    "mitos": [
+      {
+        "id": "arca-alianza-lugar-santisimo",
+        "nombre": "The Ark of the Covenant and the divine presence in the Holy of Holies",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 25:10-22; 1 Re 8:1-11; Lev 16:2-17",
+          "fuente_secundaria": "Mishná, tratado Yoma (descripción detallada del ritual de Yom Kipur); Talmud Babilónico, Yoma 21b (sobre la desaparición del Arca)",
+          "descripcion": "Rabbinic tradition extensively develops the Yom Kippur ritual and discusses the fate of the Ark following the destruction of the First Temple, with traditions suggesting that it was hidden by King Josiah or the prophet Jeremiah before the Babylonian conquest, and that it will remain hidden until a future restoration.",
+          "similitudes": "Shared conception of a central sacred space inaccessible except through special ritual mediation.",
+          "diferencias": null,
+          "significado_teologico": "The Holy of Holies represents the closest point of contact between the transcendent holiness of God and human existence, mediated exclusively by the priestly office.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 9:1-12 (lectura tipológica neotestamentaria del Lugar Santísimo)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la Carta a los Hebreos y el velo rasgado en la crucifixión (Mt 27:51)",
+          "descripcion": "The Letter to the Hebrews rereads the earthly Holy of Holies as an imperfect figure of a definitive heavenly sanctuary, to which Christ accesses once and for all through his own blood; The synoptic account of the Temple veil being torn at the moment of the crucifixion is interpreted as a symbolic opening of direct access to the divine presence.",
+          "similitudes": "It shares the conceptual structure of a space of maximum holiness accessible only through sacrifice and priestly mediation.",
+          "diferencias": "The Christian reading shifts the fulfillment of the ritual system of the earthly Holy of Holies toward a definitive heavenly reality mediated by Christ, declaring the annually repeated Levitical sacrificial system to be superseded.",
+          "significado_teologico": "The torn veil symbolizes the end of the ritual separation between God and believers, replacing the restricted access of the high priest with direct access mediated by Christ.",
+          "posible_relacion_cultural": "Shared tradition of the Temple of Jerusalem and its sacred architecture as a common background to Judaism and early Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 17:1 (referencia a 'la Mezquita Lejana', al-Masjid al-Aqsa, identificada tradicionalmente con el monte del Templo)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre el viaje nocturno (Isra) y la ascensión (Mi'raj)",
+          "descripcion": "Islamic tradition links the Temple Mount—historic site of the Holy of Holies—with the story of the prophet Muhammad's night journey, without developing its own doctrine about the Ark or the Holy of Holies itself, but recognizing the historical sanctity of the place as the site of previous prophets.",
+          "similitudes": "Shared recognition of the exceptional sanctity of the Jerusalem Temple site.",
+          "diferencias": "Islam does not develop the specific concept of the Holy of Holies or the Ark of the Covenant as central elements of its own theology; the Quranic reference focuses on the Temple Mount as the destination of the night journey, not on the interior architecture of the Israelite sanctuary.",
+          "significado_teologico": "The place is integrated into the chain of prophetic sanctity recognized by Islam, linking Jerusalem with the common Abrahamic tradition without adopting the Levitical ritual system.",
+          "posible_relacion_cultural": "Shared recognition of Jerusalem and the Temple Mount as a place of divine revelation in the Abrahamic tradition."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

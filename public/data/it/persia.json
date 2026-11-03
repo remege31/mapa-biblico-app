@@ -1,0 +1,154 @@
+{
+  "id": "persia",
+  "nombre": "Persia",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 37,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -539,
+      "hasta": -330,
+      "nombre": "Persiano post-esilio"
+    }
+  ],
+  "descripcion_geo": "Impero achemenide con capitali a Persepoli e Susa, che dominò il Medio Oriente dal 539 a.C.",
+  "altitud_m": 1500,
+  "clima": "continentale-arido",
+  "recursos": [
+    "agricoltura",
+    "commercio",
+    "argento",
+    "lapislazzuli"
+  ],
+  "importancia_estrategica": "Impero che liberò gli ebrei dall'esilio babilonese e finanziò la ricostruzione del Tempio.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "per_h1",
+      "titulo": "Ciro il Grande decreta il ritorno degli ebrei",
+      "fecha": "538 a.C.",
+      "descripcion": "Ciro il Persiano decreta che gli ebrei possano tornare a Gerusalemme e ricostruire il Tempio; restituisce gli utensili d'oro.",
+      "referencias": [
+        "Esd 1:1-4",
+        "2 Cr 36:22-23"
+      ],
+      "personajes_clave": [
+        "Ciro"
+      ]
+    },
+    {
+      "id": "per_h2",
+      "titulo": "Il complotto di Ester e Haman in Persia",
+      "fecha": "ca. 480 a.C.",
+      "descripcion": "La giovane ebrea Ester, regina persiana, sventa il piano del ministro Haman di sterminare gli ebrei dell'Impero.",
+      "referencias": [
+        "Est 1-10"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Mardoqueo",
+        "Amán",
+        "Asuero"
+      ]
+    },
+    {
+      "id": "per_h3",
+      "titulo": "Neemia: il governatore persiano ricostruisce Gerusalemme",
+      "fecha": "ca. 445 a.C.",
+      "descripcion": "Neemia, coppiere del re Artaserse, ottiene il permesso di ricostruire le mura di Gerusalemme.",
+      "referencias": [
+        "Ne 1-2"
+      ],
+      "personajes_clave": [
+        "Nehemías",
+        "Artajerjes"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "per_p1",
+      "nombre": "Ciro il Grande",
+      "rol": "re di Persia",
+      "periodo": "559-530 a.C.",
+      "descripcion": "Chiamato 'unto' da Isaia; Liberò gli ebrei dall'esilio babilonese.",
+      "referencias": [
+        "Is 45:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p2",
+      "nombre": "Estere",
+      "rol": "Regina ebrea in Persia",
+      "periodo": "ca. 480 a.C.",
+      "descripcion": "Giovane donna ebrea che divenne regina e salvò il suo popolo dal genocidio.",
+      "referencias": [
+        "Est 2:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p3",
+      "nombre": "Neemia",
+      "rol": "Giuda Governatore",
+      "periodo": "ca. 445-433 a.C.",
+      "descripcion": "Coppiere del re persiano che ricostruì le mura di Gerusalemme.",
+      "referencias": [
+        "Ne 1:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Impero religiosamente tollerante; i suoi decreti di restaurazione consentirono il giudaismo del Secondo Tempio. Ambientazione del libro di Ester e delle missioni di Esdra e Neemia.",
+    "religiones_presentes": [
+      "Zoroastrismo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "per_m1",
+        "nombre": "Ciro l'unto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 45,1",
+          "fuente_secundaria": "",
+          "descripcion": "Isaia chiama Ciro \"il mio unto\" (mashiach) con un secolo di anticipo; Dio si serve di lui per restaurare Israele (Is 45,1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Isaia chiama Ciro \"il mio unto\" (mashiach) con un secolo di anticipo; Dio si serve di lui per restaurare Israele (Is 45,1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "I Padri della Chiesa vedono in Ciro un tipo di Cristo: il re gentile che libera il popolo di Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I Padri della Chiesa vedono in Ciro un tipo di Cristo: il re gentile che libera il popolo di Dio.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 18,83-98",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam riconosce Ciro come possibile candidato al 'Dhul-Qarnayn' del Corano (Cor 18,83-98).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam riconosce Ciro come possibile candidato al 'Dhul-Qarnayn' del Corano (Cor 18,83-98).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

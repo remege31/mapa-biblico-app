@@ -1,0 +1,147 @@
+{
+  "id": "iconium",
+  "nombre": "Iconium",
+  "tipo": "ciudad",
+  "lat": 37.8714,
+  "lng": 32.4847,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City of Phrygia-Galatia on the Anatolian plateau, at the crossroads of trade routes.",
+  "altitud_m": 1017,
+  "clima": "continental-dry",
+  "recursos": [
+    "agriculture",
+    "wool",
+    "trade"
+  ],
+  "importancia_estrategica": "Road node of central Anatolia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ico_h1",
+        "titulo": "Preaching at Iconium",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Paul and Barnabas preach in the synagogue; many believe but opposition and persecution arise.",
+        "referencias": [
+          "Acts 14:1-5"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ico_h2",
+        "titulo": "Plot to stone missionaries",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Jews and Gentiles conspire to stone Paul and Barnabas, who flee.",
+        "referencias": [
+          "Acts 14:5-6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ico_h3",
+        "titulo": "Return and consolidation of the church",
+        "fecha": "ca. 48 AD",
+        "descripcion": "Upon his return, Paul appoints elders in the church of Iconium.",
+        "referencias": [
+          "Acts 14:21-23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ico_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Missionary",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "Iconius evangelized on the first and second missionary journeys.",
+        "referencias": [
+          "Acts 14:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ico_p2",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He accompanied Paul on the first trip through Iconium.",
+        "referencias": [
+          "Acts 14:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ico_p3",
+        "nombre": "Timothy",
+        "rol": "Disciple of Paul",
+        "periodo": "s. I AD",
+        "descripcion": "Native of the region; joined Paul on the second trip.",
+        "referencias": [
+          "Acts 16:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Greco-Roman city with active Jewish community; scene of the evangelization of inner Asia Minor.",
+      "religiones_presentes": [
+        "Judaism",
+        "greco_roman_paganism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ico_m1",
+          "nombre": "Persecution strengthens the church",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Attempts to stop the gospel at Iconium only scattered the missionaries, spreading the message.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Attempts to stop the gospel at Iconium only scattered the missionaries, spreading the message.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

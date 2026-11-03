@@ -1,0 +1,164 @@
+{
+  "id": "michmash",
+  "nombre": "Micmá",
+  "tipo": "ciudad",
+  "lat": 31.87018434231688,
+  "lng": 35.27923581936973,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I - Campo Saul, la vittoria di Jonathan contro Filistei"
+    }
+  ],
+  "descripcion_geo": "Città del territorio di Beniamino, situata sull'orlo di una profonda gola (il Passo di Michmas) che la separava da Geba, formata da due dirupi rocciosi conosciuti come Bosez e Sene. Questa gola naturale fu teatro dell'attraversamento forzato tra le posizioni israelite e filistee.",
+  "altitud_m": 600,
+  "clima": "Montagna mediterranea: estati secche, inverni freddi con piogge, tipici dell'altopiano di Benjamin.",
+  "recursos": [
+    "Gola naturale difensiva tra due rocce",
+    "Posizione di controllo sul passaggio nel territorio beniaminita centrale"
+  ],
+  "importancia_estrategica": "Michmas è il teatro della battaglia decisiva che segna l'inizio della liberazione di Israele dal dominio filisteo sotto Saul, portata avanti principalmente dall'audace iniziativa di suo figlio Jonathan; La gola tra Micmas e Geba funge da punto di svolta geografico e militare nel conflitto territoriale tra Israele e Filistea durante il regno di Saul.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_michmash",
+      "nombre": "Guarnigione ed esercito filistei",
+      "descripcion": "Le forze filistee si accamparono a Michmas con una guarnigione avanzata al passo, comprendente carri e cavalieri in numero descritto come \"come la sabbia che è sulla riva del mare\".",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1040 a.C"
+    },
+    {
+      "id": "benjaminitas_michmash",
+      "nombre": "Tribù di Beniamino",
+      "descripcion": "Popolazione beniaminita della regione di Michmas, poi ripopolata dopo il ritorno dall'esilio secondo il censimento di Neemia.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "saul-acampa-geba-michmash",
+      "titulo": "L'esercito filisteo si raduna a Micmas",
+      "fecha": "c. 1040 a.C.",
+      "descripcion": "Dopo l'attacco iniziale di Jonathan a una guarnigione filistea, l'Filistei raduna un enorme esercito di carri, cavalieri e fanteria e si accampa a Michmas, costringendo la maggior parte degli uomini di Saul a disperdersi per la paura, nascondendosi in caverne e rocce.",
+      "referencias": [
+        "1 Sam 13:5-7"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "jonatan-cruza-desfiladero-michmash",
+      "titulo": "Jonathan e il suo scudiero attraversano la gola",
+      "fecha": "c. 1040 a.C.",
+      "descripcion": "Senza dirlo a suo padre, Gionata e il suo scudiero decidono di attraversare la gola tra Boseh e Sene verso la guarnigione filistea di Michmas, confidando che 'niente impedisce a YHWH di salvare con molti o con pochi'; Dopo un segnale che interpretano come favorevole, salgono e sconfiggono una ventina di uomini Filistei in un piccolo spazio.",
+      "referencias": [
+        "1 Sam 14:1-14"
+      ],
+      "personajes_clave": [
+        "jonatan"
+      ]
+    },
+    {
+      "id": "panico-filisteo-michmash",
+      "titulo": "Il panico si diffonde nell'accampamento filisteo",
+      "fecha": "c. 1040 a.C.",
+      "descripcion": "Dopo la vittoria iniziale di Gionata, un terremoto e un panico soprannaturale si diffusero in tutto l'accampamento filisteo di Michmas; Saul, notando la confusione, lancia un attacco generale che si trasforma in una disfatta dei Filistei, con gli stessi Israeliti nascosti che si uniscono all'inseguimento una volta confermata la vittoria.",
+      "referencias": [
+        "1 Sam 14:15-23"
+      ],
+      "personajes_clave": [
+        "saul",
+        "jonatan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonatan_michmash",
+      "nombre": "Jonathan",
+      "rol": "Figlio di Saul, eroe della vittoria di Micmás",
+      "periodo": "hierro_1",
+      "descripcion": "Inizia di propria iniziativa, insieme al suo scudiero, l'attacco che innesca la sconfitta del generale filisteo a Michmas, dimostrando una fede coraggiosa che la liberazione di Israele non dipende dal numero dei combattenti ma dalla volontà di YHWH.",
+      "referencias": [
+        "1 Sam 14:1-23"
+      ],
+      "ruta": [
+        "geba",
+        "michmash"
+      ]
+    },
+    {
+      "id": "saul_michmash",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Si accampò con un esercito ridotto davanti alla guarnigione filistea di Michmas; Rilevato il panico scatenato dall'incursione di Gionata, lancia l'attacco generale che culmina con la vittoria degli israeliti.",
+      "referencias": [
+        "1 Sam 13:15-16",
+        "1 Sam 14:20-23"
+      ],
+      "ruta": [
+        "geba",
+        "michmash"
+      ]
+    },
+    {
+      "id": "escudero_jonatan",
+      "nombre": "Lo scudiero di Jonathan",
+      "rol": "Compagno fedele nell'incursione su Micmás",
+      "periodo": "c. 1040 a.C.",
+      "descripcion": "Accompagna Jonathan nella sua rischiosa decisione di attraversare la gola, rispondendo con totale fiducia: 'Fai tutto ciò che hai nel cuore... eccomi con te secondo la tua volontà.'",
+      "referencias": [
+        "1 Sam 14:6-13"
+      ],
+      "ruta": [
+        "michmash"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Michmas è teatro di una delle dichiarazioni di fede più citate dell'Antico Testamento, pronunciata da Gionata prima del suo attacco: 'niente impedisce a YHWH di salvare con molti o con pochi'. L'episodio funziona come un'anteprima tematica del successivo duello di Davide contro Golia, stabilendo il modello teologico ricorrente della vittoria israelita ottenuta attraverso la fede individuale e l'audace iniziativa, confermata da un segno provvidenziale (il terremoto e il panico filisteo) piuttosto che dalla superiorità militare numerica o convenzionale.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo filisteo: culto di Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "fe-jonatan-michmash",
+        "nombre": "La fede di Jonathan: salvezza con molti o con pochi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 14:6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la declaración de Jonatán como fórmula clásica de confianza en la providencia divina independientemente de las circunstancias numéricas",
+          "descripcion": "La tradizione ebraica cita la frase di Gionata come una delle più chiare espressioni bibliche del principio secondo cui la salvezza di Israele non dipende dalla grandezza delle risorse umane disponibili, ma esclusivamente dalla volontà di YHWH, principio poi applicato a molteplici situazioni di avversità nazionale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La frase di Jonathan diventa una formula teologica ricorrente sulla libertà sovrana di Dio di salvare indipendentemente dalle condizioni materiali apparenti.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 14:6 (recepción patrística sobre la confianza en la providencia divina ante la adversidad numérica)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que retoman la fe de Jonatán como modelo aplicable a la vida espiritual cristiana",
+          "descripcion": "La tradizione cristiana assume l'affermazione di Gionata come esempio di fede attiva che non attende condizioni favorevoli per agire, generalizzando il principio alla vita spirituale del singolo credente di fronte ad ostacoli apparentemente insormontabili.",
+          "similitudes": "Condivide con la lettura ebraica il valore centrale della fede nella divina provvidenza rispetto alle circostanze materiali.",
+          "diferencias": "La lettura cristiana tende ad applicare il principio in modo più individuale e spirituale rispetto alla lettura ebraica, focalizzata maggiormente sulla salvezza collettiva di Israele.",
+          "significado_teologico": "L'episodio viene integrato come esempio veterotestamentario di fede che agisce senza aspettarsi garanzie umane di successo.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo di Saul e Jonathan come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

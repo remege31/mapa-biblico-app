@@ -1,0 +1,154 @@
+{
+  "id": "antioch",
+  "nombre": "Antioch from Syria",
+  "tipo": "ciudad",
+  "lat": 36.2021,
+  "lng": 36.1607,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Third city of the Roman Empire, capital of the province of Syria, on the Orontes River.",
+  "altitud_m": 70,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "craft",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Key administrative and commercial center between East and West.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ant_h1",
+        "titulo": "First multicultural Christian community",
+        "fecha": "ca. 40 AD",
+        "descripcion": "In Antioch the followers of Jesus are called 'Christians' for the first time.",
+        "referencias": [
+          "Acts 11:26"
+        ],
+        "personajes_clave": [
+          "Bernabé",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ant_h2",
+        "titulo": "Basis of Paul's missionary journeys",
+        "fecha": "ca. 46-57 AD",
+        "descripcion": "Paul leaves and returns to Antioch on his three missionary journeys.",
+        "referencias": [
+          "Acts 13:1-3",
+          "Acts 14:26"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ant_h3",
+        "titulo": "Antioch conflict",
+        "fecha": "ca. 49 AD",
+        "descripcion": "Paul confronts Peter about his behavior toward Gentiles.",
+        "referencias": [
+          "Gal 2:11-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ant_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle to the Gentiles",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He used Antioch as the basis of his missions to the Mediterranean world.",
+        "referencias": [
+          "Acts 13:1"
+        ],
+        "ruta": [
+          "antioch",
+          "ephesus",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "ant_p2",
+        "nombre": "Barnabas",
+        "rol": "Missionary leader",
+        "periodo": "s. I AD",
+        "descripcion": "Accompanied Paul on the first mission trip since Antioch.",
+        "referencias": [
+          "Acts 11:25-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ant_p3",
+        "nombre": "Simon Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Visited Antioch; was rebuked by Paul for treating Jews and Gentiles differently.",
+        "referencias": [
+          "Gal 2:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Hellenistic cosmopolis where the gospel crossed ethnic boundaries; birthplace of the name 'Christian'.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "greco_roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "ant_m1",
+          "nombre": "The Christian name",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "In Antioch the term 'Christian' was born to designate the followers of Christ.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In Antioch the term 'Christian' was born to designate the followers of Christ.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

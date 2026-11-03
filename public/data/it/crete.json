@@ -1,0 +1,85 @@
+{
+  "id": "crete",
+  "nombre": "Creta",
+  "tipo": "territorio",
+  "lat": 35.2401,
+  "lng": 24.8093,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "L'isola più grande dell'Egeo, montuosa e allungata, sulla rotta marittima tra il Levante e l'Italia.",
+  "altitud_m": 0,
+  "clima": "mediterraneo",
+  "recursos": [
+    "navigazione",
+    "venni",
+    "olio"
+  ],
+  "importancia_estrategica": "tappa della rotta del grano Alessandria-Roma; ricovero invernale per le navi.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cre_h1",
+        "titulo": "Sosta in direzione Roma",
+        "fecha": "ca. 59 d.C.",
+        "descripcion": "La nave che fa prigioniero Paolo costeggia Creta e si ancora a Good Harbors; Paolo avverte del pericolo, ma salpano e vengono colti dalla tempesta.",
+        "referencias": [
+          "At 27:7-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio el centurión",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "cre_h2",
+        "titulo": "Tito organizza le chiese",
+        "fecha": "ca. 63 d.C.",
+        "descripcion": "Paolo lascia Tito a Creta per “mettere ordine in ciò che mancava” e nominare gli anziani in ogni città.",
+        "referencias": [
+          "Tt 1:5-12"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cre_p1",
+        "nombre": "Tito",
+        "rol": "Collaboratore di Paolo, leader a Creta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discepolo greco di Paolo, incaricato di organizzare le chiese cretesi.",
+        "referencias": [
+          "Tt 1:4-5",
+          "Gal 2:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

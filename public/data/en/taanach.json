@@ -1,0 +1,143 @@
+{
+  "id": "taanach",
+  "nombre": "Taanac",
+  "tipo": "ciudad",
+  "lat": 32.51723975501718,
+  "lng": 35.21632508826309,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Canaanite city, Battle of Deborah, Levitical city"
+    }
+  ],
+  "descripcion_geo": "Important Canaanite city on the plain of Jezreel, close to Megiddo, with which it frequently appears paired in the biblical text as a joint geographical reference for the region. Later designated a Levitical city within the territory of Manasseh, although geographically located in Issachar.",
+  "altitud_m": 130,
+  "clima": "Mediterranean — hot, dry summers, mild winters with rain, typical of the fertile plain of Jezreel.",
+  "recursos": [
+    "Fertile lands of the Jezreel plain",
+    "Strategic position next to Megiddo on the valley's trade routes",
+    "Levitical city for Manasseh"
+  ],
+  "importancia_estrategica": "Taanac, next to Megiddo, marks the region of the decisive battle between Deborah-Barak and Sisera, mentioned explicitly in the Song of Deborah as the place 'by the waters of Megiddo' where the Canaanites kings fought and were defeated; Like Megiddo, Israel fails to completely expel its original Canaanite population during the period of the Judges, subjecting them instead to forced labor.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_taanach",
+      "nombre": "Canaanites of Taanac",
+      "descripcion": "Original population of the city, which Manasseh fails to completely expel according to the record of Judges, remaining under subjection to forced labor instead of total extermination.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC and persistent after"
+    },
+    {
+      "id": "levitas_taanach",
+      "nombre": "Coat's line frocks",
+      "descripcion": "Levitical families assigned to Taanach as part of the system of priestly cities distributed in the territory of Manasseh.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "manases-no-expulsa-taanach",
+      "titulo": "Manasseh fails to expel the Canaanites from Taanac",
+      "fecha": "c. 1150 BC",
+      "descripcion": "The book of Judges records that Manasseh failed to expel the inhabitants of Taanach and its villages, keeping them in the territory under his dominion subject to forced labor instead of the prescribed outright conquest.",
+      "referencias": [
+        "Judg 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "taanach-ciudad-levitica-manases",
+      "titulo": "Taanac designated Levitical city",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "Despite its persistent Canaanite population, Taanac is formally designated as one of the Levitical cities within the territory of Manasseh, integrating it into the distributed priestly system of Israel.",
+      "referencias": [
+        "Josh 21:25"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "cantico-debora-taanach-meguido",
+      "titulo": "Taanac in the Song of Deborah",
+      "fecha": "c. 1150 BC",
+      "descripcion": "The extensive Canticle of Deborah explicitly mentions that 'the kings came and fought; then the kings of Canaan fought in Taanac, next to the waters of Megiddo', geographically placing the decisive battle against Sisera in this region of the plain.",
+      "referencias": [
+        "Judg 5:19"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_taanach",
+      "nombre": "Deborah",
+      "rol": "Judge and prophetess, author of the commemorative song",
+      "periodo": "hierro_1",
+      "descripcion": "It commemorates the battle fought near Taanac in its extensive victory song, poetically fixing the exact geography of the decisive confrontation against the Canaanites kings.",
+      "referencias": [
+        "Judg 5:1-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cananeos_taanach_personaje",
+      "nombre": "Canaanites inhabitants of Taanac",
+      "rol": "Local population not expelled",
+      "periodo": "c. 1200–1000 BC",
+      "descripcion": "They remain in the city despite tribal assignment to Manasseh, subjected to forced labor rather than complete expulsion, exemplifying the pattern of incomplete conquest from the book of Judges.",
+      "referencias": [
+        "Judg 1:27-28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_taanach",
+      "nombre": "Joshua",
+      "rol": "Territorial distribution organizer",
+      "periodo": "bronce_tardio",
+      "descripcion": "Directs the designation of Taanach as a Levitical city within the territory of Manasseh in the land-wide distribution system of priestly cities of Israel.",
+      "referencias": [
+        "Josh 21:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Taanac shares with Megiddo the same theological pattern: both are powerful Canaanite cities that Israel fails to fully conquer during the period of the Judges despite formal tribal assignment, serving as a constant reminder of the conquest generation's partial failure to fully fulfill the mandate of full possession of the land, until they are finally subdued by the providential victory commemorated in the Song of Deborah.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (persistent population)"
+    ],
+    "mitos": [
+      {
+        "id": "conquista-incompleta-taanach-meguido",
+        "nombre": "The incomplete conquest of Taanac and Megiddo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 1:27-28; Jue 5:19",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el patrón de conquista incompleta del libro de los Jueces y su relación con la posterior victoria providencial conmemorada en el Cántico de Débora",
+          "descripcion": "Jewish tradition connects the mention of the incomplete conquest of Taanac in Judges 1 with its later appearance as a scene of victory in the Song of Deborah, noting that the power Canaanite that Israel could not initially subdue by force is ultimately defeated generations later through the direct intervention of YHWH, illustrating that the fulfillment of territorial promises operates in divine timing, not necessarily at the initial moment expected by the generation of conquest.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The contrast between the initial failed conquest and the subsequent providential victory in the same place demonstrates that the fulfillment of divine promises may be delayed but is not definitively frustrated.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

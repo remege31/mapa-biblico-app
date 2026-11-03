@@ -1,0 +1,189 @@
+{
+  "id": "madian",
+  "nombre": "Midian",
+  "tipo": "ciudad",
+  "lat": 27.93,
+  "lng": 35.69,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 38,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Al-Bad' (antigua Madyan), noroeste de Arabia Saudita — sitio más ampliamente aceptado por la arqueología bíblica para la región de Madián. Algunos estudiosos sitúan Madián en el Sinaí o el sur de Transjordania.",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Exile and vocation of Moses"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Midianite oppression and Gideon's victory"
+    }
+  ],
+  "descripcion_geo": "Region and town in northwestern Arabia, east of the Gulf of Aqaba (present-day Saudi Arabia). The Midianite territory extended between southern Transjordan, northern Arabia and the Sinai Peninsula, in areas of desert and arid steppe. Semi-nomadic people of shepherds and caravan merchants, descendant of Midian, son of Abraham and Keturah (Gen 25:2). Its capital or main city is identified with ancient Madyan, today Al-Bad'. In the time of Moses, the Midianites inhabited the region of Mount Horeb/Sinai, the scene of Moses's call from the burning bush.",
+  "altitud_m": 750,
+  "clima": "Arid to semi-arid desert — very hot summers, cool winters, with slightly more rainfall than the central Sinai (100-200 mm annually). Mountainous terrain with valleys where grazing is possible.",
+  "recursos": [
+    "Extensive grazing of sheep and goats in the steppes and hills of northwestern Arabia",
+    "Control of caravan routes that linked Arabia, the Sinai and the Levantine corridor",
+    "Copper exploitation in the Arabá region (with contacts with the Kenites)",
+    "Trade in spices, incense and precious metals from South Arabia"
+  ],
+  "importancia_estrategica": "Midian is the setting for Moses's most defining formative period: forty years of exile, marriage, shepherding, and direct encounter with God. It is here that the fugitive Egyptian prince is transformed into a prophet and liberator. Mount Horeb—identified with Sinai—that guards this region will be the same place where he will later receive the Law. Israel's relationship with Midian is ambivalent: in the Exodus it is a refuge and place of revelation; In the period of the Judges, the Midianites become oppressors of Israel until Gideon's victory (Judges 6-8).",
+  "otros_habitantes": [
+    {
+      "id": "madianitas_tribu",
+      "nombre": "Midianites",
+      "descripcion": "Semi-nomadic people related to Israel through Abraham (Gen 25:2). In the times of Moses they lived with the family of Jethro, priest of Midian. Centuries later, during the period of the Judges, they allied themselves with the Amalekites and Ishmaelites to oppress Israel for seven years, until Gideon defeated them with three hundred warriors (Judges 6-8).",
+      "religion": "Semitic polytheism, with possibly monotheistic elements in some clans (Jethro recognizes YHWH in Ex 18:11). The Kenites, related to the Midianites, had a close relationship with early Yahwism.",
+      "periodo": "c. 1500-900 BC"
+    },
+    {
+      "id": "quenitas_madian",
+      "nombre": "Quenites",
+      "descripcion": "Clan related to the Midianites, linked to Jethro's family. Jethro is called both a 'Midianite' and a 'Kenite' in different texts. The Kenites followed Israel to Canaan (Judg 1:16) and some settled in the south of Judah. They were metal craftsmen in the Arabah region and had a special relationship with the cult of YHWH, according to some scholars.",
+      "religion": "Primitive Yahwist tradition, according to the Kenite hypothesis that places the origin of Yahwism in the cult of the 'Mountain God' of the Sinai/Horeb",
+      "periodo": "c. 1500-900 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-huye-madian",
+      "titulo": "Moses flees to Midian and starts a family",
+      "fecha": "c. 1446 BC (cronología tradicional)",
+      "descripcion": "After killing an Egyptian guard who was beating an Israelite, Moses flees from Egypt and arrives in Midian. There he defends the seven daughters of the priest Jethro (Reuel) from abusive shepherds at a well. In gratitude, Jethro gives him his daughter Zipporah as his wife, with whom Moses will have two sons: Gershon and Eliezer. For forty years Moses works as a shepherd of his father-in-law's flock, learning to survive in the desert that he will soon have to cross with an entire people.",
+      "referencias": [
+        "Exod 2:15-22",
+        "Exod 18:3-4",
+        "Acts 7:29-30"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "zarza-ardiente-madian",
+      "titulo": "The burning bush — Moses's call from Midian",
+      "fecha": "c. 1446 BC (cronología tradicional)",
+      "descripcion": "While shepherding Jethro's flock past the wilderness and reaching Mount Horeb, Moses sees a bush burning without being consumed. God speaks to him from the bush, identifies himself as the God of Abraham, Isaac and Jacob, and entrusts him to free Israel from Egypt. Faced with Moses's resistance, God grants him signs (the rod that turns into a snake, the leprous hand) and assigns his brother Aaron as spokesman. The encounter establishes the divine name YHWH ('I am that I am') and establishes Midian and Horeb as the place of the founding revelation of the Israelite faith.",
+      "referencias": [
+        "Exod 3:1-4:17",
+        "Acts 7:30-34"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "jetro-consejo-madian",
+      "titulo": "Jethro visits Moses and establishes the system of judges",
+      "fecha": "c. 1446 BC (cronología tradicional)",
+      "descripcion": "After the Exodus and crossing the Sea of ​​Reeds, Moses's father-in-law Jethro takes Zipporah and Moses's two sons to the desert. Upon hearing the story of YHWH's wonders, Jethro declares that YHWH is greater than all the gods (Ex 18:11). Faced with Moses's exhaustion from judging the people alone all day, Jethro proposes creating a system of delegate leaders to deal with minor cases. Moses accepts the advice. This episode is notable: Israel's judicial system receives its inspiration from a Midianite, non-Israelite, sage who recognizes YHWH as the supreme God.",
+      "referencias": [
+        "Exod 18:1-27"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_madian",
+      "nombre": "Moses",
+      "rol": "Prophet and liberator by Israel",
+      "periodo": "bronce_tardio",
+      "descripcion": "He spends forty years in Midian: he arrives as an Egyptian fugitive, establishes himself as a shepherd and son-in-law of the priest Jethro, and receives the call here that will transform him into the most important prophet of the Old Testament. The burning bush on Mount Horeb—during his grazing in Midianite territory—is the turning point of the entire story of Israel.",
+      "referencias": [
+        "Exod 2:15-3:1",
+        "Exod 3:1-4:17",
+        "Exod 18:1-27"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai"
+      ]
+    },
+    {
+      "id": "jetro_madian",
+      "nombre": "Jethro (Reuel)",
+      "rol": "Priest of Midian, father-in-law of Moses",
+      "periodo": "bronce_tardio",
+      "descripcion": "Priest and leader of a Midianite tribe. He receives the fugitive Moses, gives him his daughter Zipporah as his wife, and entrusts her with shepherding his flocks. He visits Moses in the desert after the Exodus, recognizes the greatness of YHWH and proposes the system of judicial delegation that Moses adopts. He is the only non-Israelite character to expressly recognize YHWH as supreme God in the Exodus story.",
+      "referencias": [
+        "Exod 2:16-21",
+        "Exod 18:1-27"
+      ],
+      "ruta": [
+        "madian",
+        "sinai"
+      ]
+    },
+    {
+      "id": "sefora_madian",
+      "nombre": "Zipporah",
+      "rol": "Wife of Moses, daughter of Jethro",
+      "periodo": "bronce_tardio",
+      "descripcion": "Eldest daughter of the priest Jethro, she meets Moses at the well where he defends his seven sisters from shepherds. She becomes his wife and mother of Gershom and Eliezer. In the most enigmatic episode of the Pentateuch (Ex 4:24-26) he acts decisively by circumcising his son and saving the life of Moses. She is returned to her father during the Exodus and reunited with Moses in the desert (Ex 18:2-5).",
+      "referencias": [
+        "Exod 2:21-22",
+        "Exod 4:24-26",
+        "Exod 18:2-5"
+      ],
+      "ruta": [
+        "madian",
+        "sinai"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Midian occupies a unique place in the religious geography of the Old Testament: it is the foreign land where God first reveals himself with his definitive name (YHWH), where he chooses his prophet, and where the organizational system of Israel receives its first form thanks to the advice of a non-Israelite. This paradox—the central revelation of Israel's faith occurs on Midianite territory, through ties to a Midian priest—has generated centuries of theological reflection. The \"Kenite hypothesis\" suggests that early Yahwism may have originated or had deep connections with the religious traditions of the Kenites and Midianites of northwestern Arabia, in the region of Mount Sinai/Horeb.",
+    "religiones_presentes": [
+      "Early Yahwism (revelation of the name YHWH from Horeb, in Midianite territory)",
+      "Arab Semitic polytheism (general Midianite tradition)",
+      "Kenite tradition (probable proto-Yahvism linked to the 'Mountain God' of the Sinai)"
+    ],
+    "mitos": [
+      {
+        "id": "zarza-ardiente-mito",
+        "nombre": "The burning bush and the divine name YHWH",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 3:1-15",
+          "fuente_secundaria": "Midrash Shemot Rabbah 2 (sobre el significado de la zarza que arde sin consumirse como símbolo de Israel entre las naciones)",
+          "descripcion": "The episode of the burning bush is considered the most important theophanic revelation of the OT along with the Sinai. The bush that burns without being consumed is read in the Midrash as a symbol of the people of Israel: persecuted and on fire but never destroyed. The revelation of the divine name 'Ehyeh asher ehyeh' (I am that I am / I will be that I will be) is the philosophical and theological foundation of Hebrew monotheism: a God without image, without name pronounceable in its fullness, radically transcendent and at the same time committed to the history of his people.",
+          "similitudes": "All three traditions recognize Moses's encounter with God on the sacred mountain as the founding moment.",
+          "diferencias": "Judaism emphasizes the revelation of the divine Name and the election of the people of Israel as central elements; Islam emphasizes the prophetic dimension of Musa as Allah's messenger.",
+          "significado_teologico": "The Burning Bush sets the pattern for biblical theology: God revealing himself in the small (a desert bush), choosing the weak (a stammering fugitive), and acting in history to free the oppressed.",
+          "posible_relacion_cultural": "The motif of the mountain god speaking from fire appears in Semitic religious traditions of northwest Arabia, suggesting connections with Midianite/Kenite religious traditions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 3:1-15 (recepción en Hch 7:30-34; Jn 8:58; Heb 11:27)",
+          "fuente_secundaria": "Gregorio de Nisa, La vida de Moisés II (la zarza como símbolo de la Encarnación: la divinidad que habita sin destruir la humanidad)",
+          "descripcion": "The New Testament and the Church Fathers read the burning bush as a prefiguration of Christ: as the bush contains the divine fire without being consumed, the humanity of Christ contains the divinity without being destroyed. Stephen's speech in Acts 7 places the meeting on 'mount Sinai' and applies to Moses the title 'redeemer' (lytrōtēs) as a type of Christ. Saint John identifies the 'I am' of the bush with the statements of Jesus in the fourth Gospel.",
+          "similitudes": "It shares with Judaism the recognition of the bush as a revelation of the divine name and nature.",
+          "diferencias": "Christian theology reads the 'I am' of the bush as an advance revelation of the nature of the eternal Logos, identified with Jesus in the Gospel of John.",
+          "significado_teologico": "The burning bush becomes the quintessential Old Testament type of the Incarnation: God dwelling in matter without destroying it, the central theme of patristic Christology.",
+          "posible_relacion_cultural": "The typological reading of the bush is a paradigmatic example of the Christian hermeneutical method of reading the OT as a prefiguration of the NT."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 20:9-36; 27:7-9; 28:29-35; 79:15-19",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Corán 20:9-14 (sobre el encuentro de Musa con Allah en el valle sagrado de Tuwa)",
+          "descripcion": "The Quran narrates four times the meeting of Musa (Moses) with Allah on the sacred mountain, identified as the \"sacred valley of Tuwa.\" Allah speaks from the fire (or next to it) and orders Musa to take off his sandals because he is on holy ground. He reveals his identity as the only true God and entrusts him to go to Pharaoh. The episode is narrated with emphasis on the absolute transcendence of Allah and the prophetic dimension of Musa as rasul (messenger).",
+          "similitudes": "The sacred mountain, the fire, the mission to Pharaoh and divine revelation are elements common to the biblical and Koranic tradition.",
+          "diferencias": "The Quran does not mention the name YHWH or the concept of 'I am that I am'; the emphasis is on the prophetic mission and tawhid (oneness of God) rather than the revelation of the Name.",
+          "significado_teologico": "Musa's meeting with Allah on the holy mountain establishes his status as kalim Allah ('he who speaks with Allah'), the only prophet who received the revelation directly, without angelic intermediary, elevating him to a special rank in the Islamic prophetic hierarchy.",
+          "posible_relacion_cultural": "The Islamic identification of the sacred mountain with the 'Tuwa Valley' may reflect pre-Islamic Arab oral traditions about sacred places in northwestern Arabia (Midian/Hijaz region)."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "nebo",
+  "nombre": "Nebo",
+  "tipo": "ciudad",
+  "lat": 31.748024,
+  "lng": 35.743257,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Moabite city conquered, assigned to Reuben"
+    }
+  ],
+  "descripcion_geo": "City and associated mountain in the region of Moab, east of the Jordan, which gives its name to the Moabite deity Nebo (Nabu in the Mesopotamian tradition) and to the summit adjacent to Pisgah from where Moses contemplates the promised land. It is part of the Moabite plateau conquered by Israel before the crossing of the Jordan.",
+  "altitud_m": 700,
+  "clima": "Semi-arid highland — dry and hot summers, cold winters, typical of the Moab plateau.",
+  "recursos": [
+    "Agricultural and grazing lands of the Moabite plateau",
+    "Elevated position in the Abarim mountain range"
+  ],
+  "importancia_estrategica": "Nebo is one of the cities of the Amorite-Moabite territory conquered by Israel under Moses before the crossing of the Jordan and assigned to the tribe of Reuben; Its subsequent recovery by Moab is recorded in the prophetic oracles of judgment against that kingdom, reflecting the contested and changing character of this border strip over the centuries.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_nebo",
+      "nombre": "Amorites (kingdom of Sihon)",
+      "descripcion": "Original population of Nebo under the rule of Sihon, Amorite king defeated by Israel before the assignment of the territory to the tribe of Reuben.",
+      "religion": "Amorite polytheism",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "moabitas_nebo",
+      "nombre": "Moabites",
+      "descripcion": "Population that Nebo recovers in later periods, the reason for the prophetic oracles of judgment against Moab that mention the city explicitly.",
+      "religion": "Moabite polytheism—worship of Chemosh and Nebo/Nabu",
+      "periodo": "Since c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-nebo-ruben",
+      "titulo": "Nebo assigned to the tribe of Reuben",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the defeat of Sihon, Amorite king, Israel occupies its territory including Nebo, a city that is rebuilt and assigned to the tribe of Reuben within the division of Transjordan.",
+      "referencias": [
+        "Num 32:3",
+        "Num 32:37-38"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "isaias-oraculo-moab-nebo",
+      "titulo": "Isaiah prophesies crying over Nebo",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah includes Nebo in his extensive oracle of judgment against Moab, describing the lamentation and destruction that will come upon the city as part of divine punishment against the Moabite kingdom.",
+      "referencias": [
+        "Isa 15:2"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-oraculo-moab-nebo",
+      "titulo": "Jeremiah prophesies the destruction of Nebo",
+      "fecha": "c. 600 BC",
+      "descripcion": "Jeremiah repeats and expands on the oracle of judgment against Moab, explicitly mentioning Nebo among the cities that will be devastated and confused, in an extensive passage documenting the entire geography of the Moabite kingdom at the time of its final decline.",
+      "referencias": [
+        "Jer 48:1-2",
+        "Jer 48:22"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_nebo_ciudad",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, organizer of the Transjordan distribution",
+      "periodo": "bronce_tardio",
+      "descripcion": "He oversees the allocation of Nebo and surrounding territory to the tribe of Reuben following the defeat of Sihon, completing the first phase of Israel's territorial possession east of the Jordan.",
+      "referencias": [
+        "Num 32:1-38"
+      ],
+      "ruta": [
+        "shittim",
+        "nebo"
+      ]
+    },
+    {
+      "id": "isaias_nebo",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He includes Nebo in his oracle of judgment against Moab, anticipating centuries before the prophet Jeremiah the same prophetic denunciation of the fate of the Moabite cities.",
+      "referencias": [
+        "Isa 15:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_nebo",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He revisits and expands the oracle of Isaiah against Moab in an extensive chapter that documents in geographical detail the coming destruction of the Moabite cities, including Nebo.",
+      "referencias": [
+        "Jer 48:1-46"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Nebo preserves in its own name the trace of the Mesopotamian deity Nabu, divinity of writing and wisdom adopted in the regional pantheon, which places it at the intersection of Amorites, Moabite and Mesopotamian cults. Its repeated mention in the prophetic oracles of judgment against Moab—both in Isaiah and Jeremiah, in practically parallel texts—reinforces the biblical idea that no territory, not even that disputed between Israel and its neighbors, escapes YHWH's universal judgment on the idolatry and pride of the nations.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Amorite polytheism (original substrate)",
+      "Moabite polytheism—worship of Chemosh and Nebo/Nabu"
+    ],
+    "mitos": [
+      {
+        "id": "oraculos-paralelos-moab-nebo",
+        "nombre": "The parallel oracles of Isaiah and Jeremiah against Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 15:1-9; Jer 48:1-46",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la relación literaria entre los dos oráculos casi idénticos de Isaías y Jeremías contra Moab",
+          "descripcion": "Jewish tradition observes the notable textual similarity between the oracles of Isaiah and Jeremiah against Moab, interpreting the almost literal repetition of the prophetic material through generations as confirmation of the persistence of divine judgment on Moab for its arrogance and repeated idolatry, including the cult associated with the very name of the city of Nebo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The repetition of the oracle through different generations of prophets reinforces the inevitable certainty of the judgment announced against the neighboring idolatrous peoples of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Mountain"
+}

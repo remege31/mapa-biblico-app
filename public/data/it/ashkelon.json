@@ -1,0 +1,161 @@
+{
+  "id": "ashkelon",
+  "nombre": "Ascalon",
+  "tipo": "ciudad",
+  "lat": 31.66240510553615,
+  "lng": 34.54722773494757,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Una delle cinque città filistee, l'enigma di Sansone"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Obiettivo degli oracoli profetici del giudizio"
+    }
+  ],
+  "descripcion_geo": "Importante città portuale filistea sulla pianura costiera meridionale, una delle cinque principali città-stato della Pentapoli filistea (insieme a Gaza, Asdod, Gat e Accaron), con un porto naturale che ne fece un importante centro commerciale e militare.",
+  "altitud_m": 20,
+  "clima": "Mediterraneo costiero: estati calde e umide, inverni miti con pioggia, brezze marine costanti.",
+  "recursos": [
+    "Porto marittimo naturale",
+    "Il commercio internazionale del Mediterraneo",
+    "Posizione centrale nella confederazione filistea delle cinque città"
+  ],
+  "importancia_estrategica": "Ascalon è una delle cinque principali città della confederazione filistea, potenza militare e commerciale che dominò la pianura costiera meridionale per tutto il periodo dei Giudici e gran parte della monarchia; La sua menzione ricorrente negli oracoli profetici di giudizio contro Filistea conferma il suo status di simbolo centrale del potere filisteo sistematicamente opposto a Israele.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_ascalon",
+      "nombre": "Filistei",
+      "descripcion": "Popolazione dominante di Ascalon, una delle cinque principali città della Pentapoli filistea, governata dai propri principi (\"serenim\") per tutto il periodo dei Giudici e della prima monarchia.",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1200–586 a.C"
+    },
+    {
+      "id": "danitas_personal_ascalon",
+      "nombre": "Presenza occasionale di Danite",
+      "descripcion": "Sansone uccide trenta uomini di Ascalon per saldare il debito dell'enigma delle sue nozze a Timna, episodio che documenta la portata delle sue azioni individuali contro le diverse città filistee.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1100 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-treinta-hombres-ascalon",
+      "titulo": "Sansone uccide trenta uomini con Ascalon",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Dopo aver perso la scommessa dell'enigma del leone e del miele alle sue nozze a Timna, Sansone scende a Ascalon, uccide trenta uomini, ne prende il bottino e dona i loro vestiti a coloro che avevano risolto l'enigma, episodio violento che illustra la portata territoriale del suo conflitto personale con Filistei.",
+      "referencias": [
+        "Gdc 14:19"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "amos-oraculo-ascalon",
+      "titulo": "Amos profetizza il fuoco su Ascalon",
+      "fecha": "c. 760–750 a.C.",
+      "descripcion": "Il profeta Amos inserisce Ascalon nella sua serie di oracoli contro le nazioni vicine, annunciando che manderà fuoco che consumerà i loro palazzi come punizione per le pratiche di deportazione degli schiavi di intere popolazioni praticate da Filistei.",
+      "referencias": [
+        "Am 1:6-8"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    },
+    {
+      "id": "sofonias-jeremias-ascalon-destruccion",
+      "titulo": "Sofonia e Geremia annunciano la distruzione finale di Ascalon",
+      "fecha": "c. 630–600 a.C.",
+      "descripcion": "Sia Sofonia che Geremia profetizzano la distruzione finale di Ascalon, con Sofonia che annuncia che sarà devastata e Geremia che descrive il clamore e il lutto tra i suoi abitanti di fronte all'imminente devastazione, oracoli che si sarebbero adempiuti storicamente con la conquista babilonese della città nel 604 a.C.",
+      "referencias": [
+        "Sof 2:4-7",
+        "Ger 47:5-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson_ascalon",
+      "nombre": "Sansone",
+      "rol": "Israele Giudice, nazireo dalla forza sovrumana",
+      "periodo": "hierro_1",
+      "descripcion": "Estende il suo conflitto personale con Filistei a Ascalon, uccidendo trenta uomini per onorare il suo debito derivante dall'enigma del matrimonio di Timnah.",
+      "referencias": [
+        "Gdc 14:19"
+      ],
+      "ruta": [
+        "timnah",
+        "ashkelon"
+      ]
+    },
+    {
+      "id": "amos_ascalon",
+      "nombre": "Amos",
+      "rol": "Profeta Giuda inviato alle nazioni vicine",
+      "periodo": "hierro_2",
+      "descripcion": "Denuncia Ascalon e le altre città filistee per le loro pratiche di tratta degli schiavi, annunciando il giudizio divino mediante il fuoco sui loro palazzi.",
+      "referencias": [
+        "Am 1:6-8"
+      ],
+      "ruta": [
+        "tekoa"
+      ]
+    },
+    {
+      "id": "jeremias_ascalon",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Profetizza la distruzione di Ascalon nel contesto dell'invasione babilonese, oracolo che storicamente si realizza con la conquista della città da parte di Nabucodonosor nel 604 a.C.",
+      "referencias": [
+        "Ger 47:1-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ascalon, come centro del potere filisteo e del culto di Dagon, funziona nel corpus profetico come simbolo ricorrente di opposizione sistematica a Israele nel corso di diversi secoli, dai conflitti individuali di Sansone agli oracoli di giudizio di Amos, Sofonia e Geremia; la sua storica distruzione documentata da Nabucodonosor nel 604 a.C. conferma l'adempimento letterale delle profezie di devastazione pronunciate contro di lei.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva degli oracoli profetici)",
+      "Politeismo filisteo: culto di Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "cumplimiento-profecia-ascalon",
+        "nombre": "L'adempimento storico della profezia contro Ascalon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Sof 2:4-7; Jer 47:1-7",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la confirmación histórica de los oráculos proféticos mediante la destrucción babilónica documentada de Ascalón en 604 a.C.",
+          "descripcion": "La tradizione ebraica valorizza in particolare il fatto che la distruzione di Ascalon profetizzata da Sofonia e Geremia si è compiuta storicamente in modo verificabile con la campagna di Nabucodonosor, confermando attraverso prove extrabibliche (cronache babilonesi) l'accuratezza e la veridicità delle profezie di giudizio contro le nazioni vicine di Israele.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L’adempimento storico verificabile della profezia contro Ascalon rafforza la fiducia nell’affidabilità generale del corpus profetico biblico riguardo al destino delle nazioni.",
+          "posible_relacion_cultural": "Convergenza documentata tra l'oracolo profetico biblico e le cronache extrabibliche babilonesi sulla campagna di Nabucodonosor contro Filistea."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

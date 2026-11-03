@@ -1,0 +1,146 @@
+{
+  "id": "puteoli",
+  "nombre": "Puteoli",
+  "tipo": "ciudad",
+  "lat": 40.8272,
+  "lng": 14.1241,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Principale porto di Roma sul Golfo di Napoli, terminale delle rotte marittime orientali.",
+  "altitud_m": 15,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "industria"
+  ],
+  "importancia_estrategica": "Il più grande porto d'importazione del Mediterraneo occidentale prima dell'ascesa di Ostia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "put_h1",
+        "titulo": "Sbarco di Paolo a Puteoli",
+        "fecha": "ca. 60-61 d.C.",
+        "descripcion": "La nave di Paolo attracca a Puteoli; Là trova una comunità cristiana e si riposa per sette giorni.",
+        "referencias": [
+          "At 28:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "put_h2",
+        "titulo": "Comunità paleocristiana",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "La presenza di fratelli a Puteoli evidenzia l'espansione del Vangelo in Italia prima di Paolo.",
+        "referencias": [
+          "At 28:14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "put_h3",
+        "titulo": "Ultima tappa verso Roma",
+        "fecha": "ca. 60-61 d.C.",
+        "descripcion": "Da Puteoli, Paolo segue la Via Appia verso Roma, dove viene accolto dai confratelli.",
+        "referencias": [
+          "At 28:15-16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "put_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Sbarcò a Puteoli nel suo ultimo viaggio verso Roma.",
+        "referencias": [
+          "At 28:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "put_p2",
+        "nombre": "Fratelli di Puteoli",
+        "rol": "Comunità cristiana",
+        "periodo": "s. I d.C.",
+        "descripcion": "Prima comunità cristiana documentata in Italia; Hanno ospitato Paolo per sette giorni.",
+        "referencias": [
+          "At 28:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "put_p3",
+        "nombre": "Giulio il centurione",
+        "rol": "Paolo Guardiano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha permesso a Paolo di riposare presso i fratelli a Puteoli.",
+        "referencias": [
+          "At 28:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Porto cosmopolita attraverso il quale arrivavano in Italia le merci e le religioni orientali; primo suolo italiano su cui ha messo piede Paolo.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "Ebraismo",
+        "imperial_cult",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "put_m1",
+          "nombre": "Il Vangelo raggiunge l'Italia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "La comunità di Puteoli dimostra che il Vangelo è arrivato in Italia prima di Paolo; I fratelli che erano usciti per accoglierlo sulla via Appia lo incoraggiarono.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La comunità di Puteoli dimostra che il Vangelo è arrivato in Italia prima di Paolo; I fratelli che erano usciti per accoglierlo sulla via Appia lo incoraggiarono.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "ziklag",
+  "nombre": "Ziklag",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.3776,
+  "lng": 34.8736,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 15,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city on the southern plain"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Hierro I — Philistine city ceded to David as a base of operations"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Kingdom City of Judah"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Ziklag (Hebrew: צִקְלַג) was a city in southern Judah, in the transition zone between the Shephelah and the northern Negev, about 25 km northeast of Beersheba. Its identification is debated between Tell esh-Shari'a (Tel Sera) and Tell el-Khuweilfeh, both in the northern Negev area. Originally assigned to the tribe of Judah (Josh 15:31) and then to Simeon (Josh 19:5), it was a Philistine city when David lived as a vassal of Achish of Gath. The city has the dubious honor of being the place where David received news of Saul's death — and where he executed the messenger he thought brought him good news.",
+  "altitud_m": 90,
+  "clima": "Transitional semi-arid towards the Negev — rainfall of 200-300 mm annually, very hot and dry summers, cool winters. Extensive grazing area and limited dryland agriculture.",
+  "recursos": [
+    "Pastures for extensive livestock",
+    "Control of caravan routes towards the Negev and Sinai",
+    "Rainfed agriculture in favorable years",
+    "Strategic position between Philistia and the Israeli Negev",
+    "Base of operations for desert raids"
+  ],
+  "importancia_estrategica": "Ziklag was David's base of operations during his sixteen months as a vassal of Gath's Philistine King Achish. From there David simulated raids against Judah's Negev while actually attacking Israel's enemies (Amalekites, Gesurites, Gizrites). The city was given to David as a personal fief — 'it has belonged to the kings of Judah until this day' (1 Sam 27:6) — becoming the first properly Davidic territory before his reign.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-ziklag",
+      "nombre": "Philistines under Achish by Gath",
+      "descripcion": "Ziklag belonged to the territory of the Philistine city-state of Gath when David arrived as a political refugee. King Achish gave it to David as a fief, making the future king of Israel a vassal of a Philistine king for sixteen months. The political ambiguity of this period—David as a Philistine lord who actually protected Israel—is one of the most complex episodes in the Davidic narrative.",
+      "religion": "Philistine polytheism — Dagon and divinities by Gath",
+      "periodo": "Iron I, c. 1012-1010 BC"
+    },
+    {
+      "id": "amalecitas-ziklag",
+      "nombre": "Amalekites of the Negev",
+      "descripcion": "The Amalekites who burned Ziklag and took all of his wives and children captive (including David's two wives) operated from the Negev and the Sinai. Their attack during the absence of David and his men was a stroke of opportunism: they knew that the city was unguarded while the Philistines warriors marched with Achish. The speed of David's response—four-hundred-kilometer chase and recovery of all loot with no casualties among captives—is one of the most admired military episodes of his career.",
+      "religion": "Desert animism — worship of nomadic divinities without fixed sanctuaries",
+      "periodo": "Iron I, c. 1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-vasallo-aquis",
+      "titulo": "David in Ziklag: the king in exile as a Philistine vassal",
+      "fecha": "c. 1012–1010 BC",
+      "descripcion": "Fleeing from Saul, David with six hundred men and their families took refuge in Gath under the Philistine king Achish. Achish granted him Ziklag as a fief. From there David made raids against the Gesurites, Gizrites and Amalekites - enemies of the Negev - but told Achish that he was attacking the Negev of Judah. Achish trusted David: 'He has made himself hateful to his people Israel, and he will be my servant forever.' When the Philistines marched against Israel before the Battle of Guilboa, Aquis wanted David to go with him. Messrs. Philistines refused: 'What are these Hebrews doing here? It could turn against us.' Aquis sent off David with praise. David's diplomacy at Ziklag—maintaining the trust of a foreign king while actually serving Israelite interests—is an example of the political astuteness that would define his reign.",
+      "referencias": [
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11",
+        "1 Sam 27:6"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "aquis"
+      ]
+    },
+    {
+      "id": "ziklag-incendiada",
+      "titulo": "Ziklag set on fire: David at the limit of leadership",
+      "fecha": "c. 1010 BC",
+      "descripcion": "When David and his men returned from the Philistine rally, they found Ziklag burned to the ground and all their women and children taken captive by the Amalekites. The crying was so great that there was no strength for more. The people talked about stoning David — each one cried for their sons and daughters. The text then records: 'David was strengthened in Yahweh his God.' He consulted Abiathar the priest with the ephod. Yahweh responded: 'Pursue them, you will catch up with them and rescue everything.' Four hundred set out — two hundred were exhausted in the wadi of Besor. An Egyptian slave abandoned by the Amalekites led them. They found the Amalekite army celebrating the loot. They attacked from dawn until the afternoon of the next day. They recovered everything — women, children, livestock — without losing anyone. When the four hundred wanted not to share the loot with the two hundred who had remained, David established a statute: 'The same will apply to the one who went to battle as to the one who kept the baggage; equal parts.' This rule became permanent law in Israel.",
+      "referencias": [
+        "1 Sam 30:1-25",
+        "1 Sam 30:6",
+        "1 Sam 30:24-25"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "abiatar-keilah",
+        "esclavo-egipcio"
+      ]
+    },
+    {
+      "id": "muerte-saul-ziklag",
+      "titulo": "The news of Guilboa: the Amalekite who killed the messenger",
+      "fecha": "c. 1010 BC",
+      "descripcion": "On the third day after returning from rescuing the captives, a man arrived in Ziklag with torn clothes and dirt on his head — a sign of mourning. It was an Amalekite who came from the camp of Israel. He said that Saul and Jonathan had died. He related that he himself had finished off Saul at the request of the king himself, who could no longer stand. He brought Saul's royal headband and bracelet to give to David. He miscalculated: he thought that David would receive the news as a release from his pursuer. David tore his clothes, lamented and cried. Then he asked the messenger: 'How were you not afraid to stretch out your hand to kill the anointed one of Yahweh?' And he ordered his execution: 'Your blood on your head, for your own mouth testified against you by saying I killed the anointed of Yahweh.' Ziklag is thus the place where David demonstrated that his loyalty to Saul was genuine – not calculated – and where he uttered the most beautiful lament in the OT: 'How the mighty have fallen! Jonathan, in your heights you remain dead.'",
+      "referencias": [
+        "2 Sam 1:1-27",
+        "2 Sam 1:14-16",
+        "2 Sam 1:19-27"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "amalecita-mensajero"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david-ziklag",
+      "nombre": "David",
+      "rol": "Future king of Israel, lord of Ziklag as a Philistine fiefdom",
+      "periodo": "hierro_2",
+      "descripcion": "David's sixteen months in Ziklag are the most ambiguous period of his life: vassal of a Philistine king, pretending to attack Israel while protecting its borders, recovering burned Ziklag, and establishing the law of equal spoils. In Ziklag David reaches his lowest point (the people wanted to stone him) and his highest point of faithfulness (executing the messenger who killed Yahweh's anointed one). The lament for Saul and Jonathan composed in Ziklag — the 'Song of the Bow' (2 Sam 1:17-27) — is the most intense poetic piece of the historical OT.",
+      "referencias": [
+        "1 Sam 27:1-30:31",
+        "2 Sam 1:1-27",
+        "2 Sam 2:1-4"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "keilah",
+        "ziklag",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "aquis",
+      "nombre": "Here by Gath",
+      "rol": "Philistine king of Gath, feudal lord of David in Ziklag",
+      "periodo": "c. 1020–1000 BC",
+      "descripcion": "Achish ben Maoch was the king of Gath — the Philistine city closest to David's area of ​​operations in the south. His trust in David was absolute and, in a sense, naive: he genuinely believed that David had become Israel's enemy. He gave up Ziklag as a personal fiefdom, wanted to take it to the battle of Guilboa and defended it against the Philistines lords who distrusted him. Achish is the most positively portrayed foreign king of the OT in relation to Israel: he treated David with loyalty and generosity, and was reciprocated with benevolent deception. The paradox of the David-Achish alliance — the future king of Israel serving the Philistine who most harmed Israel — is one of the densest ironies of the Davidic narrative.",
+      "referencias": [
+        "1 Sam 21:11-16",
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "esclavo-egipcio",
+      "nombre": "The abandoned Egyptian slave",
+      "rol": "Slave abandoned by the Amalekites, providential guide by David",
+      "periodo": "c. 1010 BC",
+      "descripcion": "The nameless Egyptian slave that David found abandoned in the countryside is one of the most unexpected characters in the Davidic narrative. He had gone without food or drink for three days when David's men found him. David gave him bread, water, a piece of fig cake and two bunches of raisins. Recovered, he asked: 'Can you guide me to this troop?' The slave set a condition: that David swear not to kill him or hand him over to his master. The deal accepted, he guided him directly to the Amalekite camp. Without him, David would not have found the Amalekites in the expanse of the desert. The episode illustrates the Davidic narrative principle: divine providence uses unexpected instruments—a hungry pagan slave—to accomplish its purposes.",
+      "referencias": [
+        "1 Sam 30:11-16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ziklag is the city where David hit rock bottom and rose again. The crisis of the fire and the kidnapping of the families — with the people ready to stone him — was the moment of greatest loneliness in his career before his reign. The text's response is succinct and powerful: 'David was strengthened in Yahweh his God.' There is no vision, there is no angel, there is no prophet: only the personal decision to seek Yahweh on the edge. The law of equal spoils that David established in Ziklag – equal shares for those who fought and for those who stayed – became a permanent statute, transforming a decision of leadership into a principle of justice.",
+    "religiones_presentes": [
+      "Davidic Yahwism — consult the ephod, personal prayer in crisis",
+      "Philistine polytheism — context of the city given by Achish by Gath",
+      "Amalekite animism — enemies of the Negev who burned the city"
+    ],
+    "mitos": [
+      {
+        "id": "david-fortalecido-yhwh",
+        "nombre": "David strengthened in Yahweh: faith in the absolute limit",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 30:6; Sal 18:1-3; Sal 22:1-5",
+          "fuente_secundaria": "Talmud Bavli, Berajot 10a; Midrash Samuel 23",
+          "descripcion": "The Talmud (Brachot 10a) uses the example of David in Ziklag to illustrate the principle that trust in God must be maintained even when everyone is against it. The Midrash Samuel develops that 'David was strengthened in Yahweh his God' means that he reminded himself of his own previous experiences of divine salvation. The Psalms attributed to David in periods of persecution (22, 57, 142) reflect exactly this pattern: sinking into lament followed by strengthening in trust. The Ziklag episode is the biographical prototype of the Psalms of Lamentation.",
+          "similitudes": "Faith that is strengthened at the limit of personal despair is a principle shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism emphasizes the memory of past divine interventions as a foundation for strengthening; the NT adds the dimension of the Holy Spirit as an interior presence.",
+          "significado_teologico": "Authentic leadership begins with a personal relationship with God, not with external authority. David lost the trust of his people and found that of God — then he regained that of his people. The order matters.",
+          "posible_relacion_cultural": "The motif of the hero at his lowest point finding inner strength to bounce back is universal in heroic literature. The biblical specificity is the content: it is not inner strength but strengthening in the relationship with God — an act of faith, not of will."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 30:6; 2 Cor 4:8-9; Fil 4:13",
+          "fuente_secundaria": "Agustín, Confesiones VIII,12; Juan Crisóstomo, Homilías sobre los Salmos",
+          "descripcion": "The expression 'David was strengthened in Yahweh his God' was used by the Fathers of the Church as an archetype of the grace that sustains the believer in tribulation. Paul in 2 Cor 4:8-9 uses the same pattern: 'troubled but not crushed, perplexed but not despairing, persecuted but not abandoned, cast down but not destroyed.' John Chrysostom used the Ziklag episode in his catechesis on persecution: the Christian whose city burns and whose loved ones are carried away must do what David — strengthen his trust in God before acting. David's gesture of consulting the ephod before persecuting the Amalekites was read as a figure of the prayer of discernment.",
+          "similitudes": "Strengthening in God as the foundation of effective action at the limit of human forces is identical in both traditions.",
+          "diferencias": "The NT carries this principle to death and resurrection: the maximum limit is not the fire of Ziklag but the cross, and the maximum strengthening is the resurrection.",
+          "significado_teologico": "Genuine faith does not anesthetize the pain — David cried until he had no strength — but rather it provides grounds for acting after crying. Strengthening in God is not a denial of reality but a foundation for facing it.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

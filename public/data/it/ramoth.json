@@ -1,0 +1,171 @@
+{
+  "id": "ramoth",
+  "nombre": "Ramot di Galaad",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.5653,
+  "lng": 36.0056,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 37,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Città levitica e città di rifugio situata a est del Giordano nella regione di Galaad (l'attuale Giordania nord-orientale). Controllava le rotte carovaniere tra Damasco e l'Arabia e dominava l'accesso al territorio della Transgiordania. Conteso per secoli tra Israele e Aram-Damasco, fu teatro di alcune delle battaglie più decisive della monarchia divisa.",
+  "altitud_m": 1050,
+  "clima": "Semiarido con influenza mediterranea; piogge concentrate in inverno, estati secche.",
+  "recursos": [
+    "Pascoli di bestiame sull'altopiano Galaad",
+    "Rotte commerciali della Transgiordania",
+    "Boschi di querce sulle pendici del Galaad",
+    "Agricoltura pluviale: grano e orzo"
+  ],
+  "importancia_estrategica": "Città di rifugio designata da Mosè per il territorio della Transgiordania. La sua posizione strategica ne fece il principale obiettivo militare tra Israele e Aram durante il IX secolo a.C., essendo teatro della morte del re Achab e dell'unzione rivoluzionaria di Jehu.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Città di rifugio nel periodo dei giudici"
+    },
+    {
+      "desde": -875,
+      "hasta": -841,
+      "nombre": "Israele-Aram guerre per il controllo di Ramot"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "gaditas",
+      "nombre": "Gaditas",
+      "descripcion": "Tribù israelita si stabilì in Galaad che abitava la regione di Ramot. Guerrieri noti per la loro ferocia, menzionati tra i seguaci di Davide.",
+      "religion": "Yahvismo",
+      "periodo": "ferro_1 — ferro_2"
+    },
+    {
+      "id": "arameos",
+      "nombre": "Aramaico di Damasco",
+      "descripcion": "La città di Ramoth fu occupata a intermittenza dagli Aramei di Ben-Hadad I e II, che contestarono il controllo di Galaad ai re israeliti. La sua occupazione provocò le campagne di Achab.",
+      "religion": "Politeismo aramaico - culto di Hadad (Ba'al della tempesta)",
+      "periodo": "ferro_2"
+    },
+    {
+      "id": "levitas_ramot",
+      "nombre": "Amministratori leviti",
+      "descripcion": "Sacerdoti levitici nominati per amministrare la città di rifugio secondo la legge mosaica. La loro presenza ha garantito il processo legale per gli accusati di omicidio colposo.",
+      "religion": "sacerdotale Yahvismo",
+      "periodo": "ferro_1"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ciudad_de_refugio",
+      "titulo": "Ramot, città di rifugio in Galaad",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Mosè ha designato Ramoth di Galaad come una delle tre città di rifugio a est del Giordano, insieme a Beser e Golan. Chiunque avesse ucciso qualcuno involontariamente poteva fuggire in queste città ed essere al sicuro dalla vendetta del parente del morto fino a quando non avesse ricevuto un processo formale. L'istituzione rappresentava un sistema legale avanzato che distingueva l'omicidio colposo dall'omicidio colposo nell'antica legge israelita.",
+      "referencias": [
+        "Dt 4:43",
+        "Gs 20:8",
+        "Gs 21:38"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "muerte_de_acab",
+      "titulo": "La battaglia di Ramoth e la morte di Achab",
+      "fecha": "c. 853 a.C.",
+      "descripcion": "Re Acab di Israele convince re Giosafat di Giuda a recuperare Ramoth dagli Aramei. Quattrocento profeti reali predicono la vittoria, ma il profeta Micaiah ben Yimlah annuncia la sconfitta e individua nei profeti di corte uno spirito bugiardo. Achab, travestito per sfuggire alla profezia, viene colpito da una freccia scagliata a caso che penetra tra la sua armatura. Muore al tramonto e la sua macchina viene lavata nella piscina dell'Samaria, dove i cani gli leccano il sangue.",
+      "referencias": [
+        "1 Re 22:1-38",
+        "2 Cr 18:1-34"
+      ],
+      "personajes_clave": [
+        "acab",
+        "micaias"
+      ]
+    },
+    {
+      "id": "jehu_ungido_en_ramot",
+      "titulo": "L'unzione di Jehu a Ramoth",
+      "fecha": "c. 841 a.C.",
+      "descripcion": "Il profeta Eliseo invia un discepolo a Ramoth di Galaad per ungere segretamente l'ufficiale militare Jehu come re di Israele. Il discepolo lo unge in una stanza privata e annuncia l'ordine di sterminare la casa di Achab. Jehu accetta la missione e parte per Jezreel, dove uccide il re Joram di Israele e il re Achaziah di Giuda, dando inizio a una sanguinosa epurazione che include la morte di Jezebel e la fine della dinastia Omrid.",
+      "referencias": [
+        "2 Re 9:1-16",
+        "2 Re 9:17-26"
+      ],
+      "personajes_clave": [
+        "jehu",
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "acab",
+      "nombre": "Achab",
+      "rol": "Re di Israele - morto a Ramot",
+      "periodo": "c. 874–853 a.C.",
+      "descripcion": "Settimo re del regno settentrionale, figlio di Omri. Considerato il re più empio di Israele dagli autori deuteronomisti per il suo matrimonio con Jezebel e l'introduzione del culto di Baal. La sua morte a Ramoth adempie la profezia di Micaiah e inaugura il declino della dinastia Omrid.",
+      "referencias": [
+        "1 Re 16:29-33",
+        "1 Re 22:34-38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "micaias",
+      "nombre": "Micaiah ben Yimlah",
+      "rol": "Profeta che annunciò la sconfitta di Achab",
+      "periodo": "c. 853 a.C.",
+      "descripcion": "Profeta israelita che si distinse dai quattrocento profeti di corte rifiutandosi di profetizzare la vittoria. Descrisse una visione celeste in cui uno spirito bugiardo era autorizzato a ingannare i profeti di Achab. Fu imprigionato dal suo oracolo, che si rivelò vero.",
+      "referencias": [
+        "1 Re 22:8-28",
+        "2 Cr 18:7-27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jehu",
+      "nombre": "Ieu",
+      "rol": "Re ufficiale unto a Ramoth, esecutore del giudizio sulla casa di Achab",
+      "periodo": "hierro_2",
+      "descripcion": "Comandante militare dell'esercito israelita consacrato a Ramot per ordine di Eliseo. Il suo regno fu il più violento nella storia del nord: giustiziò i re di Israele e Giuda, Jezebel, i settanta figli di Achab e i sacerdoti di Baal. Fondò la dinastia più longeva del regno settentrionale.",
+      "referencias": [
+        "2 Re 9:1-10",
+        "2 Re 10:1-28",
+        "Os 1:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ramot di Galaad è stato teatro di tensioni tra la profezia yahvista indipendente e la profezia di corte. La morte di Acab e l'unzione di Ieu fecero della città un simbolo del giudizio divino sull'apostasia della casa di Omri. L'istituzione della città di rifugio le ha conferito anche una dimensione giuridico-religiosa unica nel sistema giuridico israeliano.",
+    "religiones_presentes": [
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "profecia_contra_acab",
+        "nombre": "Lo spirito bugiardo e la vera profezia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 22:19-23",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 89a — discusión rabínica sobre si un profeta que contradice a otro puede ser el verdadero; el caso de Micaías frente a los cuatrocientos",
+          "descripcion": "Micaia descrive un'assemblea celeste in cui Dio chiede chi ingannerà Achab inducendolo ad andare a Ramoth e a morire. Uno spirito si offre di essere uno spirito bugiardo in bocca ai profeti di corte. Dio lo autorizza. La scena solleva la questione radicale sull'origine della falsa profezia.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La visione dell'assemblea celeste mostra che anche l'inganno profetico opera nell'ambito della sovranità divina. Il vero profeta è quello che dice la verità anche a costo della libertà, non quello che proclama ciò che il re vuole sentire.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

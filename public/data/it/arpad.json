@@ -1,0 +1,154 @@
+{
+  "id": "arpad",
+  "nombre": "Arpad",
+  "tipo": "ciudad",
+  "lat": 36.47229,
+  "lng": 37.09471,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Città siriana conquistata da Assiria"
+    }
+  ],
+  "descripcion_geo": "Città-stato aramaica nel nord della Siria, conquistata dall'impero assiro, ripetutamente menzionata nei discorsi di propaganda militare assira come esempio di una città potente i cui dei non potevano salvarla dalla conquista, usata come argomento intimidatorio contro Gerusalemme durante l'invasione di Sennacherib.",
+  "altitud_m": 450,
+  "clima": "Mediterraneo continentale: estati calde e secche, inverni freddi con piogge, tipici della Siria settentrionale.",
+  "recursos": [
+    "Posizione strategica nel nord della Siria",
+    "Città-stato aramaica di un certo prestigio militare prima della sua conquista"
+  ],
+  "importancia_estrategica": "Arpad funziona nel testo biblico esclusivamente come esempio retorico utilizzato sia da Isaia che dagli stessi messaggeri assiri nella loro propaganda di guerra: una città potente e ben difesa, i cui dei locali non potevano impedire la sua conquista da parte di Assiria, un argomento usato per intimidire Ezechia e il popolo di Gerusalemme suggerendo che nemmeno YHWH avrebbe potuto salvarli dallo stesso destino.",
+  "otros_habitantes": [
+    {
+      "id": "arameos_arpad",
+      "nombre": "Popolazione aramaica di Arpad",
+      "descripcion": "Abitanti di questa città-stato siriana, conquistata dall'impero assiro nella sua espansione verso ovest, usata poi come esempio retorico dell'inutilità della resistenza a Assiria.",
+      "religion": "Politeismo aramaico",
+      "periodo": "C. 1000–740 a.C"
+    },
+    {
+      "id": "asirios_arpad",
+      "nombre": "Esercito e amministrazione assira",
+      "descripcion": "Forze conquistatrici che sottomisero Arpad come parte dell'espansione imperiale assira, utilizzando in seguito questo precedente nella loro propaganda di guerra contro altri regni resistenti.",
+      "religion": "Politeismo assiro: culto di Ashur e di altre divinità",
+      "periodo": "C. 740 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-arpad",
+      "titulo": "Isaia menziona Arpad nella sua denuncia dell'arroganza assira",
+      "fecha": "c. 715 a.C.",
+      "descripcion": "Il profeta Isaia cita le parole vanagloriose dello stesso re assiro, che paragona la conquista di Calno, Carchemis, Hamath, Arpad, Samaria e Damasco come prova del suo potere assoluto, denunciando questa arroganza come il vero peccato che YHWH punirà nell'impero assiro.",
+      "referencias": [
+        "Is 10:9"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "rabsaces-amenaza-arpad",
+      "titulo": "Rabshakeh convoca Arpad per intimidire Gerusalemme",
+      "fecha": "c. 701 a.C.",
+      "descripcion": "Durante l'assedio di Sennacherib contro Gerusalemme, il suo ufficiale Rabshakeh tiene un discorso di propaganda militare al popolo, chiedendo retoricamente dove siano gli dei di Hamath e Arpad che non potevano salvare queste città, un argomento usato per suggerire che YHWH non poteva salvare neanche Gerusalemme.",
+      "referencias": [
+        "2 Re 18:34",
+        "Is 36:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ezequias-confronta-amenaza-arpad",
+      "titulo": "Ezechia riceve una lettera in cui ripete la minaccia contro Arpad",
+      "fecha": "c. 701 a.C.",
+      "descripcion": "Sennacherib invia una lettera diretta a Ezechia ripetendo lo stesso argomento sull'inutilità della resistenza, citando nuovamente Arpad e altre città conquistate; Ezechia porta la lettera al Tempio e prega direttamente YHWH, ricevendo attraverso Isaia la promessa di liberazione che di fatto si realizza.",
+      "referencias": [
+        "2 Re 19:9-13",
+        "2 Re 19:35-36"
+      ],
+      "personajes_clave": [
+        "ezequias",
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_arpad",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Cita le vanterie assire su Arpad e altre città conquistate come prova dell'arroganza che YHWH alla fine punirà nello stesso impero assiro.",
+      "referencias": [
+        "Is 10:5-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequias_arpad",
+      "nombre": "Ezechia",
+      "rol": "Re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Affronta direttamente la minaccia della propaganda assira che cita Arpad come precedente, rispondendo con una preghiera fiduciosa al Tempio piuttosto che con la capitolazione, risultando nella miracolosa liberazione di Gerusalemme.",
+      "referencias": [
+        "2 Re 19:1-19",
+        "2 Re 19:35-36"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "senaquerib_arpad",
+      "nombre": "Sennacherib",
+      "rol": "Re di Assiria",
+      "periodo": "c. 705–681 a.C.",
+      "descripcion": "Usa il precedente di Arpad e di altre città conquistate come argomento di propaganda militare per cercare di intimidire Gerusalemme durante la sua campagna contro Giuda.",
+      "referencias": [
+        "2 Re 18:34",
+        "2 Re 19:9-13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Arpad funziona nel testo biblico esclusivamente come argomento retorico nel confronto teologico tra il potere imperiale assiro e la fede in YHWH: utilizzato sia dalla propaganda assira come prova dell'impotenza degli dei locali di fronte al loro potere militare, sia da Isaia in senso opposto, per denunciare l'arroganza idolatra di un impero che confonde il suo temporaneo successo militare con l'assoluta superiorità divina, confusione che provocherà proprio il suo giudizio finale.",
+    "religiones_presentes": [
+      "Politeismo aramaico (popolazione originaria)",
+      "Politeismo assiro (conquista del potere)",
+      "Yahvismo (prospettiva del confronto finale)"
+    ],
+    "mitos": [
+      {
+        "id": "soberbia-asiria-arpad-juicio",
+        "nombre": "L'arroganza assira esemplificata nella conquista di Arpad come causa del proprio giudizio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 10:5-19; 2 Re 19:9-13, 35-36",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el contraste deliberado entre la jactancia asiria citando ciudades como Arpad y el desenlace final de la liberación milagrosa de Jerusalén",
+          "descripcion": "La tradizione ebraica apprezza soprattutto il contrasto narrativo tra la fiduciosa vanteria assira, che cita il precedente di Arpad e di altre città come prova di invincibilità, e l'esito finale dove proprio Gerusalemme – la città che secondo la logica assira sarebbe dovuta cadere come le altre – viene miracolosamente liberata, a dimostrazione che la logica del potere puramente militare non determina il risultato finale quando YHWH interviene direttamente in favore del suo popolo fedele.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il contrasto tra la caduta di Arpad e la liberazione di Gerusalemme dimostra che nessun modello di conquista militare preventiva garantisce risultati futuri identici quando le persone rispondono con fede genuina alla minaccia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

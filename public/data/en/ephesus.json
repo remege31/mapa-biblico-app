@@ -1,0 +1,153 @@
+{
+  "id": "ephesus",
+  "nombre": "Ephesus",
+  "tipo": "ciudad",
+  "lat": 37.939,
+  "lng": 27.3412,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Great metropolis on the Aegean coast of Asia Minor, center of the cult of Artemis and capital of the Roman province of Asia.",
+  "altitud_m": 30,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "manufacture",
+    "religious tourism"
+  ],
+  "importancia_estrategica": "Second city of the Roman Empire in Asia; great cultural and commercial center.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "eph_h1",
+        "titulo": "Paul Ministry in Ephesus",
+        "fecha": "ca. 54-57 AD",
+        "descripcion": "Paul remains in Ephesus for three years; The church grows noticeably.",
+        "referencias": [
+          "Acts 19:1-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Priscila",
+          "Aquila"
+        ]
+      },
+      {
+        "id": "eph_h2",
+        "titulo": "The Silversmiths' Mutiny",
+        "fecha": "ca. 56 AD",
+        "descripcion": "Demetrius the silversmith calls for a protest over the threat to the trade of the temple of Artemis.",
+        "referencias": [
+          "Acts 19:23-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Demetrio"
+        ]
+      },
+      {
+        "id": "eph_h3",
+        "titulo": "Letter to the Ephesians",
+        "fecha": "ca. 60-62 AD",
+        "descripcion": "Paul writes from prison to the church of Ephesus about the unity of the body of Christ.",
+        "referencias": [
+          "Eph 1-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "eph_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He spent more time in Ephesus than in any other city; He wrote several letters from there.",
+        "referencias": [
+          "Acts 19:1"
+        ],
+        "ruta": [
+          "ephesus",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "eph_p2",
+        "nombre": "Priscilla and Aquila",
+        "rol": "Apollos Mentors",
+        "periodo": "s. I AD",
+        "descripcion": "Couple of artisans and church leaders in Ephesus.",
+        "referencias": [
+          "Acts 18:24-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "eph_p3",
+        "nombre": "John the Apostle",
+        "rol": "Apostle and elder",
+        "periodo": "s. I AD",
+        "descripcion": "According to tradition, he lived in Ephesus and wrote the Gospel of John there.",
+        "referencias": [
+          "Rev 1:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City of the temple of Artemis, one of the seven wonders of the ancient world; scene of the clash between the gospel and the imperial cult.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "eph_m1",
+          "nombre": "Artemis of the Ephesians",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The gospel challenged the cult of Artemis/Diana, goddess of fertility venerated in Ephesus, provoking the silversmiths' mutiny.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The gospel challenged the cult of Artemis/Diana, goddess of fertility venerated in Ephesus, provoking the silversmiths' mutiny.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

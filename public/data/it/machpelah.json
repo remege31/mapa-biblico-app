@@ -1,0 +1,172 @@
+{
+  "id": "machpelah",
+  "nombre": "Machpela",
+  "tipo": "ciudad",
+  "lat": 31.52464794555393,
+  "lng": 35.11073465087356,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: sepoltura patriarcale continuata"
+    }
+  ],
+  "descripcion_geo": "Doppia grotta (\"machpela\" significa \"doppio\" o \"doppio\") situata in un campo di fronte a Mamre, vicino a Hebron, acquistata da Abramo da Efron l'Ittita come luogo di sepoltura della famiglia. Divenne il pantheon funerario per tre generazioni di patriarchi e matriarche Israele.",
+  "altitud_m": 930,
+  "clima": "Montagna mediterranea: quella della regione Hebron.",
+  "recursos": [
+    "Grotta naturale in terreno calcareo",
+    "Campo alberato, acquistato insieme alla grotta"
+  ],
+  "importancia_estrategica": "Macpella non ha alcuna rilevanza strategica in senso militare o economico; La sua importanza è genealogico-teologica in quanto prima porzione di terra legalmente acquisita dai patriarchi in Canaan e come pantheon funerario che collega fisicamente le tre generazioni fondatrici – Abramo e Sara, Isacco e Rebecca, Giacobbe e Lea – con la terra promessa, fungendo da argomento implicito per la legittimità del successivo possedimento israelita.",
+  "otros_habitantes": [
+    {
+      "id": "heteos_macpela",
+      "nombre": "Figli di Heth (Ittiti)",
+      "descripcion": "Popolazione locale di Hebron davanti alla quale Abramo negozia e formalizza l'acquisto del campo e della grotta di Machpelah, testimoni dell'accordo legale.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "C. 2050 a.C"
+    },
+    {
+      "id": "efron_macpela",
+      "nombre": "Efron l'Ittita e i suoi discendenti",
+      "descripcion": "Proprietario originale del campo e della grotta, venditore formale della terra a Abramo per quattrocento sicli d'argento.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "C. 2050 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sepultura-sara-macpela",
+      "titulo": "Sepoltura di Sara a Macpela",
+      "fecha": "c. 2029 a.C.",
+      "descripcion": "Dopo la morte di Sarah in Hebron, Abramo acquista formalmente il campo e la grotta di Machpelah da Efron l'Ittita e la seppellisce lì, segnando la prima sepoltura patriarcale nella Terra Promessa e il primo possesso legale di terra da parte di Abramo in Canaan.",
+      "referencias": [
+        "Gen 23:1-20"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "sepultura-abraham-isaac-macpela",
+      "titulo": "Sepoltura di Abramo, Isacco, Rebeca, Lea e Giacobbe",
+      "fecha": "c. 1991–1859 a.C. (Abraham e Isaac, cronología tradicional)",
+      "descripcion": "Dopo Sarah, Abramo (per Isacco e Ismaele), poi Isacco e Rebecca, e infine Leah, vengono sepolti successivamente a Machpelah, trasformando la grotta nel comune pantheon funerario delle tre generazioni patriarcali fondatrici.",
+      "referencias": [
+        "Gen 25:9-10",
+        "Gen 49:31"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "jacob-pide-sepultura-macpela",
+      "titulo": "Giacobbe chiede di essere sepolto a Machpela",
+      "fecha": "c. 1859 a.C. (cronología tradicional)",
+      "descripcion": "Da Egitto, il morente Giacobbe ordina esplicitamente ai suoi figli di riportare il suo corpo a Canaan per essere sepolto nella grotta di Machpelah, accanto ai suoi genitori e nonni, ricordando in dettaglio l'acquisto originale del terreno da parte di Abramo.",
+      "referencias": [
+        "Gen 49:29-32",
+        "Gen 50:12-13"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_macpela",
+      "nombre": "Abramo",
+      "rol": "Patriarca, acquirente e primo sepolto a Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "Acquista formalmente il campo e la grotta di Machpelah per seppellire Sarah, stabilendo così il primo possesso legale e permanente dei patriarchi nella terra di Canaan.",
+      "referencias": [
+        "Gen 23:1-20",
+        "Gen 25:9-10"
+      ],
+      "ruta": [
+        "mamre",
+        "machpelah"
+      ]
+    },
+    {
+      "id": "isaac_macpela",
+      "nombre": "Isacco",
+      "rol": "Patriarca, secondo sepolto a Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "Figlio di Abramo, sepolto a Macpela dai figli Esaù e Giacobbe, continuando la linea del pantheon familiare patriarcale nello stesso luogo acquisito dal padre.",
+      "referencias": [
+        "Gen 35:27-29"
+      ],
+      "ruta": [
+        "machpelah"
+      ]
+    },
+    {
+      "id": "jacob_macpela",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca, sepolto l'ultima volta a Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "Richiede espressamente a Egitto di essere sepolto a Machpela insieme ai suoi genitori e nonni; i suoi figli soddisfano la richiesta trasportando il suo corpo imbalsamato a Canaan in un solenne corteo funebre.",
+      "referencias": [
+        "Gen 49:29-33",
+        "Gen 50:1-14"
+      ],
+      "ruta": [
+        "egipto",
+        "machpelah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Macpela è l'ancora fisica più concreta del ciclo patriarcale nella terra di Canaan: mentre le promesse divine sono verbali e future, il possesso di questa tomba è presente, legale e tangibile. La sua funzione di pantheon comune di tre generazioni rende il luogo un simbolo di continuità familiare e radici territoriali, fungendo da argomento implicito – e centrale nelle tre tradizioni abramitiche – della legittimità storica della presenza del popolo di Abramo sulla terra.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo",
+      "Politeismo Cananeo (Ittiti, venditori originali)"
+    ],
+    "mitos": [
+      {
+        "id": "panteon-patriarcal-macpela",
+        "nombre": "Machpela come pantheon fondatore dei patriarchi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 23:1-20; Gén 25:9-10; Gén 49:29-33; Gén 50:12-13",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 58; tradición sobre la Cueva de los Patriarcas (Mearat HaMajpela) como segundo lugar más sagrado del judaísmo después del Monte del Templo",
+          "descripcion": "La tradizione ebraica considera Machpelah il secondo luogo più sacro dell'ebraismo, sviluppando ampie tradizioni midrashiche sull'origine della grotta - alcuni addirittura la collegano alla sepoltura di Adamo ed Eva - e sul significato del suo nome come 'doppio' in riferimento alle coppie ivi sepolte.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Abramo e dei patriarchi come figure fondamentali sepolte nello stesso luogo venerato.",
+          "diferencias": null,
+          "significado_teologico": "La grotta rappresenta la promessa della terra resa tangibile ed ereditabile, fondamento dell'identità e della continuità del popolo di Israele attraverso le generazioni.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo e dei suoi discendenti come figura fondatrice comune alle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "At 7:15-16 (referencia retrospectiva en el discurso de Esteban); Heb 11:8-9 (fe de Abraham como peregrino en la tierra prometida)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la fe de los patriarcas como modelo de esperanza en promesas no vistas",
+          "descripcion": "La tradizione cristiana assume l'acquisto di Macpela come esempio paradigmatico, citato nella Lettera agli Ebrei, della fede dei patriarchi che possiedono solo una porzione minima della terra promessa (una tomba) mentre attendono il pieno compimento di una promessa più grande, letta in chiave escatologica.",
+          "similitudes": "Condivide il riconoscimento dell'importanza fondamentale dell'acquisto di Macpela da parte di Abramo.",
+          "diferencias": "La lettura cristiana tende a subordinare la specifica valenza territoriale di Macpela alla sua funzione di simbolo di fede in promesse trascendenti non ancora pienamente compiute.",
+          "significado_teologico": "Il possesso minimo e simbolico della tomba viene interpretato come anticipo di un'eredità più grande e definitiva promessa ai credenti.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo come modello di fede comune all'ebraismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Tradición islámica extracoránica sobre Ibrahim como Jalil Allah ('amigo de Dios') y su sepultura en Hebrón (al-Khalil)",
+          "fuente_secundaria": "Tradiciones hadiz y exégesis posterior que identifican Hebrón (al-Khalil, 'el amigo', epíteto de Ibrahim) con el lugar de su sepultura",
+          "descripcion": "La tradizione islamica, sebbene il Corano non riporti nel dettaglio l'episodio dell'acquisto di Machpelah, riconosce la sepoltura di Ibrahim a Hebron - città che in arabo si chiama al-Khalil in suo onore - e venera il luogo (l'Haram al-Ibrahimi) come luogo sacro condiviso legato al comune patriarca.",
+          "similitudes": "Riconoscimento condiviso di Ibrahim/Abramo come figura sepolta nello stesso luogo venerato da tutte e tre le tradizioni.",
+          "diferencias": "La tradizione islamica non sviluppa il resoconto dettagliato dell'acquisto legale della terra da Efron presente nella Genesi; l'enfasi ricade sulla santità di Ibrahim come \"amico di Dio\" piuttosto che sulla narrativa dell'acquisizione della terra.",
+          "significado_teologico": "Il luogo è integrato nella catena della santità profetica riconosciuta dall'Islam, collegando Hebron con la comune tradizione abramitica.",
+          "posible_relacion_cultural": "Riconoscimento condiviso di Hebron/Macpelah come luogo sacro della tradizione abramitica comune a tutte e tre le religioni."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

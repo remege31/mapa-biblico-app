@@ -1,0 +1,194 @@
+{
+  "id": "gomorrah",
+  "nombre": "Gomorra",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.1572,
+  "lng": 35.474,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Ubicación aproximada al sur del Mar Muerto — identificación arqueológica exacta incierta; coordenadas basadas en la tradición que sitúa las ciudades del llano en el extremo sur del Mar Muerto",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -1800,
+      "nombre": "Bronzo Medio — Epoca patriarcale, distruzione delle città della pianura"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio"
+  ],
+  "descripcion_geo": "Gomorra (ebraico: עֲמֹרָה) era una delle cinque città della pianura (kikkar) del Giordano, insieme a Sodoma, Adma, Zeboyim e Bela/Zoar. La sua esatta ubicazione è archeologicamente incerta; La tradizione più diffusa lo colloca a sud del Mar Morto, nella zona attualmente sommersa o coperta dai depositi all'estremità meridionale del lago. Un'altra corrente lo identifica con Tall el-Hammam a nord-est del Mar Morto. La \"piana del Giordano\" descritta nella Genesi come \"ben irrigata come il giardino di Jahvè\" suggeriva un'area ad alta produttività agricola prima della catastrofe. La geologia della zona mostra tracce di attività vulcanica e depositi di zolfo compatibili con la descrizione biblica.",
+  "altitud_m": -400,
+  "clima": "Deserto arido estremo: il Mar Morto e i suoi dintorni hanno il clima più secco e caldo della regione. Precipitazioni inferiori a 50 mm all'anno, temperature estive fino a 45°C, umidità relativa molto bassa. In epoca patriarcale la zona meridionale potrebbe essere stata più fertile prima dei cambiamenti geologici o climatici.",
+  "recursos": [
+    "Bitume/asfalto del Mar Morto (utilizzato nella costruzione di imbarcazioni e nel calafataggio)",
+    "Sali minerali del Mar Morto",
+    "Agricoltura nella fertile 'pianura del Giordano' prima della distruzione (secondo Gen 13:10)",
+    "Rotte per carovane tra Arabia e Canaan"
+  ],
+  "importancia_estrategica": "Gomorra, insieme a Sodoma, faceva parte di una coalizione di cinque città-stato sulla pianura del Giordano che controllava le rotte commerciali dall'estremità meridionale del Mar Morto all'Arabia. La sua distruzione eliminò improvvisamente l'intera infrastruttura politica ed economica della regione e lasciò Lot, nipote di Abramo, come unico sopravvissuto nella zona.",
+  "otros_habitantes": [
+    {
+      "id": "habitantes-llano",
+      "nombre": "Abitanti delle città della pianura",
+      "descripcion": "Le cinque città della pianura formarono una coalizione politica che era stata sotto Chedorlaomer di Elam per dodici anni prima di ribellarsi. La sua cattura e liberazione da parte di Abramo è il primo atto militare del patriarca narrato nella Genesi. Il testo li presenta come politicamente indipendenti ma etnicamente e culturalmente legati a Canaan — Sodoma e Gomorra sono figli di Canaan nella tavola delle nazioni (Gen 10:19).",
+      "religion": "Politeismo Cananeo: senza specificazione delle divinità; il testo biblico enfatizza il male morale più che lo specifico sistema religioso",
+      "periodo": "Bronzo medio, ca. 2000-1800 a.C"
+    },
+    {
+      "id": "coalition-reyes-este",
+      "nombre": "Coalizione dei quattro re d'Oriente",
+      "descripcion": "Chedorlaomer di Elam, re Tidal di Goyim, Amraphel di Shinar e Arioch di Elasar formarono la coalizione che dominò le città della pianura per dodici anni. Quando si ribellarono, la coalizione orientale marciò contro di loro, li sconfisse e prese prigioniero Lot, nipote di Abramo. Questo episodio (Gen 14) è la prima guerra narrata nella Bibbia e colloca il mondo patriarcale nel contesto delle rivalità tra grandi potenze della media età del bronzo.",
+      "religion": "Politeismo mesopotamico - Marduk, Enlil e divinità di Elam e Babilonia",
+      "periodo": "Bronzo medio, ca. 2000-1800 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "guerra-cinco-reyes",
+      "titulo": "La guerra dei quattro re contro i cinque: Abramo salva Lot",
+      "fecha": "c. 1900 a.C. (tradición patriarcal)",
+      "descripcion": "I re di Sodoma, Gomorra, Adma, Zeboyim e Bela si ribellarono a Chedorlaomer di Elam dopo dodici anni di vassallaggio. La battaglia fu combattuta nella valle di Siddim (a sud del Mar Morto), piena di pozzi di bitume. I re di Sodoma e Gomorra fuggirono e caddero nelle fosse; il resto fuggì sulle montagne. I vincitori presero tutte le spoglie di Sodoma e Gomorra e presero anche Lot, nipote di Abramo, che viveva a Sodoma. Un fuggitivo è venuto a dirlo a Abramo. Il patriarca radunò i suoi trecentodiciotto uomini nati nella sua casa, li inseguì fino a Dan, li attaccò di notte, li sconfisse e recuperò tutto il bottino e Lot. Al suo ritorno, il sacerdote Melchizedek di Salem gli venne incontro con pane e vino e lo benedisse nel nome di El Elyon.",
+      "referencias": [
+        "Gen 14:1-24",
+        "Gen 14:8-12",
+        "Gen 14:18-20"
+      ],
+      "personajes_clave": [
+        "abraham-gomorra",
+        "lot",
+        "melquisedec"
+      ]
+    },
+    {
+      "id": "destruccion-gomorra",
+      "titulo": "Fuoco e zolfo: la distruzione di Sodoma e Gomorra",
+      "fecha": "c. 1850 a.C. (tradición patriarcal)",
+      "descripcion": "Jahvè ha informato Abramo della sua decisione di distruggere Sodoma e Gomorra a causa della gravità dei loro peccati. Abramo intercedeva ripetutamente: Distruggerai il giusto insieme al colpevole? Non perdonerai per cinquanta giusti? Per quarantacinque? Per quaranta? Per trenta? Per venti? Per dieci? Jahvè accettato ogni volta. Ma non c'erano dieci giusti. Due angeli arrivarono a Sodoma, si recarono alla casa di Lot, e la popolazione maschile della città circondò la casa chiedendo a Lot di consegnarli per abusarne. Gli angeli accecarono gli aggressori e portarono Lot dalla sua famiglia. All'alba Lot arrivò a Zoar. Quindi Jahvè fece piovere zolfo e fuoco su Sodoma e Gomorra. La moglie di Lot, che guardò indietro, divenne una statua di sale. Abramo, dalle colline, vide il fumo salire dalla terra come il fumo di una fornace.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 19:1-29",
+        "Gen 19:24-26"
+      ],
+      "personajes_clave": [
+        "abraham-gomorra",
+        "lot",
+        "angeles-sodoma"
+      ]
+    },
+    {
+      "id": "gomorra-memoria-profetica",
+      "titulo": "Sodoma e Gomorra come archetipo del giudizio divino nei profeti",
+      "fecha": "siglos VIII-VI a.C.",
+      "descripcion": "La distruzione di Sodoma e Gomorra divenne il paradigma profetico del giudizio divino sulle nazioni e sullo stesso infedele Israele. Isaia apre il suo libro paragonando Gerusalemme a Sodoma e Gomorra: 'Se Jahvè non ci avesse lasciato un piccolo resto, saremmo come Sodoma, come Gomorra' (Is 1,9). Geremia usa il paragone per annunciare il giudizio su Babilonia: 'Come quando Dio distrusse Sodoma e Gomorra e le città circostanti' (Ger 50,40). Amos lo usa per descrivere la punizione che Israele ha già subito: «Ti ho distrutto come ho distrutto Sodoma e Gomorra, eri come un tizzone strappato dal fuoco» (Am 4,11). L'immagine delle città in fiamme divenne la misura ultima dell'ira divina nella letteratura profetica.",
+      "referencias": [
+        "Is 1:9-10",
+        "Ger 50:40",
+        "Am 4:11"
+      ],
+      "personajes_clave": [
+        "isaias-gomorra",
+        "jeremias-gomorra"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham-gomorra",
+      "nombre": "Abramo",
+      "rol": "Patriarca intercessore per Sodoma e Gomorra",
+      "periodo": "bronce_medio",
+      "descripcion": "L'intercessione di Abramo a Jahvè per Sodoma e Gomorra (Gen 18,16-33) è uno dei testi teologici più profondi dell'Antico Testamento. Il patriarca intercede per Sodoma non perché è la sua città – vive a Hebron – ma per il principio di giustizia universale: Il Giudice di tutta la terra non farà giustizia? La loro negoziazione regressiva (50 → 45 → 40 → 30 → 20 → 10 giusti) stabilisce che la misericordia divina è disposta a perdonare una moltitudine colpevole per un piccolo resto di innocenti. La tragedia è che non esistevano nemmeno dieci persone giuste. Abramo non venne meno alla sua intercessione: la misericordia divina non aveva materiale su cui lavorare.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 14:14-16",
+        "Gen 19:29"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "egipto",
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "lot",
+      "nombre": "molti",
+      "rol": "Nipote di Abramo, unico giusto sopravvissuto di Sodoma",
+      "periodo": "bronce_medio",
+      "descripcion": "Lot ben Haran, nipote di Abramo, è il personaggio che incarna l'ambiguità morale dell'intera narrazione di Sodoma e Gomorra. Ha scelto la fertile pianura della Giordania invece delle aride colline di Canaan; piantò progressivamente la sua tenda «fino a Sodoma»; poi visse nella stessa Sodoma. La sua ospitalità verso i due angeli – offrendo loro la sua casa e proteggendoli dalla violenza della folla al costo di offrire le proprie figlie – lo qualifica come giusto nel contesto di una città di totale perversione. Fuggì con la moglie e le due figlie; La donna guardò indietro e si trasformò in una statua di sale. Lot finì i suoi giorni in una grotta con le figlie, in circostanze che il testo narra senza espliciti commenti morali.",
+      "referencias": [
+        "Gen 13:10-12",
+        "Gen 19:1-11",
+        "Gen 19:30-38"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "hebron"
+      ]
+    },
+    {
+      "id": "melquisedec",
+      "nombre": "Melchisedek",
+      "rol": "Re di Salén e sacerdote di El Elyon, figura misteriosa del Bronzo Medio",
+      "periodo": "c. 1900 a.C. (tradición patriarcal)",
+      "descripcion": "Melchisedec (מַלְכִּי-צֶדֶק, 're della giustizia') è il personaggio più enigmatico della Genesi. Re di Salem (identificato con Gerusalemme) e sacerdote di El Elyon (\"Dio l'Altissimo\"), incontrò Abramo dopo la sua vittoria sui quattro re con pane e vino e lo benedisse. Abramo gli ha dato la decima di tutto il bottino. Il testo non ne dà la genealogia, né la sua origine, né la sua fine: assenze che la tradizione interpretava come significative. Il Salmo 110 (“Tu sei sacerdote per sempre secondo l'ordine di Melchisedek”) ha fatto della sua figura il fondamento del sacerdozio davidico e, più tardi, la tipologia del sacerdozio eterno di Cristo nella lettera agli Ebrei.",
+      "referencias": [
+        "Gen 14:18-20",
+        "Sal 110:4",
+        "Eb 7:1-17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gomorra, insieme a Sodoma, è il simbolo per eccellenza del giudizio divino nella Bibbia e nelle tre tradizioni abramitiche. Ma il racconto della Genesi contiene anche l’intercessione di Abramo – il più antico testo conosciuto sulla preghiera di intercessione – e l’enigmatica figura di Melchisedek, la cui benedizione a Abramo prefigura una tradizione sacerdotale che precede il levitismo. La geografia della pianura del Giordano come il “giardino di Jahvè” trasformato in desolazione fumante è l'immagine più potente nell'Antico Testamento delle conseguenze del peccato collettivo.",
+    "religiones_presentes": [
+      "Politeismo Cananeo del Bronzo Medio — culto di Lui e delle divinità locali",
+      "Culto di El Elyon - tradizione di Melchizedek a Salem/Gerusalemme, forse antecedente allo Yahwismo",
+      "Patriarcale Yahvismo — Abramo come destinatario della benedizione di El Elyon"
+    ],
+    "mitos": [
+      {
+        "id": "sodoma-gomorra-juicio",
+        "nombre": "La distruzione di Sodoma e Gomorra: il giudizio che non si dimentica",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:16-19:29; Ez 16:49-50",
+          "fuente_secundaria": "Mishná Sanedrín 10:3; Talmud Bavli, Sanedrín 109a; Midrash Rabbah Génesis 49-50",
+          "descripcion": "Il Talmud (Sanhedrin 109a) elabora a lungo i peccati di Sodoma: non erano solo quelli del capitolo 19 ma un'ingiustizia sociale sistematica: negavano l'ospitalità agli estranei, avevano leggi che proteggevano la crudeltà, punivano la generosità. Ezechiele 16:49 specifica: 'Il peccato di tua sorella Sodoma fu questo: superbia, pane in abbondanza e vane comodità avevano lei e le sue figlie, ma non aiutava i poveri e i bisognosi.' Il Midrash sviluppa che gli abitanti di Sodoma stabilirono un letto di Procuste per i viaggiatori: allungarono quello superiore e rimpicciolirono quello inferiore. La Mishnah afferma che gli abitanti di Sodoma non avranno alcun ruolo nel mondo a venire.",
+          "similitudes": "Tutte e tre le tradizioni preservano la distruzione come atto di giustizia divina di fronte alla massima perversione collettiva.",
+          "diferencias": "Il giudaismo rabbinico enfatizza l'ingiustizia sociale (Ez 16:49) così come la perversione sessuale; L'Islam enfatizza principalmente il rifiuto del profeta Lot e la perversione sessuale.",
+          "significado_teologico": "Il giudizio di Sodoma e Gomorra stabilisce che Dio interviene nella storia quando la perversione umana raggiunge un punto di non ritorno. L'intercessione di Abramo stabilisce contemporaneamente che la misericordia divina è la prima risposta, non il giudizio.",
+          "posible_relacion_cultural": "La distruzione delle città mediante il fuoco divino come punizione appare nel Diluvio babilonese (Atrahasis, Gilgamesh) e nei miti di distruzione delle città da parte degli dei offesi in tutto il Vicino Oriente antico."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Lc 17:28-30; 2 Pe 2:6-9; Jud 7",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios XVI,30; Orígenes, Homilías sobre el Génesis V",
+          "descripcion": "Gesù ha utilizzato la distruzione di Sodoma come immagine dell'improvviso giudizio finale: \"Come avvenne ai giorni di Lot... così sarà il giorno in cui il Figlio dell'uomo sarà rivelato\" (Luca 17:28-30). Pietro (2 Pietro 2:6-9) presenta come un precedente il fatto che Dio sa come salvare i giusti dal giudizio distruggendo i malvagi. Giuda (Giuda 7) sottolinea la dimensione sessuale del peccato. Origene leggeva Lot come un tipo dell'uomo giusto che vive in mezzo al mondo senza essere corrotto; Agostino lo usò per sostenere l'ammissibilità della violenza divina. La moglie di Lot \"trasformata in sale\" veniva interpretata allegoricamente come l'anima che guarda indietro al peccato che si è lasciata alle spalle.",
+          "similitudes": "L'improvvisa distruzione di Sodoma come immagine del giudizio finale è identica nei tre sinottici e in 2 Pietro.",
+          "diferencias": "Il Nuovo Testamento usa Sodoma soprattutto come tipo escatologico (il giudizio arriverà così); L'ebraismo lo usa principalmente come un presente avvertimento etico.",
+          "significado_teologico": "Sodoma e Gomorra sono la prova che il giudizio divino è reale, improvviso e totale e che la misericordia (il salvataggio di Lot) opera simultaneamente al giudizio.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 7:80-84; 11:69-83; 15:57-74; 26:160-175",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de la Sura Al-Araf 7:80-84; Al-Tabari, Tafsir",
+          "descripcion": "Il Corano narra la storia di Lut (Lot) in almeno sei sure. Gli angeli giunsero nella città di Lut inviati da Allah come messaggeri ad Ibrahim (Abramo) e poi come esecutori della punizione. La gente di Lut rifiutò il profeta e volle insultare i suoi ospiti. Allah salvò Lut e la sua famiglia (tranne sua moglie, che rimase indietro) e distrusse la città con una pioggia di pietre di argilla indurita. La narrazione coranica sottolinea il rifiuto del profeta Lut come principale causa di punizione, insieme alla perversione sessuale. Ibn Kathir spiega in dettaglio che la distruzione è avvenuta mediante l'inversione della città (capovolta) e una pioggia di pietre.",
+          "similitudes": "La distruzione divina di fronte alla perversione collettiva e il salvataggio del giusto profeta sono identici in tutte e tre le tradizioni.",
+          "diferencias": "L'Islam colloca Lut come un profeta inviato esplicitamente in quella città; la narrazione coranica non include l'intercessione di Ibrahim per la città (la riceve solo dagli angeli come notifica); La distruzione avviene per inversione e pioggia di pietre, non per zolfo e fuoco.",
+          "significado_teologico": "Il popolo di Lut è un paradigma coranico della comunità che rifiuta il profeta inviato da Allah. La sua punizione è un modello di ciò che attende coloro che rifiutano la rivelazione divina.",
+          "posible_relacion_cultural": "La tradizione islamica identifica il luogo con l'area del Mar Morto, coincidente con la geografia biblica, anche se i dettagli della punizione differiscono."
+        }
+      }
+    ]
+  }
+}

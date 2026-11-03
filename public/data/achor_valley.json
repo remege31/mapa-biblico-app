@@ -1,0 +1,135 @@
+{
+  "id": "achor_valley",
+  "nombre": "Valle de Acor",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.84,
+  "lng": 35.4,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Valle al norte de Jericó, cerca del mar Muerto. Lugar del juicio sobre Acán y de la puerta de esperanza mesiánica según Oseas.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Valle de turbación y puerta de esperanza; donde el pecado fue juzgado y la esperanza prometida.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "aco_h1",
+      "titulo": "El juicio de Acán en el valle de Acor",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Acán, que robó del anatema de Jericó, es descubierto; toda Israel lo apedrea en el valle de Acor.",
+      "referencias": [
+        "Jos 7:24-26"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Acán"
+      ]
+    },
+    {
+      "id": "aco_h2",
+      "titulo": "El valle de Acor como puerta de esperanza",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Oseas profetiza que en la restauración Dios convertirá el valle de Acor ('turbación') en puerta de esperanza.",
+      "referencias": [
+        "Os 2:15"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "aco_h3",
+      "titulo": "El valle de Acor en la herencia de Judá",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "El valle de Acor marcaba el límite norte de la herencia de Judá.",
+      "referencias": [
+        "Jos 15:7"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "aco_p1",
+      "nombre": "Acán",
+      "rol": "Israelita que pecó",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Robó del anatema de Jericó y causó la derrota de Israel en Hai; fue ejecutado en el valle de Acor.",
+      "referencias": [
+        "Jos 7:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p2",
+      "nombre": "Josué",
+      "rol": "Conquistador",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Presidió el juicio de Acán; el lugar se llamó Acor (turbación) en su memoria.",
+      "referencias": [
+        "Jos 7:26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "aco_p3",
+      "nombre": "Oseas",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Prometió que el valle del juicio (Acor) se convertiría en puerta de esperanza en la restauración.",
+      "referencias": [
+        "Os 2:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle de Acor: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "aco_m1",
+        "nombre": "De turbación a esperanza",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El valle de Acor ('turbación') fue escenario del juicio sobre el pecado de Acán; Oseas lo convierte en símbolo de la restauración: el lugar del fracaso se convierte en puerta de esperanza.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El valle de Acor ('turbación') fue escenario del juicio sobre el pecado de Acán; Oseas lo convierte en símbolo de la restauración: el lugar del fracaso se convierte en puerta de esperanza.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

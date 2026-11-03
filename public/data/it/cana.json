@@ -1,0 +1,85 @@
+{
+  "id": "cana",
+  "nombre": "Canna",
+  "tipo": "ciudad",
+  "lat": 32.7463,
+  "lng": 35.3395,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Galilea villaggio a circa 12 km a nord di Nazareth, sulle colline della Baja Galilea.",
+  "altitud_m": 220,
+  "clima": "mediterraneo",
+  "recursos": [
+    "vigneti",
+    "ulivi",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Scenario del primo miracolo di Gesù; casa di Natanaele.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "can_h1",
+        "titulo": "Le nozze di Cana",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Gesù trasforma l'acqua in vino durante un matrimonio, il suo primo segno miracoloso secondo John.",
+        "referencias": [
+          "Gv 2:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "Los discípulos"
+        ]
+      },
+      {
+        "id": "can_h2",
+        "titulo": "Guarigione a distanza",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Da Cana, Gesù guarisce il figlio di un funzionario reale che stava morendo a Cafarnao.",
+        "referencias": [
+          "Gv 4:46-54"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Oficial real"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "can_p1",
+        "nombre": "Natanaele",
+        "rol": "Discepolo di Gesù",
+        "periodo": "s. I d.C.",
+        "descripcion": "Originario di Cana, chiamato da Gesù sotto il fico; tradizionalmente identificato con Bartolomeo.",
+        "referencias": [
+          "Gv 1:45-51",
+          "Gv 21:2"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

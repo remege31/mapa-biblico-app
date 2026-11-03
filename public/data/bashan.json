@@ -1,0 +1,147 @@
+{
+  "id": "bashan",
+  "nombre": "Basán",
+  "tipo": "territorio",
+  "lat": 32.8,
+  "lng": 35.94,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 60,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -722,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Fértil meseta al noreste del lago de Galilea y al este del Jordán, famosa por sus toros y sus robles.",
+  "altitud_m": 600,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "ganadería",
+    "agricultura",
+    "madera de roble"
+  ],
+  "importancia_estrategica": "Región agrícola y ganadera disputada entre Israel y los reinos arameos.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bas_h1",
+      "titulo": "Victoria sobre Og rey de Basán",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israel derrota al gigante Og, rey de Basán, en Edrei; su cama de hierro medía nueve codos de largo.",
+      "referencias": [
+        "Nm 21:33-35",
+        "Dt 3:1-11"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Og"
+      ]
+    },
+    {
+      "id": "bas_h2",
+      "titulo": "Los toros de Basán en el Salmo 22",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "El Salmo 22 usa los 'toros de Basán' como metáfora de los enemigos que rodean al justo sufriente.",
+      "referencias": [
+        "Sal 22:12"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bas_h3",
+      "titulo": "La transfiguración en el Hermón de Basán",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "El Monte Hermón, en los límites de Basán, es la probable localización de la Transfiguración de Jesús.",
+      "referencias": [
+        "Mt 17:1-8"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bas_p1",
+      "nombre": "Og de Basán",
+      "rol": "Rey gigante",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Último de los refaítas; su derrota permitió a Israel controlar el Transjordán norte.",
+      "referencias": [
+        "Dt 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p2",
+      "nombre": "Yair de Manasés",
+      "rol": "Conquistador",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Conquistó las aldeas de Basán llamadas 'las aldeas de Yair'.",
+      "referencias": [
+        "Nm 32:41"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p3",
+      "nombre": "Elías de Galaad",
+      "rol": "Profeta",
+      "periodo": "ca. 875 a.C.",
+      "descripcion": "Viajó por los territorios cercanos a Basán en sus huidas y peregrinajes.",
+      "referencias": [
+        "1 Re 19:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tierra de gigantes, de ganadería exuberante y de robles sagrados; sus imágenes bíblicas van de la amenaza (toros) a la abundancia.",
+    "religiones_presentes": [
+      "paganismo_cananeo",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "bas_m1",
+        "nombre": "Los toros de Basán",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Los toros de Basán eran los más grandes y feroces del mundo antiguo; el Salmo 22 los usa como imagen de los enemigos del justo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los toros de Basán eran los más grandes y feroces del mundo antiguo; el Salmo 22 los usa como imagen de los enemigos del justo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Los Padres de la Iglesia interpretaron los 'toros de Basán' del Salmo 22 como prefiguración de los perseguidores de Cristo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los Padres de la Iglesia interpretaron los 'toros de Basán' del Salmo 22 como prefiguración de los perseguidores de Cristo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

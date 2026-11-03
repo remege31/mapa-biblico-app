@@ -1,0 +1,145 @@
+{
+  "id": "paran",
+  "nombre": "Desierto de Parán",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 29.15,
+  "lng": 33.54,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Vasto desierto al sur de Canaán y al norte del Sinaí; escenario del peregrinaje de Agar e Ismael y de los espías de Moisés.",
+  "altitud_m": 500,
+  "clima": "árido",
+  "recursos": [
+    "pastoreo",
+    "caza"
+  ],
+  "importancia_estrategica": "Territorio de tránsito entre Sinaí y Canaán; hogar de Ismael y ruta del peregrinaje israelita.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "par_h1",
+      "titulo": "Agar e Ismael en el desierto de Parán",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Expulsada por Sara, Agar vaga por el desierto de Beerseba y el Parán; Ismael se establece allí y Agar le busca esposa de Egipto.",
+      "referencias": [
+        "Gn 21:14-21"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "Ismael"
+      ]
+    },
+    {
+      "id": "par_h2",
+      "titulo": "El campamento de Israel en Parán",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Los israelitas acampan en el desierto de Parán antes de enviar los espías; allí reciben el informe negativo.",
+      "referencias": [
+        "Nm 12:16",
+        "Nm 13:3"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "par_h3",
+      "titulo": "David en el desierto de Parán",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Cuando muere Samuel, David baja al desierto de Parán donde vive Nabal el hombre rico.",
+      "referencias": [
+        "1 Sam 25:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Nabal"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "par_p1",
+      "nombre": "Ismael",
+      "rol": "Padre de los árabes",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Se estableció en el desierto de Parán; Dios oyó su llanto y le prometió hacerlo gran nación.",
+      "referencias": [
+        "Gn 21:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p2",
+      "nombre": "Agar",
+      "rol": "Madre de Ismael",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Encontró el ángel del Señor en el desierto; Dios oyó el clamor de su hijo en Parán.",
+      "referencias": [
+        "Gn 21:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p3",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Envió los doce espías desde el desierto de Parán para reconocer Canaán.",
+      "referencias": [
+        "Nm 13:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Desierto de Parán: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "par_m1",
+        "nombre": "El Dios que oye en el desierto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 21:17",
+          "fuente_secundaria": "",
+          "descripcion": "Dios oyó el clamor de Ismael en el desierto de Parán (Gn 21:17); el desierto es el lugar donde Dios escucha al que nadie más oye.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dios oyó el clamor de Ismael en el desierto de Parán (Gn 21:17); el desierto es el lugar donde Dios escucha al que nadie más oye.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 2:125",
+          "fuente_secundaria": "",
+          "descripcion": "El Corán narra cómo Dios oyó a Ismael (Ismail) en el desierto y le prometió hacerlo padre de una gran nación (Cor 2:125).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Corán narra cómo Dios oyó a Ismael (Ismail) en el desierto y le prometió hacerlo padre de una gran nación (Cor 2:125).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

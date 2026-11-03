@@ -1,0 +1,137 @@
+{
+  "id": "teman",
+  "nombre": "Temán",
+  "tipo": "territorio",
+  "lat": 30.2,
+  "lng": 35.73,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Ciudad o región del norte de Edom, famosa por sus sabios. En los oráculos de los profetas es sinónimo de Edom.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Capital espiritual de Edom; sede de la sabiduría edomita citada en los profetas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tem_h1",
+      "titulo": "Elifaz el temanita: amigo de Job",
+      "fecha": "ca. s. X a.C.",
+      "descripcion": "Elifaz el temanita es el más importante de los tres amigos que visitan a Job; viene de la sabia Temán.",
+      "referencias": [
+        "Job 2:11",
+        "Job 4:1"
+      ],
+      "personajes_clave": [
+        "Elifaz",
+        "Job"
+      ]
+    },
+    {
+      "id": "tem_h2",
+      "titulo": "Los profetas contra Temán",
+      "fecha": "ca. 600-590 a.C.",
+      "descripcion": "Jeremías, Ezequiel y Abdías profetizaron contra Temán como símbolo de Edom: su sabiduría y su orgullo serán destruidos.",
+      "referencias": [
+        "Jer 49:7",
+        "Ez 25:13",
+        "Abd 1:9"
+      ],
+      "personajes_clave": [
+        "Jeremías",
+        "Abdías"
+      ]
+    },
+    {
+      "id": "tem_h3",
+      "titulo": "Habacuc: Dios viene de Temán",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "El profeta Habacuc describe la teofanía de Dios marchando desde Temán y el Monte Parán con una gloria que cubre los cielos.",
+      "referencias": [
+        "Hab 3:3"
+      ],
+      "personajes_clave": [
+        "Habacuc"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tem_p1",
+      "nombre": "Elifaz el temanita",
+      "rol": "Amigo de Job",
+      "periodo": "ca. s. X a.C.",
+      "descripcion": "El más sabio de los amigos de Job; su teología correcta pero inaplicable es corregida por Dios al final.",
+      "referencias": [
+        "Job 2:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tem_p2",
+      "nombre": "Habacuc",
+      "rol": "Profeta",
+      "periodo": "ca. 600 a.C.",
+      "descripcion": "Describió a Dios marchando desde Temán como imagen de su poder irresistible.",
+      "referencias": [
+        "Hab 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tem_p3",
+      "nombre": "Jeremías",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Preguntó sarcásticamente: '¿Ya no hay sabiduría en Temán?' al profetizar contra Edom.",
+      "referencias": [
+        "Jer 49:7"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Temán: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tem_m1",
+        "nombre": "La sabiduría de Temán",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 49:7",
+          "fuente_secundaria": "",
+          "descripcion": "Temán era famosa por sus sabios (Jer 49:7); Elifaz el temanita representa la mejor sabiduría humana que aun así falla ante el misterio del sufrimiento de Job.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Temán era famosa por sus sabios (Jer 49:7); Elifaz el temanita representa la mejor sabiduría humana que aun así falla ante el misterio del sufrimiento de Job.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

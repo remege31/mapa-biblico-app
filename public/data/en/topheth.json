@@ -1,0 +1,142 @@
+{
+  "id": "topheth",
+  "nombre": "Tophet",
+  "tipo": "ciudad",
+  "lat": 31.77,
+  "lng": 35.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -800,
+      "hasta": -586,
+      "nombre": "Iron II"
+    }
+  ],
+  "descripcion_geo": "Place in the Valley of Hinnom, south of Jerusalem, where child sacrifices were made to Molech.",
+  "altitud_m": 620,
+  "clima": "Mediterranean",
+  "recursos": [
+    "clay"
+  ],
+  "importancia_estrategica": "Abominable pagan place of worship that prophets identified as a symbol of divine punishment.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tof_h1",
+      "titulo": "Kings sacrifice their children at Topheth",
+      "fecha": "ca. 735-695 BC",
+      "descripcion": "Kings Ahaz and Manasseh put their sons through the fire in the Valley of Hinnom.",
+      "referencias": [
+        "2 Kgs 16:3",
+        "2 Kgs 21:6",
+        "2 Chr 28:3"
+      ],
+      "personajes_clave": [
+        "Acaz",
+        "Manasés"
+      ]
+    },
+    {
+      "id": "tof_h2",
+      "titulo": "Josiah profanes Topheth",
+      "fecha": "ca. 621 BC",
+      "descripcion": "In his reform, Josiah desecrates the Tophet of the Valley of Hinnom so that no one can sacrifice their children there again.",
+      "referencias": [
+        "2 Kgs 23:10"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "tof_h3",
+      "titulo": "Jeremiah: the valley of slaughter",
+      "fecha": "ca. 600 BC",
+      "descripcion": "Jeremiah prophesies that Topheth will be called 'Valley of Slaughter' because of the imminent punishment on Jerusalem.",
+      "referencias": [
+        "Jer 7:30-34",
+        "Jer 19:6"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tof_p1",
+      "nombre": "Josiah",
+      "rol": "reformer king",
+      "periodo": "640-609 BC",
+      "descripcion": "He destroyed places of pagan worship, including Topheth, in his great religious reform.",
+      "referencias": [
+        "2 Kgs 23:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p2",
+      "nombre": "Jeremiah",
+      "rol": "Prophet",
+      "periodo": "ca. 627-586 BC",
+      "descripcion": "He used the figure of Tophet to announce the judgment on Jerusalem.",
+      "referencias": [
+        "Jer 7:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p3",
+      "nombre": "Manasseh",
+      "rol": "Idolatrous king by Judah",
+      "periodo": "697-642 BC",
+      "descripcion": "He made his sons pass through the fire at Topheth; His reign is the most condemned by the prophets.",
+      "referencias": [
+        "2 Kgs 21:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Place of religious horror; symbol of Israel apostasy. His name derived from 'Gehenna' (Gehinnom), used in the NT as an image of hell.",
+    "religiones_presentes": [
+      "paganism_Canaanite",
+      "moloch_worship"
+    ],
+    "mitos": [
+      {
+        "id": "tof_m1",
+        "nombre": "Gehenna: Hell of the NT",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Topheth in the Valley of Hinnom (Ge-Hinnom) was the place of sacrifices by fire; It became a burning garbage dump.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Topheth in the Valley of Hinnom (Ge-Hinnom) was the place of sacrifices by fire; It became a burning garbage dump.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 5:22",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus uses 'Gehenna' (Gehinnom) 11 times in the gospels as an image of eternal punishment (Mt 5:22,29,30).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus uses 'Gehenna' (Gehinnom) 11 times in the gospels as an image of eternal punishment (Mt 5:22,29,30).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

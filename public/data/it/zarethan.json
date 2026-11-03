@@ -1,0 +1,161 @@
+{
+  "id": "zarethan",
+  "nombre": "Saretano",
+  "tipo": "ciudad",
+  "lat": 32.267821,
+  "lng": 35.576613,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Jordan Crossing, fonderia Salomone"
+    }
+  ],
+  "descripcion_geo": "Cittadina prossima al fiume Giordano, nella regione dove le acque si fermarono miracolosamente durante la traversata di Israele verso la terra promessa, e secoli dopo, sito identificato con l'area di fusione degli oggetti in bronzo del Tempio di Salomone per l'argilla compatta del suo terreno.",
+  "altitud_m": -250,
+  "clima": "Valle del Giordano Mediterraneo: estati molto calde e secche, inverni miti, tipici della Valle del Giordano centrale.",
+  "recursos": [
+    "Terreno argilloso adatto alla fusione dei metalli",
+    "Posizione vicino al Giordano, punto di riferimento della traversata miracolosa"
+  ],
+  "importancia_estrategica": "Zaretan segna il punto in cui le acque del Giordano si fermano durante il miracoloso attraversamento di Israele sotto Giosuè, e secoli dopo diventa il centro industriale dove Salomone fonde i grandi oggetti in bronzo del Tempio, sfruttando le caratteristiche specifiche del terreno argilloso della regione per gli stampi di fusione.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_zarethan",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Città che attraversa il Giordano nei pressi di Zaretan mentre le acque si fermano miracolosamente, consentendo il passaggio asciutto verso la terra promessa.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200 a.C. (narrativa)"
+    },
+    {
+      "id": "fundidores_salomon_zarethan",
+      "nombre": "Gli artigiani di Hiram di Tiro",
+      "descripcion": "Gli addetti alla fusione del bronzo, guidati dall'artigiano Hiram (omonimo del re di Tiro), utilizzano il terreno argilloso di Zarethan per fondere i grandi oggetti di bronzo del Tempio di Salomone.",
+      "religion": "Politeismo fenicio (artigiano) e Yahvismo (progetto)",
+      "periodo": "C. 960 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cruce-jordan-zarethan",
+      "titulo": "Le acque del Giordano si fermano a Zaretan",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Quando i sacerdoti che trasportano l'Arca dell'Alleanza toccano le acque del Giordano, si fermano e si radunano \"molto lontano in Adamo, una città vicino a Zarethan\", permettendo a tutti gli Israele di attraversare l'asciutto verso Gerico e la terra promessa.",
+      "referencias": [
+        "Gs 3:14-17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "fundicion-bronce-salomon-zarethan",
+      "titulo": "Salomone fonde gli oggetti in bronzo provenienti dal Tempio di Zaretan",
+      "fecha": "c. 960 a.C.",
+      "descripcion": "Hiram, un artigiano del bronzo inviato dal re di Tiro, fonde le colonne Jachin e Boaz, il mare di bronzo e altri grandi oggetti del Tempio nella pianura del Giordano, nel terreno argilloso tra Succoth e Zarethan, sfruttando le caratteristiche specifiche del terreno per stampi di fusione di grandi dimensioni.",
+      "referencias": [
+        "1 Re 7:45-46"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "elias-jordan-zarethan-contexto",
+      "titulo": "Zaretan come riferimento geografico della Valle del Giordano",
+      "fecha": "Diversos períodos",
+      "descripcion": "Zaretan funziona ripetutamente nel testo biblico come punto di riferimento geografico stabile per localizzare altri eventi e luoghi lungo il corso del fiume Giordano, confermando la sua persistenza come località riconosciuta per diversi secoli.",
+      "referencias": [
+        "Gdc 7:22"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_zarethan",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader della conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida la miracolosa traversata del Giordano vicino a Zarethan, segnando l'inizio formale dell'ingresso di Israele nella terra promessa.",
+      "referencias": [
+        "Gs 3:1-17"
+      ],
+      "ruta": [
+        "shittim",
+        "zarethan",
+        "jericho"
+      ]
+    },
+    {
+      "id": "salomon_zarethan",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore del Tempio",
+      "periodo": "hierro_2",
+      "descripcion": "Ordina la fusione dei grandi oggetti in bronzo del Tempio nella regione zaretana, sfruttando le proprietà specifiche del terreno argilloso locale per quest'opera di ingegneria metallurgica su larga scala.",
+      "referencias": [
+        "1 Re 7:45-47"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "hiram_artesano_zarethan",
+      "nombre": "Hiram, artigiano del bronzo",
+      "rol": "Fondatore Master inviato da Tiro",
+      "periodo": "c. 960 a.C.",
+      "descripcion": "Dirige tecnicamente la fusione degli oggetti in bronzo del Tempio nella regione di Saretan, applicando la sua esperienza fenicia nella metallurgia al servizio del progetto di costruzione Salomone.",
+      "referencias": [
+        "1 Re 7:13-14",
+        "1 Re 7:45-46"
+      ],
+      "ruta": [
+        "zarethan"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zaretan collega due momenti fondativi separati da secoli nella storia religiosa di Israele: il miracoloso attraversamento del Giordano che segna l'inizio del possesso della terra promessa sotto Giosuè, e la fusione degli elementi centrali del culto del Tempio sotto Salomone, suggerendo una continuità simbolica tra il momento dell'ingresso nella terra e il momento della piena consacrazione del culto centralizzato in Gerusalemme.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo fenicio (artigiani specializzati)"
+    ],
+    "mitos": [
+      {
+        "id": "aguas-detenidas-zarethan",
+        "nombre": "Le acque del Giordano si fermarono presso Zaretan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 3:14-17",
+          "fuente_secundaria": "Comentario rabínico tradicional que compara el cruce del Jordán con el cruce del Mar Rojo como segundo gran milagro acuático fundacional de la historia de Israel",
+          "descripcion": "La tradizione ebraica collega esplicitamente il miracolo dell'attraversamento del Giordano presso Zarethan con il precedente dell'attraversamento del Mar Rosso nell'esodo, interpretando entrambi gli eventi come manifestazioni parallele della potenza di YHWH di aprire la strada al suo popolo nei momenti di transizione più decisivi della sua storia: l'uscita dalla schiavitù e l'ingresso nella terra promessa.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento del parallelismo tipologico tra i due attraversamenti acquatici.",
+          "diferencias": null,
+          "significado_teologico": "L'attraversamento del Giordano conferma che lo stesso potere divino che ha liberato Israele da Egitto lo porta ora nel definitivo possesso della terra promessa.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gs 3:14-17 (recepción tipológica patrística sobre el cruce del Jordán como figura bautismal)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan el cruce del Jordán con el bautismo cristiano como paso simbólico hacia una nueva existencia",
+          "descripcion": "La tradizione cristiana legge tipologicamente l'attraversamento del Giordano come prefigurazione del battesimo cristiano, interpretando il passaggio delle acque come simbolo del passaggio dall'antica esistenza (il deserto) alla nuova vita nell'eredità promessa, parallelo rafforzato dal fatto che lo stesso Gesù viene battezzato nello stesso fiume.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento dell'attraversamento del Giordano come momento di transizione fondativa.",
+          "diferencias": "La lettura cristiana aggiunge una dimensione tipologica sacramentale (il battesimo) assente nella tradizionale interpretazione ebraica dell'episodio.",
+          "significado_teologico": "L'attraversamento del Giordano diventa una figura veterotestamentaria del battesimo cristiano come passo verso una nuova esistenza spirituale.",
+          "posible_relacion_cultural": "Ricezione cristiana del racconto dell'Esodo e della conquista riletta tipologicamente in chiave sacramentale."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

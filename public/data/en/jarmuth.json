@@ -1,0 +1,151 @@
+{
+  "id": "jarmuth",
+  "nombre": "Jarmut",
+  "tipo": "ciudad",
+  "lat": 31.70926894307416,
+  "lng": 34.96995387025439,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Amorite coalition city, assigned to Judah"
+    }
+  ],
+  "descripcion_geo": "Canaanite city-state in Shephelah, close to the Valley of Elah and Azekah, governed by a local king who was a member of the coalition of five kings Amorites facing Joshua after Gibeon's pact with Israel.",
+  "altitud_m": 395,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah.",
+  "recursos": [
+    "Agricultural lands of the Shephelah",
+    "Elevated control position over local routes"
+  ],
+  "importancia_estrategica": "Jarmut was part of the coalition of southern Amorite city-states of Canaan led by the king of Jerusalem; After its defeat, the city is assigned to the territory of Judah, integrating into the network of towns in the western Shephelah under Israelite control.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_jarmut",
+      "nombre": "Canaanites Amorites",
+      "descripcion": "Town ruled by Piram, king of Jarmut, member of the coalition of five Amorites kings defeated by Joshua in the southern campaign.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "judaitas_jarmut",
+      "nombre": "Tribe by Judah",
+      "descripcion": "After the conquest, Jarmut is assigned to the territory of Judah within the division of Western Shephelah.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rey-jarmut-coalicion",
+      "titulo": "Piram, king of Jarmut, joins the coalition against Gibeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Piram, king of Jarmut, joins Adoni-sedec of Jerusalem and the kings of Hebron, Lachish, and Eglon to attack Gibeon in retaliation for his alliance with Israel, forming part of the coalition of five Amorites kings that Joshua will defeat.",
+      "referencias": [
+        "Josh 10:3-5"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-rey-jarmut",
+      "titulo": "Execution of the king of Jarmut in the cave of Maquedá",
+      "fecha": "c. 1200 BC",
+      "descripcion": "After the defeat of the coalition, Piram, king of Jarmut, is executed along with the other four Amorites kings sheltered in the cave of Makkedah, completing the trial of the coalition that had attacked Gibeon.",
+      "referencias": [
+        "Josh 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jarmut-asignacion-juda",
+      "titulo": "Jarmut in Judah list of cities",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Jarmut appears registered in the list of cities of the Shephelah assigned to the territory of the Judah tribe after the conquest, confirming its definitive integration into Israelite territory.",
+      "referencias": [
+        "Josh 15:35"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "piram_rey_jarmut",
+      "nombre": "Piram, king of Jarmut",
+      "rol": "Amorite king of Jarmut, member of the southern coalition",
+      "periodo": "bronce_tardio",
+      "descripcion": "Joins the coalition of five Amorites kings against Gibeon; Defeated in battle, he was executed in the cave of Maquedá along with the other coalition kings.",
+      "referencias": [
+        "Josh 10:3",
+        "Josh 10:23-26"
+      ],
+      "ruta": [
+        "jarmuth",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "josue_jarmut",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the defeat of the coalition of five kings that included Jarmut, consolidating Israelite control over western Shephelah.",
+      "referencias": [
+        "Josh 10:1-27"
+      ],
+      "ruta": [
+        "gibeon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "habitantes_jarmut",
+      "nombre": "Inhabitants of Jarmut",
+      "rol": "Population of the Canaanite city-state",
+      "periodo": "Anterior a c. 1200 BC",
+      "descripcion": "Local population later integrated into the territory of Judah after the defeat of its king in the coalition against Gibeon.",
+      "referencias": [
+        "Josh 15:35"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jarmut is part of the same theological episode as Eglon, Makkedah and the other cities of the coalition of five kings: the narrative of conquest presented by Deuteronomist theology as direct divine judgment against the Canaanites peoples who oppose the pact between Israel and Gibeon, executed through Israelite military victory assisted by natural wonders attributed to YHWH.",
+    "religiones_presentes": [
+      "Yahwism (biblical story perspective)",
+      "Canaanite-Amorite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "coalicion-cinco-reyes-jarmut",
+        "nombre": "Jarmut in the coalition of the five kings Amorites",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 10:3-27",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la solidaridad cananea contra Gabaón como ejemplo de la oposición unida de los pueblos de la tierra al pacto entre Israel y sus aliados",
+          "descripcion": "Jewish tradition notes that the coalition of the five kings, including that of Jarmut, exemplifies how Gibeon's alliance with Israel triggered a unified response from neighboring Canaanites kingdoms, interpreting the defeat of this coalition as confirmation that no protective pact under the aegis of Israel is left without divine backing.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The coalition's defeat confirms that divine protection also extends to those, like the Gibeonites, who embrace the pact with Israel, even through questionable means.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

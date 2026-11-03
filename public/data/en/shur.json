@@ -1,0 +1,135 @@
+{
+  "id": "shur",
+  "nombre": "Shur Desert",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.24,
+  "lng": 33.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Desert northwest of Sinai, between Egypt and Canaan. Israel's first stop after crossing the Red Sea; land of Hagar.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "First stage of the post-Exodus pilgrimage; transit zone between Egypt and Canaan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "shu_h1",
+      "titulo": "Hagar flees to Shur",
+      "fecha": "ca. 1900-1800 BC",
+      "descripcion": "Hagar, fleeing from Sarah, is found by the angel of the Lord next to a spring on the road to Shur.",
+      "referencias": [
+        "Gen 16:7-14"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "ángel del Señor"
+      ]
+    },
+    {
+      "id": "shu_h2",
+      "titulo": "Israel crosses the Shur desert after the Red Sea",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Moses leads Israel from the Red Sea to the Shur Desert; They walk three days without water until they reach Mara.",
+      "referencias": [
+        "Exod 15:22"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "shu_h3",
+      "titulo": "Abraham and the patriarchs in Shur",
+      "fecha": "ca. 1900 BC",
+      "descripcion": "Abraham dwelt between Kadesh and Shur; Ishmaelites and Amalekites inhabited the region of Shur.",
+      "referencias": [
+        "Gen 20:1",
+        "Gen 25:18"
+      ],
+      "personajes_clave": [
+        "Abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "shu_p1",
+      "nombre": "Agar",
+      "rol": "Mother of Ishmael",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "The angel of the Lord met her at the spring on the road to Shur and announced the birth of Ishmael.",
+      "referencias": [
+        "Gen 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p2",
+      "nombre": "Moses",
+      "rol": "Liberator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He led Israel through the Shur Desert as the first leg of the road to Sinai.",
+      "referencias": [
+        "Exod 15:22"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p3",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "He dwelt between Kadesh and Shur; area of ​​his pastoral adventures.",
+      "referencias": [
+        "Gen 20:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shur Desert: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "shu_m1",
+        "nombre": "The angel at the well in Shur",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 16:7",
+          "fuente_secundaria": "",
+          "descripcion": "The angel of the Lord found Hagar fleeing by a spring on the way to Shur (Gen 16:7): the God who sees and hears in the desert.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The angel of the Lord found Hagar fleeing by a spring on the way to Shur (Gen 16:7): the God who sees and hears in the desert.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

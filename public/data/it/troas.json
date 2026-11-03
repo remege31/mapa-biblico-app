@@ -1,0 +1,151 @@
+{
+  "id": "troas",
+  "nombre": "Troas",
+  "tipo": "ciudad",
+  "lat": 39.7553,
+  "lng": 26.0889,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Porto sulla costa nordoccidentale dell'Asia Minore, vicino al sito dell'antica Troia.",
+  "altitud_m": 30,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "legna"
+  ],
+  "importancia_estrategica": "Porta d'accesso all'Europa dall'Asia; Punto di passaggio dell'Egeo.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tro_h1",
+        "titulo": "La visione macedone",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo ha la visione di un macedone che chiede aiuto; attraversa l'Europa.",
+        "referencias": [
+          "At 16:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "tro_h2",
+        "titulo": "Resurrezione di Eutico",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Eutychus cade addormentato dal terzo piano durante il sermone di Paolo e risorge.",
+        "referencias": [
+          "At 20:7-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Eutico"
+        ]
+      },
+      {
+        "id": "tro_h3",
+        "titulo": "Paolo attende i suoi compagni a Troas",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo attende a Tróas per sette giorni predicando e celebrando la frazione del pane.",
+        "referencias": [
+          "At 20:6-7"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tro_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Missionario",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "A Troade ricevette la visione che cambiò la direzione del Vangelo verso l'Europa.",
+        "referencias": [
+          "At 16:8"
+        ],
+        "ruta": [
+          "troas",
+          "philippi",
+          "corinth"
+        ]
+      },
+      {
+        "id": "tro_p2",
+        "nombre": "Luca",
+        "rol": "Dottore ed evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Iscritto a Paolo a Troad; narratore del \"noi\" negli Atti.",
+        "referencias": [
+          "At 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tro_p3",
+        "nombre": "Eutico",
+        "rol": "giovane risorto",
+        "periodo": "s. I d.C.",
+        "descripcion": "Si addormentò e morì cadendo; è stato resuscitato da Paolo.",
+        "referencias": [
+          "At 20:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Porto ellenistico con eredità troiana; punto di svolta geografico e spirituale in cui il Vangelo ha attraversato l’Europa.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tro_m1",
+          "nombre": "La visione macedone",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "A Tróas Paolo riceve la chiamata divina a portare il Vangelo in Europa, momento cruciale della storia cristiana.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "A Tróas Paolo riceve la chiamata divina a portare il Vangelo in Europa, momento cruciale della storia cristiana.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "brook_of_egypt",
+  "nombre": "Flusso Egitto (Nahal Mitzraim)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.03,
+  "lng": 33.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Wadi stagionale (wadi) nel nord Sinai che segnava il confine meridionale della terra promessa tra Canaan e Egitto.",
+  "altitud_m": 0,
+  "clima": "arido",
+  "recursos": [
+    "acqua stagionale",
+    "pascolo"
+  ],
+  "importancia_estrategica": "Confine meridionale della terra promessa; confine tra Israele e Egitto da Giosuè ai profeti.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bro_h1",
+      "titulo": "Il flusso Egitto come confine meridionale",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dio fissa il flusso di Egitto come confine meridionale della terra promessa a Abramo e Israele.",
+      "referencias": [
+        "Gen 15:18",
+        "Nm 34:5"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "bro_h2",
+      "titulo": "Il confine del regno di Salomone",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "Il regno di Salomone si estendeva dal flusso di Egitto all'Eufrate, mantenendo la promessa fatta a Abramo.",
+      "referencias": [
+        "1 Re 8:65",
+        "2 Cr 7:8"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "bro_h3",
+      "titulo": "Giosia e il ruscello di Egitto",
+      "fecha": "609 a.C.",
+      "descripcion": "La riforma di Josiah si estese al torrente Egitto, che era il confine meridionale di ciò che restava di Israele.",
+      "referencias": [
+        "2 Cr 35:20"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bro_p1",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Ha ricevuto l'indicazione del flusso Egitto come confine meridionale dell'eredità Israele.",
+      "referencias": [
+        "Nm 34:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p2",
+      "nombre": "Salomone",
+      "rol": "Re di Israele",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Il suo regno raggiungeva il torrente Egitto come confine meridionale, il massimo territoriale di Israele.",
+      "referencias": [
+        "1 Re 8:65"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p3",
+      "nombre": "Giosia",
+      "rol": "re riformatore",
+      "periodo": "640-609 a.C.",
+      "descripcion": "La sua riforma ha raggiunto il flusso Egitto.",
+      "referencias": [
+        "2 Cr 35:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Torrente Egitto (Nahal Mitzraim): regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bro_m1",
+        "nombre": "La frontiera promessa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 15,18",
+          "fuente_secundaria": "",
+          "descripcion": "Il ruscello di Egitto è il confine meridionale della terra promessa a Abramo (Gen 15,18); L'estensione massima del regno di Salomone ha raggiunto tale limite.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il ruscello di Egitto è il confine meridionale della terra promessa a Abramo (Gen 15,18); L'estensione massima del regno di Salomone ha raggiunto tale limite.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

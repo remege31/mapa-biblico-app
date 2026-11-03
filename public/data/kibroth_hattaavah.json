@@ -1,0 +1,135 @@
+{
+  "id": "kibroth_hattaavah",
+  "nombre": "Kibrot-hataavá",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Campamento del desierto cuyo nombre significa 'sepulcros del deseo/codicia'; lugar donde Israel fue castigado por codiciar carne.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Campamento del desierto: los sepulcros de los que desearon carne.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kib_h1",
+      "titulo": "El pueblo codicia carne en Kibrot-hataavá",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Israel llora pidiendo carne; Dios envía codornices en abundancia pero hiere al pueblo con gran plaga mientras la carne aún estaba entre sus dientes.",
+      "referencias": [
+        "Nm 11:4-35"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    },
+    {
+      "id": "kib_h2",
+      "titulo": "El Espíritu sobre los setenta ancianos en Kibrot-hataavá",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "En el mismo campamento, Dios extiende el Espíritu que estaba sobre Moisés sobre los setenta ancianos; Eldad y Medad profetizan.",
+      "referencias": [
+        "Nm 11:24-30"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Eldad",
+        "Medad"
+      ]
+    },
+    {
+      "id": "kib_h3",
+      "titulo": "El nombre como memorial del pecado",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "El lugar fue llamado Kibrot-hataavá ('sepulcros del deseo') porque allí sepultaron a los que habían codiciado.",
+      "referencias": [
+        "Nm 11:34"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kib_p1",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Intercedió por el pueblo agotado de la carga y recibió la promesa de los setenta ancianos del Espíritu.",
+      "referencias": [
+        "Nm 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p2",
+      "nombre": "Josué",
+      "rol": "Ayudante de Moisés",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Pidió a Moisés que hiciera callar a Eldad y Medad; Moisés respondió: '¡Ojalá todo el pueblo de Dios profetizara!'.",
+      "referencias": [
+        "Nm 11:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p3",
+      "nombre": "Eldad y Medad",
+      "rol": "Profetas del campamento",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Profetizaron en el campamento aunque no se habían acercado a la tienda; recibieron el Espíritu igual que los setenta.",
+      "referencias": [
+        "Nm 11:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kibrot-hataavá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "kib_m1",
+        "nombre": "Los sepulcros del deseo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Kibrot-hataavá memorializa el peligro de la codicia: Israel recibió lo que pedía pero pagó un alto precio; el deseo descontrolado lleva a la muerte.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Kibrot-hataavá memorializa el peligro de la codicia: Israel recibió lo que pedía pero pagó un alto precio; el deseo descontrolado lleva a la muerte.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

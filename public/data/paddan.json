@@ -1,0 +1,141 @@
+{
+  "id": "paddan",
+  "nombre": "Padán (Aram-Naharaim)",
+  "tipo": "territorio",
+  "lat": 36.86,
+  "lng": 39.03,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 19,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Región en el norte de Mesopotamia (actual Siria nororiental / Turquía). Hogar de la familia de Abraham; allí Isaac y Jacob tomaron esposas.",
+  "altitud_m": 400,
+  "clima": "continental-árido",
+  "recursos": [
+    "agricultura de secano",
+    "comercio",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Tierra de origen de los patriarcas; Jacob vivió allí veinte años con Labán.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pad_h1",
+      "titulo": "Jacob escapa de Padán a Canaán",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "Tras veinte años sirviendo a Labán en Padán, Jacob huye con sus esposas, hijos y rebaños hacia Canaán; Labán lo persigue pero Dios lo detiene.",
+      "referencias": [
+        "Gn 31"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Labán",
+        "Raquel",
+        "Lea"
+      ]
+    },
+    {
+      "id": "pad_h2",
+      "titulo": "Rebeca traída de Padán para Isaac",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "El siervo de Abraham viaja a Padán y encuentra a Rebeca en el pozo; la trae como esposa para Isaac.",
+      "referencias": [
+        "Gn 24"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Rebeca",
+        "Eliezer"
+      ]
+    },
+    {
+      "id": "pad_h3",
+      "titulo": "Los doce hijos de Jacob nacidos en Padán",
+      "fecha": "ca. 1760-1750 a.C.",
+      "descripcion": "Once de los doce hijos de Jacob (menos Benjamín) nacieron en Padán; allí se formaron las tribus de Israel.",
+      "referencias": [
+        "Gn 35:23-26"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Lea",
+        "Raquel",
+        "Bilha",
+        "Zilpá"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pad_p1",
+      "nombre": "Jacob",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Vivió veinte años en Padán sirviendo a Labán; allí se casó con Lea y Raquel.",
+      "referencias": [
+        "Gn 28:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p2",
+      "nombre": "Labán",
+      "rol": "Suegro arameo de Jacob",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Engañó a Jacob dándole primero a Lea en lugar de Raquel; después intentó retenerlo.",
+      "referencias": [
+        "Gn 29:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p3",
+      "nombre": "Rebeca",
+      "rol": "Matriarca, madre de Jacob",
+      "periodo": "ca. 1850-1770 a.C.",
+      "descripcion": "Natural de Padán; elegida como esposa de Isaac por el siervo de Abraham.",
+      "referencias": [
+        "Gn 24:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Padán (Aram-Naharaim): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "pad_m1",
+        "nombre": "Los doce patriarcas de Padán",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Once de los doce patriarcas nacieron en Padán-Aram; Jacob recibió allí el nombre Israel.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Once de los doce patriarcas nacieron en Padán-Aram; Jacob recibió allí el nombre Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

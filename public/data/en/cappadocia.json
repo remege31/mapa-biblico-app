@@ -1,0 +1,244 @@
+{
+  "id": "cappadocia",
+  "nombre": "Cappadocia",
+  "tipo": "territorio",
+  "lat": 38.64,
+  "lng": 35.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Mountainous region in central Asia Minor, famous for its rock formations. Peter wrote to the believers there.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cap_h1",
+      "titulo": "Cappadocians at Pentecost",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Among the pilgrims at Pentecost there are men from Cappadocia who hear the gospel.",
+      "referencias": [
+        "Acts 2:9"
+      ],
+      "personajes_clave": [
+        "capadocios"
+      ]
+    },
+    {
+      "id": "cap_h2",
+      "titulo": "Peter addresses his letter to the believers of Cappadocia",
+      "fecha": "ca. 64 AD",
+      "descripcion": "Peter writes to the chosen pilgrims scattered throughout Cappadocia among other provinces.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "cap_h3",
+      "titulo": "The great Cappadocians: theologians of the 20th century. IV",
+      "fecha": "ca. 329-394 AD",
+      "descripcion": "Basil the Great, Gregory of Nyssa and Gregory of Nazianzus, the 'three great Cappadocians', developed Trinitarian theology.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Basilio",
+        "Gregorio de Nisa",
+        "Gregorio de Nacianzo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cap_p1",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He addressed his first letter to the communities of Cappadocia.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p2",
+      "nombre": "Basil by Caesarea",
+      "rol": "Father of the Church",
+      "periodo": "329-379 AD",
+      "descripcion": "Great Cappadocian theologian who systematized the theology of the Holy Spirit.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p3",
+      "nombre": "Gregory of Nyssa",
+      "rol": "Theologian",
+      "periodo": "335-395 AD",
+      "descripcion": "He developed mystical theology; brother of Basilio and companion of Gregory of Nazianzus.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cappadocia: relevant region in the world of the NT.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "cap_m1",
+        "nombre": "The Cappadocians and the Trinity",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Cappadocian Fathers of the 4th century (Basil, Gregory of Nyssa, Gregory of Nazianzus) gave definitive form to the Trinitarian dogma that emerged at the Council of Nicaea.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Cappadocian Fathers of the 4th century (Basil, Gregory of Nyssa, Gregory of Nazianzus) gave definitive form to the Trinitarian dogma that emerged at the Council of Nicaea.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cap_h1",
+        "titulo": "Cappadocians at Pentecost",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Among the pilgrims at Pentecost there are men from Cappadocia who hear the gospel.",
+        "referencias": [
+          "Acts 2:9"
+        ],
+        "personajes_clave": [
+          "capadocios"
+        ]
+      },
+      {
+        "id": "cap_h2",
+        "titulo": "Peter addresses his letter to the believers of Cappadocia",
+        "fecha": "ca. 64 AD",
+        "descripcion": "Peter writes to the chosen pilgrims scattered throughout Cappadocia among other provinces.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "cap_h3",
+        "titulo": "The great Cappadocians: theologians of the 20th century. IV",
+        "fecha": "ca. 329-394 AD",
+        "descripcion": "Basil the Great, Gregory of Nyssa and Gregory of Nazianzus, the 'three great Cappadocians', developed Trinitarian theology.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Basilio",
+          "Gregorio de Nisa",
+          "Gregorio de Nacianzo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cap_p1",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He addressed his first letter to the communities of Cappadocia.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p2",
+        "nombre": "Basil by Caesarea",
+        "rol": "Father of the Church",
+        "periodo": "329-379 AD",
+        "descripcion": "Great Cappadocian theologian who systematized the theology of the Holy Spirit.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p3",
+        "nombre": "Gregory of Nyssa",
+        "rol": "Theologian",
+        "periodo": "335-395 AD",
+        "descripcion": "He developed mystical theology; brother of Basilio and companion of Gregory of Nazianzus.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cappadocia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "cap_m1",
+          "nombre": "The Cappadocians and the Trinity",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The Cappadocian Fathers of the 4th century (Basil, Gregory of Nyssa, Gregory of Nazianzus) gave definitive form to the Trinitarian dogma that emerged at the Council of Nicaea.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Cappadocian Fathers of the 4th century (Basil, Gregory of Nyssa, Gregory of Nazianzus) gave definitive form to the Trinitarian dogma that emerged at the Council of Nicaea.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

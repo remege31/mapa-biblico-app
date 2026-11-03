@@ -1,0 +1,244 @@
+{
+  "id": "mysia",
+  "nombre": "Misia",
+  "tipo": "territorio",
+  "lat": 40.11,
+  "lng": 28.57,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Northwest region of Asia Minor; includes Troas (Troas), where Paul had the vision of the Macedonian.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mys_h1",
+      "titulo": "Paul passes through Mysia and goes down to Troad",
+      "fecha": "ca. 50 AD",
+      "descripcion": "Crossing Mysia, Paul and his companions descend to Troad where they will receive the vision of the Macedonian.",
+      "referencias": [
+        "Acts 16:7-8"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "mys_h2",
+      "titulo": "Troad: port of Mysia and crossing to Europe",
+      "fecha": "ca. 50 AD",
+      "descripcion": "From Troad (a coastal city in Mysia), Paul sets sail for Macedonia in response to the night vision.",
+      "referencias": [
+        "Acts 16:8-11"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Lucas"
+      ]
+    },
+    {
+      "id": "mys_h3",
+      "titulo": "Paul meets with the disciples in Troad",
+      "fecha": "ca. 57 AD",
+      "descripcion": "On the third voyage, Paul spends a week in Troad of Mysia; There he resurrects Eutychus who fell asleep.",
+      "referencias": [
+        "Acts 20:6-12"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Eutico"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mys_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He passed through Mysia on his way to Troad and the vision of the Macedonian.",
+      "referencias": [
+        "Acts 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p2",
+      "nombre": "Luke",
+      "rol": "Evangelist",
+      "periodo": "s. I AD",
+      "descripcion": "Possibly joined Paul at Troad of Mysia; the 'we' of Acts begins here.",
+      "referencias": [
+        "Acts 16:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p3",
+      "nombre": "Eutychus",
+      "rol": "Young man of Troad",
+      "periodo": "s. I AD",
+      "descripcion": "He fell asleep at a window during Paul's long speech; Paul resurrected him.",
+      "referencias": [
+        "Acts 20:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mysia: relevant region in the world of the NT.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "mys_m1",
+        "nombre": "Troad: the crossing from Asia to Europe",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The vision of the Macedonian in Troad of Mysia was the decisive moment when the gospel jumped from Asia to Europe.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The vision of the Macedonian in Troad of Mysia was the decisive moment when the gospel jumped from Asia to Europe.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mys_h1",
+        "titulo": "Paul passes through Mysia and goes down to Troad",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Crossing Mysia, Paul and his companions descend to Troad where they will receive the vision of the Macedonian.",
+        "referencias": [
+          "Acts 16:7-8"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mys_h2",
+        "titulo": "Troad: port of Mysia and crossing to Europe",
+        "fecha": "ca. 50 AD",
+        "descripcion": "From Troad (a coastal city in Mysia), Paul sets sail for Macedonia in response to the night vision.",
+        "referencias": [
+          "Acts 16:8-11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "mys_h3",
+        "titulo": "Paul meets with the disciples in Troad",
+        "fecha": "ca. 57 AD",
+        "descripcion": "On the third voyage, Paul spends a week in Troad of Mysia; There he resurrects Eutychus who fell asleep.",
+        "referencias": [
+          "Acts 20:6-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Eutico"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mys_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He passed through Mysia on his way to Troad and the vision of the Macedonian.",
+        "referencias": [
+          "Acts 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p2",
+        "nombre": "Luke",
+        "rol": "Evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "Possibly joined Paul at Troad of Mysia; the 'we' of Acts begins here.",
+        "referencias": [
+          "Acts 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p3",
+        "nombre": "Eutychus",
+        "rol": "Young man of Troad",
+        "periodo": "s. I AD",
+        "descripcion": "He fell asleep at a window during Paul's long speech; Paul resurrected him.",
+        "referencias": [
+          "Acts 20:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Misia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "mys_m1",
+          "nombre": "Troad: the crossing from Asia to Europe",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The vision of the Macedonian in Troad of Mysia was the decisive moment when the gospel jumped from Asia to Europe.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The vision of the Macedonian in Troad of Mysia was the decisive moment when the gospel jumped from Asia to Europe.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

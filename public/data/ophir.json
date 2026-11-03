@@ -1,0 +1,138 @@
+{
+  "id": "ophir",
+  "nombre": "Ofir",
+  "tipo": "territorio",
+  "lat": 22.0,
+  "lng": 77.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Tierra misteriosa de origen del oro más puro en la Biblia; su identificación exacta es incierta (Arabia, India o África oriental).",
+  "altitud_m": 500,
+  "clima": "tropical",
+  "recursos": [
+    "oro",
+    "plata",
+    "madera preciosa",
+    "piedras preciosas",
+    "marfil"
+  ],
+  "importancia_estrategica": "Principal fuente del oro para el Templo de Salomón; símbolo de riqueza inigualable en el AT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ofi_h1",
+      "titulo": "Las flotas de Salomón van a Ofir",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "Salomón envía una flota desde Ezión-Geber con hombres de Hiram de Tiro; traen de Ofir cuatrocientos veinte talentos de oro.",
+      "referencias": [
+        "1 Re 9:26-28"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "ofi_h2",
+      "titulo": "El oro de Ofir para el Templo",
+      "fecha": "ca. 960 a.C.",
+      "descripcion": "David preparó de Ofir grandes cantidades del oro más puro para el Templo que construiría Salomón.",
+      "referencias": [
+        "1 Cr 29:4"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ofi_h3",
+      "titulo": "El oro de Ofir en los Salmos",
+      "fecha": "ca. 1000-400 a.C.",
+      "descripcion": "El Salmo 45 usa 'el oro de Ofir' como imagen de la joya más valiosa; Job lo usa como símbolo de lo incomparable.",
+      "referencias": [
+        "Sal 45:9",
+        "Job 28:16"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ofi_p1",
+      "nombre": "Salomón",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Organizó las expediciones marítimas que traían el oro de Ofir para el Templo y su palacio.",
+      "referencias": [
+        "1 Re 9:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p2",
+      "nombre": "Hiram de Tiro",
+      "rol": "Rey fenicio navegante",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Sus marineros guiaban las flotas de Salomón hasta Ofir.",
+      "referencias": [
+        "1 Re 9:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p3",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Reservó grandes cantidades de oro de Ofir para el Templo que no le fue dado construir.",
+      "referencias": [
+        "1 Cr 29:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ofir: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ofi_m1",
+        "nombre": "El oro de Ofir",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El 'oro de Ofir' es la calificación bíblica del oro más puro; su tierra de origen permanece misteriosa, símbolo de la riqueza insondable de Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El 'oro de Ofir' es la calificación bíblica del oro más puro; su tierra de origen permanece misteriosa, símbolo de la riqueza insondable de Dios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

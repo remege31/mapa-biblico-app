@@ -1,0 +1,264 @@
+{
+  "id": "hermon_mount",
+  "nombre": "Monte Hermón",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 33.42,
+  "lng": 35.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 28,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Bronce tardío - Romano"
+    }
+  ],
+  "descripcion_geo": "Cadena montañosa en la frontera norte de Israel con Siria y Líbano, con su punto más alto a 2.814 m. Cubierto de nieve gran parte del año.",
+  "altitud_m": 2814,
+  "clima": "alpino-mediterráneo",
+  "recursos": [
+    "nieve",
+    "agua",
+    "bosques de cedros"
+  ],
+  "importancia_estrategica": "Frontera norte de la tierra de Israel; sus aguas alimentan el Jordán y el lago de Galilea.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "her_h1",
+      "titulo": "El rocío del Hermón",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "El Salmo 133 describe la unidad fraternal como el rocío del Hermón que desciende sobre el monte Sión.",
+      "referencias": [
+        "Sal 133:3"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "her_h2",
+      "titulo": "La Transfiguración en el 'alto monte'",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "La tradición mayoritaria identifica el Hermón como 'el alto monte' donde Jesús fue transfigurado ante Pedro, Santiago y Juan.",
+      "referencias": [
+        "Mt 17:1",
+        "Mc 9:2"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    },
+    {
+      "id": "her_h3",
+      "titulo": "Sión y el Hermón claman por Dios",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "El Salmo 42 menciona la tierra del Jordán y las alturas del Hermón como lugar de lamento y esperanza en Dios.",
+      "referencias": [
+        "Sal 42:6"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "her_p1",
+      "nombre": "Jesús de Nazaret",
+      "rol": "Mesías transfigurado",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "Según la tradición, fue transfigurado en el Hermón; su rostro brilló como el sol.",
+      "referencias": [
+        "Mt 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p2",
+      "nombre": "Pedro",
+      "rol": "Apóstol testigo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Testigo ocular de la Transfiguración en el alto monte; evocó el evento en su segunda carta.",
+      "referencias": [
+        "2 Pe 1:16-18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p3",
+      "nombre": "Baal-hermón",
+      "rol": "Deidad cananea del lugar",
+      "periodo": "Época cananea",
+      "descripcion": "El Hermón era lugar de culto a Baal; su nombre primitivo 'Baal-Hermón' lo atestigua (Jue 3:3).",
+      "referencias": [
+        "Jue 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Montaña sagrada en el límite norte de Israel; lugar de culto cananeo (Baal-Hermón) y posible escenario de la Transfiguración de Jesús.",
+    "religiones_presentes": [
+      "paganismo_cananeo",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "her_m1",
+        "nombre": "El monte de los dioses",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El Hermón era 'el Sinaí del norte': lugar donde los dioses cananeos se reunían según la mitología ugarítica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Hermón era 'el Sinaí del norte': lugar donde los dioses cananeos se reunían según la mitología ugarítica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La Transfiguración en el alto monte revela la gloria divina de Jesús ante testigos seleccionados.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Transfiguración en el alto monte revela la gloria divina de Jesús ante testigos seleccionados.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "her_nt_h1",
+        "titulo": "La Transfiguración",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Jesús sube al alto monte (tradición = Hermón) con Pedro, Santiago y Juan; se transfigura y conversa con Moisés y Elías.",
+        "referencias": [
+          "Mt 17:1-8"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "her_nt_h2",
+        "titulo": "Pedro quiere construir tiendas",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Pedro, emocionado, propone construir tres tiendas; una nube los envuelve y la voz del Padre habla.",
+        "referencias": [
+          "Mt 17:4-5"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "her_nt_h3",
+        "titulo": "El descenso y la instrucción de silencio",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Jesús manda a los tres no contar la visión hasta que resucite de los muertos.",
+        "referencias": [
+          "Mt 17:9"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "her_nt_p1",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías glorificado",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Se transfiguró en el alto monte revelando su gloria divina.",
+        "referencias": [
+          "Mt 17:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p2",
+        "nombre": "Pedro",
+        "rol": "Apóstol testigo ocular",
+        "periodo": "s. I d.C.",
+        "descripcion": "Testigo de la Transfiguración; la evocó como fundamento de su testimonio apostólico.",
+        "referencias": [
+          "2 Pe 1:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p3",
+        "nombre": "Moisés y Elías",
+        "rol": "Representantes de la Ley y los Profetas",
+        "periodo": "s. I d.C.",
+        "descripcion": "Aparecieron en la Transfiguración como testigos de que Jesús cumple toda la revelación anterior.",
+        "referencias": [
+          "Mt 17:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "El Hermón como 'montaña sagrada' donde la gloria de Dios se manifestó en la Transfiguración.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "her_nt_m1",
+          "nombre": "La montaña de la gloria",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El Hermón/alto monte es el Sinaí del NT: donde Dios revela a su Hijo glorificado, cumpliendo la Ley y los Profetas.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El Hermón/alto monte es el Sinaí del NT: donde Dios revela a su Hijo glorificado, cumpliendo la Ley y los Profetas.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

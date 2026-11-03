@@ -1,0 +1,148 @@
+{
+  "id": "pirathon",
+  "nombre": "Pirate",
+  "tipo": "ciudad",
+  "lat": 32.286022,
+  "lng": 35.022944,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Home of Judge Abdon and Benaiah"
+    }
+  ],
+  "descripcion_geo": "City in the territory of Ephraim, in the Amalekite mountain region according to the biblical text, known mainly as the place of origin of two figures of some importance: Judge Abdon and, generations later, one of the elite warriors of David.",
+  "altitud_m": 500,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Ephraim hills.",
+  "recursos": [
+    "Agricultural land of the Ephraim mountain region",
+    "Quarry of notable leaders and warriors"
+  ],
+  "importancia_estrategica": "Piratón has no outstanding strategic relevance; Its narrative importance comes from being the home of Abdon, one of Israel's 'minor' judges whose numerous descendants are briefly described, and Benaiah, father of David's famous eponymous warrior, illustrating the pattern of minor localities contributing significant leaders to different periods of Israel history.",
+  "otros_habitantes": [
+    {
+      "id": "efrainitas_piraton",
+      "nombre": "Tribe of Ephraim",
+      "descripcion": "Population of Piratón, specifically described as residing in 'the mountainous region of the Amalekites', unusual geographical detail suggesting previous or nearby Amalekite presence in the area.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "familia_abdon_piraton",
+      "nombre": "Abdon's family",
+      "descripcion": "Judge Abdon's numerous descendants, described as forty children and thirty grandchildren who rode seventy donkeys, an indicator of prosperity and social status.",
+      "religion": "Yahwism",
+      "periodo": "c. 1080 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abdon-juez-piraton",
+      "titulo": "Abdón, judge of Israel originally from Piratón",
+      "fecha": "c. 1080 BC",
+      "descripcion": "Abdon son of Hillel the Piratonite judges Israel for eight years, briefly described by his numerous and prosperous offspring of forty children and thirty grandchildren, all riding on donkeys, before dying and being buried in his hometown.",
+      "referencias": [
+        "Judg 12:13-15"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "benaia-padre-piraton",
+      "titulo": "Benaiah the Piratonite among the brave men by David",
+      "fecha": "c. 1010–970 BC",
+      "descripcion": "Benaiah son of Pirhaton (different from Benaiah son of Jehoiada, main commander) is among the thirty brave men of David, originally from the region of Ephraim in Amalekite territory, integrated into the king's elite military circle.",
+      "referencias": [
+        "2 Sam 23:30",
+        "1 Chr 11:31"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "piraton-turno-mensual-cronicas",
+      "titulo": "Piratón in the organization of David military shifts",
+      "fecha": "c. 1000 BC",
+      "descripcion": "The chronicler includes a commander originally from Piratón among those responsible for the twelve monthly shifts of the army organized by David, confirming the continued integration of this minor town into the military structure of the United Kingdom.",
+      "referencias": [
+        "1 Chr 27:14"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abdon_piraton",
+      "nombre": "Abdon",
+      "rol": "Israel Judge",
+      "periodo": "Activo c. 1088–1080 BC",
+      "descripcion": "One of Israel's 'junior' judges, known primarily for his numerous and prosperous offspring, with no extensive narrative episodes associated with his period of leadership.",
+      "referencias": [
+        "Judg 12:13-15"
+      ],
+      "ruta": [
+        "pirathon"
+      ]
+    },
+    {
+      "id": "benaia_piratonita",
+      "nombre": "Benaiah the Piratonite",
+      "rol": "One of the thirty brave men of David",
+      "periodo": "c. 1010–970 BC",
+      "descripcion": "Warrior originally from Pirathon integrated into the elite military circle of David, different from the more famous Benaiah son of Joiada who commanded the royal guard.",
+      "referencias": [
+        "2 Sam 23:30",
+        "1 Chr 11:31"
+      ],
+      "ruta": [
+        "pirathon"
+      ]
+    },
+    {
+      "id": "hilel_piraton",
+      "nombre": "Hillel the pirate",
+      "rol": "Father of Judge Abdon",
+      "periodo": "c. 1100 BC",
+      "descripcion": "Identified only as Abdón's father, providing the patronymic that confirms the judge's family origin in Piratón.",
+      "referencias": [
+        "Judg 12:13",
+        "Judg 12:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Piratón lacks its own mythical or cultic development; Its biblical relevance is exclusively genealogical and biographical, as the place of origin of public service figures—a judge and an elite warrior—at different times in the history of Israel, exemplifying the recurring pattern of minor localities that, without their own narrative protagonism, consistently contribute trained leaders to the central institutions of the town.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "jueces-menores-piraton",
+        "nombre": "The 'lesser judges' like Abdon in the structure of the book of Judges",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 12:13-15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función de los llamados 'jueces menores' (que reciben mención breve sin relato de liberación militar extenso) dentro de la estructura general del libro de los Jueces",
+          "descripcion": "Jewish tradition observes that figures such as Abdon, mentioned briefly without the extensive narrative development of the great judge-liberators such as Gideon or Samson, equally fulfilled a legitimate function of leadership and administration of justice for Israel, remembering that not all valid leadership requires spectacular military exploits to be recognized as genuine service to the people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The inclusion of 'lesser' judges like Abdon in the biblical record affirms that faithful and consistent leadership, although not spectacular, has genuine value before God and deserves to be remembered in the sacred history of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "corinth",
+  "nombre": "Marrone",
+  "tipo": "ciudad",
+  "lat": 37.9063,
+  "lng": 22.8779,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Capitale della provincia romana dell'Acaia, situata sull'istmo che collega la Grecia con il Peloponneso.",
+  "altitud_m": 50,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "produzione",
+    "ceramica",
+    "bronzo"
+  ],
+  "importancia_estrategica": "La città più ricca della Grecia; due porti controllavano il commercio tra Oriente e Occidente.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cor_h1",
+        "titulo": "Paolo a Corinto: 18 mesi",
+        "fecha": "ca. 50-52 d.C.",
+        "descripcion": "Paolo vive e lavora come artigiano a Corinto; trovò una grande chiesa.",
+        "referencias": [
+          "At 18:1-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Priscila",
+          "Aquila",
+          "Crispo"
+        ]
+      },
+      {
+        "id": "cor_h2",
+        "titulo": "Incoraggiare la visione notturna",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Cristo incoraggia Paolo: 'Parla e non tacere, perché io sono con te.'",
+        "referencias": [
+          "At 18:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "cor_h3",
+        "titulo": "Le lettere ai Corinzi",
+        "fecha": "ca. 53-55 d.C.",
+        "descripcion": "Paolo scrive le sue due lettere più lunghe da Efeso, affrontando divisioni ed etica.",
+        "referencias": [
+          "1 Cor 1:1",
+          "2 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cor_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo e artigiano",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Trascorse 18 mesi a Corinto; ha scritto quattro lettere a questa comunità problematica.",
+        "referencias": [
+          "At 18:1"
+        ],
+        "ruta": [
+          "corinth",
+          "ephesus",
+          "rome"
+        ]
+      },
+      {
+        "id": "cor_p2",
+        "nombre": "Priscilla e l'Aquila",
+        "rol": "Artigiani e leader",
+        "periodo": "s. I d.C.",
+        "descripcion": "Coppia espulsa da Roma; co-fondatori della chiesa corinzia con Paolo.",
+        "referencias": [
+          "At 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cor_p3",
+        "nombre": "Crispo",
+        "rol": "Capo della sinagoga convertito",
+        "periodo": "s. I d.C.",
+        "descripcion": "Preside della sinagoga di Corinto che credette con tutta la sua famiglia.",
+        "referencias": [
+          "At 18:8"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città cosmopolita e viziosa con il culto di Afrodite; la chiesa rifletteva tutti i conflitti di una metropoli pagana.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "imperial_cult",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "cor_m1",
+          "nombre": "Afrodite e Corinto",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Il tempio di Afrodite sull'Acrocorinto dominava la città; Il loro culto con la prostituzione sacra contrastava con l'etica sessuale che Paolo insegnava ai Corinzi.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il tempio di Afrodite sull'Acrocorinto dominava la città; Il loro culto con la prostituzione sacra contrastava con l'etica sessuale che Paolo insegnava ai Corinzi.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

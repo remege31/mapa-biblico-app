@@ -1,0 +1,247 @@
+{
+  "id": "asia",
+  "nombre": "Asia (provincia romana)",
+  "tipo": "territorio",
+  "lat": 39.23,
+  "lng": 32.73,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana en la costa occidental de Asia Menor (actual Turquía). Capital: Éfeso. Centro del helenismo y el comercio mediterráneo.",
+  "altitud_m": 100,
+  "clima": "mediterráneo",
+  "recursos": [
+    "manufactura",
+    "comercio",
+    "mármol",
+    "agricultura"
+  ],
+  "importancia_estrategica": "La provincia más rica del Imperio Romano en Oriente; centro del culto imperial y de las siete iglesias del Apocalipsis.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi2_h1",
+      "titulo": "Pablo evangeliza toda la provincia de Asia",
+      "fecha": "ca. 54-57 d.C.",
+      "descripcion": "Desde Éfeso, Pablo enseña en la escuela de Tirano; todos los habitantes de Asia escuchan el evangelio.",
+      "referencias": [
+        "Hch 19:10"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "asi2_h2",
+      "titulo": "Las siete cartas a las iglesias de Asia",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "El Cristo glorioso dicta siete cartas a las iglesias de la provincia de Asia: Éfeso, Esmirna, Pérgamo, Tiatira, Sardis, Filadelfia y Laodicea.",
+      "referencias": [
+        "Ap 1:4",
+        "Ap 2-3"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    },
+    {
+      "id": "asi2_h3",
+      "titulo": "El motín de los plateros en Éfeso",
+      "fecha": "ca. 56 d.C.",
+      "descripcion": "El comercio del templo de Artemisa en Éfeso se ve amenazado por la predicación de Pablo; los artesanos se amotinan.",
+      "referencias": [
+        "Hch 19:23-41"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Demetrio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi2_p1",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Usó Éfeso como centro para evangelizar toda la provincia de Asia en dos años.",
+      "referencias": [
+        "Hch 19:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p2",
+      "nombre": "Juan el Apóstol",
+      "rol": "Profeta y obispo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Vivió en Éfeso; desde allí escribió el Apocalipsis con las cartas a las siete iglesias de Asia.",
+      "referencias": [
+        "Ap 1:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p3",
+      "nombre": "Priscila y Aquila",
+      "rol": "Líderes de la iglesia",
+      "periodo": "s. I d.C.",
+      "descripcion": "Pareja que lideró la iglesia en Éfeso y mentoreó a Apolos.",
+      "referencias": [
+        "Hch 18:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Crisol del helenismo, el culto imperial y el evangelio; las siete iglesias de la provincia de Asia son el primer receptor del Apocalipsis.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "culto_imperial",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "asi2_m1",
+        "nombre": "Las siete iglesias de Asia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "El Cristo glorioso dirige siete cartas a las iglesias de la provincia de Asia: modelo del juicio y la gracia sobre la Iglesia universal.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Cristo glorioso dirige siete cartas a las iglesias de la provincia de Asia: modelo del juicio y la gracia sobre la Iglesia universal.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "asi2_nt_h1",
+        "titulo": "Todo Asia escucha el evangelio",
+        "fecha": "ca. 54-57 d.C.",
+        "descripcion": "Pablo enseña dos años en Éfeso; los habitantes de toda la provincia de Asia escuchan la Palabra.",
+        "referencias": [
+          "Hch 19:10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "asi2_nt_h2",
+        "titulo": "Las siete iglesias del Apocalipsis",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Juan recibe en Patmos siete cartas para las iglesias de Asia: documentos únicos de la pastoral apostólica.",
+        "referencias": [
+          "Ap 2-3"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "asi2_nt_h3",
+        "titulo": "El motín de los plateros",
+        "fecha": "ca. 56 d.C.",
+        "descripcion": "El crecimiento del evangelio en Asia amenaza el negocio del templo de Artemisa; un motín en Éfeso sacude la provincia.",
+        "referencias": [
+          "Hch 19:23-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Demetrio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "asi2_nt_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Evangelizó Asia desde Éfeso con una eficacia sin precedentes.",
+        "referencias": [
+          "Hch 19:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p2",
+        "nombre": "Juan el Apóstol",
+        "rol": "Profeta del Apocalipsis",
+        "periodo": "s. I d.C.",
+        "descripcion": "Obispo de las iglesias de Asia; receptor y transmisor del Apocalipsis.",
+        "referencias": [
+          "Ap 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p3",
+        "nombre": "Timoteo",
+        "rol": "Pastor de Éfeso",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discípulo de Pablo, dejado como pastor de la iglesia de Éfeso.",
+        "referencias": [
+          "1 Tim 1:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La provincia romana de Asia fue el corazón de la misión paulina y la destinataria del Apocalipsis.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "culto_imperial",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "asi2_nt_m1",
+          "nombre": "Las siete iglesias",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Las siete iglesias de Asia representan la universalidad de la Iglesia: sus alabanzas y reproches son espejo de toda comunidad cristiana.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Las siete iglesias de Asia representan la universalidad de la Iglesia: sus alabanzas y reproches son espejo de toda comunidad cristiana.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

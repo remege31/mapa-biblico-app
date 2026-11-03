@@ -1,0 +1,156 @@
+{
+  "id": "galilee",
+  "nombre": "Galilee",
+  "tipo": "territorio",
+  "lat": 32.8,
+  "lng": 35.5,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Northern region of the land of Israel, between Mount Hermon and the plain of Jezreel.",
+  "altitud_m": 500,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "water",
+    "agriculture",
+    "fishing",
+    "trade"
+  ],
+  "importancia_estrategica": "Heart of Jesus Ministry; region of crossroads of cultures.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gal_h1",
+        "titulo": "Beginning of the Galilean ministry",
+        "fecha": "ca. 27 AD",
+        "descripcion": "After the baptism, Jesus returns to Galilee and begins to preach the Kingdom.",
+        "referencias": [
+          "Matt 4:12-17"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gal_h2",
+        "titulo": "The Sermon on the Mount",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Jesus imparts the Beatitudes on a hill by Galilee.",
+        "referencias": [
+          "Matt 5-7"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "doce apóstoles"
+        ]
+      },
+      {
+        "id": "gal_h3",
+        "titulo": "Wedding at Cana",
+        "fecha": "ca. 27 AD",
+        "descripcion": "Jesus's First Miracle: He Turns Water into Wine at Galilee's Cana.",
+        "referencias": [
+          "John 2:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gal_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah",
+        "periodo": "ca. 6 BC–30 AD",
+        "descripcion": "He did most of his public ministry in Galilee.",
+        "referencias": [
+          "Matt 4:23"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_p2",
+        "nombre": "The Twelve Apostles",
+        "rol": "Chosen disciples",
+        "periodo": "s. I AD",
+        "descripcion": "The majority were Galileans: fishermen, tax collectors, zealots.",
+        "referencias": [
+          "Matt 10:1-4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_p3",
+        "nombre": "Herod Antipas",
+        "rol": "Tetrarch of Galilee",
+        "periodo": "4 BC–39 AD",
+        "descripcion": "Ruler who executed John the Baptist and rejected Jesus.",
+        "referencias": [
+          "Luke 23:7-12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "'Galilee of the Gentiles': multi-ethnic region where Judaism coexisted with Hellenistic and Roman influences.",
+      "religiones_presentes": [
+        "Judaism",
+        "hellenistic_paganism",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "gal_m1",
+          "nombre": "Galilee of the Gentiles",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud",
+            "fuente_secundaria": "",
+            "descripcion": "Region mentioned in Isaiah 9:1 as a land of darkness that will see great light.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Region mentioned in Isaiah 9:1 as a land of darkness that will see great light.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Matthew cites Isaiah to present the Galilean ministry of Jesus as prophetic fulfillment.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Matthew cites Isaiah to present the Galilean ministry of Jesus as prophetic fulfillment.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

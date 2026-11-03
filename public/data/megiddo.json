@@ -1,0 +1,145 @@
+{
+  "id": "megiddo",
+  "nombre": "Meguido",
+  "tipo": "ciudad",
+  "lat": 32.58,
+  "lng": 35.18,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Ciudad estratégica en el paso de Wadi Ara que une la llanura de Sarón con el valle de Jezreel; uno de los yacimientos arqueológicos más importantes del mundo.",
+  "altitud_m": 60,
+  "clima": "mediterráneo",
+  "recursos": [
+    "agricultura",
+    "comercio",
+    "posición estratégica",
+    "agua"
+  ],
+  "importancia_estrategica": "Encrucijada de los ejércitos del mundo antiguo; en el Apocalipsis su nombre griego (Armagedón) es el escenario de la batalla final.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "meg_h1",
+      "titulo": "La batalla de Meguido: el faraón Tutmosis III",
+      "fecha": "ca. 1457 a.C.",
+      "descripcion": "El faraón Tutmosis III derrota a la coalición cananea en Meguido; primera batalla detalladamente documentada de la historia.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Tutmosis III"
+      ]
+    },
+    {
+      "id": "meg_h2",
+      "titulo": "La muerte del rey Josías en Meguido",
+      "fecha": "609 a.C.",
+      "descripcion": "El rey reformador Josías sale al encuentro del faraón Necao en Meguido y es herido de muerte por un arquero.",
+      "referencias": [
+        "2 Re 23:29-30",
+        "2 Cr 35:20-24"
+      ],
+      "personajes_clave": [
+        "Josías",
+        "Necao"
+      ]
+    },
+    {
+      "id": "meg_h3",
+      "titulo": "Meguido en las profecías y el Apocalipsis",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "El Apocalipsis usa el nombre griego de Meguido ('Armagedón') como lugar de la batalla escatológica final.",
+      "referencias": [
+        "Ap 16:16"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "meg_p1",
+      "nombre": "Josías",
+      "rol": "Rey reformador de Judá",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Murió en Meguido; su muerte fue llorada como la de ningún otro rey: se convirtió en paradigma del sufrimiento del justo.",
+      "referencias": [
+        "2 Re 23:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p2",
+      "nombre": "Barac",
+      "rol": "Juez de Israel",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "Con Débora, derrotó al ejército de Sísara en las aguas de Meguido.",
+      "referencias": [
+        "Jue 5:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p3",
+      "nombre": "Débora",
+      "rol": "Profetisa y juez",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "El cántico de Débora menciona los reyes de Canaán que pelearon en Meguido.",
+      "referencias": [
+        "Jue 5:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meguido: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "meg_m1",
+        "nombre": "Armagedón: la batalla de los tiempos",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Meguido fue escenario de tantas batallas decisivas que su nombre se convirtió en símbolo del lugar de la confrontación definitiva entre el bien y el mal.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Meguido fue escenario de tantas batallas decisivas que su nombre se convirtió en símbolo del lugar de la confrontación definitiva entre el bien y el mal.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 16:16",
+          "fuente_secundaria": "",
+          "descripcion": "El Apocalipsis llama 'Armagedón' (monte de Meguido) al lugar de la batalla final entre Dios y las fuerzas del mal (Ap 16:16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Apocalipsis llama 'Armagedón' (monte de Meguido) al lugar de la batalla final entre Dios y las fuerzas del mal (Ap 16:16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

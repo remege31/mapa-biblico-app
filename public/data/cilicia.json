@@ -1,0 +1,251 @@
+{
+  "id": "cilicia",
+  "nombre": "Cilicia",
+  "tipo": "territorio",
+  "lat": 36.92,
+  "lng": 34.89,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -800,
+      "hasta": 100,
+      "nombre": "Hierro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Región costera del sureste de Asia Menor (actual Turquía), entre los montes Tauro y el Mediterráneo. Capital: Tarso.",
+  "altitud_m": 100,
+  "clima": "mediterráneo",
+  "recursos": [
+    "lino",
+    "madera de cedro",
+    "comercio marítimo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Provincia romana; patria de Pablo de Tarso; puerta entre Asia Menor y Siria.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cil_h1",
+      "titulo": "Pablo nació en Tarso de Cilicia",
+      "fecha": "ca. 5 a.C.",
+      "descripcion": "Pablo de Tarso, 'ciudadano de Tarso, ciudad no insignificante de Cilicia', usó su ciudadanía romana nacida en esa provincia para su misión.",
+      "referencias": [
+        "Hch 21:39",
+        "Hch 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "cil_h2",
+      "titulo": "Las puertas cilicias: puerta de Asia a Siria",
+      "fecha": "ca. 333 a.C.",
+      "descripcion": "El paso montañoso de Cilicia (Puertas Cilicias) fue decisivo en las campañas de Alejandro Magno y las rutas de Pablo.",
+      "referencias": [
+        "Historia",
+        "Hch 15:41"
+      ],
+      "personajes_clave": [
+        "Alejandro Magno",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "cil_h3",
+      "titulo": "Las iglesias de Cilicia",
+      "fecha": "ca. 49-57 d.C.",
+      "descripcion": "Pablo confirma las iglesias de Siria y Cilicia en su segundo viaje misionero.",
+      "referencias": [
+        "Hch 15:41",
+        "Gál 1:21"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cil_p1",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Natural de Tarso en Cilicia; su ciudadanía romana y su formación helenística nacen en esta región.",
+      "referencias": [
+        "Hch 21:39"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cil_p2",
+      "nombre": "Arquelao de Cilicia",
+      "rol": "Rey de Cilicia",
+      "periodo": "36 a.C.–17 d.C.",
+      "descripcion": "Rey cliente de Roma; unificó Cilicia bajo su gobierno.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cil_p3",
+      "nombre": "Silas",
+      "rol": "Compañero de Pablo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Acompañó a Pablo en el fortalecimiento de las iglesias de Cilicia.",
+      "referencias": [
+        "Hch 15:41"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cilicia fue la tierra natal de Pablo; su carácter de encrucijada entre Oriente y Occidente moldeó al mayor misionero del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "cil_m1",
+        "nombre": "Tarso, ciudad no insignificante",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo se identifica con orgullo como ciudadano de Tarso; la cultura cilicia helenizada forma al apóstol que llevaría el evangelio al mundo grecorromano.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo se identifica con orgullo como ciudadano de Tarso; la cultura cilicia helenizada forma al apóstol que llevaría el evangelio al mundo grecorromano.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cil_nt_h1",
+        "titulo": "Pablo regresa a Cilicia tras su conversión",
+        "fecha": "ca. 37-44 d.C.",
+        "descripcion": "Tras su conversión y período en Damasco, Pablo regresó a Cilicia (Tarso) donde estuvo varios años.",
+        "referencias": [
+          "Hch 9:30",
+          "Gál 1:21"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "cil_nt_h2",
+        "titulo": "Bernabé va a buscar a Pablo a Tarso",
+        "fecha": "ca. 44 d.C.",
+        "descripcion": "Bernabé viaja a Tarso de Cilicia para buscar a Pablo y llevarlo a Antioquía.",
+        "referencias": [
+          "Hch 11:25-26"
+        ],
+        "personajes_clave": [
+          "Bernabé",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "cil_nt_h3",
+        "titulo": "Confirmación de las iglesias de Cilicia",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Pablo y Silas confirman las iglesias de Siria y Cilicia en el segundo viaje.",
+        "referencias": [
+          "Hch 15:41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cil_nt_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Nació y fue formado en Tarso de Cilicia.",
+        "referencias": [
+          "Hch 21:39"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cil_nt_p2",
+        "nombre": "Bernabé",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Viajó a Tarso para reunir a Pablo y llevarlo a Antioquía.",
+        "referencias": [
+          "Hch 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cil_nt_p3",
+        "nombre": "Silas",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Confirmó con Pablo las iglesias cilicas en el segundo viaje.",
+        "referencias": [
+          "Hch 15:41"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cilicia es la tierra natal del apóstol Pablo y el punto de partida de su formación como puente entre el mundo judío y el grecorromano.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "cil_nt_m1",
+          "nombre": "Tarso y el apóstol",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Tarso de Cilicia formó al hombre que llevaría el evangelio al mundo romano: ciudadano romano, judío de la diáspora, helenista.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tarso de Cilicia formó al hombre que llevaría el evangelio al mundo romano: ciudadano romano, judío de la diáspora, helenista.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

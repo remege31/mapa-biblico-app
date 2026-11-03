@@ -1,0 +1,143 @@
+{
+  "id": "zin",
+  "nombre": "Deserto Zin",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Deserto nel sud di Canaan tra Negev e Sinai; Itinerario di pellegrinaggio Israele e sede di Kades-Barnea.",
+  "altitud_m": 400,
+  "clima": "arido",
+  "recursos": [
+    "acqua di sorgente in Kades",
+    "pascolo"
+  ],
+  "importancia_estrategica": "Territorio percorso da Israele nel deserto; Miriam è morta lì e Mosè ha peccato colpendo la roccia.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zin_h1",
+      "titulo": "Israele nel deserto di Zin",
+      "fecha": "ca. 1260-1220 a.C.",
+      "descripcion": "La congregazione di Israele arriva nel deserto di Zin nel primo mese; Miriam muore lì e la città non ha acqua.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "zin_h2",
+      "titulo": "Le spie esplorano da Zin",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Le dodici spie partono dal deserto di Zin verso nord per esplorare Canaan.",
+      "referencias": [
+        "Nm 13:21"
+      ],
+      "personajes_clave": [
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "zin_h3",
+      "titulo": "Caleb eredita da Zin",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Il confine meridionale della tribù di Giuda attraversava il deserto di Zin vicino al confine di Edom.",
+      "referencias": [
+        "Gs 15:1-3"
+      ],
+      "personajes_clave": [
+        "Caleb"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zin_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Ha peccato nel deserto di Zin colpendo la roccia invece di parlarle, perdendo il diritto di entrare in Canaan.",
+      "referencias": [
+        "Nm 20:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p2",
+      "nombre": "Miriam",
+      "rol": "Profetessa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Morì e fu sepolta a Kades, nel deserto di Zin.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p3",
+      "nombre": "Caleb",
+      "rol": "Esploratore e conquistatore",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Hai esplorato il deserto di Zin all'inizio della ricognizione di Canaan.",
+      "referencias": [
+        "Nm 13:21"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Deserto di Zin: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "zin_m1",
+        "nombre": "La roccia di Meribah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Mosè colpisce la roccia a Zin (Kades): Il suo peccato gli impedisce di entrare in Canaan, segno che anche il più grande mediatore deve obbedire esattamente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mosè colpisce la roccia a Zin (Kades): Il suo peccato gli impedisce di entrare in Canaan, segno che anche il più grande mediatore deve obbedire esattamente.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo interpreta la roccia del deserto come una figura di Cristo che fornisce l'acqua spirituale (1 Cor 10,4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo interpreta la roccia del deserto come una figura di Cristo che fornisce l'acqua spirituale (1 Cor 10,4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

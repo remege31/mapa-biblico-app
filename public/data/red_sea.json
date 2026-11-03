@@ -1,0 +1,152 @@
+{
+  "id": "red_sea",
+  "nombre": "Mar Rojo",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 27.09,
+  "lng": 34.77,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "Bronce tardío"
+    }
+  ],
+  "descripcion_geo": "Estrecho mar entre África y la península Arábiga. En el AT, el 'Yam Suf' (Mar de las Cañas), escenario del paso milagroso del éxodo.",
+  "altitud_m": 0,
+  "clima": "desértico-tropical",
+  "recursos": [
+    "pesca",
+    "comercio marítimo",
+    "sal"
+  ],
+  "importancia_estrategica": "Frontera natural entre Egipto y Arabia; escenario del milagro fundacional del pueblo de Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "red_h1",
+      "titulo": "El paso milagroso del Mar Rojo",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Moisés extiende la vara y el mar se divide; Israel cruza en seco mientras el ejército egipcio perece en las aguas.",
+      "referencias": [
+        "Ex 14:21-31"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "red_h2",
+      "titulo": "El cántico de Moisés y Miriam",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Tras el paso del mar, Moisés entona el cántico de victoria y Miriam danza con panderetas celebrando la salvación del Señor.",
+      "referencias": [
+        "Ex 15:1-21"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "red_h3",
+      "titulo": "El Mar Rojo en el NT: tipo del bautismo",
+      "fecha": "ca. 50-55 d.C.",
+      "descripcion": "Pablo interpreta el paso del Mar Rojo como tipo del bautismo cristiano: todos fueron 'bautizados en Moisés en el mar'.",
+      "referencias": [
+        "1 Co 10:1-2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "red_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Extendió la vara sobre el mar; su fe en el momento más crítico salvó a todo Israel.",
+      "referencias": [
+        "Ex 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p2",
+      "nombre": "Miriam",
+      "rol": "Profetisa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Lideró el cántico de victoria de las mujeres israelitas tras el paso del mar.",
+      "referencias": [
+        "Ex 15:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p3",
+      "nombre": "Faraón",
+      "rol": "Rey de Egipto",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Su ejército persiguió a Israel hasta el mar y pereció en las aguas.",
+      "referencias": [
+        "Ex 14:28"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El Mar Rojo es el escenario del evento fundacional de Israel: el éxodo. Su paso milagroso es citado en toda la Biblia como paradigma de la salvación divina.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo",
+      "islam"
+    ],
+    "mitos": [
+      {
+        "id": "red_m1",
+        "nombre": "El paso del Mar Rojo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El paso del Mar Rojo es el evento fundacional del pueblo de Dios: nacimiento de Israel como nación libre.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El paso del Mar Rojo es el evento fundacional del pueblo de Dios: nacimiento de Israel como nación libre.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo lo interpreta como tipo del bautismo cristiano (1 Co 10:1-2); Hebreos lo cita como acto de fe (Hb 11:29).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo lo interpreta como tipo del bautismo cristiano (1 Co 10:1-2); Hebreos lo cita como acto de fe (Hb 11:29).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 26:63-66",
+          "fuente_secundaria": "",
+          "descripcion": "El Corán narra el paso del mar de Musa (Moisés) y el ahogamiento del Faraón (Cor 26:63-66).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Corán narra el paso del mar de Musa (Moisés) y el ahogamiento del Faraón (Cor 26:63-66).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

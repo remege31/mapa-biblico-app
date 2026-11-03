@@ -1,0 +1,143 @@
+{
+  "id": "zin",
+  "nombre": "Desierto de Zin",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Desierto en el sur de Canaán entre el Néguev y el Sinaí; ruta del peregrinaje de Israel y sede de Cades-Barnea.",
+  "altitud_m": 400,
+  "clima": "árido",
+  "recursos": [
+    "agua de manantial en Cades",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Territorio recorrido por Israel en el desierto; allí murió Miriam y Moisés pecó golpeando la roca.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zin_h1",
+      "titulo": "Israel en el desierto de Zin",
+      "fecha": "ca. 1260-1220 a.C.",
+      "descripcion": "La congregación de Israel llega al desierto de Zin en el mes primero; allí muere Miriam y el pueblo no tiene agua.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "zin_h2",
+      "titulo": "Los espías exploran desde el Zin",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Los doce espías parten del desierto de Zin hacia el norte para explorar Canaán.",
+      "referencias": [
+        "Nm 13:21"
+      ],
+      "personajes_clave": [
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "zin_h3",
+      "titulo": "Caleb hereda desde el Zin",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La frontera sur de la tribu de Judá corría por el desierto de Zin junto a la frontera de Edom.",
+      "referencias": [
+        "Jos 15:1-3"
+      ],
+      "personajes_clave": [
+        "Caleb"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zin_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Pecó en el desierto de Zin golpeando la roca en lugar de hablarle, perdiendo el derecho de entrar en Canaán.",
+      "referencias": [
+        "Nm 20:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p2",
+      "nombre": "Miriam",
+      "rol": "Profetisa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Murió y fue sepultada en Cades, en el desierto de Zin.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p3",
+      "nombre": "Caleb",
+      "rol": "Explorador y conquistador",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Exploró el desierto de Zin al inicio del reconocimiento de Canaán.",
+      "referencias": [
+        "Nm 13:21"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Desierto de Zin: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "zin_m1",
+        "nombre": "La roca de Meribá",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Moisés golpea la roca en el Zin (Cades): su pecado le impide entrar en Canaán, señal de que hasta el mediador más grande debe obedecer exactamente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moisés golpea la roca en el Zin (Cades): su pecado le impide entrar en Canaán, señal de que hasta el mediador más grande debe obedecer exactamente.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo interpreta la roca del desierto como figura de Cristo que provee agua espiritual (1 Co 10:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo interpreta la roca del desierto como figura de Cristo que provee agua espiritual (1 Co 10:4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "gilead",
+  "nombre": "Gilead",
+  "tipo": "territorio",
+  "lat": 32.04,
+  "lng": 35.72,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 99,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -722,
+      "nombre": "Iron I and II"
+    }
+  ],
+  "descripcion_geo": "Mountainous region east of the Jordan, between the Yarmouk and the Arnon River. Territory of the tribes of Reuben, Gad and half the tribe of Manasseh.",
+  "altitud_m": 900,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "balm",
+    "cattle raising",
+    "wood",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Buffer zone between Israel and the Transjordan kingdoms; famous for its medicinal balm.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gil_h1",
+      "titulo": "Jephthah and the reckless vote",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Jephthah the Gileadite defeats the Ammonites but makes an unwise vow that costs his daughter her life.",
+      "referencias": [
+        "Judg 11"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "gil_h2",
+      "titulo": "The balm by Gilead",
+      "fecha": "ca. 600 BC",
+      "descripcion": "Jeremiah laments the lack of balm to cure Israel, using Gilead's medicinal resin as a metaphor.",
+      "referencias": [
+        "Jer 8:22"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "gil_h3",
+      "titulo": "Elijah the Tishbite by Gilead",
+      "fecha": "ca. 870 BC",
+      "descripcion": "Elijah, prophet of Gilead, announces drought to Ahab and flees to the Cherith torrent where he is fed by ravens.",
+      "referencias": [
+        "1 Kgs 17:1-7"
+      ],
+      "personajes_clave": [
+        "Elías",
+        "Acab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gil_p1",
+      "nombre": "Elijah",
+      "rol": "Prophet",
+      "periodo": "ca. 875-850 BC",
+      "descripcion": "The great prophet of the OT was 'the Tishbite, of the inhabitants of Gilead'.",
+      "referencias": [
+        "1 Kgs 17:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p2",
+      "nombre": "Jephthah",
+      "rol": "Israel Judge",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "Military leader of Gilead who freed Israel from the Ammonites with a tragic vow.",
+      "referencias": [
+        "Judg 11:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p3",
+      "nombre": "Machir son of Manasseh",
+      "rol": "Gilead Conqueror",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "He conquered Gilead and received that land as an inheritance for his clan.",
+      "referencias": [
+        "Num 32:39"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Fertile land and refuge east of the Jordan; birthplace of Elijah and stage of judges and warriors. His balm became a symbol of healing.",
+    "religiones_presentes": [
+      "Judaism",
+      "ammonite_paganism"
+    ],
+    "mitos": [
+      {
+        "id": "gil_m1",
+        "nombre": "The balm by Gilead",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 8:22",
+          "fuente_secundaria": "",
+          "descripcion": "'No balm in Gilead?' (Jer 8:22): image of a remedy that should exist but that the sin of Israel has made inaccessible.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "'No balm in Gilead?' (Jer 8:22): image of a remedy that should exist but that the sin of Israel has made inaccessible.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The expression 'balm of Gilead' survives as a symbol of spiritual healing in the Christian tradition.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The expression 'balm of Gilead' survives as a symbol of spiritual healing in the Christian tradition.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

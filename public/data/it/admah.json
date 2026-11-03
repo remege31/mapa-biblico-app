@@ -1,0 +1,141 @@
+{
+  "id": "admah",
+  "nombre": "Adma",
+  "tipo": "ciudad",
+  "lat": 31.11942270162137,
+  "lng": 35.41253049195169,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Età del bronzo media: una delle città della pianura distrutta"
+    }
+  ],
+  "descripcion_geo": "Una delle cinque 'Città della Pianura' (insieme a Sodoma, Gomorra, Zeboim e Zoar) situate nella regione della valle meridionale del Giordano o nel bacino del Mar Salato, distrutta insieme a Sodoma e Gomorra secondo il racconto della Genesi.",
+  "altitud_m": -350,
+  "clima": "Deserto estremo: tipico della regione del Mar Salato, con pochissime precipitazioni e temperature elevate.",
+  "recursos": [
+    "Posizione nella fertile pianura meridionale della Giordania prima della distruzione (descritta come \"come il giardino di YHWH\")"
+  ],
+  "importancia_estrategica": "Adma fa parte del gruppo delle città distrutte insieme a Sodoma e Gomorra, e il suo nome diventa un riferimento profetico ricorrente come esempio paradigmatico del giudizio divino più duro possibile, citato in oracoli successivi contro altre nazioni come misura comparativa della distruzione definitiva.",
+  "otros_habitantes": [
+    {
+      "id": "reyes_coalicion_admah",
+      "nombre": "Sinab, re di Adma",
+      "descripcion": "Re locale di Adma, membro della coalizione dei cinque re delle Città della Pianura inizialmente sconfitti da Chedorlaomer e dai suoi alleati.",
+      "religion": "Prima religione cananea-transgiordana",
+      "periodo": "C. 2050 a.C. (narrativa, era Abramo)"
+    },
+    {
+      "id": "poblacion_admah",
+      "nombre": "Popolazione dell'Adma",
+      "descripcion": "Abitanti della città, distrutta insieme a Sodoma e Gomorra dal giudizio divino narrato in Genesi 19.",
+      "religion": "Prima religione cananea-transgiordana",
+      "periodo": "C. 2067 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sinab-rey-admah-coalicion",
+      "titulo": "Sinab, re di Adma, nella guerra dei cinque re",
+      "fecha": "c. 2050 a.C. (narrativa, época de Abraham)",
+      "descripcion": "Sinab, re di Adma, fa parte della coalizione di cinque re delle Città della Pianura che si ribella a Chedorlaomer e viene sconfitto nella valle di Siddim, episodio che precede la cattura di Lot, residente a Sodoma.",
+      "referencias": [
+        "Gen 14:2",
+        "Gen 14:8-11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "destruccion-admah-sodoma",
+      "titulo": "Adma venne distrutta insieme a Sodoma e Gomorra",
+      "fecha": "c. 2067 a.C. (narrativa)",
+      "descripcion": "Adma è menzionata insieme a Sodoma, Gomorra e Zeboim come città distrutte dal fuoco e dallo zolfo divini, in contrasto con Zoar, che viene risparmiata su richiesta di Lot per fungere da rifugio immediato.",
+      "referencias": [
+        "Dt 29:23"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "oseas-recuerdo-admah",
+      "titulo": "Osea invoca il ricordo di Adma come monito e promessa",
+      "fecha": "c. 750 a.C.",
+      "descripcion": "Il profeta Osea utilizza il ricordo della distruzione di Adma e Zeboim in un oracolo in cui YHWH esprime la sua compassione verso Israele, promettendo che il suo cuore si commuoverà e che non tratterà Efraim come trattò quelle città, nonostante la giustizia che tale punizione meriterebbe.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sinab_rey_admah",
+      "nombre": "Sinab, re di Adma",
+      "rol": "Re di Adma, membro della coalizione delle Città delle Pianure",
+      "periodo": "c. 2050 a.C. (narrativa)",
+      "descripcion": "Sovrano di Adma sconfitto insieme ai suoi alleati da Chedorlaomer, episodio che precede la definitiva distruzione della sua città insieme a Sodoma e Gomorra.",
+      "referencias": [
+        "Gen 14:2-11"
+      ],
+      "ruta": [
+        "admah"
+      ]
+    },
+    {
+      "id": "lot_admah_contexto",
+      "nombre": "molti",
+      "rol": "Residente nella regione delle Città Piane",
+      "periodo": "bronce_medio",
+      "descripcion": "Sebbene risieda specificatamente a Sodoma, la sua scelta di stabilirsi nella fertile pianura del Giordano lo collega direttamente al destino delle città vicine, inclusa Adma, al momento della distruzione.",
+      "referencias": [
+        "Gen 13:10-12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oseas_admah",
+      "nombre": "Osea",
+      "rol": "Profeta del regno settentrionale",
+      "periodo": "Activo c. 750–722 a.C.",
+      "descripcion": "Egli invoca il ricordo di Adma come pietoso contrasto: a differenza di quella città irrimediabilmente distrutta, YHWH esprime il desiderio di non trattare Israele nello stesso modo definitivo nonostante la sua infedeltà.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Adma fa parte dell’insieme delle Città della Piana la cui distruzione diventa un riferimento paradigmatico ricorrente in tutto il corpus biblico successivo per illustrare sia la severità del giudizio divino sia, paradossalmente, anche il suo pietoso contrasto in passaggi come l’oracolo di Osea, dove il ricordo stesso della distruzione di Adma serve a evidenziare la misericordia che YHWH sceglie di esercitare nei confronti di Israele nonostante meriti un destino simile.",
+    "religiones_presentes": [
+      "Prima religione cananea-transgiordana"
+    ],
+    "mitos": [
+      {
+        "id": "adma-zeboim-referencia-comparativa",
+        "nombre": "Adma e Zeboim come riferimento comparativo del giudizio divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 29:23; Os 11:8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el uso de Adma y Zeboim como medida estándar de comparación para el juicio divino más severo en oráculos posteriores",
+          "descripcion": "La tradizione ebraica osserva che Adma e Zeboim, sebbene individualmente meno prominenti di Sodoma e Gomorra, funzionano nel testo biblico successivo come unità di misura retorica per esprimere la grandezza del giudizio devastante, e che la loro menzione in Osea come contraltare alla compassione divina verso Israele rivela una tensione teologica fondamentale tra la giustizia meritata e la misericordia scelta.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il contrasto tra la distruzione irrevocabile di Adma e la compassione promessa a Israele illustra la tensione centrale della teologia profetica tra la giustizia retributiva e la misericordia elettiva di YHWH.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

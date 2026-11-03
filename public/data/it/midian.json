@@ -1,0 +1,153 @@
+{
+  "id": "midian",
+  "nombre": "Madian",
+  "tipo": "territorio",
+  "lat": 28.93,
+  "lng": 34.91,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 64,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -900,
+      "nombre": "Bronzo Tardo - Ferro I"
+    }
+  ],
+  "descripcion_geo": "Regione a est del Golfo di Aqaba, nell'attuale Arabia Saudita. Terra dei discendenti di Madian, figlio di Abramo e Keturah.",
+  "altitud_m": 800,
+  "clima": "arido-deserto",
+  "recursos": [
+    "commercio di carovane",
+    "allevamento del bestiame"
+  ],
+  "importancia_estrategica": "Terra di passaggio per carovane tra Arabia e Egitto; luogo della chiamata di Mosè.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mad_h1",
+      "titulo": "Mosè a Madian e nel roveto ardente",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "Mosè fugge da Egitto a Madian, sposa Zipporah figlia di Jethro e riceve la rivelazione di Dio presso il roveto ardente.",
+      "referencias": [
+        "Es 2:15-3:15"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jetró",
+        "Séfora"
+      ]
+    },
+    {
+      "id": "mad_h2",
+      "titulo": "Le sette figlie di Jethro",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "Mosè aiuta le figlie del sacerdote di Madian al pozzo e viene invitato a restare; Prende Zipporah come sua moglie.",
+      "referencias": [
+        "Es 2:16-22"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Séfora",
+        "Jetró"
+      ]
+    },
+    {
+      "id": "mad_h3",
+      "titulo": "Oppressione madianita e Gedeone",
+      "fecha": "ca. 1150 a.C.",
+      "descripcion": "I Madianiti opprimono Israele per sette anni; Gedeone con 300 uomini sconfigge l'esercito madianita.",
+      "referencias": [
+        "Gdc 6-8"
+      ],
+      "personajes_clave": [
+        "Gedeón",
+        "ángel del Señor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mad_p1",
+      "nombre": "Jethro",
+      "rol": "Sacerdote di Madian",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Suocero di Mosè; Ha insegnato a Mosè a delegare il giudizio alle persone.",
+      "referencias": [
+        "Es 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p2",
+      "nombre": "Zippora",
+      "rol": "La moglie di Mosè",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Figlia di Jethro moglie di Mosè e madre dei suoi figli.",
+      "referencias": [
+        "Es 2:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p3",
+      "nombre": "Gedeone",
+      "rol": "Giudice Israele",
+      "periodo": "ca. 1150 a.C.",
+      "descripcion": "Liberò Israele dall'oppressione madianita con 300 uomini e torce in giare.",
+      "referencias": [
+        "Gdc 6:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terra di pastori e carovane dove Mosè trovò Dio nel roveto ardente; Il sacerdote Jethro adorava il Dio Altissimo.",
+    "religiones_presentes": [
+      "madianite_paganesimo",
+      "pre-israelita_culto"
+    ],
+    "mitos": [
+      {
+        "id": "mad_m1",
+        "nombre": "Il roveto che arde senza consumarsi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 3,14",
+          "fuente_secundaria": "",
+          "descripcion": "Mosè vede il roveto ardente a Madian: Dio si rivela come l'«Io sono colui che sono» (Es 3,14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mosè vede il roveto ardente a Madian: Dio si rivela come l'«Io sono colui che sono» (Es 3,14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il roveto ardente è simbolo della presenza di Dio che si rivela senza consumare ciò che tocca.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il roveto ardente è simbolo della presenza di Dio che si rivela senza consumare ciò che tocca.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 28,29-35",
+          "fuente_secundaria": "",
+          "descripcion": "Mosè (Musa) è un importante profeta dell'Islam; La sua chiamata in Sinai/Madian è menzionata nel Corano (Cor 28,29-35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mosè (Musa) è un importante profeta dell'Islam; La sua chiamata in Sinai/Madian è menzionata nel Corano (Cor 28,29-35).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

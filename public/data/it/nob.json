@@ -1,0 +1,169 @@
+{
+  "id": "nob",
+  "nombre": "No",
+  "tipo": "ciudad",
+  "lat": 31.799605,
+  "lng": 35.23298,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Città sacerdotale, massacro Saul"
+    }
+  ],
+  "descripcion_geo": "Città sacerdotale situata su un'altura vicino a Gerusalemme, abbastanza vicina da essere visibile dalla città (menzionata dal profeta Isaia come punto di osservazione verso Gerusalemme). Sede temporanea del tabernacolo e di una numerosa comunità di sacerdoti dopo la distruzione di Silo.",
+  "altitud_m": 770,
+  "clima": "Montagna mediterranea: estati secche e miti, inverni freddi con piogge, tipici dell'altopiano di Benjamin vicino a Gerusalemme.",
+  "recursos": [
+    "Tabernacolo e pane di presentazione",
+    "Grande comunità sacerdotale",
+    "Posizione elevata con vista su Gerusalemme"
+  ],
+  "importancia_estrategica": "Nob funziona come centro di culto provvisorio per Israele nel periodo immediatamente precedente al consolidamento del Tempio in Gerusalemme, ospitando il tabernacolo dopo la perdita di Silo. La sua distruzione per ordine di Saul rappresenta uno degli atti di violenza più estremi attribuiti al re e un punto di rottura decisivo nella sua legittimità religiosa.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes_nob",
+      "nombre": "Sacerdoti della casa di Eli (lignaggio di Ithamar)",
+      "descripcion": "Comunità di ottantacinque sacerdoti che indossano l'efod di lino, residenti a Nob sotto la guida di Ahimelec, discendenti della linea sacerdotale di Eli.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    },
+    {
+      "id": "edomitas_nob",
+      "nombre": "Server Edomite Saul",
+      "descripcion": "Doae l'edomita, capo dei pastori di Saul, presente a Nob il giorno della visita di Davide; Sarà lui a compiere personalmente la strage dei sacerdoti per ordine reale.",
+      "religion": "Religione edomita (probabilmente culti legati a Qos)",
+      "periodo": "C. 1015 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-ahimelec-nob",
+      "titulo": "Davide riceve il pane consacrato e la spada di Golia a Nob",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "In fuga da Saul, Davide raggiunge Nob, inganna il sacerdote Ahimelec facendogli credere che sta portando avanti una missione reale segreta, riceve i pani di presentazione - normalmente riservati solo ai sacerdoti - e la spada di Golia, conservata lì come reliquia.",
+      "referencias": [
+        "1 Sam 21:1-9"
+      ],
+      "personajes_clave": [
+        "david",
+        "ahimelec"
+      ]
+    },
+    {
+      "id": "doeg-testigo-nob",
+      "titulo": "Doeg l'edomita è testimone dell'incontro",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Doeg, capo dei pastori di Saul, si tiene quel giorno davanti a YHWH a Nob ed è testimone dell'incontro tra Davide e Ahimelec, informazione che poi comunicherà a Saul con conseguenze fatali per i sacerdoti.",
+      "referencias": [
+        "1 Sam 21:7",
+        "1 Sam 22:9-10"
+      ],
+      "personajes_clave": [
+        "ahimelec"
+      ]
+    },
+    {
+      "id": "masacre-sacerdotes-nob",
+      "titulo": "Il massacro dei sacerdoti di Nob",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Saul, informato da Doeg, ordina l'esecuzione di Ahimelec e di tutta la sua famiglia sacerdotale per aver aiutato Davide; Quando le sue stesse guardie si rifiutano di alzare la mano contro i sacerdoti di YHWH, Doeg l'edomita giustizia personalmente ottantacinque uomini vestiti con efod di lino e mette a fil di spada l'intera città di Nob, comprese donne, bambini e bestiame.",
+      "referencias": [
+        "1 Sam 22:11-19"
+      ],
+      "personajes_clave": [
+        "saul",
+        "ahimelec"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ahimelec",
+      "nombre": "Ahimelec",
+      "rol": "Sommo Sacerdote di Nob",
+      "periodo": "c. 1015 a.C.",
+      "descripcion": "Sacerdote della stirpe di Eli che dona a Davide il pane consacrato e la spada di Golia senza sospettare che sta aiutando un fuggitivo di Saul; Pagherà questo aiuto con la sua vita e con quella di tutta la sua comunità sacerdotale.",
+      "referencias": [
+        "1 Sam 21:1-9",
+        "1 Sam 22:9-19"
+      ],
+      "ruta": [
+        "nob"
+      ]
+    },
+    {
+      "id": "david_nob",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Giunge solo e disarmato a Nob durante la fuga, si procura delle provviste e un'arma simbolicamente carica di significato (la spada del gigante da lui stesso sconfitto), senza prevedere che il suo passaggio per la città scatenerà il massacro dei suoi abitanti.",
+      "referencias": [
+        "1 Sam 21:1-9",
+        "1 Sam 22:20-23"
+      ],
+      "ruta": [
+        "naioth",
+        "nob",
+        "gath"
+      ]
+    },
+    {
+      "id": "doeg_edomita",
+      "nombre": "Doeg l'edomita",
+      "rol": "Capo dei pastori di Saul, esecutore del massacro",
+      "periodo": "c. 1015 a.C.",
+      "descripcion": "Servitore straniero di Saul che tradisce Ahimelec e successivamente giustizia personalmente i sacerdoti di Nob quando le stesse guardie israelite del re si rifiutano di farlo, un episodio ricordato nel Salmo 52 come un esempio di tradimento violento.",
+      "referencias": [
+        "1 Sam 21:7",
+        "1 Sam 22:9-19",
+        "Sal 52:1-9"
+      ],
+      "ruta": [
+        "nob"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Nob è, all'epoca dei fatti narrati, il centro sacerdotale e di culto più importante di Israele dopo la caduta di Silo, sede del tabernacolo e di una numerosa comunità di sacerdoti legittimi. La sua distruzione per ordine di Saul - giustiziata da uno straniero edomita quando gli stessi israeliti si rifiutarono di spargere il sangue sacerdotale - costituisce uno degli atti più gravi di profanazione religiosa attribuiti a un re di Israele nell'intera storia biblica e segna un punto di non ritorno nel deterioramento morale e spirituale del regno di Saul.",
+    "religiones_presentes": [
+      "Yahvismo (centro sacerdotale del tabernacolo)"
+    ],
+    "mitos": [
+      {
+        "id": "masacre-sacerdotes-nob-mito",
+        "nombre": "Il massacro dei sacerdoti di Nob come giudizio sulla casa di Eli",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 22:6-19",
+          "fuente_secundaria": "Talmud Babilónico, Yoma 22b (discusión sobre la culpa de Saúl y Doeg en la masacre)",
+          "descripcion": "La tradizione rabbinica collega il massacro di Nob al precedente oracolo contro la casa di Eli (1 Sam 2,27-36), leggendo la distruzione della città sacerdotale come l'adempimento di un giudizio divino annunciato generazioni prima, senza esonerare Saul o Doeg dalla responsabilità morale dell'atto.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio illustra come il giudizio divino possa realizzarsi attraverso strumenti umani moralmente colpevoli, senza che questo diminuisca la responsabilità di chi lo esegue.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 22:6-19; Mc 2:25-26 (referencia de Jesús al episodio del pan consagrado en Nob)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la cita de Jesús al caso de David y el pan de la proposición",
+          "descripcion": "Il Nuovo Testamento riprende esplicitamente l'episodio di Davide che riceve il pane a Nob come precedente che Gesù cita per giustificare la flessibilità della legge rituale di fronte ai bisogni umani, conferendo al luogo un secondo strato di significato teologico oltre il massacro.",
+          "similitudes": "Condivide la centralità dell'episodio del pane consacrato come precedente giuridico più avanti citato.",
+          "diferencias": "L'uso cristiano dell'episodio si concentra sul precedente giuridico del pane, e non sul successivo massacro, che riceve uno sviluppo teologico meno esplicito nel Nuovo Testamento.",
+          "significado_teologico": "L'episodio diventa un fondamento biblico per sostenere che i bisogni umani possono avere la precedenza sulla lettera rigorosa della legge rituale.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

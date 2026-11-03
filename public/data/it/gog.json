@@ -1,0 +1,149 @@
+{
+  "id": "gog",
+  "nombre": "Gog (Terra di Magog)",
+  "tipo": "territorio",
+  "lat": 46.0,
+  "lng": 47.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Entità geopolitica dell'estremo nord menzionata in Ezechiele 38-39 e nell'Apocalisse; identificato con i popoli sciti o con un simbolo escatologico.",
+  "altitud_m": 200,
+  "clima": "continentale",
+  "recursos": [
+    "metalli",
+    "bestiame",
+    "commercio nordico"
+  ],
+  "importancia_estrategica": "Simbolo della potenza ostile del nord che attaccherà Israele nel tempo della fine; nome escatologico per eccellenza.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gog_h1",
+      "titulo": "La profezia di Ezechiele contro Gog",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezechiele profetizza che 'Gog della terra di Magog, principe di Ros, Meshech e Tubal' invaderà Israele negli ultimi giorni, ma Dio lo distruggerà.",
+      "referencias": [
+        "Ez 38-39"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "gog_h2",
+      "titulo": "La sconfitta di Gog: gli uccelli e le bestie",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "L'esercito di Gog verrà distrutto sulle montagne di Israele; gli uccelli e gli animali divoreranno i loro cadaveri durante il grande banchetto di Dio.",
+      "referencias": [
+        "Ez 39:17-20"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "gog_h3",
+      "titulo": "Gog e Magog nell'Apocalisse",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "Alla fine del millennio, Satana riunirà le nazioni “Gog e Magog” per la battaglia finale; Saranno consumati dal fuoco del cielo.",
+      "referencias": [
+        "Ap 20:7-10"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gog_p1",
+      "nombre": "Dio mio",
+      "rol": "principe escatologico del nord",
+      "periodo": "Tiempo del fin",
+      "descripcion": "Simbolo del potere nemico di Dio e Israele nel tempo escatologico.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gog_p2",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Ha pronunciato gli oracoli più dettagliati dell'Antico Testamento contro Gog e Magog.",
+      "referencias": [
+        "Ez 38:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gog_p3",
+      "nombre": "Giovanni Apostolo",
+      "rol": "Profeta dell'Apocalisse",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ha ripreso i nomi Gog e Magog da Ezechiele per la battaglia escatologica finale.",
+      "referencias": [
+        "Ap 20:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gog (Terra di Magog): regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gog_m1",
+        "nombre": "Gog e Magog: il nemico finale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La profezia di Ezechiele su Gog è la più grande visione escatologica dell'Antico Testamento: l'attacco finale contro Israele si conclude con la miracolosa distruzione del nemico.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La profezia di Ezechiele su Gog è la più grande visione escatologica dell'Antico Testamento: l'attacco finale contro Israele si conclude con la miracolosa distruzione del nemico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 20,7-10",
+          "fuente_secundaria": "",
+          "descripcion": "L'Apocalisse identifica Gog e Magog con tutte le nazioni che Satana raduna per la battaglia finale prima del giudizio universale (Ap 20,7-10).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Apocalisse identifica Gog e Magog con tutte le nazioni che Satana raduna per la battaglia finale prima del giudizio universale (Ap 20,7-10).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 18,94-98",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam identifica Yajuj e Majuj (Gog e Magog) con gli uomini della fine che saranno liberati prima del giorno del giudizio (Cor 18,94-98).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam identifica Yajuj e Majuj (Gog e Magog) con gli uomini della fine che saranno liberati prima del giorno del giudizio (Cor 18,94-98).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

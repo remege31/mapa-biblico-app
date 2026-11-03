@@ -1,0 +1,153 @@
+{
+  "id": "sheba",
+  "nombre": "Saba",
+  "tipo": "territorio",
+  "lat": 9.02,
+  "lng": 38.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Kingdom in southern Arabia (present-day Yemen or northern Ethiopia), famous for its trade in spices, incense and gold.",
+  "altitud_m": 1200,
+  "clima": "tropical-arid",
+  "recursos": [
+    "incense",
+    "myrrh",
+    "gold",
+    "spices",
+    "ivory"
+  ],
+  "importancia_estrategica": "Center of the incense trade; The Queen of Sheba visited Solomon and is a symbol of wisdom that seeks the truth.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "The Queen of Sheba visits Solomon",
+      "fecha": "ca. 950 BC",
+      "descripcion": "The Queen of Sheba travels to Jerusalem with camels loaded with spices, gold and precious stones to test Solomon with riddles.",
+      "referencias": [
+        "1 Kgs 10:1-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "Sheba's gifts to the Temple",
+      "fecha": "ca. 950 BC",
+      "descripcion": "The queen of Sheba gives Solomon one hundred and twenty talents of gold, many spices, and precious stones; Solomon gave her everything she asked for.",
+      "referencias": [
+        "1 Kgs 10:10-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "Sheba in the prophets and psalms",
+      "fecha": "ca. 700-500 BC",
+      "descripcion": "Psalm 72 and the prophets Isaiah and Jeremiah mention Sheba as a distant land that will bring tribute to the messianic king.",
+      "referencias": [
+        "Ps 72:10",
+        "Isa 60:6"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "The Queen of Sheba",
+      "rol": "queen of the south",
+      "periodo": "ca. 950 BC",
+      "descripcion": "He sought the wisdom of Solomon; Jesus cites her as an example of one who seeks the truth (Mt 12:42).",
+      "referencias": [
+        "1 Kgs 10:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "Solomon",
+      "rol": "King by Israel",
+      "periodo": "ca. 970-931 BC",
+      "descripcion": "He impressed the queen of Sheba with his wisdom, his palace, and the Temple.",
+      "referencias": [
+        "1 Kgs 10:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Hiram by Tyre",
+      "rol": "Navigating Phoenician king",
+      "periodo": "ca. 980-947 BC",
+      "descripcion": "Hiram's ships brought gold, silver, ivory, apes, and peacocks from Ophir (possibly Sheba).",
+      "referencias": [
+        "1 Kgs 10:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sheba: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "The queen of the south",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 10:1",
+          "fuente_secundaria": "",
+          "descripcion": "The queen of Sheba came from the ends of the earth to hear the wisdom of Solomon (1 Kgs 10:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The queen of Sheba came from the ends of the earth to hear the wisdom of Solomon (1 Kgs 10:1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:42",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus says that the queen of the south will rise in judgment and condemn those who reject him who is greater than Solomon (Mt 12:42).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus says that the queen of the south will rise in judgment and condemn those who reject him who is greater than Solomon (Mt 12:42).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 27:22-44",
+          "fuente_secundaria": "",
+          "descripcion": "Bilqis (the queen of Sheba) is a legendary figure in Islamic tradition; the Qur'an narrates his story in relation to Solomon (Sulaiman) (Cor 27:22-44).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bilqis (the queen of Sheba) is a legendary figure in Islamic tradition; the Qur'an narrates his story in relation to Solomon (Sulaiman) (Cor 27:22-44).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

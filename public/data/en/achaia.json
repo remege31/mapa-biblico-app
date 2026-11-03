@@ -1,0 +1,247 @@
+{
+  "id": "achaia",
+  "nombre": "Achaia",
+  "tipo": "territorio",
+  "lat": 38.23,
+  "lng": 21.73,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -146,
+      "hasta": 100,
+      "nombre": "Roman"
+    }
+  ],
+  "descripcion_geo": "Roman province in southern Greece, with Corinth as its capital. Intellectual and commercial center of the Hellenistic world.",
+  "altitud_m": 100,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "marble",
+    "ceramics",
+    "philosophy"
+  ],
+  "importancia_estrategica": "Province where Paul founded the church of Corinth and was related to Athens.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ach_h1",
+      "titulo": "Paul in Achaia: Athens and Corinth",
+      "fecha": "ca. 51-52 AD",
+      "descripcion": "Paul preached in the Areopagus in Athens and then founded the church in Corinth, capital of Achaia, where he remained for 18 months.",
+      "referencias": [
+        "Acts 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h2",
+      "titulo": "The collection for the saints of Jerusalem in Achaia",
+      "fecha": "ca. 57 AD",
+      "descripcion": "Paul praises the generosity of Achaia (Corinth) in Jerusalem's collection for the poor.",
+      "referencias": [
+        "2 Cor 9:2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h3",
+      "titulo": "Gallio the proconsul of Achaia",
+      "fecha": "ca. 52 AD",
+      "descripcion": "The proconsul Gallio rejects the Jews' accusation against Paul, stating that it is a matter of their own law.",
+      "referencias": [
+        "Acts 18:12-16"
+      ],
+      "personajes_clave": [
+        "Galión",
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ach_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He founded the church of Corinth in Achaia; he wrote the letters to the Corinthians from and for this region.",
+      "referencias": [
+        "Acts 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p2",
+      "nombre": "Gallio",
+      "rol": "Roman proconsul of Achaia",
+      "periodo": "ca. 52 AD",
+      "descripcion": "He rejected the accusation against Paul; his command serves as the chronological anchor of the NT.",
+      "referencias": [
+        "Acts 18:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p3",
+      "nombre": "Crispus",
+      "rol": "Head of the Corinthian synagogue",
+      "periodo": "s. I AD",
+      "descripcion": "Converted by Paul into Achaia; His conversion was a sign of the power of the gospel.",
+      "referencias": [
+        "Acts 18:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Intellectual and moral center of the Greco-Roman world; The letters to the Corinthians reveal the challenges of the gospel in a cosmopolitan pagan city.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "imperial_cult",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ach_m1",
+        "nombre": "The Areopagus of Athens",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paul presents the gospel at the philosophical center of the world; The 'unknown God' that the Athenians worshiped is the one that Paul announces.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul presents the gospel at the philosophical center of the world; The 'unknown God' that the Athenians worshiped is the one that Paul announces.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ach_nt_h1",
+        "titulo": "Paul in the Areopagus of Athens",
+        "fecha": "ca. 51 AD",
+        "descripcion": "Paul presents the gospel to the Stoic and Epicurean philosophers at the Areopagus; some believe.",
+        "referencias": [
+          "Acts 17:22-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ach_nt_h2",
+        "titulo": "The founding of the Corinthian church",
+        "fecha": "ca. 51-52 AD",
+        "descripcion": "Paul spends 18 months in Corinth founding a community in the heart of Achaia.",
+        "referencias": [
+          "Acts 18:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Aquila",
+          "Priscila"
+        ]
+      },
+      {
+        "id": "ach_nt_h3",
+        "titulo": "The Epistles to the Corinthians: Theology for an Urban Church",
+        "fecha": "ca. 54-57 AD",
+        "descripcion": "Paul writes two letters to the Corinthian church addressing morality, spiritual gifts, and the resurrection.",
+        "referencias": [
+          "1 Cor 1:1",
+          "2 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ach_nt_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He founded the church of Corinth; his letters to the Corinthians are central to the NT.",
+        "referencias": [
+          "Acts 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p2",
+        "nombre": "Aquila and Priscilla",
+        "rol": "Missionaries",
+        "periodo": "s. I AD",
+        "descripcion": "Judeo-Christian couple who welcomed Paul in Corinth.",
+        "referencias": [
+          "Acts 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p3",
+        "nombre": "Dionysus the Areopagite",
+        "rol": "Converted in Athens",
+        "periodo": "s. I AD",
+        "descripcion": "One of the few converts from the Areopagus speech; Tradition makes him the first bishop of Athens.",
+        "referencias": [
+          "Acts 17:34"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Achaia was the first proper Greek soil where the gospel took deep roots.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ach_nt_m1",
+          "nombre": "The unknown God",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The altar to the 'Unknown God' in Athens gave Paul the bridge to announce the Creator God to the Greek intellectual world.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The altar to the 'Unknown God' in Athens gave Paul the bridge to announce the Creator God to the Greek intellectual world.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

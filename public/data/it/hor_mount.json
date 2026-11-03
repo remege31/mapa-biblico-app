@@ -1,0 +1,165 @@
+{
+  "id": "hor_mount",
+  "nombre": "Monte Hor",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 30.317396,
+  "lng": 35.407152,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Morte e sepoltura di Aronne"
+    }
+  ],
+  "descripcion_geo": "Montagna al confine di Edom, vicino a Kades, dove Israele si accampa durante le sue peregrinazioni nel deserto poco prima della morte di Aaron. La sua tradizionale identificazione la colloca nelle vicinanze della regione che sarebbe poi diventata Sela/Petra.",
+  "altitud_m": 1350,
+  "clima": "Montagna semi-arida: estati secche e calde, inverni freddi, tipici del confine meridionale di Edom.",
+  "recursos": [
+    "Posizione elevata al confine con Edom",
+    "Luogo di sepoltura sacerdotale di riferimento"
+  ],
+  "importancia_estrategica": "Il monte Hor non ha alcun significato militare; La sua importanza è esclusivamente religiosa in quanto luogo della morte di Aronne e del trasferimento formale del sommo sacerdozio al figlio Eleazaro, episodio che segna la continuità istituzionale del sacerdozio aaronnico indipendentemente dalla mortalità del suo primo detentore.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_hor",
+      "nombre": "Edomiti",
+      "descripcion": "Popolazione vicina della regione di confine dove si trova il Monte Hor, con la quale Israele aveva avuto un teso incontro diplomatico poco prima, quando il re di Edom rifiutò il passaggio pacifico richiesto da Mosè.",
+      "religion": "Politeismo edomita – culto di Qos",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "israelitas_hor",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "La gente si accampò vicino al monte Hor al momento della morte di Aronne, testimoniando il lutto di trenta giorni che seguì la sua morte.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "anuncio-muerte-aaron-hor",
+      "titulo": "YHWH annuncia la morte di Aronne sul monte Hor",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "YHWH incarica Mosè di salire con Aronne ed Eleazar sul monte Hor, dove Aronne morirà e sarà 'riunito al suo popolo' per non essere potuto entrare nella terra promessa, proprio come Mosè, a causa dell'episodio di disobbedienza presso le acque di Meribah.",
+      "referencias": [
+        "Nm 20:23-26"
+      ],
+      "personajes_clave": [
+        "aaron",
+        "moises",
+        "eleazar"
+      ]
+    },
+    {
+      "id": "transferencia-sacerdocio-hor",
+      "titulo": "Eleazar riceve i paramenti sacerdotali al vertice",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "In cima alla montagna, Mosè spoglia Aronne dei suoi paramenti sacerdotali e li fa indossare a Eleazar, suo figlio, formalizzando il trasferimento del sommo sacerdozio prima che Aronne muoia sul colpo, stabilendo lo schema di successione ereditaria della carica.",
+      "referencias": [
+        "Nm 20:27-28"
+      ],
+      "personajes_clave": [
+        "aaron",
+        "eleazar",
+        "moises"
+      ]
+    },
+    {
+      "id": "duelo-aaron-hor",
+      "titulo": "Trenta giorni di lutto per Aronne",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "L'intera congregazione di Israele piange Aaron per trenta giorni dopo aver visto che è morto, un'osservanza del lutto che costituisce un precedente per un lutto comunitario prolungato per la perdita di un leader religioso centrale della città.",
+      "referencias": [
+        "Nm 20:29"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "aaron_hor",
+      "nombre": "Aronne",
+      "rol": "Primo Sommo Sacerdote di Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Fratello di Mosè e primo sommo sacerdote di Israele, muore sulla vetta del monte Hor all'età di centoventitré anni, impossibilitato ad entrare nella terra promessa a causa della sua partecipazione alla disobbedienza di Meribah.",
+      "referencias": [
+        "Nm 20:23-29",
+        "Nm 33:38-39"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "eleazar_hor",
+      "nombre": "Eleazar",
+      "rol": "Figlio di Aronne, successore del sommo sacerdozio",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Riceve i paramenti sacerdotali dal padre Aronne sulla vetta del monte Hor, assumendo formalmente l'ufficio di sommo sacerdote di Israele con un atto che garantisce la continuità istituzionale del sacerdozio.",
+      "referencias": [
+        "Nm 20:25-28"
+      ],
+      "ruta": [
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "moises_hor",
+      "nombre": "Mosè",
+      "rol": "Capo Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Sale sul monte Hor insieme ad Aronne ed Eleazar per istruzione divina, presiedendo personalmente sia al trasferimento del sacerdozio che alla morte di suo fratello.",
+      "referencias": [
+        "Nm 20:25-28"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il monte Hor è il luogo dove si stabilisce formalmente il principio di continuità istituzionale del sacerdozio aaronnico al di sopra della mortalità di ogni singolo detentore: il trasferimento dei paramenti di Aronne a Eleazar prima della morte del primo garantisce che l'ufficio sacerdotale non venga interrotto, stabilendo un modello di successione che perdurerà tutta la storia del sacerdozio israelita fino alla distruzione del Secondo Tempio.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "continuidad-sacerdocio-hor",
+        "nombre": "La continuità del sommo sacerdozio stabilita sul monte Hor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 20:22-29",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el luto especial por Aarón ('toda la casa de Israel') en contraste con el duelo posterior por Moisés ('los hijos de Israel'), interpretado como reflejo de la popularidad excepcional de Aarón como pacificador",
+          "descripcion": "La tradizione rabbinica osserva che il testo specifica che 'l'intera casa di Israele' (comprese le donne) pianse Aronne, in contrasto con la formula usata per Mosè, interpretando questa differenza come testimonianza del carattere particolarmente conciliante e pacificatore di Aronne, la cui morte sul monte Hor stabilisce ulteriormente il modello permanente di trasmissione ereditaria del sommo sacerdozio.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il trasferimento formale delle vesti sacerdotali prima della morte di Aronne stabilisce il principio che l'istituzione sacerdotale trascende ogni individuo particolare che la occupa.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nm 20:22-29 (recepción tipológica en Heb 7:23-24, contraste entre el sacerdocio aarónico mortal y el sacerdocio eterno de Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la Carta a los Hebreos y la limitación del sacerdocio levítico frente al sacerdocio perpetuo según el orden de Melquisedec",
+          "descripcion": "La Lettera agli Ebrei cita esplicitamente la mortalità dei sacerdoti aaronnici – esemplificata nella morte dello stesso Aronne sul monte Hor – come argomento teologico centrale per contrapporre il sacerdozio levitico, necessariamente successivo alla morte, con il sacerdozio unico e perpetuo attribuito a Cristo secondo l'ordine di Melchisedec.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento dell'importanza strutturale dell'episodio per l'istituzione sacerdotale.",
+          "diferencias": "La lettura cristiana utilizza proprio la necessità della successione attraverso la mortalità – punto centrale dell’episodio del Monte Hor – come argomento per affermare la superiorità di un sacerdozio che non necessita di successione.",
+          "significado_teologico": "La morte di Aronne e il necessario trasferimento del sacerdozio diventano un argomento del Nuovo Testamento sulla limitazione intrinseca del sistema sacerdotale levitico rispetto al sacerdozio eterno di Cristo.",
+          "posible_relacion_cultural": "Ricezione cristiana dell'istituzione sacerdotale aaronnica riletta tipologicamente in chiave cristologica."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

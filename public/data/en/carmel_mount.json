@@ -1,0 +1,174 @@
+{
+  "id": "carmel_mount",
+  "nombre": "Mount Carmel",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.729350157734,
+  "lng": 35.04978957235391,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Elijah's Confrontation with Baal's Prophets"
+    }
+  ],
+  "descripcion_geo": "Forested mountain range extending towards the Mediterranean in northern Israel, known for its fertility and scenic beauty repeatedly cited in biblical poetic literature, and the scene of one of the most dramatic religious confrontations in the entire Old Testament.",
+  "altitud_m": 530,
+  "clima": "Coastal mountain Mediterranean — warm summers with a certain humidity due to proximity to the sea, mild winters with abundant rains that support its characteristic forest vegetation.",
+  "recursos": [
+    "Abundant forest vegetation (poetically cited as a symbol of fertility)",
+    "Elevated position overlooking the Mediterranean",
+    "Stage of YHWH's altar reconstructed by Elijah"
+  ],
+  "importancia_estrategica": "Mount Carmel is the scene of the decisive confrontation between the prophet Elijah and the four hundred and fifty prophets of Baal during the reign of Ahab, an episode that functions as the climax of the fight against the institutionalization of the Baalist cult promoted by Jezebel, and that publicly confirms the exclusivity of YHWH as the true God of Israel.",
+  "otros_habitantes": [
+    {
+      "id": "profetas_baal_carmel",
+      "nombre": "Four hundred and fifty prophets by Baal",
+      "descripcion": "Priests of the Baalist cult sponsored by Queen Jezebel, summoned to Carmel for public confrontation with Elijah over the identity of the true God.",
+      "religion": "Polytheism Canaanite — worship of Baal",
+      "periodo": "c. 860 BC"
+    },
+    {
+      "id": "pueblo_israel_carmel",
+      "nombre": "Village of Israel reunited",
+      "descripcion": "Crowd summoned by Elijah to Carmel, presented as wavering 'between two thoughts' regarding whether to follow YHWH or Baal, witness to the decisive confrontation.",
+      "religion": "Yahwist-Baalist syncretism (pre-confrontation situation)",
+      "periodo": "c. 860 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-convoca-carmel",
+      "titulo": "Elijah summons Israel and the prophets of Baal to Carmel",
+      "fecha": "c. 860 BC",
+      "descripcion": "Elijah directly challenges the people to decide between YHWH and Baal, proposing a public test on Mount Carmel: each side will prepare a sacrifice without fire, and the god who responds by sending fire from heaven will be recognized as the true God.",
+      "referencias": [
+        "1 Kgs 18:19-24"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "fracaso-profetas-baal-carmel",
+      "titulo": "The prophets of Baal cry in vain for hours",
+      "fecha": "c. 860 BC",
+      "descripcion": "From morning until noon, the prophets of Baal cry out, dance, and ritually lacerate themselves before their altar without receiving any response, while Elijah mocks ironically by suggesting that perhaps their god is meditating, busy, traveling, or asleep.",
+      "referencias": [
+        "1 Kgs 18:25-29"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "fuego-yhwh-carmel",
+      "titulo": "The fire of YHWH consumes the sacrifice of Elijah",
+      "fecha": "c. 860 BC",
+      "descripcion": "Elijah repairs YHWH's toppled altar, prepares the sacrifice, deliberately soaks it with water three times to rule out any trickery, and prays briefly; The fire of YHWH descends immediately and consumes the burnt offering, the wood, the stones and even the water of the pit, causing all the people to fall prostrate exclaiming 'YHWH is the God! YHWH is the God!', after which Elijah orders Baal's prophets to be executed in the Kishon torrent.",
+      "referencias": [
+        "1 Kgs 18:30-40"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias_carmel",
+      "nombre": "Elijah",
+      "rol": "Prophet by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "In Carmel he stars in the most decisive religious confrontation of his entire ministry, publicly demonstrating through fire descended from heaven the exclusivity of YHWH in the face of the institutionalized cult of Baal.",
+      "referencias": [
+        "1 Kgs 18:17-40"
+      ],
+      "ruta": [
+        "jabbok",
+        "sidon",
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "acab_carmel",
+      "nombre": "Ahab",
+      "rol": "King of Israel, witness to the confrontation",
+      "periodo": "c. 874–853 BC",
+      "descripcion": "Witness the confrontation between Elijah and the prophets of Baal, pressured by the three-year drought previously announced by the prophet himself as punishment for the apostasy promoted by his wife Jezebel.",
+      "referencias": [
+        "1 Kgs 18:17-19",
+        "1 Kgs 18:41-46"
+      ],
+      "ruta": [
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "profetas_baal_carmel_personaje",
+      "nombre": "Prophets by Baal",
+      "rol": "Priests defeated and executed",
+      "periodo": "hierro_2",
+      "descripcion": "After the public failure of their intercession before Baal and the unequivocal manifestation of YHWH's power, they are captured and executed by order of Elijah in the Kishon torrent.",
+      "referencias": [
+        "1 Kgs 18:40"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "kishon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Carmel is the scene of the most famous and dramatically narrated religious confrontation in the entire Old Testament between exclusive Yahwism and the Baalist syncretism institutionalized by the court of Ahab and Jezebel; the episode functions as a public and unequivocal demonstration, before all the assembled people, that YHWH is the only true God capable of responding with real power, in direct contrast to the silent helplessness of Baal despite hours of frantic invocation by his prophets.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite polytheism — Baal cult (institutionally sponsored by Jezebel)"
+    ],
+    "mitos": [
+      {
+        "id": "fuego-celestial-carmel-mito",
+        "nombre": "The heavenly fire of Carmel as a demonstration of the true God",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 18:17-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la confrontación del Carmelo como momento culminante de la lucha de Elías contra la idolatría institucionalizada, y discusiones sobre la excepcionalidad del sacrificio ofrecido fuera de Jerusalén",
+          "descripcion": "Jewish tradition values ​​the Carmel confrontation as one of the most decisive moments in all prophetic literature in the public and unequivocal affirmation of Yahwist monotheism, further discussing the halachic question of how Elijah was able to offer a legitimate sacrifice outside the Temple of Jerusalem, usually resolved by appealing to exceptional prophetic authorization in a time of extreme national crisis.",
+          "similitudes": "It shares with Christianity and Islam the recognition of Elijah as a prophetic figure of exceptional power manifested in this episode.",
+          "diferencias": null,
+          "significado_teologico": "The fire of Carmel publicly and irrefutably demonstrates that YHWH is the only God with real power, exposing the complete impotence of idols despite the frantic devotion of his followers.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Kgs 18:17-40 (recepción patrística y popular sobre Elías como modelo de fe confrontativa)",
+          "fuente_secundaria": "Comentarios patrísticos que citan a Elías del Carmelo como ejemplo de oración eficaz (referenciado en Stg 5:17-18)",
+          "descripcion": "The Christian tradition takes up the episode of Carmel, explicitly cited in the Letter of James as an example of the effectiveness of the prayer of the righteous, generalizing the specific confrontation against Baal towards a broader principle about the power of fervent prayer and unwavering confidence in the divine response.",
+          "similitudes": "It shares with the Jewish reading the recognition of the episode as a decisive demonstration of divine power over idolatry.",
+          "diferencias": "The Christian reading, following the Epistle of James, tends to generalize the episode towards the universal principle of the effectiveness of the prayer of the righteous, beyond the specific context of monotheistic confrontation against Baalism.",
+          "significado_teologico": "The episode becomes a directly cited New Testament example of the transformative power of fervent prayer offered with genuine faith.",
+          "posible_relacion_cultural": "Shared reception of Elijah as a prophetic figure of exceptional power common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 37:123-132 (referencias a Ilyas y su confrontación contra la idolatría de Baal)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre Ilyas como profeta enviado contra el culto a Baal",
+          "descripcion": "The Quran recognizes Ilyas (Elijah) as a prophet sent specifically to confront his people for their idolatry of the Baal cult, in clear thematic correspondence with the biblical episode of Carmel, although without detailing the specific scene of the fire descending on the sacrifice.",
+          "similitudes": "Shared recognition of Elijah/Ilyas as a prophet sent specifically against idolatry to Baal, a central theme also in Carmel.",
+          "diferencias": "The Qur'an does not detail the specific episode of the confrontation of heavenly fire at Carmel, focusing more generally on Ilyas's prophetic mission against the idolatry of his people.",
+          "significado_teologico": "Ilyas is part of the chain of prophets recognized by Islam sent specifically to confront the idolatry of Baal among their respective peoples.",
+          "posible_relacion_cultural": "Shared recognition of Elijah/Ilyas as a foundational prophet in the common Abrahamic tradition."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

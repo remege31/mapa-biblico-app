@@ -1,0 +1,136 @@
+{
+  "id": "assyria",
+  "nombre": "Assiria",
+  "tipo": "territorio",
+  "lat": 36.36,
+  "lng": 43.15,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 149,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -900,
+      "hasta": -612,
+      "nombre": "Periodo assiro"
+    }
+  ],
+  "descripcion_geo": "Impero mesopotamico con capitale in Ninive, nel nord del Tigri. Potenza dominante dell'Antico Oriente durante il IX-VII secolo a.C.",
+  "altitud_m": 200,
+  "clima": "continentale-secco",
+  "recursos": [
+    "agricoltura fluviale",
+    "commercio",
+    "minerali"
+  ],
+  "importancia_estrategica": "Impero che conquistò il regno settentrionale (Israele) nel 722 a.C. e deportò i suoi abitanti.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi_h1",
+      "titulo": "Caduta del Regno del Nord: Israele deportato",
+      "fecha": "722 a.C.",
+      "descripcion": "Il re assiro Shalmaneser V e poi Sargon II conquistano Samaria e deportano le dieci tribù del nord.",
+      "referencias": [
+        "2 Re 17:1-6"
+      ],
+      "personajes_clave": [
+        "Oseas (rey)",
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "asi_h2",
+      "titulo": "Sennacherib minaccia Gerusalemme",
+      "fecha": "701 a.C.",
+      "descripcion": "Il re assiro Sennacherib assedia Gerusalemme; L'angelo del Signore colpisce in una notte 185.000 soldati assiri.",
+      "referencias": [
+        "2 Re 18-19",
+        "Is 36-37"
+      ],
+      "personajes_clave": [
+        "Ezequías",
+        "Isaías",
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "asi_h3",
+      "titulo": "Giona in Ninive",
+      "fecha": "ca. s. VIII a.C.",
+      "descripcion": "Il profeta Giona predica il pentimento a Ninive, capitale di Assiria; l'intera città si pente.",
+      "referencias": [
+        "Gio 3"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi_p1",
+      "nombre": "Sennacherib",
+      "rol": "Re di Assiria",
+      "periodo": "705-681 a.C.",
+      "descripcion": "Assediò Gerusalemme ma fallì nella sua conquista; È stato assassinato dai suoi figli.",
+      "referencias": [
+        "2 Re 19:36-37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p2",
+      "nombre": "Tiglat-Pileser III",
+      "rol": "Re di Assiria",
+      "periodo": "745-727 a.C.",
+      "descripcion": "Iniziò massicce deportazioni dei popoli conquistati; sottomesso Israele.",
+      "referencias": [
+        "2 Re 15:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p3",
+      "nombre": "Sargone II",
+      "rol": "Re di Assiria",
+      "periodo": "722-705 a.C.",
+      "descripcion": "Conquistò Samaria e deportò le dieci tribù di Israele.",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Impero politeista con culto di Assur; Usò l'esilio come arma politica. La sua caduta nel 612 a.C. Fu interpretato come giudizio divino dai profeti.",
+    "religiones_presentes": [
+      "Paganesimo_assiro"
+    ],
+    "mitos": [
+      {
+        "id": "asi_m1",
+        "nombre": "La prova Assiria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "I profeti Nahun e Isaia annunciarono la distruzione di Ninive come giudizio di Dio sull'oppressore.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I profeti Nahun e Isaia annunciarono la distruzione di Ninive come giudizio di Dio sull'oppressore.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

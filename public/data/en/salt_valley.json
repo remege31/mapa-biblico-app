@@ -1,0 +1,138 @@
+{
+  "id": "salt_valley",
+  "nombre": "Salt Valley",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.09,
+  "lng": 35.38,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Arid valley south of the Dead Sea, scene of Israelite victories over the Edomites.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Battlefield between Israel and Edom.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sal_h1",
+      "titulo": "David defeats Edom in the Salt Valley",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "David defeats eighteen thousand Edomites in the Valley of Salt; puts garnishes on everything Edom.",
+      "referencias": [
+        "2 Sam 8:13",
+        "1 Chr 18:12"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab",
+        "Abisal"
+      ]
+    },
+    {
+      "id": "sal_h2",
+      "titulo": "Amaziah defeats ten thousand Edomites in the Valley of Salt",
+      "fecha": "ca. 800 BC",
+      "descripcion": "King Amaziah of Judah killed ten thousand Edomites in the Valley of Salt and took Shelah.",
+      "referencias": [
+        "2 Kgs 14:7",
+        "2 Chr 25:11"
+      ],
+      "personajes_clave": [
+        "Amasías"
+      ]
+    },
+    {
+      "id": "sal_h3",
+      "titulo": "Psalm 60: occasion of the battle in the valley",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Psalm 60 was written according to the title 'when he fought with Aram-Naharaim... and Joab killed twelve thousand of Edom in the valley of Salt'.",
+      "referencias": [
+        "Ps 60:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sal_p1",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He won the first major victory over Edom in the Salt Valley.",
+      "referencias": [
+        "2 Sam 8:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p2",
+      "nombre": "Amaziah",
+      "rol": "King by Judah",
+      "periodo": "ca. 796-767 BC",
+      "descripcion": "He defeated Edom in the Valley of Salt and took Shela (Petra).",
+      "referencias": [
+        "2 Kgs 14:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p3",
+      "nombre": "Joab",
+      "rol": "David General",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He commanded the Israelite victory in the Valley of Salt.",
+      "referencias": [
+        "1 Chr 18:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valley of Salt: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "sal_m1",
+        "nombre": "The valley of victory",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The Salt Valley was the scene of Israel's victories over Edom; The arid place between the two sister kingdoms is witness to their eternal conflict.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Salt Valley was the scene of Israel's victories over Edom; The arid place between the two sister kingdoms is witness to their eternal conflict.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

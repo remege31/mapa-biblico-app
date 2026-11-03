@@ -1,0 +1,252 @@
+{
+  "id": "greece",
+  "nombre": "Grecia (Helade)",
+  "tipo": "territorio",
+  "lat": 39.07,
+  "lng": 21.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Patria della civiltà occidentale; La loro cultura e lingua (koine) formarono il mondo del Nuovo Testamento.",
+  "altitud_m": 200,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "filosofia",
+    "arte",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Culla del pensiero filosofico, dell'alfabeto e della lingua in cui è stato scritto il Nuovo Testamento.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gre_h1",
+      "titulo": "Alessandro diffonde l'ellenismo",
+      "fecha": "336-323 a.C.",
+      "descripcion": "Alessandro Magno conquista il mondo conosciuto diffondendo la lingua e la cultura greca; Il greco Koine diventa la lingua franca del Mediterraneo.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Alejandro Magno"
+      ]
+    },
+    {
+      "id": "gre_h2",
+      "titulo": "Paolo visita la Grecia",
+      "fecha": "ca. 51-52 d.C.",
+      "descripcion": "Nel suo secondo viaggio missionario, Paolo visita Atene e Corinto, le due grandi città della Grecia romana.",
+      "referencias": [
+        "At 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "gre_h3",
+      "titulo": "Collezione Grecia per Gerusalemme",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Paolo coordina una colletta nelle chiese della Grecia (Macedonia e Acaia) per i poveri della chiesa Gerusalemme.",
+      "referencias": [
+        "Rm 15:26"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gre_p1",
+      "nombre": "Alessandro Magno",
+      "rol": "Re di Macedonia e conquistatore",
+      "periodo": "356-323 a.C.",
+      "descripcion": "La sua conquista ellenizzò il mondo; il Nuovo Testamento è stato scritto in greco grazie alla sua eredità.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p2",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Ha predicato il Vangelo nel cuore della cultura greca.",
+      "referencias": [
+        "At 17:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p3",
+      "nombre": "Luca",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Forse di origine greca; scrisse il Vangelo e gli Atti in greco letterario.",
+      "referencias": [
+        "Lc 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Senza la Grecia non ci sarebbe il NT: la koinè greca era il veicolo della rivelazione; La filosofia greca interlocutrice del vangelo.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "olympic_cult",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "gre_m1",
+        "nombre": "La Settanta: la Torah in greco",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La traduzione della Torah in greco (Settanta, III secolo a.C.) fu il primo ponte tra il mondo ebraico e quello ellenistico.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La traduzione della Torah in greco (Settanta, III secolo a.C.) fu il primo ponte tra il mondo ebraico e quello ellenistico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gv 1,1",
+          "fuente_secundaria": "",
+          "descripcion": "Il Nuovo Testamento è stato scritto interamente in greco; Il logos giovanneo dialoga con la filosofia greca (Gv 1,1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il Nuovo Testamento è stato scritto interamente in greco; Il logos giovanneo dialoga con la filosofia greca (Gv 1,1).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gre_nt_h1",
+        "titulo": "Il Vangelo raggiunge la Grecia",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "La visione del macedone reindirizza la missione di Paolo verso la Grecia; il Vangelo fa un salto al cuore della cultura occidentale.",
+        "referencias": [
+          "At 16:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h2",
+        "titulo": "Paolo ad Atene: il discorso dell'Areopago",
+        "fecha": "ca. 51 d.C.",
+        "descripcion": "Paolo confronta l'idolatria greca con il monoteismo; Cita poeti greci per annunciare la risurrezione.",
+        "referencias": [
+          "At 17:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h3",
+        "titulo": "Le epistole paoline in Koine",
+        "fecha": "ca. 50-67 d.C.",
+        "descripcion": "Paolo scrive in greco Koine per le chiese di tutto l'Impero; Il greco è la lingua universale del Vangelo.",
+        "referencias": [
+          "Rm 1:1",
+          "1 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gre_nt_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Ha predicato il Vangelo in Grecia; Le sue lettere in greco sono la base della teologia cristiana.",
+        "referencias": [
+          "At 17:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p2",
+        "nombre": "Alessandro Magno",
+        "rol": "Preparatore di percorsi",
+        "periodo": "356-323 a.C.",
+        "descripcion": "Senza l’ellenizzazione del mondo, il Nuovo Testamento non avrebbe avuto una lingua universale o un’infrastruttura culturale.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p3",
+        "nombre": "Apollo",
+        "rol": "Predicatore alessandrino",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ebreo alessandrino, eloquente nelle Scritture Greche; Predicò in Acaia.",
+        "referencias": [
+          "At 18:24"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Grecia è la matrice culturale del Nuovo Testamento: la sua lingua, la sua filosofia e le sue rotte marittime hanno permesso la diffusione del Vangelo.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "gre_nt_m1",
+          "nombre": "Logos e filosofia greca",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Giovanni 1,1 utilizza il concetto filosofico greco di 'logos' per annunciare Cristo incarnato: il vangelo parla nella lingua della cultura greca.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Giovanni 1,1 utilizza il concetto filosofico greco di 'logos' per annunciare Cristo incarnato: il vangelo parla nella lingua della cultura greca.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

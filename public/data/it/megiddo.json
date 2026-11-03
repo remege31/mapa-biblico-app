@@ -1,0 +1,145 @@
+{
+  "id": "megiddo",
+  "nombre": "Meghiddo",
+  "tipo": "ciudad",
+  "lat": 32.58,
+  "lng": 35.18,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città strategica presso il passo Wadi Ara che collega la pianura di Sharon con la valle di Jezreel; uno dei siti archeologici più importanti del mondo.",
+  "altitud_m": 60,
+  "clima": "mediterraneo",
+  "recursos": [
+    "agricoltura",
+    "commercio",
+    "posizione strategica",
+    "acqua"
+  ],
+  "importancia_estrategica": "Crocevia degli eserciti del mondo antico; Nell'Apocalisse il suo nome greco (Armageddon) è teatro della battaglia finale.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "meg_h1",
+      "titulo": "La battaglia di Meghiddo: il faraone Thutmose III",
+      "fecha": "ca. 1457 a.C.",
+      "descripcion": "Il faraone Thutmose III sconfigge la coalizione cananea a Meghiddo; prima battaglia documentata dettagliatamente nella storia.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Tutmosis III"
+      ]
+    },
+    {
+      "id": "meg_h2",
+      "titulo": "La morte di re Giosia in Meghiddo",
+      "fecha": "609 a.C.",
+      "descripcion": "Il re riformatore Josiah esce per incontrare il faraone Necho in Meghiddo e viene ferito a morte da un arciere.",
+      "referencias": [
+        "2 Re 23:29-30",
+        "2 Cr 35:20-24"
+      ],
+      "personajes_clave": [
+        "Josías",
+        "Necao"
+      ]
+    },
+    {
+      "id": "meg_h3",
+      "titulo": "Meghiddo nelle profezie e nell'Apocalisse",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "L'Apocalisse utilizza il nome greco di Meghiddo (\"Armageddon\") come luogo della battaglia escatologica finale.",
+      "referencias": [
+        "Ap 16:16"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "meg_p1",
+      "nombre": "Giosia",
+      "rol": "Re riformatore di Giuda",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Morto nel Meghiddo; La sua morte fu pianta come quella di nessun altro re: divenne paradigma della sofferenza dei giusti.",
+      "referencias": [
+        "2 Re 23:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p2",
+      "nombre": "Barak",
+      "rol": "Giudice Israele",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "Con Debora sconfisse l'esercito di Sisera nelle acque di Meghiddo.",
+      "referencias": [
+        "Gdc 5:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p3",
+      "nombre": "Debora",
+      "rol": "profetessa e giudice",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "La canzone di Debora menziona i re di Canaan che combatterono in Meghiddo.",
+      "referencias": [
+        "Gdc 5:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meghiddo: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "meg_m1",
+        "nombre": "Armageddon: la battaglia dei secoli",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Meghiddo fu teatro di così tante battaglie decisive che il suo nome divenne simbolo del luogo dello scontro definitivo tra il bene e il male.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Meghiddo fu teatro di così tante battaglie decisive che il suo nome divenne simbolo del luogo dello scontro definitivo tra il bene e il male.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 16,16",
+          "fuente_secundaria": "",
+          "descripcion": "L'Apocalisse chiama 'Armageddon' (monte Meghiddo) il luogo della battaglia finale tra Dio e le forze del male (Ap 16,16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Apocalisse chiama 'Armageddon' (monte Meghiddo) il luogo della battaglia finale tra Dio e le forze del male (Ap 16,16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

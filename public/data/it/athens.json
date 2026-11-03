@@ -1,0 +1,154 @@
+{
+  "id": "athens",
+  "nombre": "Atene",
+  "tipo": "ciudad",
+  "lat": 37.9755,
+  "lng": 23.7348,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Capitale culturale e filosofica del mondo greco, sede dell'Areopago e dell'Acropoli.",
+  "altitud_m": 70,
+  "clima": "mediterraneo",
+  "recursos": [
+    "filosofia",
+    "arte",
+    "commercio",
+    "ulivi"
+  ],
+  "importancia_estrategica": "Centro intellettuale del mondo antico; città con miriadi di templi e scuole filosofiche.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ath_h1",
+        "titulo": "Paolo nell'Areopago",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo presenta il Vangelo ai filosofi stoici ed epicurei all'Areopago.",
+        "referencias": [
+          "At 17:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Dionisio",
+          "Dámaris"
+        ]
+      },
+      {
+        "id": "ath_h2",
+        "titulo": "L'altare al Dio sconosciuto",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo cita l'altare 'Al Dio Sconosciuto' di Atene per presentare il Dio creatore.",
+        "referencias": [
+          "At 17:23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ath_h3",
+        "titulo": "Reazione mista al Vangelo",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Alcuni si fanno beffe della risurrezione; altri chiedono maggiori informazioni; alcuni credono.",
+        "referencias": [
+          "At 17:32-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Dionisio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ath_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo e filosofo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Dialogò con i filosofi ateniesi; solo discorso evangelistico davanti a un pubblico completamente pagano.",
+        "referencias": [
+          "At 17:22"
+        ],
+        "ruta": [
+          "athens",
+          "corinth"
+        ]
+      },
+      {
+        "id": "ath_p2",
+        "nombre": "Dionisio l'Areopagita",
+        "rol": "Convertito da Atene",
+        "periodo": "s. I d.C.",
+        "descripcion": "Membro dell'Areopago che ha creduto dopo il discorso di Paolo.",
+        "referencias": [
+          "At 17:34"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ath_p3",
+        "nombre": "Damaris",
+        "rol": "Convertito da Atene",
+        "periodo": "s. I d.C.",
+        "descripcion": "Donna che credeva nell'Areopago; La tradizione la collega alla prima chiesa ateniese.",
+        "referencias": [
+          "At 17:34"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città piena di idoli e templi; scena dell'unico dibattito sul Vangelo davanti all'élite intellettuale pagana.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "stoicismo",
+        "epicureismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ath_m1",
+          "nombre": "Il Dio sconosciuto",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Paolo utilizza l'altare \"Al Dio Sconosciuto\" di Atene per proclamare il Dio creatore, collegando la ricerca religiosa greca con il Vangelo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paolo utilizza l'altare \"Al Dio Sconosciuto\" di Atene per proclamare il Dio creatore, collegando la ricerca religiosa greca con il Vangelo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

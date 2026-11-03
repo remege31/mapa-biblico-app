@@ -1,0 +1,132 @@
+{
+  "id": "meshech",
+  "nombre": "Meshec",
+  "tipo": "territorio",
+  "lat": 46.0,
+  "lng": 47.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Persone menzionate insieme a Tubal e Gog nelle genealogie di Genesi 10 e negli oracoli di Ezechiele; identificato con i popoli del Caucaso.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Popoli del nord associati a Gog e Tubal nella profezia escatologica di Ezechiele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mes_h1",
+      "titulo": "Meshech e Tubal nella genealogia di Noè",
+      "fecha": "ca. s. V a.C.",
+      "descripcion": "Nella tavola delle nazioni, Meshech e Tubal sono figli di Jafet; Rappresentano i popoli del Mediterraneo settentrionale.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "mes_h2",
+      "titulo": "Ezechiele: Gog, Meshech e Tubal",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezechiele identifica \"Gog del paese di Magog, principe di Meshech e Tubal\" come il nemico escatologico del nord.",
+      "referencias": [
+        "Ez 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "mes_h3",
+      "titulo": "Meshech nel Salmo 120",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Il Salmo 120 lamenta: \"Guai a me che abito a Meshech!\" come immagine di essere tra persone ostili.",
+      "referencias": [
+        "Sal 120:5"
+      ],
+      "personajes_clave": [
+        "autor del salmo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mes_p1",
+      "nombre": "Ezechiele",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Negli ultimi tempi ha identificato Meshech come parte della coalizione di Gog.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p2",
+      "nombre": "Dio mio",
+      "rol": "principe escatologico",
+      "periodo": "Tiempo del fin",
+      "descripcion": "Guida Meshech e Tubal nell'attacco finale contro Israele.",
+      "referencias": [
+        "Ez 38:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mes_p3",
+      "nombre": "Iafet",
+      "rol": "Figlio di Noè",
+      "periodo": "ca. s. V a.C.",
+      "descripcion": "Padre di Meshech e Tubal nella tavola delle nazioni.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meshech: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "mes_m1",
+        "nombre": "L'estremo nord",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Meshech e Tubal rappresentano le genti dell'estremo nord, oltre il mondo conosciuto; L'attacco di Gog da nord è il paradigma della minaccia escatologica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Meshech e Tubal rappresentano le genti dell'estremo nord, oltre il mondo conosciuto; L'attacco di Gog da nord è il paradigma della minaccia escatologica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

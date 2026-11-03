@@ -1,0 +1,283 @@
+{
+  "id": "hebron",
+  "nombre": "Hebron",
+  "tipo": "ciudad",
+  "lat": 31.5326,
+  "lng": 35.0998,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 71,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Età del Bronzo Medio – Periodo Patriarcale"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: città cananea"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: conquista e insediamento"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: città davidica"
+    }
+  ],
+  "descripcion_geo": "Hebron si trova nel cuore degli altopiani Giuda, a circa 30 km a sud di Gerusalemme, a 930 metri sul livello del mare, la città più alta dell'intera regione. L'antico nome, Kiriath-Arba (città dei quattro), suggerisce una confederazione di quattro villaggi o la presenza dei giganti Anakiti. Circondato da fertili vallate come la Valle dell'Escol, famosa per i suoi vigneti e i suoi melograni, Hebron è sempre stato un centro agricolo e zootecnico di prim'ordine.",
+  "altitud_m": 930,
+  "clima": "Montagna mediterranea: uno dei climi più freschi della regione. Inverni freddi con possibilità di nevicate occasionali, estati miti. Precipitazioni annue di 500-600 mm, superiori alla media della regione.",
+  "recursos": [
+    "Acqua (sorgenti permanenti e pozzi profondi)",
+    "Vigneti e uliveti (la Valle dell'Escol era rinomata per le sue uve)",
+    "Melograno e alberi da frutto",
+    "Pascoli per il bestiame",
+    "Pietra calcarea di alta qualità (costruzione)"
+  ],
+  "importancia_estrategica": "Posizione dominante sulla rotta nord-sud dell'altopiano Giuda. La sua altezza e le risorse idriche ne fecero una città rifugio naturale. Come prima capitale di Davide prima di Gerusalemme, concentrò il potere militare, politico e religioso durante sette anni cruciali per la formazione della monarchia unita.",
+  "otros_habitantes": [
+    {
+      "id": "anaquitas-hebron",
+      "nombre": "Anakiti",
+      "descripcion": "Persone di statura straordinaria che abitavano Hebron e i suoi dintorni. Le spie inviate da Mosè tornarono terrorizzate dal loro incontro con gli Anakiti, descrivendosi come locuste in confronto (Num 13:33). Caleb li espulse durante la conquista, ricevendo la città in eredità (Gs 14,12-15).",
+      "religion": "Politeismo Cananeo: culto delle divinità locali dei Refaiti",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "hititas-hebron",
+      "nombre": "Ittiti di Canaan",
+      "descripcion": "Abramo acquistò la grotta di Machpelah da Efron l'Ittita, in una transazione dettagliata in Gen 23 che segue i formati legali della media età del bronzo. La contrattazione alla porta della città e la fissazione del prezzo in argento corrente tra i mercanti riflettono le pratiche commerciali dell'epoca.",
+      "religion": "Politeismo Cananeo con elementi Ittiti: culto delle divinità della fertilità e degli antenati",
+      "periodo": "C. 1800–1600 a.C. (Bronzo medio)"
+    },
+    {
+      "id": "calebitas-hebron",
+      "nombre": "Calebita",
+      "descripcion": "La tribù di Caleb, di origine kenizea (Num 32:12), ricevette Hebron come eredità permanente per la fedeltà del loro antenato durante lo spionaggio di Canaan. I Calebiti furono completamente integrati nella tribù di Giuda e mantennero il controllo di Hebron durante il periodo davidico.",
+      "religion": "Yahvismo: integrazione nel culto Israele",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "machpela-compra",
+      "titulo": "La grotta di Macpela: il primo suolo della promessa",
+      "fecha": "c. 1750 a.C.",
+      "descripcion": "Dopo la morte di Sarah, Abramo ha negoziato con Ittiti per l'acquisto della grotta di Machpelah, pagando 400 shekel d'argento a Efron. Questa transazione è l'unico territorio che i patriarchi possedevano durante la loro vita nella terra promessa. La grotta divenne una tomba di famiglia: lì furono sepolti Abramo e Sarah, Isacco e Rebekah, Giacobbe e Leah.",
+      "referencias": [
+        "Gen 23:1-20",
+        "Gen 25:9-10",
+        "Gen 49:29-32",
+        "Gen 50:13"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "david-rey-hebron",
+      "titulo": "Davide re unto in Hebron",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Dopo la morte di Saul, Davide è salito a Hebron per ordine divino. Gli anziani di Giuda lo unsero re, dove regnò per sette anni e sei mesi prima di spostare la capitale a Gerusalemme. In Hebron nacquero sei dei suoi figli, tra cui Amnon e Absalom. Anche lì, il generale Joab uccise Abner, complicando l'unificazione del regno.",
+      "referencias": [
+        "2 Sam 2:1-4",
+        "2 Sam 2:11",
+        "2 Sam 3:2-5",
+        "2 Sam 3:27-30",
+        "2 Sam 5:1-5"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "absalon-rebelion",
+      "titulo": "La ribellione di Absalom: tradimento da Hebron",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Absalom scelse Hebron come base per proclamarsi re e lanciare la sua ribellione contro suo padre Davide. La città aveva un peso simbolico: fu la prima capitale di Davide. La ribellione fallì quando Absalom fu ucciso da Joab contro gli ordini di Davide. Il lamento del re—Absalom, figlio mio, figlio mio!—è uno dei passaggi più emozionanti del libro di Samuele.",
+      "referencias": [
+        "2 Sam 15:7-12",
+        "2 Sam 15:13-14",
+        "2 Sam 18:1-18",
+        "2 Sam 18:33"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abramo",
+      "rol": "Patriarca fondatore, primo monoteista della storia biblica",
+      "periodo": "bronce_medio",
+      "descripcion": "Originario di Ur dei Caldei, Abramo ha ricevuto la chiamata a migrare verso Canaan con la promessa di terra, discendenza e benedizione universale. Ha stabilito il suo accampamento principale vicino al bosco di querce di Mamré, vicino a Hebron, dove ha ricevuto la visita dei tre angeli che hanno annunciato la nascita di Isacco.",
+      "referencias": [
+        "Gen 12:1-9",
+        "Gen 13:14-18",
+        "Gen 18:1-15",
+        "Gen 23:1-20"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "beersheba"
+      ],
+      "viajes": [
+        {
+          "nombre": "Migrazione familiare",
+          "ruta": [
+            "ur",
+            "haran"
+          ],
+          "referencias": [
+            "Gen 11:31-32"
+          ]
+        },
+        {
+          "nombre": "La chiamata a Canaan",
+          "ruta": [
+            "haran",
+            "shechem",
+            "bethel",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 12:1-9",
+            "Gen 13:14-18"
+          ]
+        },
+        {
+          "nombre": "Discesa a Egitto",
+          "ruta": [
+            "mamre",
+            "egipto",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 12:10-20"
+          ]
+        },
+        {
+          "nombre": "Il salvataggio di Lot",
+          "ruta": [
+            "mamre",
+            "dan",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 14:1-16",
+            "Gen 14:17-20"
+          ]
+        },
+        {
+          "nombre": "Il patto di Gerar",
+          "ruta": [
+            "mamre",
+            "gerar",
+            "beersheba"
+          ],
+          "referencias": [
+            "Gen 20:1-18",
+            "Gen 21:22-34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caleb",
+      "nombre": "Caleb ben Jefone",
+      "rol": "Spia fedele, conquistatrice di Hebron",
+      "periodo": "c. 1250–1200 a.C.",
+      "descripcion": "L'unica spia insieme a Giosuè che confidava nella conquista di Canaan. Quarantacinque anni dopo, all'età di 85 anni, rivendicò Hebron come eredità promessa da Mosè ed espulse gli Anakiti. Il suo vigore nella vecchiaia divenne un simbolo di lealtà premiata.",
+      "referencias": [
+        "Nm 13:6",
+        "Nm 14:24",
+        "Gs 14:6-15",
+        "Gs 15:13-14"
+      ],
+      "ruta": [
+        "hebron"
+      ]
+    },
+    {
+      "id": "david",
+      "nombre": "Davide",
+      "rol": "Re di Giuda e Israele, scelto da YHWH",
+      "periodo": "hierro_2",
+      "descripcion": "Pastore di Betlemme, unto segretamente da Samuele, Davide fece di Hebron la sua prima capitale per sette anni e mezzo. In Hebron nascono i suoi primi figli e il suo potere su Giuda si consolida. Fu anche teatro della ribellione di Absalom, che oscurò la fine del suo regno.",
+      "referencias": [
+        "2 Sam 2:1-11",
+        "2 Sam 5:1-5",
+        "2 Sam 15:7-12",
+        "2 Sam 18:33"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hebron è la città dei patriarchi per eccellenza. La grotta di Machpelah, dove riposano Abramo e Sarah, Isacco e Rebekah, Giacobbe e Leah, ne fa il primo luogo sacro dell'ebraismo legato alla promessa territoriale. Questa sacralità patriarcale precede il Tempio di Gerusalemme e sopravvive a tutte le vicissitudini politiche. Per l'Islam, il Patriarca Ibrahim è il fondatore della Ka'ba e il primo musulmano; La tomba di Hebron è il quarto sito più sacro dell'Islam.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo (Abramo, Isacco, Giacobbe)",
+      "Politeismo Cananeo (Anakiti, pre-conquista Ittiti)",
+      "Yahvismo istituzionale (periodo davidico e monarchico)",
+      "Islam (Tomba di Ibrahim - Moschea di Ibrahim / Grotta di Machpelah)"
+    ],
+    "mitos": [
+      {
+        "id": "macpela-tumba",
+        "nombre": "La Grotta di Macpela: Tomba dei Patriarchi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 23; 25:9-10; 49:29-32; 50:13",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 58; Sefer HaYashar",
+          "descripcion": "La grotta è identificata come il luogo di riposo dei sei patriarchi e matriarche. Secondo il Midrash, lì furono sepolti anche Adamo ed Eva, trasformando la grotta nella tomba dell'umanità originaria.",
+          "similitudes": "Tutte e tre le tradizioni riconoscono Abramo/Ibrahim come il padre fondatore sepolto a Hebron.",
+          "diferencias": "L'ebraismo identifica sei tombe patriarcali; L'Islam enfatizza la tomba di Ibrahim; Il cristianesimo concentra il suo significato su Abramo come padre della fede, non sul luogo fisico.",
+          "significado_teologico": "Il possesso legale di Machpelah è il primo adempimento tangibile della promessa territoriale. La terra promessa iniziò come una grotta per i morti.",
+          "posible_relacion_cultural": "Il culto degli antenati sepolti nelle grotte sacre è documentato in tutto il Levante del Bronzo Medio."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hechos 7:16; Hebreos 11:8-16",
+          "fuente_secundaria": "Eusebio de Cesarea, Onomasticon; peregrinaciones medievales",
+          "descripcion": "La Lettera agli Ebrei loda Abramo per aver vissuto come straniero nella terra promessa, cercando una patria migliore, quella celeste. Hebron come luogo fisico ha meno rilevanza teologica rispetto a Abramo come modello di fede.",
+          "similitudes": "Abramo come paradigma di fede obbediente è centrale sia per Paolo che per Genesis.",
+          "diferencias": "Il Nuovo Testamento spiritualizza la promessa territoriale: la terra non è più Canaan ma il Regno di Dio.",
+          "significado_teologico": "Hebron rappresenta l'inizio della fede come pellegrinaggio; Anche il cristiano è uno straniero in cerca della patria celeste.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2 (Al-Baqara); Sura 4:125",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya; Ibn Battuta, visita a Al-Khalil",
+          "descripcion": "Hebron è conosciuto in arabo come Al-Khalil (l'amico), in riferimento al titolo di Ibrahim Khalilullah (amico di Dio). La Moschea Ibrahim, costruita sulla grotta di Machpelah, è considerata il quarto luogo più sacro dell'Islam.",
+          "similitudes": "Ibrahim come primo monoteista e padre della fede è condiviso da tutte e tre le tradizioni.",
+          "diferencias": "L'Islam sottolinea che Ibrahim era un musulmano prima del giudaismo e del cristianesimo; La tomba è un luogo di pellegrinaggio attivo.",
+          "significado_teologico": "Al-Khalil testimonia che l'Islam è la religione originaria di Ibrahim, anteriore alla Torah e al Vangelo.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "ashdod",
+  "nombre": "Ashdod",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.803,
+  "lng": 34.6351,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 23,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Philistine Pentapolis"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron II — Philistine city-state under Israelite and Assyrian pressure"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Under Persian rule"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Ashdod (Hebrew: אַשְׁדּוֹד; Philistine: Asdudu) was the largest of the five cities of the Philistine Pentapolis, located on the coastal plain of Canaan about 5 km from the Mediterranean and 35 km north of Gaza. It controlled the coastal route (Via Maris) between Egypt and north of Canaan. The archaeological tell (Tel Ashdod) shows uninterrupted occupation from the Middle Bronze to the Hellenistic period. The lower city ('Ashdod-yam', the port) completed the urban system. Spanning 60 hectares at its peak, it was one of the largest cities in Canaan during Iron I-II.",
+  "altitud_m": 35,
+  "clima": "Coastal Mediterranean — hot, dry summers moderated by sea breezes, mild winters with rainfall of 400-500 mm. Soils of fertile red earth (hamra) suitable for intensive agriculture.",
+  "recursos": [
+    "Sea port and access to Mediterranean trade",
+    "Coastal plain with high agricultural productivity (wheat, barley, grapevine, olive tree)",
+    "Control of the Via Maris — main commercial and military route",
+    "Textile and purple dye industry",
+    "Bronze and iron craftsmanship — the Philistines controlled iron metallurgy"
+  ],
+  "importancia_estrategica": "Ashdod was the northern key to the Philistine Pentapolis and control of the Via Maris made it an indispensable city for any power that wanted to dominate the corridor between Egypt and Mesopotamia. His fall before Uzziah of Judah (c. 760 BC) and later before the Assyrians of Sargon II (712 BC) mark two decisive moments in the expansion of the great empires on the Canaanite coast.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos",
+      "nombre": "Philistines",
+      "descripcion": "The Philistines, arriving as 'Sea People' around 1200 BC, settled on the coastal plain and founded the Pentapolis (Gaza, Ashkelon, Ashdod, Ekron, Gath). In Ashdod they established the main temple of Dagon, their agricultural and grain god. Technologically advanced in iron metallurgy, they maintained military superiority over Israel during the 11th-10th centuries BC. The city also housed a cosmopolitan merchant class with contacts in Cyprus, the Aegean and Egypt, as evidenced by archaeological finds of Mycenaean and Cypriot ceramics.",
+      "religion": "Philistine polytheism — cult of Dagon (main god), Baal-Zebub (Ekron), Astarte. Progressive syncretism with Canaanites cults.",
+      "periodo": "c. 1200–600 BC"
+    },
+    {
+      "id": "cananeos-ashdod",
+      "nombre": "Pre-Philistine Canaanite population",
+      "descripcion": "Before the arrival of the Philistines, Ashdod was a Late Bronze Canaanite city with trade connections to Ugarit and Egypt. Archaeological excavation has revealed that the Philistines did not eradicate the Canaanite population but rather gradually merged with it. By the 9th century BC, the cultural distinction between Philistines and Canaanites in Ashdod was already tenuous, evidenced by the Philistine adoption of Semitic theophoric names and Canaanite religious practices.",
+      "religion": "Polytheism Canaanite — Baal, Asherah, The",
+      "periodo": "Late Bronze to c. 1100 BC, with subsequent gradual assimilation"
+    },
+    {
+      "id": "judios-ashdod-postexilio",
+      "nombre": "Mixed post-exilic population",
+      "descripcion": "Nehemiah mentions that the children of mixed marriages between returned Israelites and women from Ashdod no longer knew how to speak Hebrew, only 'the language of Ashdod' (Neh 13:24). This archaeological-linguistic data reveals that post-exilic Ashdod was a multicultural city where Israelite identity was at risk of dissolving, being one of the problems that Nehemiah addressed with greatest urgency in his reform.",
+      "religion": "Syncretism — mixture of Yahwism and local cults Canaanites and Philistines",
+      "periodo": "Post-exile, 5th-4th centuries BC."
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca-dagon",
+      "titulo": "The ark in the temple of Dagon",
+      "fecha": "c. 1050 BC",
+      "descripcion": "After the Battle of Eben-ezer, the Philistines captured the Ark of the Covenant and brought it to Ashdod as a war trophy, placing it in the temple of Dagon next to the statue of the god. The next morning, they found Dagon fallen face to the ground before the ark. They replaced him, but the next day they found him fallen again, this time with his head and hands cut off on the threshold. Simultaneously, a devastating plague (hemorrhages, perhaps bubonic plague transmitted by mice) hit the city. The Ashdodites sent the ark to Gath, and from there to Ekron, with identical catastrophic results. After seven months, the Philistines lords agreed to return the ark to Israel with an offering of five golden tumors and five golden mice, one for each city of the Pentapolis.",
+      "referencias": [
+        "1 Sam 5:1-7",
+        "1 Sam 5:6-12",
+        "1 Sam 6:1-12"
+      ],
+      "personajes_clave": [
+        "dagon-sacerdotes"
+      ]
+    },
+    {
+      "id": "uzias-ashdod",
+      "titulo": "Uzziah tears down the walls of Ashdod",
+      "fecha": "c. 760 BC",
+      "descripcion": "King Uzziah of Judah (also called Azariah) undertook a systematic military expansion westward. His troops attacked Gath, Jabneh and Ashdod, tore down their walls and built cities in the territory of Ashdod and among the Philistines. This campaign represented the peak of power of the kingdom of Judah before the Assyrian threat. The archaeological excavation at Tell Ashdod has confirmed an 8th century level of destruction that may correspond to this campaign. Uzziah's victory is also the background for his later pride—he wanted to offer incense in the temple as a priest, was struck with leprosy, and lived in isolation until his death.",
+      "referencias": [
+        "2 Chr 26:6-8",
+        "2 Kgs 15:1-7",
+        "Isa 20:1"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "sargon-ashdod",
+      "titulo": "The Ashdod rebellion and the campaign of Sargon II",
+      "fecha": "712 BC",
+      "descripcion": "King Yamani of Ashdod led an anti-Assyrian coalition seeking support from Egypt, Ethiopia and Judah. Sargon II of Assyria sent his tartan (chief general) to quell the rebellion. Yamani fled to Egypt (or Ethiopia), where he was eventually handed over in chains to the Assyrians. Ashdod was converted into an Assyrian province. The prophet Isaiah then acted as a prophetic sign: he walked barefoot and in his underwear for three years through the streets of Jerusalem to warn that this is how the prisoners of Egypt and Ethiopia would march when they fell to Assyria — the warning was for Judah not to trust those powers. The chronicles of Sargon II, discovered at Khorsabad, mention this campaign explicitly.",
+      "referencias": [
+        "Isa 20:1-6",
+        "2 Kgs 18:8"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "yamani"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias",
+      "nombre": "Uzziah (Azariah)",
+      "rol": "King of Judah in his greatest territorial expansion",
+      "periodo": "c. 792–740 BC",
+      "descripcion": "Uzziah was the king of Judah who brought the kingdom to its largest territorial extent since Solomon. In addition to his campaign against Ashdod, he reorganized the army with advanced metal equipment, strengthened Jerusalem's defenses with towers and war machines, and developed Negev agriculture with cisterns and towers. His long and prosperous reign ended in tragedy: he attempted to assume priestly functions in the temple, was struck with leprosy, and lived the rest of his life in a 'house of isolation', while his son Jotham ruled as co-regent. The year of his death marks the beginning of Isaiah's prophetic ministry (Is 6:1).",
+      "referencias": [
+        "2 Chr 26:1-23",
+        "2 Kgs 15:1-7",
+        "Isa 6:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias",
+      "nombre": "Isaiah",
+      "rol": "Prophet of Jerusalem, advisor to kings during the Assyrian crisis",
+      "periodo": "c. 760–700 BC",
+      "descripcion": "Isaiah ben Amos was the court prophet of Jerusalem during the most critical period of Assyrian expansion. His action in the Ashdod crisis—walking for three years in his underwear as a prophetic sign—is one of the most striking prophetic gestures in the OT. A prophet of cosmic and historical vision, he combined the announcement of judgment on Israel and his neighbors with the highest messianic promises of the OT. His book, the longest of the prophets, decisively influenced later biblical theology and is the most cited in the New Testament.",
+      "referencias": [
+        "Isa 1:1",
+        "Isa 6:1-13",
+        "Isa 20:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "yamani",
+      "nombre": "Yamani of Ashdod",
+      "rol": "Rebel king of Ashdod who challenged Assyria",
+      "periodo": "c. 713–712 BC",
+      "descripcion": "Yamani ('the Greek' or 'the Ionian', possibly indicating Aegean or mercenary origin) was a usurper who took the throne of Ashdod and organized the most significant anti-Assyrian rebellion on the Canaanite coast of his time. He sought coalition with Egypt, Ethiopia, Moab, Edom and possibly Judah. His name in the Assyrian chronicles (Ia-ma-ni) and the mention of his flight to 'the distant regions of Ethiopia' that handed him over in chains to Sargon are historically verifiable. Its failure demonstrated that no regional coalition could resist the military power of Assyria at its peak.",
+      "referencias": [
+        "Isa 20:1",
+        "Inscripciones de Sargón II en Khorsabad"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ashdod is the scene of the most direct confrontation between the God of Israel and a rival deity in the entire OT: the collapse of Dagon before the Ark of the Covenant. The episode functions narratively as an anti-triumphant procession — the war trophy becomes the destroyer of the victor's shrine. Theologically, the text states that the capture of the ark did not mean the defeat of Yahweh but rather its temporary displacement to enemy territory, where it continued to operate with full sovereignty.",
+    "religiones_presentes": [
+      "Philistine polytheism – cult of Dagon as main deity",
+      "Yahwism Israelite — presence of the ark as a symbol of the divine presence",
+      "Syncretized Canaanite polytheism — Baal, Astarte"
+    ],
+    "mitos": [
+      {
+        "id": "dagon-vs-yhwh",
+        "nombre": "The fall of Dagon before the ark",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 5:1-5",
+          "fuente_secundaria": "Talmud Bavli, Avodá Zará 44a; Midrash Samuel 13",
+          "descripcion": "The episode of the ark in Ashdod is read in rabbinic tradition as a demonstration of the superiority of Yahweh over all the gods. The Midrash Samuel develops that the Philistines found Dagon 'prostrate before the ark' as a servant before his master. The Talmud (Avodah Zara 44a) uses the passage to illustrate the powerlessness of idols: Dagon himself was the first to 'recognize' the sovereignty of Yahweh. The plague that followed was interpreted as confirmation that divine sovereignty could not be stopped by geopolitical borders.",
+          "similitudes": "All three traditions share the notion that idols are powerless before the true God.",
+          "diferencias": "Judaism emphasizes the absolute territorial sovereignty of Yahweh; Islam would carry this principle to absolute tawhid (divine oneness).",
+          "significado_teologico": "Yahweh cannot be 'captured' or confined. The divine presence works even in enemy lands. The ark is a sign of the uncontrollable sovereignty of God.",
+          "posible_relacion_cultural": "Dagon (דָּגוֹן) is a West Semitic deity with roots in Middle Bronze Age Syria (Ebla, Mari). Its name may be related to 'grain' (dagan) or 'cloud/rain'. The Ugarit texts present him as the father of Baal."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 5:1-5; 1 Cor 8:4-6",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios, I,1",
+          "descripcion": "The fathers of the Church used the episode of Dagon as a demonstration of the falsity of idols, a central apologetic argument in the context of the polytheistic Greco-Roman world. Augustine in The City of God compares the presence of the ark in Ashdod with the situation of the Church in the Roman Empire: God works in hostile territory and ends up triumphing without the need for human protection. The episode also prefigures, in a typological reading, Christ who enters the kingdom of death and defeats it from within.",
+          "similitudes": "The divine sovereignty that transcends borders is identical in both traditions.",
+          "diferencias": "The NT reinterprets divine power in terms of apparent weakness and resurrection, not the physical toppling of idols.",
+          "significado_teologico": "The apparent defeat (capture of the ark) conceals a greater victory. Theology of the cross avant la lettre.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

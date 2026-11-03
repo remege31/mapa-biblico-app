@@ -1,0 +1,246 @@
+{
+  "id": "phrygia",
+  "nombre": "Frigia",
+  "tipo": "territorio",
+  "lat": 38.76,
+  "lng": 31.05,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Antica regione dell'Asia Minore centro-occidentale, divisa tra le province romane dell'Asia e della Galazia. Colossesi e Frigia sono sorelle.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phr_h1",
+      "titulo": "Paolo attraversa la Frigia confermando le chiese",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Nel secondo viaggio, Paolo e Sila attraversano la regione frigio-galatica, confermando i discepoli.",
+      "referencias": [
+        "At 16:6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "phr_h2",
+      "titulo": "Paolo in Frigia durante il terzo viaggio",
+      "fecha": "ca. 53 d.C.",
+      "descripcion": "Nel terzo viaggio, Paolo attraversa nuovamente la regione della Frigia e della Galazia, rafforzando tutti i discepoli.",
+      "referencias": [
+        "At 18:23"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "phr_h3",
+      "titulo": "Colossesi e Frigi",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "La lettera ai Colossesi, scritta da Roma, è indirizzata a una chiesa frigia fondata da Epafra.",
+      "referencias": [
+        "Col 1:7",
+        "Col 4:12-13"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Epafras"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phr_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Passò due volte dalla Frigia durante i suoi viaggi missionari.",
+      "referencias": [
+        "At 16:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p2",
+      "nombre": "Epafra",
+      "rol": "Fondatore di Colosse",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fondò la chiesa a Colosse (una città frigia) e fu un fedele insegnante di Paolo.",
+      "referencias": [
+        "Col 1:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p3",
+      "nombre": "Filemone",
+      "rol": "Capo della chiesa di Colosse",
+      "periodo": "s. I d.C.",
+      "descripcion": "Cristiano di Frigia al quale Paolo scrisse la lettera più personale del NT.",
+      "referencias": [
+        "Fm 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Frigia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "phr_m1",
+        "nombre": "Frigia: terra di musica sacra e di eresie",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La Frigia è famosa per la sua musica religiosa (il modo frigio) e in seguito fu la terra del montanismo (II secolo d.C.); Paolo l'ha evangelizzata durante i suoi viaggi.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Frigia è famosa per la sua musica religiosa (il modo frigio) e in seguito fu la terra del montanismo (II secolo d.C.); Paolo l'ha evangelizzata durante i suoi viaggi.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phr_h1",
+        "titulo": "Paolo attraversa la Frigia confermando le chiese",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Nel secondo viaggio, Paolo e Sila attraversano la regione frigio-galatica, confermando i discepoli.",
+        "referencias": [
+          "At 16:6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "phr_h2",
+        "titulo": "Paolo in Frigia durante il terzo viaggio",
+        "fecha": "ca. 53 d.C.",
+        "descripcion": "Nel terzo viaggio, Paolo attraversa nuovamente la regione della Frigia e della Galazia, rafforzando tutti i discepoli.",
+        "referencias": [
+          "At 18:23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "phr_h3",
+        "titulo": "Colossesi e Frigi",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "La lettera ai Colossesi, scritta da Roma, è indirizzata a una chiesa frigia fondata da Epafra.",
+        "referencias": [
+          "Col 1:7",
+          "Col 4:12-13"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Epafras"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phr_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Passò due volte dalla Frigia durante i suoi viaggi missionari.",
+        "referencias": [
+          "At 16:6"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p2",
+        "nombre": "Epafra",
+        "rol": "Fondatore di Colosse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fondò la chiesa a Colosse (una città frigia) e fu un fedele insegnante di Paolo.",
+        "referencias": [
+          "Col 1:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p3",
+        "nombre": "Filemone",
+        "rol": "Capo della chiesa di Colosse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cristiano di Frigia al quale Paolo scrisse la lettera più personale del NT.",
+        "referencias": [
+          "Fm 1:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Frigia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "phr_m1",
+          "nombre": "Frigia: terra di musica sacra e di eresie",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La Frigia è famosa per la sua musica religiosa (il modo frigio) e in seguito fu la terra del montanismo (II secolo d.C.); Paolo l'ha evangelizzata durante i suoi viaggi.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La Frigia è famosa per la sua musica religiosa (il modo frigio) e in seguito fu la terra del montanismo (II secolo d.C.); Paolo l'ha evangelizzata durante i suoi viaggi.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

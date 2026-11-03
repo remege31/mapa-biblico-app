@@ -1,0 +1,156 @@
+{
+  "id": "negeb",
+  "nombre": "Negev",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.3,
+  "lng": 34.2,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 42,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronzo medio - Romano"
+    }
+  ],
+  "descripcion_geo": "Regione semiarida a sud di Israele, tra il deserto Sinai e il Mar Morto. Terra di patriarchi e di vie carovaniere.",
+  "altitud_m": 400,
+  "clima": "arido-deserto",
+  "recursos": [
+    "pascolo",
+    "commercio di carovane",
+    "rame"
+  ],
+  "importancia_estrategica": "Zona di passaggio tra Egitto e Canaan; terra di Abramo, Isacco e le prime comunità di Israele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neg_h1",
+      "titulo": "Abramo vive in Negev",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Abramo è impostato tra Kades e Shur in Negev; Lì nasce Isacco e Hagar trova l'acqua nel deserto.",
+      "referencias": [
+        "Gen 20:1",
+        "Gen 21:14"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Agar",
+        "Sara"
+      ]
+    },
+    {
+      "id": "neg_h2",
+      "titulo": "Israele nel deserto di Negev",
+      "fecha": "ca. 1260-1220 a.C.",
+      "descripcion": "Israele vaga per Negev e Sinai per quarant'anni come punizione per l'incredulità delle spie.",
+      "referencias": [
+        "Nm 13-14"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "neg_h3",
+      "titulo": "Giovanni Battista nel deserto della Giudea",
+      "fecha": "ca. 26-29 d.C.",
+      "descripcion": "Giovanni Battista predica nel deserto della Giudea (bordi del Negev): 'Convertitevi, perché il regno dei cieli è vicino.'",
+      "referencias": [
+        "Mt 3:1-4"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neg_p1",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Ha vissuto e si è accampato nell'Negev; Lì ricevette visite angeliche e generò Isacco.",
+      "referencias": [
+        "Gen 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p2",
+      "nombre": "Caleb",
+      "rol": "Esploratore e conquistatore",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Unico esploratore insieme a Giosuè che si è fidato di Dio quando ha riconosciuto Negev; ha ricevuto Hebron in eredità.",
+      "referencias": [
+        "Nm 13:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p3",
+      "nombre": "Giovanni Battista",
+      "rol": "Profeta e precursore",
+      "periodo": "ca. 5 a.C.–29 d.C.",
+      "descripcion": "Visse e predicò nel deserto della Giudea, ai margini del Negev.",
+      "referencias": [
+        "Mt 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il deserto del Sud: luogo di prova, di incontro con Dio e di purificazione. I patriarchi lo abitarono; Israele lo ha attraversato durante l'esodo; Giovanni Battista lo usò come piattaforma.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "neg_m1",
+        "nombre": "Il deserto come luogo di incontro divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Os 2,14",
+          "fuente_secundaria": "",
+          "descripcion": "L'Negev è una terra di patriarchi e di pellegrinaggi; Nella Bibbia il deserto è il luogo dove Dio parla al cuore (Os 2,14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Negev è una terra di patriarchi e di pellegrinaggi; Nella Bibbia il deserto è il luogo dove Dio parla al cuore (Os 2,14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Isaia 40:3",
+          "fuente_secundaria": "",
+          "descripcion": "Giovanni Battista 'prepara la via del Signore' nel deserto, adempiendo Isaia 40:3.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Giovanni Battista 'prepara la via del Signore' nel deserto, adempiendo Isaia 40:3.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam venera Ibrahim (Abramo) che abitava la regione; Il deserto è una terra di profeti.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam venera Ibrahim (Abramo) che abitava la regione; Il deserto è una terra di profeti.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

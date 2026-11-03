@@ -1,0 +1,160 @@
+{
+  "id": "aijalon",
+  "nombre": "Aijalon",
+  "tipo": "ciudad",
+  "lat": 31.84117376619545,
+  "lng": 35.02537926743067,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città levitica nella valle dei miracoli Dan, Giosuè"
+    }
+  ],
+  "descripcion_geo": "Città e valle omonima che controlla una delle vie naturali di ascesa dalla pianura costiera filistea verso i monti centrali di Giuda e Beniamino, attraverso il passo di Beth-Horon. La valle dell'Aijalon è un classico corridoio strategico tra la costa e gli altopiani.",
+  "altitud_m": 220,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con precipitazioni moderate; La valle funge da canale del vento tra la costa e le montagne.",
+  "recursos": [
+    "Controllo del corridoio naturale costa-montagna via Beth-Horon",
+    "Terreno agricolo della valle",
+    "Posizione levitica all'interno del territorio di Dan"
+  ],
+  "importancia_estrategica": "La valle di Aijalon è una delle porte militari più importanti verso l'interno di Canaan dalla pianura costiera, motivo per cui appare nel racconto dell'inseguimento di Giosuè dopo la battaglia di Gabaon e, secoli dopo, sarebbe teatro di battaglie ricorrenti tra gli israeliti e Filistei per il controllo di quello stesso passo.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_aijalon",
+      "nombre": "Amorrei",
+      "descripcion": "Popolazione cananeo-amorea presente nella valle prima e durante la conquista; La valle è teatro della persecuzione degli eserciti Amorrei sconfitti in Gabaon.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "levitas_aijalon",
+      "nombre": "Leviti",
+      "descripcion": "Aijalon viene assegnata come una delle città levitiche all'interno del territorio di Dan, destinata alla residenza delle famiglie della tribù sacerdotale senza una propria eredità territoriale.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sol-detenido-aijalon",
+      "titulo": "Il sole si ferma su Aijalon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Durante l'inseguimento degli eserciti della coalizione dei cinque re Amorrei in seguito alla battaglia di Gabaon, Giosuè chiede a YHWH di far stare il sole sopra Gabaon e la luna sopra la valle di Aijalon, prolungando la luce del giorno finché Israele non completa la sconfitta dei suoi nemici.",
+      "referencias": [
+        "Gs 10:12-14"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "aijalon-ciudad-levitica",
+      "titulo": "Aijalon come città levitica",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Nella distribuzione del territorio dopo la conquista, Aijalon viene assegnata alla tribù di Dan e successivamente designata come una delle città levitiche, destinata alle famiglie sacerdotali distribuite tra le diverse tribù di Israele.",
+      "referencias": [
+        "Gs 19:42",
+        "Gs 21:24"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "filisteos-control-aijalon",
+      "titulo": "Controllo filisteo del Passo Aijalon",
+      "fecha": "c. 1100–1000 a.C.",
+      "descripcion": "La valle di Aijalon, come corridoio tra la costa filistea e le montagne centrali, cade sotto la pressione e il controllo intermittente dei filistei durante il periodo dei Giudici, formando parte della cintura di città che la tribù Dan non riesce a controllare stabilmente, contribuendo alla successiva migrazione danita verso nord.",
+      "referencias": [
+        "Gdc 1:34-35"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_aijalon",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Pronuncia ad Aijalon l'ordine alla luna di fermarsi, nell'episodio che il testo biblico descrive come un giorno senza precedenti in cui YHWH ode la voce di un uomo.",
+      "referencias": [
+        "Gs 10:12-14"
+      ],
+      "ruta": [
+        "gibeon",
+        "aijalon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "amorreos_aijalon_personaje",
+      "nombre": "Eserciti della coalizione amorrei",
+      "rol": "Forze in ritirata dopo la sconfitta di Gabaon",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "Truppe sconfitte in fuga sull'altura di Beth-Horon verso la valle di Aijalon, inseguite da Israele durante l'episodio del sole fermo.",
+      "referencias": [
+        "Gs 10:10-14"
+      ],
+      "ruta": [
+        "aijalon"
+      ]
+    },
+    {
+      "id": "danitas_aijalon",
+      "nombre": "Tribù Dan (ad Aijalon)",
+      "rol": "Popolazione israelita assegnata al territorio",
+      "periodo": "c. 1200–1100 a.C.",
+      "descripcion": "Sebbene Aijalon sia loro formalmente assegnato, i Daniti non riescono a espellere completamente la popolazione amorrei né ad assicurarsi un controllo stabile della valle, situazione che il Libro dei Giudici indica esplicitamente come un parziale fallimento della conquista.",
+      "referencias": [
+        "Gdc 1:34-35"
+      ],
+      "ruta": [
+        "aijalon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Aijalon è la scena di uno dei miracoli più citati nell'Antico Testamento - l'arresto del sole e della luna - interpretato nella teologia deuteronomista come la prova definitiva che YHWH combatte direttamente per conto di Israele. La sua successiva designazione come città levitica rafforza simbolicamente il luogo come punto di intersezione tra la vittoria militare e la presenza sacerdotale jahvista nel territorio appena conquistato.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Cananeo-Politeismo amorreo (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "sol-luna-detenidos",
+        "nombre": "Il sole e la luna si fermarono su Gabaon e Aijalon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 10:12-14",
+          "fuente_secundaria": "Talmud Babilónico, Avodah Zarah 25a (discusión astronómica y teológica del prodigio)",
+          "descripcion": "La tradizione rabbinica discute a lungo la natura del fenomeno - se si trattasse di arresto letterale delle stelle o di alterazione percettiva - e lo cita come l'esempio supremo di miracolo compiuto in risposta diretta alla parola di un essere umano, citando il testo: \"non ci fu un giorno simile, né prima né dopo\".",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il prodigio conferma che YHWH lotta attivamente per Israele e che anche l'ordine cosmico può essere subordinato alla parola del suo servo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gs 10:12-14 (recepción patrística como prueba del poder divino sobre la creación)",
+          "fuente_secundaria": "Agustín de Hipona, La Ciudad de Dios, Libro XXI (referencias a prodigios bíblicos como signos del poder de Dios)",
+          "descripcion": "La tradizione patristica cita l'episodio come prova della signoria di Dio sulle leggi naturali, integrandolo in argomentazioni apologetiche più ampie sulla veridicità dei racconti dei miracoli dell'Antico Testamento.",
+          "similitudes": "Condivide con la lettura ebraica l'accento sul carattere unico e senza precedenti del prodigio.",
+          "diferencias": "La discussione cristiana antica è orientata più verso l'apologetica filosofica (difesa della possibilità del miracolo) che verso l'analisi halakhica del fenomeno.",
+          "significado_teologico": "L'episodio è utilizzato come argomento a favore del potere assoluto di Dio sull'ordine creato, successivamente applicabile alla difesa di altri miracoli biblici.",
+          "posible_relacion_cultural": "Accoglienza condivisa del libro di Giosuè come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

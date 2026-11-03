@@ -1,0 +1,190 @@
+{
+  "id": "anathoth",
+  "nombre": "Anathoth",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8129,
+  "lng": 35.2635,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Iron II — United and divided monarchy"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Return and reconstruction"
+    }
+  ],
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Anathoth (Hebrew: עֲנָתוֹת) was a Levitical city in the territory of Benjamin, located about 5 km northeast of Jerusalem, in the eastern foothills of the central Judean mountain range. The place is identified with present-day Ras el-Kharrubeh, next to the modern town of Anata. At about 700 meters above sea level, the city offered an elevated position with views towards the Judean Desert to the east and the Plain of Benjamin to the north. Its proximity to Jerusalem made it a place of honorable exile for disgraced political figures, and the birthplace of one of the most important prophets of the OT.",
+  "altitud_m": 700,
+  "clima": "Semi-arid transitional Mediterranean — the city marks the climatic border between the Mediterranean area and the Judean Desert. Winter rains of 400-500 mm annually, dry and hot summers, frequent easterly winds (sirocco) in spring and autumn.",
+  "recursos": [
+    "Fields of barley and wheat cultivation on the Benjamin Plain",
+    "Olive groves and vineyards on the slopes",
+    "Pastures for small livestock (sheep and goats)",
+    "Local limestone for construction",
+    "Position on the north-south route through the Benjamin Highlands"
+  ],
+  "importancia_estrategica": "A Levitical city assigned to the sons of Aaron (Jos 21:18), Anathoth functioned as a subsidiary priestly center of Jerusalem. Its position half an hour's walk from the capital made it an ideal place for controlled political exiles. The city was also a point on the north-south military route through the hills of Benjamin, as evidenced by the description of the Assyrian march in Is 10:30.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes-levitas",
+      "nombre": "Levitical priests of the family of Abiathar",
+      "descripcion": "Anathoth was a Levitical city and housed a priestly family linked to the line of Eli of Shiloh. Abiathar, priest of David, was banished here by Solomon for having supported Adonijah's candidacy for the throne. This priestly family, displaced from the central sanctuary by the Zadokites, may have influenced the formation of the critical prophetic tradition represented by Jeremiah.",
+      "religion": "Yahwism Levitical — priestly tradition of Shiloh, in tension with the Zadokite priesthood of Jerusalem",
+      "periodo": "Since c. 970 BC (Abiathar's banishment) until the post-exilic period"
+    },
+    {
+      "id": "benjaminitas",
+      "nombre": "Benjaminite inhabitants",
+      "descripcion": "Anathoth's base population belonged to the tribe of Benjamin. The 'men of Anathoth' who threatened Jeremiah with death if he continued to prophesy (Jer 11:21) represent the local establishment that saw the prophecies against Jerusalem and the temple as a betrayal of tribal interests and the local priestly institution.",
+      "religion": "Yahwism popular — mixture of official worship and local syncretistic practices",
+      "periodo": "Monarchy period, 10th-6th centuries BC."
+    }
+  ],
+  "historias": [
+    {
+      "id": "destierro-abiatar",
+      "titulo": "The banishment of Abiatar: first exile to Anathoth",
+      "fecha": "c. 970 BC",
+      "descripcion": "When Solomon consolidated his throne after the death of David, one of his first acts was to depose the priest Abiathar, who had supported Adonijah's rival candidacy. Solomon spared his life for having carried the ark to David his father, but banished him to Anathoth with the prohibition of serving as a priest in Jerusalem. With this act the displacement of the priestly line of Eli—linked to the ancient sanctuary of Shiloh—and the consolidation of the Zadokite priesthood as the official line of Jerusalem was consummated. Anathoth was thus marked as a city of priestly exile and of alternative Yahwist tradition, a fact that scholars have linked to the later formation of the prophetic school that produced the book of Jeremiah.",
+      "referencias": [
+        "1 Kgs 2:26-27",
+        "1 Sam 2:31-35",
+        "1 Kgs 1:7-8"
+      ],
+      "personajes_clave": [
+        "abiatar",
+        "salomon"
+      ]
+    },
+    {
+      "id": "vocacion-jeremias",
+      "titulo": "Jeremiah: the prophet of Anathoth",
+      "fecha": "c. 627 BC",
+      "descripcion": "Jeremiah ben Hilkiah was born in Anathoth, of a priestly family. His prophetic vocation came when he was young, in the 13th year of Josiah's reign. From the beginning his message was radical: the temple did not guarantee automatic protection, the pacts with Egypt were fatal, Babylon was the instrument of divine judgment. His own countrymen of Anathoth plotted to kill him if he did not stop prophesying in the name of Yahweh. Jeremiah discovered the conspiracy by divine revelation and addressed to God one of the so-called 'confessions'—prayers of intimate complaint—that are unique in prophetic literature. The city where he was born became his first persecution.",
+      "referencias": [
+        "Jer 1:1-3",
+        "Jer 11:21-23",
+        "Jer 1:6-8"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "campo-anathoth",
+      "titulo": "The purchase of the field: a prophecy of hope in a time of ruin",
+      "fecha": "587 BC",
+      "descripcion": "While Jeremiah was imprisoned in the guard yard of Jerusalem's royal palace, with the city under siege by the Babylonians, his cousin Janamel came to offer him ransom for a family field in Anathoth. The prophet who had been announcing the catastrophe for decades made the purchase with all legal procedures: he weighed seventeen shekels of silver, signed the document before witnesses, delivered the sealed document to his secretary Baruch with instructions to keep it in a clay container so that it would last a long time. The gesture was deliberately paradoxical: buying land in a city about to be razed was an act of faith in the future that Yahweh promised. 'Fields will yet be purchased in this land,' declared the prophet.",
+      "referencias": [
+        "Jer 32:6-15",
+        "Jer 32:1-5",
+        "Jer 32:36-44"
+      ],
+      "personajes_clave": [
+        "jeremias",
+        "baruc"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeremias",
+      "nombre": "Jeremiah",
+      "rol": "Prophet of Anathoth, herald of the fall of Jerusalem",
+      "periodo": "hierro_2",
+      "descripcion": "Jeremiah ben Hilkiah is the most documented living biblical prophet. A native of Anathoth, from a priestly family, he exercised his ministry for four decades under the reigns of Josiah, Jehoahaz, Joyakim, Jeconiah and Zedekiah. He preached surrender to Babylon as divine will, was accused of treason, imprisoned, thrown into a cistern, survived the fall of Jerusalem in 586 BC. and he ended his life in Egypt, where he was taken against his will by the survivors who were fleeing after the murder of Godolías. His 'Confessions' (chs. 11-20) are the most intimate record of spiritual interiority in the OT.",
+      "referencias": [
+        "Jer 1:1-10",
+        "Jer 20:7-18",
+        "Jer 38:1-13"
+      ],
+      "ruta": [
+        "anathoth",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "abiatar",
+      "nombre": "Abiathar",
+      "rol": "High Priest of David, banished to Anathoth by Solomon",
+      "periodo": "hierro_2",
+      "descripcion": "Abiathar was the only survivor of the massacre of the priests of Nob ordered by Saul (1 Sam 22). He escaped to David carrying the sacred ephod and became a faithful priest of the king throughout the era of persecution and the reign that followed. His political mistake was supporting Adonijah in the succession, against the Solomon candidacy supported by Zadok. The banishment to Anathoth made him the involuntary founder of a marginalized priestly tradition that some scholars (Cross, Nicholson) relate to the Deuteronomic ethos and the formative circle of the book of Jeremiah.",
+      "referencias": [
+        "1 Sam 22:20-23",
+        "2 Sam 15:24-29",
+        "1 Kgs 2:26-27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "baruc",
+      "nombre": "Baruch ben Nerias",
+      "rol": "Secretary and faithful disciple of Jeremiah",
+      "periodo": "c. 620–580 BC",
+      "descripcion": "Baruch ben Neriah was Jeremiah's personal scribe and custodian of his written oracles. From a noble family - his brother Seraiah was a high royal official - he chose loyalty to the prophet over a courtly career. It was Baruch who publicly read the Jeremiah scroll in the temple (604 BC) when the prophet was prohibited from entering; who guarded the documents of the purchase of the field of Anathoth; and who compiled and edited Jeremiah's book according to the majority academic consensus. His own canonical book (included in the Catholic Bible) preserves prayers of repentance and hope.",
+      "referencias": [
+        "Jer 36:4-8",
+        "Jer 32:12-16",
+        "Jer 45:1-5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Anathoth represents in biblical history the tension between prophetism and the official priestly institution. A Levitical city assigned to the Aaronite priests, it was also a place of exile for the priestly line marginalized by Solomon and the birthplace of the prophet who most radically questioned the inviolability of the temple and Jerusalem. The 'temple sermon' of Jeremiah (Jer 7 and 26), with its comparison to the destroyed Shiloh, scandalized the official priests and prophets because it undermined the theology of the unconditional divine presence in the temple.",
+    "religiones_presentes": [
+      "Yahwism levitical — priestly tradition linked to Shiloh",
+      "Yahwism prophetic — current critical of the temple establishment",
+      "Yahwism popular with syncretistic elements (worship in local heights)"
+    ],
+    "mitos": [
+      {
+        "id": "profeta-sin-honra",
+        "nombre": "The prophet rejected in his land",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 11:21-23; Jer 12:6",
+          "fuente_secundaria": "Midrash Rabbah, Lamentaciones, Proem 34",
+          "descripcion": "Anathoth's men threatened Jeremiah with death to silence him: 'Do not prophesy in the name of Yahweh or you will die at our hands.' Even his own family betrayed him (Jer 12:6). Rabbinic tradition read the persecution of Jeremiah as a paradigm of the destiny of the authentic prophet in Israel: the truer the word, the more violent the resistance. The Midrash compares the suffering of Jeremiah with that of the righteous who bears the sins of his generation.",
+          "similitudes": "The motif of the prophet rejected by his people cuts across all three traditions.",
+          "diferencias": "Judaism insists on the collective dimension: Jeremiah's rejection is Israel's rejection of its own Alliance vocation.",
+          "significado_teologico": "Prophetic fidelity is measured precisely by persecution: the true prophet does not say what the people want to hear but what God commands to be said.",
+          "posible_relacion_cultural": "The motif of the divine messenger persecuted by his own people appears in Mesopotamian texts of lament, although without the component of alliance that defines it in the Israelite case."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Luke 4:24; Mt 13:57; Heb 11:36-38",
+          "fuente_secundaria": "Tertuliano, Adversus Marcionem IV,8",
+          "descripcion": "Jesus explicitly cited Jeremiah's pattern when declaring in Nazareth: 'No prophet is welcomed in his land.' The gospels present Jeremiah as the prophetic type that most clearly prefigures the passion of Christ: the persecution by the priestly class, the arrest, the imprisonment, the intercession for his persecutors. Matthew 16:14 reports that some identified Jesus with the resurrected Jeremiah himself. Tertullian and other fathers developed this typology extensively.",
+          "similitudes": "Rejection by one's own countrymen and persecution by the religious elite are exact structural parallels between Jeremiah and Jesus.",
+          "diferencias": "Jeremiah survived and continued his ministry in Egypt; Christian typology takes the archetype to redemptive death.",
+          "significado_teologico": "Jeremiah is the prophet who most directly prefigures Christ in his suffering, his intercession, and his announcement of a new covenant (Jer 31:31-34, cited in Heb 8:8-12).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:61; 3:21; 3:112",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de la Sura Al-Baqarah 2:61",
+          "descripcion": "The Quran does not mention Jeremiah by name, but the patron saint of the prophet rejected and persecuted by his people is a central Quranic theme. The verses about 'those who killed the prophets without reason' (2:61, 3:21) are interpreted by commentators as references to the persecution of Israelite prophets including the pre-exilic period. Ibn Kathir in his Tafsir identifies 'Armiya' (Jeremiah) as a prophet sent to the Israelites before the destruction of the temple by Nebuchadnezzar.",
+          "similitudes": "The persecution of the truthful prophet by his own community is an identical motif in Islamic tradition.",
+          "diferencias": "Islam emphasizes the collective responsibility of the community that rejects the prophet rather than the dimension of personal suffering of the prophet himself.",
+          "significado_teologico": "The rejection of the prophets is, in the Quran, the most serious sin of historical communities and the ultimate cause of their historical punishments.",
+          "posible_relacion_cultural": "The figure of 'Armiya' in medieval Islamic literature combines traits of Jeremiah with those of Ezekiel and other prophets of the period."
+        }
+      }
+    ]
+  }
+}

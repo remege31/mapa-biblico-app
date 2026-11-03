@@ -1,0 +1,147 @@
+{
+  "id": "goshen",
+  "nombre": "Gosén",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 31.8,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Región fértil del delta oriental del Nilo, en Egipto, donde vivieron los israelitas durante su estancia en Egipto.",
+  "altitud_m": 20,
+  "clima": "subtropical-húmedo",
+  "recursos": [
+    "pastoreo",
+    "agricultura",
+    "agua del Nilo"
+  ],
+  "importancia_estrategica": "Tierra asignada por el faraón a la familia de Jacob; los israelitas la habitaron durante 430 años antes del éxodo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gos_h1",
+      "titulo": "José instala a su familia en Gosén",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "José, primer ministro de Egipto, instala a su padre Jacob y hermanos en la tierra de Gosén, la mejor de Egipto.",
+      "referencias": [
+        "Gn 46:28-34",
+        "Gn 47:1-6"
+      ],
+      "personajes_clave": [
+        "José",
+        "Jacob",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h2",
+      "titulo": "Los israelitas crecen en Gosén",
+      "fecha": "ca. 1700-1280 a.C.",
+      "descripcion": "En Gosén la familia de Jacob creció hasta convertirse en un pueblo numeroso; el faraón los redujo a esclavitud.",
+      "referencias": [
+        "Ex 1:7-14"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h3",
+      "titulo": "Las plagas no afectaron a Gosén",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Durante las plagas de Egipto, Dios separó la tierra de Gosén: los israelitas no sufrieron la plaga de moscas, la muerte del ganado, las tinieblas ni los primogénitos.",
+      "referencias": [
+        "Ex 8:22",
+        "Ex 9:26"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gos_p1",
+      "nombre": "José",
+      "rol": "Primer ministro de Egipto",
+      "periodo": "ca. 1720-1680 a.C.",
+      "descripcion": "Instaló a su familia en Gosén; su sabiduría salvó a Israel y a Egipto del hambre.",
+      "referencias": [
+        "Gn 47:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p2",
+      "nombre": "Jacob",
+      "rol": "Patriarca",
+      "periodo": "ca. 1750-1640 a.C.",
+      "descripcion": "Descendió a Gosén al reencontrarse con José; murió y fue embalsamado en Egipto.",
+      "referencias": [
+        "Gn 46:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p3",
+      "nombre": "Moisés",
+      "rol": "Libertador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Nació y creció en el área del delta donde vivían los israelitas; partió desde Gosén para el éxodo.",
+      "referencias": [
+        "Ex 12:37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gosén: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gos_m1",
+        "nombre": "La tierra protegida en medio del juicio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Gosén fue el lugar donde Dios separó a su pueblo en medio de las plagas: los israelitas vivían en Egipto pero no sufrían el juicio sobre Egipto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gosén fue el lugar donde Dios separó a su pueblo en medio de las plagas: los israelitas vivían en Egipto pero no sufrían el juicio sobre Egipto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 12:99-100",
+          "fuente_secundaria": "",
+          "descripcion": "El descenso de Jacob/Israel a Egipto y la estancia en Gosén son narrados en el Corán como parte de la historia de Yusuf (José) (Cor 12:99-100).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El descenso de Jacob/Israel a Egipto y la estancia en Gosén son narrados en el Corán como parte de la historia de Yusuf (José) (Cor 12:99-100).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

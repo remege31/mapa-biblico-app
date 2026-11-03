@@ -1,0 +1,146 @@
+{
+  "id": "smyrna",
+  "nombre": "Smirne",
+  "tipo": "ciudad",
+  "lat": 38.4189,
+  "lng": 27.1287,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città portuale sulla costa egea dell'Asia Minore, rivale di Efeso nel commercio e nella cultura.",
+  "altitud_m": 25,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "venni",
+    "ulivi"
+  ],
+  "importancia_estrategica": "Città fedele al culto imperiale; centro commerciale di prima classe.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "smy_h1",
+        "titulo": "Lettera alla Chiesa di Smirne",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo consola la chiesa di Smirne perseguitata: 'siate fedeli fino alla morte'.",
+        "referencias": [
+          "Ap 2:8-11"
+        ],
+        "personajes_clave": [
+          "Juan el Apóstol"
+        ]
+      },
+      {
+        "id": "smy_h2",
+        "titulo": "Martirio di Policarpo",
+        "fecha": "ca. 155-156 d.C.",
+        "descripcion": "Il vescovo Policarpo viene bruciato nello stadio di Smirne per essersi rifiutato di rinnegare Cristo.",
+        "referencias": [
+          "Martirio de Policarpo"
+        ],
+        "personajes_clave": [
+          "Policarpo"
+        ]
+      },
+      {
+        "id": "smy_h3",
+        "titulo": "La corona della vita",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo promette la 'corona della vita' a coloro che saranno fedeli durante i dieci giorni di tribolazione.",
+        "referencias": [
+          "Ap 2:10"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "smy_p1",
+        "nombre": "Policarpo",
+        "rol": "vescovo martire",
+        "periodo": "ca. 69-155 d.C.",
+        "descripcion": "Discepolo di Giovanni; vescovo di Smirne che fu bruciato vivo per la sua fede.",
+        "referencias": [
+          "Ap 2:8"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "smy_p2",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizzò la lettera di Cristo alla chiesa perseguitata di Smirne.",
+        "referencias": [
+          "Ap 2:8"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "smy_p3",
+        "nombre": "Ignazio di Antiochia",
+        "rol": "Vescovo e martire",
+        "periodo": "ca. 35-110 d.C.",
+        "descripcion": "Scrisse lettere da Smirne sulla via del martirio a Roma.",
+        "referencias": [
+          "Cartas de Ignacio"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città dal forte culto imperiale; La sua chiesa era un paradigma della fedeltà cristiana sotto persecuzione.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "smy_m1",
+          "nombre": "La corona della vita",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Alla chiesa povera e perseguitata di Smirne, Cristo promette la ricchezza spirituale e la corona della vita eterna.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Alla chiesa povera e perseguitata di Smirne, Cristo promette la ricchezza spirituale e la corona della vita eterna.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

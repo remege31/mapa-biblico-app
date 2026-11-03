@@ -1,0 +1,251 @@
+{
+  "id": "kidron",
+  "nombre": "Valle del Cedron",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.775,
+  "lng": 35.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Ferro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Valle tra Gerusalemme e il Monte degli Ulivi che scende verso il Mar Morto. Canale stagionale del torrente Kidrón.",
+  "altitud_m": -20,
+  "clima": "mediterraneo",
+  "recursos": [
+    "acqua stagionale",
+    "uliveti"
+  ],
+  "importancia_estrategica": "Confine orientale di Gerusalemme; attraversato da Davide nella sua fuga e da Gesù nel cammino verso il Getsemani.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ced_h1",
+      "titulo": "Davide attraversa il Kidron nel suo volo",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Davide attraversa piangendo il torrente Kidron mentre fugge da Absalom, proprio come Gesù attraversava la stessa valle prima del suo arresto.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ced_h2",
+      "titulo": "Giosia brucia gli idoli nel Cedron",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "Il re riformatore Giosia trascina e brucia nel torrente Kidron tutti gli oggetti del culto pagano.",
+      "referencias": [
+        "2 Re 23:4,6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "ced_h3",
+      "titulo": "Gesù attraversa il Kidron verso il Getsemani",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Dopo l'Ultima Cena, Gesù attraversa con i suoi discepoli il torrente Kidron ed entra nel giardino dove sarebbe stato arrestato.",
+      "referencias": [
+        "Gv 18:1"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ced_p1",
+      "nombre": "Davide",
+      "rol": "Re in fuga",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Attraversò il Cedron in lacrime mentre fuggiva dal figlio; immagine tipologica del tradimento.",
+      "referencias": [
+        "2 Sam 15:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p2",
+      "nombre": "Giosia",
+      "rol": "re riformatore",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Utilizzò il Cedron come luogo di purificazione religiosa, bruciando gli idoli.",
+      "referencias": [
+        "2 Re 23:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ced_p3",
+      "nombre": "Gesù",
+      "rol": "Messia",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Attraversò il Cedron sulla via del Getsemani; I Padri della Chiesa lo paragonano a Davide.",
+      "referencias": [
+        "Gv 18:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle di passaggio e purificazione; Il suo incrocio tra Davide e Gesù lo rende un simbolo della sofferenza dei giusti.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ced_m1",
+        "nombre": "L'attraversamento del Cedron",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Davide ha attraversato il Cedron piangendo; i profeti usavano la valle come luogo di purificazione e di giudizio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Davide ha attraversato il Cedron piangendo; i profeti usavano la valle come luogo di purificazione e di giudizio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù attraversa il Kidron prima della sua passione, realizzando il tipo di Davide nella sua sofferenza.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù attraversa il Kidron prima della sua passione, realizzando il tipo di Davide nella sua sofferenza.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ced_nt_h1",
+        "titulo": "Gesù attraversa il Kidron",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Dopo l'Ultima Cena, Gesù e i suoi discepoli attraversano il Cedron fino al giardino del Getsemani.",
+        "referencias": [
+          "Gv 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h2",
+        "titulo": "L'arresto nel frutteto",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Giuda conosceva il luogo perché lì si riuniva spesso Gesù con i discepoli.",
+        "referencias": [
+          "Gv 18:2"
+        ],
+        "personajes_clave": [
+          "Judas",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "ced_nt_h3",
+        "titulo": "Il giudizio tipologico",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "La traversata del Kidron da parte di Gesù ricapitola quella di Davide: il re innocente attraversa la valle verso la sua sofferenza.",
+        "referencias": [
+          "2 Sam 15:23",
+          "Gv 18:1"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "David"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ced_nt_p1",
+        "nombre": "Gesù",
+        "rol": "Messia",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Ha attraversato il Kidron la notte del suo arresto.",
+        "referencias": [
+          "Gv 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p2",
+        "nombre": "Giuda Iscariota",
+        "rol": "Traditore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Condusse la folla nel giardino dall'altra parte del Cedron.",
+        "referencias": [
+          "Gv 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ced_nt_p3",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha attraversato il Kidron con Gesù e in seguito ha negato di conoscerlo.",
+        "referencias": [
+          "Gv 18:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Il Kidron è la soglia tra Gerusalemme e il Getsemani; Il loro incrocio segna l'inizio della passione.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ced_nt_m1",
+          "nombre": "La valle della passione",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "L'attraversamento del Kidron da parte di Gesù soddisfa il tipo davidico: il re sofferente attraversa la valle nell'ora del tradimento.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'attraversamento del Kidron da parte di Gesù soddisfa il tipo davidico: il re sofferente attraversa la valle nell'ora del tradimento.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

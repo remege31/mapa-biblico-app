@@ -1,0 +1,156 @@
+{
+  "id": "dor",
+  "nombre": "Dor",
+  "tipo": "ciudad",
+  "lat": 32.61323618394521,
+  "lng": 34.91889683434057,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città costiera non conquistata, assegnata a Manasse"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Distretto amministrativo salomonico"
+    }
+  ],
+  "descripcion_geo": "Importante città portuale sulla piana costiera del Carmelo, dotata di un porto naturale che ne fece un importante centro commerciale del Mediterraneo orientale, formalmente assegnata alla mezza tribù di Manasse ma mai conquistata militarmente durante il periodo dei Giudici.",
+  "altitud_m": 10,
+  "clima": "Mediterraneo costiero: estati calde e umide, inverni miti con pioggia, brezze marine costanti.",
+  "recursos": [
+    "Porto naturale sulla costa del Carmelo",
+    "Commercio marittimo del Mediterraneo",
+    "Produzione di viola della regione costiera (associata alla vicina industria fenicia)"
+  ],
+  "importancia_estrategica": "Dor è una delle città cananee costiere più prospere che Israele non riesce mai a conquistare durante il periodo dei Giudici, mantenendo la propria indipendenza commerciale sotto l'influenza cananea o fenicia; Secoli dopo, sotto Salomone, fu finalmente integrato come parte di uno dei dodici distretti amministrativi del regno, sotto il governo di un genero del re stesso.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_dor",
+      "nombre": "Cananei di Dor",
+      "descripcion": "Popolazione originaria della città portuale, che Manasse non riesce mai a espellere del tutto, mantenendola sotto dominio sottoposto ai lavori forzati invece che alla conquista totale.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C. e persistente dopo"
+    },
+    {
+      "id": "fenicios_dor",
+      "nombre": "Influenza commerciale fenicia",
+      "descripcion": "Presenza commerciale legata alle rotte marittime fenicie che collegavano Dor con il resto dei commerci mediterranei sulla costa levantina.",
+      "religion": "Politeismo fenicio: culto di Baal, Astarte e Melkart",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-derrota-rey-dor",
+      "titulo": "Giosuè sconfigge il re di Dor",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dor compare nell'elenco dei trentuno re Cananei sconfitti da Giosuè durante la conquista di Canaan, confermando il suo status di città-stato indipendente e potente prima dell'assegnazione territoriale.",
+      "referencias": [
+        "Gs 12:23"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "manases-no-expulsa-dor",
+      "titulo": "Manasse non riesce ad espellere l'Cananei dal Dor",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Nonostante la vittoria militare iniziale di Giosuè sul loro re, il Libro dei Giudici riporta che Manasse non fu in grado di espropriare gli abitanti di Dor e dei suoi villaggi, mantenendo la città sotto il dominio con il lavoro forzato piuttosto che con la conquista totale pianificata.",
+      "referencias": [
+        "Gdc 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "dor-distrito-salomon",
+      "titulo": "Dor nel distretto amministrativo di Ben-Abinadab",
+      "fecha": "c. 970–931 a.C.",
+      "descripcion": "Salomone ha finalmente integrato Dor nel suo sistema di dodici distretti amministrativi, sotto la responsabilità di Ben-Abinadab, che aveva anche sposato Tafat, figlia dello stesso Salomone, collegando strettamente il governo di questa regione costiera con la famiglia reale.",
+      "referencias": [
+        "1 Re 4:11"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_dor",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Sconfigge il re Cananeo di Dor nella sua campagna di conquista, anche se la città rimarrà effettivamente indipendente per generazioni dopo questa vittoria iniziale.",
+      "referencias": [
+        "Gs 12:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ben_abinadab_dor",
+      "nombre": "Ben-Abinadab",
+      "rol": "Governatore del distretto di Dor, genero di Salomone",
+      "periodo": "c. 970–931 a.C.",
+      "descripcion": "Amministra il distretto che alla fine incorpora Dor nel sistema di governo salomonico, legato alla famiglia reale dal suo matrimonio con la figlia del re.",
+      "referencias": [
+        "1 Re 4:11"
+      ],
+      "ruta": [
+        "dor"
+      ]
+    },
+    {
+      "id": "salomon_dor",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, organizzatore amministrativo del regno",
+      "periodo": "hierro_2",
+      "descripcion": "Completa finalmente la piena integrazione amministrativa di Dor nel regno israelita, diversi secoli dopo il fallimento iniziale di Manasse nel conquistarlo militarmente.",
+      "referencias": [
+        "1 Re 4:7-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dor, come altre prospere città costiere cananee, illustra il modello ricorrente di conquista militare iniziale seguita da una prolungata indipendenza effettiva, fino alla sua integrazione amministrativa finale attraverso il consolidamento politico sotto Salomone piuttosto che la conquista militare; Questo modello riflette la tensione teologica nel Libro dei Giudici tra la promessa del pieno possesso e la realtà storica della convivenza prolungata con popolazioni cananee non sottomesse.",
+    "religiones_presentes": [
+      "Yahvismo (Periodo di integrazione amministrativa salomonica)",
+      "Politeismo Cananeo (popolazione persistente originaria)",
+      "Politeismo fenicio (influenza commerciale costiera)"
+    ],
+    "mitos": [
+      {
+        "id": "integracion-tardia-dor",
+        "nombre": "La tarda integrazione di Dor attraverso l'amministrazione piuttosto che la conquista",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 1:27; 1 Re 4:11",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las distintas vías de incorporación territorial —conquista militar directa o integración administrativa posterior— como mecanismos complementarios de cumplimiento gradual de la promesa territorial",
+          "descripcion": "La tradizione ebraica osserva che il caso di Dor dimostra che il pieno possesso della terra promessa può essere raggiunto attraverso meccanismi diversi dalla conquista militare diretta, incluso il consolidamento amministrativo e le alleanze matrimoniali reali, suggerendo che la divina provvidenza opera attraverso varie vie storiche per l'adempimento finale delle sue promesse territoriali.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'integrazione finale di Dor sotto Salomone, diversi secoli dopo il fallimento militare iniziale, dimostra che l'adempimento delle promesse divine non è limitato a un singolo metodo o dato momento storico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

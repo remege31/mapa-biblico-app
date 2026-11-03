@@ -1,0 +1,141 @@
+{
+  "id": "paddan",
+  "nombre": "Paddan (Aram-Naharaim)",
+  "tipo": "territorio",
+  "lat": 36.86,
+  "lng": 39.03,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 19,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Regione nel nord di Mesopotamia (l'attuale Siria nord-orientale/Türkiye). Abramo Casa familiare; lì Isacco e Giacobbe presero mogli.",
+  "altitud_m": 400,
+  "clima": "continentale-arido",
+  "recursos": [
+    "agricoltura delle zone aride",
+    "commercio",
+    "pascolo"
+  ],
+  "importancia_estrategica": "Terra d'origine dei patriarchi; Giacobbe ha vissuto lì per vent'anni con Labano.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pad_h1",
+      "titulo": "Giacobbe fugge da Padán verso Canaan",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "Dopo vent'anni al servizio di Labano a Paddan, Giacobbe fugge con le sue mogli, i suoi figli e le sue greggi a Canaan; Labano lo insegue ma Dio lo ferma.",
+      "referencias": [
+        "Gen 31"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Labán",
+        "Raquel",
+        "Lea"
+      ]
+    },
+    {
+      "id": "pad_h2",
+      "titulo": "Rebekah ha portato da Padán per Isacco",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Il servitore di Abramo si reca a Paddan e trova Rebekah al pozzo; La porta come moglie per Isacco.",
+      "referencias": [
+        "Gen 24"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Rebeca",
+        "Eliezer"
+      ]
+    },
+    {
+      "id": "pad_h3",
+      "titulo": "I dodici figli di Giacobbe nascono a Padan",
+      "fecha": "ca. 1760-1750 a.C.",
+      "descripcion": "Undici dei dodici figli di Giacobbe (meno Beniamino) nacquero a Padan; Lì si formarono le tribù di Israele.",
+      "referencias": [
+        "Gen 35:23-26"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Lea",
+        "Raquel",
+        "Bilha",
+        "Zilpá"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pad_p1",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Visse vent'anni in Padan al servizio di Labano; Lì sposò Lea e Rachel.",
+      "referencias": [
+        "Gen 28:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p2",
+      "nombre": "Labano",
+      "rol": "Suocero aramaico di Giacobbe",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Ha ingannato Giacobbe dando prima Leah invece di Rachel; poi cercò di trattenerlo.",
+      "referencias": [
+        "Gen 29:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p3",
+      "nombre": "Cardigan",
+      "rol": "Matriarca, madre di Giacobbe",
+      "periodo": "ca. 1850-1770 a.C.",
+      "descripcion": "Nato a Padán; scelta come moglie di Isacco dalla serva di Abramo.",
+      "referencias": [
+        "Gen 24:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Paddan (Aram-Naharaim): regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "pad_m1",
+        "nombre": "I dodici patriarchi di Padan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Undici dei dodici patriarchi nacquero a Paddan-Aram; Lì Giacobbe ha ricevuto il nome Israele.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Undici dei dodici patriarchi nacquero a Paddan-Aram; Lì Giacobbe ha ricevuto il nome Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

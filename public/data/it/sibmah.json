@@ -1,0 +1,149 @@
+{
+  "id": "sibmah",
+  "nombre": "Sibma",
+  "tipo": "ciudad",
+  "lat": 31.815283,
+  "lng": 35.766738,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Città vinicola di Rubén"
+    }
+  ],
+  "descripcion_geo": "Città sull'altopiano Moab, vicino a Heshbon, famosa nel testo biblico per i suoi estesi vigneti. Il suo fertile ambiente altipiano favoriva soprattutto la coltivazione della vite, caratteristica che la distingue dalle altre città vicine citate soprattutto per ragioni militari o amministrative.",
+  "altitud_m": 850,
+  "clima": "Altopiano semiarido: estati secche e calde, inverni freddi, con condizioni favorevoli per la viticoltura sull'altopiano moabita.",
+  "recursos": [
+    "Vigneti estesi e rinomati (motivo centrale della sua menzione biblica)",
+    "Terreni agricoli dell'altopiano moabita"
+  ],
+  "importancia_estrategica": "Sibma non ha alcuna rilevanza militare degna di nota; La sua importanza nel testo biblico è quasi esclusivamente agricola e poetica, in quanto simbolo della prosperità vinicola moabita che gli oracoli profetici rimpiangono di aver perso, contrapponendo esplicitamente la fertilità economica della regione alla devastazione annunciata dal giudizio divino.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_sibma",
+      "nombre": "Amorrei (regno di Sihon)",
+      "descripcion": "Popolazione originaria sotto il dominio di Sihon prima della conquista israelita del territorio moabita settentrionale.",
+      "religion": "Politeismo amorreo",
+      "periodo": "Prima del c. 1400 a.C"
+    },
+    {
+      "id": "rubenitas_sibma",
+      "nombre": "La tribù di Ruben",
+      "descripcion": "Beneficiario dell'assegnazione territoriale di Sibmá, famosa per i suoi vigneti, nella regione della Transgiordania.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sibma-asignada-ruben",
+      "titulo": "Shibmah assegnato alla tribù di Ruben",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo la conquista del territorio di Sihon, Sibma è inclusa tra le città ricostruite e assegnata alla tribù di Ruben nella divisione della Transgiordania.",
+      "referencias": [
+        "Nm 32:38",
+        "Gs 13:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-vinedos-sibma",
+      "titulo": "Isaia piange per i vigneti di Sibmá",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Il profeta Isaia dedica un'immagine particolarmente vivida alle vigne di Sibma nel suo oracolo di giudizio contro Moab, descrivendo come irrigherà la città con le sue lacrime per la distruzione dei suoi rami, che erano arrivati ​​fino al Mar Morto e Jazer.",
+      "referencias": [
+        "Is 16:8-9"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-vendimia-sibma",
+      "titulo": "Geremia profetizza la fine della vendemmia a Sibmá",
+      "fecha": "c. 600 a.C.",
+      "descripcion": "Geremia riprende l'immagine di Isaia sui vigneti di Sibmah, annunciando che la devastazione si abbatterà sui suoi frutti e sulla sua vendemmia, e che il grido di distruzione raggiungerà Jazer, in un lamento poetico che utilizza la perdita del raccolto come simbolo centrale del giudizio su Moab.",
+      "referencias": [
+        "Ger 48:32-33"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rubenitas_sibma",
+      "nombre": "Clan di Ruben",
+      "rol": "Proprietari dei vigneti di Sibmá",
+      "periodo": "c. 1400–1000 a.C.",
+      "descripcion": "Tribù beneficiaria della fertile regione vinicola di Sibma dopo la conquista del territorio amorreo, la cui prosperità agricola sarebbe diventata, secoli dopo, il tema centrale degli oracoli profetici di lamento.",
+      "referencias": [
+        "Nm 32:38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_sibma",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Compone una delle immagini poetiche più commoventi dell'intero oracolo contro Moab quando descrive il proprio grido per la distruzione dei vigneti di Sibmah.",
+      "referencias": [
+        "Is 16:8-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_sibma",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Egli riprende e sviluppa l'immagine della perduta annata di Sibmah, integrandola nel suo vasto oracolo di giudizio sull'intero territorio moabita.",
+      "referencias": [
+        "Ger 48:32-33"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sibma funziona nel testo profetico come un simbolo concentrato della prosperità materiale di Moab, espressa specificamente in termini di abbondanza di vino; Il lamento che sia Isaia che Geremia dedicano alle proprie vigne – il primo arrivando addirittura a esprimere il proprio personale grido di perdita – illustra come gli oracoli di giudizio contro nazioni straniere non precludano un’autentica compassione poetica per la distruzione della prosperità umana, anche quando appartiene a un popolo considerato nemico o idolatra.",
+    "religiones_presentes": [
+      "Yahvismo (periodo di controllo della rubenite)",
+      "Politeismo moabita: culto di Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "llanto-profeta-sibma",
+        "nombre": "Il grido del profeta sulle vigne di Sibma",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 16:9; Jer 48:32",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la compasión profética incluso hacia las naciones objeto de juicio divino",
+          "descripcion": "La tradizione ebraica rileva con particolare attenzione il fatto che Isaia esprime il proprio pianto personale ('perciò piangerò con il pianto di Jazer per la vigna di Sibma') sulla distruzione di un popolo straniero, interpretando questo brano come prova che la giustizia divina annunciata dai profeti non preclude un'autentica compassione verso la sofferenza umana, anche delle nazioni idolatre sotto giudizio.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il grido profetico per Moab dimostra che l’annuncio del giudizio divino può coesistere con un’autentica empatia umana verso la sofferenza del popolo giudicato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

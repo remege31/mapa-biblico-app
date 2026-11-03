@@ -1,0 +1,145 @@
+{
+  "id": "edom",
+  "nombre": "Edom",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 109,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Reino al sur del mar Muerto y al este del Arabá, en las montañas rojizas de Seír. Capital: Petra (Sela).",
+  "altitud_m": 1000,
+  "clima": "árido",
+  "recursos": [
+    "cobre",
+    "comercio caravanero",
+    "ganadería"
+  ],
+  "importancia_estrategica": "Control de la Vía Regia, ruta comercial entre Arabia y el Mediterráneo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "edo_h1",
+      "titulo": "Esaú y Jacob: el origen del conflicto",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Esaú, padre de Edom, vende su primogenitura a Jacob por un plato de lentejas; el conflicto entre ambos prefigura el de sus pueblos.",
+      "referencias": [
+        "Gn 25:29-34",
+        "Gn 27"
+      ],
+      "personajes_clave": [
+        "Esaú",
+        "Jacob"
+      ]
+    },
+    {
+      "id": "edo_h2",
+      "titulo": "Edom niega el paso a Israel",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Cuando Israel pide paso por el territorio edomita camino a Canaán, Edom lo niega con amenaza de guerra.",
+      "referencias": [
+        "Nm 20:14-21"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "edo_h3",
+      "titulo": "Destrucción de Edom profetizada",
+      "fecha": "ca. 590 a.C.",
+      "descripcion": "El profeta Abdías anuncia la destrucción total de Edom por su gozarse en la caída de Jerusalén.",
+      "referencias": [
+        "Abd 1"
+      ],
+      "personajes_clave": [
+        "Abdías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "edo_p1",
+      "nombre": "Esaú",
+      "rol": "Patriarca de Edom",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Hijo de Isaac; vendió su primogenitura y fue padre de los edomitas.",
+      "referencias": [
+        "Gn 25:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p2",
+      "nombre": "Herodes el Grande",
+      "rol": "Rey de Judea (origen idumeo)",
+      "periodo": "37-4 a.C.",
+      "descripcion": "Descendiente de edomitas (idumeos) convertidos al judaismo; rey bajo Roma.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p3",
+      "nombre": "Abdías",
+      "rol": "Profeta",
+      "periodo": "ca. 590 a.C.",
+      "descripcion": "Pronunció el oráculo más breve del AT contra la soberbia de Edom.",
+      "referencias": [
+        "Abd 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pueblo emparentado con Israel pero enemigo permanente; sus descendientes idumeos gobernaron Judea bajo Herodes.",
+    "religiones_presentes": [
+      "paganismo_edomita",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "edo_m1",
+        "nombre": "El hermano enemigo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Mal 1:2-3",
+          "fuente_secundaria": "",
+          "descripcion": "Edom y Jacob representan el conflicto eterno entre hermanos: 'A Jacob amé, pero a Esaú aborrecí' (Mal 1:2-3).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Edom y Jacob representan el conflicto eterno entre hermanos: 'A Jacob amé, pero a Esaú aborrecí' (Mal 1:2-3).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Rom 9:13",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo cita Malaquías para ilustrar la elección soberana de Dios (Rom 9:13).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo cita Malaquías para ilustrar la elección soberana de Dios (Rom 9:13).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

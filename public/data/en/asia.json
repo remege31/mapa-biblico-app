@@ -1,0 +1,247 @@
+{
+  "id": "asia",
+  "nombre": "Asia (Roman province)",
+  "tipo": "territorio",
+  "lat": 39.23,
+  "lng": 32.73,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman province on the western coast of Asia Minor (modern Türkiye). Capital: Ephesus. Center of Hellenism and Mediterranean trade.",
+  "altitud_m": 100,
+  "clima": "Mediterranean",
+  "recursos": [
+    "manufacture",
+    "trade",
+    "marble",
+    "agriculture"
+  ],
+  "importancia_estrategica": "The richest province of the Roman Empire in the East; center of the imperial cult and the seven churches of the Apocalypse.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi2_h1",
+      "titulo": "Paul evangelizes the entire province of Asia",
+      "fecha": "ca. 54-57 AD",
+      "descripcion": "From Ephesus, Paul teaches at the school of Tyrannus; all the inhabitants of Asia hear the gospel.",
+      "referencias": [
+        "Acts 19:10"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "asi2_h2",
+      "titulo": "The seven letters to the churches of Asia",
+      "fecha": "ca. 95 AD",
+      "descripcion": "The glorious Christ dictates seven letters to the churches of the province of Asia: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.",
+      "referencias": [
+        "Rev 1:4",
+        "Rev 2-3"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    },
+    {
+      "id": "asi2_h3",
+      "titulo": "The silversmiths' riot in Ephesus",
+      "fecha": "ca. 56 AD",
+      "descripcion": "The commerce of the temple of Artemis at Ephesus is threatened by the preaching of Paul; the artisans riot.",
+      "referencias": [
+        "Acts 19:23-41"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Demetrio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi2_p1",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He used Ephesus as a center to evangelize the entire province of Asia in two years.",
+      "referencias": [
+        "Acts 19:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p2",
+      "nombre": "John the Apostle",
+      "rol": "Prophet and bishop",
+      "periodo": "s. I AD",
+      "descripcion": "He lived in Ephesus; From there he wrote the Apocalypse with letters to the seven churches of Asia.",
+      "referencias": [
+        "Rev 1:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p3",
+      "nombre": "Priscilla and Aquila",
+      "rol": "Church leaders",
+      "periodo": "s. I AD",
+      "descripcion": "Couple who led the church in Ephesus and mentored Apollos.",
+      "referencias": [
+        "Acts 18:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Crucible of Hellenism, imperial cult and the gospel; The seven churches of the province of Asia are the first recipient of the Apocalypse.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "imperial_cult",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "asi2_m1",
+        "nombre": "The seven churches of Asia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The glorious Christ addresses seven letters to the churches of the province of Asia: a model of judgment and grace on the universal Church.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The glorious Christ addresses seven letters to the churches of the province of Asia: a model of judgment and grace on the universal Church.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "asi2_nt_h1",
+        "titulo": "All Asia hears the gospel",
+        "fecha": "ca. 54-57 AD",
+        "descripcion": "Paul teaches two years in Ephesus; The inhabitants of the entire province of Asia hear the Word.",
+        "referencias": [
+          "Acts 19:10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "asi2_nt_h2",
+        "titulo": "The seven churches of the Apocalypse",
+        "fecha": "ca. 95 AD",
+        "descripcion": "On Patmos, John receives seven letters for the churches of Asia: unique documents of apostolic pastoral care.",
+        "referencias": [
+          "Rev 2-3"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "asi2_nt_h3",
+        "titulo": "The Silversmiths' Mutiny",
+        "fecha": "ca. 56 AD",
+        "descripcion": "The growth of the gospel in Asia threatens the Temple of Artemis business; A riot in Ephesus shakes the province.",
+        "referencias": [
+          "Acts 19:23-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Demetrio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "asi2_nt_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He evangelized Asia from Ephesus with unprecedented effectiveness.",
+        "referencias": [
+          "Acts 19:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p2",
+        "nombre": "John the Apostle",
+        "rol": "Prophet of the Apocalypse",
+        "periodo": "s. I AD",
+        "descripcion": "Bishop of the churches of Asia; receiver and transmitter of the Apocalypse.",
+        "referencias": [
+          "Rev 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p3",
+        "nombre": "Timothy",
+        "rol": "Shepherd of Ephesus",
+        "periodo": "s. I AD",
+        "descripcion": "Disciple of Paul, left as pastor of the church of Ephesus.",
+        "referencias": [
+          "1 Tim 1:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The Roman province of Asia was the heart of the Pauline mission and the recipient of the Apocalypse.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "imperial_cult",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "asi2_nt_m1",
+          "nombre": "The seven churches",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The seven churches of Asia represent the universality of the Church: its praises and reproaches are a mirror of every Christian community.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The seven churches of Asia represent the universality of the Church: its praises and reproaches are a mirror of every Christian community.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "en_rogel",
+  "nombre": "En-Rogel",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.767775,
+  "lng": 35.234408,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II - Primavera a sud di Gerusalemme, proclamazione frustrata di Adonijah"
+    }
+  ],
+  "descripcion_geo": "Sorgente situata alla confluenza delle valli Kidron e Hinnom, appena a sud della città di Davide, fuori dal perimetro murato originale. La sua posizione periferica rispetto al centro del potere della città ne fa un punto discreto per incontri e messaggi che richiedevano una certa distanza dal controllo diretto della corte.",
+  "altitud_m": "Confluenza Kidron-Hinom, a sud della città di Davide, c. 600-620",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "Fonte d'acqua secondaria a sud della città",
+    "Posizione discreta fuori dal controllo diretto del centro urbano",
+    "Punto di passaggio e comunicazione nelle valli meridionali di Gerusalemme"
+  ],
+  "importancia_estrategica": "En-rogel funziona nel racconto biblico come contrappunto geografico a Gihon: mentre quest'ultimo è la scena della legittima unzione di Salomone all'interno della sfera di controllo di Davide, En-rogel, fuori dall'immediato perimetro della città, è il luogo scelto da Adonijah per la sua frettolosa autoproclamazione, e serve anche come punto di passaggio per i messaggeri durante la ribellione di Absalom.",
+  "otros_habitantes": [
+    {
+      "id": "seguidores_adonias_enrogel",
+      "nombre": "Seguaci di Adonia",
+      "descripcion": "Ioab, il sacerdote Abiatar e altri figli del re accompagnarono Adonia a En-Rogel per il suo tentativo di proclamazione reale, mettendo deliberatamente da parte Salomone, Natan, Zadoc e Benaia.",
+      "religion": "Yahvismo",
+      "periodo": "C. 970 a.C"
+    },
+    {
+      "id": "mensajeros_absalon_enrogel",
+      "nombre": "Jonathan e Ahimaaz",
+      "descripcion": "Figli dei sacerdoti Abiathar e Zadok che rimangono di stanza a En-rogel per ricevere e trasmettere informazioni a Davide durante la loro fuga da Gerusalemme di fronte alla ribellione di Absalom.",
+      "religion": "Yahvismo",
+      "periodo": "C. 975 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "mensajeros-david-enrogel",
+      "titulo": "Jonathan e Ahimaaz aspettano a En-rogel durante la ribellione di Absalom",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Durante la fuga di Davide da Gerusalemme in seguito alla ribellione di suo figlio Absalom, i figli dei sacerdoti Zadok e Abiathar si posizionano a En-rogel, fuori dalla vista della città, per ricevere informazioni segrete e trasmetterle rapidamente a Davide sui movimenti di Absalom.",
+      "referencias": [
+        "2 Sam 17:17"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "adonias-proclamacion-enrogel",
+      "titulo": "Adonijah si autoproclama re a En-rogel",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Approfittando della vecchiaia di Davide, Adonijah organizza un festoso sacrificio sulla pietra di Zohelet, insieme a En-rogel, e invita i suoi fratelli e uomini influenti di Giuda a proclamarsi re, escludendo deliberatamente Salomone, Nathan, Zadok, Benaiah e la guardia reale d'élite.",
+      "referencias": [
+        "1 Re 1:5-10"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "noticia-uncion-salomon-enrogel",
+      "titulo": "La notizia dell'unzione di Salomone raggiunge il banchetto di En-rogel",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Mentre il banchetto di Adonijah si conclude in En-rogel, Jonathan figlio di Abiathar arriva con la notizia che Salomone è già stato unto re a Ghihon per ordine di Davide, causando la terrorizzata dispersione degli ospiti di Adonijah e la brusca fine del suo tentativo di usurpazione.",
+      "referencias": [
+        "1 Re 1:41-49"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "adonias",
+      "nombre": "Adonia",
+      "rol": "Figlio di Davide, contendente frustrato al trono",
+      "periodo": "hierro_2",
+      "descripcion": "Organizza un banchetto di autoproclamazione reale a En-rogel che va in pezzi quando arriva la notizia dell'unzione già consumata di Salomone a Gijón, episodio che segna il definitivo fallimento delle sue aspirazioni al trono.",
+      "referencias": [
+        "1 Re 1:5-10",
+        "1 Re 1:41-53"
+      ],
+      "ruta": [
+        "en_rogel",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jonatan_hijo_abiatar",
+      "nombre": "Gionata figlio di Abiatar",
+      "rol": "messaggero sacerdotale",
+      "periodo": "hierro_2",
+      "descripcion": "Agisce come messaggero chiave in due episodi successivi incentrati su En-rogel: prima trasmette informazioni a Davide durante la ribellione di Absalom, poi porta la notizia decisiva dell'unzione di Salomone al banchetto di Adonia.",
+      "referencias": [
+        "2 Sam 17:17-21",
+        "1 Re 1:41-49"
+      ],
+      "ruta": [
+        "en_rogel",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joab_enrogel",
+      "nombre": "Ioab",
+      "rol": "Generale dell'esercito, sostenitore di Adonia",
+      "periodo": "c. 970 a.C.",
+      "descripcion": "Comandante militare veterano di Davide che sostiene la proclamazione di Adonijah a En-rogel, una decisione che avrà conseguenze fatali per lui una volta che Salomone consoliderà il trono.",
+      "referencias": [
+        "1 Re 1:7",
+        "1 Re 2:28-34"
+      ],
+      "ruta": [
+        "en_rogel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "En-rogel funziona narrativamente come uno spazio di contestata legittimità in diretto contrasto con Gihon: la proclamazione di Adonijah, fatta fuori dal perimetro cittadino e senza la partecipazione delle figure religiose centrali (Zadok, Nathan), è implicitamente contrassegnata come illegittima di fronte all'unzione ufficiale di Salomone. Il luogo illustra come la geografia stessa – all’interno o all’esterno del centro simbolico della città – rafforzi la distinzione tra successione autorizzata e usurpazione nella storia biblica.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "proclamacion-fallida-adonias",
+        "nombre": "La fallita proclamazione di Adonijah a En-rogel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 1:5-53",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la legitimidad dinástica y el papel de la unción profética y sacerdotal frente a la autoproclamación",
+          "descripcion": "La tradizione ebraica contrappone la proclamazione di Adonia a En-rogel – senza intervento profetico o sacerdotale centrale, e senza la presenza del re regnante – con l’unzione di Salomone a Ghihon, presentata come un modello di successione legittima che richiede il concorso dell’autorità profetica, sacerdotale e reale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio rafforza l'idea che la legittimità dinastica non dipende dal sostegno militare o numerico, ma dalla conferma profetica e sacerdotale del disegno divino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "subtipo_geo": "Primavera"
+}

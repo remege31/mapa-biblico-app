@@ -1,0 +1,183 @@
+{
+  "id": "libnah",
+  "nombre": "Libna",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.62,
+  "lng": 34.89,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Coordenadas corregidas — el esqueleto original tenía las mismas coordenadas que Lachish. Identificación probable con Tel Burna (lat 31.62, lng 34.89), aunque Tel Zayit es también candidato.",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città cananea conquistata da Giosuè"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Città di rifugio levitico in Giuda"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Giuda Città di confine"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Libna (ebraico: לִבְנָה, 'bianchezza' o 'pioppo bianco') era una città nella Sefela di Giuda, a nord-est di Lachish. La sua esatta identificazione è dibattuta tra Tel Burna e Tel Zayit, entrambi nella zona di Shefela a circa 8-10 km a nord di Lachish. Era una città levitica assegnata ai sacerdoti aronniti (Gs 21:13) e una città di rifugio. Appare ripetutamente accanto a Lachis nelle narrazioni militari - la conquista di Giosuè, l'assedio di Sennacherib - evidenziando che formavano un sistema difensivo complementare nel corridoio occidentale di Giuda. Il luogo di nascita della madre del re Giosia (2 Re 23:31) e del re Ioacaz.",
+  "altitud_m": 250,
+  "clima": "Mediterraneo di transizione nel Sefela: precipitazioni di 400-450 mm all'anno, estati secche e calde, inverni miti e piovosi. Terreni adatti per oliveti e agricoltura arida.",
+  "recursos": [
+    "Uliveti sulle colline di Sefela",
+    "Agricoltura pluviale: grano, orzo",
+    "Posizione difensiva nel corridoio montuoso Sefela-Giuda",
+    "Città levitica: centro dell'istruzione religiosa e della giustizia",
+    "Accesso alle rotte tra la pianura filistea e Hebron"
+  ],
+  "importancia_estrategica": "Libna formò con Lachis il sistema di città fortezza a ovest di Giuda. La sua conquista da parte di Giosuè ha preceduto quella di Lachis nella campagna meridionale. Durante l'assedio di Sennacherib (701 a.C.), Libna resistette all'esercito assiro mentre il re negoziava con Lachis: una resistenza notevole per una città minore. Il suo carattere di città levitica ne fece un centro religioso e giudiziario per l'intera zona.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-libnah",
+      "nombre": "Cananei di Libna",
+      "descripcion": "Il re di Libna è uno dei trentuno re Cananei sconfitti da Giosuè (Gs 12:15). La città fu conquistata nella campagna meridionale dopo Lachis, come parte della sistematica conquista del corridoio occidentale di Canaan. Il suo nome potrebbe riferirsi al colore bianco delle sue costruzioni in pietra calcarea locale o ai pioppi bianchi che crescevano nella zona.",
+      "religion": "Politeismo Cananeo: culto di Baal e divinità locali delle alture",
+      "periodo": "Tardo Bronzo al c. 1200 a.C"
+    },
+    {
+      "id": "familia-real-libnah",
+      "nombre": "Famiglia reale Libnah - connessione alla monarchia Giuda",
+      "descripcion": "Hamital pipistrello Geremia di Libna era la madre sia del re Ioacaz (2 Re 23:31) che del re Sedechia (2 Re 24:18), gli ultimi due re di Giuda prima della distruzione babilonese. Questa connessione tra una famiglia di Libna e la famiglia reale davidica nel periodo finale del regno di Giuda è un pezzo di prosopografia biblica che colloca Libna nella rete di alleanze matrimoniali della corte di Gerusalemme.",
+      "religion": "Yahvismo effettivo da Giuda",
+      "periodo": "Tardo Ferro II, fine del VII secolo a.C."
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-libnah",
+      "titulo": "Giosuè conquista Libna: la sistematica conquista del sud",
+      "fecha": "c. 1220 a.C.",
+      "descripcion": "Dopo la battaglia di Gabaon e l'esecuzione dei Cinque Re del Sud, Giosuè intraprese la conquista sistematica delle città della coalizione. Dopo aver preso Makkedah, marciò verso Libna e l'attaccò. Anche Jahvè l'ha consegnata nelle mani di Israele insieme al suo re. La ferì a fil di spada con ogni essere vivente, senza lasciare superstiti, come aveva fatto con il re di Gerico. Subito dopo Lachis attaccò. Lo schema è identico in tutte le città: attacco, vittoria in un giorno o due, distruzione totale, marcia verso la città successiva. Libna, essendo la prima della sequenza sud-nord, stabilì il ritmo della campagna e l'applicazione coerente dell'herem.",
+      "referencias": [
+        "Gs 10:29-30",
+        "Gs 10:38-39",
+        "Gs 12:15"
+      ],
+      "personajes_clave": [
+        "josue-libnah"
+      ]
+    },
+    {
+      "id": "libnah-se-rebela",
+      "titulo": "Libna si ribella a Giuda: la ribellione ai tempi di Joram",
+      "fecha": "c. 848 a.C.",
+      "descripcion": "Durante il regno del re Joram di Giuda — figlio di Giosafat, genero di Achab, che \"fece ciò che è male agli occhi di Jahvè\" — Libna si ribellò contemporaneamente a Edom. Il testo biblico è breve: 'In quel tempo Libna si ribellò al suo dominio, perché aveva abbandonato Jahvè Dio dei suoi padri.' Il Cronista aggiunge che Joram aveva costruito alture sulle montagne di Giuda, aveva commesso fornicazione con gli abitanti di Giuda e si era allontanato da Gerusalemme. La ribellione di Libna – una città levitica – viene letta come un giudizio divino: la città che doveva essere un centro dell'insegnamento della Torah rifiutò un re che l'aveva tradita. È stato l'unico caso documentato nell'OT di una città interna di Giuda che si ribellava al suo re.",
+      "referencias": [
+        "2 Re 8:22",
+        "2 Cr 21:10-11"
+      ],
+      "personajes_clave": [
+        "joran-juda",
+        "libnah-ancianos"
+      ]
+    },
+    {
+      "id": "senaquerib-libnah",
+      "titulo": "Sennacherib attacca Libna durante l'assedio di Gerusalemme",
+      "fecha": "701 a.C.",
+      "descripcion": "Mentre Sennacherib negoziava (o faceva pressioni) su Ezechia da Lachis, inviò i suoi generali con un grande esercito verso Gerusalemme. Secondo il testo biblico, quando il re d'Etiopia avanzò contro Sennacherib, il re assiro, appresa la notizia, inviò messaggeri a Ezechia dicendogli di non fidarsi del suo Dio. In questo contesto, il testo menziona che Sennacherib «stava combattendo contro Libna» (2 Re 19:8), suggerendo che Libna resistette all'esercito assiro mentre Lachis era già caduto. La resistenza di Libna è breve nel testo ma significativa: una città levitica che respinse l'invasore mentre il re negoziava con Lachis.",
+      "referencias": [
+        "2 Re 19:8",
+        "Is 37:8",
+        "2 Re 18:17"
+      ],
+      "personajes_clave": [
+        "senaquerib-libnah",
+        "ezequias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue-libnah",
+      "nombre": "Giosuè",
+      "rol": "Comandante militare di Israele, conquistatore di Libna nella campagna meridionale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Giosuè ben Nun appare nella conquista di Libna come il comandante metodico che esegue il piano divino di Canaan di conquista del sud con disciplina sistematica. La sua tattica radicale - di città in città, senza sosta, applicando l'erem a ciascuna - trasformò la campagna del sud nell'operazione militare di conquista più rapida. La menzione di Libna insieme a Lachish, Eglon e Hebron nella stessa sequenza evidenzia che Giosuè comprendeva la geografia strategica: le città della Shephelah e il sud di Giuda formavano un sistema che doveva essere smantellato in ordine.",
+      "referencias": [
+        "Gs 10:29-43",
+        "Gs 1:1-9",
+        "Gs 24:29-30"
+      ],
+      "ruta": [
+        "jericho",
+        "ai",
+        "gibeon",
+        "lachish",
+        "libnah",
+        "hebron"
+      ]
+    },
+    {
+      "id": "joran-juda",
+      "nombre": "Jorán di Giuda",
+      "rol": "Re di Giuda, genero di Acab, sotto il cui regno Libna si ribellò",
+      "periodo": "c. 848–841 a.C.",
+      "descripcion": "Joran ben Josaphat è uno dei re presentati più negativamente di Giuda. Il suo matrimonio con Atalia, figlia di Achab e Jezebel, introdusse in Giuda le pratiche religiose che avevano contaminato il regno del nord. Il Cronista registra che uccise tutti i suoi fratelli con la spada dopo essere salito al trono. Sotto il suo regno, Edom e Libnah divennero indipendenti da Giuda. Morì di una dolorosa malattia intestinale - il Cronista lo presenta come compimento della lettera profetica di Elia - e il testo aggiunge che 'se ne andò senza che nessuno se ne pentisse', venendo sepolto a Gerusalemme ma non nelle tombe reali.",
+      "referencias": [
+        "2 Re 8:16-24",
+        "2 Cr 21:1-20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "hamital",
+      "nombre": "Mazza Hamital Geremia di Libnah",
+      "rol": "Madre degli ultimi re di Giuda, originaria di Libna",
+      "periodo": "c. 630–580 a.C.",
+      "descripcion": "Hamital bat Geremia di Libna era la madre del re Ioacaz (regnò 3 mesi, 609 a.C.) e del re Sedechia (l'ultimo re, 597-586 a.C.). La sua origine a Libna – la città levitica della Shephelah – la colloca in una famiglia con un possibile background sacerdotale o levitico. La menzione esplicita della loro città d'origine nei testi di intronizzazione dei loro figli (2 Re 23:31; 24:18) segue il modello biblico di identificare le madri dei re di Giuda in base alla loro origine geografica. Hamital visse abbastanza da vedere la deportazione babilonese di entrambi i figli: Ioacaz fu portato a Egitto dal faraone Neco; Sedekiah è stato accecato e portato a Babilonia.",
+      "referencias": [
+        "2 Re 23:31",
+        "2 Re 24:18",
+        "Ger 52:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Libna è la città levitica che si ribellò contro un re ingiusto: l'unico caso documentato di ribellione da parte di un centro urbano di Giuda contro la monarchia davidica. Questa ribellione venne letta dal testo biblico non come un tradimento ma come diretta conseguenza dell'abbandono di Jahvè da parte di re Joram. La città che avrebbe dovuto insegnare la Torah rifiutò il re che l'aveva tradita. Libna concentra così due temi dello Yahwismo biblico: la città levitica come custode della fedeltà, e il giudizio che inizia dalla casa di Israele piuttosto che dai nemici esterni.",
+    "religiones_presentes": [
+      "Politeismo Cananeo — culto pre-israelita prima della conquista di Giosuè",
+      "Yahvismo Levitico: città sacerdotale assegnata ai figli di Aronne e città di rifugio",
+      "Baalismo di Omrid: influenza della politica religiosa di Joram da parte di Giuda"
+    ],
+    "mitos": [
+      {
+        "id": "ciudad-que-juzga-al-rey",
+        "nombre": "Libna si ribella: quando la città levitica giudica il re infedele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 8:22; 2 Cr 21:10-11",
+          "fuente_secundaria": "Midrash Rabbah, Números 13; Talmud Bavli, Sanedrín 102b sobre reyes de Judá",
+          "descripcion": "Il Talmud e il Midrashim utilizzarono la ribellione di Libna per illustrare il principio secondo cui l'apostasia del re contamina l'intero regno e innesca reazioni a catena: prima la ribellione di Edom (popolo pagano), poi quella di Libna (città israelita levitica). La sequenza mostra che il giudizio si estende dall'esterno verso l'interno: prima vengono liberati i pagani dal re infedele, poi gli stessi Israeliti. La ribellione di una città levitica è particolarmente significativa perché le città levitiche dovevano essere centri di lealtà yahvista: la loro ribellione contro un re apostata è la forma più drammatica di denuncia religiosa.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il re che abbandona Jahvè perde la lealtà sia delle nazioni vicine che del suo stesso popolo. La legittimità della monarchia davidica poggiava sulla fedeltà all'alleanza, non solo sul diritto ereditario.",
+          "posible_relacion_cultural": "La ribellione delle città-stato contro un re che viola i suoi obblighi religiosi o giudiziari appare negli antichi testi del Vicino Oriente, compresi i testi Mari sulle città che si rifiutano di rendere omaggio a re considerati illegittimi."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

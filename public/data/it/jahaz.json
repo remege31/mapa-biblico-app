@@ -1,0 +1,149 @@
+{
+  "id": "jahaz",
+  "nombre": "sì",
+  "tipo": "ciudad",
+  "lat": 31.50100308502659,
+  "lng": 35.92063125199366,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: battaglia decisiva contro Sihon"
+    }
+  ],
+  "descripcion_geo": "Città nel deserto orientale di Moab, al confine del territorio amorreo, teatro della battaglia decisiva tra Israele e Sihon, re degli Amorrei, che aprì la strada alla conquista di tutta la Transgiordania settentrionale.",
+  "altitud_m": 750,
+  "clima": "Altopiano semiarido: estati calde e secche, inverni freddi, tipici del confine orientale di Moab verso il deserto.",
+  "recursos": [
+    "Posizione strategica di confine tra il deserto e il territorio amorreo",
+    "Punto di battaglia decisivo per il controllo della Transgiordania"
+  ],
+  "importancia_estrategica": "Yahas è il luogo della battaglia che decide il destino di tutto il territorio amorreo a est del Giordano: la sconfitta di Sihon apre la strada a Israele per occupare l'intera regione tra l'Arnon e lo Jabbok, territorio che verrà successivamente assegnato alle tribù di Ruben e Gad, segnando il primo grande successo militare territoriale di Israele prima ancora di attraversare il Giordano per entrare in Canaan vero e proprio.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_yahas",
+      "nombre": "Amorrei (esercito di Sihon)",
+      "descripcion": "Forze militari di Sihon, re amorreo, definitivamente sconfitte da Israele a Yahas dopo aver rifiutato di consentire il passaggio pacifico richiesto da Mosè.",
+      "religion": "Politeismo amorreo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "israelitas_yahas",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Esercito israelita che ottiene la sua prima grande decisiva vittoria territoriale contro un regno organizzato a Yahas, ancor prima di attraversare il Giordano verso Canaan.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sehon-niega-paso-yahas",
+      "titulo": "Sihon nega il passaggio pacifico e raduna il suo esercito a Yahas",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Mosè invia messaggeri a Sihon chiedendo un passaggio pacifico attraverso il suo territorio, promettendo di non deviare o toccare i suoi campi; Sihon rifiuta e, invece, raduna il suo intero esercito e va incontro a Israele nel deserto, raggiungendo Yahas per combattere.",
+      "referencias": [
+        "Nm 21:21-23"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "derrota-sehon-yahas",
+      "titulo": "Israele sconfigge Sihon a Yahas",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Israele ferisce Sihon a fil di spada nella battaglia di Yahas e prende possesso di tutta la sua terra dall'Arnon allo Jabbok, vittoria che diventa riferimento ricorrente nei racconti successivi come prova paradigmatica del potere di YHWH a favore di Israele nella conquista della Transgiordania.",
+      "referencias": [
+        "Nm 21:23-25",
+        "Dt 2:32-36"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "jueces-recuerdo-yahas",
+      "titulo": "Iefte invoca il ricordo della vittoria di Yahas",
+      "fecha": "c. 1100 a.C. (referencia retrospectiva)",
+      "descripcion": "Secoli dopo, il giudice Iefte, nella sua disputa diplomatica con il re degli Ammoniti, invoca esplicitamente la storica vittoria di Israele su Sihon nella regione di Yahas come base legittima per il possesso israeliano del territorio conteso.",
+      "referencias": [
+        "Gdc 11:19-22"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_yahas",
+      "nombre": "Mosè",
+      "rol": "Leader di Israele nella conquista della Transgiordania",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida la prima grande vittoria territoriale decisiva di Israele a Yahas contro Sihon, aprendo la strada al possesso di tutto il territorio amorreo a est del Giordano.",
+      "referencias": [
+        "Nm 21:21-25"
+      ],
+      "ruta": [
+        "jahaz"
+      ]
+    },
+    {
+      "id": "sehon_yahas",
+      "nombre": "Sihon, re dell'Amorrei",
+      "rol": "Re amorreo sconfitto a Yahas",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Rifiuta la richiesta di Israele per un passaggio pacifico e viene definitivamente sconfitto a Yahas, perdendo il suo intero regno tra l'Arnon e lo Jabbok a causa di Israele.",
+      "referencias": [
+        "Nm 21:23-24"
+      ],
+      "ruta": [
+        "jahaz"
+      ]
+    },
+    {
+      "id": "jefte_yahas",
+      "nombre": "Iefte",
+      "rol": "Giudice Israele, negoziatore diplomatico",
+      "periodo": "Activo c. 1100 a.C.",
+      "descripcion": "Cita l'antica vittoria di Yahas come argomento giuridico e storico nella sua disputa con il re degli Ammoniti sulla legittimità del possesso israelita del territorio della Transgiordania.",
+      "referencias": [
+        "Gdc 11:12-27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Yahas è il luogo della prima grande vittoria militare territoriale di Israele narrata nel corpus mosaico, presentata come una dimostrazione iniziale del potere di YHWH di consegnare la terra al suo popolo prima ancora di attraversare il Giordano. La sua successiva invocazione da parte di Iefte, secoli dopo, conferma che il ricordo di questa battaglia funzionò come un precedente giuridico e teologico citabile per legittimare il possesso territoriale israelita contro le pretese dei popoli vicini.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo amorreo (esercito sconfitto)"
+    ],
+    "mitos": [
+      {
+        "id": "primera-victoria-territorial-yahas",
+        "nombre": "Yahas è la prima grande vittoria territoriale di Israele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 21:21-25; Deut 2:32-36; Jue 11:19-22",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la victoria de Yahas como precedente legal citado por Jefté frente a reclamos territoriales posteriores",
+          "descripcion": "La tradizione ebraica valorizza in particolare la vittoria di Yahas, invocata esplicitamente secoli dopo da Iefte come argomento di legittimità territoriale, stabilendo un precedente su come gli eventi storici fondativi della proprietà terriera possano e debbano essere citati come fondamento giuridico a fronte delle successive controversie con le nazioni vicine.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La vittoria di Yahas diviene una base storico-giuridica ricorrente per la legittimità del possesso israelita della Transgiordania, citabile generazioni dopo come prova documentata del diritto acquisito.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

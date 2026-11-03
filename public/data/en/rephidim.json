@@ -1,0 +1,163 @@
+{
+  "id": "rephidim",
+  "nombre": "Rephidim / Massa",
+  "tipo": "ciudad",
+  "lat": 28.73106102564323,
+  "lng": 33.84169995726504,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Comparte coordenadas con Masá — son el mismo lugar geográfico bajo distintos nombres conmemorativos (Éx 17:1-7).",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Water from the rock, victory over Amalek"
+    }
+  ],
+  "descripcion_geo": "Camp of the exodus in the desert of Sinai, scene of both the lack of water resolved through the miracle of the rock of Horeb and, in the same place, of the first pitched battle of Israel against an external enemy: the Amalekites.",
+  "altitud_m": 600,
+  "clima": "Mountain desert — extremely dry and hot during the day, with cooler temperatures at night, typical of the Sinai mountainous region.",
+  "recursos": [
+    "Rock of Horeb, source of the miracle of water",
+    "Elevated position used by Moses during the battle against Amalek"
+  ],
+  "importancia_estrategica": "Rephidim is the scene of two consecutive episodes of great importance: the miraculously resolved water crisis that gives rise to the names Massah and Meribah, and Israel's first significant military battle as an organized nation, against the Amalekites, won thanks to Moses's sustained stance with his hands raised on a nearby hill.",
+  "otros_habitantes": [
+    {
+      "id": "amalecitas_refidim",
+      "nombre": "Amalekites",
+      "descripcion": "Nomadic desert people attacking Israel in Rephidim, first organized military enemy faced by the newly liberated people of Egypt.",
+      "religion": "Amalekite polytheism",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "israelitas_refidim",
+      "nombre": "Israel of the exodus",
+      "descripcion": "People who experience in Rephidim both the miraculous provision of water and their first military victory as a nation, under the combined leadership of Moses and Joshua.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "agua-roca-refidim",
+      "titulo": "Water gushes from the rock of Horeb at Rephidim",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Given the lack of water in Rephidim, Moses hits the rock of Horeb by divine instruction, from which enough water flows for the entire town, an episode that gives rise to the commemorative names Massah and Meribah for the place.",
+      "referencias": [
+        "Exod 17:1-7"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "batalla-amalec-refidim",
+      "titulo": "Israel defeats Amalek at Rephidim",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Amalek attacks Israel at Rephidim; Moses orders Joshua to select men to fight, while he himself climbs a hill with Aaron and Hur, holding high the staff of God; while Moses keeps his hands raised, Israel prevails, but when he lowers them due to fatigue, Amalek gains ground, until Aaron and Hur hold their hands until sunset, ensuring definitive victory.",
+      "referencias": [
+        "Exod 17:8-13"
+      ],
+      "personajes_clave": [
+        "moises",
+        "josue"
+      ]
+    },
+    {
+      "id": "altar-yhwh-nisi-refidim",
+      "titulo": "Moses build an altar called 'YHWH is my banner'",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the victory over Amalek, YHWH orders the event to be written as a memorial and instructs that perpetual war be declared against Amalek; Moses builds an altar he calls 'YHWH-nisi' ('YHWH is my banner'), commemorating Israel's first military victory as an organized people.",
+      "referencias": [
+        "Exod 17:14-16"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_rephidim",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He resolves the water crisis and symbolically leads the battle against Amalek from the hill, holding aloft the staff of God as a sign of victory's dependence on divine power rather than human military force.",
+      "referencias": [
+        "Exod 17:1-16"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    },
+    {
+      "id": "josue_rephidim",
+      "nombre": "Joshua",
+      "rol": "Military commander, future successor to Moses",
+      "periodo": "bronce_tardio",
+      "descripcion": "He receives his first biblical mention precisely in Rephidim, where Moses appoints him to select and command the men of Israel in the battle against Amalek, the first appearance of the future leader of the conquest of Canaan.",
+      "referencias": [
+        "Exod 17:9-10",
+        "Exod 17:13"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    },
+    {
+      "id": "aaron_hur_rephidim",
+      "nombre": "Aaron and Hur",
+      "rol": "Moses Hands Holders",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "They physically support the tired hands of Moses during the prolonged battle against Amalek, ensuring that they remain raised until the final victory as the sun sets, an example of decisive collaborative support at a critical moment.",
+      "referencias": [
+        "Exod 17:12"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Rephidim connects two founding episodes of the Exodus under the same geographical roof: the miraculous provision of water that reveals YHWH's providential character, and the first military victory of Israel, which establishes the theological pattern that success in war depends directly on the posture of spiritual dependence (the raised hands of Moses) rather than on conventional military strategy or force, a principle reinforced by the declaration of perpetual war against Amalek as punishment for attacking a newly liberated vulnerable people.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Amalekite polytheism"
+    ],
+    "mitos": [
+      {
+        "id": "manos-alzadas-moises-amalec",
+        "nombre": "The raised hands of Moses and the victory over Amalek",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 17:8-16",
+          "fuente_secundaria": "Mishná, tratado Rosh Hashaná 3:8 (discusión sobre el significado de las manos alzadas de Moisés, aclarando que no era la posición física en sí la causa de la victoria sino la orientación del corazón del pueblo hacia el cielo)",
+          "descripcion": "Classical rabbinic tradition explicitly discusses the episode to clarify that it was not Moses's hands themselves that determined military victory, but rather his posture functioned as a visual reminder directing Israel's hearts toward YHWH's dependence in heaven, avoiding any magical or superstitious interpretation of the physical gesture.",
+          "similitudes": "It shares with Christianity the recognition of the symbolic value of the sustained prayer posture.",
+          "diferencias": null,
+          "significado_teologico": "The episode establishes that genuine military victory depends on the people's spiritual orientation toward YHWH, symbolized but not magically caused by Moses's physical gesture.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 17:8-13 (recepción tipológica patrística sobre las manos alzadas de Moisés como figura de la cruz u oración perseverante)",
+          "fuente_secundaria": "Comentarios patrísticos que asocian la postura de Moisés con la oración intercesora constante necesaria para la victoria espiritual",
+          "descripcion": "The Christian patristic tradition, in some streams, typologically reads Moses's posture with outstretched arms as prefigurating the cross, while another line of interpretation more generally emphasizes the value of sustained intercessory prayer and communal support (represented by Aaron and Hur) as necessary to sustain spiritual struggle over time.",
+          "similitudes": "It shares with the Jewish reading the recognition that victory depends on sustained spiritual dependence on God.",
+          "diferencias": "Some Christian readings add an explicit typological dimension (hands extended as a figure of the cross) absent in the traditional Jewish interpretation.",
+          "significado_teologico": "The episode is read as a model of persevering prayer and community support necessary to sustain the spiritual struggle until final victory.",
+          "posible_relacion_cultural": "Christian reception of the Exodus story reinterpreted in a devotional and, in some currents, typological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

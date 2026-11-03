@@ -1,0 +1,141 @@
+{
+  "id": "aroer",
+  "nombre": "Aroer (from Gad)",
+  "tipo": "ciudad",
+  "lat": 31.9617,
+  "lng": 35.9115,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Existe otro 'Aroer' distinto en el borde del valle del Arnón (territorio rubenita/moabita meridional); este registro corresponde al Aroer construido por los gaditas en Galaad, geográficamente próximo a Jazer y Jaboc.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City built by the Gadites in Gilead"
+    }
+  ],
+  "descripcion_geo": "City built by the tribe of Gad in the Gilead region, different from the better-known Aroer on the edge of the Arnon Valley, part of the set of fortified cities that the Gadites built or rebuilt when settling in their territory in Transjordan.",
+  "altitud_m": 600,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead region.",
+  "recursos": [
+    "Gilead agricultural and grazing land",
+    "Position within the fortified territory of Gad"
+  ],
+  "importancia_estrategica": "This Aroer of Gad is part of the set of cities that the Gadites built or rebuilt after receiving their territorial inheritance in Transjordan, evidence of the active process of settlement and fortification that the tribe undertakes to consolidate its presence in the region granted by Moses.",
+  "otros_habitantes": [
+    {
+      "id": "gaditas_aroer",
+      "nombre": "Tribe of Gad",
+      "descripcion": "Builders and inhabitants of this Aroer, part of the process of fortification of the cities assigned to the tribe in its territory of Transjordan.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    },
+    {
+      "id": "amonitas_vecinos_aroer",
+      "nombre": "Ammonites",
+      "descripcion": "Neighboring town whose territory bordered that of Gad in this region of Gilead, occasionally in tension over control of the border lands.",
+      "religion": "Ammonite polytheism—worship of Moloch",
+      "periodo": "c. 1400–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "gad-construye-aroer-galaad",
+      "titulo": "Gad builds Aroer in Gilead",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Among the cities that the sons of Gad built or fortified when settling in their territory in Transjordan includes this Aroer, part of the list of settlements consolidated by the tribe after receiving their inheritance from Moses.",
+      "referencias": [
+        "Num 32:34"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "aroer-distincion-geografica",
+      "titulo": "The distinction between the two cities called Aroer",
+      "fecha": "Contexto geográfico general",
+      "descripcion": "The biblical text carefully distinguishes between this Aroer built by Gad in Gilead and another city of the same name located on the edge of the Arnon Valley, a disputed southern border between Reuben and Moab, evidencing the frequency of repeated toponyms in the biblical geography of Transjordan.",
+      "referencias": [
+        "Josh 13:25",
+        "Num 32:34"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "gaditas-fortificacion-galaad",
+      "titulo": "The Gadite fortification program in Gilead",
+      "fecha": "c. 1400–1200 BC",
+      "descripcion": "Aroer is part of a broader program of city construction and fortification that the tribe of Gad undertakes in Gilead, also including Dibon, Atarot, Atrot-sophan, Jazer and Jogbeha, consolidating their territorial presence in the region.",
+      "referencias": [
+        "Num 32:34-36"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gaditas_aroer_personaje",
+      "nombre": "Builders of the tribe of Gad",
+      "rol": "Founders and fortifiers of Aroer",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "Responsible for the construction of Aroer and other cities of Gilead as part of the territorial consolidation process of the tribe in Transjordan.",
+      "referencias": [
+        "Num 32:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moises_aroer_galaad",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, authorizer of the Gadite settlement",
+      "periodo": "bronce_tardio",
+      "descripcion": "Authorizes the territorial distribution of Gilead to the tribe of Gad, which includes the founding and fortification of cities such as this Aroer.",
+      "referencias": [
+        "Num 32:28-36"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "amonitas_aroer_galaad",
+      "nombre": "Neighboring ammonites",
+      "rol": "Neighboring town of Cadiz territory",
+      "periodo": "c. 1400–1000 BC",
+      "descripcion": "They share a border with the Gaditan territory in the Gilead region where this Aroer is located, in occasional tension over control of the bordering lands.",
+      "referencias": [
+        "Josh 13:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "This Aroer lacks any narrative or mythic development of its own beyond its mention as part of the Gadite fortification program in Gilead; Its primary value for the biblical corpus is to document the active and deliberate process by which Transjordanian tribes materially consolidate possession of their assigned territory, transforming the legal grant of land into a fortified and stable urban presence.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "consolidacion-territorial-gad-aroer",
+        "nombre": "The active territorial consolidation of the tribe of Gad",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 32:34-36",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la importancia de la construcción activa de ciudades como expresión de compromiso genuino con la tierra recibida, en cumplimiento de la promesa hecha a Moisés",
+          "descripcion": "Jewish tradition observes that the extensive list of cities built or fortified by Gad, including this Aroer, demonstrates the genuine fulfillment of the commitment made by the tribe to Moses: not only to receive the fertile land of Gilead, but to actively invest in its development and defense, thus validating the legitimacy of their original territorial claim.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Gad's active building of cities demonstrates that receiving a territorial inheritance comes with the responsibility to actively develop and defend it, not just passively possess it.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "gozan",
+  "nombre": "Gozan",
+  "tipo": "ciudad",
+  "lat": 36.84,
+  "lng": 40.07,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città e fiume nella Siria settentrionale (l'attuale Tell Halaf/Habur) dove gli israeliti furono deportati dal regno settentrionale.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "La sorte degli israeliti in esilio deportati dagli Assiri.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "goz_h1",
+      "titulo": "Le dieci tribù deportate a Gozan",
+      "fecha": "722 a.C.",
+      "descripcion": "Gli Assiri deportarono gli Israeliti settentrionali \"ad Hala, Gozan presso il fiume Habor e nelle città dei Medi\".",
+      "referencias": [
+        "2 Re 17:6",
+        "2 Re 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "goz_h2",
+      "titulo": "Gli dei di Gozan: argomento assiro",
+      "fecha": "701 a.C.",
+      "descripcion": "Sennacherib chiede: \"Gli dei di Gozan e Haran hanno liberato quelle terre dalla mia mano?\"",
+      "referencias": [
+        "2 Re 19:12",
+        "Is 37:12"
+      ],
+      "personajes_clave": [
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "goz_h3",
+      "titulo": "Ezechia e i deportati di Gozan",
+      "fecha": "ca. 701 a.C.",
+      "descripcion": "La menzione di Gozan come destinazione dell'esilio israelita rafforza la tesi assira secondo cui nessun dio può resistergli.",
+      "referencias": [
+        "2 Re 19:12"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goz_p1",
+      "nombre": "Sargone II",
+      "rol": "Re di Assiria",
+      "periodo": "722-705 a.C.",
+      "descripcion": "Deportò gli Israeliti a Gozan; I loro discendenti sono le \"dieci tribù perdute\".",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p2",
+      "nombre": "Sennacherib",
+      "rol": "Re di Assiria",
+      "periodo": "705-681 a.C.",
+      "descripcion": "Usò Gozan come esempio del suo potere di intimidire Ezechia.",
+      "referencias": [
+        "2 Re 19:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p3",
+      "nombre": "Ezechia",
+      "rol": "Re di Giuda",
+      "periodo": "715-686 a.C.",
+      "descripcion": "Ha risposto alle minacce citate da Gozan con la preghiera; il Signore rispose.",
+      "referencias": [
+        "2 Re 19:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gozan: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "goz_m1",
+        "nombre": "Le dieci tribù perdute",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La deportazione a Gozan segna l'inizio delle “dieci tribù perdute”: Israele del nord sparse tra le città senza alcun ritorno registrato.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La deportazione a Gozan segna l'inizio delle “dieci tribù perdute”: Israele del nord sparse tra le città senza alcun ritorno registrato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

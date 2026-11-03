@@ -1,0 +1,141 @@
+{
+  "id": "paddan",
+  "nombre": "Paddan (Aram-Naharaim)",
+  "tipo": "territorio",
+  "lat": 36.86,
+  "lng": 39.03,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 19,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Region in the north of Mesopotamia (present-day northeastern Syria/Türkiye). Abraham Family Home; there Isaac and Jacob took wives.",
+  "altitud_m": 400,
+  "clima": "continental-arid",
+  "recursos": [
+    "dryland agriculture",
+    "trade",
+    "grazing"
+  ],
+  "importancia_estrategica": "Land of origin of the patriarchs; Jacob lived there for twenty years with Laban.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pad_h1",
+      "titulo": "Jacob escapes from Padán to Canaan",
+      "fecha": "ca. 1700 BC",
+      "descripcion": "After twenty years serving Laban in Paddan, Jacob flees with his wives, children and flocks to Canaan; Laban chases him but God stops him.",
+      "referencias": [
+        "Gen 31"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Labán",
+        "Raquel",
+        "Lea"
+      ]
+    },
+    {
+      "id": "pad_h2",
+      "titulo": "Rebekah brought from Padán for Isaac",
+      "fecha": "ca. 1800 BC",
+      "descripcion": "Abraham's servant travels to Paddan and finds Rebekah at the well; He brings her as a wife for Isaac.",
+      "referencias": [
+        "Gen 24"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Rebeca",
+        "Eliezer"
+      ]
+    },
+    {
+      "id": "pad_h3",
+      "titulo": "The twelve sons of Jacob born in Padan",
+      "fecha": "ca. 1760-1750 BC",
+      "descripcion": "Eleven of the twelve sons of Jacob (less Benjamin) were born in Padan; The tribes of Israel were formed there.",
+      "referencias": [
+        "Gen 35:23-26"
+      ],
+      "personajes_clave": [
+        "Jacob",
+        "Lea",
+        "Raquel",
+        "Bilha",
+        "Zilpá"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pad_p1",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "ca. 1800-1700 BC",
+      "descripcion": "He lived twenty years in Padan serving Laban; There he married Lea and Rachel.",
+      "referencias": [
+        "Gen 28:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p2",
+      "nombre": "Laban",
+      "rol": "Aramaic Father-in-Law by Jacob",
+      "periodo": "ca. 1800-1700 BC",
+      "descripcion": "He deceived Jacob by giving Leah first instead of Rachel; then he tried to hold him back.",
+      "referencias": [
+        "Gen 29:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pad_p3",
+      "nombre": "Cardigan",
+      "rol": "Matriarch, mother of Jacob",
+      "periodo": "ca. 1850-1770 BC",
+      "descripcion": "Born in Padán; chosen as Isaac's wife by Abraham's servant.",
+      "referencias": [
+        "Gen 24:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Paddan (Aram-Naharaim): relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "pad_m1",
+        "nombre": "The twelve patriarchs of Padan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Eleven of the twelve patriarchs were born in Paddan-Aram; Jacob received the name Israel there.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Eleven of the twelve patriarchs were born in Paddan-Aram; Jacob received the name Israel there.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

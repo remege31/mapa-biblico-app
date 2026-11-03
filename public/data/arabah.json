@@ -1,0 +1,145 @@
+{
+  "id": "arabah",
+  "nombre": "Arabá",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 32.03,
+  "lng": 35.52,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Bronce tardío - Romano"
+    }
+  ],
+  "descripcion_geo": "Depresión tectónica que se extiende desde el mar de Galilea hasta el golfo de Aqaba, pasando por el mar Muerto. Incluye el valle del Jordán.",
+  "altitud_m": -400,
+  "clima": "árido-desértico",
+  "recursos": [
+    "sal",
+    "minerales de cobre",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Corredor norte-sur de Palestina; ruta de caravanas y frontera natural entre Cisjordania y Transjordania.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ara_h1",
+      "titulo": "Israel camina por el Arabá hacia el Jordán",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israel marcha por el Arabá desde el Sinaí hasta los campos de Moab, donde esperará para cruzar el Jordán.",
+      "referencias": [
+        "Dt 1:1",
+        "Dt 2:8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "ara_h2",
+      "titulo": "Los últimos israelitas del norte huyen al Arabá",
+      "fecha": "722 a.C.",
+      "descripcion": "Tras la caída de Samaria, grupos de israelitas del norte huyen hacia el Arabá buscando escapar de la deportación asiria.",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "personajes_clave": [
+        "supervivientes israelitas"
+      ]
+    },
+    {
+      "id": "ara_h3",
+      "titulo": "Juan el Bautista en el Arabá jordánico",
+      "fecha": "ca. 26-29 d.C.",
+      "descripcion": "Juan bautiza en Betábara/Betania al otro lado del Jordán, en la zona del Arabá.",
+      "referencias": [
+        "Jn 1:28",
+        "Jn 3:23"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ara_p1",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condujo a Israel por el Arabá; los 'campos de Moab en el Arabá' fueron su última morada.",
+      "referencias": [
+        "Dt 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p2",
+      "nombre": "Juan el Bautista",
+      "rol": "Profeta del desierto",
+      "periodo": "ca. 5 a.C.–29 d.C.",
+      "descripcion": "Bautizaba en el Jordán en la zona del Arabá.",
+      "referencias": [
+        "Jn 1:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p3",
+      "nombre": "Josué",
+      "rol": "Conquistador",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Cruzó el Arabá para iniciar la conquista de Canaán desde los campos de Moab.",
+      "referencias": [
+        "Jos 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El gran corredor geográfico de la tierra santa; escenario del éxodo final y del ministerio de Juan el Bautista junto al Jordán.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ara_m1",
+        "nombre": "El corredor del éxodo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El Arabá fue el último tramo del peregrinaje: Israel lo recorrió antes de cruzar el Jordán hacia la tierra prometida.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Arabá fue el último tramo del peregrinaje: Israel lo recorrió antes de cruzar el Jordán hacia la tierra prometida.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Juan el Bautista bautizó en el Arabá jordánico: el nuevo éxodo espiritual de Israel.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Juan el Bautista bautizó en el Arabá jordánico: el nuevo éxodo espiritual de Israel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

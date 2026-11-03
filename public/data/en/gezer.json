@@ -1,0 +1,179 @@
+{
+  "id": "gezer",
+  "nombre": "Gezer",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8761,
+  "lng": 34.9225,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city on the coastal route"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Dispute zone between Israel and Philistia"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron II — Israelite city, dowry of the pharaoh's daughter"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Gezer (Hebrew: גֶּזֶר) was a major Canaanite city in the extreme north of the Shephelah (lowlands of Judah), at the confluence between the coastal plain and the hills of Judah, about 30 km northwest of Jerusalem. It controlled the main route between the Philistine plain and Jerusalem through the valley of Ajalon. Tel Gezer is one of the most important archaeological sites in Israel: excavations revealed Late Bronze cyclic walls, an avenue of masseboth stelae from the Middle Bronze, and the famous 'Water Tower' and six-chambered Iron II gate attributed to Solomon. The Gezer Calendar (10th century BC)—a limestone tablet with the annual agricultural cycle—is one of the oldest known Hebrew texts.",
+  "altitud_m": 210,
+  "clima": "Transitional Mediterranean — rainfall of 500-550 mm annually, dry and warm summers moderated by westerly breezes, mild rainy winters. Fertile terra rossa soils for intensive agriculture.",
+  "recursos": [
+    "Control of the Jerusalem-coast route through the Ajalón valley",
+    "Intensive agriculture — wheat, barley, olive trees, vineyards",
+    "Craft industry (ceramics, metallurgy)",
+    "Local spring water and cisterns",
+    "Wood from the Sefela forests"
+  ],
+  "importancia_estrategica": "Gezer was the key to the corridor between the coastal plain and Jerusalem. Whoever controlled Gezer controlled the most direct access to the capital from the west. Her gift as a dowry when Solomon married the pharaoh's daughter shows that Egypt recognized her exceptional strategic value — it was the only time a pharaoh gave a Canaanite city to Israel.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-gezer",
+      "nombre": "Gezer Canaanites",
+      "descripcion": "Gezer had one of the most resistant Canaanite populations in Canaan. Joshua defeated their king in battle but did not take the city (Josh 12:12). The Canaanites of Gezer continued to inhabit it as tributaries of Ephraim (Jos 16:10; Judg 1:29) throughout the time of the judges and part of the monarchy. Only when the Egyptian pharaoh conquered it, burned it and killed its Canaanite population, was he able to give it as a dowry to his daughter wife of Solomon — a document of Canaanite tenacity in this enclave.",
+      "religion": "Polytheism Canaanite — the masseboth (stone steles) found in Gezer evidence a long-lasting high altitude cult; Baal, Asherah and El are the main divinities",
+      "periodo": "Late Bronze to c. 970 BC (Egyptian destruction)"
+    },
+    {
+      "id": "egipcios-gezer",
+      "nombre": "Late Egyptian garrison",
+      "descripcion": "A pharaoh of the Solomon period (possibly Siamon of the 21st dynasty) attacked Gezer, burned it, and killed its inhabitants Canaanites before giving it as a dowry. This Egyptian action, unique in the biblical annals, suggests that Gezer had served as a point of friction between Egypt and Israel and that the marriage alliance with Solomon required this prior 'cleansing' of the territory.",
+      "religion": "Egyptian polytheism — worship of Ammon and Ra in the context of a military campaign",
+      "periodo": "c. 970 BC, specific campaign of the allied pharaoh of Solomon"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-gezer",
+      "titulo": "Joshua defeats the king of Gezer but does not take the city",
+      "fecha": "c. 1220 BC",
+      "descripcion": "In Canaan's southern campaign, Horam, king of Gezer, came to Lachish's aid when Joshua attacked it. Joshua defeated him completely, killing the king and his entire army without leaving any survivors. However, Joshua did not take the city of Gezer itself — it only eliminated the army that had come out into the open field. Gezer was on the list of defeated kings (Josh 12:12) but the Canaanites continued to inhabit it. The tribe of Ephraim, to whom the city corresponded in the division, could not expel them and reduced them to forced labor. This pattern — victory in the open field without taking the city — was characteristic of the Israelite conquest in the Shephelah, an area where the walled cities resisted more than in the hills.",
+      "referencias": [
+        "Josh 10:33",
+        "Josh 12:12",
+        "Josh 16:10"
+      ],
+      "personajes_clave": [
+        "josue-gezer",
+        "horam"
+      ]
+    },
+    {
+      "id": "dote-faraon-salomon",
+      "titulo": "Pharaoh's dowry: Gezer as a wedding gift to Solomon",
+      "fecha": "c. 970 BC",
+      "descripcion": "King Solomon married the daughter of the pharaoh of Egypt — an unprecedented political alliance that reversed the historical relationship between Israel and Egypt. The pharaoh had attacked Gezer, burned it and killed its inhabitants Canaanites, and gave it as a dowry when his daughter married Solomon. Solomon rebuilt Gezer alongside Hazor and Megiddo — the three cities that the biblical text explicitly mentions as works of its construction program with forced labor. Archaeological excavations confirmed a six-chambered gate identical in design at all three sites, evidence of the unified architectural program of the Solomonic reign. Gezer thus became a Canaanite tributary city into a first-class Israelite city.",
+      "referencias": [
+        "1 Kgs 9:15-17",
+        "1 Kgs 3:1",
+        "1 Kgs 9:24"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "hija-faraon"
+      ]
+    },
+    {
+      "id": "batalla-gezer-filisteos",
+      "titulo": "Gezer's battles against the Philistines in the times of David",
+      "fecha": "c. 1000 BC",
+      "descripcion": "The book of Samuel mentions two battles in the area of ​​Gezer (also called Gob) between Israel and the Philistines during the reign of David. In these clashes, several Philistines warriors of gigantic stature, descendants of the Rephaites, fell. Sibecai the Hushathite killed Saph; Elhanan killed Lahmi, Goliath's brother; Jonathan killed a giant with six fingers on each hand and foot. The text thus preserves a tradition of heroic individual combats in the context of the wars of consolidation of the Davidic kingdom, with Gezer as a zone of friction between Israelite control of the highlands and the Philistine presence on the plain.",
+      "referencias": [
+        "2 Sam 21:18-22",
+        "1 Chr 20:4-8"
+      ],
+      "personajes_clave": [
+        "sibecai",
+        "david-gezer"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon",
+      "nombre": "Solomon",
+      "rol": "King of Israel at his peak, builder of the temple and royal cities",
+      "periodo": "hierro_2",
+      "descripcion": "Solomon ben David is the king of Israel most famous for his wisdom, his architectural works and his final fall into syncretism. His construction program – temple of Jerusalem, royal palace, cities of Hazor, Megiddo and Gezer – transformed Israel into an organized territorial state. The alliance with Egypt through marriage to the pharaoh's daughter, who had Gezer as the object of the dowry, marked the high point of Israeli diplomatic projection on the international stage. His six hundred wives and three hundred concubines of foreign origin introduced foreign cults that the biblical text holds responsible for the schism of the kingdom after his death.",
+      "referencias": [
+        "1 Kgs 3:1-15",
+        "1 Kgs 9:15-19",
+        "1 Kgs 11:1-13"
+      ],
+      "ruta": [
+        "jerusalen",
+        "gezer"
+      ]
+    },
+    {
+      "id": "horam",
+      "nombre": "Horam of Gezer",
+      "rol": "King Canaanite of Gezer, defeated by Joshua in the southern campaign",
+      "periodo": "c. 1220 BC",
+      "descripcion": "Horam is the king of Gezer who came to the aid of Lachish when Joshua was besieging it. His military intervention, far from saving Lachish, resulted in the total defeat of his own army. The biblical text mentions him briefly (Josh 10:33) — one of the thirty-one Canaanites kings defeated by Joshua listed in Jos 12. His failure is significant: Gezer was one of the most heavily walled cities in Canaan, and yet its king could not save an ally or protect his own army in the open field.",
+      "referencias": [
+        "Josh 10:33",
+        "Josh 12:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sibecai",
+      "nombre": "Sibecai the Husatite",
+      "rol": "Warrior of David, conqueror of the Philistine giant Saf at Gezer",
+      "periodo": "c. 1000 BC",
+      "descripcion": "Sibecai the Hushathite was one of the warriors of the circle of David, commander of the eighth monthly shift of the army (1 Chr 27:11). His victory over Saph, a descendant of the Rephaim, at the Battle of Gezer (called Gob in 2 Sam 21:18) was so significant that his companions forbade David from going into battle in person: 'You will no longer go out with us to war so as not to extinguish the lamp of Israel.' Sibecai represents the professional fighter of the Davidic guard who protected the king even at the cost of his own glory.",
+      "referencias": [
+        "2 Sam 21:18",
+        "1 Chr 20:4",
+        "1 Chr 27:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gezer is archaeologically the site where the Canaanite religion in transition to Israelite Yahwism is best documented. The masseboth (stone steles) of the Middle Bronze Age, the Gezer Calendar with its agricultural cycle, and the Solomonic reconstruction that superimposed an Israelite city on the Canaanite ruins burned by the pharaoh: everything in Gezer speaks of encounter and substitution between religious cultures. The city that the pharaoh purified from Canaanites to give it to Israel is a metaphor for the process of 'Canaanization of Yahwism' that the prophets would denounce in the following centuries.",
+    "religiones_presentes": [
+      "Polytheism Canaanite — archaeologically documented masseboth and cult in heights",
+      "Egyptian polytheism — presence during the New Kingdom and the campaign of the allied pharaoh of Solomon",
+      "Solomonic Yahwism — Israelite reconstruction of the city after the pharaoh's dowry"
+    ],
+    "mitos": [
+      {
+        "id": "alianza-salomon-egipto",
+        "nombre": "The alliance with Egypt: political wisdom or theological trap",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 3:1; 1 Re 11:1-8; Dt 17:16-17",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 21b; Midrash Rabbah, Éxodo 6:1",
+          "descripcion": "The Talmud (Sanhedrin 21b) records that when Solomon took Pharaoh's daughter, the angel Gabriel stuck a reed into the sea that accumulated mud until it became Rome — an aggadic interpretation that the alliance with Egypt sowed the seed of Gentile rule over Israel. Deuteronomy 17:16-17 explicitly prohibited the king from three things: multiplying horses (imported from Egypt), multiplying women, and accumulating silver and gold — Solomon violated all three. The Midrash interprets that when Solomon took Pharaoh's daughter, God said: 'Now I will make the broom that sweeps your house' — a reference to exile.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The political wisdom of Solomon (marriage alliances) contradicted the law of Moses. The apparent success of the alliance with Egypt contained within itself the germ of the fall of the United Kingdom.",
+          "posible_relacion_cultural": "Marriage alliances between kings of the ancient Near East were standard diplomatic practice documented in the Amarna letters and Mari archives. Biblical exceptionalism is the explicit legal prohibition of this practice for the Israelite king."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

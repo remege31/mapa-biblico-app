@@ -1,0 +1,155 @@
+{
+  "id": "mahanaim",
+  "nombre": "Mahanaim",
+  "tipo": "ciudad",
+  "lat": 32.214708,
+  "lng": 35.632914,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Incontro angelico di Giacobbe, capitale di Is-bosheth, rifugio di Davide"
+    }
+  ],
+  "descripcion_geo": "Città in Galaad, a est del Giordano, il cui nome (\"due accampamenti\") commemora l'incontro di Giacobbe con gli angeli di Dio al ritorno a Canaan. In seguito divenne la capitale temporanea del regno di Ishbosheth e, generazioni dopo, il rifugio di Davide durante la ribellione di Absalom.",
+  "altitud_m": 450,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici degli altopiani Galaad.",
+  "recursos": [
+    "Posizione difendibile a Galaad",
+    "Capitale temporanea della casa di Saul",
+    "Rifugio strategico per Davide durante la ribellione di Absalom"
+  ],
+  "importancia_estrategica": "Mahanaim gioca un ruolo ricorrente come rifugio e centro del potere transgiordano in tempi di crisi politica: capitale di Ish-Bosheth dopo la morte di Saul, e secoli prima, luogo dell'incontro angelico che precede la decisiva riunione di Giacobbe con Esaù; infine, rifugio di Davide durante la ribellione di Absalom, quando il re riorganizza le sue forze fedeli per la battaglia decisiva nella foresta di Efraim.",
+  "otros_habitantes": [
+    {
+      "id": "angeles_majanaim",
+      "nombre": "Esercito di Dio (angeli)",
+      "descripcion": "Messaggeri divini che Giacobbe incontra a Mahanaim, dando origine al nome del luogo come \"due accampamenti\" (il suo e quello degli angeli).",
+      "religion": "Patriarcale Yahvismo",
+      "periodo": "C. 1900 a.C. (narrativa)"
+    },
+    {
+      "id": "galaaditas_majanaim",
+      "nombre": "Popolazione Galaad",
+      "descripcion": "Abitanti della regione della Transgiordania dove si trova Mahanaim, fedeli sia alla casata di Saul che, successivamente, a Davide durante la fuga da Absalom.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1010–975 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-angeles-majanaim",
+      "titulo": "Giacobbe incontra gli angeli di Dio a Mahanaim",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Mentre torna a Canaan dopo vent'anni con Labano, Giacobbe viene accolto dagli angeli di Dio; Vedendoli, dichiara «questo è l'accampamento di Dio» e nomina il luogo Mahanaim, episodio che precede immediatamente la sua angosciosa preparazione al ricongiungimento con Esaù.",
+      "referencias": [
+        "Gen 32:1-2"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "isboset-capital-majanaim",
+      "titulo": "Mahanaim come capitale di Ish-Bosheth",
+      "fecha": "c. 1010–1008 a.C.",
+      "descripcion": "Dopo la morte di Saul, Abner stabilisce Ishbosheth, figlio sopravvissuto di Saul, come re su Israele da Mahanaim, capitale temporanea della casa di Saul nella sua disputa con Davide per il controllo del regno unito.",
+      "referencias": [
+        "2 Sam 2:8-9"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-refugio-majanaim",
+      "titulo": "Davide si rifugia a Mahanaim durante la ribellione di Absalom",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "In fuga dalla ribellione di suo figlio Absalom, Davide si stabilisce a Mahanaim, dove riceve un supporto materiale cruciale da Sobi, Machir e Barzillai, e da dove riorganizza le sue fedeli truppe per la battaglia decisiva della foresta di Ephraim che si conclude con la morte di Absalom.",
+      "referencias": [
+        "2 Sam 17:24-29",
+        "2 Sam 19:32"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_majanaim",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "A Majanaim riceve l'incontro confortante con gli angeli di Dio poco prima di affrontare l'angoscia del ricongiungimento con il fratello Esaù, momento che prepara spiritualmente il suo successivo combattimento a Peniel.",
+      "referencias": [
+        "Gen 32:1-2"
+      ],
+      "ruta": [
+        "haran",
+        "mahanaim",
+        "peniel"
+      ]
+    },
+    {
+      "id": "isboset_majanaim",
+      "nombre": "Is-Bosheth",
+      "rol": "Re di Israele da Mahanaim, figlio di Saul",
+      "periodo": "c. 1010–1008 a.C.",
+      "descripcion": "Regna su Israele dalla capitale transgiordana di Mahanaim durante la guerra civile contro Davide, un breve governo dipendente dal generale Abner che si conclude con il suo assassinio.",
+      "referencias": [
+        "2 Sam 2:8-10",
+        "2 Sam 4:5-7"
+      ],
+      "ruta": [
+        "mahanaim"
+      ]
+    },
+    {
+      "id": "david_majanaim",
+      "nombre": "Davide",
+      "rol": "Re di Israele, rifugiato durante la ribellione di Absalom",
+      "periodo": "hierro_2",
+      "descripcion": "Stabilisce la sua base operativa a Mahanaim durante la ribellione di Absalom, ricevendo un sostegno materiale decisivo dai leader locali e riorganizzando le sue forze per la battaglia finale contro il figlio ribelle.",
+      "referencias": [
+        "2 Sam 17:24-29"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mahanaim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mahanaim funziona ripetutamente nel testo biblico come luogo di rifugio e riorganizzazione in momenti di crisi personale o politica: per Giacobbe è preparazione spirituale attraverso l'incontro angelico prima di una riconciliazione incerta; per Ish-Bosheth è l'ultima base della dinastia Saulide in disputa con Davide; Per lo stesso Davide, generazioni dopo, è il rifugio che gli permette di raggruppare le forze e sopravvivere alla ribellione di suo figlio, stabilendo uno schema ricorrente del luogo come punto di provvidenziale ripristino nei momenti di massima vulnerabilità.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "campamento-dios-majanaim",
+        "nombre": "Il 'campo di Dio' che dà il nome a Mahanaim",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:1-2",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la identidad de los ángeles encontrados por Jacob y su función protectora antes del reencuentro con Esaú",
+          "descripcion": "La tradizione rabbinica discute l'identità e la funzione specifica degli angeli che Giacobbe incontra a Mahanaim, interpretando l'incontro come una conferma provvidenziale della protezione divina poco prima del momento di massima vulnerabilità emotiva e fisica del patriarca, stabilendo il luogo come un ricordo permanente che l'angoscia umana può essere preceduta da una consolazione divina preparatoria.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'incontro di Mahanaim stabilisce il modello secondo cui Dio fornisce conforto e conferma della sua presenza protettiva prima dei momenti più difficili nella vita dei suoi eletti.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

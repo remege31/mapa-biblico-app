@@ -1,0 +1,247 @@
+{
+  "id": "asia",
+  "nombre": "Asia (provincia romana)",
+  "tipo": "territorio",
+  "lat": 39.23,
+  "lng": 32.73,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana sulla costa occidentale dell'Asia Minore (l'attuale Türkiye). Capitale: Efeso. Centro dell'ellenismo e del commercio mediterraneo.",
+  "altitud_m": 100,
+  "clima": "mediterraneo",
+  "recursos": [
+    "produzione",
+    "commercio",
+    "marmo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "La provincia più ricca dell'Impero Romano d'Oriente; centro del culto imperiale e delle sette chiese dell'Apocalisse.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi2_h1",
+      "titulo": "Paolo evangelizza tutta la provincia dell'Asia",
+      "fecha": "ca. 54-57 d.C.",
+      "descripcion": "Da Efeso, Paolo insegna alla scuola di Tiranno; tutti gli abitanti dell'Asia ascoltano il Vangelo.",
+      "referencias": [
+        "At 19:10"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "asi2_h2",
+      "titulo": "Le sette lettere alle Chiese dell'Asia",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "Il Cristo glorioso detta sette lettere alle chiese della provincia dell'Asia: Efeso, Smirne, Pergamo, Tiatira, Sardi, Filadelfia e Laodicea.",
+      "referencias": [
+        "Ap 1:4",
+        "Ap 2-3"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    },
+    {
+      "id": "asi2_h3",
+      "titulo": "La rivolta degli argentieri a Efeso",
+      "fecha": "ca. 56 d.C.",
+      "descripcion": "Il commercio del tempio di Artemide a Efeso è minacciato dalla predicazione di Paolo; gli artigiani si ribellano.",
+      "referencias": [
+        "At 19:23-41"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Demetrio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi2_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Usò Efeso come centro per evangelizzare in due anni l'intera provincia dell'Asia.",
+      "referencias": [
+        "At 19:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p2",
+      "nombre": "Giovanni Apostolo",
+      "rol": "Profeta e vescovo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ha vissuto a Efeso; Da lì scrisse l'Apocalisse con lettere alle sette chiese dell'Asia.",
+      "referencias": [
+        "Ap 1:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi2_p3",
+      "nombre": "Priscilla e l'Aquila",
+      "rol": "Leader della Chiesa",
+      "periodo": "s. I d.C.",
+      "descripcion": "Coppia che guidò la chiesa di Efeso e fece da mentore ad Apollo.",
+      "referencias": [
+        "At 18:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Crogiolo dell'ellenismo, del culto imperiale e del vangelo; Le sette Chiese della provincia dell'Asia sono le prime destinatarie dell'Apocalisse.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "imperial_cult",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "asi2_m1",
+        "nombre": "Le sette chiese dell'Asia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il Cristo glorioso indirizza sette lettere alle Chiese della provincia dell'Asia: modello di giudizio e di grazia sulla Chiesa universale.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il Cristo glorioso indirizza sette lettere alle Chiese della provincia dell'Asia: modello di giudizio e di grazia sulla Chiesa universale.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "asi2_nt_h1",
+        "titulo": "Tutta l'Asia ascolta il Vangelo",
+        "fecha": "ca. 54-57 d.C.",
+        "descripcion": "Paolo insegna due anni a Efeso; Gli abitanti di tutta la provincia dell'Asia ascoltano la Parola.",
+        "referencias": [
+          "At 19:10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "asi2_nt_h2",
+        "titulo": "Le sette chiese dell'Apocalisse",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "A Patmos Giovanni riceve sette lettere per le Chiese dell'Asia: documenti unici di pastorale apostolica.",
+        "referencias": [
+          "Ap 2-3"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "asi2_nt_h3",
+        "titulo": "L'ammutinamento degli argentieri",
+        "fecha": "ca. 56 d.C.",
+        "descripcion": "La crescita del Vangelo in Asia minaccia gli affari del Tempio di Artemide; Una rivolta a Efeso scuote la provincia.",
+        "referencias": [
+          "At 19:23-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Demetrio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "asi2_nt_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Da Efeso evangelizzò l'Asia con un'efficacia senza precedenti.",
+        "referencias": [
+          "At 19:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p2",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta dell'Apocalisse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Vescovo delle Chiese dell'Asia; ricevitore e trasmettitore dell'Apocalisse.",
+        "referencias": [
+          "Ap 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "asi2_nt_p3",
+        "nombre": "Timoteo",
+        "rol": "Pastore di Efeso",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discepolo di Paolo, lasciato parroco della chiesa di Efeso.",
+        "referencias": [
+          "1 Tm 1:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La provincia romana dell'Asia fu il cuore della missione paolina e la destinataria dell'Apocalisse.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "imperial_cult",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "asi2_nt_m1",
+          "nombre": "Le sette chiese",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Le sette Chiese dell'Asia rappresentano l'universalità della Chiesa: le sue lodi e i suoi rimproveri sono uno specchio di ogni comunità cristiana.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Le sette Chiese dell'Asia rappresentano l'universalità della Chiesa: le sue lodi e i suoi rimproveri sono uno specchio di ogni comunità cristiana.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

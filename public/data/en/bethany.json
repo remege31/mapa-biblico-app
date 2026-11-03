@@ -1,0 +1,158 @@
+{
+  "id": "bethany",
+  "nombre": "Bethany",
+  "tipo": "ciudad",
+  "lat": 31.7714,
+  "lng": 35.2631,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Village east of the Mount of Olives, about 3 km from Jerusalem, on the eastern slope.",
+  "altitud_m": 800,
+  "clima": "arid-mediterranean",
+  "recursos": [
+    "olive trees",
+    "figs",
+    "lodging"
+  ],
+  "importancia_estrategica": "Jesus shelter outside Jerusalem; on the route to Jericho.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bet_h1",
+        "titulo": "Resurrection of Lazarus",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus resurrects Lazarus four days after his death.",
+        "referencias": [
+          "John 11:1-44"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Lázaro",
+          "Marta",
+          "María"
+        ]
+      },
+      {
+        "id": "bet_h2",
+        "titulo": "The anointing in Bethany",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Mary anoints Jesus's feet with costly spikenard.",
+        "referencias": [
+          "John 12:1-8"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "Judas Iscariote"
+        ]
+      },
+      {
+        "id": "bet_h3",
+        "titulo": "Last stay before the Passion",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus spends the nights in Bethany during Passion Week.",
+        "referencias": [
+          "Matt 21:17",
+          "Mark 11:11-12"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bet_p1",
+        "nombre": "Lazarus",
+        "rol": "Resurrected Friend by Jesus",
+        "periodo": "s. I AD",
+        "descripcion": "Brother of Martha and Mary, resurrected by Jesus.",
+        "referencias": [
+          "John 11:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bet_p2",
+        "nombre": "Marten",
+        "rol": "Disciple and hostess",
+        "periodo": "s. I AD",
+        "descripcion": "Sister of Lazarus, known for her hospitality.",
+        "referencias": [
+          "Luke 10:38-42"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bet_p3",
+        "nombre": "Mary of Bethany",
+        "rol": "contemplative disciple",
+        "periodo": "s. I AD",
+        "descripcion": "He anointed Jesus's feet with costly perfume.",
+        "referencias": [
+          "John 12:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Jewish village closely linked to Jesus's circle of friends; scene of his most notable miracle.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "bet_m1",
+          "nombre": "The resurrection of Lazarus",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus resurrects Lazarus as a sign of his power over death and a prefiguration of his own resurrection.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus resurrects Lazarus as a sign of his power over death and a prefiguration of his own resurrection.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "The Quran mentions Jesus (Isa) as being able to resurrect the dead with the permission of Allah.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Quran mentions Jesus (Isa) as being able to resurrect the dead with the permission of Allah.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

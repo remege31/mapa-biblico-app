@@ -1,0 +1,149 @@
+{
+  "id": "eshtemoa",
+  "nombre": "Estemoa",
+  "tipo": "ciudad",
+  "lat": 31.373521,
+  "lng": 35.074552,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Levitical city, beneficiary of David loot"
+    }
+  ],
+  "descripcion_geo": "City at the southern end of the mountainous region of Judah, next to Hebron, designated as a Levitical city within the territory of the tribe of Judah. Arid hilly environment in transition towards Negev.",
+  "altitud_m": 790,
+  "clima": "Semi-arid — very dry and hot summers, cold winters with little rain, typical of the southern edge of Judah.",
+  "recursos": [
+    "Judah Southern Agricultural and Grazing Lands",
+    "Levitical position within the tribal distribution",
+    "Recipient of David's loot shipments"
+  ],
+  "importancia_estrategica": "Estemoa has no military relevance of its own, but its designation as a Levitical city and its inclusion among the recipients of the loot distributed by David after its campaigns against the enemies of the south demonstrate its integration into the network of localities allied and loyal to the future king during his period in Ziklag.",
+  "otros_habitantes": [
+    {
+      "id": "levitas_estemoa",
+      "nombre": "Levites",
+      "descripcion": "Levitical families settled in Estemoa as part of the distribution of priestly cities among the tribes, according to the Joshua lists.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    },
+    {
+      "id": "judaitas_estemoa",
+      "nombre": "Judah Clan",
+      "descripcion": "Chronicler genealogies link Estemoa with descendants of Caleb's line, integrating the city into the network of clans in the south of Judah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "estemoa-ciudad-levitica",
+      "titulo": "Estemoa as a Levitical city",
+      "fecha": "c. 1200 BC",
+      "descripcion": "In the distribution of the conquered territory, Estemoa is designated one of the cities assigned to the Levites of Aaron's line within the territory of Judah and Simeon.",
+      "referencias": [
+        "Josh 21:14",
+        "1 Chr 6:57"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-envia-botin-estemoa",
+      "titulo": "David sends part of the loot to Estemoa",
+      "fecha": "c. 1012 BC",
+      "descripcion": "After defeating the Amalekites and recovering the loot taken from Ziklag, David sends a portion of the spoils to the elders of various cities in Judah who had supported him during his exile, including Estemoa, as a gesture of reciprocity and consolidation of alliances.",
+      "referencias": [
+        "1 Sam 30:26-28"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "estemoa-genealogia-caleb",
+      "titulo": "Estemoa in Caleb's genealogy",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "The genealogical lists of Chronicles record Estemoa among the descendants of the line of Caleb, confirming his belonging to the network of southern Judahite clans.",
+      "referencias": [
+        "1 Chr 4:17",
+        "1 Chr 4:19"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_estemoa",
+      "nombre": "David",
+      "rol": "Future king of Israel, leader of Siclag",
+      "periodo": "hierro_2",
+      "descripcion": "He sends some of the loot recovered from the Amalekites to the elders of Estemoa, in recognition of the support and hospitality of the southern cities of Judah during his period as a band leader in Ziklag.",
+      "referencias": [
+        "1 Sam 30:26-31"
+      ],
+      "ruta": [
+        "ziklag",
+        "eshtemoa"
+      ]
+    },
+    {
+      "id": "ancianos_estemoa",
+      "nombre": "Elders of Estemoa",
+      "rol": "Local leaders receiving David loot",
+      "periodo": "c. 1012 BC",
+      "descripcion": "They represent the community of Estemoa in receiving the gift of David, part of the regional support network that will consolidate their subsequent ascension to the throne in Hebron.",
+      "referencias": [
+        "1 Sam 30:28"
+      ],
+      "ruta": [
+        "eshtemoa"
+      ]
+    },
+    {
+      "id": "caleb_estemoa",
+      "nombre": "Descendants of Caleb",
+      "rol": "Genealogical line linked to Estemoa",
+      "periodo": "Genealógico, período de la monarquía",
+      "descripcion": "They appear in the chronicler lists as ancestors or founders associated with Estemoa, within the extensive genealogical network of the southern Judaite clans.",
+      "referencias": [
+        "1 Chr 4:17-19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Estemoa lacks its own mythical tradition; Its dual function—a Levitical city and recipient of the loot of David—places it at the intersection between the priestly organization of the territory and the political construction of regional alliances that precedes the Davidic monarchy. It represents the type of locality whose biblical importance is structural and administrative rather than narrative.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "reciprocidad-david-ciudades-sur",
+        "nombre": "The reciprocity of David with the southern cities of Judah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 30:26-31",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la generosidad de David como modelo de liderazgo basado en la reciprocidad y la gratitud",
+          "descripcion": "Jewish tradition values ​​David's gesture of sharing the loot with the cities that had supported him as an example of just leadership, recognizing the loyalty of those who supported him during his period of adversity, establishing a precedent of government based on reciprocity even before he was crowned king.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "David's generosity towards his allies is interpreted as a preview of the character of his future reign, based on distributive justice and the recognition of loyalty.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": "cappadocia",
+  "nombre": "Cappadocia",
+  "tipo": "territorio",
+  "lat": 38.64,
+  "lng": 35.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione montuosa dell'Asia Minore centrale, famosa per le sue formazioni rocciose. Pietro ha scritto ai credenti lì.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cap_h1",
+      "titulo": "Cappadoci a Pentecoste",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Tra i pellegrini della Pentecoste ci sono uomini della Cappadocia che ascoltano il Vangelo.",
+      "referencias": [
+        "At 2:9"
+      ],
+      "personajes_clave": [
+        "capadocios"
+      ]
+    },
+    {
+      "id": "cap_h2",
+      "titulo": "Pietro indirizza la sua lettera ai credenti della Cappadocia",
+      "fecha": "ca. 64 d.C.",
+      "descripcion": "Pietro scrive ai pellegrini scelti sparsi in Cappadocia e in altre province.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "cap_h3",
+      "titulo": "I grandi Cappadoci: teologi del XX secolo. IV",
+      "fecha": "ca. 329-394 d.C.",
+      "descripcion": "Basilio Magno, Gregorio di Nissa e Gregorio di Nazianzo, i \"tre grandi Cappadoci\", svilupparono la teologia trinitaria.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Basilio",
+        "Gregorio de Nisa",
+        "Gregorio de Nacianzo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cap_p1",
+      "nombre": "Pietro",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Indirizzò la sua prima lettera alle comunità della Cappadocia.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p2",
+      "nombre": "Basilico di Cesarea",
+      "rol": "Padre della Chiesa",
+      "periodo": "329-379 d.C.",
+      "descripcion": "Grande teologo della Cappadocia che sistematizzò la teologia dello Spirito Santo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p3",
+      "nombre": "Gregorio di Nissa",
+      "rol": "Teologo",
+      "periodo": "335-395 d.C.",
+      "descripcion": "Ha sviluppato la teologia mistica; fratello di Basilio e compagno di Gregorio di Nazianzo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cappadocia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "cap_m1",
+        "nombre": "I Cappadoci e la Trinità",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "I Padri della Cappadocia del IV secolo (Basilio, Gregorio di Nissa, Gregorio di Nazianzo) diedero forma definitiva al dogma trinitario emerso nel Concilio di Nicea.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I Padri della Cappadocia del IV secolo (Basilio, Gregorio di Nissa, Gregorio di Nazianzo) diedero forma definitiva al dogma trinitario emerso nel Concilio di Nicea.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cap_h1",
+        "titulo": "Cappadoci a Pentecoste",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Tra i pellegrini della Pentecoste ci sono uomini della Cappadocia che ascoltano il Vangelo.",
+        "referencias": [
+          "At 2:9"
+        ],
+        "personajes_clave": [
+          "capadocios"
+        ]
+      },
+      {
+        "id": "cap_h2",
+        "titulo": "Pietro indirizza la sua lettera ai credenti della Cappadocia",
+        "fecha": "ca. 64 d.C.",
+        "descripcion": "Pietro scrive ai pellegrini scelti sparsi in Cappadocia e in altre province.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "cap_h3",
+        "titulo": "I grandi Cappadoci: teologi del XX secolo. IV",
+        "fecha": "ca. 329-394 d.C.",
+        "descripcion": "Basilio Magno, Gregorio di Nissa e Gregorio di Nazianzo, i \"tre grandi Cappadoci\", svilupparono la teologia trinitaria.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Basilio",
+          "Gregorio de Nisa",
+          "Gregorio de Nacianzo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cap_p1",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizzò la sua prima lettera alle comunità della Cappadocia.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p2",
+        "nombre": "Basilico di Cesarea",
+        "rol": "Padre della Chiesa",
+        "periodo": "329-379 d.C.",
+        "descripcion": "Grande teologo della Cappadocia che sistematizzò la teologia dello Spirito Santo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p3",
+        "nombre": "Gregorio di Nissa",
+        "rol": "Teologo",
+        "periodo": "335-395 d.C.",
+        "descripcion": "Ha sviluppato la teologia mistica; fratello di Basilio e compagno di Gregorio di Nazianzo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Cappadocia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "cap_m1",
+          "nombre": "I Cappadoci e la Trinità",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "I Padri della Cappadocia del IV secolo (Basilio, Gregorio di Nissa, Gregorio di Nazianzo) diedero forma definitiva al dogma trinitario emerso nel Concilio di Nicea.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I Padri della Cappadocia del IV secolo (Basilio, Gregorio di Nissa, Gregorio di Nazianzo) diedero forma definitiva al dogma trinitario emerso nel Concilio di Nicea.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "ophel",
+  "nombre": "Ofel",
+  "tipo": "ciudad",
+  "lat": 31.7774,
+  "lng": 35.2349,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Colina entre la ciudad de David y el Monte del Templo en Jerusalén; zona residencial de élite y de guardia.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Barrio entre la ciudad de David y el Templo; residencia de los sirvientes del Templo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oph_h1",
+      "titulo": "Jotam construye en el Ofel",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "El rey Jotam de Judá construyó la puerta superior del Templo y realizó muchas obras en el muro del Ofel.",
+      "referencias": [
+        "2 Cr 27:3"
+      ],
+      "personajes_clave": [
+        "Jotam"
+      ]
+    },
+    {
+      "id": "oph_h2",
+      "titulo": "Manasés refuerza el Ofel",
+      "fecha": "ca. 697-642 a.C.",
+      "descripcion": "El rey Manasés, tras su conversión, construyó una muralla exterior desde la Ciudad de David hasta el Ofel.",
+      "referencias": [
+        "2 Cr 33:14"
+      ],
+      "personajes_clave": [
+        "Manasés"
+      ]
+    },
+    {
+      "id": "oph_h3",
+      "titulo": "Los sirvientes del Templo vivían en el Ofel",
+      "fecha": "ca. 445 a.C.",
+      "descripcion": "En la reconstrucción de Nehemías, los sirvientes del Templo (netineos) habitaban en el Ofel.",
+      "referencias": [
+        "Neh 3:26",
+        "Neh 11:21"
+      ],
+      "personajes_clave": [
+        "Nehemías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oph_p1",
+      "nombre": "Jotam",
+      "rol": "Rey de Judá",
+      "periodo": "750-735 a.C.",
+      "descripcion": "Realizó importantes construcciones en el Ofel; fue rey fiel que no entró al Templo indebidamente.",
+      "referencias": [
+        "2 Cr 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p2",
+      "nombre": "Manasés",
+      "rol": "Rey de Judá",
+      "periodo": "697-642 a.C.",
+      "descripcion": "Después de su conversión en el exilio, reforzó el Ofel.",
+      "referencias": [
+        "2 Cr 33:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p3",
+      "nombre": "Nehemías",
+      "rol": "Gobernador",
+      "periodo": "ca. 445-433 a.C.",
+      "descripcion": "Asignó el Ofel a los sirvientes del Templo en la reconstrucción.",
+      "referencias": [
+        "Neh 3:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ofel: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "oph_m1",
+        "nombre": "El Ofel: entre el rey y el Templo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El Ofel es el espacio intermedio entre la residencia real (ciudad de David) y el lugar de culto (Templo); símbolo de la zona gris entre el poder político y la adoración.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Ofel es el espacio intermedio entre la residencia real (ciudad de David) y el lugar de culto (Templo); símbolo de la zona gris entre el poder político y la adoración.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

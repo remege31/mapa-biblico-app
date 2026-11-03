@@ -1,0 +1,147 @@
+{
+  "id": "bashan",
+  "nombre": "Basan",
+  "tipo": "territorio",
+  "lat": 32.8,
+  "lng": 35.94,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 60,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -722,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Altopiano fertile a nord-est del Lago Galilea e ad est del Giordano, famoso per i suoi tori e le querce.",
+  "altitud_m": 600,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "allevamento del bestiame",
+    "agricoltura",
+    "legno di quercia"
+  ],
+  "importancia_estrategica": "Regione agricola e zootecnica contesa tra Israele e i regni aramei.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bas_h1",
+      "titulo": "Vittoria su King Og di Basan",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israele sconfigge il gigante Og, re di Basan, a Edrei; Il suo letto di ferro era lungo nove cubiti.",
+      "referencias": [
+        "Nm 21:33-35",
+        "Dt 3:1-11"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Og"
+      ]
+    },
+    {
+      "id": "bas_h2",
+      "titulo": "I tori di Basan nel Salmo 22",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Il Salmo 22 usa i \"tori di Basan\" come metafora dei nemici che circondano il giusto sofferente.",
+      "referencias": [
+        "Sal 22:12"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bas_h3",
+      "titulo": "La Trasfigurazione su Hermon di Basan",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Il Monte Hermon, ai confini di Basan, è il probabile luogo della Trasfigurazione di Gesù.",
+      "referencias": [
+        "Mt 17:1-8"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bas_p1",
+      "nombre": "Og di Basan",
+      "rol": "re gigante",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Ultimo dei Rephaim; La sua sconfitta permise a Israele di controllare la Transgiordania settentrionale.",
+      "referencias": [
+        "Dt 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p2",
+      "nombre": "Yair di Manasse",
+      "rol": "Conquistatore",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Ha conquistato i villaggi di Basan chiamati \"i villaggi di Yair\".",
+      "referencias": [
+        "Nm 32:41"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p3",
+      "nombre": "Elia da Galaad",
+      "rol": "Profeta",
+      "periodo": "ca. 875 a.C.",
+      "descripcion": "Ha viaggiato attraverso i territori vicini a Basan nelle sue fughe e pellegrinaggi.",
+      "referencias": [
+        "1 Re 19:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terra di giganti, bestiame esuberante e querce sacre; Le sue immagini bibliche spaziano dalla minaccia (tori) all'abbondanza.",
+    "religiones_presentes": [
+      "paganesimo_Cananeo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "bas_m1",
+        "nombre": "I tori di Basan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "I tori di Basan erano i più grandi e feroci del mondo antico; Il Salmo 22 li usa come immagine dei nemici dei giusti.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I tori di Basan erano i più grandi e feroci del mondo antico; Il Salmo 22 li usa come immagine dei nemici dei giusti.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "I Padri della Chiesa hanno interpretato le 'bolle di Basan' del Salmo 22 come una prefigurazione dei persecutori di Cristo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I Padri della Chiesa hanno interpretato le 'bolle di Basan' del Salmo 22 come una prefigurazione dei persecutori di Cristo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

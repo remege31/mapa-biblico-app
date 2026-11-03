@@ -1,0 +1,155 @@
+{
+  "id": "mahanaim",
+  "nombre": "Mahanaim",
+  "tipo": "ciudad",
+  "lat": 32.214708,
+  "lng": 35.632914,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Angelic meeting of Jacob, capital of Is-bosheth, refuge of David"
+    }
+  ],
+  "descripcion_geo": "City in Gilead, east of the Jordan, whose name ('two camps') commemorates Jacob's encounter with the angels of God upon returning to Canaan. It later became the temporary capital of the kingdom of Ishbosheth and, generations later, the refuge of David during Absalom's rebellion.",
+  "altitud_m": 450,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead highlands.",
+  "recursos": [
+    "Defensible position at Gilead",
+    "Temporary capital of the house of Saul",
+    "Strategic refuge for David during Absalom's rebellion"
+  ],
+  "importancia_estrategica": "Mahanaim plays a recurring role as a refuge and center of Transjordanian power in times of political crisis: capital of Ish-bosheth after the death of Saul, and centuries before, place of the angelic encounter that precedes the decisive reunion of Jacob with Esau; finally, shelter of David during Absalom's rebellion, when the king reorganizes his loyal forces for the decisive battle in the forest of Ephraim.",
+  "otros_habitantes": [
+    {
+      "id": "angeles_majanaim",
+      "nombre": "Army of God (angels)",
+      "descripcion": "Divine messengers that Jacob encounters in Mahanaim, giving rise to the name of the place as 'two camps' (his own and that of the angels).",
+      "religion": "Patriarchal Yahwism",
+      "periodo": "c. 1900 BC (narrative)"
+    },
+    {
+      "id": "galaaditas_majanaim",
+      "nombre": "Gilead Population",
+      "descripcion": "Inhabitants of the Transjordan region where Mahanaim is located, loyal both to the house of Saul and, later, to David during their escape from Absalom.",
+      "religion": "Yahwism",
+      "periodo": "c. 1010–975 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-angeles-majanaim",
+      "titulo": "Jacob meets the angels of God in Mahanaim",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "While returning to Canaan after twenty years with Laban, Jacob is greeted by angels of God; Upon seeing them, he declares 'this is the camp of God' and names the place Mahanaim, an episode that immediately precedes his anguished preparation for the reunion with Esau.",
+      "referencias": [
+        "Gen 32:1-2"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "isboset-capital-majanaim",
+      "titulo": "Mahanaim as capital of Ish-bosheth",
+      "fecha": "c. 1010–1008 BC",
+      "descripcion": "Following the death of Saul, Abner establishes Ishbosheth, surviving son of Saul, as king over Israel from Mahanaim, temporary capital of the house of Saul in his dispute with David for control of the united kingdom.",
+      "referencias": [
+        "2 Sam 2:8-9"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-refugio-majanaim",
+      "titulo": "David takes refuge in Mahanaim during Absalom's rebellion",
+      "fecha": "c. 975 BC",
+      "descripcion": "Fleeing his son Absalom's rebellion, David settles in Mahanaim, where he receives crucial material support from Sobi, Machir, and Barzillai, and from where he reorganizes his loyal troops for the decisive battle of the Ephraim Forest that ends with Absalom's death.",
+      "referencias": [
+        "2 Sam 17:24-29",
+        "2 Sam 19:32"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_majanaim",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "bronce_medio",
+      "descripcion": "In Majanaim he receives the comforting encounter with the angels of God just before facing the anguish of the reunion with his brother Esau, a moment that spiritually prepares his subsequent fight in Peniel.",
+      "referencias": [
+        "Gen 32:1-2"
+      ],
+      "ruta": [
+        "haran",
+        "mahanaim",
+        "peniel"
+      ]
+    },
+    {
+      "id": "isboset_majanaim",
+      "nombre": "Ish-bosheth",
+      "rol": "King of Israel from Mahanaim, son of Saul",
+      "periodo": "c. 1010–1008 BC",
+      "descripcion": "He reigns over Israel from the transjordanian capital of Mahanaim during the civil war against David, a brief government dependent on General Abner that ends with his assassination.",
+      "referencias": [
+        "2 Sam 2:8-10",
+        "2 Sam 4:5-7"
+      ],
+      "ruta": [
+        "mahanaim"
+      ]
+    },
+    {
+      "id": "david_majanaim",
+      "nombre": "David",
+      "rol": "King of Israel, refugee during Absalom's rebellion",
+      "periodo": "hierro_2",
+      "descripcion": "He establishes his base of operations in Mahanaim during Absalom's rebellion, receiving decisive material support from local leaders and reorganizing his forces for the final battle against his rebellious son.",
+      "referencias": [
+        "2 Sam 17:24-29"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mahanaim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mahanaim functions repeatedly in the biblical text as a place of refuge and reorganization in moments of personal or political crisis: for Jacob, it is spiritual preparation through angelic encounter before an uncertain reconciliation; for Ish-bosheth, it is the last base of the Saulid dynasty in dispute with David; For David himself, generations later, it is the refuge that allows him to regroup forces and survive his own son's rebellion, establishing a recurring pattern of the place as a point of providential restoration in moments of maximum vulnerability.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "campamento-dios-majanaim",
+        "nombre": "The 'camp of God' that gives its name to Mahanaim",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:1-2",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la identidad de los ángeles encontrados por Jacob y su función protectora antes del reencuentro con Esaú",
+          "descripcion": "Rabbinic tradition discusses the identity and specific function of the angels that Jacob encounters at Mahanaim, interpreting the encounter as providential confirmation of divine protection just before the patriarch's moment of greatest emotional and physical vulnerability, establishing the place as a permanent reminder that human anguish can be preceded by preparatory divine consolation.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The meeting of Mahanaim sets the pattern that God provides comfort and confirmation of his protective presence before the most trying moments in the lives of his chosen ones.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

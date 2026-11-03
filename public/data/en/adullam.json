@@ -1,0 +1,168 @@
+{
+  "id": "adullam",
+  "nombre": "Adulam",
+  "tipo": "ciudad",
+  "lat": 31.65,
+  "lng": 35.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — David Shelter in Adulam Cave"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Rehoboam Fortification"
+    }
+  ],
+  "descripcion_geo": "Canaanite city in the Shephelah of Judah, next to a cave or natural cave complex in the limestone area, which served as a refuge for David during his period of escape from Saul. Its position at the transition between the mountains of Judah and the coastal plain made it strategically relevant.",
+  "altitud_m": 380,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah.",
+  "recursos": [
+    "Natural refuge caves",
+    "Agricultural lands of the Shephelah",
+    "Fortifiable position between Judah and Philistia"
+  ],
+  "importancia_estrategica": "The Adulam Cave is one of the most significant places in David's formative period as a leader: there the original core of his six hundred men meet—familiar, indebted, and disaffected—which will form the basis of his future personal army. Centuries later, Rehoboam fortifies the city as part of Judah's defensive system.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_adulam",
+      "nombre": "Canaanites",
+      "descripcion": "Original population of the city of Adullam, already mentioned in the Judah cycle in Genesis as the place of residence of his friend Hira the Adullamite.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "seguidores_david_adulam",
+      "nombre": "The six hundred men of David",
+      "descripcion": "A heterogeneous group of family members, in debt, afflicted and discontented, who meet with David in the Adulam cave, forming the nucleus of what will later be his personal army.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "juda-hira-adulam",
+      "titulo": "Judah and his friend Hira the Adullamite",
+      "fecha": "c. 1700 BC (cronología tradicional, ciclo patriarcal)",
+      "descripcion": "In the Joseph cycle, Judah associates with Hira, a man of Adulam, an episode that frames the narrative of Judah and Tamar and early connects the name of the city with the genealogy of Judah's tribe.",
+      "referencias": [
+        "Gen 38:1-2",
+        "Gen 38:12"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-cueva-adulam",
+      "titulo": "David takes refuge in the Adulam cave",
+      "fecha": "c. 1015 BC",
+      "descripcion": "After escaping from Gath, David takes refuge in the cave of Adulam, where he is joined by his brothers and his father's entire house; All those who were in trouble, in debt or bitter in spirit also congregate there, forming a group of about four hundred men led by David.",
+      "referencias": [
+        "1 Sam 22:1-2"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "valientes-agua-belen-adulam",
+      "titulo": "The three brave men bring Bethlehem water from the Adulam fortress",
+      "fecha": "c. 1010 BC",
+      "descripcion": "While David is fortified near the Cave of Adulam with the Philistines camped in the Valley of Rephaim, he expresses a desire to drink water from Bethlehem's well; three of his brave men break through the Philistine lines to bring him water, a gesture that David refuses to drink and pours out as an offering to YHWH out of respect for the risk assumed.",
+      "referencias": [
+        "2 Sam 23:13-17"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_adulam",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "In the cave of Adulam he gathers the core of followers who will constitute the basis of his future military and political power, the founding moment of his transition from solitary fugitive to leader of an organized force.",
+      "referencias": [
+        "1 Sam 22:1-2",
+        "2 Sam 23:13-17"
+      ],
+      "ruta": [
+        "gath",
+        "adullam"
+      ]
+    },
+    {
+      "id": "tres_valientes_adulam",
+      "nombre": "Three of the brave by David",
+      "rol": "David Inner Circle Elite Warriors",
+      "periodo": "hierro_2",
+      "descripcion": "They risk their lives crossing Philistine lines to satisfy David's expressed desire to drink water from Bethlehem's well, a gesture of extreme loyalty that David honors by pouring out the water as an offering to YHWH instead of drinking it.",
+      "referencias": [
+        "2 Sam 23:13-17"
+      ],
+      "ruta": [
+        "adullam",
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "hira_adulamita",
+      "nombre": "Hira the adullamite",
+      "rol": "Friend of Judah in the patriarchal cycle",
+      "periodo": "c. 1700 BC (cronología tradicional)",
+      "descripcion": "Companion and friend of Judah, son of Jacob, mentioned in the episode that frames the narrative of Judah and Tamar, early genealogical link between Judah's tribe and the region of Adulam.",
+      "referencias": [
+        "Gen 38:1-20"
+      ],
+      "ruta": [
+        "adullam"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Cave of Adulam is the founding site of David's military and political leadership: the heterogeneous group of marginalized people who congregate there—debtors, the afflicted, the disaffected—will be transformed into the nucleus of a loyal army, anticipating the recurring biblical theology that God chooses and dignifies the displaced and rejected for greater purposes. The subsequent water episode of Bethlehem reinforces the motif of extreme loyalty reciprocated with a gesture of devotion that transcends immediate personal desire.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "cueva-adulam-formacion-liderazgo",
+        "nombre": "The Adulam Cave as the founding site of David leadership",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 22:1-2",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre Adulam como modelo de liderazgo que reúne y dignifica a los marginados",
+          "descripcion": "Jewish tradition values ​​the episode of Adulam as an example of how David, before becoming king, demonstrated leadership capacity precisely by gathering and organizing those who society had displaced—indebted, afflicted, bitter—transforming them into a disciplined and loyal force.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode illustrates the biblical principle that God elevates and gives purpose to the marginalized, anticipating the character of David's future reign.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 22:1-2 (recepción patrística sobre Adulam como figura de la congregación de los necesitados)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que comparan la congregación de Adulam con la comunidad reunida en torno a Cristo",
+          "descripcion": "Some Church Fathers read the Adulam episode in typological parallel with the formation of the community of Jesus followers, noting that both leaders—David and, figuratively, Christ—initially bring together marginalized or distressed people as the nucleus of a larger movement.",
+          "similitudes": "It shares with Jewish reading the appreciation of leadership that dignifies the marginalized.",
+          "diferencias": "The Christian reading adds an explicit typological dimension linking David to Christ, absent in the original Jewish reading of the passage.",
+          "significado_teologico": "The episode is integrated as a prefiguration of the divine call to the humble and needy as the basis of a community of greater purpose.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as a central figure in the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

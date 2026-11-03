@@ -1,0 +1,141 @@
+{
+  "id": "ain",
+  "nombre": "Ain",
+  "tipo": "ciudad",
+  "lat": 31.370835,
+  "lng": 34.860665,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città levitica nel Negev di Giuda"
+    }
+  ],
+  "descripcion_geo": "Piccola città nel Negev di Giuda, assegnata ai leviti all'interno del territorio tribale condiviso tra Giuda e Simeone. Il suo nome (\"sorgente\" o \"occhio\") suggerisce la presenza di una fonte d'acqua che giustificava l'insediamento in una regione di transizione semiarida.",
+  "altitud_m": 380,
+  "clima": "Semi-arido: estati molto secche e calde, inverni miti con poche piogge, tipici del Negev settentrionale.",
+  "recursos": [
+    "Sorgente o sorgente d'acqua (origine del nome)",
+    "Negev Terreni da pascolo",
+    "Posizione levitica all'interno della distribuzione tribale"
+  ],
+  "importancia_estrategica": "Aín non ha rilevanza militare o narrativa importante; La sua importanza è esclusivamente amministrativo-religiosa, essendo una delle città del territorio condiviso tra Giuda e Simeone destinate alla residenza delle famiglie levitiche, parte del sistema delle quarantotto città levitiche distribuite in tutto Israele.",
+  "otros_habitantes": [
+    {
+      "id": "levitas_ain",
+      "nombre": "Leviti (linea di Aronne)",
+      "descripcion": "Famiglie sacerdotali si stabilirono ad Ain come parte della distribuzione delle città levitiche tra i territori di Giuda e Simeone.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    },
+    {
+      "id": "simeonitas_ain",
+      "nombre": "Tribù di Simeone",
+      "descripcion": "Ain è situata nel territorio originariamente condiviso o vicino alle città assegnate alla tribù di Simeone all'interno del Negev di Giuda.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ain-ciudad-levitica-josue",
+      "titulo": "Ain nell'elenco delle città levitiche",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Nella distribuzione territoriale di Giosuè, Ain è inclusa tra le città di Negev di Giuda designate come residenza delle famiglie levitiche discendenti da Aronne.",
+      "referencias": [
+        "Gs 21:16"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ain-ciudad-simeon-juda",
+      "titulo": "Aín nell'elenco delle città di Giuda e Simeone",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Il libro di Giosuè registra Ain tra le città all'estremità meridionale del territorio di Giuda, nell'area che viene poi parzialmente riassegnata alla tribù di Simeone perché il territorio originario di Giuda era sovradimensionato.",
+      "referencias": [
+        "Gs 15:32",
+        "Gs 19:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ain-registro-cronista",
+      "titulo": "Ancora nel registro genealogico del cronista",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "La città ricompare negli elenchi paralleli di 1 Cronache che documentano le città della tribù di Simeone, confermandone la persistenza amministrativa per più secoli.",
+      "referencias": [
+        "1 Cr 4:32"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "levitas_aaron_ain",
+      "nombre": "Famiglie levitiche della linea di Aronne",
+      "rol": "Residenti sacerdotali di Ain",
+      "periodo": "Desde c. 1200 a.C.",
+      "descripcion": "Designato per abitare Ain all'interno del sistema delle città levitiche, senza episodi narrativi individuali associati al luogo.",
+      "referencias": [
+        "Gs 21:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_ain",
+      "nombre": "Giosuè",
+      "rol": "Leader della conquista, organizzatore della distribuzione territoriale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dirige l'assegnazione di Ain come città levitica all'interno della distribuzione generale del territorio conquistato tra le dodici tribù di Israele.",
+      "referencias": [
+        "Gs 21:1-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "simeonitas_ain_personaje",
+      "nombre": "Clan di Simeone",
+      "rol": "Vicina popolazione tribale di Aín",
+      "periodo": "c. 1200–1000 a.C.",
+      "descripcion": "Abitanti della tribù di Simeone nel cui territorio, condiviso con Giuda, si trova Ain secondo gli elenchi delle città Negev.",
+      "referencias": [
+        "Gs 19:1-9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Aín manca di una propria narrativa o di uno sviluppo mitico; Il suo valore per il corpus biblico è puramente amministrativo, come parte del sistema delle quarantotto città levitiche che garantivano una presenza sacerdotale distribuita su tutto il territorio di Israele, assicurando che nessuna regione rimanesse senza accesso all'istruzione religiosa e alla mediazione cultuale levitica.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "ciudades-leviticas-sistema",
+        "nombre": "Il sistema delle città levitiche come rete di presenze sacerdotali",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 21:1-42; Núm 35:1-8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función pedagógica y judicial de los levitas distribuidos en las ciudades del territorio israelita",
+          "descripcion": "La tradizione ebraica interpreta il sistema delle quarantotto città levitiche, inclusa Ain, come un meccanismo deliberato per garantire che l'insegnamento della Torah e la mediazione religiosa fossero accessibili a tutta la popolazione di Israele, senza concentrare la presenza sacerdotale esclusivamente attorno al santuario centrale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La distribuzione territoriale dei leviti riflette il principio secondo cui la santità e l'istruzione religiosa devono permeare l'intera vita del popolo e non limitarsi a un unico centro.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

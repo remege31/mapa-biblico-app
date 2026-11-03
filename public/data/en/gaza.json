@@ -1,0 +1,196 @@
+{
+  "id": "gaza",
+  "nombre": "Gaza",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.5248,
+  "lng": 34.4334,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Egyptian garrison town in Canaan"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Capital of the Philistine Pentapolis"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron II — Philistine city under Israeli and Assyrian pressure"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — City under Babylonian and Persian rule"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Gaza (Hebrew: עַזָּה; Egyptian: Ghazzat) was the southernmost and politically most important city of the Philistine Pentapolis, located on the coastal plain about 4 km from the Mediterranean and at the northern end of the Sinai. It controlled the mandatory passage of the Via Maris between Egypt and Canaan. Its strategic position made it the seat of the Egyptian administration in Canaan during the New Kingdom and the effective capital of the Philistine Pentapolis. With uninterrupted occupation from the Chalcolithic until today, Gaza is one of the oldest inhabited cities in the world. The archaeological tell is under the modern city, limiting excavations.",
+  "altitud_m": 10,
+  "clima": "Transitional arid coastal Mediterranean — rainfall of 300-400 mm annually (the lowest on the Canaanite coast), hot, dry summers with coastal humidity, mild winters. Transition zone between the Mediterranean climate and the desert climate of Sinai.",
+  "recursos": [
+    "Absolute control of the Via Maris — route between Egypt and Levante",
+    "Sea port and Mediterranean trade",
+    "Coastal plain agriculture (wheat, barley, grapevine)",
+    "Transit trade between Arabia, Egypt and the Mediterranean",
+    "Textile and craft industry"
+  ],
+  "importancia_estrategica": "Gaza was the obligatory link between Africa and Asia in ancient times. Whoever controlled Gaza controlled the flow of goods, armies, and communications between Egypt and the rest of the Levant. The pharaohs of the New Kingdom used it as the headquarters of their administration in Canaan. The Assyrians turned it into a border control point with Egypt. This position of geopolitical hinge explains why it has been the object of conquest by all the great powers of the ancient Near East.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-gaza",
+      "nombre": "Philistines by Gaza",
+      "descripcion": "Gaza was the most powerful city in the Pentapolis. The temple of Dagon in Gaza (Judg 16:23-30) was the main sanctuary of the Philistine confederacy — Samson destroyed it, killing more people in death than in life. The Philistines of Gaza maintained the city as the political and religious capital of their confederation throughout the Iron I-II period, successively resisting the Israelites, Assyrians and Egyptians.",
+      "religion": "Philistine polytheism — Dagon as main god; syncretism with cults Canaanites (Astarte, Baal)",
+      "periodo": "c. 1200–600 BC"
+    },
+    {
+      "id": "egipcios-gaza",
+      "nombre": "Egyptian garrison of the New Kingdom",
+      "descripcion": "During the Late Bronze Age (c. 1550-1200 BC), Gaza was the main seat of the Egyptian administration in Canaan. The Amarna letters (14th century BC) mention Gaza as a regional power center. Pharaohs Thutmose III and Ramses II used Gaza as a base of operations for their campaigns in Canaan and Syria. The fall of the New Kingdom and the arrival of the Sea Peoples (including the Philistines) transformed the Egyptian city into a Philistine city around 1175 BC.",
+      "religion": "Egyptian polytheism — worship of Ammon, Ra, Ptah; syncretism with local Canaanite divinities",
+      "periodo": "Late Bronze, c. 1550-1175 BC"
+    },
+    {
+      "id": "israelitas-frontera-sur",
+      "nombre": "Israelites of the southern border",
+      "descripcion": "Gaza appears in the biblical texts as the ideal southern limit of the Israelite territory ('from Dan to Gaza' or 'from the entrance of Hamath to the river of Egypt'). The tribe of Judah took Gaza temporarily (Judg 1:18) but could not hold it. The Israelite presence in the area was always peripheral and conflictive, narratively represented by the figure of Samson, who operated in the border area between Dan and the Philistine plain.",
+      "religion": "Yahwism tribal — no permanent presence in Gaza proper",
+      "periodo": "Iron I-II, intermittent contact"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-gaza",
+      "titulo": "Samson in Gaza: the night he tore off the doors",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Samson went to Gaza and saw a prostitute there; entered her. It was said to the Gazattites: 'Samson has come here.' They surrounded him and lay in wait for him all night at the city gate, saying, 'At dawn we will kill him.' Samson lay there until midnight; At midnight he got up, grabbed the gates of the city with the two posts and tore them down, bolt and all, he carried them on his shoulders and carried them up to the top of the mountain that is in front of Hebron. The episode is Samson's first encounter with Gaza — a display of supernatural physical strength in the heart of the enemy city. He did not go there as a warrior but as a man who followed his instincts, but his divine strength transformed the trap into a display of power. The scene foreshadows his death in the same temple as Gaza: Samson always acts on Gaza with disproportionate consequences.",
+      "referencias": [
+        "Judg 16:1-3"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "sanson-muerte-dagon",
+      "titulo": "The death of Samson: the collapsed temple of Dagon",
+      "fecha": "c. 1080 BC",
+      "descripcion": "Captured after Delilah's betrayal, his eyes gouged out and chained, Samson was imprisoned in Gaza. The lords Philistines called a great festival in honor of Dagon: 'Our god has given us Samson our enemy.' Three thousand men and women filled the temple. Samson asked the servant to take him to the two central pillars that supported the structure. He placed a hand on each pillar and invoked Yahweh: 'Lord Yahweh, remember me, I pray; Give me strength just this once, so that in one fell swoop I can take revenge on the Philistines for both of my eyes.' He pushed with all his strength and the building collapsed on the Philistines gentlemen and on all the people in it. The dead he killed in death exceeded those he had killed in life. His brothers and all his father's family came down and picked him up and buried him in the tomb of his father Manoah, between Sorah and Eshtaol.",
+      "referencias": [
+        "Judg 16:21-31",
+        "Judg 16:23-30"
+      ],
+      "personajes_clave": [
+        "sanson",
+        "senores-filisteos-gaza"
+      ]
+    },
+    {
+      "id": "amos-gaza",
+      "titulo": "Amos condemns Gaza: the oracle against slave traders",
+      "fecha": "c. 760 BC",
+      "descripcion": "The prophet Amos opened his book with a series of oracles against the neighboring nations of Israel. The oracle against Gaza is the second: 'For three crimes of Gaza and for four I will not revoke my decree: because they deported an entire population to hand it over to Edom.' The crime reported is the slave trade — Gaza as an intermediary in the deportation of entire populations for sale in the markets of Edom (and from there probably to Arabia and Mesopotamia). This oracle documents Gaza as a center of the slave trade in the 8th century BC. and states that Yahweh will judge the pagan nations not only for their idolatry but for their crimes against human dignity.",
+      "referencias": [
+        "Amos 1:6-8",
+        "Zeph 2:4",
+        "Jer 25:20"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Samson",
+      "rol": "Dan Nazirite Judge, personal warrior against the Philistines",
+      "periodo": "hierro_1",
+      "descripcion": "Samson ben Manoah, of the tribe of Dan, is the most paradoxical judge of the OT: consecrated to God from the womb as a Nazirite (vow not to cut his hair, not to drink wine, not to touch corpses), his life was marked by the systematic breaking of the three conditions of his consecration. His strength was not physical in the conventional sense but a gift from the Spirit of Yahweh that came to him at specific times. His exploits in Gaza—tearing down the city gates and tearing down the temple of Dagon—are the extreme points of his narrative: the former proving that no enemy place can hold him, the latter that his chosen death is worth more than his entire life of spontaneous violence.",
+      "referencias": [
+        "Judg 13:2-5",
+        "Judg 14:1-20",
+        "Judg 16:1-31"
+      ],
+      "ruta": [
+        "dan",
+        "gaza"
+      ]
+    },
+    {
+      "id": "amos",
+      "nombre": "Amos",
+      "rol": "Prophet shepherd of Tekoa, first prophet writer of the OT",
+      "periodo": "hierro_2",
+      "descripcion": "Amos of Tekoa was a shepherd and sycamore grower in the desert of Judah. With no official prophetic training ('I am neither a prophet nor the son of a prophet'), he received the divine call and was sent to the northern royal sanctuary at Bethel to pronounce judgment on Israel at the time of his greatest prosperity. His book opens with oracles against neighboring nations (including Gaza) before directing the main message to Israel—a rhetorical strategy that captured the approval of the Israelite listener before turning it against him. His vision of social justice is the most systematic of pre-exilic prophecy.",
+      "referencias": [
+        "Amos 1:1",
+        "Amos 7:14-15",
+        "Amos 5:21-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "dalila",
+      "nombre": "Delilah",
+      "rol": "Woman of the Sorec Valley, instrument of Samson's capture",
+      "periodo": "c. 1080 BC",
+      "descripcion": "Delilah (name of uncertain origin, possibly Canaanite: 'delicate' or 'night') is the most famous female character in the Samson narrative. She is not explicitly called a Philistine, and her name is neither Hebrew nor clearly Philistine. The gentlemen Philistines offered him eleven hundred shekels of silver each—an enormous price—to discover the secret of Samson's strength. Three times Samson deceived her with false answers; On the fourth, tired of their insistence ('his soul was distressed to death'), he revealed the truth about the Nazirite hair. Delilah had her seven braids shaved while she slept on her knees. Her figure has generated contrasting interpretations: a calculating traitor, a victim of external pressures, or simply a woman who chose money over love.",
+      "referencias": [
+        "Judg 16:4-20",
+        "Judg 16:15-17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gaza is the scene of the most dramatic clash between Yahweh and Dagon in the OT: the collapse of the temple by Samson. But it is also the city where the prophet Amos places one of the sins that God cannot forgive: human trafficking. Gaza thus condenses two dimensions of biblical ethical monotheism: the sovereignty of Yahweh over other gods (Dagon collapsed) and the demand for justice over nations that treat people as merchandise.",
+    "religiones_presentes": [
+      "Philistine polytheism — Dagon as main god, with central sanctuary in Gaza",
+      "Egyptian polytheism — legacy of the New Kingdom administration",
+      "Yahwism Israelite — narrative but not institutional presence in the city"
+    ],
+    "mitos": [
+      {
+        "id": "sanson-nazireo",
+        "nombre": "Samson's nazirate: divine strength and human weakness",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 13:1-7; Núm 6:1-21",
+          "fuente_secundaria": "Talmud Bavli, Sotá 9b-10a; Midrash Tanjuma, Naso 24",
+          "descripcion": "Rabbinic tradition intensely debated the status of Samson. The Talmud (Sota 9b) notes that Samson 'judged Israel just as his Father in heaven did': as God judges with mercy, Samson acted alone, without an army. But he also identifies in each of their falls (Timna, Gaza, Dalila) a violation of the Nazirite vow. The Midrash Tanchuma reads Samson's final prayer as the most authentic of his life: the man who never genuinely asked for divine help, asked for it when he had nothing else — and was heard. Samson's death as an act of personal revenge vs. sacrifice by Israel is an open rabbinic debate.",
+          "similitudes": "The theme of the consecrated person to God who fails and is restored at the last moment appears in all three traditions.",
+          "diferencias": "Judaism is ambivalent about Samson: an imperfect hero, not a model of piety.",
+          "significado_teologico": "Samson's strength is not his but Yahweh's; When he acts on his own impulse he is vulnerable; When he calls upon God—even for personal revenge—he receives the supernatural gift.",
+          "posible_relacion_cultural": "The figure of the hero of supernatural strength linked to hair has parallels in Gilgamesh and in the myth of Achilles (vulnerable heel). Physical consecration as a source of power is a universal motif in heroic mythology."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 11:32-34; Jue 16:28-30",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios I,21; Ambrosio, De Spiritu Sancto I,1",
+          "descripcion": "Hebrews 11:32 includes Samson in the list of heroes of faith along with Gideon, Barak, Jephthah and David. Augustine in The City of God (I,21) addressed Samson's death in the context of the question about suicide: was it lawful? He responded that he acted moved by the Holy Spirit and that his case is exceptional, not the norm. Ambrose saw in Samson a type of Christ: as Christ died to destroy the enemy, Samson died to destroy the Philistines. Samson's prayer before tearing down the temple was interpreted as a prefiguration of Jesus's prayer in Gethsemane.",
+          "similitudes": "Death that defeats the enemy more than life is the typological core of the Christian reading.",
+          "diferencias": "The NT validates Samson's faith, not his morals; The Christological typology transforms personal revenge into redemptive sacrifice.",
+          "significado_teologico": "God can work through imperfect instruments. Faith that acts at the limit—when there is no other option—is also real faith.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

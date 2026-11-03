@@ -1,0 +1,77 @@
+{
+  "id": "gethsemane",
+  "nombre": "Gethsemane",
+  "tipo": "ciudad",
+  "lat": 31.7794,
+  "lng": 35.2397,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Olive orchard at the western foot of the Mount of Olives, next to the Kidron torrent, in front of Jerusalem.",
+  "altitud_m": 730,
+  "clima": "arid-mediterranean",
+  "recursos": [
+    "olive trees",
+    "oil press"
+  ],
+  "importancia_estrategica": "Jesus's usual pickup location; scene of agony and arrest.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "get_h1",
+        "titulo": "The agony in the garden",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus prays in anguish while his disciples sleep: \"not my will, but yours be done.\"",
+        "referencias": [
+          "Matt 26:36-46",
+          "Mark 14:32-42",
+          "Luke 22:39-46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      },
+      {
+        "id": "get_h2",
+        "titulo": "The arrest of Jesus",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Judas delivers Jesus with a kiss; Peter cuts off Malchus' ear and Jesus is taken prisoner.",
+        "referencias": [
+          "Matt 26:47-56",
+          "John 18:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Judas Iscariote",
+          "Pedro",
+          "Malco"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

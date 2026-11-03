@@ -1,0 +1,146 @@
+{
+  "id": "laodicea",
+  "nombre": "Lycus Laodicea",
+  "tipo": "ciudad",
+  "lat": 37.8326,
+  "lng": 29.1106,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Rich commercial city in the Lycus valley, Phrygia; famous for its banking, black wool and eye drops.",
+  "altitud_m": 300,
+  "clima": "continental-mediterranean",
+  "recursos": [
+    "wool",
+    "manufacture",
+    "banking",
+    "medicine"
+  ],
+  "importancia_estrategica": "Financial center of inland Asia Minor.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lao_h1",
+        "titulo": "Letter to the angel of Laodicea",
+        "fecha": "ca. 95 AD",
+        "descripcion": "The glorious Christ rebukes the Laodicean church for being lukewarm.",
+        "referencias": [
+          "Rev 3:14-22"
+        ],
+        "personajes_clave": [
+          "Juan el Apóstol"
+        ]
+      },
+      {
+        "id": "lao_h2",
+        "titulo": "The Circular Letter of Colossae",
+        "fecha": "ca. 60-62 AD",
+        "descripcion": "Paul asks that his letter be exchanged with the letter destined for Laodicea.",
+        "referencias": [
+          "Col 4:16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lao_h3",
+        "titulo": "Epaphras intercedes for Laodicea",
+        "fecha": "ca. 60-62 AD",
+        "descripcion": "Epaphras labors in prayer for the church of Laodicea and neighboring cities.",
+        "referencias": [
+          "Col 4:13"
+        ],
+        "personajes_clave": [
+          "Epafras"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lao_p1",
+        "nombre": "John the Apostle",
+        "rol": "Prophet of the Apocalypse",
+        "periodo": "s. I AD",
+        "descripcion": "He addresses the letter of Christ to the lukewarm church of Laodicea.",
+        "referencias": [
+          "Rev 3:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lao_p2",
+        "nombre": "Epaphras",
+        "rol": "Regional evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "He founded the church of Laodicea along with those of Colossae and Hierapolis.",
+        "referencias": [
+          "Col 4:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lao_p3",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He wrote a letter intended for Laodicea, now lost.",
+        "referencias": [
+          "Col 4:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The richest city in the Lico Valley; Their material self-sufficiency became a metaphor for spiritual lukewarmness.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "lao_m1",
+          "nombre": "Neither cold nor hot",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Christ rebukes the church of Laodicea for its spiritual lukewarmness, in contrast to the cold waters of Colossae and the hot springs of Hierapolis.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Christ rebukes the church of Laodicea for its spiritual lukewarmness, in contrast to the cold waters of Colossae and the hot springs of Hierapolis.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "bozrah",
+  "nombre": "Bosra",
+  "tipo": "ciudad",
+  "lat": 30.734691,
+  "lng": 35.60625,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Capital of Edom, Oracles of Judgment"
+    }
+  ],
+  "descripcion_geo": "Capital city of the kingdom of Edom, located south of the Salt Sea, in the mountainous region that the descendants of Esau occupied according to biblical genealogical tradition. Its fortified position on high ground made it the administrative and symbolic center of Edomite power.",
+  "altitud_m": 1000,
+  "clima": "Semi-arid mountain — hot, dry summers, cold winters, typical of the Edom highlands.",
+  "recursos": [
+    "Fortified position as administrative capital of Edom",
+    "Edomite Highlands"
+  ],
+  "importancia_estrategica": "Bozra is the symbolic capital of Edom in the prophetic oracles of judgment, repeatedly mentioned as a main target of divine punishment due to the historical hostility of Edom towards Israel, particularly for its conduct during the fall of Jerusalem before Babylon, a reason that notably intensifies the tone of the oracles against this city compared to other regional capitals.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_bosra",
+      "nombre": "Edomites (descendants of Esau)",
+      "descripcion": "Population of Bosra, capital of the kingdom of Edom, genealogically identified as a descendant of Esau, brother of Jacob, according to biblical tradition.",
+      "religion": "Edomite polytheism – cult of Qos",
+      "periodo": "Since c. 1200 BC"
+    },
+    {
+      "id": "rezagados_juicio_bosra",
+      "nombre": "Population subjected to prophetic judgment",
+      "descripcion": "Inhabitants of Bozra described in the oracles of Isaiah and Jeremiah as recipients of divine punishment announced against Edom for their hostility towards Israel.",
+      "religion": "Edomite polytheism",
+      "periodo": "c. 740–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-bosra",
+      "titulo": "Isaiah prophesies the day of YHWH's vengeance on Bozrah",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah includes an extensive oracle describing YHWH arriving from Edom and Bozrah in red-dyed garments, in an image of violent judgment described as 'day of vengeance' and 'year of my redeemed', explicitly using the winepress as a metaphor for divine punishment on hostile nations.",
+      "referencias": [
+        "Isa 34:6",
+        "Isa 63:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-oraculo-bosra",
+      "titulo": "Jeremiah prophesies the destruction of Bozrah",
+      "fecha": "c. 600 BC",
+      "descripcion": "Jeremiah includes Bozrah in his extensive oracle against Edom, announcing that it will become a cause of fear and that no one will dwell there again, comparing the extent of the destruction to that of Sodom and Gomorrah.",
+      "referencias": [
+        "Jer 49:13",
+        "Jer 49:22"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "amos-oraculo-bosra",
+      "titulo": "Amos prophesies fire on Bozrah",
+      "fecha": "c. 760–750 BC",
+      "descripcion": "The prophet Amos, in his series of oracles against the neighboring nations of Israel, announces that he will send fire against Teman that will consume the palaces of Bozrah, accusing Edom of having pursued his brother with the sword without showing mercy.",
+      "referencias": [
+        "Amos 1:11-12"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_bosra",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "It composes one of the most violent and vivid images of the entire prophetic corpus when it describes YHWH arriving from Bozrah with blood-stained garments after treading the winepress of divine wrath on the nations.",
+      "referencias": [
+        "Isa 34:1-17",
+        "Isa 63:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_bosra",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He includes Bozrah in his extensive oracle of judgment against Edom, intensified by the Edomite hostility documented during the final fall of Jerusalem.",
+      "referencias": [
+        "Jer 49:7-22"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "amos_bosra",
+      "nombre": "Amos",
+      "rol": "Judah prophet sent to neighboring nations",
+      "periodo": "hierro_2",
+      "descripcion": "He denounces Edom for his relentless persecution of Israel ('his brother') without mercy, announcing divine fire on the fortified palaces of Bozrah.",
+      "referencias": [
+        "Amos 1:11-12"
+      ],
+      "ruta": [
+        "tekoa"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bozra receives particularly harsh treatment in the prophetic corpus compared to other regional capitals, motivated by Edom's condition as a brother town of Israel—a descendant of Esau—whose hostility is interpreted as aggravated family betrayal, not simple enmity between foreign nations. The image of the 'winepress' of Isaiah, where YHWH himself appears stained with the blood of the judgment executed against Edom, becomes one of the most intense metaphors of divine judgment in all of biblical prophetic literature.",
+    "religiones_presentes": [
+      "Edomite polytheism – cult of Qos"
+    ],
+    "mitos": [
+      {
+        "id": "lagar-ira-divina-bosra",
+        "nombre": "The winepress of divine wrath upon Bozrah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 34:1-17; Is 63:1-6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la severidad especial del juicio contra Edom debido al parentesco fraterno con Israel a través de Esaú",
+          "descripcion": "Jewish tradition explains the particular intensity of the prophetic language against Bozrah and Edom by appealing to the aggravating factor of kinship: unlike other nations, Edom descends directly from Esau, Jacob's brother, which turns its historical hostility toward Israel—especially during the fall of Jerusalem—into a family betrayal that deserves a proportionately harsher judgment than that directed against nations without that blood link.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The exceptional severity of the judgment against Bosra illustrates the principle that treason between related peoples constitutes a moral fault aggravated by ordinary hostility between foreign nations.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Isa 63:1-6 (recepción tipológica en Ap 19:13-15, la imagen del lagar de la ira de Dios)",
+          "fuente_secundaria": "Comentarios patrísticos y apocalípticos que retoman la imagen del lagar de Isaías para describir el juicio escatológico final",
+          "descripcion": "The Christian tradition, particularly in the Apocalypse, directly takes up the Isaian image of the winepress and the blood-stained garments, applying it in a Christological and eschatological key to the final judgment exercised by Christ on the rebellious nations, generalizing an image originally directed specifically against Edom and Bozrah towards a universal horizon of final judgment.",
+          "similitudes": "It shares the central image of the winepress as a metaphor for violent and inescapable divine judgment.",
+          "diferencias": "The Christian reading universalizes and eschatologizes the image, originally directed specifically against Edom, applying it to the universal final judgment exercised by Christ.",
+          "significado_teologico": "The image of the winepress of Bosra becomes an Old Testament figure of the eschatological final judgment fully developed in Christian apocalyptic literature.",
+          "posible_relacion_cultural": "Christian reception of Old Testament prophetic imagery reinterpreted in a Christian eschatological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "id": "damascus",
+  "nombre": "Damascus",
+  "tipo": "ciudad",
+  "lat": 33.5138,
+  "lng": 36.2765,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 59,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Aramaic Kingdom of Damascus"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Babylonian and Persian rule"
+    }
+  ],
+  "descripcion_geo": "Damascus sits in the Ghouta oasis, at the foot of Mount Qasiyun, on the southwestern edge of the Inner Syrian Plain. Irrigated by the Abana (Barada) and Farfar rivers, the city has been continuously inhabited for at least 11,000 years, being possibly the oldest city in the world in continuous operation. Its position between the Syrian desert and the Mediterranean made it an irreplaceable commercial node.",
+  "altitud_m": 690,
+  "clima": "Continental Mediterranean — hot, dry summers, cold winters with rainfall (250 mm annually). The Ghouta oasis, fed by the Barada River, creates a more humid and fertile microclimate than the surrounding desert.",
+  "recursos": [
+    "Water (Abana and Pharfar rivers, mentioned in 2 Kgs 5:12)",
+    "Agricultural oasis (fruit trees, vineyards, cereals)",
+    "Trade route (node ​​between Mesopotamia, Egypt and the Mediterranean)",
+    "Iron (trade with Philistine cities)",
+    "Fabrics and perfumes (renowned crafts)"
+  ],
+  "importancia_estrategica": "Capital of the most powerful Aramaic kingdom of Iron II, permanent rival of Israel and Judah. Damascus controlled the trade routes between Mesopotamia and the Mediterranean, and Aramaic military strength was sufficient to challenge Assyria for decades. The alliance or conflict with Damascus determined Israel's foreign policy for two centuries.",
+  "otros_habitantes": [
+    {
+      "id": "arameos-damasco",
+      "nombre": "Aramaic by Damascus",
+      "descripcion": "The Aramaic kingdom of Damascus (Aram-Damascus) was the most powerful state in Syria during Iron II. Their kings—Rezón, Ben-Hadad I, II and III, Hazael—maintained a relationship of permanent rivalry and occasional alliance with Israel. The Aramaic language, which was the language of this court, paradoxically became the lingua franca of the Middle East and eventually the everyday language of Jesus.",
+      "religion": "Aramaic polytheism — cult of Hadad (storm god, equivalent to Baal), Rimmon, and the Syrian pantheon",
+      "periodo": "c. 1000–732 BC"
+    },
+    {
+      "id": "asirios-damasco",
+      "nombre": "Assyrian dominion",
+      "descripcion": "Tiglath-Pileser III conquered Damascus in 732 BC, turning the Aramaic kingdom into an Assyrian province. The alliance between Peka of Israel and Rezín of Damascus against Judah and Assyria (Syrian-Ephraimite crisis, Is 7) was the trigger for this conquest. The prophet Isaiah announced the desolation of Damascus (Is 17:1-3), which was fulfilled in 732 BC.",
+      "religion": "Assyrian polytheism — worship of Ashur, Ishtar and the imperial pantheon",
+      "periodo": "732–612 BC"
+    },
+    {
+      "id": "naaman-damasco",
+      "nombre": "Syrians in contact with Israel",
+      "descripcion": "The story of Naaman (2 Kgs 5) reflects the presence of Israelites at the court of Damascus—a young captive who informs Naaman about the prophet Elisha—and the openness of Yahwism toward foreigners. Naaman, cured of his leprosy in the Jordan, declares: There is no God in all the earth but in Israel, and asks for land from Israel to build an altar in Damascus.",
+      "religion": "Aramaic polytheism with openness to Yahwism (Naaman case)",
+      "periodo": "c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-damasco",
+      "titulo": "David and dominance over Damascus",
+      "fecha": "c. 990 BC",
+      "descripcion": "After defeating Hadad-Ezer of Sobá, David also defeated the Arameans of Damascus who had come to his aid, installing garrisons in the territory. Damascus came under Davidic taxation. However, Rezon ben Eliada, a fugitive from Hadad-Ezer, gathered a band and seized Damascus during Solomon's reign, starting the independent Aramaic kingdom that rivaled Israel for centuries.",
+      "referencias": [
+        "2 Sam 8:5-6",
+        "1 Kgs 11:23-25"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "naaman-sanacion",
+      "titulo": "Naaman the Syrian: the healing that crossed borders",
+      "fecha": "c. 850 BC",
+      "descripcion": "Naaman, general of the Aramean army and a man of great worth to the king of Damascus, had leprosy. A young captive Israelite girl told him about the prophet Elisha. Naaman traveled to Israel with a letter from the king of Aram and great riches. Elisha ordered him to bathe seven times in the Jordan. Naaman, indignant at first—aren't the rivers of Damascus better than all the rivers of Israel?—obeyed and was healed. His conversion to Yahwism is the first documented case of a foreigner embracing the faith of Israel without converting.",
+      "referencias": [
+        "2 Kgs 5:1-27"
+      ],
+      "personajes_clave": [
+        "eliseo",
+        "naaman"
+      ]
+    },
+    {
+      "id": "crisis-siroefaimita",
+      "titulo": "The Syrian-Ephraimitic crisis: Isaiah and the sign of Immanuel",
+      "fecha": "734 BC",
+      "descripcion": "Damascus's Rezín and Israel's Peka formed an alliance to force Judah to join their anti-Assyrian coalition. They threatened to dethrone King Ahaz and put a puppet in his place. Ahaz, terrified, asked for help from Tiglath-Pileser III of Assyria. Isaiah confronted Ahaz with the famous oracle: The young woman will conceive and give birth to a son, and will name him Immanuel. Before that child knows how to reject the bad and choose the good, the land of the two kings that you fear will be abandoned. The Syrian-Ephraimite alliance was destroyed: Assyria conquered Damascus in 732 BC.",
+      "referencias": [
+        "Isa 7:1-17",
+        "2 Kgs 16:5-9",
+        "Isa 17:1-3"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "naaman",
+      "nombre": "Naaman",
+      "rol": "Aramaic general cured of leprosy by Elisha",
+      "periodo": "hierro_2",
+      "descripcion": "Commander of the army of Damascus, a man of great military prestige, Naaman represents the noble foreigner who recognizes the power of YHWH. His initial resistance to bathing in the Jordan—compared unfavorably to the rivers of Damascus—and his final conversion form one of the most universalistic accounts of the OT. Jesus cites it as an example that divine grace recognizes no ethnic boundaries (Luke 4:27).",
+      "referencias": [
+        "2 Kgs 5:1-27",
+        "Luke 4:27"
+      ],
+      "ruta": [
+        "damascus",
+        "jericho"
+      ]
+    },
+    {
+      "id": "eliseo-damasco",
+      "nombre": "Elisha",
+      "rol": "Prophet who anoints kings and heals foreigners",
+      "periodo": "hierro_2",
+      "descripcion": "Elisha interacted with Damascus's court on two occasions: the healing of Naaman and the anointing of Hazael as king of Aram (2 Kgs 8:7-15), fulfilling the original command given to Elijah at Horeb (1 Kgs 19:15). Hazael turned out to be a brutal king who oppressed Israel. Elisha's crying when anointing him—because I know the evil you will do to Israel—is one of the most painful moments in prophetic literature.",
+      "referencias": [
+        "1 Kgs 19:15",
+        "2 Kgs 5:1-27",
+        "2 Kgs 8:7-15"
+      ],
+      "ruta": [
+        "damascus",
+        "jericho",
+        "samaria",
+        "carmel_mount"
+      ]
+    },
+    {
+      "id": "isaias-damasco",
+      "nombre": "Isaiah ben Amos",
+      "rol": "Prophet of Jerusalem, advisor to kings",
+      "periodo": "hierro_2",
+      "descripcion": "The greatest of the writing prophets, Isaiah prophesied during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah. His intervention during the Syrian-Ephraimite crisis—when Damascus and Samaria threatened Jerusalem—produced the oracle of Immanuel (Is 7:14), the most cited from the OT in the New Testament. His visions of universal peace (Is 2:4, swords turned into plowshares) and the Suffering Servant (Is 52-53) define the messianic imagination of the West.",
+      "referencias": [
+        "Isa 1:1",
+        "Isa 6:1-13",
+        "Isa 7:1-17",
+        "Isa 53:1-12"
+      ],
+      "ruta": [
+        "jerusalen",
+        "damascus"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Damascus represents the powerful foreign world with which Israel coexists, fights and sometimes becomes a channel of blessing. The story of Naaman is the most universalist text of the OT prophetic cycle: a pagan general cured in the Jordan declares the oneness of YHWH and asks for land from Israel to build an altar in Damascus. The Aramaic language of Damascus ended up being the language of the Jewish people after the exile and the language of Jesus, a historical irony that the OT could not foresee.",
+    "religiones_presentes": [
+      "Aramaic polytheism (cult of Hadad-Rimon)",
+      "Contact Yahwism (Naaman case, Israelite slaves in Damascus)",
+      "Assyrian polytheism (after 732 BC)"
+    ],
+    "mitos": [
+      {
+        "id": "hadad-rimmon",
+        "nombre": "The mourning for Hadad-Rimón in the valley of Megiddo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Zacarías 12:11",
+          "fuente_secundaria": "Talmud Bavli, Moed Katan 28b; comentarios medievales sobre Zac 12:11",
+          "descripcion": "Zechariah 12:11 compares the eschatological weeping over Jerusalem with the mourning for Hadad-Rimmon in the valley of Megiddo, probably referring to the lament for the death of King Josiah in Megiddo (2 Chr 35:22-25) or to an Aramaic cultic ritual of weeping for divinity. Hadad-Rimon was the compound name of the storm god in Damascus.",
+          "similitudes": "Ritual weeping for divinity has parallels in the cult of Tammuz/Adonis throughout the region.",
+          "diferencias": "Jewish tradition reinterprets pagan mourning for divinity as a figure of messianic lament for Jerusalem.",
+          "significado_teologico": "The most intense mourning in history—the eschatological cry for Jerusalem—exceeds even the cry for the dying god.",
+          "posible_relacion_cultural": "The death and resurrection cycle of Baal/Hadad documented in the Ugarit texts is the religious background of the entire region."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "dam_nt_h1",
+        "titulo": "Converting Paul on the way to Damascus",
+        "fecha": "ca. 33-35 AD",
+        "descripcion": "Saul of Tarsus falls to the ground after being blinded by a light; Christ speaks to him and sends him to Damascus.",
+        "referencias": [
+          "Acts 9:1-9",
+          "Gal 1:17"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Ananías"
+        ]
+      },
+      {
+        "id": "dam_nt_h2",
+        "titulo": "Ananias baptizes Paul",
+        "fecha": "ca. 33-35 AD",
+        "descripcion": "The disciple Ananias lays hands on Paul; His eyes are opened and he is baptized.",
+        "referencias": [
+          "Acts 9:10-19"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Ananías"
+        ]
+      },
+      {
+        "id": "dam_nt_h3",
+        "titulo": "Paul flees in a basket over the wall",
+        "fecha": "ca. 37 AD",
+        "descripcion": "The Jews plot to kill Paul; His disciples take him down the Damascus wall at night in a basket.",
+        "referencias": [
+          "Acts 9:23-25",
+          "2 Cor 11:32-33"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "dam_nt_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Persecutor turned apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He went to Damascus to persecute Christians; He left there as the most ardent missionary of the gospel.",
+        "referencias": [
+          "Acts 9:1"
+        ],
+        "ruta": [
+          "damascus",
+          "antioch",
+          "ephesus",
+          "rome"
+        ]
+      },
+      {
+        "id": "dam_nt_p2",
+        "nombre": "Ananias by Damascus",
+        "rol": "Disciple and messenger",
+        "periodo": "s. I AD",
+        "descripcion": "He received vision of going to Paul despite fear; He laid hands on him and baptized him.",
+        "referencias": [
+          "Acts 9:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "dam_nt_p3",
+        "nombre": "Aretas IV",
+        "rol": "Nabatean King by Damascus",
+        "periodo": "9 BC–40 AD",
+        "descripcion": "His ethnarch in Damascus was looking to arrest Paul when he escaped in the basket.",
+        "referencias": [
+          "2 Cor 11:32"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Very ancient city; scene of the most dramatic turn in Christian history: the conversion of its greatest persecutor.",
+      "religiones_presentes": [
+        "Judaism",
+        "Roman_Nabatean_paganism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "dam_nt_m1",
+          "nombre": "The converted pursuer",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The conversion of Paul on the path to Damascus is the New Testament paradigm of grace that transforms the enemy into an apostle.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The conversion of Paul on the path to Damascus is the New Testament paradigm of grace that transforms the enemy into an apostle.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Damascus (Dimashq) is the capital of Syria and a holy city in Islam; The Great Umayyad Mosque was built on top of the ancient Christian basilica.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Damascus (Dimashq) is the capital of Syria and a holy city in Islam; The Great Umayyad Mosque was built on top of the ancient Christian basilica.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

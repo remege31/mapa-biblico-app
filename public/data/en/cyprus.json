@@ -1,0 +1,212 @@
+{
+  "id": "cyprus",
+  "nombre": "Cyprus",
+  "tipo": "territorio",
+  "lat": 35.1264,
+  "lng": 33.4299,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Mediterranean island south of Anatolia, rich in copper. Roman senatorial province.",
+  "altitud_m": 340,
+  "clima": "Mediterranean",
+  "recursos": [
+    "copper",
+    "wood",
+    "came",
+    "olive trees"
+  ],
+  "importancia_estrategica": "Strategic island connecting Asia Minor, Syria and Egypt.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "bernabe",
+      "nombre": "Barnabas",
+      "rol": "«Son of consolation», missionary from Cyprus",
+      "periodo": "apostolico",
+      "descripcion": "Cypriot Levite of the early church. He presented Paul to the apostles, led the church of Antioch and missioned with Paul until their separation, when he returned to Cyprus with John Mark.",
+      "referencias": [
+        "Acts 4:36-37",
+        "Acts 11:22-26",
+        "Acts 15:36-39"
+      ],
+      "ruta": [
+        "cyprus",
+        "jerusalen",
+        "antioch"
+      ],
+      "viajes": [
+        {
+          "nombre": "Sent to Antioch",
+          "ruta": [
+            "jerusalen",
+            "antioch",
+            "tarsus",
+            "antioch"
+          ],
+          "referencias": [
+            "Acts 11:22-26"
+          ]
+        },
+        {
+          "nombre": "First trip with Paul",
+          "ruta": [
+            "antioch",
+            "cyprus",
+            "perge",
+            "antioch_pisidia",
+            "iconium",
+            "lystra",
+            "derbe",
+            "antioch"
+          ],
+          "referencias": [
+            "Acts 13:1–14:28"
+          ]
+        },
+        {
+          "nombre": "Return to Cyprus with Marcos",
+          "ruta": [
+            "antioch",
+            "cyprus"
+          ],
+          "referencias": [
+            "Acts 15:36-39"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cyp_h1",
+        "titulo": "First missionary trip: Cyprus",
+        "fecha": "ca. 46 AD",
+        "descripcion": "Paul and Barnabas preach in Salamis and Paphos; They convert the proconsul Sergio Paulo.",
+        "referencias": [
+          "Acts 13:4-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Sergio Paulo",
+          "Elimas"
+        ]
+      },
+      {
+        "id": "cyp_h2",
+        "titulo": "Confrontation with the magician Elymas",
+        "fecha": "ca. 46 AD",
+        "descripcion": "Paul blinds the magician Bar-Jesus (Elymas) for opposing the gospel.",
+        "referencias": [
+          "Acts 13:8-11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Elimas"
+        ]
+      },
+      {
+        "id": "cyp_h3",
+        "titulo": "Barnabas returns to Cyprus",
+        "fecha": "ca. 49 AD",
+        "descripcion": "After the separation with Paul, Barnabas travels to Cyprus with Marcos.",
+        "referencias": [
+          "Acts 15:39"
+        ],
+        "personajes_clave": [
+          "Bernabé",
+          "Juan Marcos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cyp_p1",
+        "nombre": "Barnabas",
+        "rol": "Cypriot apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Born in Cyprus; co-founder of the mission to the Gentiles.",
+        "referencias": [
+          "Acts 4:36"
+        ],
+        "ruta": [
+          "cyprus",
+          "antioch"
+        ]
+      },
+      {
+        "id": "cyp_p2",
+        "nombre": "Paul of Tarsus",
+        "rol": "Missionary",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He evangelized Cyprus on his first missionary trip.",
+        "referencias": [
+          "Acts 13:4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cyp_p3",
+        "nombre": "Sergio Paulo",
+        "rol": "Roman proconsul",
+        "periodo": "s. I AD",
+        "descripcion": "Governor who believed in the gospel after seeing the blindness of the magician.",
+        "referencias": [
+          "Acts 13:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Hellenistic island with cult of Aphrodite; first pagan territory systematically evangelized by Paul.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "cyp_m1",
+          "nombre": "Aphrodite and Cyprus",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Cyprus was famous for the cult of Aphrodite; the gospel confronted this paganism when Paul converted the proconsul.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Cyprus was famous for the cult of Aphrodite; the gospel confronted this paganism when Paul converted the proconsul.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

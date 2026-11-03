@@ -1,0 +1,248 @@
+{
+  "id": "lycaonia",
+  "nombre": "Licaonia",
+  "tipo": "territorio",
+  "lat": 37.9,
+  "lng": 33.48,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Región interior de Asia Menor entre Pisidia y Capadocia. Ciudades principales: Listra, Iconio y Derbe.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyca_h1",
+      "titulo": "Pablo y Bernabé adorados como dioses en Listra",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Tras sanar a un cojo en Listra, los licaonios creen que son Zeus y Hermes; Pablo rasga sus vestidos para disuadirlos.",
+      "referencias": [
+        "Hch 14:8-18"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "lyca_h2",
+      "titulo": "Pablo apedreado en Listra",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Judíos de Antioquía y de Iconio convencen a los licaonios; Pablo es apedreado y arrastrado fuera de la ciudad.",
+      "referencias": [
+        "Hch 14:19-20"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyca_h3",
+      "titulo": "Timoteo hijo de Listra de Licaonia",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Timoteo, discípulo de Pablo, nació en Listra de Licaonia; su madre Eunice y abuela Loida le habían transmitido la fe.",
+      "referencias": [
+        "Hch 16:1",
+        "2 Tim 1:5"
+      ],
+      "personajes_clave": [
+        "Timoteo",
+        "Eunice",
+        "Loida"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyca_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fue adorado como dios y luego apedreado en Listra de Licaonia; el contraste máximo de la misión.",
+      "referencias": [
+        "Hch 14:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p2",
+      "nombre": "Timoteo",
+      "rol": "Discípulo y pastor",
+      "periodo": "s. I d.C.",
+      "descripcion": "Natural de Listra de Licaonia; compañero y discípulo predilecto de Pablo.",
+      "referencias": [
+        "Hch 16:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p3",
+      "nombre": "Bernabé",
+      "rol": "Misionero",
+      "periodo": "s. I d.C.",
+      "descripcion": "Confundido con Zeus en Listra; evangelizó la región con Pablo.",
+      "referencias": [
+        "Hch 14:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Licaonia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "lyca_m1",
+        "nombre": "Dioses y apóstoles en Licaonia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "El episodio de Listra revela la confusión religiosa del paganismo y la reacción apostólica: los misioneros no son dioses sino mensajeros del Dios viviente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El episodio de Listra revela la confusión religiosa del paganismo y la reacción apostólica: los misioneros no son dioses sino mensajeros del Dios viviente.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyca_h1",
+        "titulo": "Pablo y Bernabé adorados como dioses en Listra",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Tras sanar a un cojo en Listra, los licaonios creen que son Zeus y Hermes; Pablo rasga sus vestidos para disuadirlos.",
+        "referencias": [
+          "Hch 14:8-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "lyca_h2",
+        "titulo": "Pablo apedreado en Listra",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Judíos de Antioquía y de Iconio convencen a los licaonios; Pablo es apedreado y arrastrado fuera de la ciudad.",
+        "referencias": [
+          "Hch 14:19-20"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyca_h3",
+        "titulo": "Timoteo hijo de Listra de Licaonia",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Timoteo, discípulo de Pablo, nació en Listra de Licaonia; su madre Eunice y abuela Loida le habían transmitido la fe.",
+        "referencias": [
+          "Hch 16:1",
+          "2 Tim 1:5"
+        ],
+        "personajes_clave": [
+          "Timoteo",
+          "Eunice",
+          "Loida"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyca_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fue adorado como dios y luego apedreado en Listra de Licaonia; el contraste máximo de la misión.",
+        "referencias": [
+          "Hch 14:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p2",
+        "nombre": "Timoteo",
+        "rol": "Discípulo y pastor",
+        "periodo": "s. I d.C.",
+        "descripcion": "Natural de Listra de Licaonia; compañero y discípulo predilecto de Pablo.",
+        "referencias": [
+          "Hch 16:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p3",
+        "nombre": "Bernabé",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Confundido con Zeus en Listra; evangelizó la región con Pablo.",
+        "referencias": [
+          "Hch 14:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Licaonia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "lyca_m1",
+          "nombre": "Dioses y apóstoles en Licaonia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El episodio de Listra revela la confusión religiosa del paganismo y la reacción apostólica: los misioneros no son dioses sino mensajeros del Dios viviente.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El episodio de Listra revela la confusión religiosa del paganismo y la reacción apostólica: los misioneros no son dioses sino mensajeros del Dios viviente.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "dan",
+  "nombre": "Dan",
+  "tipo": "ciudad",
+  "lat": 33.2468,
+  "lng": 35.6516,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 51,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Insediamento della tribù Dan"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Santuario reale del Regno settentrionale"
+    }
+  ],
+  "descripcion_geo": "Dan (Tel Dan, a nord di Israele) si trova all'estremità settentrionale del territorio Israele, alla confluenza di diversi affluenti del fiume Giordano, ai piedi del Monte Hermon. L'espressione biblica da Dan a Bersabea definisce i limiti nord-sud del territorio israelita. Il tell archeologico Dan (Tel el-Qadi) è uno dei più ricchi di Israele, con occupazione sin dal Neolitico.",
+  "altitud_m": 220,
+  "clima": "Mediterraneo con influenza montuosa: più umido rispetto al resto del Israele (800-1000 mm all'anno). Le sorgenti del Giordano creano un microclima fresco e fertile, con abbondante vegetazione.",
+  "recursos": [
+    "Acqua (fonti del Giordano, il più abbondante della regione)",
+    "Terreni agricoli fertili (irrigati dagli affluenti dell'Hermon)",
+    "Foreste di querce e altri alberi",
+    "Rotte commerciali verso il nord (Siria, Fenicia)"
+  ],
+  "importancia_estrategica": "Punto più settentrionale di Israele, con valore strategico come porta settentrionale di fronte alla Siria e Fenicia. Il santuario di Dan, fondato da Geroboamo I con un vitello d'oro, trasformò la città in un centro religioso alternativo a Gerusalemme per il regno settentrionale. L'iscrizione aramaica rinvenuta a Tel Dan (IX secolo a.C.) è la prima menzione extrabiblica della Casa di Davide.",
+  "otros_habitantes": [
+    {
+      "id": "layis-cananeos",
+      "nombre": "Abitanti di Layis",
+      "descripcion": "Prima della conquista danita, la città si chiamava Layis. I suoi abitanti sono descritti come calmi e fiduciosi, che vivono secondo l'usanza dei Sidoni e senza alcuna relazione con gli Aramei. Le spie danite li trovarono impreparati e vulnerabili. La città fu conquistata, bruciata e ricostruita come Dan.",
+      "religion": "Cananeo-Politeismo fenicio - Influenza sidoniana",
+      "periodo": "Prima del c. 1150 a.C"
+    },
+    {
+      "id": "tribu-dan",
+      "nombre": "Tribù di Dan",
+      "descripcion": "La tribù di Dan, incapace di conquistare il territorio assegnato sulla pianura costiera (di fronte a Filistei), inviò delle spie a nord, trovò Layis non protetta e la conquistò con 600 guerrieri. Lì stabilirono il loro santuario con un idolo fuso e un prete mercenario della famiglia di Mosè. Dan è diventato il più antico santuario tribale del nord.",
+      "religion": "Yahvismo sincretistico: immagine della fonderia nel santuario tribale",
+      "periodo": "C. 1150–930 a.C"
+    },
+    {
+      "id": "sacerdotes-jeroboam",
+      "nombre": "Sacerdoti del Vitello d'Oro di Dan",
+      "descripcion": "Jeroboam I installò uno dei due vitelli d'oro a Dan (l'altro a Betel) e istituì un clero non levitico per servirli. Dan e Betel divennero i due santuari ufficiali del Regno del Nord, in competizione con il Tempio di Gerusalemme. I profeti del sud condannarono entrambi i santuari, ma Dan mantenne il suo ruolo fino alla caduta di Samaria (722 a.C.).",
+      "religion": "Yahvismo sincretista ufficiale — vitello d'oro come rappresentazione di YHWH",
+      "periodo": "C. 930–722 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-dan",
+      "titulo": "La conquista di Layis: la tribù senza terra cerca una casa",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "La tribù Dan, sotto pressione da parte degli Filistei nel loro territorio costiero, inviò cinque spie a nord. Durante il viaggio passarono davanti alla casa di Michea a Efraim, dove c'erano un sacerdote mercenario e un idolo fuso. Le spie arrivarono a Layis, una città non protetta e senza alleanze militari. Al loro ritorno convinsero la tribù ad emigrare: 600 guerrieri con le loro famiglie partirono per il nord. Lungo la strada rubarono l'idolo di Michea e convinsero il loro sacerdote ad accompagnarli. Conquistarono Layis, la bruciarono, costruirono la loro città e stabilirono il loro santuario.",
+      "referencias": [
+        "Gdc 17:1-13",
+        "Gdc 18:1-31"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jeroboam-dan",
+      "titulo": "Il vitello d'oro di Dan: il secondo santuario del Regno del Nord",
+      "fecha": "c. 930 a.C.",
+      "descripcion": "Geroboamo I, per consolidare il Regno del Nord indipendente da Gerusalemme, fondò due centri di culto: uno a Betel (a sud del regno) e un altro a Dan (a nord). Su ognuno ha installato un vitello d'oro con le parole: Ecco i tuoi dei, Israele, quelli che ti hanno fatto uscire da Egitto. Anche Dan, più lontano da Gerusalemme, aveva la legittimità dell'antico santuario tribale. I profeti del sud condannarono entrambi i centri come apostasia, ma per il regno del nord erano simboli di identità nazionale e religiosa indipendente.",
+      "referencias": [
+        "1 Re 12:26-33",
+        "Am 8:14"
+      ],
+      "personajes_clave": [
+        "jeroboam"
+      ]
+    },
+    {
+      "id": "inscripcion-dan",
+      "titulo": "La Stele di Dan: la prima menzione della Casa di Davide",
+      "fecha": "c. 840 a.C.",
+      "descripcion": "Nel 1993-94, gli archeologi israeliani trovarono frammenti di un'iscrizione aramaica del IX secolo aC al Tel Dan. che menziona la Casata di Davide (in aramaico: Beit Davide). È la prima menzione extrabiblica di Davide al di fuori della Bibbia. L'iscrizione è stata probabilmente incisa da Hazael di Damasco per commemorare una vittoria su Israele e Giuda. Il ritrovamento ha confermato la storicità della dinastia davidica e ha generato un notevole dibattito accademico.",
+      "referencias": [
+        "2 Re 8:7-15",
+        "2 Re 10:32-33"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeroboam-dan-pj",
+      "nombre": "Geroboamo I",
+      "rol": "Fondatore del Santuario Reale di Dan",
+      "periodo": "hierro_2",
+      "descripcion": "Dividendo il regno dopo la morte di Salomone, Jeroboam I aveva bisogno di centri di culto che competessero con il Tempio di Gerusalemme per impedire al suo popolo di pellegrinare a sud. Dan e Betel sono state le loro scelte: Dan per la sua anzianità come santuario tribale, Betel per la sua centralità geografica. La sua decisione fu condannata da tutti gli storici biblici ma fu coerente dal punto di vista politico.",
+      "referencias": [
+        "1 Re 11:26-40",
+        "1 Re 12:20-33"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "dan"
+      ]
+    },
+    {
+      "id": "espias-dan",
+      "nombre": "Le cinque spie di Dan",
+      "rol": "Esploratori che hanno trovato il nuovo territorio di Dan",
+      "periodo": "c. 1150 a.C.",
+      "descripcion": "Le cinque spie della tribù Dan rappresentano l'iniziativa tribale indipendente nel periodo dei giudici, quando non c'era nessun re in Israele e ognuno faceva ciò che gli sembrava giusto. La sua scoperta di Layis e il suo rapporto positivo - la terra è eccellente - portarono a un'emigrazione tribale di massa. Lungo il cammino rubarono idoli e un sacerdote, stabilendo il modello del santuario danita prima della monarchia.",
+      "referencias": [
+        "Gdc 18:1-20"
+      ],
+      "ruta": [
+        "dan"
+      ]
+    },
+    {
+      "id": "hazael-dan",
+      "nombre": "Hazael di Damasco",
+      "rol": "Re aramaico che attaccò Dan e Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Unto re di Damasco da Eliseo (2 Re 8:13), Hazael fu il nemico più devastante che Israele incontrò nel IX secolo a.C. Conquistò i territori della Transgiordania, attaccò Gat e minacciò Gerusalemme. L'iscrizione Dan sarebbe stata eretta da lui o dal suo successore per commemorare le vittorie su Israele e Giuda. Quando Eliseo lo unse, pianse in previsione del male che avrebbe causato.",
+      "referencias": [
+        "1 Re 19:15",
+        "2 Re 8:7-15",
+        "2 Re 10:32-33",
+        "2 Re 12:17-18"
+      ],
+      "ruta": [
+        "damascus",
+        "dan",
+        "samaria"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dan segna il confine settentrionale del mondo biblico israelita. Il suo santuario, fondato prima dalla tribù di Dan con un idolo rubato e poi da Geroboamo con il vitello d'oro, è il simbolo del culto non autorizzato, parallelo e in tensione con il Tempio di Gerusalemme. La scoperta dell'iscrizione della Casa di Davide a Tel Dan ha trasformato l'archeologia biblica: per la prima volta, un testo epigrafico non biblico ha confermato l'esistenza della dinastia davidica nel IX secolo a.C.",
+    "religiones_presentes": [
+      "Sincretista tribale Yahvismo (santuario di Michea, poi tribù di Dan)",
+      "Sincretista ufficiale Yahvismo (vitello d'oro di Geroboamo)",
+      "Cananeo-Politeismo fenicio (Layis pre-conquista)"
+    ],
+    "mitos": [
+      {
+        "id": "becerro-norte",
+        "nombre": "Il vitello d'oro come simbolo di scisma",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Reyes 12:28-30; Éxodo 32:1-6",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 102a; Midrash Shemot Rabbah 42",
+          "descripcion": "Il Talmud collega il vitello d'oro del deserto (Es 32) con i vitelli di Geroboamo, suggerendo che Geroboamo abbia deliberatamente copiato il peccato di Sinai. La formula di presentazione è identica: Questo è il tuo Dio che ti ha fatto uscire da Egitto. I commentatori medievali discutevano se il vitello fosse una rappresentazione di YHWH o di un altro dio.",
+          "similitudes": "Il vitello come rappresentazione plastica della divinità ha paralleli nel toro sacro di El a Ugarit e nell'egiziano Apis.",
+          "diferencias": "La condanna profetica del vitello Dan è più insistente di quella del vitello Betel, forse perché Dan è stato maggiormente influenzato dalla cultura fenicia.",
+          "significado_teologico": "La proibizione delle immagini (Es 20,4) non è solo teologica ma politica: il culto accentrato in Gerusalemme era il meccanismo di coesione dello Stato. L'immagine è sempre anche un fattore politico.",
+          "posible_relacion_cultural": "Il toro sacro (Apis) del Bajo Egitto e il toro di El nella mitologia ugaritica sono i diretti paralleli iconografici del vitello d'oro biblico."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

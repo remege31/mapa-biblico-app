@@ -1,0 +1,242 @@
+{
+  "id": "bithynia",
+  "nombre": "Bitinia",
+  "tipo": "territorio",
+  "lat": 40.66,
+  "lng": 30.63,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana nell'Asia Minore nord-occidentale, sulle rive del Mar Nero. Paolo ha provato ad andarci ma gli è stato impedito dallo Spirito.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bit_h1",
+      "titulo": "Lo Spirito impedisce a Paolo di andare in Bitinia",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Paolo tenta di entrare in Bitinia ma 'lo Spirito di Gesù non lo ha permesso'; La visione del macedone lo reindirizza verso l'Europa.",
+      "referencias": [
+        "At 16:7-9"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "bit_h2",
+      "titulo": "Lettera di Pietro ai credenti della Bitinia",
+      "fecha": "ca. 64 d.C.",
+      "descripcion": "Pietro indirizza la sua prima lettera agli 'eletti' di diverse province, inclusa la Bitinia; Lì ci sono comunità cristiane.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "bit_h3",
+      "titulo": "Plinio il Giovane e i cristiani della Bitinia",
+      "fecha": "ca. 112 d.C.",
+      "descripcion": "Il governatore romano Plinio il Giovane scrive all'imperatore Traiano sui cristiani in Bitinia: testimonianza pagana della crescita della Chiesa.",
+      "referencias": [
+        "Historia romana"
+      ],
+      "personajes_clave": [
+        "Plinio el Joven"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bit_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ha cercato di andare in Bitinia; lo Spirito lo riorientò verso la Macedonia.",
+      "referencias": [
+        "At 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p2",
+      "nombre": "Pietro",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Indirizzò la sua prima lettera ai credenti della Bitinia e di altre province dell'Asia Minore.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p3",
+      "nombre": "Plinio il Giovane",
+      "rol": "governatore romano",
+      "periodo": "ca. 61-112 d.C.",
+      "descripcion": "Le sue lettere a Traiano sui cristiani della Bitinia sono la prima testimonianza romana dettagliata del cristianesimo primitivo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bitinia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "bit_m1",
+        "nombre": "Lo Spirito chiude una porta e apre l'Europa",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il reindirizzamento di Paolo in Bitinia è un paradigma della divina provvidenza nella missione: una porta chiusa ne apre un'altra verso l'Europa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il reindirizzamento di Paolo in Bitinia è un paradigma della divina provvidenza nella missione: una porta chiusa ne apre un'altra verso l'Europa.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bit_h1",
+        "titulo": "Lo Spirito impedisce a Paolo di andare in Bitinia",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo tenta di entrare in Bitinia ma 'lo Spirito di Gesù non lo ha permesso'; La visione del macedone lo reindirizza verso l'Europa.",
+        "referencias": [
+          "At 16:7-9"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "bit_h2",
+        "titulo": "Lettera di Pietro ai credenti della Bitinia",
+        "fecha": "ca. 64 d.C.",
+        "descripcion": "Pietro indirizza la sua prima lettera agli 'eletti' di diverse province, inclusa la Bitinia; Lì ci sono comunità cristiane.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "bit_h3",
+        "titulo": "Plinio il Giovane e i cristiani della Bitinia",
+        "fecha": "ca. 112 d.C.",
+        "descripcion": "Il governatore romano Plinio il Giovane scrive all'imperatore Traiano sui cristiani in Bitinia: testimonianza pagana della crescita della Chiesa.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "personajes_clave": [
+          "Plinio el Joven"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bit_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha cercato di andare in Bitinia; lo Spirito lo riorientò verso la Macedonia.",
+        "referencias": [
+          "At 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p2",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizzò la sua prima lettera ai credenti della Bitinia e di altre province dell'Asia Minore.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p3",
+        "nombre": "Plinio il Giovane",
+        "rol": "governatore romano",
+        "periodo": "ca. 61-112 d.C.",
+        "descripcion": "Le sue lettere a Traiano sui cristiani della Bitinia sono la prima testimonianza romana dettagliata del cristianesimo primitivo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Bitinia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "bit_m1",
+          "nombre": "Lo Spirito chiude una porta e apre l'Europa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Il reindirizzamento di Paolo in Bitinia è un paradigma della divina provvidenza nella missione: una porta chiusa ne apre un'altra verso l'Europa.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il reindirizzamento di Paolo in Bitinia è un paradigma della divina provvidenza nella missione: una porta chiusa ne apre un'altra verso l'Europa.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

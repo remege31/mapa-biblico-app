@@ -1,0 +1,180 @@
+{
+  "id": "most_holy_place",
+  "nombre": "Santo dei Santi",
+  "tipo": "ciudad",
+  "lat": 31.779694,
+  "lng": 35.239435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — espacio interior del Tabernáculo y, después, del Templo, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Camera interna del Tabernacolo mobile"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II - Camera interna del Tempio di Salomone"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: camera interna del Secondo Tempio"
+    }
+  ],
+  "descripcion_geo": "Spazio cubico più interno del Tabernacolo e, successivamente, del Tempio di Gerusalemme, separato dal resto del santuario da un velo. Nel Tabernacolo del deserto e nel Tempio di Salomone era custodita l'Arca dell'Alleanza tra i cherubini; Dopo la perdita dell'Arca nella distruzione babilonese, il Santo dei Santi del Secondo Tempio rimase vuoto, contrassegnato solo da una pietra (la 'pietra di fondazione').",
+  "altitud_m": "Interno del Tempio, Monte Moria, c. 740",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme; Lo spazio interno mancava di ventilazione o luce naturale, illuminato solo indirettamente.",
+  "recursos": [
+    "Arca dell'Alleanza (Tabernacolo e Primo Tempio)",
+    "Putti d'oro battuto",
+    "Velo di separazione dal resto del santuario"
+  ],
+  "importancia_estrategica": "Il Santo dei Santi non ha rilevanza militare o economica, ma costituisce il centro simbolico assoluto del culto jahvista: il punto di massima vicinanza rituale tra Israele e la presenza di YHWH, accessibile solo al sommo sacerdote, solo una volta all'anno, nel Giorno dell'Espiazione. La sua esistenza struttura l'intero sistema di purezza sacrificale e rituale dell'Antico Testamento.",
+  "otros_habitantes": [
+    {
+      "id": "sumo_sacerdote_lugar_santisimo",
+      "nombre": "Sommo sacerdote",
+      "descripcion": "L'unico essere umano autorizzato ad entrare nel Santo dei Santi, e solo una volta all'anno, durante lo Yom Kippur, dopo un elaborato processo di purificazione rituale e portando l'incenso e il sangue del sacrificio espiatorio.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 BC (Tabernacle) until 70 AD. (destruction of the Second Temple)"
+    },
+    {
+      "id": "levitas_lugar_santisimo",
+      "nombre": "Leviti",
+      "descripcion": "Tribù sacerdotale incaricata della cura, del trasporto (durante il periodo del Tabernacolo) e della manutenzione generale del santuario, senza accesso diretto al Santo dei Santi, riservato esclusivamente al sommo sacerdote.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "instrucciones-tabernaculo-lugar-santisimo",
+      "titulo": "Istruzioni Divine per il Luogo Santissimo del Tabernacolo",
+      "fecha": "c. 1400 a.C. (narrativa del Sinaí)",
+      "descripcion": "YHWH istruisce Mosè in Sinai sulle esatte dimensioni e arredi del Luogo Santissimo del Tabernacolo: un cubo di dieci cubiti per lato, separato da un velo, destinato ad ospitare l'Arca dell'Alleanza sotto le ali di due cherubini d'oro.",
+      "referencias": [
+        "Es 26:31-34",
+        "Es 25:10-22"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "dedicacion-templo-salomon-lugar-santisimo",
+      "titulo": "Salomone introduce l'Arca nel Sancta Sanctorum del Tempio",
+      "fecha": "c. 960 a.C.",
+      "descripcion": "Alla dedicazione del Tempio, i sacerdoti introducono nel Santo dei Santi l'Arca dell'Alleanza sotto le ali dei due grandi cherubini di legno d'ulivo ricoperti d'oro; La gloria di YHWH riempie il Tempio sotto forma di nuvola al punto che i sacerdoti non possono restare a ministrare.",
+      "referencias": [
+        "1 Re 8:1-11",
+        "2 Cr 5:2-14"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "yom-kipur-lugar-santisimo",
+      "titulo": "Il rituale del Giorno dell'Espiazione nel Luogo Santissimo",
+      "fecha": "Instituido c. 1400 a.C., observancia anual continua",
+      "descripcion": "Una volta all'anno, durante lo Yom Kippur, il sommo sacerdote entra nel Santo dei Santi portando l'incenso e il sangue del sacrificio espiatorio da spargere sul propiziatorio, nell'unico atto rituale nel calendario israelita che consente l'accesso umano diretto a quello spazio.",
+      "referencias": [
+        "Lv 16:2-17"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_lugar_santisimo",
+      "nombre": "Mosè",
+      "rol": "Legislatore, destinatario delle istruzioni del Tabernacolo",
+      "periodo": "bronce_tardio",
+      "descripcion": "Ricevi sul Monte Sinai le istruzioni dettagliate di YHWH per la costruzione del Tabernacolo, comprese le specifiche esatte del Sancta Sanctorum e dell'Arca dell'Alleanza.",
+      "referencias": [
+        "Es 25:1-22",
+        "Es 26:31-34"
+      ],
+      "ruta": [
+        "sinai"
+      ]
+    },
+    {
+      "id": "salomon_lugar_santisimo",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore del Tempio",
+      "periodo": "hierro_2",
+      "descripcion": "Dirige la dedicazione del Tempio e la solenne introduzione dell'Arca dell'Alleanza nel Luogo Santissimo, momento in cui la gloria di YHWH si manifesta come una nuvola che riempie l'intero edificio.",
+      "referencias": [
+        "1 Re 8:1-66"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "sumo_sacerdote_yom_kipur",
+      "nombre": "Sommo sacerdote (ufficio)",
+      "rol": "Unico mediatore autorizzato ad entrare nel Santo dei Santi",
+      "periodo": "Institución continua, c. 1400 a.C.–70 d.C.",
+      "descripcion": "Figura sacerdotale la cui funzione centrale è quella di rappresentare simbolicamente l'intero Israele nell'unico accesso rituale consentito allo spazio di massima santità, una volta all'anno, nel Giorno dell'Espiazione.",
+      "referencias": [
+        "Lv 16:2-34"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Santo dei Santi è il centro assoluto del sistema teologico e rituale dell'Antico Testamento: il punto dove la trascendenza di YHWH si concentra più intensamente e, allo stesso tempo, più ristretta. La sua architettura di progressiva esclusione – atrio, luogo santo, luogo santissimo – traduce spazialmente la teologia della santità divina e l'esigenza della mediazione sacerdotale. La perdita dell'Arca in seguito alla distruzione babilonese lascia vuoto il Luogo Santissimo del Secondo Tempio, trasformando lo spazio abitativo da oggetto sacro a puro simbolo di presenza senza rappresentazione fisica.",
+    "religiones_presentes": [
+      "Yahvismo (centro assoluto del sistema cultuale e sacrificale)"
+    ],
+    "mitos": [
+      {
+        "id": "arca-alianza-lugar-santisimo",
+        "nombre": "L'Arca dell'Alleanza e la presenza divina nel Luogo Santissimo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 25:10-22; 1 Re 8:1-11; Lev 16:2-17",
+          "fuente_secundaria": "Mishná, tratado Yoma (descripción detallada del ritual de Yom Kipur); Talmud Babilónico, Yoma 21b (sobre la desaparición del Arca)",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente il rituale dello Yom Kippur e discute il destino dell'Arca in seguito alla distruzione del Primo Tempio, con tradizioni che suggeriscono che fu nascosta dal re Giosia o dal profeta Geremia prima della conquista babilonese, e che rimarrà nascosta fino a una futura restaurazione.",
+          "similitudes": "Concezione condivisa di uno spazio sacro centrale inaccessibile se non attraverso una speciale mediazione rituale.",
+          "diferencias": null,
+          "significado_teologico": "Il Santo dei Santi rappresenta il punto di contatto più stretto tra la santità trascendente di Dio e l'esistenza umana, mediato esclusivamente dal ministero sacerdotale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Eb 9:1-12 (lectura tipológica neotestamentaria del Lugar Santísimo)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la Carta a los Hebreos y el velo rasgado en la crucifixión (Mt 27:51)",
+          "descripcion": "La Lettera agli Ebrei rilegge il Santo dei Santi terreno come figura imperfetta di un definitivo santuario celeste, al quale Cristo accede una volta per tutte attraverso il proprio sangue; Il racconto sinottico dello strappo del velo del Tempio al momento della crocifissione viene interpretato come un'apertura simbolica di accesso diretto alla presenza divina.",
+          "similitudes": "Condivide la struttura concettuale di uno spazio di massima santità accessibile solo attraverso il sacrificio e la mediazione sacerdotale.",
+          "diferencias": "La lettura cristiana sposta il compimento del sistema rituale del Santo dei Santi terreno verso una realtà celeste definitiva mediata da Cristo, dichiarando superato il sistema sacrificale levitico annualmente ripetuto.",
+          "significado_teologico": "Il velo strappato simboleggia la fine della separazione rituale tra Dio e i credenti, sostituendo l'accesso limitato del sommo sacerdote con l'accesso diretto mediato da Cristo.",
+          "posible_relacion_cultural": "Tradizione condivisa del Tempio di Gerusalemme e della sua architettura sacra come sfondo comune al giudaismo e al cristianesimo primitivo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 17:1 (referencia a 'la Mezquita Lejana', al-Masjid al-Aqsa, identificada tradicionalmente con el monte del Templo)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre el viaje nocturno (Isra) y la ascensión (Mi'raj)",
+          "descripcion": "La tradizione islamica collega il Monte del Tempio, sito storico del Santo dei Santi, con la storia del viaggio notturno del profeta Maometto, senza sviluppare una propria dottrina sull'Arca o sul Santo dei Santi stesso, ma riconoscendo la santità storica del luogo come sito dei profeti precedenti.",
+          "similitudes": "Riconoscimento condiviso dell'eccezionale santità del sito del Tempio Gerusalemme.",
+          "diferencias": "L'Islam non sviluppa il concetto specifico del Santo dei Santi o dell'Arca dell'Alleanza come elementi centrali della propria teologia; il riferimento coranico si concentra sul Monte del Tempio come destinazione del viaggio notturno, non sull'architettura interna del santuario israelita.",
+          "significado_teologico": "Il luogo si integra nella catena della santità profetica riconosciuta dall'Islam, collegando Gerusalemme con la comune tradizione abramitica senza adottare il sistema rituale levitico.",
+          "posible_relacion_cultural": "Riconoscimento condiviso di Gerusalemme e del Monte del Tempio come luogo di rivelazione divina nella tradizione abramitica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

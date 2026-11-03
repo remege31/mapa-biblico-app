@@ -1,0 +1,145 @@
+{
+  "id": "lebanon",
+  "nombre": "Lebanon",
+  "tipo": "territorio",
+  "lat": 33.75,
+  "lng": 35.59,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 63,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Iron I - Roman"
+    }
+  ],
+  "descripcion_geo": "Coastal mountain range north of Israel, covered in legendary cedar forests. It includes the valleys of Lebanon and Anti-Lebanon.",
+  "altitud_m": 2000,
+  "clima": "Mediterranean-mountainous",
+  "recursos": [
+    "cedars",
+    "wood",
+    "water resources",
+    "trade"
+  ],
+  "importancia_estrategica": "Main source of ancient Mediterranean construction wood; the cedars of Lebanon were used in the Temple of Solomon.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lib_h1",
+      "titulo": "The cedars for the Temple of Solomon",
+      "fecha": "ca. 960 BC",
+      "descripcion": "Solomon negotiates with Hiram of Tyre for the supply of cedars from Lebanon to build the Temple of Jerusalem.",
+      "referencias": [
+        "1 Kgs 5:1-12"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "lib_h2",
+      "titulo": "The Lebanese forest in love poems",
+      "fecha": "ca. 1000-700 BC",
+      "descripcion": "The Song of Songs evokes the aroma of Lebanon as the fragrance of the beloved.",
+      "referencias": [
+        "Cnt 4:8,11,15"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "lib_h3",
+      "titulo": "Jesus in the territories of Tyre and Lebanon",
+      "fecha": "ca. 29 AD",
+      "descripcion": "Jesus retreats to the territories of Tyre, in the Lebanese region, where he heals the daughter of the Syro-Phoenician woman.",
+      "referencias": [
+        "Mark 7:24-30"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "mujer sirofeniciana"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lib_p1",
+      "nombre": "Hiram by Tyre",
+      "rol": "Phoenician king of Lebanon",
+      "periodo": "ca. 980-947 BC",
+      "descripcion": "He supplied cedars and craftsmen to Solomon for the Temple; commercial ally of Israel.",
+      "referencias": [
+        "1 Kgs 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p2",
+      "nombre": "Solomon",
+      "rol": "King by Israel",
+      "periodo": "ca. 970-931 BC",
+      "descripcion": "He used the cedars of Lebanon to build the Temple and his own palace.",
+      "referencias": [
+        "1 Kgs 5:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p3",
+      "nombre": "Jesus of Nazareth",
+      "rol": "Messiah",
+      "periodo": "ca. 29 AD",
+      "descripcion": "He visited the region of Lebanon (Tyre and Sidon) extending his ministry to Gentile territory.",
+      "referencias": [
+        "Mark 7:24"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The cedars of Lebanon symbolize greatness and permanence in the Bible; The region was the scene of the meeting between Israel and the Phoenician world.",
+    "religiones_presentes": [
+      "Phoenician_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "lib_m1",
+        "nombre": "The cedars of the Lord",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ps 104:16",
+          "fuente_secundaria": "",
+          "descripcion": "The cedars of Lebanon are planted by God himself (Ps 104:16) and a symbol of the majestic and powerful.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The cedars of Lebanon are planted by God himself (Ps 104:16) and a symbol of the majestic and powerful.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus visits the Lebanese region; The Syrophoenician woman represents the opening of the gospel to the Gentiles.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus visits the Lebanese region; The Syrophoenician woman represents the opening of the gospel to the Gentiles.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

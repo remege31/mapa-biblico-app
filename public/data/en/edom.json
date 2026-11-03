@@ -1,0 +1,143 @@
+{
+  "id": "edom",
+  "nombre": "Edom",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 109,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Kingdom south of the Dead Sea and east of the Arabah, in the red mountains of Seir. Capital: Petra (Sela).",
+  "altitud_m": 1000,
+  "clima": "arid",
+  "recursos": [
+    "copper",
+    "caravan trade",
+    "cattle raising"
+  ],
+  "importancia_estrategica": "Control of the Via Regia, trade route between Arabia and the Mediterranean.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "edo_h1",
+      "titulo": "Esau and Jacob: the origin of the conflict",
+      "fecha": "ca. 1800 BC",
+      "descripcion": "Esau, father of Edom, sells his birthright to Jacob for a plate of lentils; The conflict between the two prefigures that of their people.",
+      "referencias": [
+        "Gen 25:29-34",
+        "Gen 27"
+      ],
+      "personajes_clave": [
+        "Esaú",
+        "Jacob"
+      ]
+    },
+    {
+      "id": "edo_h2",
+      "titulo": "Edom denies the pass to Israel",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "When Israel requests passage through Edomite territory on the way to Canaan, Edom denies it with the threat of war.",
+      "referencias": [
+        "Num 20:14-21"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "edo_h3",
+      "titulo": "Prophesied Destruction of Edom",
+      "fecha": "ca. 590 BC",
+      "descripcion": "The prophet Obadiah announces the total destruction of Edom for his rejoicing in the fall of Jerusalem.",
+      "referencias": [
+        "Obad 1"
+      ],
+      "personajes_clave": [
+        "Abdías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "edo_p1",
+      "nombre": "Esau",
+      "rol": "Edom Patriarch",
+      "periodo": "ca. 1800 BC",
+      "descripcion": "Son of Isaac; He sold his birthright and became the father of the Edomites.",
+      "referencias": [
+        "Gen 25:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p2",
+      "nombre": "Herod the Great",
+      "rol": "King of Judea (Idumean origin)",
+      "periodo": "37-4 BC",
+      "descripcion": "Descendant of Edomites (Idumeans) converted to Judaism; king under Rome.",
+      "referencias": [
+        "Matt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "edo_p3",
+      "nombre": "Obadiah",
+      "rol": "Prophet",
+      "periodo": "ca. 590 BC",
+      "descripcion": "He pronounced the shortest oracle of the OT against the arrogance of Edom.",
+      "referencias": [
+        "Obad 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Town related to Israel but permanent enemy; His Idumean descendants ruled Judea under Herod.",
+    "religiones_presentes": [
+      "edomite_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "edo_m1",
+        "nombre": "The enemy brother",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Mal 1:2-3",
+          "fuente_secundaria": "",
+          "descripcion": "Edom and Jacob represent the eternal conflict between brothers: 'I loved Jacob, but I hated Esau' (Mal 1:2-3).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Edom and Jacob represent the eternal conflict between brothers: 'I loved Jacob, but I hated Esau' (Mal 1:2-3).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Rom 9:13",
+          "fuente_secundaria": "",
+          "descripcion": "Paul quotes Malachi to illustrate God's sovereign election (Rom 9:13).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul quotes Malachi to illustrate God's sovereign election (Rom 9:13).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

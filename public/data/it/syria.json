@@ -1,0 +1,259 @@
+{
+  "id": "syria",
+  "nombre": "Siria",
+  "tipo": "territorio",
+  "lat": 33.52,
+  "lng": 36.31,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 135,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Ferro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Regione a nord di Israele tra il Mediterraneo e il fiume Eufrate, con Damasco come città principale.",
+  "altitud_m": 700,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "agricoltura",
+    "commercio",
+    "mestiere"
+  ],
+  "importancia_estrategica": "Corridoio strategico tra Mesopotamia, Anatolia e Egitto; scenario di guerre e alleanze con Israele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "syr_h1",
+      "titulo": "Le guerre siro-israeliane",
+      "fecha": "ca. 850-800 a.C.",
+      "descripcion": "Ben-Hadad e Hazael, re di Siria, molestano ripetutamente Israele; Eliseo profetizza sui re siriani.",
+      "referencias": [
+        "2 Re 6-8"
+      ],
+      "personajes_clave": [
+        "Eliseo",
+        "Hazael",
+        "Ben-adad"
+      ]
+    },
+    {
+      "id": "syr_h2",
+      "titulo": "Naaman il Siro guarisce dalla lebbra",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "Il generale siro Naaman si bagna sette volte nel Giordano seguendo la parola del profeta Eliseo e viene guarito.",
+      "referencias": [
+        "2 Re 5"
+      ],
+      "personajes_clave": [
+        "Naamán",
+        "Eliseo"
+      ]
+    },
+    {
+      "id": "syr_h3",
+      "titulo": "Antiochia della Siria: culla del nome cristiano",
+      "fecha": "ca. 40-46 d.C.",
+      "descripcion": "In Antiochia della Siria i seguaci di Gesù sono chiamati 'cristiani' e Paolo lancia i loro viaggi missionari.",
+      "referencias": [
+        "At 11:26",
+        "At 13:1-3"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "syr_p1",
+      "nombre": "Hazael",
+      "rol": "Re di Siria",
+      "periodo": "ca. 842-800 a.C.",
+      "descripcion": "Ha usurpato il trono di Damasco; oppresso Israele secondo la profezia di Eliseo.",
+      "referencias": [
+        "2 Re 8:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p2",
+      "nombre": "Naaman",
+      "rol": "Generale siriano convertito",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "Guarito dalla lebbra mediante la fede nel Dio di Israele; primo Gentile guarito da un profeta.",
+      "referencias": [
+        "2 Re 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p3",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "La Siria è stata teatro della sua conversione (Damasco) e base dei suoi viaggi missionari (Antiochia).",
+      "referencias": [
+        "At 9:3",
+        "At 13:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Regione di culto di Baal e Hadad; successivamente provincia romana e culla del cristianesimo gentile dal Antiochia.",
+    "religiones_presentes": [
+      "Aramaico_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "syr_m1",
+        "nombre": "Naaman e il Giordano",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 5:12",
+          "fuente_secundaria": "",
+          "descripcion": "Naaman preferì i fiumi della Siria al Giordano, ma l'obbedienza al profeta israelita lo guarì (2 Re 5:12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Naaman preferì i fiumi della Siria al Giordano, ma l'obbedienza al profeta israelita lo guarì (2 Re 5:12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Luca 4:27",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù cita la guarigione di Naaman come un esempio della grazia di Dio che trascende i confini di Israele (Luca 4:27).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù cita la guarigione di Naaman come un esempio della grazia di Dio che trascende i confini di Israele (Luca 4:27).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "syr_nt_h1",
+        "titulo": "Paolo si converte in Damasco",
+        "fecha": "ca. 33-35 d.C.",
+        "descripcion": "Saulo di Tarso, in territorio siriano, viene colpito dalla luce di Cristo nel cammino verso Damasco.",
+        "referencias": [
+          "At 9:1-9"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_nt_h2",
+        "titulo": "Antiochia: base delle missioni paoline",
+        "fecha": "ca. 46-57 d.C.",
+        "descripcion": "La chiesa di Antiochia invia Paolo e Barnaba in tre viaggi missionari che trasformeranno il mondo mediterraneo.",
+        "referencias": [
+          "At 13:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "syr_nt_h3",
+        "titulo": "Il conflitto Antiochia",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Paolo affronta Pietro in Antiochia riguardo al suo comportamento discriminatorio nei confronti dei gentili.",
+        "referencias": [
+          "Gal 2:11-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "syr_nt_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "La sua conversione in Siria e la sua base in Antiochia hanno fatto di lui il grande missionario del Vangelo.",
+        "referencias": [
+          "At 9:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p2",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Co-fondatore di Gentile Mission dal Antiochia.",
+        "referencias": [
+          "At 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p3",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Visitato Antiochia; è stato rimproverato da Paolo per il suo comportamento verso i Gentili.",
+        "referencias": [
+          "Gal 2:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Siria era il ponte tra l’ebraismo palestinese e il mondo greco-romano; luogo di nascita del nome 'Cristiano'.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "greco_roman_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "syr_nt_m1",
+          "nombre": "Il nome cristiano",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Nell'Antiochia siriano i seguaci di Gesù vengono chiamati per la prima volta \"cristiani\".",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Nell'Antiochia siriano i seguaci di Gesù vengono chiamati per la prima volta \"cristiani\".",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

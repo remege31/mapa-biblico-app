@@ -1,0 +1,242 @@
+{
+  "id": "illyricum",
+  "nombre": "Iliria",
+  "tipo": "territorio",
+  "lat": 42.47,
+  "lng": 19.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Región en la costa oriental del Adriático (actual Albania y ex-Yugoslavia). Pablo llegó hasta allí en su misión europea.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ill_h1",
+      "titulo": "Pablo predica hasta Iliria",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Pablo describe el alcance de su misión: desde Jerusalén hasta Iliria, en la costa adriática.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h2",
+      "titulo": "Tito enviado a Dalmacia (Iliria)",
+      "fecha": "ca. 64-66 d.C.",
+      "descripcion": "Tito fue enviado a Dalmacia (parte de Iliria) en el ministerio final de Pablo.",
+      "referencias": [
+        "2 Tim 4:10"
+      ],
+      "personajes_clave": [
+        "Tito",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h3",
+      "titulo": "Iliria: límite occidental de la misión paulina",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Iliria fue el punto más occidental alcanzado por Pablo antes de su viaje final a Roma.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ill_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Llegó predicando el evangelio hasta Iliria en la orilla del Adriático.",
+      "referencias": [
+        "Rom 15:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p2",
+      "nombre": "Tito",
+      "rol": "Discípulo de Pablo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fue enviado a Dalmacia (Iliria) en la última etapa del ministerio paulino.",
+      "referencias": [
+        "2 Tim 4:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p3",
+      "nombre": "Lucas",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Compañero de Pablo que registró sus viajes misioneros.",
+      "referencias": [
+        "Hch 16:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Iliria: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ill_m1",
+        "nombre": "De Jerusalén a Iliria",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo describió el arco completo de su misión: desde Jerusalén hasta Iliria, cumpliendo el mandato de llevar el evangelio hasta los confines de la tierra.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo describió el arco completo de su misión: desde Jerusalén hasta Iliria, cumpliendo el mandato de llevar el evangelio hasta los confines de la tierra.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ill_h1",
+        "titulo": "Pablo predica hasta Iliria",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Pablo describe el alcance de su misión: desde Jerusalén hasta Iliria, en la costa adriática.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h2",
+        "titulo": "Tito enviado a Dalmacia (Iliria)",
+        "fecha": "ca. 64-66 d.C.",
+        "descripcion": "Tito fue enviado a Dalmacia (parte de Iliria) en el ministerio final de Pablo.",
+        "referencias": [
+          "2 Tim 4:10"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h3",
+        "titulo": "Iliria: límite occidental de la misión paulina",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Iliria fue el punto más occidental alcanzado por Pablo antes de su viaje final a Roma.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ill_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Llegó predicando el evangelio hasta Iliria en la orilla del Adriático.",
+        "referencias": [
+          "Rom 15:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p2",
+        "nombre": "Tito",
+        "rol": "Discípulo de Pablo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fue enviado a Dalmacia (Iliria) en la última etapa del ministerio paulino.",
+        "referencias": [
+          "2 Tim 4:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p3",
+        "nombre": "Lucas",
+        "rol": "Evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Compañero de Pablo que registró sus viajes misioneros.",
+        "referencias": [
+          "Hch 16:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Iliria en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "ill_m1",
+          "nombre": "De Jerusalén a Iliria",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Pablo describió el arco completo de su misión: desde Jerusalén hasta Iliria, cumpliendo el mandato de llevar el evangelio hasta los confines de la tierra.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Pablo describió el arco completo de su misión: desde Jerusalén hasta Iliria, cumpliendo el mandato de llevar el evangelio hasta los confines de la tierra.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

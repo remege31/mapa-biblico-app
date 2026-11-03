@@ -1,0 +1,182 @@
+{
+  "id": "tarshish",
+  "nombre": "Tarshish",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 36.953,
+  "lng": -6.3793,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Ubicación incierta — coordenadas basadas en la identificación más extendida con Tartessos en el sur de la península ibérica (zona de Huelva/Cádiz). Otras propuestas: Tarso en Cilicia, Cerdeña, norte de África. El pin aparece en el extremo occidental del mapa.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Hierro I-II — Fate of the fleets of Solomon and Jehoshaphat; Jonah's flight"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Tarshish (Hebrew: תַּרְשִׁישׁ) is the farthest place on the geographical horizon of the OT — the western end of the known Israelite world. Its exact identification has been debated for centuries: the most accepted proposal places it in Tartessos, a civilization in the south of the Iberian Peninsula (present-day Huelva/Cádiz) known for its mining riches of silver, iron, tin and lead. Other proposals include Tarsus in Cilicia (Türkiye), Sardinia and North Africa. The 'ships of Tarshish' were the largest and most robust type of ocean-going ship in the ancient Mediterranean world, capable of months-long voyages. Tarshish functions in the OT both as an actual geographical destination and as a literary symbol of the 'end of the world'.",
+  "altitud_m": 10,
+  "clima": "Atlantic Mediterranean — if the identification with Tartessos is correct, area with a mild climate with oceanic influence, rainfall of 500-600 mm annually, hot and dry summers, mild rainy winters.",
+  "recursos": [
+    "Silver, iron, tin, and lead — precious and industrial metals (Ez 27:12)",
+    "Long distance maritime trade",
+    "Shipbuilding lumber",
+    "Western Mediterranean products unknown in the Levant"
+  ],
+  "importancia_estrategica": "Tarshish was not strategically important to Israel in a military sense but rather economically and symbolically. The fleets of Solomon and Jehoshaphat that departed from Ezion-geber on the Red Sea towards Ophir are also called 'ships of Tarshish' — type of vessel, not necessarily destination. As a symbol, Tarshish represented the western edge of the world: the furthest possible place from the presence of Yahweh in Jerusalem, where Jonah fled.",
+  "otros_habitantes": [
+    {
+      "id": "tartesios",
+      "nombre": "Tartessians — people of the western end",
+      "descripcion": "If Tarshish is Tartessos, its inhabitants were a Late Bronze-Iron I civilization in the southwest of the Iberian Peninsula, known by Herodotus and other Greek sources as producing enormous mineral wealth. The Phoenicians of Tyre and Sidon established trade relations with Tartessos before the 9th century BC. — the Phoenician connection explains why Israel knew Tarshish: the route passed through Tyre. The Tartessian civilization declined towards the 6th century BC, possibly absorbed by the Carthaginians.",
+      "religion": "Western Iberian polytheism — local divinities with Phoenician influences (Melqart, Astarte) due to commercial contact",
+      "periodo": "Iron I-II, c. 1000-500 BC"
+    },
+    {
+      "id": "comerciantes-fenicios-tarshish",
+      "nombre": "Tyre Phoenician Traders",
+      "descripcion": "The Phoenicians of Tyre were the intermediaries of trade between the Levant and Tarshish. Ezekiel 27:12 describes Tyre's trade with Tarshish: 'Tarshish traded with you for the abundance of all kinds of riches; with silver, iron, tin and lead they paid for your merchandise.' The Phoenician route to Tarshish passed through the Strait of Gibraltar (the Pillars of Hercules), at the edge of the known world. The Phoenician colonies of Cádiz (Gadir) and North Africa facilitated the journey.",
+      "religion": "Phoenician polytheism — Melqart of Tyre as patron god of commercial navigation",
+      "periodo": "Iron I-II, c. 1000-600 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "flotas-salomon-tarshish",
+      "titulo": "The ships of Tarshish by Solomon: the trade that reached the end of the world",
+      "fecha": "c. 950 BC",
+      "descripcion": "Solomon built a fleet of ships at Ezion-Geber in the Red Sea with the help of expert Phoenician sailors sent by Hiram of Tyre. The ships made the trip to Ophir every three years and brought back gold, silver, ivory, monkeys and peacocks. The text calls these vessels 'ships of Tarshish' — a name that indicates the type of large oceanic ship, not necessarily the Iberian destination. But the expression links the maximum maritime trade of Solomon with the symbol of the western end of the world. The Chronicler adds that Jehoshaphat attempted to renew these fleets but his ships were wrecked at Ezion-geber—a sign that the divine favor that accompanied Solomon was not automatically transferred to his successors.",
+      "referencias": [
+        "1 Kgs 10:22",
+        "1 Kgs 9:26-28",
+        "2 Chr 20:35-37"
+      ],
+      "personajes_clave": [
+        "salomon-tarshish",
+        "hiram-tiro"
+      ]
+    },
+    {
+      "id": "jonas-huye-tarshish",
+      "titulo": "Jonah flees to Tarshish: the prophet who ran to the end of the world",
+      "fecha": "c. 760 BC (narración; texto del libro probablemente post-exílico)",
+      "descripcion": "When Yahweh ordered Jonah to go to Nineveh to preach repentance, Jonah arose to flee to Tarshish, far from Yahweh's presence. He went down to Jafa, found a ship bound for Tarshish, paid the fare, and embarked. The choice of Tarshish is not coincidental: it was the furthest possible point from Nineveh — while Nineveh was to the northeast, Tarshish was to the extreme southwest. Jonah tried to put as much geography as possible between him and his mission. Yahweh released a great wind over the sea. The terrified sailors threw away their luggage. Jonah slept at the bottom of the ship. The captain woke him up: 'How can you sleep? Arise and call upon your God.' The lots pointed to Jonah. He confessed and asked to be thrown into the sea. A big fish swallowed him.",
+      "referencias": [
+        "Jonah 1:1-17",
+        "Jonah 1:3",
+        "Jonah 1:9-12"
+      ],
+      "personajes_clave": [
+        "jonas",
+        "marineros-tarshish"
+      ]
+    },
+    {
+      "id": "tarshish-profecias",
+      "titulo": "Tarshish in the prophecies: the end of the world that will praise Yahweh",
+      "fecha": "siglos VIII-VI BC",
+      "descripcion": "The prophets used Tarshish in two opposite registers. Isaiah 2:16 mentions it in the context of judgment: 'The day of Yahweh will be against all the ships of Tarshish' — the symbol of wealth and commercial pride will fall under divine judgment. But Isaiah 66:19 includes it in the eschatological vision of restoration: Yahweh will send survivors 'to Tarshish, to Put, to Lud... to the far islands that have not heard my fame nor seen my glory, and they will proclaim my glory among the nations.' Psalm 72:10 promises: 'The kings of Tarshish and the islands will bring gifts.' Tarshish oscillates between a symbol of human pride that will be judged and a symbol of the ends of the earth that will finally recognize Yahweh.",
+      "referencias": [
+        "Isa 2:16",
+        "Isa 66:19",
+        "Ps 72:10"
+      ],
+      "personajes_clave": [
+        "isaias-tarshish"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonas",
+      "nombre": "Jonah",
+      "rol": "Prophet who fled to Tarshish, swallowed by the fish, sent to Nineveh",
+      "periodo": "c. 760 BC (referencia histórica); libro probablemente del siglo V-IV BC",
+      "descripcion": "Jonah ben Amitai of Gath-Hefer is the most paradoxical prophet of the OT. The only prophet who explicitly ran away from his mission, was swallowed by a great fish, prayed from the depths of the abyss, was vomited onto the ground, and accomplished his mission — but was displeased when it worked. His book ends with God asking him: 'And am I not going to have pity for Nineveh, that great city, where there are more than one hundred and twenty thousand people who do not know how to distinguish their right from their left?' The question remains unanswered — the book ends open. Jonah is the prophetic anti-hero: all the prophets suffered for their mission, he suffered because it worked.",
+      "referencias": [
+        "Jonah 1:1-4:11",
+        "2 Kgs 14:25",
+        "Matt 12:39-41"
+      ],
+      "ruta": [
+        "tarshish"
+      ]
+    },
+    {
+      "id": "marineros-tarshish",
+      "nombre": "Sailors on the ship to Tarshish",
+      "rol": "Pagan sailors who recognized Yahweh during the storm",
+      "periodo": "c. 760 BC (narración)",
+      "descripcion": "The sailors on the ship to Tarshish are one of the most admirable groups in the book of Jonah. Pagans of various nationalities ('each one cried out to his god'), showed more humanity and piety than the Israelite prophet: they tried to reach land before throwing Jonah, they feared throwing him into the sea, and when the storm subsided 'they feared Yahweh with great fear, they offered sacrifices and made vows.' The text presents a brutal irony: the pagans who went to Tarshish recognized Yahweh in the storm while the prophet of Yahweh slept in the cellar fleeing from his God.",
+      "referencias": [
+        "Jonah 1:5-16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "hiram-tiro",
+      "nombre": "Hiram by Tyre",
+      "rol": "Phoenician king of Tyre, trading partner of Solomon on the ships of Tarshish",
+      "periodo": "c. 980–947 BC",
+      "descripcion": "Hiram I of Tyre was Solomon's strategic ally in his great projects: he provided cedar and cypress wood from Lebanon for the temple, sent specialized craftsmen for construction, and provided expert sailors for the fleets of Ezion-Geber. The Solomon-Hiram alliance was the foundation of the economic heyday of the Solomonic reign: Israel had land, Phoenicia had maritime knowledge and trade networks. Without Hiram's Phoenician sailors, the Israelite 'ships of Tarshish' would have been impossible. This cooperation between Yahwism and Phoenician commerce was also, in prophetic perspective, the channel through which the Baalism of Tyre reached Israel with Jezebel.",
+      "referencias": [
+        "1 Kgs 5:15-26",
+        "1 Kgs 9:26-28",
+        "1 Kgs 10:11-12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tarshish is the maximum geographic horizon of the OT—the point where the Israelite known world ends. Theologically, its function is twofold: a symbol of commercial pride that will fall under divine judgment (the ships of Tarshish destroyed in Is 2:16) and a symbol of the ends of the earth that will finally recognize Yahweh (Is 66:19; Ps 72:10). Jonah's flight to Tarshish establishes that there is no place on earth beyond the reach of Yahweh — the maximum geographical distance is not theological distance.",
+    "religiones_presentes": [
+      "Phoenician polytheism — Melqart of Tyre as a trade intermediary to Tarshish",
+      "Iberian-Tartessian polytheism — if the identification with Tartessos is correct",
+      "Israelite Yahwism — narratively present in Jonah and the fleets of Solomon"
+    ],
+    "mitos": [
+      {
+        "id": "jonas-pez-resurreccion",
+        "nombre": "Jonah in the belly of the fish: three days and three nights",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Jonah 1:17-2:10",
+          "fuente_secundaria": "Talmud Bavli, Nedarim 38a; Midrash Jonás (Pirkei de-Rabí Eliezer 10)",
+          "descripcion": "The Talmud (Nedarim 38a) states that Jonah was a fully capable prophet who received prophecy for Israel and for the nations. The Pirkei Midrash of Rabbi Eliezer describes the bowels of the fish as a synagogue illuminated by a pearl — Jonah prayed from there. Rabbinic tradition debated whether the fish was male or female (first male, then transferred to a narrower female belly which motivated him to pray). The book of Jonah is read in the synagogue on the evening of Yom Kippur — the day of greatest repentance of the Jewish year — because it is about the repentance that saves even the pagans.",
+          "similitudes": "All three traditions preserve Jonah/Yunus as a prophet who survived in the belly of the fish by divine mercy.",
+          "diferencias": "Judaism emphasizes Nineveh repentance as a universal model; Islam presents Yunus as a prophet who should not have left his people too soon.",
+          "significado_teologico": "There is no place where God's presence does not reach—not the bottom of the sea or the insides of a fish. The prayer at the extreme limit is heard. Genuine repentance—even from a pagan city—moves divine mercy.",
+          "posible_relacion_cultural": "The motif of the hero swallowed by a sea monster and freed has parallels in Ugaritic (Baal vs. Yam) and Greek (Heracles and the sea monster of Troy) mythology. The biblical transformation turns the monster into an instrument of salvation, not death."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Matt 12:39-41; Lc 11:29-32",
+          "fuente_secundaria": "Tertuliano, De Resurrectione Carnis 32; Jerónimo, Comentario sobre Jonás",
+          "descripcion": "Jesus explicitly cited Jonah as the only sign he would give to his generation: 'Just as Jonah was three days and three nights in the belly of the fish, so will the Son of Man be three days and three nights in the bosom of the earth' (Mt 12:40). Jonah thus became the most direct biblical typology of the death and resurrection of Christ. Tertullian developed the complete typology: the fish is death, the entrails are the grave, the exit is the resurrection. The murals of the Roman catacombs (2nd-3rd centuries) show Jonah being thrown and picked up as an image of the resurrection — it is one of the most frequent early Christian iconographic motifs.",
+          "similitudes": "The three days in the belly of the fish as a prefiguration of death and resurrection is the most explicit typology of the OT cited by Jesus himself.",
+          "diferencias": "Judaism does not develop the resurrection typology of Jonah; Neither does Islam.",
+          "significado_teologico": "Jonah is the sign par excellence of Christ: as Jonah came out of the fish, Christ came out of the tomb. The mission to the Gentiles (Nineveh) prefigures the universal mission of the Church.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 10:98; 21:87-88; 37:139-148; 68:48-50",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Yunus 10:98; Al-Tabari, Tafsir de los Profetas",
+          "descripcion": "The Quran mentions Yunus (Jonah) in four surahs and calls him 'Dhul-Nun' (he of the fish). The Qur'anic narrative is shorter than the biblical one but emphasizes that Yunus left without Allah's permission — 'he left in anger thinking that we would have no power over him' (21:87). From the darkness of the fish's belly he cried: 'There is no god but You, glory to You! I was one of the unjust.' Allah freed him. Ibn Kathir develops that the city of Yunus is the only pagan city that repented before divine punishment and was forgiven — in contrast to other peoples who rejected their prophets. Sura 10 is named after Yunus.",
+          "similitudes": "The prophet who strays from his mission, is punished in the fish, and is released by divine mercy after repentance is identical in all three traditions.",
+          "diferencias": "Islam emphasizes Yunus' fault in leaving 'without permission'; the narrative is shorter and does not include the final pumpkin episode or the unanswered divine question.",
+          "significado_teologico": "Yunus is an example that even a prophet can make mistakes of impatience. The city of Nineveh is the only case in the Quran of pagan people who massively repented and were forgiven.",
+          "posible_relacion_cultural": "Islamic tradition identifies the tomb of Yunus with the shrine of Nabi Yunus in Mosul, Iraq — destroyed by ISIS in 2014."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "arabah",
+  "nombre": "Araba",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 32.03,
+  "lng": 35.52,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Bronzo Tardo - Romano"
+    }
+  ],
+  "descripcion_geo": "Depressione tettonica che si estende dal Mare Galilea al Golfo di Aqaba, passando per il Mar Morto. Include la Valle del Giordano.",
+  "altitud_m": -400,
+  "clima": "arido-deserto",
+  "recursos": [
+    "sale",
+    "minerali di rame",
+    "pascolo"
+  ],
+  "importancia_estrategica": "Corridoio nord-sud della Palestina; rotta carovaniera e confine naturale tra la Cisgiordania e la Transgiordania.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ara_h1",
+      "titulo": "Israele attraversa l'Araba verso il Giordano",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israele marcia attraverso l'Araba da Sinai ai campi di Moab, dove aspetterà di attraversare il Giordano.",
+      "referencias": [
+        "Dt 1:1",
+        "Dt 2:8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "ara_h2",
+      "titulo": "Gli ultimi israeliti del nord fuggono nell'Araba",
+      "fecha": "722 a.C.",
+      "descripcion": "Dopo la caduta di Samaria, gruppi di israeliti settentrionali fuggono nell'Araba cercando di sfuggire alla deportazione assira.",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "personajes_clave": [
+        "supervivientes israelitas"
+      ]
+    },
+    {
+      "id": "ara_h3",
+      "titulo": "Giovanni Battista nell'Araba giordana",
+      "fecha": "ca. 26-29 d.C.",
+      "descripcion": "Giovanni battezza a Bethábara/Betania, al di là del Giordano, nella zona di Arabá.",
+      "referencias": [
+        "Gv 1:28",
+        "Gv 3:23"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ara_p1",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condusse Israele attraverso l'Araba; i \"campi di Moab nell'Araba\" furono la sua ultima dimora.",
+      "referencias": [
+        "Dt 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p2",
+      "nombre": "Giovanni Battista",
+      "rol": "profeta del deserto",
+      "periodo": "ca. 5 a.C.–29 d.C.",
+      "descripcion": "Battezzò nel Giordano nella zona dell'Araba.",
+      "referencias": [
+        "Gv 1:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p3",
+      "nombre": "Giosuè",
+      "rol": "Conquistatore",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Ha attraversato l'Araba per iniziare la conquista di Canaan dai campi di Moab.",
+      "referencias": [
+        "Gs 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il grande corridoio geografico della Terra Santa; scena dell'esodo finale e del ministero di Giovanni Battista presso il Giordano.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ara_m1",
+        "nombre": "Il corridoio dell'esodo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "L'Araba era l'ultima tappa del pellegrinaggio: Israele la percorreva prima di attraversare il Giordano verso la terra promessa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Araba era l'ultima tappa del pellegrinaggio: Israele la percorreva prima di attraversare il Giordano verso la terra promessa.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Giovanni Battista battezzato nell'Araba giordana: il nuovo esodo spirituale di Israele.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Giovanni Battista battezzato nell'Araba giordana: il nuovo esodo spirituale di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

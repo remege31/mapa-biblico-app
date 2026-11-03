@@ -1,0 +1,246 @@
+{
+  "id": "phrygia",
+  "nombre": "Frigia",
+  "tipo": "territorio",
+  "lat": 38.76,
+  "lng": 31.05,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Antigua región del centro-oeste de Asia Menor, dividida entre las provincias romanas de Asia y Galacia. Colosenses y Frigia son hermanas.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phr_h1",
+      "titulo": "Pablo pasa por Frigia confirmando las iglesias",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "En el segundo viaje, Pablo y Silas pasan por la región frigio-gálata, confirmando a los discípulos.",
+      "referencias": [
+        "Hch 16:6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "phr_h2",
+      "titulo": "Pablo en Frigia en el tercer viaje",
+      "fecha": "ca. 53 d.C.",
+      "descripcion": "En el tercer viaje, Pablo pasa de nuevo por la región de Frigia y Galacia, fortaleciendo a todos los discípulos.",
+      "referencias": [
+        "Hch 18:23"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "phr_h3",
+      "titulo": "Colosenses y frigios",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "La carta a los Colosenses, escrita desde Roma, va a una iglesia frigia fundada por Epafras.",
+      "referencias": [
+        "Col 1:7",
+        "Col 4:12-13"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Epafras"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phr_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Pasó dos veces por Frigia en sus viajes misioneros.",
+      "referencias": [
+        "Hch 16:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p2",
+      "nombre": "Epafras",
+      "rol": "Fundador de Colosas",
+      "periodo": "s. I d.C.",
+      "descripcion": "Plantó la iglesia en Colosas (ciudad frigia) y fue maestro fiel de Pablo.",
+      "referencias": [
+        "Col 1:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p3",
+      "nombre": "Filemón",
+      "rol": "Líder de la iglesia de Colosas",
+      "periodo": "s. I d.C.",
+      "descripcion": "Cristiano de Frigia a quien Pablo escribió la carta más personal del NT.",
+      "referencias": [
+        "Flm 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Frigia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "phr_m1",
+        "nombre": "Frigia: tierra de música sagrada y herejías",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Frigia es famosa por su música religiosa (el modo frigio) y fue luego tierra del montanismo (s. II d.C.); Pablo la evangelizó en sus viajes.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Frigia es famosa por su música religiosa (el modo frigio) y fue luego tierra del montanismo (s. II d.C.); Pablo la evangelizó en sus viajes.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phr_h1",
+        "titulo": "Pablo pasa por Frigia confirmando las iglesias",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "En el segundo viaje, Pablo y Silas pasan por la región frigio-gálata, confirmando a los discípulos.",
+        "referencias": [
+          "Hch 16:6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "phr_h2",
+        "titulo": "Pablo en Frigia en el tercer viaje",
+        "fecha": "ca. 53 d.C.",
+        "descripcion": "En el tercer viaje, Pablo pasa de nuevo por la región de Frigia y Galacia, fortaleciendo a todos los discípulos.",
+        "referencias": [
+          "Hch 18:23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "phr_h3",
+        "titulo": "Colosenses y frigios",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "La carta a los Colosenses, escrita desde Roma, va a una iglesia frigia fundada por Epafras.",
+        "referencias": [
+          "Col 1:7",
+          "Col 4:12-13"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Epafras"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phr_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Pasó dos veces por Frigia en sus viajes misioneros.",
+        "referencias": [
+          "Hch 16:6"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p2",
+        "nombre": "Epafras",
+        "rol": "Fundador de Colosas",
+        "periodo": "s. I d.C.",
+        "descripcion": "Plantó la iglesia en Colosas (ciudad frigia) y fue maestro fiel de Pablo.",
+        "referencias": [
+          "Col 1:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p3",
+        "nombre": "Filemón",
+        "rol": "Líder de la iglesia de Colosas",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cristiano de Frigia a quien Pablo escribió la carta más personal del NT.",
+        "referencias": [
+          "Flm 1:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Frigia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "phr_m1",
+          "nombre": "Frigia: tierra de música sagrada y herejías",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Frigia es famosa por su música religiosa (el modo frigio) y fue luego tierra del montanismo (s. II d.C.); Pablo la evangelizó en sus viajes.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Frigia es famosa por su música religiosa (el modo frigio) y fue luego tierra del montanismo (s. II d.C.); Pablo la evangelizó en sus viajes.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

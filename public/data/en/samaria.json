@@ -1,0 +1,312 @@
+{
+  "id": "samaria",
+  "nombre": "Samaria",
+  "tipo": "ciudad",
+  "lat": 32.2784,
+  "lng": 35.1964,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 109,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -880,
+      "hasta": -722,
+      "nombre": "Iron Age II — Capital of the Northern Kingdom"
+    },
+    {
+      "desde": -722,
+      "hasta": -586,
+      "nombre": "Late Iron Age II—Assyrian Province"
+    }
+  ],
+  "descripcion_geo": "Samaria was built on an isolated oval-shaped hill in the heart of the Ephraim highlands, about 65 km north of Jerusalem. The hill, 430 meters high, clearly dominates the surrounding valleys in all directions. Omri chose it precisely because it was a virgin position - with no previous tribal lineage - that would allow him to found a neutral capital, similar to what David had done with Jerusalem.",
+  "altitud_m": 430,
+  "clima": "Mediterranean — drier than the coast but with sufficient rainfall (400-500 mm annually) for rainfed agriculture. The elevated position mitigates the summer heat.",
+  "recursos": [
+    "Water (cisterns carved into rock and nearby springs)",
+    "Olive groves and vineyards on the slopes",
+    "High-quality limestone (the construction of the ivory palace was renamed)",
+    "Trade route with Phoenicia"
+  ],
+  "importancia_estrategica": "Political capital of the largest and most powerful kingdom of Israel. Samaria controlled the corridor between the Phoenician coast and the Jordan, and was a point of contact with the Syrian and Mesopotamia caravan routes. His alliance with Phoenicia under Omri and Ahab brought commercial prosperity and the religious conflicts of the Elijah cycle.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-samaria",
+      "nombre": "Phoenician influence (Sidonia)",
+      "descripcion": "Ahab's marriage to Jezebel, daughter of the Phoenician king Ethbaal of Sidon, introduced in Samaria the official cult of Baal of Sidon. Jezebel kept 450 Baal prophets and 400 Asherah prophets fed at her table, and she persecuted YHWH's prophets. The construction of a temple of Baal at Samaria symbolized the penetration of the Phoenician cult.",
+      "religion": "Cult of Baal by Sidon and Asherah — Phoenician polytheism in the heart of the Northern Kingdom",
+      "periodo": "c. 874–852 BC (reign of Ahab)"
+    },
+    {
+      "id": "asirios-samaria",
+      "nombre": "Assyrian settlers and deportees",
+      "descripcion": "After the conquest of Sargon II (722 BC), Samaria was repopulated with towns from Babylon, Cuta, Ava, Hamat and Sepharvaim. These settlers mixed the Yahwist cult with their own religious traditions, generating the syncretism described in 2 Kings 17:24-41.",
+      "religion": "Syncretism — Yahwism mixed with Mesopotamian and Syrian cults",
+      "periodo": "c. 722–539 BC"
+    },
+    {
+      "id": "profetas-samaria",
+      "nombre": "Northern prophetic communities",
+      "descripcion": "Elijah, Elisha and the sons of the prophets operated mainly in the territory of the Northern Kingdom. The tension between Yahwist prophecy and the court of Ahab and Jezebel generated the most dramatic narratives of the biblical prophetic cycle.",
+      "religion": "Yahwism prophetic — opposition to official court syncretism",
+      "periodo": "c. 870–722 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "omri-funda-samaria",
+      "titulo": "Omri founds the capital: the hill bought by two talents",
+      "fecha": "c. 880 BC",
+      "descripcion": "Omri, a general who came to the throne after a civil war, bought the hill of Semer from its owner for two talents of silver and founded a new city called Samaria. By founding the capital on purchased land with no tribal history, Omri avoided the loyalty disputes that would have arisen in any existing city. Archeology confirms an Iron II city built on virgin rock.",
+      "referencias": [
+        "1 Kgs 16:23-28"
+      ],
+      "personajes_clave": [
+        "omri"
+      ]
+    },
+    {
+      "id": "acab-jezabel-elias",
+      "titulo": "Elijah against Ahab: Naboth's vineyard and God's judgment",
+      "fecha": "c. 860 BC",
+      "descripcion": "Naboth the Jezreelite refused to sell his vineyard to King Ahab because it was a family inheritance. Jezebel organized a fraudulent trial that resulted in Naboth's stoning. When Ahab went to take possession of the vineyard, Elijah confronted him: In the place where the dogs licked Naboth's blood, the dogs will also lick your blood. The episode is the paradigmatic case of the prophetic defense of property rights.",
+      "referencias": [
+        "1 Kgs 21:1-29",
+        "1 Kgs 22:38"
+      ],
+      "personajes_clave": [
+        "elias",
+        "acab"
+      ]
+    },
+    {
+      "id": "caida-samaria",
+      "titulo": "The Siege of Sargon II: the end of the Northern Kingdom",
+      "fecha": "722 BC",
+      "descripcion": "After a three-year siege initiated by Shalmaneser V, Samaria fell to Sargon II of Assyria. Assyrian inscriptions record the deportation of 27,290 Israelites to Mesopotamia—the exile of the lost ten tribes. Sargon repopulated the region with settlers from other provinces. The kingdom that had lasted 200 years disappeared in a single year.",
+      "referencias": [
+        "2 Kgs 17:1-23",
+        "2 Kgs 18:9-12"
+      ],
+      "personajes_clave": [
+        "oseas-rey"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "omri",
+      "nombre": "Omri",
+      "rol": "Founder of the Omrid dynasty and the city of Samaria",
+      "periodo": "hierro_2",
+      "descripcion": "General of the Israelite army who came to the throne after a civil war and founded the most stable of the northern dynasties (four generations). Later Assyrian inscriptions continued to call the Northern Kingdom the home of Omri (Bit-Humri) even after its extinction. The Bible judges him negatively for his religious syncretism.",
+      "referencias": [
+        "1 Kgs 16:16-28"
+      ],
+      "ruta": [
+        "samaria"
+      ]
+    },
+    {
+      "id": "elias",
+      "nombre": "Elijah the Tishbite",
+      "rol": "Prophet of YHWH, adversary of Ahab and Jezebel",
+      "periodo": "hierro_2",
+      "descripcion": "Gilead prophet of mysterious origin who burst into Israel history as a force of nature. His ministry was a permanent confrontation with the court of Samaria. Jewish tradition makes him a precursor of the Messiah (Mal 4:5-6); the New Testament identifies him with John the Baptist.",
+      "referencias": [
+        "1 Kgs 17:1",
+        "1 Kgs 18:1-46",
+        "1 Kgs 19:1-18",
+        "2 Kgs 2:1-12"
+      ],
+      "ruta": [
+        "samaria",
+        "carmel_mount",
+        "beersheba",
+        "sinai"
+      ]
+    },
+    {
+      "id": "amos-profeta",
+      "nombre": "Amos of Tekoa",
+      "rol": "Prophet of social justice, first prophet writer",
+      "periodo": "hierro_2",
+      "descripcion": "Shepherd and sycamore keeper of Tekoa (Judah), sent to prophesy in the northern kingdom during the prosperity of Jeroboam II. His oracles against Samaria denounced that the economic prosperity of the elite was built on the exploitation of the poor. Amos was the first to articulate social justice as a first-order religious requirement.",
+      "referencias": [
+        "Amos 1:1",
+        "Amos 3:9-15",
+        "Amos 6:1-7",
+        "Amos 7:10-17"
+      ],
+      "ruta": [
+        "samaria",
+        "bethel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Samaria concentrates the most explosive religious tensions of the OT. A city founded ex nihilo by Omri, it reached its splendor under Ahab and Jezebel, when the cult of Baal of Sidon openly competed with Yahwism. The cycle of Elijah and Elisha was born from this confrontation. The writing prophets—Amos, Hosea, Micah—directed their harshest oracles against the court and people of Samaria. The fall to Assyria (722 BC) generated the mystery of the ten lost tribes.",
+    "religiones_presentes": [
+      "Yahwism official (northern kingdom, syncretist)",
+      "Cult of Baal by Sidon (introduced by Jezebel)",
+      "Cult of Asherah",
+      "Prophetic Yahwism (Elijah, Elisha, Amos, Hosea)",
+      "Assyrian-Yahwist syncretism (after 722 BC)"
+    ],
+    "mitos": [
+      {
+        "id": "diez-tribus-perdidas",
+        "nombre": "The Ten Lost Tribes by Israel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Reyes 17:1-23",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 110b; Midrash Bereshit Rabbah 73; Eldad ha-Dani (siglo IX)",
+          "descripcion": "The Talmudic debate revolves around whether the ten tribes will return in the messianic era. Some sources claim that they have already returned and assimilated; others maintain that they are beyond the Sambation River. Communities around the world claim descent from deported tribes.",
+          "similitudes": "The idea of ​​a dispersed people that maintains its identity is shared by various traditions.",
+          "diferencias": "Rabbinic Judaism is ambivalent about the physical reality of return; Most claimant communities have been viewed with skepticism.",
+          "significado_teologico": "The lost tribes are a symbol of the unfulfilled—or postponed—promise of the total restoration of Israel. His return is a condition of the full messianic era.",
+          "posible_relacion_cultural": "The Assyrian mass deportations are documented in inscriptions of Sargon II and are historically verifiable."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Santiago 1:1; Mateo 19:28",
+          "fuente_secundaria": "Ireneo de Lyon, Adversus Haereses",
+          "descripcion": "James's letter is addressed to the twelve dispersed tribes, using the twelve tribes scheme for the universal Christian community. Jesus promises his disciples that they will judge the twelve tribes of Israel at the renewal.",
+          "similitudes": "The restoration of the twelve tribes is an eschatological sign in both traditions.",
+          "diferencias": "Christianity tends to spiritualize the tribes as a figure of the universal Church.",
+          "significado_teologico": "The twelve tribes are a figure of the fullness of the people of God, fulfilled in the Christian community that transcends ethnicities.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sam_nt_h1",
+        "titulo": "The Samaritan at the Well by Jacob",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Jesus talks with a Samaritan woman next to Jacob's well; He reveals to him that he is the Messiah.",
+        "referencias": [
+          "John 4:1-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "samaritana"
+        ]
+      },
+      {
+        "id": "sam_nt_h2",
+        "titulo": "Philip evangelizes Samaria",
+        "fecha": "ca. 35 AD",
+        "descripcion": "Philip the deacon preaches in the city of Samaria; Multitudes believe and are baptized.",
+        "referencias": [
+          "Acts 8:5-8"
+        ],
+        "personajes_clave": [
+          "Felipe",
+          "Simón el Mago"
+        ]
+      },
+      {
+        "id": "sam_nt_h3",
+        "titulo": "Peter and John confirm the Samaritans",
+        "fecha": "ca. 35 AD",
+        "descripcion": "The apostles come down from Jerusalem to lay hands on the new believers from Samaria.",
+        "referencias": [
+          "Acts 8:14-17"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sam_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah who breaks ethnic barriers",
+        "periodo": "ca. 28 AD",
+        "descripcion": "He crossed Samaria and spoke with a woman, overcoming the taboo between Jews and Samaritans.",
+        "referencias": [
+          "John 4:4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sam_nt_p2",
+        "nombre": "The Samaritan",
+        "rol": "First registered evangelizer",
+        "periodo": "s. I AD",
+        "descripcion": "After his meeting with Jesus, he went to announce to his people that he had found the Messiah.",
+        "referencias": [
+          "John 4:28-30"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sam_nt_p3",
+        "nombre": "Philip the Evangelist",
+        "rol": "Deacon and missionary",
+        "periodo": "s. I AD",
+        "descripcion": "First missionary to take the gospel outside of Judea, to the Samaritan region.",
+        "referencias": [
+          "Acts 8:5"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Region with historical tension with the Jews; the NT makes it the scene of reconciliation and expansion of the gospel.",
+      "religiones_presentes": [
+        "samaritanism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "sam_nt_m1",
+          "nombre": "The good samaritan",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "The Samaritans were considered impure by the Jews due to their ethnic and cultural mix.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Samaritans were considered impure by the Jews due to their ethnic and cultural mix.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus uses a Samaritan as the hero of the parable of the neighbor, reversing ethnic prejudices.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus uses a Samaritan as the hero of the parable of the neighbor, reversing ethnic prejudices.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

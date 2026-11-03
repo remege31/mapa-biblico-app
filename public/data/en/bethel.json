@@ -1,0 +1,216 @@
+{
+  "id": "bethel",
+  "nombre": "Bethel",
+  "tipo": "ciudad",
+  "lat": 31.9305,
+  "lng": 35.221,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 82,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Middle Bronze Age — Patriarchal Period"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Canaan pre-conquest"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Tribal settlement"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Divided Kingdom"
+    }
+  ],
+  "descripcion_geo": "Bethel is located in the Benjamin Highlands, about 18 km north of Jerusalem, 880 meters above sea level. Located at the junction of two main routes—the north-south mountain route and the road descending to Jericho—it controlled access to the heart of Canaan. Its elevated position gave it visual dominance over fertile valleys and allowed communication with neighboring cities such as Ai and Mizpah.",
+  "altitud_m": 880,
+  "clima": "Mountain Mediterranean — dry, hot summers, cold winters with frequent rainfall. Annual rainfall reaches 550-650 mm, sufficient for dryland agriculture.",
+  "recursos": [
+    "Water (local springs and rock-cut cisterns)",
+    "Limestone (construction)",
+    "Terraced farmland",
+    "cattle pasture"
+  ],
+  "importancia_estrategica": "It controlled the road junction between Jerusalem and Shechem, and access from the coastal plain to the mountainous interior. Its height made it a natural defensive position. As a pre-Israelite religious center and later a royal sanctuary in the north, it concentrated political and priestly power simultaneously.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-bethel",
+      "nombre": "Canaanites of Light",
+      "descripcion": "The original name of Bethel was Luz, a Canaanite city of considerable size. Its inhabitants practiced fertility cults in high places. When Joseph's house was captured (Judges 1:22-26), an inhabitant showed them the entrance in exchange for his life.",
+      "religion": "Canaanite polytheism — worship of Baal and Asherah in bamot (altars in high places)",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "bethel-sacerdotes",
+      "nombre": "Priests of the royal sanctuary",
+      "descripcion": "Following the division of the kingdom (c. 930 BC), Jeroboam I installed a non-Levitical clergy in Bethel to serve the golden calf. The priest Amaziah, head of the sanctuary, confronted the prophet Amos and expelled him from the city (Am 7:10-17).",
+      "religion": "Syncretistic Yahwist cult — worship of YHWH in the form of a golden calf",
+      "periodo": "c. 930–722 BC (Northern Kingdom period)"
+    },
+    {
+      "id": "bethel-asirios",
+      "nombre": "Assyrian and Samaritan settlers",
+      "descripcion": "After the fall of Samaria (722 BC), the Assyrians repopulated the region with people from other provinces. An Israelite priest was sent back to Bethel to teach the new inhabitants the religion of the god of that land (2 Kgs 17:27-28).",
+      "religion": "Syncretism — mixture of Yahwist cult with Mesopotamian religious traditions",
+      "periodo": "c. 722–539 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-escalera",
+      "titulo": "Jacob's staircase: the threshold of heaven",
+      "fecha": "c. 1800 BC",
+      "descripcion": "Fleeing from his brother Esau, Jacob camped in Luz and slept with a stone for a pillow. In his dreams he saw a ladder that connected earth to heaven, along which angels went up and down. YHWH renewed the promises made to Abraham. Upon awakening, Jacob anointed the stone with oil, declared it the house of God, and promised tithes if it returned safely. The place was named Bethel. Later, upon returning from Paddan-Aram, God commanded him to return to Bethel, where Jacob buried his family's idols, received the name Israel, and built an altar.",
+      "referencias": [
+        "Gen 28:10-22",
+        "Gen 35:1-15"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "jeroboam-becerro",
+      "titulo": "The Golden Calf: The Shrine of the Divided Kingdom",
+      "fecha": "c. 930 BC",
+      "descripcion": "Following the death of Solomon and the secession of the ten northern tribes, Jeroboam I established two golden calves—one at Bethel and one at Dan—to prevent the people from making a pilgrimage to Jerusalem. The anonymous prophet of Judah who came to denounce the altar was devoured by a lion. Amos and Hosea prophesied against the sanctuary, calling it Beth-Aven (house of evil).",
+      "referencias": [
+        "1 Kgs 12:26-33",
+        "1 Kgs 13:1-32",
+        "Amos 7:10-17",
+        "Hos 10:5-8"
+      ],
+      "personajes_clave": [
+        "jeroboam",
+        "amos"
+      ]
+    },
+    {
+      "id": "elias-eliseo-bethel",
+      "titulo": "Elisha and the sons of the prophets",
+      "fecha": "c. 850 BC",
+      "descripcion": "Bethel housed a community of sons of the prophets, disciples organized under the leadership of Elijah and later Elisha. When Elisha was walking up the path from Jericho to Bethel, a group of boys insulted him. The prophetic community of Bethel served as a spiritual counterweight to the official cult of the royal sanctuary.",
+      "referencias": [
+        "2 Kgs 2:1-3",
+        "2 Kgs 2:23-25",
+        "2 Kgs 4:38-41"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob",
+      "nombre": "Jacob / Israel",
+      "rol": "Patriarch, eponymous founder of the town of Israel",
+      "periodo": "bronce_medio",
+      "descripcion": "Grandson of Abraham and son of Isaac, Jacob is the patriarch who receives in Bethel the vision that marks the beginning of his vocation. His name changes to Israel after fighting with the angel at Jabbok. In Bethel he buried his family's domestic idols, a sign of religious purification before renewing the pact.",
+      "referencias": [
+        "Gen 28:10-22",
+        "Gen 32:22-32",
+        "Gen 35:1-15"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "jeroboam",
+      "nombre": "Jeroboam I",
+      "rol": "First king of the Northern Kingdom (Israel)",
+      "periodo": "hierro_2",
+      "descripcion": "Former Solomon official who led the secession of the Ten Northern Tribes. His decision to install the golden calf in Bethel and Dan was condemned by the prophets as the sin of Jeroboam, a formula that the books of Kings repeat for each of his successors.",
+      "referencias": [
+        "1 Kgs 11:26-40",
+        "1 Kgs 12:20-33",
+        "1 Kgs 13:33-34"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "dan"
+      ]
+    },
+    {
+      "id": "amos",
+      "nombre": "Amos",
+      "rol": "Judah prophet sent to the northern kingdom",
+      "periodo": "hierro_2",
+      "descripcion": "A shepherd and sycamore keeper of Tekoa (Judah), Amos was called to prophesy in Bethel during the reign of Jeroboam II. His oracles against social injustice and empty worship caused the expulsion ordered by the priest Amaziah. His book is the oldest of the writing prophets.",
+      "referencias": [
+        "Amos 1:1",
+        "Amos 7:10-17",
+        "Amos 8:1-14"
+      ],
+      "ruta": [
+        "bethel"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bethel is one of the most religiously charged places in the Old Testament. Before Israel, it was already a place of worship Canaanite in Luz. Jacob's vision makes it the first sanctuary founded by a patriarch with an explicit theophoric name. This sacredness was appropriated by the northern kingdom to legitimize an alternative cult to Jerusalem, generating the tension that runs through the entire history of the place. The prophets Amos and Hosea called the sanctuary Beth-Aven (house of evil), inverting its name to indicate official idolatry. King Josiah destroyed the sanctuary and desecrated the altar (2 Kings 23:15-20), fulfilling the anonymous prophecy of the previous century.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism (Abraham, Jacob)",
+      "Polytheism Canaanite (pre-Israelite period)",
+      "Yahwism syncretist (cult of the golden calf, northern kingdom)",
+      "Yahwist prophetism (communities of children of the prophets)"
+    ],
+    "mitos": [
+      {
+        "id": "escalera-cielo",
+        "nombre": "The ladder of Jacob (Sulam Yaakov)",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 28:10-22",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 68-69; Zohar I, 149b",
+          "descripcion": "The staircase connects earth and sky; The angels who ascend and descend are interpreted in the Midrash as the guardian angels of the nations. The stone anointed by Jacob is identified with the foundation stone on which the Temple of Jerusalem was built.",
+          "similitudes": "The sacred stone and anointing with oil connect with betil stone traditions throughout the ancient Near East.",
+          "diferencias": "Unlike other stone cults, Jewish tradition shifts the sacredness of Bethel to Jerusalem, subordinating the northern sanctuary to the Temple.",
+          "significado_teologico": "Bethel as the gate of heaven establishes that the divine presence is not limited to one place, but is revealed wherever YHWH chooses to manifest.",
+          "posible_relacion_cultural": "The Mesopotamian ziggurat temples, stairs that linked earth and sky, are the closest cultural parallel."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Juan 1:51",
+          "fuente_secundaria": "Orígenes, Homilías sobre el Génesis; Agustín, Ciudad de Dios XVI",
+          "descripcion": "Jesus reinterprets Jacob's vision by referring to himself: You will see heaven open and the angels of God ascend and descend upon the Son of Man. The ladder is a figure of Christ as mediator between God and humanity.",
+          "similitudes": "The heaven-earth mediation structure is shared: both Jacob and Jesus are the point of contact between the divine and the human.",
+          "diferencias": "In the Christian tradition, the ladder does not point to a geographical place but to a person. Bethel loses geographical centrality in favor of Christology.",
+          "significado_teologico": "Christ as a new ladder or door to heaven meets and exceeds the symbolism of the sanctuary of Bethel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán — no menciona Betel explícitamente",
+          "fuente_secundaria": "Tafsir de Ibn Kathir sobre Yusuf; tradiciones sobre Yaqub",
+          "descripcion": "Islamic tradition recognizes Yaqub as a prophet and patriarch, but the vision of the ladder does not appear in the Quran. Exegetical traditions know history through Jewish and Christian sources.",
+          "similitudes": "The recognition of Jacob as a prophet and the importance of Canaan as a promised land are shared.",
+          "diferencias": "The Quran does not thematize Bethel or the ladder; The revelation to Yaqub is described generically without topographical details.",
+          "significado_teologico": "Bethel has no special relevance in Islamic theology; The holy land par excellence is Mecca and Jerusalem.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

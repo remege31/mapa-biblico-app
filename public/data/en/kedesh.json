@@ -1,0 +1,164 @@
+{
+  "id": "kedesh",
+  "nombre": "Cedes",
+  "tipo": "ciudad",
+  "lat": 33.11298357486105,
+  "lng": 35.53361334150225,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City of refuge in Naphtali, home of Barak"
+    }
+  ],
+  "descripcion_geo": "Conquered Canaanite city in northern Canaan, later designated as one of the six cities of refuge established throughout Israel, and also a Levitical city within the territory of Naphtali. Its dual legal and priestly function distinguishes it from other northern cities.",
+  "altitud_m": 480,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the north of Galilee.",
+  "recursos": [
+    "Legal status of city of refuge (asylum for involuntary murderers)",
+    "Levitical city within the territory of Naphtali",
+    "Galilee Northern Farmland"
+  ],
+  "importancia_estrategica": "Kedesh fulfills a unique legal-religious function in the Israelite legal system as one of the six cities of refuge (along with Shechem, Hebron, Beser, Ramoth de Gilead and Golan), where a person who had involuntarily killed another could flee to avoid immediate blood revenge until formally judged; It is also the home of Barak, the general who, together with Deborah, leads the liberation of Israel from the second Jabin of Hazor.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_kedesh",
+      "nombre": "Northern Canaanites",
+      "descripcion": "Original population of Kedesh, one of the Canaanite royal cities conquered by Joshua in the northern campaign, explicitly mentioned in the list of defeated kings.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "levitas_kedesh",
+      "nombre": "Levites of the line of Gershom",
+      "descripcion": "Levitical families settled in Kedesh as one of the priestly cities assigned within the territory of Naphtali.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-rey-kedesh",
+      "titulo": "Joshua defeats the king of Kedesh",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Kedesh appears in the list of the thirty-one Canaanites kings defeated by Joshua during the conquest of Canaan, confirming its status as an independent royal city-state before the Israelite occupation.",
+      "referencias": [
+        "Josh 12:22"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "kedesh-ciudad-refugio-levitica",
+      "titulo": "Kedesh designated city of refuge and Levitical city",
+      "fecha": "c. 1200 BC",
+      "descripcion": "In the territorial distribution, Cedes receives the double designation of a city of refuge for involuntary murderers and a Levitical city for the priestly families of the Gershon line, combining the legal function of asylum with a permanent priestly presence.",
+      "referencias": [
+        "Josh 20:7",
+        "Josh 21:32"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "barac-debora-kedesh",
+      "titulo": "Barac, originally from Cedes, leads the release of Israel",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Deborah specifically summons Barak, identified as 'from Kedesh of Naphtali', to lead the Israelite force of ten thousand men against Sisera, general of the second Jabin of Hazor, a victory commemorated at length in the Song of Deborah.",
+      "referencias": [
+        "Judg 4:6",
+        "Judg 4:10"
+      ],
+      "personajes_clave": [
+        "debora",
+        "barac"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_kedesh",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "Defeat the Canaanite king of Kedesh in his extensive campaign to conquer the north of Canaan, integrating the city into Israelite territory.",
+      "referencias": [
+        "Josh 12:22"
+      ],
+      "ruta": [
+        "kedesh"
+      ]
+    },
+    {
+      "id": "barac",
+      "nombre": "Barak",
+      "rol": "Israelite general, originally from Kedesh",
+      "periodo": "hierro_1",
+      "descripcion": "Summoned by the judge-prophetess Deborah from her hometown of Kedesh to lead the Israelite army against Sisera, general of Jabin of Hazor, in one of the most celebrated victories of the period of the Judges.",
+      "referencias": [
+        "Judg 4:6-16",
+        "Judg 5:1"
+      ],
+      "ruta": [
+        "kedesh",
+        "tabor_mount"
+      ]
+    },
+    {
+      "id": "homicidas_kedesh",
+      "nombre": "Beneficiaries of the Cedes shelter",
+      "rol": "Involuntary homicides protected by asylum law",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Israelis and resident foreigners who, after accidentally killing someone, could flee to Kedesh and other cities of refuge to avoid the immediate revenge of the 'blood avenger' until they received a formal trial.",
+      "referencias": [
+        "Josh 20:1-9"
+      ],
+      "ruta": [
+        "kedesh"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kedesh embodies the biblical institution of legal refuge as an expression of the balance between justice and mercy in the Israelite legal system: the combination of its function as a city of asylum and as a Levitical city suggests that the administration of this system of legal protection was directly linked to the priestly presence, integrating the legal and the religious in the same space dedicated to avoiding the shedding of innocent blood due to hasty revenge.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "ciudades-refugio-sistema-kedesh",
+        "nombre": "The system of cities of refuge as an institution of legal mercy",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 35:9-34; Jos 20:1-9",
+          "fuente_secundaria": "Mishná, tratado Makot (regulaciones detalladas sobre el funcionamiento de las ciudades de refugio); comentario rabínico sobre la distinción entre homicidio intencional y accidental",
+          "descripcion": "Jewish tradition elaborates at length on the specific regulations of the city of refuge system in the Mishnah, including details on the maintenance of clear paths to these cities and the communal responsibility for facilitating access, interpreting the entire system as a concrete institutional expression of compassionate justice that carefully distinguishes between intention and accident.",
+          "similitudes": "It shares with Christianity the recognition of the theological value of the refuge system as an expression of institutionalized mercy.",
+          "diferencias": null,
+          "significado_teologico": "The system of cities of refuge, including Kedesh, demonstrates that the Mosaic law incorporates deliberate mechanisms of mercy and due process, not just automatic retribution.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Num 35:9-34; Jos 20:1-9 (recepción tipológica patrística sobre el refugio como figura de Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos que interpretan las ciudades de refugio como prefiguración de Cristo como refugio espiritual definitivo",
+          "descripcion": "The Christian patristic tradition typologically reads the system of cities of refuge, including Kedesh, as an OT foretaste of Christ himself as a spiritual refuge for the sinner seeking to escape damnation, drawing a parallel between the physical legal protection of the Mosaic system and the spiritual protection offered in the New Testament.",
+          "similitudes": "It shares with the Jewish reading the recognition of the value of the system as an institution of mercy.",
+          "diferencias": "The Christian reading adds an explicit typological dimension that connects the legal system with the figure of Christ, absent in the Jewish interpretation focused on concrete legal application.",
+          "significado_teologico": "The cities of refuge become an Old Testament figure of the spiritual protection offered in Christ to those who seek to escape the judgment they deserve.",
+          "posible_relacion_cultural": "Christian reception of the Mosaic legal system typologically reinterpreted in a Christological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

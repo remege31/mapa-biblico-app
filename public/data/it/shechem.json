@@ -1,0 +1,190 @@
+{
+  "id": "shechem",
+  "nombre": "Sichem",
+  "tipo": "ciudad",
+  "lat": 32.2072,
+  "lng": 35.2786,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 65,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Età del Bronzo Medio – Periodo Patriarcale"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: città-stato cananea"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Centro tribale Israele"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Capitale di breve durata del Regno settentrionale"
+    }
+  ],
+  "descripcion_geo": "Sichem è situato nel cuore geografico di Canaan, al passo tra il Monte Ebal (940 m) e il Monte Gerizim (881 m), le due vette più importanti della catena montuosa centrale di Samaria. Questa posizione tra due montagne – teatro delle benedizioni e delle maledizioni dell'alleanza – ne fece il crocevia naturale delle direttrici nord-sud ed est-ovest dell'intero paese. Oggi corrisponde approssimativamente alla città di Nablus.",
+  "altitud_m": 500,
+  "clima": "Montagna mediterranea: più umida della Giudea. Precipitazioni di 600-700 mm all'anno. Il passaggio tra Ebal e Guerizim incanala i venti del Mediterraneo, generando microclimi favorevoli all'agricoltura.",
+  "recursos": [
+    "Acqua (sorgenti del passo tra Ebal e Garizim)",
+    "Il Pozzo Giacobbe (il più famoso della regione)",
+    "Fertile terreno agricolo nella valle",
+    "Uliveti e vigneti",
+    "Rotta commerciale strategica"
+  ],
+  "importancia_estrategica": "Hub di comunicazione del centro Canaan. La città che controllava Sichem controllava l'accesso tra nord e sud e tra il Mediterraneo e il Giordano. La sua posizione come primo luogo dove Abramo piantò un altare, primo luogo di assemblea tribale e prima capitale del regno settentrionale riflette la sua centralità politica e religiosa.",
+  "otros_habitantes": [
+    {
+      "id": "hivitas-siquem",
+      "nombre": "Hivites di Sichem",
+      "descripcion": "Gli Hiviti governarono Sichem quando Giacobbe arrivò con la sua famiglia. Il principe Hamor e suo figlio Sichem proposero l'integrazione attraverso matrimoni misti dopo l'episodio di Dinah. Simeone e Levi li massacrarono, approfittando del fatto che tutti gli uomini erano stati circoncisi, provocando l'ira di Giacobbe.",
+      "religion": "Politeismo Cananeo - culto di Baal-Berit (Signore dell'Alleanza), dio titolare del tempio di Sichem",
+      "periodo": "C. 1800–1200 a.C"
+    },
+    {
+      "id": "efraim-manase",
+      "nombre": "Tribù di Efraim e Manasse",
+      "descripcion": "Sichem fu lasciata nel territorio di Efraim e le fu assegnata come città di rifugio (Gs 20:7; 21:21). Le ossa di Giuseppe, portate da Egitto, furono sepolte nel campo di Hamor vicino a Sichem (Gs 24,32), completando il circolo narrativo dei patriarchi.",
+      "religion": "Yahvismo tribale - assemblea del patto in Sichem (Gsè 24)",
+      "periodo": "C. 1200–930 a.C"
+    },
+    {
+      "id": "samaritanos-guerizim",
+      "nombre": "Samaritani",
+      "descripcion": "Dopo la caduta di Samaria (722 a.C.), la popolazione mista sviluppò un proprio Yahwismo centrato sul monte Garizim. I Samaritani costruirono un tempio a Garizim distrutto da Giovanni Ircano (128 a.C.). La Samaritana nel Vangelo di Giovanni allude direttamente a questa controversia.",
+      "religion": "Yahvismo Samaritano — tempio sul monte Garizim, Pentateuco come unica Scrittura",
+      "periodo": "C. 722 a.C. in poi"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-primer-altar",
+      "titulo": "Il primo altare di Abramo in Canaan",
+      "fecha": "c. 1850 a.C.",
+      "descripcion": "Sichem è stato il primo luogo in cui Abramo si è fermato quando ha raggiunto Canaan, vicino al bosco di querce di Moré. Lì gli apparve YHWH e gli disse: Alla tua discendenza darò questo paese. Abramo ha costruito un altare, il primo menzionato in Canaan, prima di proseguire verso Betel. La quercia di Moreh, probabilmente un albero oracolare Cananeo, fu scelta dalla narrativa jahvista come il primo luogo di rivelazione nella terra promessa.",
+      "referencias": [
+        "Gen 12:6-7"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "asamblea-jos24",
+      "titulo": "La grande assemblea dell'alleanza: io e la mia casa serviremo il Signore",
+      "fecha": "c. 1180 a.C.",
+      "descripcion": "Alla fine della sua vita, Giosuè convocò tutte le tribù di Israele in Sichem per rinnovare l'alleanza con YHWH. Ha ripercorso la storia della salvezza da Abramo alla conquista e ha posto davanti al popolo una scelta: servire gli dei dei padri o YHWH. La risposta del popolo fu suggellata con una pietra eretta come testimone sotto la quercia del santuario.",
+      "referencias": [
+        "Gs 24:1-28"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "abimelec-rey",
+      "titulo": "Abimelech: il primo re di Israele e la favola degli alberi",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Abimelech, figlio di Gedeone, uccise settanta fratelli sulla stessa pietra e fu proclamato re presso il bosco di querce di Sichem. Suo fratello Jotham pronunciò la prima favola politica della Bibbia dal monte Garizim: gli alberi scelsero il re delle spine perché gli alberi buoni – ulivo, fico, vite – preferirono la propria vocazione. Sichem alla fine distrusse Abimelech, che morì quando una donna gli lanciò contro una macina.",
+      "referencias": [
+        "Gdc 9:1-57"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob-siquem",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca, proprietario del campo dove fu sepolto Giuseppe",
+      "periodo": "bronce_medio",
+      "descripcion": "Giacobbe comprò il campo vicino a Sichem dai figli di Hamor per cento pezzi d'argento. Là piantò la sua tenda ed eresse un altare che chiamò El-Elohe-Israele (Dio, il Dio di Israele). Il campo Giacobbe in Sichem è il luogo in cui le ossa di Giuseppe trovarono la loro ultima dimora, chiudendo il cerchio della saga patriarcale.",
+      "referencias": [
+        "Gen 33:18-20",
+        "Gen 34:1-31",
+        "Gs 24:32"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron"
+      ]
+    },
+    {
+      "id": "josue-siquem",
+      "nombre": "Giosuè",
+      "rol": "Conduttore dell'assemblea dell'alleanza",
+      "periodo": "bronce_tardio",
+      "descripcion": "Alla fine della sua vita, Giosuè scelse Sichem per la grande assemblea di rinnovamento del patto. Questa scelta conferma il peso simbolico della città: primo altare di Abramo, campo di Giacobbe, valico dei monti della benedizione e della maledizione. La pietra innalzata da Giosuè a testimonianza del patto è uno degli ultimi atti della conquista.",
+      "referencias": [
+        "Gs 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "roboam-siquem",
+      "nombre": "Roboamo",
+      "rol": "Ultimo re del regno unito, primo di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Roboamo è andato a Sichem perché tutto Israele era andato a nominarlo re. Quando si rifiutò di alleggerire gli oneri imposti da Salomone, le dieci tribù del nord si separarono sotto Geroboamo. La scissione del Regno Unito è avvenuta proprio in Sichem, luogo dove Giosuè aveva rinnovato il patto di unità.",
+      "referencias": [
+        "1 Re 12:1-19"
+      ],
+      "ruta": [
+        "shechem",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sichem è il centro geografico e teologico della promessa territoriale. È il primo luogo dove YHWH si rivela in Canaan (a Abramo), luogo della grande assemblea dell'alleanza (con Giosuè) e teatro della disgregazione politica del popolo (con Roboamo). La coppia di monti Ebal-Gerizim inquadra fisicamente la condizione dell'alleanza: la terra è dono e richiesta allo stesso tempo. Nel Nuovo Testamento, il Pozzo di Giacobbe è il luogo del dialogo di Gesù con la Samaritana.",
+    "religiones_presentes": [
+      "Politeismo Cananeo (culto di Baal-Berit nel tempio di Sichem)",
+      "Yahvismo patriarcale e di conquista",
+      "Samaritano Yahvismo (centrato sul Monte Garizim)",
+      "Ebraismo del Secondo Tempio"
+    ],
+    "mitos": [
+      {
+        "id": "guerizim-ebal",
+        "nombre": "Benedizioni in Garizim, maledizioni in Ebal",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deuteronomio 11:29-30; 27:11-26; Josué 8:30-35",
+          "fuente_secundaria": "Mishná, Sotá 7:5; Talmud Bavli, Sotá 32a-37b",
+          "descripcion": "Mosè ordinò che, entrando in Canaan, sei tribù si trovassero sul monte Garizim per pronunciare benedizioni e sei sul monte Ebal per maledire. Giosuè adempì il comando: costruì un altare a Ebal, offrì sacrifici e lesse tutta la Torah davanti al popolo.",
+          "similitudes": "Le cerimonie di benedizione e maledizione della montagna hanno paralleli nei rituali di rinnovamento del patto ittita.",
+          "diferencias": "La tradizione samaritana colloca l'altare nel Gerizim, non nell'Ebal; La differenza tra il Pentateuco masoretico e quello samaritano su questo punto è una delle più significative.",
+          "significado_teologico": "La terra promessa non è incondizionata: il suo possesso dipende dalla fedeltà all'alleanza. Il paesaggio stesso proclama questa condizione.",
+          "posible_relacion_cultural": "I trattati di vassallaggio ittiti della tarda età del bronzo includono elenchi di benedizioni e maledizioni comparabili per struttura e funzione."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

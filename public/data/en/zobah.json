@@ -1,0 +1,136 @@
+{
+  "id": "zobah",
+  "nombre": "Soba",
+  "tipo": "territorio",
+  "lat": 34.31,
+  "lng": 36.93,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Aramaic kingdom north of Damascus, between Lebanon and the Euphrates; power that David defeated in the expansion of his kingdom.",
+  "altitud_m": 600,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "trade",
+    "grazing",
+    "craft"
+  ],
+  "importancia_estrategica": "enemy Aramaic kingdom of David; His defeat extended Israelite dominion to the Euphrates.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sob_h1",
+      "titulo": "David defeats Hadadezer king of Zobah",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "David defeats King Hadadezer of Zoba, capturing 1,700 cavalry and 20,000 soldiers; the Arameans of Damascus come to the aid and are also defeated.",
+      "referencias": [
+        "2 Sam 8:3-8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h2",
+      "titulo": "Zobah's army in the Ammonite war",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "The Ammonites hire the army of Zobah to confront David; Joab defeats them on two fronts.",
+      "referencias": [
+        "2 Sam 10:6-19"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h3",
+      "titulo": "The copper of the Temple from Sobá",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "David took large quantities of bronze from the cities of Zoba; Solomon used that metal for the Temple utensils.",
+      "referencias": [
+        "1 Chr 18:8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Salomón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sob_p1",
+      "nombre": "Hadadezer",
+      "rol": "King of Soba",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "He was defeated twice by David; His metallic treasures ended up in the Temple of Jerusalem.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p2",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He defeated Zobah, extending Israelite dominion to the Euphrates, fulfilling his promise to Abraham.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p3",
+      "nombre": "Joab",
+      "rol": "David General",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He commanded the battle against Zobah's army on the Ammonite front.",
+      "referencias": [
+        "2 Sam 10:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sobá: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "sob_m1",
+        "nombre": "The metal of Sobá in the Temple",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The bronze of Zobah captured by David was melted to make the utensils of the Temple: the treasures of the defeated enemy serve the glory of God.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The bronze of Zobah captured by David was melted to make the utensils of the Temple: the treasures of the defeated enemy serve the glory of God.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

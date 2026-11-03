@@ -1,0 +1,136 @@
+{
+  "id": "brook_of_egypt",
+  "nombre": "Egypt Stream (Nahal Mitzraim)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.03,
+  "lng": 33.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Seasonal wadi (wadi) in the northern Sinai that marked the southern border of the promised land between Canaan and Egypt.",
+  "altitud_m": 0,
+  "clima": "arid",
+  "recursos": [
+    "seasonal water",
+    "grazing"
+  ],
+  "importancia_estrategica": "Southern border of the promised land; boundary between Israel and Egypt from Joshua to the prophets.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bro_h1",
+      "titulo": "The Egypt stream as the southern border",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "God sets the stream of Egypt as the southern border of the land promised to Abraham and Israel.",
+      "referencias": [
+        "Gen 15:18",
+        "Num 34:5"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "bro_h2",
+      "titulo": "The border of the kingdom by Solomon",
+      "fecha": "ca. 950 BC",
+      "descripcion": "The kingdom of Solomon extended from the stream of Egypt to the Euphrates, fulfilling the promise to Abraham.",
+      "referencias": [
+        "1 Kgs 8:65",
+        "2 Chr 7:8"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "bro_h3",
+      "titulo": "Josiah and the Brook by Egypt",
+      "fecha": "609 BC",
+      "descripcion": "Josiah's reform extended to the creek of Egypt, which was the southern boundary of what remained of Israel.",
+      "referencias": [
+        "2 Chr 35:20"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bro_p1",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "It received the indication of the Egypt stream as the southern border of the Israel inheritance.",
+      "referencias": [
+        "Num 34:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p2",
+      "nombre": "Solomon",
+      "rol": "King by Israel",
+      "periodo": "ca. 970-931 BC",
+      "descripcion": "His kingdom reached the creek of Egypt as its southern border, the territorial maximum of Israel.",
+      "referencias": [
+        "1 Kgs 8:65"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p3",
+      "nombre": "Josiah",
+      "rol": "reformer king",
+      "periodo": "640-609 BC",
+      "descripcion": "Its reform reached the Egypt stream.",
+      "referencias": [
+        "2 Chr 35:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Egypt Stream (Nahal Mitzraim): relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "bro_m1",
+        "nombre": "The promised frontier",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 15:18",
+          "fuente_secundaria": "",
+          "descripcion": "The brook of Egypt is the southern boundary of the land promised to Abraham (Gen 15:18); Solomon's maximum realm extent reached that limit.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The brook of Egypt is the southern boundary of the land promised to Abraham (Gen 15:18); Solomon's maximum realm extent reached that limit.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

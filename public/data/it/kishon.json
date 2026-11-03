@@ -1,0 +1,154 @@
+{
+  "id": "kishon",
+  "nombre": "Cison",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.761948,
+  "lng": 35.064096,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I - La sconfitta del fiume Sisera"
+    }
+  ],
+  "descripcion_geo": "Fiume che attraversa la piana di Izreel dalle sorgenti presso il monte Tabor per sfociare nel Mediterraneo presso il monte Carmelo, con portata stagionale ma capace di piene improvvise che ebbe un ruolo decisivo nella sconfitta dell'esercito di Sisara.",
+  "altitud_m": 50,
+  "clima": "Mediterraneo: estati calde e secche con alveo ridotto, inverni con piogge che possono produrre significative inondazioni improvvise.",
+  "recursos": [
+    "Corso fluviale stagionale che attraversa la pianura di Jezreel",
+    "Fattore decisivo nell'immobilizzazione dei carri di Sisera"
+  ],
+  "importancia_estrategica": "Il fiume Chison è l'elemento geografico decisivo nella vittoria di Debora e Barak su Sisera: un'improvvisa piena, forse causata da una tempesta, trasforma il terreno in un pantano che immobilizza i temibili carri di ferro Filistei, neutralizzando il principale vantaggio militare dell'esercito Cananeo e consentendo la vittoria israelita; Secoli dopo, è anche il luogo in cui Elia giustizia i profeti di Baal dopo lo scontro del Carmelo.",
+  "otros_habitantes": [
+    {
+      "id": "ejercito_sisara_kishon",
+      "nombre": "L'esercito di Sisera",
+      "descripcion": "Forze cananee con novecento carri di ferro, neutralizzate dalla piena del Cison che trasforma il terreno in un pantano impraticabile per i loro veicoli.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "C. 1150 a.C"
+    },
+    {
+      "id": "profetas_baal_kishon",
+      "nombre": "Profeti Baal giustiziati",
+      "descripcion": "Sacerdoti baalisti sconfitti nello scontro del Carmelo, giustiziati per ordine di Elia vicino al torrente Kishon.",
+      "religion": "Politeismo Cananeo: culto di Baal",
+      "periodo": "C. 860 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cantico-debora-cisón",
+      "titulo": "Il Cantico di Debora celebra il fiume Chison",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Il lungo poema commemorativo di Debora dedica versi specifici a celebrare come «li portò via il torrente Kishon, l'antico torrente, il torrente Kishon», attribuendo alla piena del fiume un ruolo quasi personificato nella provvidenziale sconfitta dell'esercito di Sisera.",
+      "referencias": [
+        "Gdc 5:21"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    },
+    {
+      "id": "derrota-sisara-cisón",
+      "titulo": "Il Kishon immobilizza i carri di Sisera",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Durante la battaglia decisiva contro l'esercito di Sisera, un'improvvisa piena del Kishon trasforma il campo in un pantano che rende inutili i novecento carri di ferro di Filistei, neutralizzando il decisivo vantaggio militare dell'esercito di Cananeo e permettendo al disarmato Israele di ottenere la vittoria.",
+      "referencias": [
+        "Gdc 4:15",
+        "Gdc 5:21"
+      ],
+      "personajes_clave": [
+        "barac"
+      ]
+    },
+    {
+      "id": "elias-ejecuta-profetas-kishon",
+      "titulo": "Elia giustizia i profeti di Baal a Kishon",
+      "fecha": "c. 860 a.C.",
+      "descripcion": "Dopo la dimostrazione pubblica della potenza di YHWH sul Monte Carmelo, Elia ordina la cattura dei quattrocentocinquanta profeti di Baal e li fa giustiziare personalmente presso il torrente Kishon, completando il giudizio sul culto idolatrico istituzionalizzato da Jezebel.",
+      "referencias": [
+        "1 Re 18:40"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_kishon",
+      "nombre": "Debora",
+      "rol": "Giudice e profetessa, autrice del canto commemorativo",
+      "periodo": "hierro_1",
+      "descripcion": "Attribuisce al fiume Kishon un ruolo quasi personificato e provvidenziale nella vittoria su Sisera nel suo ampio poema commemorativo della battaglia.",
+      "referencias": [
+        "Gdc 5:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sisara_kishon",
+      "nombre": "Sisera",
+      "rol": "Generale dell'esercito di Jabin Cananeo",
+      "periodo": "c. 1150 a.C.",
+      "descripcion": "Vede il suo principale vantaggio militare - i carri di ferro - neutralizzato dall'improvvisa inondazione del Kishon, un fattore decisivo che fa precipitare la sua sconfitta totale e la successiva fuga fino alla sua morte per mano di Jael.",
+      "referencias": [
+        "Gdc 4:15-16"
+      ],
+      "ruta": [
+        "kishon"
+      ]
+    },
+    {
+      "id": "elias_kishon",
+      "nombre": "Elia",
+      "rol": "Profeta di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Egli giustizia i profeti sconfitti di Baal insieme ai Chison dopo lo scontro del Carmelo, completando il giudizio sul culto idolatrico sponsorizzato dalla corte di Achab.",
+      "referencias": [
+        "1 Re 18:40"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "kishon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il fiume Chison è teatro di due provvidenziali vittorie sul culto di Cananeo separate da diversi secoli: prima come strumento naturale della sconfitta militare di Sisera, poeticamente presentata nel Cantico di Debora quasi come agente attivo del giudizio divino, e poi come luogo di esecuzione dei profeti di Baal dopo lo scontro del Carmelo, collegando entrambi gli episodi nella stessa geografia della vittoria jahvista sul potere organizzato Cananeo.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (forze sconfitte in entrambi gli episodi)"
+    ],
+    "mitos": [
+      {
+        "id": "torrente-providencial-kishon",
+        "nombre": "Il torrente Kishon come provvidenziale strumento di vittoria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 5:21; 1 Re 18:40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la personificación poética del Cisón en el Cántico de Débora como ejemplo de cómo los elementos naturales pueden convertirse en instrumentos activos del designio providencial de YHWH",
+          "descripcion": "La tradizione ebraica valorizza soprattutto la personificazione poetica del Chison nel Cantico di Debora - 'il torrente li travolse' - come esempio eloquente di come la natura stessa possa divenire agente del giudizio divino, interpretazione rafforzata secoli dopo quando lo stesso fiume ricompare come scena del giudizio finale sui profeti di Baal ai tempi di Elia.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il fiume Kishon esemplifica come elementi naturali apparentemente neutrali possano diventare strumenti attivi del disegno provvidenziale divino contro i nemici di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Fiume"
+}

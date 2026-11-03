@@ -1,0 +1,247 @@
+{
+  "id": "galatia",
+  "nombre": "Galazia",
+  "tipo": "territorio",
+  "lat": 39.64,
+  "lng": 32.74,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -278,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione centrale dell'Asia Minore, patria dei Galati (tribù celtiche emigranti). Provincia romana dal 25 a.C.",
+  "altitud_m": 900,
+  "clima": "continentale",
+  "recursos": [
+    "agricoltura",
+    "allevamento del bestiame",
+    "commercio"
+  ],
+  "importancia_estrategica": "Prima regione interna dell'Asia Minore evangelizzata da Paolo; destinatario della lettera ai Galati.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gal_h1",
+      "titulo": "Paolo evangelizza la Galacia nel primo viaggio",
+      "fecha": "ca. 47-48 d.C.",
+      "descripcion": "Paolo e Barnaba fondarono chiese a Antiochia di Pisidia, Iconio, Listra e Derbe, città della provincia di Galazia.",
+      "referencias": [
+        "At 13:14-14:23"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "gal_h2",
+      "titulo": "La lettera ai Galati: Libertà cristiana",
+      "fecha": "ca. 49 d.C.",
+      "descripcion": "Paolo scrive alle chiese della Galazia per difendere la giustificazione per fede contro i giudaizzanti.",
+      "referencias": [
+        "Gal 1:2",
+        "Gal 3:1"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "gal_h3",
+      "titulo": "Paolo conferma le chiese della Galazia",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Nel secondo viaggio, Paolo rafforza i discepoli della Galazia, visitando le città fondate nel primo viaggio.",
+      "referencias": [
+        "At 16:6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas",
+        "Timoteo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gal_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Ha evangelizzato la Galazia due volte; scrisse loro la lettera più polemica e teologicamente potente del Nuovo Testamento.",
+      "referencias": [
+        "Gal 1:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p2",
+      "nombre": "Timoteo",
+      "rol": "Discepolo di Listra",
+      "periodo": "s. I d.C.",
+      "descripcion": "Nato a Listra in Galazia; È diventato il discepolo preferito di Paolo.",
+      "referencias": [
+        "At 16:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p3",
+      "nombre": "Barnaba",
+      "rol": "Missionario",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ha accompagnato Paolo nella prima evangelizzazione della Galazia.",
+      "referencias": [
+        "At 13:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La Galazia fu il primo laboratorio della missione paolina alle genti; La lettera che Paolo ha scritto loro è la grande lettera della libertà cristiana.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "gal_m1",
+        "nombre": "Giustificazione per fede",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Di fronte ai giudaizzanti che chiedevano la circoncisione dei gentili, Paolo proclama in Galati che la giustificazione è solo mediante la fede in Cristo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Di fronte ai giudaizzanti che chiedevano la circoncisione dei gentili, Paolo proclama in Galati che la giustificazione è solo mediante la fede in Cristo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gal_nt_h1",
+        "titulo": "Il primo viaggio missionario: fondazione delle chiese dei Galati",
+        "fecha": "ca. 47-48 d.C.",
+        "descripcion": "Paolo e Barnaba fondarono le prime chiese nell'interno dell'Asia Minore in Galazia.",
+        "referencias": [
+          "At 13:14-14:23"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "gal_nt_h2",
+        "titulo": "La lettera ai Galati",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Paolo scrive la lettera più combattiva del Nuovo Testamento per difendere il vangelo della grazia contro i maestri giudaico-cristiani.",
+        "referencias": [
+          "Gal 1:6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gal_nt_h3",
+        "titulo": "Timoteo di Listra",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo preleva Timoteo, figlio di madre ebrea e padre greco, a Listra in Galazia, per il suo secondo viaggio.",
+        "referencias": [
+          "At 16:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Timoteo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gal_nt_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Fondatore delle chiese della Galazia; La sua lettera ricorda loro che sono stati liberati per la libertà.",
+        "referencias": [
+          "Gal 5:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_nt_p2",
+        "nombre": "Timoteo",
+        "rol": "Discepolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Nato a Listra in Galazia; Crebbe nella fede grazie al primo viaggio paolino.",
+        "referencias": [
+          "At 16:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_nt_p3",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cofondatore delle chiese dei Galati nel primo viaggio.",
+        "referencias": [
+          "At 13:14"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Galazia: crogiolo del vangelo della grazia e della fede, libera dalla legge.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "gal_nt_m1",
+          "nombre": "Libertà in Cristo",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Gal 5,1",
+            "fuente_secundaria": "",
+            "descripcion": "La lettera ai Galati è la dichiarazione di indipendenza del vangelo contro il legalismo: «Cristo ci ha liberati per la libertà» (Gal 5,1).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La lettera ai Galati è la dichiarazione di indipendenza del vangelo contro il legalismo: «Cristo ci ha liberati per la libertà» (Gal 5,1).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

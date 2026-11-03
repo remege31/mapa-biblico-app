@@ -1,0 +1,135 @@
+{
+  "id": "kibroth_hattaavah",
+  "nombre": "Kibrot-hataava",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Accampamento nel deserto il cui nome significa \"tombe del desiderio/avidità\"; luogo in cui Israele veniva punito per aver bramato la carne.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Accampamento nel deserto: le tombe di coloro che desideravano la carne.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kib_h1",
+      "titulo": "La gente brama la carne a Kibrot-hataavah",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Israele chiede carne; Dio manda quaglie in abbondanza ma colpisce il popolo con una grande piaga mentre la carne era ancora tra i denti.",
+      "referencias": [
+        "Nm 11:4-35"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    },
+    {
+      "id": "kib_h2",
+      "titulo": "Lo Spirito sui settanta anziani a Kibrot-hataavah",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Nello stesso campo, Dio estende sui settanta anziani lo Spirito che era su Mosè; Eldad e Medad profetizzano.",
+      "referencias": [
+        "Nm 11:24-30"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Eldad",
+        "Medad"
+      ]
+    },
+    {
+      "id": "kib_h3",
+      "titulo": "Il nome come memoriale del peccato",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Il luogo era chiamato Kibrot-hataava (\"tombe del desiderio\") perché lì erano sepolti coloro che avevano desiderato.",
+      "referencias": [
+        "Nm 11:34"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kib_p1",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Intercedette per il popolo stremato dal peso e accolse la promessa dei settanta anziani dello Spirito.",
+      "referencias": [
+        "Nm 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p2",
+      "nombre": "Giosuè",
+      "rol": "Mosè Aiutante",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Ha chiesto a Mosè di mettere a tacere Eldad e Medad; Mosè rispose: 'Se solo tutto il popolo di Dio profetizzasse!'",
+      "referencias": [
+        "Nm 11:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p3",
+      "nombre": "Eldad e Medad",
+      "rol": "Profeti del campo",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Profetizzavano nell'accampamento, sebbene non si fossero avvicinati alla tenda; Hanno ricevuto lo Spirito proprio come i settanta.",
+      "referencias": [
+        "Nm 11:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kibrot-hataava: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "kib_m1",
+        "nombre": "Le tombe del desiderio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Kibrot-hataava ricorda il pericolo dell'avidità: Israele ha ricevuto ciò che aveva chiesto ma ha pagato un prezzo elevato; Il desiderio incontrollato porta alla morte.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Kibrot-hataava ricorda il pericolo dell'avidità: Israele ha ricevuto ciò che aveva chiesto ma ha pagato un prezzo elevato; Il desiderio incontrollato porta alla morte.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

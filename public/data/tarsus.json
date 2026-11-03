@@ -1,0 +1,333 @@
+{
+  "id": "tarsus",
+  "nombre": "Tarso",
+  "tipo": "ciudad",
+  "lat": 36.92,
+  "lng": 34.89,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Ciudad en la llanura de Cilicia a orillas del río Cidno. Capital administrativa de la provincia de Cilicia; patria de Pablo.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tar_h1",
+      "titulo": "Pablo nace en Tarso de Cilicia",
+      "fecha": "ca. 5 a.C.",
+      "descripcion": "Pablo se identifica como 'ciudadano de Tarso de Cilicia, ciudad no insignificante'; nacido allí con ciudadanía romana.",
+      "referencias": [
+        "Hch 21:39",
+        "Hch 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h2",
+      "titulo": "La formación helenística de Pablo en Tarso",
+      "fecha": "ca. 5-14 d.C.",
+      "descripcion": "Tarso era conocida por su universidad y su filosofía estoica; la formación de Pablo en su ciudad natal influyó en su pensamiento.",
+      "referencias": [
+        "Historia; Hch 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h3",
+      "titulo": "Pablo regresa a Tarso tras su conversión",
+      "fecha": "ca. 37 d.C.",
+      "descripcion": "Después de su conversión y de escapar de Damasco, Pablo regresó a su ciudad natal de Tarso.",
+      "referencias": [
+        "Hch 9:30"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tar_p1",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "El gran misionero del NT nació y creció en Tarso; su ciudad natal moldeó su bilingüismo y ciudadanía romana.",
+      "referencias": [
+        "Hch 21:39"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p2",
+      "nombre": "Bernabé",
+      "rol": "Misionero",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fue a Tarso a buscar a Pablo para la misión de Antioquía.",
+      "referencias": [
+        "Hch 11:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p3",
+      "nombre": "Atenodoro",
+      "rol": "Filósofo estoico de Tarso",
+      "periodo": "ca. 74 a.C.-7 d.C.",
+      "descripcion": "Maestro estoico y amigo de Augusto; símbolo de la tradición filosófica de Tarso que formó el trasfondo intelectual de Pablo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pablo",
+      "nombre": "Pablo",
+      "rol": "Apóstol de los gentiles, misionero del Mediterráneo",
+      "periodo": "apostolico",
+      "descripcion": "Fariseo de Tarso convertido camino a Damasco. Sus cuatro grandes viajes llevaron el evangelio de Antioquía a Roma, fundando iglesias en Asia Menor, Macedonia y Grecia.",
+      "referencias": [
+        "Hch 9:1-19",
+        "Hch 13–28"
+      ],
+      "ruta": [
+        "tarsus",
+        "antioch",
+        "ephesus",
+        "corinth",
+        "rome"
+      ],
+      "viajes": [
+        {
+          "nombre": "Primer viaje misionero",
+          "ruta": [
+            "antioch",
+            "cyprus",
+            "perge",
+            "antioch_pisidia",
+            "iconium",
+            "lystra",
+            "derbe",
+            "perge",
+            "antioch"
+          ],
+          "referencias": [
+            "Hch 13:1–14:28"
+          ]
+        },
+        {
+          "nombre": "Segundo viaje misionero",
+          "ruta": [
+            "antioch",
+            "cilicia",
+            "lystra",
+            "troas",
+            "philippi",
+            "thessalonica",
+            "berea",
+            "athens",
+            "corinth",
+            "ephesus",
+            "caesarea",
+            "jerusalen",
+            "antioch"
+          ],
+          "referencias": [
+            "Hch 15:36–18:22"
+          ]
+        },
+        {
+          "nombre": "Tercer viaje misionero",
+          "ruta": [
+            "antioch",
+            "galatia",
+            "phrygia",
+            "ephesus",
+            "macedonia",
+            "greece",
+            "troas",
+            "miletus",
+            "tyre",
+            "caesarea",
+            "jerusalen"
+          ],
+          "referencias": [
+            "Hch 18:23–21:17"
+          ]
+        },
+        {
+          "nombre": "Viaje a Roma",
+          "ruta": [
+            "caesarea",
+            "crete",
+            "malta",
+            "syracuse",
+            "puteoli",
+            "rome"
+          ],
+          "referencias": [
+            "Hch 27:1–28:16"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tarso: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "tar_m1",
+        "nombre": "Tarso: ciudad que formó al apóstol",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Tarso, con su tradición estoica y su ciudadanía romana, formó a Pablo como el puente perfecto entre el mundo judío y el greco-romano.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tarso, con su tradición estoica y su ciudadanía romana, formó a Pablo como el puente perfecto entre el mundo judío y el greco-romano.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tar_h1",
+        "titulo": "Pablo nace en Tarso de Cilicia",
+        "fecha": "ca. 5 a.C.",
+        "descripcion": "Pablo se identifica como 'ciudadano de Tarso de Cilicia, ciudad no insignificante'; nacido allí con ciudadanía romana.",
+        "referencias": [
+          "Hch 21:39",
+          "Hch 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h2",
+        "titulo": "La formación helenística de Pablo en Tarso",
+        "fecha": "ca. 5-14 d.C.",
+        "descripcion": "Tarso era conocida por su universidad y su filosofía estoica; la formación de Pablo en su ciudad natal influyó en su pensamiento.",
+        "referencias": [
+          "Historia; Hch 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h3",
+        "titulo": "Pablo regresa a Tarso tras su conversión",
+        "fecha": "ca. 37 d.C.",
+        "descripcion": "Después de su conversión y de escapar de Damasco, Pablo regresó a su ciudad natal de Tarso.",
+        "referencias": [
+          "Hch 9:30"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tar_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "El gran misionero del NT nació y creció en Tarso; su ciudad natal moldeó su bilingüismo y ciudadanía romana.",
+        "referencias": [
+          "Hch 21:39"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p2",
+        "nombre": "Bernabé",
+        "rol": "Misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fue a Tarso a buscar a Pablo para la misión de Antioquía.",
+        "referencias": [
+          "Hch 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p3",
+        "nombre": "Atenodoro",
+        "rol": "Filósofo estoico de Tarso",
+        "periodo": "ca. 74 a.C.-7 d.C.",
+        "descripcion": "Maestro estoico y amigo de Augusto; símbolo de la tradición filosófica de Tarso que formó el trasfondo intelectual de Pablo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Tarso en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "tar_m1",
+          "nombre": "Tarso: ciudad que formó al apóstol",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Tarso, con su tradición estoica y su ciudadanía romana, formó a Pablo como el puente perfecto entre el mundo judío y el greco-romano.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tarso, con su tradición estoica y su ciudadanía romana, formó a Pablo como el puente perfecto entre el mundo judío y el greco-romano.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

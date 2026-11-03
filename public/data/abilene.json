@@ -1,0 +1,240 @@
+{
+  "id": "abilene",
+  "nombre": "Abilene",
+  "tipo": "territorio",
+  "lat": 33.55,
+  "lng": 36.19,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Pequeño territorio al noroeste de Damasco en las laderas del Antilíbano, gobernado por el tetrarca Lisanias en la época de Juan el Bautista.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "abi_h1",
+      "titulo": "Lisanias tetrarca de Abilene en el NT",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Lucas data el comienzo del ministerio de Juan el Bautista mencionando que 'Lisanias era tetrarca de Abilene'.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    },
+    {
+      "id": "abi_h2",
+      "titulo": "Abilene bajo Herodes Agripa",
+      "fecha": "ca. 37-44 d.C.",
+      "descripcion": "El territorio de Abilene fue dado por el emperador Calígula a Herodes Agripa I.",
+      "referencias": [
+        "Historia"
+      ],
+      "personajes_clave": [
+        "Herodes Agripa I"
+      ]
+    },
+    {
+      "id": "abi_h3",
+      "titulo": "Abilene: territorio de transición",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Abilene marca el límite nororiental de la región de influencia herodiana en el NT.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "personajes_clave": [
+        "Lisanias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abi_p1",
+      "nombre": "Lisanias",
+      "rol": "Tetrarca de Abilene",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "Su mención en Lucas 3:1 es un dato histórico clave para fechar el inicio del ministerio de Juan el Bautista.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "abi_p2",
+      "nombre": "Herodes Agripa I",
+      "rol": "Rey de Judea",
+      "periodo": "41-44 d.C.",
+      "descripcion": "Recibió Abilene como parte de su reino.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "abi_p3",
+      "nombre": "Juan el Bautista",
+      "rol": "Profeta precursor",
+      "periodo": "ca. 5 a.C.-29 d.C.",
+      "descripcion": "Su ministerio comienza mientras Lisanias gobierna Abilene.",
+      "referencias": [
+        "Lc 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Abilene: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "abi_m1",
+        "nombre": "El cronista Lucas",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Lucas lista seis gobernantes simultáneos (incluyendo a Lisanias de Abilene) para anclar el inicio del evangelio en la historia universal.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Lucas lista seis gobernantes simultáneos (incluyendo a Lisanias de Abilene) para anclar el inicio del evangelio en la historia universal.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "abi_h1",
+        "titulo": "Lisanias tetrarca de Abilene en el NT",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Lucas data el comienzo del ministerio de Juan el Bautista mencionando que 'Lisanias era tetrarca de Abilene'.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "personajes_clave": [
+          "Juan el Bautista"
+        ]
+      },
+      {
+        "id": "abi_h2",
+        "titulo": "Abilene bajo Herodes Agripa",
+        "fecha": "ca. 37-44 d.C.",
+        "descripcion": "El territorio de Abilene fue dado por el emperador Calígula a Herodes Agripa I.",
+        "referencias": [
+          "Historia"
+        ],
+        "personajes_clave": [
+          "Herodes Agripa I"
+        ]
+      },
+      {
+        "id": "abi_h3",
+        "titulo": "Abilene: territorio de transición",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Abilene marca el límite nororiental de la región de influencia herodiana en el NT.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "personajes_clave": [
+          "Lisanias"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "abi_p1",
+        "nombre": "Lisanias",
+        "rol": "Tetrarca de Abilene",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Su mención en Lucas 3:1 es un dato histórico clave para fechar el inicio del ministerio de Juan el Bautista.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "abi_p2",
+        "nombre": "Herodes Agripa I",
+        "rol": "Rey de Judea",
+        "periodo": "41-44 d.C.",
+        "descripcion": "Recibió Abilene como parte de su reino.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "abi_p3",
+        "nombre": "Juan el Bautista",
+        "rol": "Profeta precursor",
+        "periodo": "ca. 5 a.C.-29 d.C.",
+        "descripcion": "Su ministerio comienza mientras Lisanias gobierna Abilene.",
+        "referencias": [
+          "Lc 3:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Abilene en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "abi_m1",
+          "nombre": "El cronista Lucas",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Lucas lista seis gobernantes simultáneos (incluyendo a Lisanias de Abilene) para anclar el inicio del evangelio en la historia universal.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Lucas lista seis gobernantes simultáneos (incluyendo a Lisanias de Abilene) para anclar el inicio del evangelio en la historia universal.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

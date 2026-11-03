@@ -1,0 +1,173 @@
+{
+  "id": "pisgah",
+  "nombre": "Pisgah",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.762831,
+  "lng": 35.71856575741812,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Comparte coordenadas con Peor — son cumbres vecinas de la misma cordillera de Abarim, en Moab, frente a Jericó.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Final Vision of Moses, Oracles of Balaam"
+    }
+  ],
+  "descripcion_geo": "Mountain range in Moab, east of the Jordan, opposite Jericho, part of the Abarim mountain range. Its summit, identified with Mount Nebo, offers a panoramic view of the entire land of Canaan, from Gilead to the Mediterranean Sea and Negev.",
+  "altitud_m": 710,
+  "clima": "Semi-arid highland — hot, dry summers, cold winters, with unobstructed views of the Jordan Valley and beyond.",
+  "recursos": [
+    "Privileged panoramic point over the entire land of Canaan",
+    "Elevated position of symbolic and strategic value for observation"
+  ],
+  "importancia_estrategica": "Pisgá is the place from where Moses contemplates the promised land that he will not be able to set foot on, narratively closing the entire cycle of the Exodus; It is also one of the points from which Balak leads Balaam in the hope that he will curse Israel, and from which Balaam instead pronounces blessings.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_pisgah",
+      "nombre": "Moab Population",
+      "descripcion": "Inhabitants of the kingdom of Moab in whose territory the Pisga mountain range is located, under the rule of Balak at the time of Balaam's oracles.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "israelitas_pisgah",
+      "nombre": "Israel of the exodus",
+      "descripcion": "People camped nearby, watched from the summit of Pisgah by Balaam during Balak's attempts to obtain a curse against them.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "balac-balaam-pisgah",
+      "titulo": "Balak takes Balaam to the top of Pisgah",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After two failed attempts to obtain a curse against Israel from other places, Balak takes Balaam to the summit of Pisgah, from where he can see part of the Israelite camp, hoping that from that angle Balaam will finally pronounce a curse.",
+      "referencias": [
+        "Num 23:14-17"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "tercer-oraculo-balaam-pisgah",
+      "titulo": "Balaam's third blessing oracle",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "From Pisgah, instead of Balak's expected curse, Balaam pronounces a new oracle of blessing upon Israel, describing their tents as beautiful 'like spreading streams, like gardens by the river', confirming that he cannot reverse the blessing that YHWH has pronounced upon the people.",
+      "referencias": [
+        "Num 24:1-9"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "moises-vision-pisgah",
+      "titulo": "Moses contemplates the promised land from Pisga",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "By YHWH's instruction, Moses climbs to the summit of Pisgah (identified with Nebo) to contemplate the entire extent of the promised land that he will not be allowed to tread due to his lack of faith in the waters of Meribah; There he dies, and is buried by YHWH himself in a place that no one knows to this day.",
+      "referencias": [
+        "Deut 34:1-7"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_pisgah",
+      "nombre": "Moses",
+      "rol": "Lawgiver and liberator of Israel",
+      "periodo": "bronce_tardio",
+      "descripcion": "From the summit of Pisgah he contemplates the entire promised land that his people will inhabit, without being able to enter himself, thus closing his mission as liberator at the very threshold of the fulfillment of the promise.",
+      "referencias": [
+        "Deut 34:1-7"
+      ],
+      "ruta": [
+        "shittim",
+        "pisgah"
+      ]
+    },
+    {
+      "id": "balaam_pisgah",
+      "nombre": "Balaam",
+      "rol": "Seer hired by Balac",
+      "periodo": "bronce_tardio",
+      "descripcion": "From the summit of Pisgah he pronounces his third oracle of blessing on Israel, instead of the curse that Balak expected, confirming the impossibility of reversing the divine blessing.",
+      "referencias": [
+        "Num 23:14-24:9"
+      ],
+      "ruta": [
+        "pisgah",
+        "peor"
+      ]
+    },
+    {
+      "id": "balac_pisgah",
+      "nombre": "Balak",
+      "rol": "King by Moab",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He takes Balaam successively to different high points, including Pisgah, in the hope of obtaining an effective curse against Israel from some angle, without success in any of the attempts.",
+      "referencias": [
+        "Num 23:13-17"
+      ],
+      "ruta": [
+        "pisgah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pisgah functions as a double theological threshold: on the one hand, the place where the word of a foreign seer hired to curse Israel is involuntarily transformed into a blessing, confirming the inviolability of divine election; on the other, the place where the liberator of Israel contemplates, without being able to physically reach, the fulfillment of the promise that has guided his entire mission, establishing a powerful biblical motif about the limits of even the greatest leaders in the face of divine design.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "vision-moises-pisgah-mito",
+        "nombre": "The final vision of Moses from Pisgá",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 34:1-7",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 13b-14a (sobre la muerte de Moisés 'por boca de YHWH' y su sepultura desconocida)",
+          "descripcion": "Rabbinic tradition extensively develops the death of Moses at Pisga-Nebo as unique of its kind—'by the mouth of YHWH' (with a divine kiss, according to the traditional interpretation)—and discusses the significance of his burial remaining unknown, thus avoiding any possible cult of the place or figure of Moses himself.",
+          "similitudes": "It shares with Christianity and Islam the recognition of Moses as a supreme prophetic figure whose life culminates on this mountain.",
+          "diferencias": null,
+          "significado_teologico": "The vision without possession symbolizes that fidelity to the divine plan does not always include the complete personal enjoyment of the promise, a principle later applied to other figures of faith in the biblical tradition.",
+          "posible_relacion_cultural": "Shared tradition of Moses as a foundational prophet in all three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Deut 34:1-7 (recepción tipológica neotestamentaria); Mt 17:1-8 (aparición de Moisés en la Transfiguración)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la limitación de Moisés y la ley frente al cumplimiento pleno en Cristo",
+          "descripcion": "Christian tradition reads the impossibility of Moses to enter the promised land in a typological key as a symbol of the limits of the Mosaic law, which needs to be 'completed' by a later figure (Joshua/Jesus, same name in Hebrew), a motif taken up in the appearance of Moses next to Elijah in the Transfiguration of Jesus.",
+          "similitudes": "Share the appreciation of Moses as the supreme prophetic figure of the Old Testament.",
+          "diferencias": "The Christian typological reading introduces a Christological typological dimension (law vs. grace, Moses vs. Joshua/Jesus) absent in the Jewish and Islamic reading of the episode.",
+          "significado_teologico": "The vision without entry is interpreted as a anticipation of the need for a later and greater fulfillment of the promise, associated in the Christian reading with the ministry of Christ.",
+          "posible_relacion_cultural": "Shared tradition of Moses as a foundational prophet common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Tradición islámica extracoránica sobre la muerte de Musa (Moisés) cerca de la tierra santa",
+          "fuente_secundaria": "Hadices que narran el relato de la muerte de Musa y su deseo de ser acercado a la tierra santa",
+          "descripcion": "The Islamic tradition preserves stories about the death of Musa in the vicinity of the promised land, without entering it, in general lines compatible with the biblical story, although without developing the specific topography of Mount Pisga-Nebo with the same detail as the Hebrew text.",
+          "similitudes": "Shared recognition of Musa as a major prophet who fails to enter the promised land.",
+          "diferencias": "Islamic tradition does not develop the specific panoramic scene from Pisgah with the same geographical detail as the biblical account of Deuteronomy.",
+          "significado_teologico": "The figure of Musa is integrated into the prophetic chain recognized by Islam, with emphasis on his status as one of the major prophets (ulu al-azm).",
+          "posible_relacion_cultural": "Shared recognition of Musa/Moses as a foundational prophet in the common Abrahamic tradition."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Plateau"
+}

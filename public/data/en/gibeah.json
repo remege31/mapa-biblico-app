@@ -1,0 +1,175 @@
+{
+  "id": "gibeah",
+  "nombre": "Gibeah",
+  "tipo": "ciudad",
+  "lat": 31.8517,
+  "lng": 35.1995,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 35,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Tribal capital of Benjamin, city of Saul"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — City of the tribe of Benjamin"
+    }
+  ],
+  "descripcion_geo": "Gibeah (today Jaba or Tell el-Ful, north of Jerusalem) sits in the tribe of Benjamin, about 5 km north of Jerusalem. It was the hometown and capital of Saul, first king of Israel. The archaeological excavations at Tell el-Ful discovered an Iron I fortress that could correspond to the palace-fortress of Saul.",
+  "altitud_m": 843,
+  "clima": "Mountain Mediterranean — similar to Jerusalem. Precipitation of 500-600 mm annually, cool winters, dry summers.",
+  "recursos": [
+    "Terraced agricultural land",
+    "Water (tanks)",
+    "Elevated defensive position with visibility over main routes"
+  ],
+  "importancia_estrategica": "Saul's hometown and first capital of Israel's kingdom. Gibeah controlled the routes between Jerusalem and northern Benjamin. Its darkest story—the crime of the Levite's concubine—was the trigger for the near-extinction of the tribe of Benjamin and the model for the collective judgment on intra-community evil.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-gibeah",
+      "nombre": "Benjaminites of Gibeah",
+      "descripcion": "The inhabitants of Gibeah are described in Judges 19-20 as sons of Belial (wicked men) who committed the crime that sparked the civil war between Israel and Benjamin. The parallel with the story of Sodom (Gen 19) is explicit: the mob surrounding the house, the demand to hand over the visitor, the handing over of the concubine. The tribe of Benjamin was nearly exterminated for refusing to hand over the guilty.",
+      "religion": "Yahwism tribal of Benjamin, with serious moral deviations according to the text",
+      "periodo": "c. 1150–1100 BC"
+    },
+    {
+      "id": "guardia-saul",
+      "nombre": "Saul guard and cut",
+      "descripcion": "As the hometown and residence of Saul, Gibeah was home to Israel's first royal court. The palace-fortress of Saul—tentatively identified with the fortress excavated at Tell el-Ful—was the seat of royal power. David played the harp for Saul in Gibeah before becoming his rival. The sons of Saul and his general Abner were also based there.",
+      "religion": "Royal Yahwism — official cult under the first Israelite monarchy",
+      "periodo": "c. 1025–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "crimen-gibeah",
+      "titulo": "The crime of Gibeah: the Levite's concubine",
+      "fecha": "c. 1150 BC",
+      "descripcion": "A Levite traveling with his concubine spent the night in Gibeah, a Benjaminite city. The men of the city surrounded the house demanding the guest. The Levite handed over his concubine, who was abused all night and found dead at dawn. The Levite dismembered his body into twelve parts and sent them to the twelve tribes of Israel as a summons for judgment. The crime triggered the most devastating civil war of the period of the judges: the near extinction of the tribe of Benjamin. The episode is the darkest in the book of Judges and closes the book with the phrase: In those days there was no king in Israel; each one did what he wanted.",
+      "referencias": [
+        "Judg 19:1-30",
+        "Judg 20:1-48",
+        "Judg 21:1-25"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "saul-gibeah",
+      "titulo": "Saul in Gibeah: the peasant king",
+      "fecha": "c. 1025 BC",
+      "descripcion": "Saul, anointed king by Samuel, returned to his home in Gibeah as if nothing had happened, accompanied only by a few brave men. When the Ammonites threatened Jabez of Gilead and the messengers arrived at Gibeah, Saul was plowing his fields. The Spirit of YHWH took possession of him: he butchered his oxen, sent them to the tribes as a military summons, and gathered an army of 330,000 men. The image of the peasant king who abandons the plow to become a warrior is an archetype of charismatic leadership.",
+      "referencias": [
+        "1 Sam 10:26-11:15"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "david-saul-gibeah",
+      "titulo": "David in the court of Saul: the harpist who became a rival",
+      "fecha": "c. 1015 BC",
+      "descripcion": "When the evil spirit was tormenting Saul, his servants recommended that he find a man who knew how to play the harp to calm him down. One of them knew David, son of Jesse from Bethlehem, who was brave, a warrior, eloquent, good-looking, and YHWH was with him. David was taken to Gibeah, he played the harp for Saul and the evil spirit's attacks stopped. Saul loved him very much and made him his armor bearer. The initial friendship between Saul and David in Gibeah would turn into a tragic rivalry that would last decades.",
+      "referencias": [
+        "1 Sam 16:14-23"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul",
+      "nombre": "Saul ben Quis",
+      "rol": "First king of Israel, native of Gibeah",
+      "periodo": "hierro_1",
+      "descripcion": "Benjaminite from a humble family, Saul was anointed first king of Israel by Samuel in response to the clamor of the people. Tall, handsome and charismatic, he began with brilliant military victories but his reign deteriorated due to disobedience to divine commands transmitted by Samuel. His envy of David, his episodes of irrational violence, and his consultation with the medium of Endor paint a portrait of a chosen man who loses the election, tragic in the classic sense.",
+      "referencias": [
+        "1 Sam 9:1-10:27",
+        "1 Sam 13:1-14",
+        "1 Sam 28:1-25",
+        "1 Sam 31:1-13"
+      ],
+      "ruta": [
+        "gibeah",
+        "hebron",
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "david-gibeah",
+      "nombre": "David",
+      "rol": "Harper at the court of Saul, future king",
+      "periodo": "hierro_2",
+      "descripcion": "David's first presence in Gibeá was as a therapeutic musician for Saul. The image of the shepherd-poet who calms the tormented king with his harp is one of the most beautiful paintings in Davidic history. This initial phase of favor soon turned into rivalry as David began to excel militarily. The friendship with Jonathan, son of Saul, was the only bond that survived the breakup.",
+      "referencias": [
+        "1 Sam 16:14-23",
+        "1 Sam 18:1-16",
+        "1 Sam 20:1-42"
+      ],
+      "ruta": [
+        "bethlehem",
+        "gibeah",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jonatan",
+      "nombre": "Jonathan ben Saul",
+      "rol": "Warrior prince, faithful friend of David",
+      "periodo": "hierro_1",
+      "descripcion": "Jonathan, Saul's eldest son and natural heir to the throne, chose friendship with David over his own dynastic interests. His covenant with David—Jonathan's soul became united with David's soul, and he loved him as himself—is the biblical model of loyal friendship. He died alongside his father on Mount Gilboa fighting against the Philistines. David's lament for Saul and Jonathan is the most beautiful elegy in the OT.",
+      "referencias": [
+        "1 Sam 18:1-4",
+        "1 Sam 20:1-42",
+        "2 Sam 1:17-27"
+      ],
+      "ruta": [
+        "gibeah",
+        "gilboa_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibeah is the city of the first king and the crime that almost extinguished a tribe. His story embodies both sides of the book of Judges: the moral chaos when there is no king and the ambiguity of the first monarchical experiment. Saul, the Benjaminite king of Gibeah, is the quintessential tragic figure of the OT: chosen, charismatic, victorious, then abandoned by the Spirit that had invested him. His failure sets the stage for David's success, and his story is the most psychologically complex of all biblical literature before the prophets.",
+    "religiones_presentes": [
+      "Yahwism tribal of Benjamin (period of judges)",
+      "Royal Yahwism — first Israelite monarchy under Saul"
+    ],
+    "mitos": [
+      {
+        "id": "saul-espiritu",
+        "nombre": "The spirit of YHWH on Saul: the charismatic king and his shadow",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 10:9-11; 16:14; 18:10-11",
+          "fuente_secundaria": "Talmud Bavli, Yoma 22b; Midrash Shmuel 15; Maimónides, Hilkhot Teshuvá 6:3",
+          "descripcion": "The Talmudic debate over Saul revolves around whether he lost his divine election by actual sin or by inevitable decree. Maimonides uses it as an example of the tension between free will and providence. The formula the spirit of YHWH departed from Saul and an evil spirit tormented him generated debates about the nature of psychological evil and divine responsibility.",
+          "similitudes": "The fallen charismatic king has parallels in traditions of other peoples of the ancient East.",
+          "diferencias": "Unlike the divine kings of the ancient East, Saul is a chosen man who can be rejected. His fall is not inevitable but a consequence of his decisions.",
+          "significado_teologico": "The divine spirit does not guarantee permanence: the election can be withdrawn. The king is not sacred in himself but as faithful to the divine command.",
+          "posible_relacion_cultural": "The concept of a spirit temporarily possessing the charismatic leader (shofet, king) parallels the Assyrian concept of melammu (royal aura) and the Egyptian ka."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

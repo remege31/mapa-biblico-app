@@ -1,0 +1,143 @@
+{
+  "id": "zin",
+  "nombre": "Zin Desert",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Desert in the south of Canaan between Negev and Sinai; Israel pilgrimage route and headquarters of Kadesh-Barnea.",
+  "altitud_m": 400,
+  "clima": "arid",
+  "recursos": [
+    "spring water in Kadesh",
+    "grazing"
+  ],
+  "importancia_estrategica": "Territory traveled by Israel in the desert; Miriam died there and Moses sinned by striking the rock.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zin_h1",
+      "titulo": "Israel in the Zin Desert",
+      "fecha": "ca. 1260-1220 BC",
+      "descripcion": "The congregation of Israel arrives in the desert of Zin in the first month; Miriam dies there and the town has no water.",
+      "referencias": [
+        "Num 20:1"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "zin_h2",
+      "titulo": "Spies explore from Zin",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "The twelve spies set out from the desert of Zin to the north to explore Canaan.",
+      "referencias": [
+        "Num 13:21"
+      ],
+      "personajes_clave": [
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "zin_h3",
+      "titulo": "Caleb inherits from Zin",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "The southern border of Judah's tribe ran through the desert of Zin next to the border of Edom.",
+      "referencias": [
+        "Josh 15:1-3"
+      ],
+      "personajes_clave": [
+        "Caleb"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zin_p1",
+      "nombre": "Moses",
+      "rol": "Liberator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He sinned in the desert of Zin by striking the rock instead of speaking to it, losing the right to enter Canaan.",
+      "referencias": [
+        "Num 20:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p2",
+      "nombre": "Miriam",
+      "rol": "Prophetess",
+      "periodo": "ca. 1320-1250 BC",
+      "descripcion": "She died and was buried in Kadesh, in the desert of Zin.",
+      "referencias": [
+        "Num 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zin_p3",
+      "nombre": "Caleb",
+      "rol": "Explorer and conqueror",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "Explored the Zin Desert at the beginning of Canaan's reconnaissance.",
+      "referencias": [
+        "Num 13:21"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Desert of Zin: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "zin_m1",
+        "nombre": "The rock of Meribah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Moses strikes the rock in Zin (Kadesh): His sin prevents him from entering Canaan, a sign that even the greatest mediator must obey exactly.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moses strikes the rock in Zin (Kadesh): His sin prevents him from entering Canaan, a sign that even the greatest mediator must obey exactly.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paul interprets the desert rock as a figure of Christ who provides spiritual water (1 Cor 10:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul interprets the desert rock as a figure of Christ who provides spiritual water (1 Cor 10:4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

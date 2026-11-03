@@ -1,0 +1,151 @@
+{
+  "id": "eshtaol",
+  "nombre": "Esttaol",
+  "tipo": "ciudad",
+  "lat": 31.782429,
+  "lng": 35.009012,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Insediamento danita, punto di partenza della migrazione verso Lais"
+    }
+  ],
+  "descripcion_geo": "Città della Sefela, assegnata congiuntamente a Giuda e Dan, situata molto vicino a Zorah, con la quale appare sistematicamente accoppiata nel testo biblico. Terreno collinare basso al passaggio tra la pianura costiera e le montagne centrali.",
+  "altitud_m": 305,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, leggermente più freschi di Zorah a causa dell'altitudine più elevata.",
+  "recursos": [
+    "Terreni agricoli della Shephelah",
+    "Posizione di osservazione elevata",
+    "Vicinanza a Zorah, formando un nucleo danita congiunto"
+  ],
+  "importancia_estrategica": "Estaol e Zorah funzionano nel testo biblico quasi come un'unità geografica: entrambi segnano i limiti del territorio originariamente assegnato a Dan e, di fronte alle pressioni filistee, sono il punto di partenza delle spie e poi dei seicento guerrieri daniti che migrano verso nord alla ricerca del proprio territorio.",
+  "otros_habitantes": [
+    {
+      "id": "danitas_eshtaol",
+      "nombre": "Tribù di Dan",
+      "descripcion": "Popolazione principale di Eshtaol; Da qui partono le cinque spie inviate ad esplorare il territorio del nord, e successivamente la spedizione armata di seicento uomini che conquista Laide.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "judaitas_eshtaol",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Eshtaol condivide l'allocazione tribale con Giuda secondo gli elenchi delle città Giosuè, riflettendo la natura di confine condiviso dell'area tra entrambe le tribù.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "espiritu-sanson-eshtaol",
+      "titulo": "Lo Spirito di YHWH si muove su Sansone tra Zorah ed Eshtaol",
+      "fecha": "c. 1105 a.C.",
+      "descripcion": "Il testo biblico colloca esplicitamente tra Zorah ed Eshtaol il momento in cui lo Spirito di YHWH comincia a manifestarsi sul giovane Sansone, segnando l'inizio della sua vocazione di giudice-liberatore.",
+      "referencias": [
+        "Gdc 13:25"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "espias-danitas-eshtaol",
+      "titulo": "Le cinque spie danite lasciano Eshtaol",
+      "fecha": "c. 1150–1100 a.C.",
+      "descripcion": "Data la mancanza di un territorio assegnato, la tribù Dan invia cinque uomini coraggiosi provenienti da Zorah ed Eshtaol ad esplorare e ricognire le terre dove possono stabilirsi, che raggiungono la regione di Lais nell'estremo nord.",
+      "referencias": [
+        "Gdc 18:2"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "expedicion-seiscientos-danitas",
+      "titulo": "I seicento guerrieri daniti partirono per Lais",
+      "fecha": "c. 1150–1100 a.C.",
+      "descripcion": "Dopo il rapporto favorevole delle spie, seicento uomini armati della tribù di Dan partirono da Zorah ed Eshtaol verso nord, conquistarono Lais, la bruciarono e la ricostruirono sotto il nuovo nome di Dan, completando la migrazione tribale motivata dalla mancanza di territorio meridionale.",
+      "referencias": [
+        "Gdc 18:11-29"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson_eshtaol",
+      "nombre": "Sansone",
+      "rol": "Israele Giudice, nazireo dalla forza sovrumana",
+      "periodo": "hierro_1",
+      "descripcion": "Il testo colloca l'inizio della sua vocazione tra Zorah ed Eshtaol, quando lo Spirito di YHWH comincia a manifestarsi su di lui durante la giovinezza, prima degli episodi di Timnah e Lehi.",
+      "referencias": [
+        "Gdc 13:25"
+      ],
+      "ruta": [
+        "zorah",
+        "eshtaol"
+      ]
+    },
+    {
+      "id": "espias_dan",
+      "nombre": "Cinque spie di Dan",
+      "rol": "Scout inviati dalla tribù di Dan",
+      "periodo": "hierro_1",
+      "descripcion": "Uomini coraggiosi inviati da Eshtaol e Zorah per esplorare il territorio a nord nonostante la pressione filistea sul territorio danita originario; il suo rapporto favorevole su Laish innesca la migrazione tribale.",
+      "referencias": [
+        "Gdc 18:2-10"
+      ],
+      "ruta": [
+        "eshtaol",
+        "ai"
+      ]
+    },
+    {
+      "id": "guerreros_dan_seiscientos",
+      "nombre": "Seicento uomini armati di Dan",
+      "rol": "Spedizione militare danese",
+      "periodo": "hierro_1",
+      "descripcion": "Contingente armato che lascia Zorah ed Eshtaol per conquistare Laish nell'estremo nord, completando il reinsediamento della tribù Dan fuori dal loro territorio originario nella Shephelah.",
+      "referencias": [
+        "Gdc 18:11-29"
+      ],
+      "ruta": [
+        "eshtaol",
+        "dan"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Eshtaol, insieme a Zorah, rappresenta il territorio originale (e in definitiva insufficiente o insostenibile) della tribù Dan nella Sefela, esposto alla costante pressione filistea. La sua doppia funzione narrativa (origine della vocazione di Sansone e punto di partenza della migrazione tribale a Laish) illustra due diverse risposte di Israele all'oppressione filistea: la resistenza carismatica individuale di un giudice e la soluzione collettiva del reinsediamento territoriale.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "migracion-dan-eshtaol",
+        "nombre": "L'origine della migrazione danita a Eshtaol",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 18:1-29",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la pérdida de la herencia tribal y la búsqueda de territorio (relacionado con discusiones en Bava Batra sobre límites tribales)",
+          "descripcion": "La tradizione ebraica inquadra l'episodio delle spie e della migrazione danita da Eshtaol come un esempio delle conseguenze del periodo dei Giudici, quando 'non c'era nessun re in Israele e ognuno faceva ciò che sembrava giusto ai propri occhi', compresa la discutibile appropriazione di oggetti di culto da parte dei daniti durante il loro viaggio a Laish.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio illustra la frammentazione tribale e l'assenza di una leadership centralizzata caratteristiche del periodo pre-monarchico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

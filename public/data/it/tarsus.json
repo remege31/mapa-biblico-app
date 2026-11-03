@@ -1,0 +1,333 @@
+{
+  "id": "tarsus",
+  "nombre": "Tarso",
+  "tipo": "ciudad",
+  "lat": 36.92,
+  "lng": 34.89,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città della pianura cilicia, sulle rive del fiume Cidno. Capoluogo amministrativo della provincia di Cilicia; patria di Paolo.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tar_h1",
+      "titulo": "Paolo è nato a Tarso di Cilicia",
+      "fecha": "ca. 5 a.C.",
+      "descripcion": "Paolo si identifica come 'cittadino di Tarso di Cilicia, città non insignificante'; ivi nato con cittadinanza romana.",
+      "referencias": [
+        "At 21:39",
+        "At 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h2",
+      "titulo": "La formazione ellenistica di Paolo a Tarso",
+      "fecha": "ca. 5-14 d.C.",
+      "descripcion": "Tarso era nota per la sua università e la sua filosofia stoica; La formazione degli Paolo nella sua città natale ha influenzato il suo pensiero.",
+      "referencias": [
+        "Historia; Hch 22:3"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "tar_h3",
+      "titulo": "Paolo ritorna a Tarso dopo la sua conversione",
+      "fecha": "ca. 37 d.C.",
+      "descripcion": "Dopo la sua conversione e la fuga da Damasco, Paolo è tornato nella sua città natale di Tarso.",
+      "referencias": [
+        "At 9:30"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tar_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Il grande missionario del NT è nato e cresciuto a Tarso; la sua città natale ha plasmato il suo bilinguismo e la cittadinanza romana.",
+      "referencias": [
+        "At 21:39"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p2",
+      "nombre": "Barnaba",
+      "rol": "Missionario",
+      "periodo": "s. I d.C.",
+      "descripcion": "È andato a Tarso per trovare Paolo per la missione di Antiochia.",
+      "referencias": [
+        "At 11:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tar_p3",
+      "nombre": "Atenodoro",
+      "rol": "Filosofo stoico di Tarso",
+      "periodo": "ca. 74 a.C.-7 d.C.",
+      "descripcion": "Insegnante stoico e amico di Augusto; simbolo della tradizione filosofica di Tarso che costituì il background intellettuale di Paolo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pablo",
+      "nombre": "Paolo",
+      "rol": "Apostolo delle genti, missionario nel Mediterraneo",
+      "periodo": "apostolico",
+      "descripcion": "Fariseo di Tarso si convertì in viaggio verso Damasco. I suoi quattro grandi viaggi portarono il vangelo di Antiochia a Roma, fondando chiese in Asia Minore, Macedonia e Grecia.",
+      "referencias": [
+        "At 9:1-19",
+        "At 13–28"
+      ],
+      "ruta": [
+        "tarsus",
+        "antioch",
+        "ephesus",
+        "corinth",
+        "rome"
+      ],
+      "viajes": [
+        {
+          "nombre": "Primo viaggio missionario",
+          "ruta": [
+            "antioch",
+            "cyprus",
+            "perge",
+            "antioch_pisidia",
+            "iconium",
+            "lystra",
+            "derbe",
+            "perge",
+            "antioch"
+          ],
+          "referencias": [
+            "At 13:1–14:28"
+          ]
+        },
+        {
+          "nombre": "Secondo viaggio missionario",
+          "ruta": [
+            "antioch",
+            "cilicia",
+            "lystra",
+            "troas",
+            "philippi",
+            "thessalonica",
+            "berea",
+            "athens",
+            "corinth",
+            "ephesus",
+            "caesarea",
+            "jerusalen",
+            "antioch"
+          ],
+          "referencias": [
+            "At 15:36–18:22"
+          ]
+        },
+        {
+          "nombre": "Terzo viaggio missionario",
+          "ruta": [
+            "antioch",
+            "galatia",
+            "phrygia",
+            "ephesus",
+            "macedonia",
+            "greece",
+            "troas",
+            "miletus",
+            "tyre",
+            "caesarea",
+            "jerusalen"
+          ],
+          "referencias": [
+            "At 18:23–21:17"
+          ]
+        },
+        {
+          "nombre": "Viaggio a Roma",
+          "ruta": [
+            "caesarea",
+            "crete",
+            "malta",
+            "syracuse",
+            "puteoli",
+            "rome"
+          ],
+          "referencias": [
+            "At 27:1–28:16"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tarso: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "tar_m1",
+        "nombre": "Tarso: città che formò l'apostolo",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Tarso, con la sua tradizione stoica e la cittadinanza romana, formò Paolo come il ponte perfetto tra il mondo ebraico e quello greco-romano.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tarso, con la sua tradizione stoica e la cittadinanza romana, formò Paolo come il ponte perfetto tra il mondo ebraico e quello greco-romano.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tar_h1",
+        "titulo": "Paolo è nato a Tarso di Cilicia",
+        "fecha": "ca. 5 a.C.",
+        "descripcion": "Paolo si identifica come 'cittadino di Tarso di Cilicia, città non insignificante'; ivi nato con cittadinanza romana.",
+        "referencias": [
+          "At 21:39",
+          "At 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h2",
+        "titulo": "La formazione ellenistica di Paolo a Tarso",
+        "fecha": "ca. 5-14 d.C.",
+        "descripcion": "Tarso era nota per la sua università e la sua filosofia stoica; La formazione degli Paolo nella sua città natale ha influenzato il suo pensiero.",
+        "referencias": [
+          "Historia; Hch 22:3"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "tar_h3",
+        "titulo": "Paolo ritorna a Tarso dopo la sua conversione",
+        "fecha": "ca. 37 d.C.",
+        "descripcion": "Dopo la sua conversione e la fuga da Damasco, Paolo è tornato nella sua città natale di Tarso.",
+        "referencias": [
+          "At 9:30"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tar_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Il grande missionario del NT è nato e cresciuto a Tarso; la sua città natale ha plasmato il suo bilinguismo e la cittadinanza romana.",
+        "referencias": [
+          "At 21:39"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p2",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "È andato a Tarso per trovare Paolo per la missione di Antiochia.",
+        "referencias": [
+          "At 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tar_p3",
+        "nombre": "Atenodoro",
+        "rol": "Filosofo stoico di Tarso",
+        "periodo": "ca. 74 a.C.-7 d.C.",
+        "descripcion": "Insegnante stoico e amico di Augusto; simbolo della tradizione filosofica di Tarso che costituì il background intellettuale di Paolo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Tarso nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tar_m1",
+          "nombre": "Tarso: città che formò l'apostolo",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Tarso, con la sua tradizione stoica e la cittadinanza romana, formò Paolo come il ponte perfetto tra il mondo ebraico e quello greco-romano.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tarso, con la sua tradizione stoica e la cittadinanza romana, formò Paolo come il ponte perfetto tra il mondo ebraico e quello greco-romano.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "lo_debar",
+  "nombre": "Lo-debar",
+  "tipo": "ciudad",
+  "lat": 32.662488,
+  "lng": 35.783568,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Mephibosheth Shelter"
+    }
+  ],
+  "descripcion_geo": "City in Gilead, known exclusively as a place of temporary refuge for Mephibosheth, son of Jonathan and grandson of Saul, during the period after the death of the Saulid royal family.",
+  "altitud_m": 350,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead region.",
+  "recursos": [
+    "Saul House Survivor Shelter",
+    "House of Maquir son of Amiel, local host"
+  ],
+  "importancia_estrategica": "Lo-debar has no strategic, military or administrative relevance; its only narrative function is to identify the location where Mephibosheth, the only surviving disabled descendant of the house of Saul, finds refuge in Machir's house before being located and brought to the court of David.",
+  "otros_habitantes": [
+    {
+      "id": "maquir_lo_debar",
+      "nombre": "Machir, son of Amiel",
+      "descripcion": "Inhabitant of Lo-debar who shelters Mephibosheth after the death of Saul and Jonathan, and who later reappears supporting David during Absalom's rebellion.",
+      "religion": "Yahwism",
+      "periodo": "c. 1010–975 BC"
+    },
+    {
+      "id": "gaditas_lo_debar",
+      "nombre": "Local population of Gilead",
+      "descripcion": "Inhabitants of the Transjordan region where Lo-debar is located, which offers refuge to political fugitives in times of dynastic crisis in Israel.",
+      "religion": "Yahwism",
+      "periodo": "c. 1010–975 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "mefiboset-refugio-lo-debar",
+      "titulo": "Mephibosheth takes refuge in Lo-debar after the death of Saul",
+      "fecha": "c. 1010 BC",
+      "descripcion": "After the death of Saul and Jonathan in Gilboa, Mephibosheth, Jonathan's five-year-old son and disabled in both feet after a fall while fleeing from his nurse, finds refuge in the house of Machir son of Ammiel in Lo-debar.",
+      "referencias": [
+        "2 Sam 4:4",
+        "2 Sam 9:4"
+      ],
+      "personajes_clave": [
+        "mefiboset"
+      ]
+    },
+    {
+      "id": "david-busca-mefiboset-lo-debar",
+      "titulo": "David locates Mephibosheth in Lo-debar",
+      "fecha": "c. 1000 BC",
+      "descripcion": "Wishing to show mercy because of his covenant with Jonathan, David asks if there are any survivors of Saul's house, and is informed that Mephibosheth lives in Machir's house in Lo-debar; David orders him to bring Jerusalem, restores Saul's lands and invites him to eat permanently at his royal table.",
+      "referencias": [
+        "2 Sam 9:1-13"
+      ],
+      "personajes_clave": [
+        "david",
+        "mefiboset"
+      ]
+    },
+    {
+      "id": "maquir-apoya-david-absalon",
+      "titulo": "Machir of Lo-debar supports David during Absalom's rebellion",
+      "fecha": "c. 975 BC",
+      "descripcion": "The same Machir who had welcomed Mephibosheth reappears years later as one of the benefactors providing provisions to David during his escape from Absalom in Mahanaim, demonstrating continued loyalty to the royal house despite changes in political fortune.",
+      "referencias": [
+        "2 Sam 17:27-29"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mefiboset",
+      "nombre": "Mephibosheth",
+      "rol": "Son of Jonathan, grandson of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "He finds refuge in Lo-debar after the death of his father and grandfather, until he is located by David, who restores his honor and position despite being the only surviving direct descendant of the rival dynasty.",
+      "referencias": [
+        "2 Sam 4:4",
+        "2 Sam 9:1-13"
+      ],
+      "ruta": [
+        "lo_debar",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "maquir_lo_debar_personaje",
+      "nombre": "Machir, son of Amiel",
+      "rol": "Host of Mephibosheth, benefactor of David",
+      "periodo": "c. 1010–975 BC",
+      "descripcion": "He initially shelters Mephibosheth and, years later, provides critical supplies to David during Absalom's rebellion, demonstrating sustained loyalty to both the house of Saul and David.",
+      "referencias": [
+        "2 Sam 9:4-5",
+        "2 Sam 17:27-29"
+      ],
+      "ruta": [
+        "lo_debar"
+      ]
+    },
+    {
+      "id": "david_lo_debar",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "He actively searches for a survivor of the house of Saul to fulfill his pact of loyalty with Jonathan, finding Mephibosheth in Lo-debar and restoring him with honor to the royal court.",
+      "referencias": [
+        "2 Sam 9:1-13"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lo-debar, despite its geographical and strategic irrelevance, is the scene of one of the most moving episodes of political loyalty and mercy in the entire Old Testament: the fulfillment of David's pact with Jonathan, extended to the only vulnerable descendant of his ancient rival, contrasts sharply with the usual pattern of systematic elimination of dynastic rivals in ancient Near Eastern times.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "misericordia-pacto-mefiboset-lo-debar",
+        "nombre": "David's mercy towards Mephibosheth as fulfillment of the covenant with Jonathan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 9:1-13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el cumplimiento del pacto (berit) entre David y Jonatán como modelo de fidelidad a los compromisos asumidos incluso después de la muerte de quien los hizo",
+          "descripcion": "Jewish tradition values ​​the episode of Lo-debar as a paradigmatic example of the fulfillment of a personal pact (berit) even when there is no longer anyone who can demand its execution, highlighting that David, at the moment of maximum political power, actively chooses to seek out and honor a vulnerable descendant of his former rival instead of simply forgetting him or, as would be common at the time, eliminating him as a potential threat.",
+          "similitudes": "It shares with Christianity the recognition of the exemplary value of the mercy shown by David towards Mephibosheth.",
+          "diferencias": null,
+          "significado_teologico": "The episode demonstrates that fidelity to a personal pact transcends political expediency and the usual logic of eliminating dynastic rivals.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 9:1-13 (recepción homilética cristiana sobre la gracia inmerecida hacia el discapacitado y vulnerable)",
+          "fuente_secundaria": "Comentarios homiléticos que usan el episodio de Mefiboset como ilustración de la gracia divina hacia los pecadores",
+          "descripcion": "Christian tradition frequently takes up the episode of Mephibosheth as a popular illustration of undeserved grace: a disabled man, a descendant of the enemy house, who has nothing to offer and no merit of his own to claim, is elevated by the king's sheer goodness to the position of permanent diner at his own table, a parallel frequently used to illustrate divine grace towards the sinner.",
+          "similitudes": "It shares with the Jewish reading the positive appreciation of the mercy shown by David beyond any strict obligation.",
+          "diferencias": "The popular Christian reading tends to generalize the episode as an illustration of undeserved saving grace, a theological dimension absent in the Jewish reading focused on the fulfillment of the specific covenant.",
+          "significado_teologico": "The episode becomes a popular Christian illustration of the grace that elevates the unworthy and vulnerable to a position of undeserved honor.",
+          "posible_relacion_cultural": "Christian reception of the David cycle reinterpreted as an illustration of theological principles of grace and mercy."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

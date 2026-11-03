@@ -1,0 +1,142 @@
+{
+  "id": "topheth",
+  "nombre": "Tófet",
+  "tipo": "ciudad",
+  "lat": 31.77,
+  "lng": 35.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -800,
+      "hasta": -586,
+      "nombre": "Hierro II"
+    }
+  ],
+  "descripcion_geo": "Lugar en el valle de Hinom, al sur de Jerusalén, donde se realizaban sacrificios de niños a Moloc.",
+  "altitud_m": 620,
+  "clima": "mediterráneo",
+  "recursos": [
+    "arcilla"
+  ],
+  "importancia_estrategica": "Lugar de culto pagano abominable que los profetas identificaron como símbolo del castigo divino.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tof_h1",
+      "titulo": "Los reyes sacrifican a sus hijos en Tófet",
+      "fecha": "ca. 735-695 a.C.",
+      "descripcion": "Los reyes Acaz y Manasés hacen pasar a sus hijos por el fuego en el valle de Hinom.",
+      "referencias": [
+        "2 Re 16:3",
+        "2 Re 21:6",
+        "2 Cr 28:3"
+      ],
+      "personajes_clave": [
+        "Acaz",
+        "Manasés"
+      ]
+    },
+    {
+      "id": "tof_h2",
+      "titulo": "Josías profana Tófet",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "En su reforma, Josías profana el Tófet del valle de Hinom para que nadie pueda volver a sacrificar allí a sus hijos.",
+      "referencias": [
+        "2 Re 23:10"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "tof_h3",
+      "titulo": "Jeremías: el valle de la matanza",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Jeremías profetiza que Tófet se llamará 'Valle de la Matanza' por el castigo inminente sobre Jerusalén.",
+      "referencias": [
+        "Jer 7:30-34",
+        "Jer 19:6"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tof_p1",
+      "nombre": "Josías",
+      "rol": "Rey reformador",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Destruyó los lugares de culto pagano, incluido Tófet, en su gran reforma religiosa.",
+      "referencias": [
+        "2 Re 23:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p2",
+      "nombre": "Jeremías",
+      "rol": "Profeta",
+      "periodo": "ca. 627-586 a.C.",
+      "descripcion": "Usó la figura de Tófet para anunciar el juicio sobre Jerusalén.",
+      "referencias": [
+        "Jer 7:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p3",
+      "nombre": "Manasés",
+      "rol": "Rey idólatra de Judá",
+      "periodo": "697-642 a.C.",
+      "descripcion": "Hizo pasar a sus hijos por el fuego en Tófet; su reinado es el más condenado por los profetas.",
+      "referencias": [
+        "2 Re 21:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lugar de horror religioso; símbolo de la apostasía de Israel. Su nombre derivó en 'Gehena' (Gehinnom), usado en el NT como imagen del infierno.",
+    "religiones_presentes": [
+      "paganismo_cananeo",
+      "culto_a_moloc"
+    ],
+    "mitos": [
+      {
+        "id": "tof_m1",
+        "nombre": "Gehena: el infierno del NT",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Tófet en el valle de Hinom (Ge-Hinnom) era el lugar de sacrificios por fuego; se convirtió en un basurero ardiente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tófet en el valle de Hinom (Ge-Hinnom) era el lugar de sacrificios por fuego; se convirtió en un basurero ardiente.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 5:22",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús usa 'Gehena' (Gehinnom) 11 veces en los evangelios como imagen del castigo eterno (Mt 5:22,29,30).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús usa 'Gehena' (Gehinnom) 11 veces en los evangelios como imagen del castigo eterno (Mt 5:22,29,30).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

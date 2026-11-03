@@ -1,0 +1,160 @@
+{
+  "id": "gihon",
+  "nombre": "Ghihon",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.773116,
+  "lng": 35.237186,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II — Davide Sorgente della città, Salomone Unzione"
+    }
+  ],
+  "descripcion_geo": "Sorgente intermittente sul versante orientale della Città di Davide, vicino alla Valle del Cedron, la principale e praticamente unica fonte naturale di acqua dolce in Gerusalemme nell'antichità. Il suo nome (\"quello che zampilla\" o \"quello che zampilla\") descrive il suo comportamento caratteristico di pulsazioni irregolari più volte al giorno.",
+  "altitud_m": "Versante orientale della città di Davide, c. 630-640",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "L'unica fonte naturale permanente di acqua dolce di Gerusalemme",
+    "Successivamente incanalamento verso la piscina di Shelah/Siloam attraverso il tunnel di Ezechia",
+    "Determinante geografico originario dell'insediamento della città"
+  ],
+  "importancia_estrategica": "La sorgente di Gihon è la ragione geografica fondamentale per cui Davide City Hill è stata scelta come insediamento originale di Gerusalemme: nessuna città antica poteva sostenersi senza acqua permanente e Gihon era l'unica fonte disponibile nell'area. Il suo controllo e, soprattutto, la possibilità di accedervi senza esporsi ad un assedio nemico – risolto secoli dopo con il tunnel di Ezechia – determinò buona parte della strategia difensiva e idraulica della città durante tutta la monarchia.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos_gihon",
+      "nombre": "Gebusei",
+      "descripcion": "Popolazione originaria della fortezza di Sion, il cui accesso alla sorgente Gihon attraverso un sistema di pozzi verticali (probabilmente il 'canale' menzionato nella conquista di Davide) era fondamentale per la difesa della città prima della sua caduta.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1000 a.C"
+    },
+    {
+      "id": "sacerdotes_profetas_gihon",
+      "nombre": "Sacerdoti e profeti di corte",
+      "descripcion": "Il sacerdote Zadok e il profeta Nathan, insieme alla guardia reale, presenti alla sorgente di Gihon durante la cerimonia di unzione di Salomone come re.",
+      "religion": "Yahvismo",
+      "periodo": "C. 970 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-david-canal-gihon",
+      "titulo": "Il 'canale' come via per conquistare la fortezza dei Gebusiti",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Nel racconto della conquista della fortezza di Sion da parte di Davide, viene menzionato uno 'tsinnor' (canale o condotto) attraverso il quale gli uomini di Joab riuscirono a penetrare nella difesa gebusita, identificata da gran parte dell'archeologia moderna con il sistema di pozzi verticali che dava accesso alla sorgente Gihon dall'interno della città.",
+      "referencias": [
+        "2 Sam 5:6-8"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "uncion-salomon-gihon",
+      "titulo": "Salomone Unzione a Ghihon",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Di fronte al tentativo di Adonijah di proclamarsi re, Davide ordina a Zadok, Nathan e Benaiah di portare Salomone alla sorgente di Ghihon, ungerlo lì come re di Israele e poi portarlo in città tra il suono delle trombe e l'acclamazione pubblica, assicurando una successione rapida e inequivocabile.",
+      "referencias": [
+        "1 Re 1:32-40"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "david"
+      ]
+    },
+    {
+      "id": "ezequias-tapona-gihon",
+      "titulo": "Ezechia ferma le acque esterne di Ghihon",
+      "fecha": "c. 701 a.C.",
+      "descripcion": "Di fronte alla minaccia assira, Ezechia ordina di bloccare le acque delle sorgenti che si trovavano fuori città, tra cui Ghihon, e di deviarne il corso attraverso il tunnel verso l'interno murato, privando l'esercito invasore di una fonte d'acqua accessibile.",
+      "referencias": [
+        "2 Cr 32:2-4",
+        "2 Cr 32:30"
+      ],
+      "personajes_clave": [
+        "ezequias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon_gihon",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, unto a Ghihon",
+      "periodo": "hierro_2",
+      "descripcion": "Viene unto re di Israele alla sorgente di Ghihon per ordine di suo padre Davide, in una cerimonia organizzata con urgenza per contrastare il tentativo di usurpazione di Adonia.",
+      "referencias": [
+        "1 Re 1:32-40"
+      ],
+      "ruta": [
+        "gihon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "natan_profeta_gihon",
+      "nombre": "Nathan",
+      "rol": "Profeta della corte davidica",
+      "periodo": "hierro_2",
+      "descripcion": "Insieme al sacerdote Zadok, conduce la cerimonia di unzione di Salomone a Gihon, garantendo la legittimità religiosa della successione di fronte alla manovra di Adonijah.",
+      "referencias": [
+        "1 Re 1:32-45"
+      ],
+      "ruta": [
+        "gihon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequias_gihon",
+      "nombre": "Ezechia",
+      "rol": "Giuda King, costruttore di tunnel idraulici",
+      "periodo": "hierro_2",
+      "descripcion": "Ordina di coprire gli emissari esterni della sorgente di Gijón e di canalizzarne l'acqua in città attraverso un tunnel sotterraneo, assicurandone l'approvvigionamento durante l'assedio assiro.",
+      "referencias": [
+        "2 Cr 32:2-4",
+        "2 Re 20:20"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gihon non è un luogo di culto in senso stretto, ma il suo ruolo nell'unzione di Salomone lo rende teatro di un atto politico-religioso di prim'ordine: la legittimazione pubblica e sacerdotale della successione davidica. La sua vitale funzione di fonte d'acqua la collega simbolicamente anche ai temi biblici del provvedimento divino e della sopravvivenza della città eletta di fronte alle minacce esterne, in particolare nell'episodio di Ezechia.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (precedente substrato di Jebusite)"
+    ],
+    "mitos": [
+      {
+        "id": "uncion-real-gihon-mito",
+        "nombre": "Gijón come luogo di legittima unzione reale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 1:32-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la unción real junto a una fuente de agua viva como símbolo de continuidad dinástica",
+          "descripcion": "La tradizione ebraica rileva che la scelta di una sorgente di acqua viva come luogo dell'unzione di Salomone - in contrasto con la proclamazione più improvvisata di Adonijah a Ein-Roguel - rafforza simbolicamente l'idea di una successione legittima, fluida e benedetta, in opposizione a una frettolosa usurpazione.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'acqua viva di Ghihon è simbolicamente associata alla legittimità e alla continuità della promessa davidica trasmessa a Salomone.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "subtipo_geo": "Primavera"
+}

@@ -1,0 +1,248 @@
+{
+  "id": "lod",
+  "nombre": "Lod (Lida)",
+  "tipo": "ciudad",
+  "lat": 31.953,
+  "lng": 34.894,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Hierro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Ciudad en la llanura costera de la Sefela, entre Jaffa y Jerusalén. Llamada Lida en el NT.",
+  "altitud_m": 50,
+  "clima": "mediterráneo",
+  "recursos": [
+    "cereales",
+    "artesanía",
+    "comercio"
+  ],
+  "importancia_estrategica": "Ciudad de paso entre el puerto de Jaffa y Jerusalén; escenario de la curación de Eneas por Pedro.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lod_h1",
+      "titulo": "Los hijos de Benjamín fundan Lod",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "La ciudad de Lod fue fundada por los hijos de Elpaál de la tribu de Benjamín.",
+      "referencias": [
+        "1 Cr 8:12"
+      ],
+      "personajes_clave": [
+        "Elpaál"
+      ]
+    },
+    {
+      "id": "lod_h2",
+      "titulo": "El regreso de exiliados a Lod",
+      "fecha": "ca. 520 a.C.",
+      "descripcion": "Entre los exiliados que regresan de Babilonia hay 725 habitantes de Lod, Hadid y Ono.",
+      "referencias": [
+        "Esd 2:33",
+        "Neh 7:37"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "lod_h3",
+      "titulo": "Pedro sana a Eneas en Lida",
+      "fecha": "ca. 35 d.C.",
+      "descripcion": "En Lida (Lod), Pedro visita a los creyentes y sana a Eneas, paralítico desde hacía ocho años.",
+      "referencias": [
+        "Hch 9:32-35"
+      ],
+      "personajes_clave": [
+        "Pedro",
+        "Eneas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lod_p1",
+      "nombre": "Pedro",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Sanó a Eneas en Lida; su ministerio en la llanura costera preparó el camino para la conversión de Cornelio.",
+      "referencias": [
+        "Hch 9:32"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p2",
+      "nombre": "Eneas",
+      "rol": "Paralítico curado",
+      "periodo": "ca. 35 d.C.",
+      "descripcion": "Paralítico desde ocho años que fue sanado por Pedro en Lida; su curación convirtió a toda la llanura.",
+      "referencias": [
+        "Hch 9:33"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p3",
+      "nombre": "Elpaál",
+      "rol": "Fundador benjaminita de Lod",
+      "periodo": "ca. 1200 a.C.",
+      "descripcion": "Sus hijos fundaron Lod, Ono y Guéber.",
+      "referencias": [
+        "1 Cr 8:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ciudad benjaminita reconvertida en escenario de milagros apostólicos; la curación de Eneas abrió el camino al ministerio de Pedro en Cesarea.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "lod_m1",
+        "nombre": "La curación de Eneas",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pedro sana al paralítico Eneas en Lida con las palabras 'Jesús el Mesías te sana'; todos los habitantes de la llanura se convierten.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pedro sana al paralítico Eneas en Lida con las palabras 'Jesús el Mesías te sana'; todos los habitantes de la llanura se convierten.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lod_nt_h1",
+        "titulo": "Pedro en Lida: la curación de Eneas",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Pedro visita a los discípulos en Lida y sana a Eneas, paralítico ocho años; todos los de Sarón y Lida se convierten.",
+        "referencias": [
+          "Hch 9:32-35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Eneas"
+        ]
+      },
+      {
+        "id": "lod_nt_h2",
+        "titulo": "Lida: escala entre Jaffa y Cesarea",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "Pedro pasó por Lida camino a Cesarea donde bautizaría a Cornelio, el primer gentil.",
+        "referencias": [
+          "Hch 9:32",
+          "Hch 10:24"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "lod_nt_h3",
+        "titulo": "La iglesia primitiva en la llanura costera",
+        "fecha": "ca. 35 d.C.",
+        "descripcion": "La curación de Eneas en Lida fue el catalizador para la evangelización de toda la llanura de Sarón.",
+        "referencias": [
+          "Hch 9:35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "comunidad cristiana"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lod_nt_p1",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Realizó el milagro que abrió toda la llanura costera al evangelio.",
+        "referencias": [
+          "Hch 9:32"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p2",
+        "nombre": "Eneas",
+        "rol": "Paralítico curado",
+        "periodo": "ca. 35 d.C.",
+        "descripcion": "Su curación fue el signo que convirtió a toda la región.",
+        "referencias": [
+          "Hch 9:33"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p3",
+        "nombre": "Tabita (Dorcas)",
+        "rol": "Discípula resucitada en Jaffa",
+        "periodo": "s. I d.C.",
+        "descripcion": "En Jaffa, cerca de Lida, Pedro resucitó a Tabita; ambos milagros prepararon su encuentro con Cornelio.",
+        "referencias": [
+          "Hch 9:36"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Lida fue el puente entre el ministerio galileo-judío de Pedro y su apertura a los gentiles en Cesarea.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "lod_nt_m1",
+          "nombre": "El camino a los gentiles",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Los milagros de Pedro en Lida y Jaffa prepararon su encuentro con Cornelio: el evangelio avanza de ciudad en ciudad hacia los gentiles.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Los milagros de Pedro en Lida y Jaffa prepararon su encuentro con Cornelio: el evangelio avanza de ciudad en ciudad hacia los gentiles.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "gibbethon",
+  "nombre": "Gibbeton",
+  "tipo": "ciudad",
+  "lat": 31.98,
+  "lng": 35.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città della Sefela assegnata a Dan e ceduta ai leviti; ripetutamente contestato tra Israele e Filistei.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Città in costante contenzioso tra Israele e Filistei.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gib_h1",
+      "titulo": "Israele assediò Gibbeton quando il re cambiò",
+      "fecha": "ca. 885-885 a.C.",
+      "descripcion": "Quando Israele stava assediando il filisteo Gibbethon, la notizia della cospirazione di Zimri raggiunse l'accampamento; Lì Omri fu proclamato re.",
+      "referencias": [
+        "1 Re 16:15-17"
+      ],
+      "personajes_clave": [
+        "Omri",
+        "Zimri"
+      ]
+    },
+    {
+      "id": "gib_h2",
+      "titulo": "Nadab ucciso durante l'assedio di Gibbeton",
+      "fecha": "ca. 909 a.C.",
+      "descripcion": "Re Nadab di Israele fu ucciso da Baasha mentre Israele stava assediando Gibbeton.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "personajes_clave": [
+        "Baasa",
+        "Nadab"
+      ]
+    },
+    {
+      "id": "gib_h3",
+      "titulo": "Gibbeton assegnato ai leviti",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Gibbeton fu assegnata come città levitica della tribù di Dan.",
+      "referencias": [
+        "Gs 19:44",
+        "Gs 21:23"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gib_p1",
+      "nombre": "Omri",
+      "rol": "Re di Israele",
+      "periodo": "885-874 a.C.",
+      "descripcion": "Fu proclamato re nell'accampamento di fronte a Gibbeton e in seguito fondò Samaria.",
+      "referencias": [
+        "1 Re 16:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p2",
+      "nombre": "Baasa",
+      "rol": "usurpatore del trono",
+      "periodo": "909-886 a.C.",
+      "descripcion": "Uccise il re Nadab durante l'assedio di Gibbeton e salì al trono.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p3",
+      "nombre": "Nadab",
+      "rol": "Re di Israele",
+      "periodo": "910-909 a.C.",
+      "descripcion": "Fu ucciso durante il lungo assedio israelita di Gibbeton.",
+      "referencias": [
+        "1 Re 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibbetón: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gib_m1",
+        "nombre": "Gibbetón: dove cambiano i re",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Due cambi di dinastia in Israele si verificarono mentre Gibbeton era sotto assedio; la città contesa diventa lo scenario accidentale della storia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Due cambi di dinastia in Israele si verificarono mentre Gibbeton era sotto assedio; la città contesa diventa lo scenario accidentale della storia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

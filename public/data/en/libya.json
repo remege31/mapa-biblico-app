@@ -1,0 +1,150 @@
+{
+  "id": "libya",
+  "nombre": "Libya",
+  "tipo": "territorio",
+  "lat": 32.824979,
+  "lng": 21.858301,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Egypt's allies in the prophetic oracles"
+    }
+  ],
+  "descripcion_geo": "Region of North Africa west of Egypt, mentioned in the biblical text under the name 'Fut' or 'Put' in some passages and 'Lubim' (Libyans) in others, known mainly as a town militarily allied with Egypt in different war episodes.",
+  "altitud_m": 200,
+  "clima": "Mediterranean desert — extremely dry and hot, typical of northern West Africa to Egypt.",
+  "recursos": [
+    "Mercenary and allied troops for Egypt",
+    "Strategic position as a Western ally of Egyptian power"
+  ],
+  "importancia_estrategica": "Libya appears consistently in the biblical text as a military ally of Egypt, providing troops both for the defense of Thebes mentioned by Nahum and for the campaigns of Pharaoh Shishak against Rehoboam of Judah, illustrating the network of African alliances that sustained Egyptian military power during much of the period of the Israelite monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "libios_ejercito_sisac",
+      "nombre": "Libyan troops of the Shishak army",
+      "descripcion": "Libyan military contingent integrated into the invading army of Pharaoh Shishak that attacks Jerusalem during the reign of Rehoboam.",
+      "religion": "North African polytheistic religions",
+      "periodo": "c. 925 BC"
+    },
+    {
+      "id": "libios_aliados_tebas",
+      "nombre": "Libyan military allies of Thebes",
+      "descripcion": "Libyan forces mentioned by Nahum among the military allies of Thebes who, despite their combined strength, failed to prevent the destruction of the city by the Assyrians.",
+      "religion": "North African polytheistic religions",
+      "periodo": "c. 663 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sisac-tropas-libias-jerusalen",
+      "titulo": "Libyan troops in the invasion of Shishak against Rehoboam",
+      "fecha": "c. 925 BC",
+      "descripcion": "Pharaoh Shishak invades Judah during the reign of Rehoboam with a massive army that includes chariots, horsemen, and an innumerable people of Egyptians, Libyans, Suchyens, and Ethiopians, plundering the treasures of the Temple and the royal palace as punishment for abandoning the Law of YHWH.",
+      "referencias": [
+        "2 Chr 12:2-9"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    },
+    {
+      "id": "nahum-libios-tebas",
+      "titulo": "Nahum mentions the Libyans as allies of the destroyed Thebes",
+      "fecha": "c. 663–612 BC",
+      "descripcion": "The prophet Nahum, recalling the fall of Thebes as a warning to Nineveh, specifically mentions the Libyans among the military allies of the Egyptian city, whose combined strength with Cush and Put did not ultimately prevent its destruction.",
+      "referencias": [
+        "Nah 3:9"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    },
+    {
+      "id": "ezequiel-libia-juicio-egipto",
+      "titulo": "Ezekiel includes Libya in the trial over Egypt's allies",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel mentions Put (Libya) and Lud among the allied peoples who will fall by the sword along with Egypt on the day of divine judgment announced against this great power and its associated nations.",
+      "referencias": [
+        "Ezek 30:5"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sisac_libia",
+      "nombre": "Shishak, Pharaoh by Egypt",
+      "rol": "Leader of the invading coalition that includes Libyan troops",
+      "periodo": "c. 925 BC",
+      "descripcion": "He leads a massive invasion against Judah that includes Libyan contingents among his multinational forces, plundering Jerusalem during Rehoboam's reign.",
+      "referencias": [
+        "2 Chr 12:2-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nahum_libia",
+      "nombre": "Nahum",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 663–612 BC",
+      "descripcion": "He cites Thebes' Libyan allies as part of the historical argument that even the most extensive military alliances could not save the Egyptian city from its final destruction.",
+      "referencias": [
+        "Nah 3:8-10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "roboam_libia",
+      "nombre": "Rehoboam",
+      "rol": "King of Judah, victim of the invasion with Libyan troops",
+      "periodo": "hierro_2",
+      "descripcion": "He suffers the plundering of Jerusalem by Shishak's multinational army that includes Libyan contingents, an episode presented as divine punishment for abandoning the Law.",
+      "referencias": [
+        "2 Chr 12:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Libya consistently appears in the biblical corpus not as its own protagonist but as an element of the network of military alliances that sustained Egyptian power at different historical moments, from the invasion of Shishak to the failed defense of Thebes; Its inclusion in the prophetic oracles of judgment against Egypt and its allies reinforces the biblical idea that divine judgment reaches not only the main power but also the entire network of nations that sustain its military power.",
+    "religiones_presentes": [
+      "North African polytheistic religions",
+      "Yahwism (prophetic oracles perspective)"
+    ],
+    "mitos": [
+      {
+        "id": "alianzas-africanas-egipto-libia",
+        "nombre": "Egypt's African military alliances as subject of joint trial",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Chr 12:2-9; Nah 3:9; Ez 30:5",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la red de alianzas militares de Egipto con pueblos africanos como Libia, Cus y Put como ejemplo de poder humano construido sobre alianzas extensas pero finalmente insuficientes frente al juicio divino",
+          "descripcion": "Jewish tradition notes that Egypt's repeated mention of Libya and other African allies in various biblical contexts—from the successful invasion of Shishak to the final fall of Thebes—illustrates how human power, no matter how extensive its military alliances, cannot be sustained indefinitely in the face of divine design, a principle applicable both to pagan nations and, implicitly, as a warning to Judah about the futility of placing ultimate trust in human military alliances rather than YHWH.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Egypt's network of military alliances with peoples like Libya exemplify the limits of organized human power in the face of YHWH's sovereign judgment over nations.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

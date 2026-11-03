@@ -1,0 +1,147 @@
+{
+  "id": "bashan",
+  "nombre": "Bashan",
+  "tipo": "territorio",
+  "lat": 32.8,
+  "lng": 35.94,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 60,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -722,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Fertile plateau northeast of Lake Galilee and east of the Jordan, famous for its bulls and oaks.",
+  "altitud_m": 600,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "cattle raising",
+    "agriculture",
+    "oak wood"
+  ],
+  "importancia_estrategica": "Agricultural and livestock region disputed between Israel and the Aramean kingdoms.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bas_h1",
+      "titulo": "Victory over King Og by Bashan",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "Israel defeats the giant Og, king of Bashan, in Edrei; His iron bed was nine cubits long.",
+      "referencias": [
+        "Num 21:33-35",
+        "Deut 3:1-11"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Og"
+      ]
+    },
+    {
+      "id": "bas_h2",
+      "titulo": "The bulls of Bashan in Psalm 22",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Psalm 22 uses the 'bulls of Bashan' as a metaphor for the enemies that surround the righteous sufferer.",
+      "referencias": [
+        "Ps 22:12"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bas_h3",
+      "titulo": "The Transfiguration on Hermon by Bashan",
+      "fecha": "ca. 29 AD",
+      "descripcion": "Mount Hermon, on the borders of Bashan, is the probable location of the Transfiguration of Jesus.",
+      "referencias": [
+        "Matt 17:1-8"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bas_p1",
+      "nombre": "Og by Bashan",
+      "rol": "giant king",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "Last of the Rephaim; His defeat allowed Israel to control the northern Transjordan.",
+      "referencias": [
+        "Deut 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p2",
+      "nombre": "Yair of Manasseh",
+      "rol": "Conqueror",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "He conquered the villages of Bashan called 'the villages of Yair'.",
+      "referencias": [
+        "Num 32:41"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bas_p3",
+      "nombre": "Elijah from Gilead",
+      "rol": "Prophet",
+      "periodo": "ca. 875 BC",
+      "descripcion": "He traveled through the territories near Bashan in his escapes and pilgrimages.",
+      "referencias": [
+        "1 Kgs 19:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Land of giants, exuberant livestock and sacred oaks; His biblical images range from threat (bulls) to abundance.",
+    "religiones_presentes": [
+      "paganism_Canaanite",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "bas_m1",
+        "nombre": "The bulls of Bashan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The bulls of Bashan were the largest and fiercest in the ancient world; Psalm 22 uses them as an image of the enemies of the righteous.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The bulls of Bashan were the largest and fiercest in the ancient world; Psalm 22 uses them as an image of the enemies of the righteous.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Church Fathers interpreted the 'bulls of Bashan' of Psalm 22 as a prefiguration of the persecutors of Christ.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Church Fathers interpreted the 'bulls of Bashan' of Psalm 22 as a prefiguration of the persecutors of Christ.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

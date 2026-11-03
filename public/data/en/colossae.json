@@ -1,0 +1,150 @@
+{
+  "id": "colossae",
+  "nombre": "Colossae",
+  "tipo": "ciudad",
+  "lat": 37.777,
+  "lng": 29.296,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City in the valley of the Lycus River, in Phrygia (Asia Minor), famous for its purple wool.",
+  "altitud_m": 350,
+  "clima": "continental-mediterranean",
+  "recursos": [
+    "wool",
+    "agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Inner city of Phrygia with Jewish community and religious syncretism.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "col_h1",
+        "titulo": "Letter to the Colossians",
+        "fecha": "ca. 60-62 AD",
+        "descripcion": "Paul writes to the church of Colossae combating a syncretist heresy.",
+        "referencias": [
+          "Col 1-4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Epafras"
+        ]
+      },
+      {
+        "id": "col_h2",
+        "titulo": "Epaphras founded the church",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Epaphras, disciple of Paul, evangelizes the Lico valley and founds churches.",
+        "referencias": [
+          "Col 1:7",
+          "Col 4:12-13"
+        ],
+        "personajes_clave": [
+          "Epafras"
+        ]
+      },
+      {
+        "id": "col_h3",
+        "titulo": "Philemon and Onesimus",
+        "fecha": "ca. 60 AD",
+        "descripcion": "Paul intercedes for the slave Onesimus before his master Philemon of Colossae.",
+        "referencias": [
+          "Filemón 1:10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Filemón",
+          "Onésimo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "col_p1",
+        "nombre": "Epaphras",
+        "rol": "Founder of the church of Colossae",
+        "periodo": "s. I AD",
+        "descripcion": "Pauline disciple who evangelized the Lico valley.",
+        "referencias": [
+          "Col 1:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "col_p2",
+        "nombre": "Philemon",
+        "rol": "Church leader of Colossae",
+        "periodo": "s. I AD",
+        "descripcion": "Slave owner and house church host.",
+        "referencias": [
+          "Filemón 1:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "col_p3",
+        "nombre": "Onesimus",
+        "rol": "converted slave",
+        "periodo": "s. I AD",
+        "descripcion": "Philemon's slave who fled and was converted by Paul; He returned with the letter.",
+        "referencias": [
+          "Filemón 1:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Syncretic city where various philosophical and religious currents threatened the purity of the gospel.",
+      "religiones_presentes": [
+        "Judaism",
+        "greco_roman_paganism",
+        "incipient_gnosticism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "col_m1",
+          "nombre": "The Colossian Heresy",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "A mixture of Greek philosophy, Jewish practices, and angel veneration threatened the faith at Colossae; Paul responds with the supremacy of Christ.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "A mixture of Greek philosophy, Jewish practices, and angel veneration threatened the faith at Colossae; Paul responds with the supremacy of Christ.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

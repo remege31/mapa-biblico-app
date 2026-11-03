@@ -1,0 +1,147 @@
+{
+  "id": "goshen",
+  "nombre": "Gosen",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 31.8,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Regione fertile del delta orientale del Nilo, in Egitto, dove vissero gli israeliti durante il loro soggiorno in Egitto.",
+  "altitud_m": 20,
+  "clima": "subtropicale-umido",
+  "recursos": [
+    "pascolo",
+    "agricoltura",
+    "Acqua del Nilo"
+  ],
+  "importancia_estrategica": "Terreno assegnato dal faraone alla famiglia degli Giacobbe; Gli Israeliti l'abitarono per 430 anni prima dell'esodo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gos_h1",
+      "titulo": "Giuseppe stabilisce la sua famiglia a Gosen",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "Joseph, primo ministro di Egitto, stabilisce suo padre Giacobbe e i suoi fratelli nella terra di Goshen, il migliore di Egitto.",
+      "referencias": [
+        "Gen 46:28-34",
+        "Gen 47:1-6"
+      ],
+      "personajes_clave": [
+        "José",
+        "Jacob",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h2",
+      "titulo": "Gli israeliti crescono a Gosen",
+      "fecha": "ca. 1700-1280 a.C.",
+      "descripcion": "A Goshen la famiglia di Giacobbe crebbe fino a diventare un popolo numeroso; Il faraone li ridusse in schiavitù.",
+      "referencias": [
+        "Es 1:7-14"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "gos_h3",
+      "titulo": "Le piaghe non colpirono Gosen",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Durante le piaghe di Egitto, Dio separò la terra di Gosen: gli Israeliti non soffrirono la piaga delle mosche, la morte del bestiame, le tenebre, né i primogeniti.",
+      "referencias": [
+        "Es 8:22",
+        "Es 9:26"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gos_p1",
+      "nombre": "Josè",
+      "rol": "Primo Ministro di Egitto",
+      "periodo": "ca. 1720-1680 a.C.",
+      "descripcion": "Stabilì la sua famiglia a Gosen; La sua saggezza ha salvato Israele e Egitto dalla fame.",
+      "referencias": [
+        "Gen 47:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p2",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "ca. 1750-1640 a.C.",
+      "descripcion": "Discese a Gosen quando si riunì a Giuseppe; morì e fu imbalsamato in Egitto.",
+      "referencias": [
+        "Gen 46:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gos_p3",
+      "nombre": "Mosè",
+      "rol": "Liberatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Nacque e crebbe nella zona del delta dove vivevano gli Israeliti; Ha lasciato Goshen per l'esodo.",
+      "referencias": [
+        "Es 12:37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Goshen: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "gos_m1",
+        "nombre": "La terra protetta in mezzo al giudizio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Gosen era il luogo dove Dio separò il suo popolo in mezzo alle piaghe: gli Israeliti vivevano in Egitto ma non subirono il giudizio su Egitto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gosen era il luogo dove Dio separò il suo popolo in mezzo alle piaghe: gli Israeliti vivevano in Egitto ma non subirono il giudizio su Egitto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 12,99-100",
+          "fuente_secundaria": "",
+          "descripcion": "La discesa da Giacobbe/Israele a Egitto e la permanenza a Goshen sono narrati nel Corano come parte della storia di Yusuf (Giuseppe) (Cor 12,99-100).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La discesa da Giacobbe/Israele a Egitto e la permanenza a Goshen sono narrati nel Corano come parte della storia di Yusuf (Giuseppe) (Cor 12,99-100).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

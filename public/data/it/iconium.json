@@ -1,0 +1,147 @@
+{
+  "id": "iconium",
+  "nombre": "Iconio",
+  "tipo": "ciudad",
+  "lat": 37.8714,
+  "lng": 32.4847,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città della Frigia-Galatia sull'altopiano anatolico, al crocevia delle rotte commerciali.",
+  "altitud_m": 1017,
+  "clima": "continentale-secco",
+  "recursos": [
+    "agricoltura",
+    "lana",
+    "commercio"
+  ],
+  "importancia_estrategica": "Nodo stradale dell'Anatolia centrale.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ico_h1",
+        "titulo": "Predicazione a Iconio",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Paolo e Barnaba predicano nella sinagoga; molti credono ma sorgono opposizione e persecuzione.",
+        "referencias": [
+          "At 14:1-5"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ico_h2",
+        "titulo": "Complotto per lapidare i missionari",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Ebrei e gentili cospirano per lapidare Paolo e Barnaba, che fuggono.",
+        "referencias": [
+          "At 14:5-6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ico_h3",
+        "titulo": "Ritorno e consolidamento della chiesa",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "Al suo ritorno, Paolo nomina gli anziani nella chiesa di Iconio.",
+        "referencias": [
+          "At 14:21-23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ico_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Missionario",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Iconio evangelizzò nel primo e nel secondo viaggio missionario.",
+        "referencias": [
+          "At 14:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ico_p2",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha accompagnato Paolo nel primo viaggio attraverso Iconium.",
+        "referencias": [
+          "At 14:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ico_p3",
+        "nombre": "Timoteo",
+        "rol": "Discepolo di Paolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Originario della regione; si è unito a Paolo nel secondo viaggio.",
+        "referencias": [
+          "At 16:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città greco-romana con attiva comunità ebraica; scena dell'evangelizzazione dell'Asia Minore interna.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "greco_roman_paganesimo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ico_m1",
+          "nombre": "La persecuzione rafforza la Chiesa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "I tentativi di fermare il Vangelo a Iconio non fecero altro che disperdere i missionari, diffondendo il messaggio.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I tentativi di fermare il Vangelo a Iconio non fecero altro che disperdere i missionari, diffondendo il messaggio.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

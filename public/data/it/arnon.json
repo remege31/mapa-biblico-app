@@ -1,0 +1,136 @@
+{
+  "id": "arnon",
+  "nombre": "fiume Arnon",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.43,
+  "lng": 35.68,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 25,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Canyon profondo e fiume che sfocia nel Mar Morto a est; confine tra Moab e Amorrei.",
+  "altitud_m": -80,
+  "clima": "arido",
+  "recursos": [
+    "acqua",
+    "pesca",
+    "passo strategico"
+  ],
+  "importancia_estrategica": "Confine naturale della Transgiordania; confine tra il territorio moabita e quello amorreo che Israele doveva attraversare.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "arn_h1",
+      "titulo": "Israele attraversa l'Arnon",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israele attraversa il fiume Arnon nel suo percorso attraverso la Transgiordania verso Canaan, entrando nel territorio amorreo.",
+      "referencias": [
+        "Nm 21:13-14",
+        "Dt 2:24"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h2",
+      "titulo": "L'Arnon come confine promesso",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dio pone l'Arnon come confine meridionale del territorio che Israele conquisterà a est del Giordano.",
+      "referencias": [
+        "Dt 3:8",
+        "Gs 12:2"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h3",
+      "titulo": "Il libro delle guerre del Signore",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Un antico poema citato nel Libro delle Guerre dei Signori cita l'Arnon come teatro delle battaglie di Israele.",
+      "referencias": [
+        "Nm 21:14-15"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "arn_p1",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Ha guidato Israele attraverso l'Arnon nella marcia verso Canaan.",
+      "referencias": [
+        "Nm 21:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p2",
+      "nombre": "Re amorreo Sihon",
+      "rol": "Re amorreo di Heshbon",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Rifiutò il passaggio di Israele e venne sconfitto; Il loro territorio (a nord dell'Arnon) fu dato a Ruben e Gad.",
+      "referencias": [
+        "Nm 21:21-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p3",
+      "nombre": "Tavolo King di Moab",
+      "rol": "Re moabita",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "La Stele di Mesa menziona l'Arnon come confine settentrionale di Moab.",
+      "referencias": [
+        "2 Re 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "L'Arnon è stato il primo ostacolo naturale che Israele ha superato in Transgiordania; La loro traversata ha inaugurato la sequenza di vittorie che hanno preparato la conquista di Canaan.",
+    "religiones_presentes": [
+      "amorite_paganesimo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "arn_m1",
+        "nombre": "La traversata dell'Arnon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La traversata dell'Arnon dà inizio alla conquista della Transgiordania; prefigura l'attraversamento del Giordano.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La traversata dell'Arnon dà inizio alla conquista della Transgiordania; prefigura l'attraversamento del Giordano.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

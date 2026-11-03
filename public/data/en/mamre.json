@@ -1,0 +1,176 @@
+{
+  "id": "mamre",
+  "nombre": "Mamre",
+  "tipo": "ciudad",
+  "lat": 31.54909871686872,
+  "lng": 35.09356062020027,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Middle Bronze Age — Patriarchal residence of Abraham"
+    }
+  ],
+  "descripcion_geo": "Holm oak or terebinth grove near Hebron, in the hills of Judah, traditionally identified with a sacred oak grove that served as Abraham's long-term residence. Also associated with the field and the cave of Machpela, purchased by Abraham as a family burial site.",
+  "altitud_m": 930,
+  "clima": "Mountain Mediterranean — dry summers, cold winters with rain, typical of the Hebron highlands.",
+  "recursos": [
+    "Grove of oaks/terebintos (meaning of the name 'Elones de Mamre')",
+    "cattle grazing",
+    "Proximity to springs and the Macpelah cave"
+  ],
+  "importancia_estrategica": "Mamre has no military or commercial relevance; Its importance is entirely theological-narrative, as one of the main places of residence of Abraham in Canaan and the scene of some of the most significant theophanies and divine promises of the patriarchal cycle, including the visit of the three visitors and the announcement of the birth of Isaac.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_mamre",
+      "nombre": "Amorite Mamre and his brothers Escol and Aner",
+      "descripcion": "Local Amorites allies of Abraham, after whom the place is named; They accompany him in the pursuit of the kings who had captured Lot.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "c. 2100–1900 BC"
+    },
+    {
+      "id": "heteos_mamre",
+      "nombre": "Sons of Heth (Hittites)",
+      "descripcion": "Local population from whom Abraham buys the field and the cave of Machpelah as a family burial site, in a detailed negotiation that the biblical text describes with extensive legal protocol.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 2050 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-asentado-mamre",
+      "titulo": "Abraham establishes itself in the oak forests of Mamre",
+      "fecha": "c. 2090 BC",
+      "descripcion": "After separating from Lot, Abraham moves and settles next to the oak forests of Mamre, near Hebron, where he builds an altar to YHWH, turning the place into one of his most stable and prolonged residences in Canaan.",
+      "referencias": [
+        "Gen 13:18"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "tres-visitantes-mamre",
+      "titulo": "The three visitors and the announcement of the birth of Isaac",
+      "fecha": "c. 2067 BC",
+      "descripcion": "YHWH appears to Abraham in Mamre in the form of three visitors whom Abraham and Sarah receive with hospitality; During the visit, the birth of Isaac is announced, to which Sarah, now elderly, laughs in disbelief, and the imminent judgment on Sodom and Gomorrah is also revealed.",
+      "referencias": [
+        "Gen 18:1-15",
+        "Gen 18:16-33"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "sara"
+      ]
+    },
+    {
+      "id": "compra-macpela-mamre",
+      "titulo": "Abraham buys the Machpelah field and cave",
+      "fecha": "c. 2050 BC",
+      "descripcion": "After Sara's death, Abraham formally negotiates with Ephron the Hittite the purchase of the field of Machpelah, opposite Mamre, including the cave, the trees and the boundaries of the land, as a permanent family grave, in the first legal acquisition of land recorded in the patriarchal cycle.",
+      "referencias": [
+        "Gen 23:1-20"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_mamre",
+      "nombre": "Abraham",
+      "rol": "Patriarch, father of the Israelite faith",
+      "periodo": "bronce_medio",
+      "descripcion": "He established one of his longest residences in Mamre, built an altar to YHWH there, received visits from the three divine messengers, and negotiated the purchase of the field of Machpelah as a family burial site.",
+      "referencias": [
+        "Gen 13:18",
+        "Gen 18:1-33",
+        "Gen 23:1-20"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "mamre",
+        "egipto"
+      ]
+    },
+    {
+      "id": "sara_mamre",
+      "nombre": "Sarah",
+      "rol": "Abraham's wife, matriarch",
+      "periodo": "c. 2156–2029 BC (cronología tradicional)",
+      "descripcion": "Present in the store during the visit of the three messengers in Mamre, he laughs internally upon hearing the announcement that he will have a son in his old age, an episode that gives rise to the name Isaac ('he laughs').",
+      "referencias": [
+        "Gen 18:9-15"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    },
+    {
+      "id": "efron_heteo",
+      "nombre": "Ephron the Hittite",
+      "rol": "Local owner selling Macpela field",
+      "periodo": "c. 2050 BC",
+      "descripcion": "He negotiates before the sons of Heth the sale of the field and the cave of Machpelah to Abraham, in a transaction described with legal detail that confirms the legitimacy of the patriarchal possession of the first portion of land in Canaan.",
+      "referencias": [
+        "Gen 23:3-18"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mamre is one of the densest theological settings of the patriarchal cycle: a place of altar, of hospitable theophany and of the reaffirmed promise of offspring to an elderly couple. The visit of the three messengers has become one of the most reinterpreted images in the entire biblical tradition, read in terms of sacred hospitality, Trinitarian manifestation or simple angelic theophany depending on the receiving tradition.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism (cult of Abraham)",
+      "Canaanite-Amorite polytheism (local population)"
+    ],
+    "mitos": [
+      {
+        "id": "tres-visitantes-mamre-mito",
+        "nombre": "The three visitors to Mamre",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:1-15",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 48-50 (sobre la identidad de los tres visitantes como ángeles con misiones específicas)",
+          "descripcion": "Rabbinic tradition identifies the three visitors as angels, each with a specific mission—announce the birth of Isaac, destroy Sodom, heal Abraham after circumcision—and extensively develops the episode as a supreme model of hospitality (hachnasat orechim), a virtue considered greater even than receiving the divine presence itself.",
+          "similitudes": "It shares with Islam the recognition of visitors as angelic messengers with the same double mission (announcement and imminent destruction of Sodom).",
+          "diferencias": null,
+          "significado_teologico": "The episode establishes hospitality toward the stranger as a central virtue of biblical ethics, modeled directly on Abraham's behavior.",
+          "posible_relacion_cultural": "Shared tradition of the patriarch Abraham as a universal ethical model in the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 18:1-15 (recepción patrística e iconográfica, notablemente el icono de la Trinidad de Rublev)",
+          "fuente_secundaria": "Padres de la Iglesia oriental (especialmente la tradición que da origen al icono de la 'Hospitalidad de Abraham')",
+          "descripcion": "A significant current of Eastern Christian tradition reads the three visitors as a prefiguration or veiled manifestation of the Trinity, an interpretation that gives rise to one of the most famous iconographic images of Eastern Christian art, although other patristic readings identify them simply as angels.",
+          "similitudes": "It shares the narrative base and the theme of hospitality as an exemplary virtue.",
+          "diferencias": "The Trinitarian reading of the three visitors is a specifically Christian innovation, absent in both Jewish and Islamic traditions, which understand them as angels without Trinitarian connotations.",
+          "significado_teologico": "The episode becomes a visual and theological figure of the Trinity for an important part of the Christian tradition, without losing its original sense of exemplary hospitality.",
+          "posible_relacion_cultural": "Shared tradition of the patriarch Abraham as a founding figure common to the three Abrahamic religions."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 11:69-73; 51:24-30",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre los huéspedes honorables de Ibrahim",
+          "descripcion": "The Quran narrates the episode of Ibrahim's guests (angelic messengers) in a very similar way to the biblical story: they receive hospitality, announce the birth of a son (Isaac) despite the advanced age of Sara, who also laughs or is surprised, and reveal the mission to destroy Lot's people.",
+          "similitudes": "Narrative structure practically identical to the biblical story: hospitality, birth announcement, wife's reaction, and revelation of the imminent destruction of Sodom.",
+          "diferencias": "The Quran does not associate the specific place with the name 'Mamre'; The story focuses on the figure of Ibrahim without developing the local topography of the oak forest.",
+          "significado_teologico": "The episode confirms in Islamic tradition the veracity of the divine promise to Ibrahim and his role as a model hospitable prophet for the believing community.",
+          "posible_relacion_cultural": "Shared tradition of Patriarch Ibrahim/Abraham as a foundational prophetic figure common to all three Abrahamic religions."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

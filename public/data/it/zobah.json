@@ -1,0 +1,136 @@
+{
+  "id": "zobah",
+  "nombre": "Soba",
+  "tipo": "territorio",
+  "lat": 34.31,
+  "lng": 36.93,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Regno aramaico a nord di Damasco, tra il Libano e l'Eufrate; potere che Davide sconfisse nell'espansione del suo regno.",
+  "altitud_m": 600,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "commercio",
+    "pascolo",
+    "mestiere"
+  ],
+  "importancia_estrategica": "regno aramaico nemico di Davide; La sua sconfitta estese il dominio israelita all'Eufrate.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sob_h1",
+      "titulo": "Davide sconfigge Hadadezer re di Zobah",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Davide sconfigge re Hadadezer di Zoba, catturando 1.700 cavalieri e 20.000 soldati; gli Aramei di Damasco vengono in aiuto e vengono sconfitti anche loro.",
+      "referencias": [
+        "2 Sam 8:3-8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h2",
+      "titulo": "L'esercito di Zoba nella guerra contro gli Ammoniti",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Gli Ammoniti assoldano l'esercito di Zobah per affrontare Davide; Joab li sconfigge su due fronti.",
+      "referencias": [
+        "2 Sam 10:6-19"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "Hadadezer"
+      ]
+    },
+    {
+      "id": "sob_h3",
+      "titulo": "Il rame del Tempio di Sobá",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Davide prelevava grandi quantità di bronzo dalle città di Zoba; Salomone ha utilizzato quel metallo per gli utensili del Tempio.",
+      "referencias": [
+        "1 Cr 18:8"
+      ],
+      "personajes_clave": [
+        "David",
+        "Salomón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sob_p1",
+      "nombre": "Hadadezer",
+      "rol": "Re di Soba",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "È stato sconfitto due volte da Davide; I suoi tesori metallici finirono nel Tempio di Gerusalemme.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p2",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Ha sconfitto Zobah, estendendo il dominio israelita all'Eufrate, mantenendo la sua promessa a Abramo.",
+      "referencias": [
+        "2 Sam 8:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sob_p3",
+      "nombre": "Ioab",
+      "rol": "Davide Generale",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Comandò la battaglia contro l'esercito di Zoba sul fronte ammonita.",
+      "referencias": [
+        "2 Sam 10:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sobá: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sob_m1",
+        "nombre": "Il metallo di Sobá nel Tempio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Il bronzo di Zobah catturato da Davide è stato fuso per realizzare gli utensili del Tempio: i tesori del nemico sconfitto servono la gloria di Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il bronzo di Zobah catturato da Davide è stato fuso per realizzare gli utensili del Tempio: i tesori del nemico sconfitto servono la gloria di Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

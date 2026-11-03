@@ -1,0 +1,122 @@
+{
+  "id": "cana",
+  "nombre": "Caná",
+  "tipo": "ciudad",
+  "lat": 32.7463,
+  "lng": 35.3395,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Aldea de Galilea a unos 12 km al norte de Nazaret, en las colinas de la Baja Galilea.",
+  "altitud_m": 220,
+  "clima": "mediterráneo",
+  "recursos": [
+    "viñedos",
+    "olivos",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Escenario del primer milagro de Jesús; hogar de Natanael.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "can_h1",
+        "titulo": "Las bodas de Caná",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Jesús convierte el agua en vino en una boda, su primera señal milagrosa según Juan.",
+        "referencias": [
+          "Jn 2:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "Los discípulos"
+        ]
+      },
+      {
+        "id": "can_h2",
+        "titulo": "Sanación a distancia",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Desde Caná, Jesús sana al hijo de un oficial real que agonizaba en Capernaum.",
+        "referencias": [
+          "Jn 4:46-54"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Oficial real"
+        ]
+      },
+      {
+        "id": "can_h3",
+        "titulo": "Natanael, el de Caná, en la pesca milagrosa",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Tras la resurrección, siete discípulos —entre ellos Natanael, «el de Caná de Galilea»— pescan sin éxito en el lago de Tiberíades hasta que Jesús, desde la orilla, les indica dónde echar la red.",
+        "referencias": [
+          "Jn 21:1-14"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Natanael",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "can_p1",
+        "nombre": "Natanael",
+        "rol": "Discípulo de Jesús",
+        "periodo": "s. I d.C.",
+        "descripcion": "Natural de Caná, llamado por Jesús bajo la higuera; identificado tradicionalmente con Bartolomé.",
+        "referencias": [
+          "Jn 1:45-51",
+          "Jn 21:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "can_p2",
+        "nombre": "María, madre de Jesús",
+        "rol": "Madre de Jesús",
+        "periodo": "s. I a.C.-s. I d.C.",
+        "descripcion": "Está presente en las bodas de Caná, advierte a Jesús de que falta vino e indica a los sirvientes que hagan lo que él les diga.",
+        "referencias": [
+          "Jn 2:1-5"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "can_p3",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías",
+        "periodo": "n. ca. 6-4 a.C.; m. ca. 30 d.C.",
+        "descripcion": "Realiza en Caná su primer signo al convertir el agua en vino y, de nuevo en Caná, sana a distancia al hijo de un funcionario real.",
+        "referencias": [
+          "Jn 2:1-11",
+          "Jn 4:46-54"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

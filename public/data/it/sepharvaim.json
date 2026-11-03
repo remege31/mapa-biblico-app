@@ -1,0 +1,134 @@
+{
+  "id": "sepharvaim",
+  "nombre": "Sefarvaim",
+  "tipo": "ciudad",
+  "lat": 33.79,
+  "lng": 44.46,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città mesopotamica (forse Sippar sull'Eufrate) i cui abitanti furono deportati a Samaria dagli Assiri.",
+  "altitud_m": 40,
+  "clima": "continentale-arido",
+  "recursos": [
+    "agricoltura fluviale",
+    "commercio"
+  ],
+  "importancia_estrategica": "Fonte dei coloni stranieri trapiantati su Samaria dopo la deportazione israeliana.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sep_h1",
+      "titulo": "Gli Assiri deportano Sefarvaim a Samaria",
+      "fecha": "722 a.C.",
+      "descripcion": "Dopo aver deportato gli Israeliti del nord, gli Assiri portano persone da Sefarvaim e da altre città per ripopolare Samaria.",
+      "referencias": [
+        "2 Re 17:24,31"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "sep_h2",
+      "titulo": "Gli dei di Sefarvaim: Adramelech e Anamelech",
+      "fecha": "ca. 722 a.C.",
+      "descripcion": "I Sefarvaim adoravano Adramelech e Anamelech, dei ai quali sacrificavano i loro figli nel fuoco.",
+      "referencias": [
+        "2 Re 17:31"
+      ],
+      "personajes_clave": [
+        "sefarvaímitas"
+      ]
+    },
+    {
+      "id": "sep_h3",
+      "titulo": "Sennacherib: dove sono gli dei di Sefarvaim?",
+      "fecha": "701 a.C.",
+      "descripcion": "Il generale assiro Rabshakeh chiede alla gente di Gerusalemme: \"Gli dei di Sefarvaim hanno liberato la loro città dalle mie mani?\"",
+      "referencias": [
+        "2 Re 18:34",
+        "Is 36:19"
+      ],
+      "personajes_clave": [
+        "Senaquerib",
+        "Rabsaqué",
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sep_p1",
+      "nombre": "Sargone II",
+      "rol": "Re di Assiria",
+      "periodo": "722-705 a.C.",
+      "descripcion": "Deportò gli Israeliti a Assiria e portò Sefarvaim a Samaria.",
+      "referencias": [
+        "2 Re 17:24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sep_p2",
+      "nombre": "Rabsaqué",
+      "rol": "Generale assiro",
+      "periodo": "ca. 701 a.C.",
+      "descripcion": "Ha usato la caduta di Sefarvaim come argomento per intimidire Gerusalemme.",
+      "referencias": [
+        "2 Re 18:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sep_p3",
+      "nombre": "Ezechia",
+      "rol": "Re di Giuda",
+      "periodo": "715-686 a.C.",
+      "descripcion": "Ha risposto all'argomentazione di Rabshakeh con la fede nel Dio di Israele di fronte alla sfida degli dei di Sefarvaim.",
+      "referencias": [
+        "2 Re 18:36"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sefarvaim: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sep_m1",
+        "nombre": "Gli dei di Sefarvaim contro il Dio di Israele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Gli dei di Sefarvaim non poterono salvare la loro città da Assiria; Il contrasto con il Dio di Israele che ha salvato Gerusalemme è l'argomento centrale del libro di Isaia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gli dei di Sefarvaim non poterono salvare la loro città da Assiria; Il contrasto con il Dio di Israele che ha salvato Gerusalemme è l'argomento centrale del libro di Isaia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

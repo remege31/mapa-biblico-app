@@ -1,0 +1,147 @@
+{
+  "id": "berea",
+  "nombre": "Berea",
+  "tipo": "ciudad",
+  "lat": 40.52,
+  "lng": 22.2,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City at the foot of the Bermio mountain in Macedonia, south of the Via Egnatia.",
+  "altitud_m": 70,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "agriculture",
+    "wood",
+    "marble"
+  ],
+  "importancia_estrategica": "Quiet city in Macedonia, known for the receptiveness of its inhabitants to the gospel.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ber_h1",
+        "titulo": "The Bereans and the Scriptures",
+        "fecha": "ca. 50 AD",
+        "descripcion": "The Bereans receive the message with enthusiasm and examine the Scriptures daily.",
+        "referencias": [
+          "Acts 17:10-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "ber_h2",
+        "titulo": "Disruption of Jews from Thessaloniki",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Jews from Thessalonica arrive in Berea and agitate the people; Paul is sent to sea.",
+        "referencias": [
+          "Acts 17:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ber_h3",
+        "titulo": "Sopater of Berea",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Sopater, son of Pyrrhus of Berea, accompanies Paul on his journey to Jerusalem.",
+        "referencias": [
+          "Acts 20:4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Sópater"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ber_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He preached briefly in Berea before leaving for Athens.",
+        "referencias": [
+          "Acts 17:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ber_p2",
+        "nombre": "silas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He remained in Berea while Paul advanced towards Athens.",
+        "referencias": [
+          "Acts 17:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ber_p3",
+        "nombre": "Sopater",
+        "rol": "Paul Contributor",
+        "periodo": "s. I AD",
+        "descripcion": "Bereano who accompanied Paul on his last trip to Jerusalem.",
+        "referencias": [
+          "Acts 20:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The most 'noble' city of the Pauline journey: its inhabitants verified the teachings with the Scriptures.",
+      "religiones_presentes": [
+        "Judaism",
+        "greco_roman_paganism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ber_m1",
+          "nombre": "The Biblical Berean Nobility",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Bereans are praised for examining the Scriptures to verify the teachings of Paul: Christian Discernment Model.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Bereans are praised for examining the Scriptures to verify the teachings of Paul: Christian Discernment Model.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

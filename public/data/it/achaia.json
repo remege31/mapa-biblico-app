@@ -1,0 +1,247 @@
+{
+  "id": "achaia",
+  "nombre": "Acaia",
+  "tipo": "territorio",
+  "lat": 38.23,
+  "lng": 21.73,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -146,
+      "hasta": 100,
+      "nombre": "romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana nel sud della Grecia, con capitale Corinto. Centro intellettuale e commerciale del mondo ellenistico.",
+  "altitud_m": 100,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "marmo",
+    "ceramica",
+    "filosofia"
+  ],
+  "importancia_estrategica": "Provincia dove Paolo fondò la chiesa di Corinto ed era imparentata con Atene.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ach_h1",
+      "titulo": "Paolo in Acaia: Atene e Corinto",
+      "fecha": "ca. 51-52 d.C.",
+      "descripcion": "Paolo predicò nell'Areopago di Atene e poi fondò la chiesa a Corinto, capitale dell'Acaia, dove rimase 18 mesi.",
+      "referencias": [
+        "At 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h2",
+      "titulo": "La collezione per i santi di Gerusalemme in Acaia",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Paolo elogia la generosità di Achaia (Corinto) nella colletta di Gerusalemme per i poveri.",
+      "referencias": [
+        "2 Cor 9:2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h3",
+      "titulo": "Gallione proconsole dell'Acaia",
+      "fecha": "ca. 52 d.C.",
+      "descripcion": "Il proconsole Gallio respinge l'accusa degli ebrei contro Paolo, affermando che si tratta di una questione di diritto loro.",
+      "referencias": [
+        "At 18:12-16"
+      ],
+      "personajes_clave": [
+        "Galión",
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ach_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Fondò la chiesa di Corinto in Acaia; scrisse le lettere ai Corinzi da e per questa regione.",
+      "referencias": [
+        "At 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p2",
+      "nombre": "Gallio",
+      "rol": "Proconsole romano dell'Acaia",
+      "periodo": "ca. 52 d.C.",
+      "descripcion": "Ha respinto l'accusa contro Paolo; il suo comando funge da ancoraggio cronologico del NT.",
+      "referencias": [
+        "At 18:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p3",
+      "nombre": "Crispo",
+      "rol": "Capo della sinagoga corinzia",
+      "periodo": "s. I d.C.",
+      "descripcion": "Convertito da Paolo in Acaia; La sua conversione fu un segno della potenza del Vangelo.",
+      "referencias": [
+        "At 18:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Centro intellettuale e morale del mondo greco-romano; Le lettere ai Corinzi rivelano le sfide del Vangelo in una città pagana cosmopolita.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "imperial_cult",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ach_m1",
+        "nombre": "L'Areopago di Atene",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo presenta il Vangelo al centro filosofico del mondo; Il 'Dio sconosciuto' venerato dagli Ateniesi è quello annunciato da Paolo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo presenta il Vangelo al centro filosofico del mondo; Il 'Dio sconosciuto' venerato dagli Ateniesi è quello annunciato da Paolo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ach_nt_h1",
+        "titulo": "Paolo nell'Areopago di Atene",
+        "fecha": "ca. 51 d.C.",
+        "descripcion": "Paolo presenta il Vangelo ai filosofi stoici ed epicurei all'Areopago; alcuni credono.",
+        "referencias": [
+          "At 17:22-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ach_nt_h2",
+        "titulo": "La fondazione della chiesa corinzia",
+        "fecha": "ca. 51-52 d.C.",
+        "descripcion": "Paolo trascorre 18 mesi a Corinto fondando una comunità nel cuore dell'Acaia.",
+        "referencias": [
+          "At 18:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Aquila",
+          "Priscila"
+        ]
+      },
+      {
+        "id": "ach_nt_h3",
+        "titulo": "Le epistole ai Corinzi: teologia per una chiesa urbana",
+        "fecha": "ca. 54-57 d.C.",
+        "descripcion": "Paolo scrive due lettere alla chiesa di Corinto affrontando la moralità, i doni spirituali e la risurrezione.",
+        "referencias": [
+          "1 Cor 1:1",
+          "2 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ach_nt_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Fondò la chiesa di Corinto; le sue lettere ai Corinzi sono centrali nel Nuovo Testamento.",
+        "referencias": [
+          "At 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p2",
+        "nombre": "Aquila e Priscilla",
+        "rol": "Missionari",
+        "periodo": "s. I d.C.",
+        "descripcion": "Coppia giudeo-cristiana che ha accolto Paolo a Corinto.",
+        "referencias": [
+          "At 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p3",
+        "nombre": "Dioniso l'Areopagita",
+        "rol": "Convertito ad Atene",
+        "periodo": "s. I d.C.",
+        "descripcion": "Uno dei pochi convertiti dal discorso dell'Areopago; La tradizione fa di lui il primo vescovo di Atene.",
+        "referencias": [
+          "At 17:34"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "L'Acaia fu il primo vero suolo greco dove il Vangelo mise radici profonde.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ach_nt_m1",
+          "nombre": "Il Dio sconosciuto",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "L'altare del “Dio sconosciuto” ad Atene ha fornito a Paolo il ponte per annunciare il Dio Creatore al mondo intellettuale greco.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'altare del “Dio sconosciuto” ad Atene ha fornito a Paolo il ponte per annunciare il Dio Creatore al mondo intellettuale greco.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

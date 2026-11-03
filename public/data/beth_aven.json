@@ -1,0 +1,138 @@
+{
+  "id": "beth_aven",
+  "nombre": "Bet-Avén",
+  "tipo": "ciudad",
+  "lat": 31.9,
+  "lng": 35.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Topónimo irónico ('casa de maldad') usado por los profetas para referirse a Betel ('casa de Dios') después de que Jeroboam instaló allí un becerro de oro.",
+  "altitud_m": 800,
+  "clima": "mediterráneo",
+  "recursos": [
+    "agricultura",
+    "artesanía"
+  ],
+  "importancia_estrategica": "Betel degradada: el nombre profético irónicamente describe el santuario del becerro de oro.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bav_h1",
+      "titulo": "Oseas llama 'Bet-Avén' a Betel",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "El profeta Oseas usa 'Bet-Avén' (casa de maldad) en lugar de 'Betel' (casa de Dios) para el santuario con el becerro de oro.",
+      "referencias": [
+        "Os 4:15",
+        "Os 5:8",
+        "Os 10:5"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "bav_h2",
+      "titulo": "La batalla de Israel contra los filisteos cerca de Bet-Avén",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "El ejército filisteo acampa entre Micmás y Bet-Avén; Saúl y Jonatán lanzan la ofensiva.",
+      "referencias": [
+        "1 Sam 13:5",
+        "1 Sam 14:23"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Jonatán"
+      ]
+    },
+    {
+      "id": "bav_h3",
+      "titulo": "Amós y el santuario de Betel/Bet-Avén",
+      "fecha": "ca. 760 a.C.",
+      "descripcion": "Amós denuncia el santuario de Betel como lugar de pecado; Oseas lo llama Bet-Avén por el becerro de oro.",
+      "referencias": [
+        "Am 4:4",
+        "Am 5:5"
+      ],
+      "personajes_clave": [
+        "Amós",
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bav_p1",
+      "nombre": "Oseas",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Usó el nombre 'Bet-Avén' como condena sarcástica al santuario del becerro de oro en Betel.",
+      "referencias": [
+        "Os 4:15"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p2",
+      "nombre": "Amós",
+      "rol": "Profeta",
+      "periodo": "ca. 760 a.C.",
+      "descripcion": "Denunció el santuario de Betel/Bet-Avén como sede del culto idólatra del reino del norte.",
+      "referencias": [
+        "Am 4:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p3",
+      "nombre": "Jeroboam I",
+      "rol": "Rey del norte",
+      "periodo": "931-910 a.C.",
+      "descripcion": "Instaló el becerro de oro en Betel, convirtiendo la 'casa de Dios' en 'casa de maldad'.",
+      "referencias": [
+        "1 Re 12:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bet-Avén: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bav_m1",
+        "nombre": "La casa de Dios convertida en casa de maldad",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 28:17",
+          "fuente_secundaria": "",
+          "descripcion": "Betel, donde Dios se reveló a Jacob (Gn 28:17), se convierte en Bet-Avén por el pecado del becerro de oro: la degradación del lugar sagrado es el paradigma del sincretismo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Betel, donde Dios se reveló a Jacob (Gn 28:17), se convierte en Bet-Avén por el pecado del becerro de oro: la degradación del lugar sagrado es el paradigma del sincretismo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

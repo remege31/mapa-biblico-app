@@ -1,0 +1,156 @@
+{
+  "id": "nile",
+  "nombre": "Fiume Nilo",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 30.09,
+  "lng": 31.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 51,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -400,
+      "nombre": "Bronzo medio - Post-esilio"
+    }
+  ],
+  "descripcion_geo": "Il fiume più lungo del mondo (6.650 km), fertilizza la stretta striscia di Egitto. Le sue inondazioni annuali hanno reso possibile la civiltà egiziana.",
+  "altitud_m": 5,
+  "clima": "arido-subtropicale",
+  "recursos": [
+    "acqua",
+    "agricoltura",
+    "papiro",
+    "pesca"
+  ],
+  "importancia_estrategica": "Spina dorsale della civiltà egizia; scena dell'esodo e dell'infanzia di Mosè.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "nil_h1",
+      "titulo": "Il piccolo Mosè nel Nilo",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "La madre di Mosè lo mette in un cesto di papiro nel Nilo per salvarlo dal decreto di morte; La figlia del faraone lo trova e lo adotta.",
+      "referencias": [
+        "Es 2:1-10"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jocabed",
+        "hija del faraón"
+      ]
+    },
+    {
+      "id": "nil_h2",
+      "titulo": "La prima piaga: il Nilo si trasforma in sangue",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Mosè colpisce il Nilo con il suo bastone e l'acqua si trasforma in sangue; muoiono tutti i pesci.",
+      "referencias": [
+        "Es 7:14-24"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "nil_h3",
+      "titulo": "Giuseppe e il sogno del Nilo",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "Il faraone sogna sette vacche grasse e sette magre che escono dal Nilo; Giuseppe lo interpreta come sette anni di abbondanza e sette di carestia.",
+      "referencias": [
+        "Gen 41:1-36"
+      ],
+      "personajes_clave": [
+        "José",
+        "Faraón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nil_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore di Israele",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Salvato dalle acque del Nilo da bambino; Poi trasformò quelle acque in sangue come segno davanti al Faraone.",
+      "referencias": [
+        "Es 2:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p2",
+      "nombre": "Josè",
+      "rol": "Statista e sognatore",
+      "periodo": "ca. 1700 a.C.",
+      "descripcion": "La sua interpretazione del sogno del Nilo lo portò al potere nel Egitto e salvò due nazioni dalla carestia.",
+      "referencias": [
+        "Gen 41:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p3",
+      "nombre": "La figlia del faraone",
+      "rol": "Principessa egiziana",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Ha salvato il bambino Mosè dal Nilo e lo ha adottato come suo figlio.",
+      "referencias": [
+        "Es 2:5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Nilo era divinità in Egitto (Hapi); La sua conversione in sangue fu un colpo diretto al cuore della religiosità egiziana.",
+    "religiones_presentes": [
+      "egiziano_paganesimo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "nil_m1",
+        "nombre": "Il Nilo come dio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La prima piaga trasformò in sangue il sacro Nilo, dichiarando che il Dio di Israele supera il dio-fiume egiziano.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La prima piaga trasformò in sangue il sacro Nilo, dichiarando che il Dio di Israele supera il dio-fiume egiziano.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2,13-16",
+          "fuente_secundaria": "",
+          "descripcion": "Il bambino Mosè salvato dalle acque è visto come prefigurazione di Gesù salvato dall'eccidio di Erode (Mt 2,13-16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il bambino Mosè salvato dalle acque è visto come prefigurazione di Gesù salvato dall'eccidio di Erode (Mt 2,13-16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 20,37-40",
+          "fuente_secundaria": "",
+          "descripcion": "Musa (Mosè) appare nel Corano; La sua storia sul Nilo è raccontata in Cor 20,37-40.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Musa (Mosè) appare nel Corano; La sua storia sul Nilo è raccontata in Cor 20,37-40.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

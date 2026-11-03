@@ -1,0 +1,190 @@
+{
+  "id": "ammon",
+  "nombre": "Ammon",
+  "tipo": "ciudad",
+  "lat": 31.9539,
+  "lng": 35.9106,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 42,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: fondazione del regno ammonita"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Regno rivale di Israele e Giuda"
+    }
+  ],
+  "descripcion_geo": "Ammon (oggi Amman, capitale della Giordania) si trovava sugli altopiani della Transgiordania, a est del fiume Giordano, alle sorgenti del fiume Jabbok. La città di Rabba (Rabbat-Ammon, la grande città di Ammon) era la capitale del regno ammonita. Situato a circa 800 metri sul livello del mare sull'altopiano della Transgiordania, controllava le rotte carovaniere tra l'Arabia e la Siria settentrionale.",
+  "altitud_m": 800,
+  "clima": "Mediterraneo continentale: più secco della Cisgiordania. Precipitazioni di 300-400 mm all'anno, inverni freddi, estati calde e secche. L'altopiano è fertile nelle zone irrigate dagli affluenti dello Jabbok.",
+  "recursos": [
+    "Terreni agricoli sull'altopiano (cereali, ulivi)",
+    "pascolo del bestiame",
+    "Rotte carovaniere (commercio tra Arabia e Siria)",
+    "Ferro (risorse minerarie nella regione della Transgiordania)"
+  ],
+  "importancia_estrategica": "Capitale del regno ammonita, uno degli stati della Transgiordania più tenaci nella resistenza a Israele. Rabba degli Ammoniti è la città che Joab assediò mentre Davide rimase in Gerusalemme, il contesto del peccato di Davide con Betsabea. La sua posizione sulle rotte carovaniere le conferì un'importanza commerciale indipendente.",
+  "otros_habitantes": [
+    {
+      "id": "amonitas",
+      "nombre": "Ammoniti",
+      "descripcion": "Gli Ammoniti sono presentati nell'Antico Testamento come discendenti di Ben-Ami, figlio di Lot e della sua figlia più giovane (Gen 19,38), il che li rende lontani parenti di Israele. Come i Moabiti, furono esclusi dall'assemblea di YHWH fino alla decima generazione (Dt 23:3). Tuttavia, la figura di Naamah l’Ammonita – madre di Roboamo – e la presenza di ammoniti nella corte di Salomone complicano questa esclusione teorica.",
+      "religion": "Politeismo ammonita: culto di Molech (o Milcom), dio nazionale a cui venivano attribuiti i sacrifici di bambini",
+      "periodo": "C. 1200–586 a.C"
+    },
+    {
+      "id": "naama-salomon",
+      "nombre": "Naamah l'Ammonita e le mogli straniere di Salomone",
+      "descripcion": "Salomone aveva mogli di popoli vicini, compresi gli Ammoniti. Naamah l'Ammonita era la madre di Roboamo, successore di Salomone (1 Re 14:21). La loro presenza nella stirpe reale di Giuda - proprio come fece Ruth la Moabita in quella di Davide - dimostra che l'esclusione teorica degli Ammoniti non era assoluta nella pratica. Salomone costruì un santuario per Milcom (dio ammonita) sul Monte degli Ulivi (1 Re 11:7), che Giosia distrusse (2 Re 23:13).",
+      "religion": "Sincretismo salomonico: culto di Milcom in Gerusalemme insieme agli dei di altre mogli straniere",
+      "periodo": "C. 970–930 a.C"
+    },
+    {
+      "id": "tobias-ammonita",
+      "nombre": "Tobia l'ammonita",
+      "descripcion": "Tobia il servitore ammonita fu uno dei principali oppositori di Neemia nella ricostruzione del muro Gerusalemme. Insieme a Sanballat e Gheshem, cospirò contro Neemia, tentò di intimidirlo e minò il progetto con scherni e intrighi. La presenza di un'ammonite con influenza in Gerusalemme nel periodo post-esilico riflette la complessità delle relazioni interetniche nella regione.",
+      "religion": "Sincretismo post-esilico: collegamenti con il tempio di Gerusalemme nonostante l'ostilità politica",
+      "periodo": "C. 445 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jefte-ammonitas",
+      "titulo": "Iefte e il voto tragico: la vittoria su Ammon e il suo prezzo",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Quando gli Ammoniti oppressero Israele in Transgiordania, gli anziani di Galaad convocarono Iefte, figlio di una prostituta bandita dai suoi fratelli, per guidarli. Iefte negoziò la sua riabilitazione e marciò contro gli Ammoniti. Prima della battaglia fece un voto a YHWH: la prima cosa che avrebbe lasciato di casa quando sarebbe tornato vittorioso sarebbe stata per YHWH. Ha sconfitto gli Ammoniti con una sconfitta devastante. Quando ritornò, la sua unica figlia uscì ad accoglierlo con tamburelli e danze. Iefte mantenne il suo voto. La tradizione non specifica esattamente cosa significasse ma la lettura più naturale è il sacrificio della giovane. Sua figlia ha chiesto due mesi per piangere la sua verginità con le sue amiche in montagna.",
+      "referencias": [
+        "Gdc 11:1-40"
+      ],
+      "personajes_clave": [
+        "jefte"
+      ]
+    },
+    {
+      "id": "david-rabbah",
+      "titulo": "L'assedio di Rabba e il peccato di Davide: Betsabea e Uria",
+      "fecha": "c. 990 a.C.",
+      "descripcion": "In primavera, quando i re vanno in campagna, Davide mandò Joab ad assediare Rabbah degli Ammoniti mentre lui rimaneva a Gerusalemme. Dalla sua terrazza vide Bathsheba, moglie di Uria l'ittita, uno dei suoi migliori guerrieri al fronte, fare il bagno. La chiamò, andò a letto con lei e quando rimase incinta, cercò di nasconderlo convocando Uriah dal fronte. Uria si rifiutò di dormire a casa mentre i suoi compagni erano in campagna. Davide lo rimandò indietro con una lettera a Joab: Metti Uriah nel bel mezzo della battaglia e allontanati da lui affinché possa essere ferito e morire. Uria è morto. Il profeta Natan confrontò Davide con la parabola della pecorella: Tu sei quell'uomo. L'episodio è il più moralmente inquietante nella narrazione davidica.",
+      "referencias": [
+        "2 Sam 11:1-27",
+        "2 Sam 12:1-25"
+      ],
+      "personajes_clave": [
+        "david",
+        "natan"
+      ]
+    },
+    {
+      "id": "naamah-nehemias",
+      "titulo": "Neemia contro gli Ammoniti: la ricostruzione delle mura",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Quando Neemia ritornò a Gerusalemme per ricostruire il muro, incontrò l'opposizione coordinata di Sanballat l'oronita, Tobia il servitore ammonita e Gheshem l'arabo. Le tattiche includevano il ridicolo (si solleveranno pietre dai mucchi di macerie?), la minaccia di un attacco militare, la richiesta di trattative trappole e la corruzione dei profeti per intimidire Neemia. Ha risposto in modo pragmatico: i costruttori lavoravano con una mano e con l'altra tenevano una lancia. Il muro è stato completato in 52 giorni.",
+      "referencias": [
+        "Ne 2:19-20",
+        "Ne 4:1-23",
+        "Ne 6:1-19"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jefte",
+      "nombre": "Iefte il Galaadita",
+      "rol": "Giudice-guerriero, vincitore di Ammon",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Figlio di un uomo di nome Galaad e di una prostituta, Iefte fu espulso dall'eredità di famiglia dai suoi fratelli. Viveva come leader di una banda di emarginati. Quando gli Ammoniti minacciarono Israele, i suoi fratelli lo convocarono come comandante militare. Jefte ha negoziato la riabilitazione formale prima di accettare. La sua vittoria sugli Ammoniti fu decisiva, ma il suo voto affrettato fece di lui una delle figure più tragiche del libro dei Giudici. L’ambiguità morale della sua storia: il voto era obbligatorio? Lo ha realizzato letteralmente? – ha generato secoli di dibattito.",
+      "referencias": [
+        "Gdc 11:1-40",
+        "Gdc 12:1-7",
+        "Eb 11:32"
+      ],
+      "ruta": [
+        "ammon"
+      ]
+    },
+    {
+      "id": "david-ammon",
+      "nombre": "Davide",
+      "rol": "Re che assediò Rabba mentre cadeva nel peccato",
+      "periodo": "hierro_2",
+      "descripcion": "La campagna contro Ammon fu il contesto del peccato più grave di Davide: l'adulterio con Betsabea e l'omicidio indiretto di Uria. L'ironia è pesante: mentre Joab assediava la capitale ammonita in nome del re, il re usava il suo potere per distruggere uno dei suoi più grandi guerrieri. L'episodio segna l'inizio del declino dinastico: spada, incesto, ribellione. Il profeta Natan lo affrontò con una parabola che lo stesso Davide condannò prima di ammettere che riguardava lui.",
+      "referencias": [
+        "2 Sam 10:1-19",
+        "2 Sam 11:1-27",
+        "2 Sam 12:1-31"
+      ],
+      "ruta": [
+        "jerusalen",
+        "hebron",
+        "ammon"
+      ]
+    },
+    {
+      "id": "nehemias",
+      "nombre": "Neemia ben Hakalya",
+      "rol": "Coppiere del re persiano, ricostruttore delle mura di Gerusalemme",
+      "periodo": "post_exilio",
+      "descripcion": "Coppiere del re persiano Artaserse I, Neemia ottenne il permesso di ricostruire le mura di Gerusalemme dopo aver appreso del suo stato rovinoso. Organizzò la ricostruzione per sezioni familiari, coordinò la difesa contro le minacce esterne e riformò le pratiche sociali interne (usura, matrimoni misti). Il suo avversario Tobia l'Ammonita rappresentava esattamente ciò che Neemia voleva evitare: l'infiltrazione straniera nella comunità ricostituita.",
+      "referencias": [
+        "Ne 1:1-11",
+        "Ne 2:1-20",
+        "Ne 4:1-23",
+        "Ne 13:1-31"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ammon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ammon è il vicino transgiordano che incarna l'ambivalenza dei rapporti di Israele con i popoli fratelli. Parente di Israele secondo la genealogia di Lot, rivale permanente sul campo di battaglia, escluso dall'assemblea dalla legge deuteronomista ma presente nella stirpe reale attraverso Naama, madre di Roboamo. Il dio ammonita Milcom, a cui venivano attribuiti i sacrifici di bambini, ricevette un santuario in Gerusalemme da Salomone: il peccato finale del sincretismo reale. L'opposizione di Tobia l'ammonita a Neemia è l'ultimo capitolo di questo rapporto ambivalente.",
+    "religiones_presentes": [
+      "Politeismo ammonita - culto di Milcom (Moloch)",
+      "Yahvismo di Israele (in permanente tensione con il culto degli Ammoniti)",
+      "Sincretismo salomonico (tempio Milcom in Gerusalemme)"
+    ],
+    "mitos": [
+      {
+        "id": "moloc-sacrificio",
+        "nombre": "Milcom/Moloch: il dio a cui venivano offerti i bambini",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Levítico 18:21; 20:2-5; 1 Reyes 11:7; 2 Reyes 23:10",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 64a; Midrash Vayikra Rabbah 20",
+          "descripcion": "Il divieto di far passare i bambini nel fuoco per Molech è uno dei più enfatici della Torah. Il Talmud discute sull'esatta natura del rito: si trattava di un vero e proprio sacrificio o di una purificazione mediante il fuoco senza morte? Il Tophet nella Valle di Hinnom (Geenna) era il luogo in cui venivano eseguiti questi riti nel Giuda. Giosia ha profanato il Tofet per renderlo impraticabile.",
+          "similitudes": "Il sacrificio dei bambini come offerta suprema ha paralleli nelle culture fenicie (tophet di Cartagine) confermati archeologicamente.",
+          "diferencias": "Il dibattito accademico moderno si chiede se i resti del bambino nel tofet cartaginese siano sacrifici o cimiteri di bambini morti per cause naturali.",
+          "significado_teologico": "La proibizione di Molech definisce il confine tra Yahwismo e il paganesimo circostante: YHWH non esige mai la vita dei bambini, ma piuttosto la loro consacrazione nella vita.",
+          "posible_relacion_cultural": "Il tophet di Cartagine, colonia fenicia, è il parallelo archeologico più vicino; Le iscrizioni fenicie di mlk come termine sacrificale supportano l'identificazione Moloch-Milcom."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Levítico 18:21; Hechos 7:43 (cita de Amós 5:26)",
+          "fuente_secundaria": "Agustín, Ciudad de Dios VII.19; Tertuliano, Apologético 9",
+          "descripcion": "Il Nuovo Testamento cita Amos 5:26 su Molech nel discorso di Stefano (Atti 7:43). I Padri della Chiesa usarono il culto di Molech come esempio estremo di degrado pagano, contrapponendolo al Dio che provvide un agnello sostitutivo per Abramo (Gen 22). La Valle di Hinnom (Geenna) divenne il nome dell'inferno nella tradizione cristiana.",
+          "similitudes": "Si condivide il sacrificio dei bambini come paradigma del male supremo.",
+          "diferencias": "L'enfasi cristiana cade sul contrasto con la divina provvidenza (l'agnello invece di Isacco), non sulla legislazione settaria.",
+          "significado_teologico": "La Geenna, il luogo del fuoco di Molech nella Valle di Hinnom, diventa l'immagine della punizione eterna.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

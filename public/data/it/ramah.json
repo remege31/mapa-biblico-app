@@ -1,0 +1,181 @@
+{
+  "id": "ramah",
+  "nombre": "Ramo",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8964,
+  "lng": 35.2017,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Città della tribù di Beniamino situata sulle colline a nord di Gerusalemme, a circa 8 km dalla capitale. La sua posizione elevata sulla strada principale tra Gerusalemme e Betel lo ha reso un punto di controllo strategico per il territorio centrale di Israele. Identificato con l'attuale er-Ram.",
+  "altitud_m": 858,
+  "clima": "montagna mediterranea; estati secche e calde, inverni con piogge e nebbie occasionali.",
+  "recursos": [
+    "Agricoltura su terrazzamenti calcarei",
+    "Olivi e vigneti",
+    "pascolo del bestiame",
+    "calcare locale"
+  ],
+  "importancia_estrategica": "Incrocio stradale tra Gerusalemme e il nord di Israele. Fu punto di concentrazione dei deportati durante la conquista babilonese e residenza abituale del profeta Samuele, il che gli conferì un peso religioso e politico eccezionale.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -1100,
+      "hasta": -1000,
+      "nombre": "Periodo dei Giudici — Samuele a Ramah"
+    },
+    {
+      "desde": -900,
+      "hasta": -586,
+      "nombre": "Monarchia divisa: confine tra Israele e Giuda"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas",
+      "nombre": "Beniaminiti",
+      "descripcion": "Tribù israelita a cui apparteneva Ramah. Il suo territorio fu conteso tra i regni di Israele e Giuda dopo la divisione monarchica.",
+      "religion": "Yahvismo",
+      "periodo": "ferro_1 — ferro_2"
+    },
+    {
+      "id": "cananeos_del_norte",
+      "nombre": "Cananei Beniaminiti settentrionali",
+      "descripcion": "Precedenti coloni delle colline centrali che coesistevano con le tribù israelite durante l'insediamento a Canaan.",
+      "religion": "Politeismo Cananeo: culto di Baal e Asera",
+      "periodo": "tardo_bronzo — ferro_1"
+    },
+    {
+      "id": "babilonios_ocupantes",
+      "nombre": "Amministrazione babilonese",
+      "descripcion": "Dopo la distruzione di Gerusalemme, Ramah fu utilizzata dal generale Nebuzaradan come punto di concentrazione per i deportati ebrei prima del loro trasferimento a Babilonia.",
+      "religion": "Politeismo babilonese",
+      "periodo": "ferro_2"
+    }
+  ],
+  "historias": [
+    {
+      "id": "samuel_en_rama",
+      "titulo": "Samuele giudice e profeta a Ramah",
+      "fecha": "c. 1050 a.C.",
+      "descripcion": "Il profeta e giudice Samuele stabilì la sua residenza a Ramah, da dove amministrò la giustizia percorrendo un circuito annuale che comprendeva Betel, Galgala e Mizpah. A Ramah unse Saul come primo re di Israele e successivamente, dopo il rifiuto divino di Saul, unse segretamente Davide in Betlemme. Ramah fu anche il luogo di morte e sepoltura di Samuele, che lì ricoprì l'ultima grande magistratura di Israele prima della monarchia.",
+      "referencias": [
+        "1 Sam 7:17",
+        "1 Sam 8:4-5",
+        "1 Sam 19:18-24",
+        "1 Sam 25:1"
+      ],
+      "personajes_clave": [
+        "samuel"
+      ]
+    },
+    {
+      "id": "baasa_fortifica_rama",
+      "titulo": "Baasa fortifica Ramah contro Giuda",
+      "fecha": "c. 885 a.C.",
+      "descripcion": "Il re Baasha di Israele iniziò la fortificazione di Ramah per bloccare il traffico verso il regno di Giuda. Il re Asa di Giuda rispose corrompendo il re Ben-Hadad di Aram con argento e oro dal tesoro del tempio per attaccare il nord di Israele. Ben-Hadad invase le città del nord, costringendo Baasha ad abbandonare Ramah. Asa utilizzò le pietre delle opere di Rama per costruire le proprie fortificazioni a Gheba e Mizpa.",
+      "referencias": [
+        "1 Re 15:17-22",
+        "2 Cr 16:1-6"
+      ],
+      "personajes_clave": [
+        "baasa",
+        "asa"
+      ]
+    },
+    {
+      "id": "llanto_en_rama",
+      "titulo": "Il grido di Ramah: i deportati a Babilonia",
+      "fecha": "586 a.C.",
+      "descripcion": "Dopo la caduta di Gerusalemme, il generale babilonese Nebuzaradan concentrò gli ebrei destinati all'esilio a Ramah prima di intraprendere la marcia verso Babilonia. Il profeta Geremia, che lì era stato liberato dalle catene, assisteva alla scena. Il suo oracolo evoca Rachele che piange i suoi figli dalla tomba: un'immagine che il Nuovo Testamento riprenderebbe per la strage degli innocenti in Betlemme.",
+      "referencias": [
+        "Ger 31:15",
+        "Ger 40:1-4"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "samuel",
+      "nombre": "Samuele",
+      "rol": "Profeta, giudice e untore di re",
+      "periodo": "hierro_1",
+      "descripcion": "Ultimo grande giudice di Israele e primo profeta dell'era monarchica. Nato in risposta alla preghiera della madre Anna a Sciloh, fu consacrato al Signore fin da bambino. Da Ramah ha diretto la transizione di Israele verso la monarchia, ungendo sia Saul che Davide. La sua sepoltura a Ramah ne fece un luogo di pellegrinaggio.",
+      "referencias": [
+        "1 Sam 1:20",
+        "1 Sam 7:15-17",
+        "1 Sam 25:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "baasa",
+      "nombre": "Baasa",
+      "rol": "Re di Israele (nord)",
+      "periodo": "c. 900–877 a.C.",
+      "descripcion": "Re del regno settentrionale che cercò di controllare Ramah come posizione strategica contro Giuda. La sua politica di blocco commerciale contro Giuda ha innescato l’intervento aramaico e la disattivazione del suo progetto difensivo a Ramah.",
+      "referencias": [
+        "1 Re 15:16-22",
+        "2 Cr 16:1-6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jeremias",
+      "nombre": "Geremia",
+      "rol": "Profeta dell'esilio babilonese",
+      "periodo": "hierro_2",
+      "descripcion": "Profeta di Anathoth che sopravvisse alla distruzione di Gerusalemme e fu liberato dai babilonesi a Ramah. Lì contemplò la concentrazione dei deportati e pronunciò l'oracolo di Rachele che piange, immagine del dolore nazionale che avrebbe attraversato secoli e tradizioni religiose.",
+      "referencias": [
+        "Ger 1:1",
+        "Ger 31:15",
+        "Ger 40:1-6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ramah fu il centro spirituale del periodo di transizione tra i giudici e la monarchia grazie alla figura di Samuele. La sua funzione di sede profetica e luogo di giudizio ne fece un riferimento per lo Yahwismo premonarchico. Successivamente, il suo ruolo nell'esilio babilonese gli diede una carica simbolica di lutto nazionale che attraversò tutte e tre le tradizioni abramitiche.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "raquel_llora_en_rama",
+        "nombre": "Rachel piange per i suoi figli a Ramah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 31:15",
+          "fuente_secundaria": "Midrash Rabbah, Lamentaciones, Petijta 24 — Raquel intercede ante Dios por Israel en el exilio, conmoviendo su misericordia más que los patriarcas",
+          "descripcion": "Il profeta Geremia evoca Rachele, madre di Beniamino e Giuseppe, che piange dalla sua tomba a Rama per i figli di Israele che vanno in esilio. Dio risponde promettendo ritorno.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il grido di Raquel è la voce della maternità di Israele di fronte al dolore dell'esilio. La sua materna intercessione davanti a Dio nel Midrash supera quella degli stessi patriarchi, rivelando una teologia della compassione.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2:17-18",
+          "fuente_secundaria": "Orígenes, Commentarii in Matthaeum 2.16 — interpreta el llanto de Ramá como prefiguración del martirio de los inocentes",
+          "descripcion": "L'evangelista Matteo cita l'oracolo di Geremia per interpretare la strage degli innocenti da parte di Erode in Betlemme dopo la nascita di Gesù. Ramah diventa il simbolo del dolore delle mamme di Israele.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il dolore di Ramah prefigura la sofferenza legata alla nascita del Messia. Gesù viene al mondo in mezzo alla violenza del potere politico, seguendo il modello delle persone che piangono e vengono consolate.",
+          "posible_relacion_cultural": "Entrambe le tradizioni condividono la figura di Rachele come madre intercessione il cui grido mobilita la misericordia divina."
+        },
+        "islam": null
+      }
+    ]
+  }
+}

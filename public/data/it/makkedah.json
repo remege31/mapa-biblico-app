@@ -1,0 +1,165 @@
+{
+  "id": "makkedah",
+  "nombre": "Makkeda",
+  "tipo": "ciudad",
+  "lat": 31.935117,
+  "lng": 34.781326,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: conquista e assegnazione a Giuda"
+    }
+  ],
+  "descripcion_geo": "Città cananea nella Sefela (pianure Giuda), vicino a una grotta calcarea naturale che servì come rifugio e, in seguito, come prigione improvvisata nella storia della conquista. Terreno basso, dolcemente collinare, tipico della transizione tra la pianura costiera e la montagna centrale.",
+  "altitud_m": 250,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, più temperati rispetto alla costa a causa dell'altitudine della Shephelah.",
+  "recursos": [
+    "Grotte naturali di calcare",
+    "Terreni agricoli della Shephelah",
+    "Posizione sulle rotte tra la costa filistea e le montagne di Giuda"
+  ],
+  "importancia_estrategica": "Makkedah è stata teatro di uno degli episodi più citati della campagna Giosuè nel sud dell'Canaan: la sconfitta della coalizione di cinque re Amorrei e il loro ultimo rifugio in una grotta vicino alla città. Il suo controllo consolidò la presenza israelita nella Sefela dopo la caduta delle grandi città-stato cananee della regione.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_makkedah",
+      "nombre": "Cananei Amorrei",
+      "descripcion": "Popolazione originaria governata da un re locale, membro della coalizione di cinque re Amorrei sconfitti da Giosuè dopo l'episodio Gabaon.",
+      "religion": "Cananeo-Politeismo amorreo — culto di Baal e divinità locali",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "israelitas_makkedah",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Dopo la conquista, Makkedah viene assegnata al territorio di Giuda all'interno della divisione della Shephelah.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cinco-reyes-cueva",
+      "titulo": "I cinque re Amorrei si rifugiano nella grotta Makkedah",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dopo essere stati sconfitti da Giosuè in difesa di Gabaon, i re di Gerusalemme, Hebron, Jarmut, Lachis ed Eglon fuggono e si nascondono in una grotta vicino a Makkedah; Giosuè ordina che l'ingresso venga sigillato con pietre fino alla fine della battaglia.",
+      "referencias": [
+        "Gs 10:16-21"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-cinco-reyes",
+      "titulo": "Esecuzione dei cinque re",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Una volta assicurata la vittoria, Giosuè fece portare i cinque re fuori dalla grotta, li umiliò pubblicamente davanti ai leader israeliti, li giustiziò e ordinò che i loro corpi fossero appesi fino al tramonto, seppellendoli poi nella stessa grotta che era servita come loro rifugio.",
+      "referencias": [
+        "Gs 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "conquista-makkedah",
+      "titulo": "Presa della città di Makkedah",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Lo stesso giorno dell'esecuzione dei re, Giosuè conquista la città di Makkedah, mette il suo re e i suoi abitanti a fil di spada e non lascia sopravvissuti, ripetendo lo schema delle campagne del sud.",
+      "referencias": [
+        "Gs 10:28"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Il successore di Mosè che guida la campagna militare meridionale di Canaan; A Makkedah è protagonista sia dell'episodio della grotta dei cinque re che della conquista della città stessa.",
+      "referencias": [
+        "Gs 10:16-28"
+      ],
+      "ruta": [
+        "jericho",
+        "makkedah",
+        "lachish"
+      ]
+    },
+    {
+      "id": "rey_jerusalen_adonisedec",
+      "nombre": "Adoni-sedec",
+      "rol": "Re amorreo di Gerusalemme, leader della coalizione dei cinque re",
+      "periodo": "bronce_tardio",
+      "descripcion": "Organizza la coalizione dei cinque re Amorrei contro Gabaon per aver stretto un accordo con Israele; sconfitto da Giosuè, viene giustiziato dopo essere stato ritrovato nella grotta di Makkedah.",
+      "referencias": [
+        "Gs 10:1-27"
+      ],
+      "ruta": [
+        "jerusalen",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "rey_hebron_makkedah",
+      "nombre": "Re della coalizione di Hebron, Jarmut, Lachis ed Eglon",
+      "rol": "Reyes Amorrei della coalizione del sud",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "Insieme al re di Gerusalemme, formano la coalizione dei cinque re sconfitti nella battaglia di Gabaon; i cinque condividono la stessa sorte nella grotta di Makkedah.",
+      "referencias": [
+        "Gs 10:3-5",
+        "Gs 10:23"
+      ],
+      "ruta": [
+        "makkedah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Makkedah non ha un culto proprio; Il suo peso religioso è interamente narrativo, come la scena del giudizio divino eseguito tramite Giosuè sui re Cananei. L'episodio è inscritto nella teologia deuteronomista dell'herem (consacrazione alla distruzione) che caratterizza il racconto della conquista, presentando la sconfitta e l'esecuzione dei re come manifestazione del giudizio di YHWH sul popolo di Canaan.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva della storia biblica)",
+      "Cananeo-Politeismo amorreo (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "cueva-cinco-reyes",
+        "nombre": "La grotta dei cinque re",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 10:16-27",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 10a-b (discusión sobre los reyes derrotados por Josué)",
+          "descripcion": "La tradizione rabbinica dettaglia l'episodio come esempio di controllo divino dei fenomeni naturali a favore di Israele (il sole si fermò) e come adempimento del giudizio annunciato contro i popoli Cananei.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'esecuzione pubblica dei re simboleggia la vittoria di YHWH sui poteri politici e religiosi contrari a Israele; Il gesto di calpestare il collo dei re rappresenta la sottomissione totale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gs 10:16-27 (recepción patrística como tipología de victoria sobre el mal)",
+          "fuente_secundaria": "Orígenes, Homilías sobre el libro de Josué, Homilía XI",
+          "descripcion": "Origene interpreta allegoricamente i cinque re come rappresentazione dei cinque sensi soggetti al dominio dello 'spirituale Giosuè' (tipo di Cristo), leggendo l'episodio in chiave morale piuttosto che storico-militare.",
+          "similitudes": "Condivide la base narrativa del testo di Giosuè.",
+          "diferencias": "La lettura patristica sposta il significato storico-militare verso un'allegoria spirituale sul dominio delle passioni.",
+          "significado_teologico": "La vittoria sui cinque re prefigura la vittoria di Cristo sulle potenze del male.",
+          "posible_relacion_cultural": "Ricezione cristiana del ciclo di conquista di Giosuè come tipologia cristologica, comune nella patristica antica."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "marah",
+  "nombre": "Mara",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 29.35,
+  "lng": 32.933333,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — The bitter waters sweetened"
+    }
+  ],
+  "descripcion_geo": "Place in the Sur desert, Israel's first camping point after crossing the Red Sea, whose name ('bitterness') derives directly from the condition of its waters, initially not suitable for human consumption.",
+  "altitud_m": 10,
+  "clima": "Desert — extremely dry and hot, typical of the Sinai peninsula near the Red Sea coast.",
+  "recursos": [
+    "Fountain of bitter water miraculously transformed into drinkable",
+    "Camping point on the exodus route"
+  ],
+  "importancia_estrategica": "Mara is the first place of testing for Israel immediately after the triumphant liberation of the Red Sea: the initial inability to drink its bitter waters provokes the first recorded complaint of the people in the desert, resolved through the miraculous intervention of YHWH who indicates to Moses a specific tree to sweeten the waters.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_marah",
+      "nombre": "Israel of the exodus",
+      "descripcion": "People who, after three days without finding water in the desert, arrive at Mara and complain bitterly when they discover that its waters are not drinkable.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "moises_aaron_marah",
+      "nombre": "Moses and Aaron",
+      "descripcion": "Israel leaders who directly receive the people's complaint about the bitter waters and mediate before YHWH to obtain the miraculous solution.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "queja-aguas-amargas-marah",
+      "titulo": "The people complain about the bitter waters of Mara",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After three days of marching through the desert without finding water after crossing the Red Sea, Israel arrives at Mara, but cannot drink its waters because they are bitter, which causes the first recorded murmuring of the people against Moses.",
+      "referencias": [
+        "Exod 15:22-24"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "moises-endulza-aguas-marah",
+      "titulo": "Moses sweetens the waters with a tree shown by YHWH",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Moses cries out to YHWH, who shows him a tree that, when thrown into the waters, transforms them into drinking water, an episode immediately followed by the establishment of an ordinance and statute where YHWH tests the obedience of the people and reveals himself as 'the one who heals you'.",
+      "referencias": [
+        "Exod 15:25-26"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "marah-primer-prueba-desierto",
+      "titulo": "Mara as the first test of the pilgrimage through the desert",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The episode of Mara establishes the recurring pattern of the entire pilgrimage story: unsatisfied basic need, complaint of the people, providential intervention of YHWH, and progressive revelation of the divine character, a pattern that will be repeated with variations in Massa-Meribah, Rephidim and other similar episodes.",
+      "referencias": [
+        "Exod 15:22-26"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_marah",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "Intercede with YHWH for the thirsty people in Marah, receiving the revelation of the tree that miraculously transforms bitter waters into drinkable ones.",
+      "referencias": [
+        "Exod 15:25"
+      ],
+      "ruta": [
+        "sinai",
+        "marah"
+      ]
+    },
+    {
+      "id": "pueblo_quejoso_marah",
+      "nombre": "Israel Congregation",
+      "rol": "Town that begins the pattern of murmuring in the desert",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He stars in the first recorded complaint of the desert pilgrimage, establishing the pattern that will be repeated in numerous subsequent episodes of Exodus and Numbers.",
+      "referencias": [
+        "Exod 15:24"
+      ],
+      "ruta": [
+        "marah"
+      ]
+    },
+    {
+      "id": "yhwh_sanador_marah",
+      "nombre": "YHWH (revelation as healer)",
+      "rol": "Provider and revealer of his character",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He is revealed in Mara with the title 'he who heals you', establishing a new aspect of his character in direct relation to the provision of transformed water and the health of the people.",
+      "referencias": [
+        "Exod 15:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mara establishes the fundamental theological pattern that will structure the entire desert wandering story: pressing need, understandable human complaint, and providential intervention that not only solves the immediate problem but progressively reveals a new aspect of YHWH's character—in this case, his identity as a healer—linking material provision with the progressive theological revelation of who God is to his people.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "arbol-endulza-aguas-marah",
+        "nombre": "The tree that sweetens the bitter waters of Mara",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 15:22-26",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la identidad del árbol mostrado a Moisés, frecuentemente vinculado simbólicamente con la Torá misma como fuente que 'endulza' las amarguras de la vida",
+          "descripcion": "Rabbinic tradition develops extensive speculation about the specific nature of the tree used to sweeten the waters, and frequently interprets the episode in a symbolic way, linking the tree with the Torah or with the observance of the commandments as a spiritual source capable of transforming the bitterness of human existence into something bearable and even beneficial.",
+          "similitudes": "It shares with Christianity the recognition of the symbolic value of the episode beyond its immediate literal meaning.",
+          "diferencias": null,
+          "significado_teologico": "The Mara episode early establishes the principle that YHWH provides not only for immediate material needs but uses these provisions to progressively reveal his character and establish formative statutes for his people.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 15:22-26 (recepción tipológica patrística sobre el árbol/madero como figura de la cruz)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan el árbol de Mara con el madero de la cruz como instrumento que transforma la amargura en dulzura",
+          "descripcion": "A current of the Christian patristic tradition typologically reads the tree of Mara as a prefiguration of the wood of the cross, interpreting that just as that tree transformed bitter waters into sweet ones, the cross of Christ transforms the bitterness of sin and death into the sweetness of salvation.",
+          "similitudes": "It shares with the Jewish reading the symbolic valuation of the tree beyond its immediate literal function.",
+          "diferencias": "The specific Christian typological reading (tree-cross) is a particular addition absent in the traditional Jewish interpretation, focused more on the connection with the Torah.",
+          "significado_teologico": "The tree of Mara becomes an Old Testament figure of the cross of Christ as an instrument transforming human bitterness into salvific sweetness.",
+          "posible_relacion_cultural": "Christian reception of the Exodus story typologically reinterpreted in a Christological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Spring"
+}

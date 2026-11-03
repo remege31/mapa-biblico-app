@@ -1,0 +1,134 @@
+{
+  "id": "seir_mount",
+  "nombre": "Monte Seir",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "I monti di Seir sono la catena montuosa a est dell'Araba abitata dagli Edomiti; Seír è un nome alternativo di Edom.",
+  "altitud_m": 1500,
+  "clima": "arido",
+  "recursos": [
+    "rame",
+    "pascolo"
+  ],
+  "importancia_estrategica": "La terra montuosa di Esaù; luogo della vittoria di Giosafat secondo 2 Cronache.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sei_h1",
+      "titulo": "La visione di Ezechiele contro il Monte Seir",
+      "fecha": "ca. 590 a.C.",
+      "descripcion": "Ezechiele profetizza contro il monte Seir perché si è rallegrato quando Israele è caduto; Sarà desolato.",
+      "referencias": [
+        "Ez 35"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "sei_h2",
+      "titulo": "Giosafat: Il monte Seir distrugge i suoi stessi alleati",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "Gli invasori di Moab e Ammon attaccano quelli del monte Seir; poi si rivoltano l'uno contro l'altro e si distruggono a vicenda.",
+      "referencias": [
+        "2 Cr 20:22-23"
+      ],
+      "personajes_clave": [
+        "Josafat"
+      ]
+    },
+    {
+      "id": "sei_h3",
+      "titulo": "Il Signore partì da Seir",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Il canto di Debora evoca il Signore che nel passato uscì dal campo di Edom/Seír.",
+      "referencias": [
+        "Gdc 5:4"
+      ],
+      "personajes_clave": [
+        "Débora"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sei_m_p1",
+      "nombre": "Ezechiele",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Ha pronunciato un oracolo completo contro il Monte Seir per la sua ostilità nei confronti di Israele.",
+      "referencias": [
+        "Ez 35:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p2",
+      "nombre": "Giosafat",
+      "rol": "Re di Giuda",
+      "periodo": "873-849 a.C.",
+      "descripcion": "I loro nemici sul monte Seir si distrussero a vicenda; La sua vittoria fu senza combattimento.",
+      "referencias": [
+        "2 Cr 20:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p3",
+      "nombre": "Debora",
+      "rol": "profetessa e giudice",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "La loro canzone evoca l'antica marcia di Dio da Seir come immagine del suo potere.",
+      "referencias": [
+        "Gdc 5:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Monte Seir: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sei_m1",
+        "nombre": "Dio marcia da Seir",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "iudici 5,4",
+          "fuente_secundaria": "",
+          "descripcion": "Dio marcia da Seir per salvare il suo popolo: il monte del nemico diventa teatro dell'azione divina (Giudici 5,4; Dt 33,2).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dio marcia da Seir per salvare il suo popolo: il monte del nemico diventa teatro dell'azione divina (Giudici 5,4; Dt 33,2).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

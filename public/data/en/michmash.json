@@ -1,0 +1,164 @@
+{
+  "id": "michmash",
+  "nombre": "Micmás",
+  "tipo": "ciudad",
+  "lat": 31.87018434231688,
+  "lng": 35.27923581936973,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Saul Camp, Jonathan's victory against the Philistines"
+    }
+  ],
+  "descripcion_geo": "City in the territory of Benjamin, located on the edge of a deep gorge (the Michmas Pass) that separated it from Geba, formed by two rocky crags known as Bosez and Sene. This natural gorge was the scene of the forced crossing between the Israelite and Philistine positions.",
+  "altitud_m": 600,
+  "clima": "Mountain Mediterranean — dry summers, cold winters with rain, typical of the Benjamin Plateau.",
+  "recursos": [
+    "Defensive natural gorge between two rocks",
+    "Position of control over the passage into the central Benjaminite territory"
+  ],
+  "importancia_estrategica": "Michmas is the scene of the decisive battle that marks the beginning of the liberation of Israel from Philistine rule under Saul, carried out mainly by the bold initiative of his son Jonathan; The gorge between Micmas and Geba functions as a geographical and military turning point in the territorial conflict between Israel and Philistia during the reign of Saul.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_michmash",
+      "nombre": "Philistine garrison and army",
+      "descripcion": "Philistine force camped at Michmas with an advanced garrison in the pass, including chariots and horsemen in numbers described as 'like the sand that is on the seashore'.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1040 BC"
+    },
+    {
+      "id": "benjaminitas_michmash",
+      "nombre": "Tribe of Benjamin",
+      "descripcion": "Benjaminite population of the region of Michmas, later repopulated after the return from exile according to the census of Nehemiah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "saul-acampa-geba-michmash",
+      "titulo": "The Philistine army gathers at Michmas",
+      "fecha": "c. 1040 BC",
+      "descripcion": "Following Jonathan's initial attack on a Philistine garrison, the Philistines gather a massive army of chariots, horsemen, and infantry and camp at Michmas, causing most of Saul's men to scatter in fear, hiding in caves and rocks.",
+      "referencias": [
+        "1 Sam 13:5-7"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "jonatan-cruza-desfiladero-michmash",
+      "titulo": "Jonathan and his armor bearer cross the gorge",
+      "fecha": "c. 1040 BC",
+      "descripcion": "Without telling his father, Jonathan and his armor bearer decide to cross the gorge between Boseh and Sene towards the Philistine garrison of Michmas, trusting that 'nothing prevents YHWH from saving with many or with few'; After a signal that they interpret as favorable, they ascend and defeat about twenty Philistines men in a small space.",
+      "referencias": [
+        "1 Sam 14:1-14"
+      ],
+      "personajes_clave": [
+        "jonatan"
+      ]
+    },
+    {
+      "id": "panico-filisteo-michmash",
+      "titulo": "Panic spreads through the Philistine camp",
+      "fecha": "c. 1040 BC",
+      "descripcion": "Following Jonathan's initial victory, an earthquake and supernatural panic spread throughout the Philistine camp at Michmas; Saul, noticing the confusion, launches a general attack that turns into a Philistine rout, with the hidden Israelites themselves joining the chase once victory is confirmed.",
+      "referencias": [
+        "1 Sam 14:15-23"
+      ],
+      "personajes_clave": [
+        "saul",
+        "jonatan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonatan_michmash",
+      "nombre": "Jonathan",
+      "rol": "Son of Saul, hero of the victory of Micmás",
+      "periodo": "hierro_1",
+      "descripcion": "He initiates on his own initiative, together with his armor bearer, the attack that triggers the general Philistine defeat in Michmas, demonstrating a bold faith that the liberation of Israel does not depend on the number of combatants but on the will of YHWH.",
+      "referencias": [
+        "1 Sam 14:1-23"
+      ],
+      "ruta": [
+        "geba",
+        "michmash"
+      ]
+    },
+    {
+      "id": "saul_michmash",
+      "nombre": "Saul",
+      "rol": "First king by Israel",
+      "periodo": "hierro_1",
+      "descripcion": "He camped with a diminished army in front of the Philistine garrison of Michmas; Upon detecting the panic unleashed by Jonathan's incursion, he launches the general attack that culminates in the Israelite victory.",
+      "referencias": [
+        "1 Sam 13:15-16",
+        "1 Sam 14:20-23"
+      ],
+      "ruta": [
+        "geba",
+        "michmash"
+      ]
+    },
+    {
+      "id": "escudero_jonatan",
+      "nombre": "Jonathan's armor bearer",
+      "rol": "Loyal companion in the raid on Micmás",
+      "periodo": "c. 1040 BC",
+      "descripcion": "He accompanies Jonathan in his risky decision to cross the gorge, responding with complete confidence: 'Do all that is in your heart... here I am with you at your will.'",
+      "referencias": [
+        "1 Sam 14:6-13"
+      ],
+      "ruta": [
+        "michmash"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Michmas is the scene of one of the most quoted statements of faith in the Old Testament, uttered by Jonathan before his attack: 'nothing prevents YHWH from saving with many or with few.' The episode functions as a thematic preview of David's subsequent duel against Goliath, establishing the recurring theological pattern of Israelite victory achieved through individual faith and bold initiative, confirmed by a providential sign (the earthquake and the Philistine panic) rather than by numerical or conventional military superiority.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Philistine polytheism — cult of Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "fe-jonatan-michmash",
+        "nombre": "Jonathan's faith: salvation with many or with few",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 14:6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la declaración de Jonatán como fórmula clásica de confianza en la providencia divina independientemente de las circunstancias numéricas",
+          "descripcion": "Jewish tradition cites Jonathan's phrase as one of the clearest biblical expressions of the principle that the salvation of Israel does not depend on the magnitude of the human resources available, but exclusively on the will of YHWH, a principle later applied to multiple situations of national adversity.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Jonathan's phrase becomes a recurring theological formula about God's sovereign freedom to save regardless of apparent material conditions.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 14:6 (recepción patrística sobre la confianza en la providencia divina ante la adversidad numérica)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que retoman la fe de Jonatán como modelo aplicable a la vida espiritual cristiana",
+          "descripcion": "The Christian tradition takes up Jonathan's statement as an example of active faith that does not wait for favorable conditions to act, generalizing the principle to the spiritual life of the individual believer in the face of seemingly insurmountable obstacles.",
+          "similitudes": "It shares with the Jewish reading the central value of faith in divine providence over material circumstances.",
+          "diferencias": "The Christian reading tends to apply the principle in a more individual and spiritual way than the Jewish reading, focused more on the collective salvation of Israel.",
+          "significado_teologico": "The episode is integrated as an Old Testament example of faith that acts without expecting human guarantees of success.",
+          "posible_relacion_cultural": "Shared reception of the cycle of Saul and Jonathan as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

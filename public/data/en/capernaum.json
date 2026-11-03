@@ -1,0 +1,208 @@
+{
+  "id": "capernaum",
+  "nombre": "Capernaum",
+  "tipo": "ciudad",
+  "lat": 32.8807,
+  "lng": 35.5751,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Seaside town of Galilee, on the important Via Maris trade route.",
+  "altitud_m": 210,
+  "clima": "semiarid-mediterranean",
+  "recursos": [
+    "fishing",
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Node on the international route and base of operations for Jesus in Galilee.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "pedro",
+      "nombre": "Peter",
+      "rol": "Galilee Fisherman, Leader of the Apostles",
+      "periodo": "vida_jesus",
+      "descripcion": "Simon of Bethsaida, settled in Capernaum, called by Jesus by the sea of ​​Galilee. After Pentecost he led the church of Jerusalem, took the gospel to the Gentiles in Caesarea and, according to tradition, died in Rome.",
+      "referencias": [
+        "Mark 1:16-31",
+        "Acts 2",
+        "Acts 10"
+      ],
+      "ruta": [
+        "capernaum",
+        "jerusalen",
+        "caesarea",
+        "rome"
+      ],
+      "viajes": [
+        {
+          "nombre": "Mission in Judea and the Gentile Cornelius",
+          "ruta": [
+            "jerusalen",
+            "lod",
+            "joppa",
+            "caesarea",
+            "jerusalen"
+          ],
+          "referencias": [
+            "Acts 9:32–11:18"
+          ]
+        },
+        {
+          "nombre": "Antioch of the diaspora",
+          "ruta": [
+            "jerusalen",
+            "antioch"
+          ],
+          "referencias": [
+            "Gal 2:11-14"
+          ]
+        },
+        {
+          "nombre": "Rome (patristic tradition)",
+          "ruta": [
+            "antioch",
+            "rome"
+          ],
+          "referencias": [
+            "1 Pet 5:13"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cap_h1",
+        "titulo": "Jesus Base of Operations",
+        "fecha": "ca. 27-30 AD",
+        "descripcion": "Capernaum becomes the center of the Galilean ministry of Jesus.",
+        "referencias": [
+          "Matt 4:13"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "cap_h2",
+        "titulo": "Centurion Healing",
+        "fecha": "ca. 28 AD",
+        "descripcion": "A Roman centurion asks Jesus to heal his servant; Jesus praises his faith.",
+        "referencias": [
+          "Matt 8:5-13"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "centurión"
+        ]
+      },
+      {
+        "id": "cap_h3",
+        "titulo": "The paralytic hanging from the ceiling",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Four men lower a paralyzed man from the ceiling to bring him closer to Jesus.",
+        "referencias": [
+          "Mark 2:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cap_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Preacher and healer",
+        "periodo": "ca. 27-30 AD",
+        "descripcion": "He established his base in Capernaum during his Galilean ministry.",
+        "referencias": [
+          "Matt 4:13"
+        ],
+        "ruta": [
+          "nazareth",
+          "capernaum",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "cap_p2",
+        "nombre": "Simon Peter",
+        "rol": "Fisherman and apostle",
+        "periodo": "s. I AD",
+        "descripcion": "A native of Bethsaida, he lived in Capernaum; called by Jesus.",
+        "referencias": [
+          "Mark 1:21,29"
+        ],
+        "ruta": [
+          "capernaum",
+          "bethsaida",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "cap_p3",
+        "nombre": "Matthew (Levi)",
+        "rol": "Tax collector, apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Tax collector in Capernaum, called by Jesus.",
+        "referencias": [
+          "Matt 9:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cosmopolitan city with Roman and Jewish presence; important synagogue from the 1st century.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "cap_m1",
+          "nombre": "The miracle of the centurion",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus heals a Roman official's servant without being present, declaring universal faith.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus heals a Roman official's servant without being present, declaring universal faith.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

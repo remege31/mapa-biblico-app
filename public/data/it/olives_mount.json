@@ -1,0 +1,257 @@
+{
+  "id": "olives_mount",
+  "nombre": "Monte degli Ulivi",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.778,
+  "lng": 35.247,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Ferro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Cresta montuosa a est di Gerusalemme separata dal Monte del Tempio dalla Valle del Kidron. Coperto di uliveti fin dall'antichità.",
+  "altitud_m": 820,
+  "clima": "mediterraneo",
+  "recursos": [
+    "olio d'oliva",
+    "uliveti",
+    "vista panoramica da Gerusalemme"
+  ],
+  "importancia_estrategica": "Luogo sacro per l'ebraismo (scena della profezia di Zaccaria) e centro degli ultimi giorni di Gesù in Gerusalemme.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oli_h1",
+      "titulo": "Davide fugge attraverso il Monte degli Ulivi",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Davide sale sul Monte degli Ulivi piangendo a piedi nudi mentre fugge dalla ribellione di suo figlio Assalonne.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "personajes_clave": [
+        "David",
+        "Absalón"
+      ]
+    },
+    {
+      "id": "oli_h2",
+      "titulo": "Ezechiele vede la Gloria lasciare il Tempio",
+      "fecha": "592 a.C.",
+      "descripcion": "La Gloria di Dio lascia il Tempio di Gerusalemme e si ferma sul Monte degli Ulivi.",
+      "referencias": [
+        "Ez 11:23"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "oli_h3",
+      "titulo": "La profezia di Zaccaria sulla montagna",
+      "fecha": "ca. 520 a.C.",
+      "descripcion": "Zaccaria profetizza che nel giorno del Signore i suoi piedi poggeranno sul monte degli Ulivi e questo si spaccherà in due.",
+      "referencias": [
+        "Zc 14:4"
+      ],
+      "personajes_clave": [
+        "Zacarías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oli_p1",
+      "nombre": "Davide",
+      "rol": "Re di Israele in fuga",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Salì piangendo sul monte degli Ulivi mentre fuggiva da Assalonne; simbolo di passione di Gesù.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p2",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Vide la Gloria di Dio riposare sulla montagna prima che Gerusalemme venisse distrutto.",
+      "referencias": [
+        "Ez 11:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p3",
+      "nombre": "Zaccaria",
+      "rol": "profeta post-esilico",
+      "periodo": "520-480 a.C.",
+      "descripcion": "Ha profetizzato che il Messia riposerà sul Monte degli Ulivi nell'ultimo giorno.",
+      "referencias": [
+        "Zc 14:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Montagna sacra tra Gerusalemme e il deserto; scena delle profezie messianiche e del dramma finale della vita di Gesù.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "oli_m1",
+        "nombre": "La montagna del ritorno divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11,23",
+          "fuente_secundaria": "",
+          "descripcion": "La Gloria di Dio si è fermata sul monte all'uscita dal Tempio (Ez 11,23); lì ritornerà alla fine (Zc 14,4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Gloria di Dio si è fermata sul monte all'uscita dal Tempio (Ez 11,23); lì ritornerà alla fine (Zc 14,4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "At 1,9-12",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù ascese al cielo dal Monte degli Ulivi (At 1,9-12); Gli angeli hanno promesso che tornerà allo stesso modo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù ascese al cielo dal Monte degli Ulivi (At 1,9-12); Gli angeli hanno promesso che tornerà allo stesso modo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "oli_nt_h1",
+        "titulo": "L'ingresso trionfale dal Monte degli Ulivi",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gesù scende dal Monte degli Ulivi a dorso d'asino tra gli applausi del pubblico; Zaccaria 9:9 si è adempiuto.",
+        "referencias": [
+          "Mt 21:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "oli_nt_h2",
+        "titulo": "Il discorso escatologico sul Monte degli Ulivi",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Seduto sul monte davanti al Tempio, Gesù annuncia la distruzione di Gerusalemme e i segni della fine.",
+        "referencias": [
+          "Mt 24:3-25:46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "oli_nt_h3",
+        "titulo": "Getsemani: l'agonia nell'orto",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Nel giardino ai piedi del Monte degli Ulivi, Gesù prega fino a sudare sangue prima di essere arrestato.",
+        "referencias": [
+          "Mt 26:36-56"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "oli_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Pregò, insegnò e fu arrestato sul Monte degli Ulivi; Da lì ascese al cielo.",
+        "referencias": [
+          "At 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p2",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Dormiva nel Getsemani e tagliò l'orecchio al servo quando fu arrestato Gesù.",
+        "referencias": [
+          "Mt 26:51"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p3",
+        "nombre": "Giuda Iscariota",
+        "rol": "discepolo traditore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Conosceva il frutteto e guidò la folla all'arresto di Gesù.",
+        "referencias": [
+          "Gv 18:2"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Il Monte degli Ulivi è stato il palcoscenico centrale della passione, del discorso escatologico e dell'ascensione di Gesù.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "oli_nt_m1",
+          "nombre": "La montagna della passione e dell'ascensione",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Il Monte degli Ulivi realizza la profezia di Zaccaria: il Messia scende trionfante e di lì ascende glorioso.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il Monte degli Ulivi realizza la profezia di Zaccaria: il Messia scende trionfante e di lì ascende glorioso.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

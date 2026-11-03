@@ -1,0 +1,170 @@
+{
+  "id": "beth_horon_lower",
+  "nombre": "Bethoron Inferiore",
+  "tipo": "ciudad",
+  "lat": 31.87892595986906,
+  "lng": 35.12356744466153,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Battaglia di Gabaon, città efraimita al confine con Beniamino"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: fortificazione salomonica"
+    }
+  ],
+  "descripcion_geo": "Città all'estremità inferiore del famoso passo di Beth-Horon, una via di salita di circa 600 metri di altitudine tra la valle di Aijalon e l'altopiano centrale di Beniamino/Efraim, una delle vie di comunicazione più importanti e contese tra la pianura costiera e Gerusalemme. Fa coppia con Bet-horón la Alta (situato più in alto nello stesso gradino).",
+  "altitud_m": 400,
+  "clima": "Mediterraneo di transizione: estati secche, inverni piovosi, clima intermedio tra la costa e le montagne a causa della posizione sul pendio del passo.",
+  "recursos": [
+    "Controllo del passaggio strategico di Bet-horón",
+    "Terreno agricolo terrazzato",
+    "Posizione fortificabile sulla strada costiera-Gerusalemme"
+  ],
+  "importancia_estrategica": "Il Passo di Beth-Horon è la via militare più utilizzata nella storia biblica per accedere a Gerusalemme dalla pianura costiera, motivo per cui appare ripetutamente nelle storie di guerra: l'inseguimento di Giosuè dopo Gabaon, la fortificazione salomonica del sistema difensivo del regno e, secoli dopo, episodi della guerra dei Maccabei. Chiunque controlli Beth-Horon controlla l'accesso militare più diretto al cuore montuoso di Giuda-Israele.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_bethoron",
+      "nombre": "Cananei",
+      "descripcion": "Popolazione originaria del passo prima della conquista israelita, che controllava un punto di transito naturalmente prezioso tra la costa e le montagne.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "efraimitas_bethoron",
+      "nombre": "Tribù di Efraim",
+      "descripcion": "Bet-Oron inferiore è assegnata al territorio di Efraim, al confine con Beniamino, facente parte del sistema di città che proteggeva il fianco occidentale delle tribù centrali.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "persecucion-bethoron-gabaon",
+      "titulo": "L'ascesa di Bet-horón alla ricerca di Gabaon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dopo la sconfitta della coalizione di cinque re Amorrei in Gabaon, Israele insegue gli eserciti in fuga lungo il percorso della salita da Beth-Horon ad Azekah e Makkeda, mentre YHWH scaglia grossi chicchi di grandine sui fuggitivi, uccidendo più nemici con la grandine che con la spada israelita.",
+      "referencias": [
+        "Gs 10:10-11"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "fortificacion-salomon-bethoron",
+      "titulo": "Salomone fortifica Beth-Horon Inferiore",
+      "fecha": "c. 970–931 a.C.",
+      "descripcion": "Salomone ricostruisce e fortifica l'Alta e la Bassa Beth-Horon come parte del sistema di città di stoccaggio, carri e cavalieri che proteggono le rotte strategiche del regno, insieme a Baalat e Tadmor.",
+      "referencias": [
+        "2 Cr 8:5",
+        "1 Re 9:17"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "construccion-asignacion-bethoron",
+      "titulo": "Assegnazione e ricostruzione di Bet-Horon",
+      "fecha": "c. 1400–1200 a.C. (genealogía), c. 1200 a.C. (asignación)",
+      "descripcion": "Le genealogie dei cronisti attribuiscono la fondazione o la ricostruzione delle due Beth-Horon a Seerah, figlia di Efraim, collegando l'origine della città alla tribù che avrebbe ricevuto il territorio dopo la conquista.",
+      "referencias": [
+        "1 Cr 7:24",
+        "Gs 16:3-5"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_bethoron",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida l'inseguimento degli eserciti di Amorrei sul pendio di Beth-Horon dopo la vittoria di Gabaon, episodio accompagnato dal prodigio della grandine e, subito dopo, dal sole fermo sulla vicina valle di Aijalon.",
+      "referencias": [
+        "Gs 10:10-14"
+      ],
+      "ruta": [
+        "gibeon",
+        "beth_horon_lower",
+        "aijalon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "salomon_bethoron",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore di fortificazioni",
+      "periodo": "hierro_2",
+      "descripcion": "Ordinò la fortificazione di Bet-Horon Inferiore come parte del sistema difensivo delle città di guarnigione che proteggevano le vie di accesso al regno.",
+      "referencias": [
+        "2 Cr 8:1-6",
+        "1 Re 9:15-19"
+      ],
+      "ruta": [
+        "jerusalen",
+        "beth_horon_lower"
+      ]
+    },
+    {
+      "id": "seera",
+      "nombre": "Lo sarà",
+      "rol": "Figlia di Efraim, costruttrice secondo la genealogia dei cronisti",
+      "periodo": "Genealógico, anterior a la conquista",
+      "descripcion": "Menzionata negli elenchi genealogici di 1 Cronache come costruttrice di Bethhoron Inferiore e Superiore, una delle poche donne a cui il testo biblico attribuisce esplicitamente la fondazione di città.",
+      "referencias": [
+        "1 Cr 7:24"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-Horon Inferiore è religiosamente associato allo stesso episodio della grandine divina che accompagna la persecuzione di Giosuè, presentato dalla teologia deuteronomista come intervento diretto di YHWH in combattimento al fianco di Israele, in immediato parallelo con il miracolo del sole fermato ad Aijalon. La sua successiva fortificazione sotto Salomone riflette ulteriormente il consolidamento del controllo yahwista-davidico sulle rotte strategiche del Regno Unito.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "granizo-bethoron",
+        "nombre": "La grandine divina sul sorgere di Bet-Horon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 10:10-11",
+          "fuente_secundaria": "Comentario rabínico tradicional que vincula el granizo de Bet-horón con el granizo de la plaga de Egipto como segunda manifestación del mismo tipo de juicio divino",
+          "descripcion": "La tradizione ebraica collega questa grandine con quella delle piaghe di Egitto, leggendo entrambi gli episodi come manifestazioni della stessa risorsa divina di giudizio riservata soprattutto ai nemici di Israele nei momenti decisivi della sua storia.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il prodigio rafforza l'idea che la vittoria militare di Israele non dipende esclusivamente dalla forza umana ma dall'intervento diretto di YHWH come guerriero divino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gs 10:10-11 (recepción patrística como ejemplo de juicio divino mediante fenómenos naturales)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre el paralelismo entre el granizo de Egipto y el de Bet-horón",
+          "descripcion": "L'antica tradizione cristiana riprende l'episodio nel catalogo dei prodigi dell'Antico Testamento che dimostrano la signoria divina sulla natura a servizio della salvezza del suo popolo.",
+          "similitudes": "Condivide con la lettura ebraica il collegamento tipologico con la grandine delle piaghe di Egitto.",
+          "diferencias": "La lettura cristiana è solita integrare l'episodio in una più ampia catena tipologica di liberazione, collegandolo eventualmente a temi di giudizio escatologico.",
+          "significado_teologico": "La grandine viene interpretata come segno della potenza divina che accompagna e precede l'azione umana nella storia della salvezza.",
+          "posible_relacion_cultural": "Accoglienza condivisa del libro di Giosuè e del ciclo delle piaghe di Egitto come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

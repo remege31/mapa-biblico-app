@@ -1,0 +1,147 @@
+{
+  "id": "cush",
+  "nombre": "Cush (Etiopia)",
+  "tipo": "territorio",
+  "lat": 21.96,
+  "lng": 31.34,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 49,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -400,
+      "nombre": "Ferro II - Post-esilio"
+    }
+  ],
+  "descripcion_geo": "Regione africana a sud di Egitto, corrispondente all'attuale Sudan e all'Etiopia settentrionale. Culla dei grandi faraoni nubiani.",
+  "altitud_m": 500,
+  "clima": "arido-tropicale",
+  "recursos": [
+    "oro",
+    "avorio",
+    "commercio",
+    "agricoltura fluviale"
+  ],
+  "importancia_estrategica": "Potenza regionale africana con faraoni nubiani che governarono Egitto (25a dinastia).",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cus_h1",
+      "titulo": "Tirhacah re di Cush viene in aiuto di Ezechia",
+      "fecha": "701 a.C.",
+      "descripcion": "Il faraone etiope Tirhaca marcia contro Sennacherib quando Assiria assedia Gerusalemme; Il suo arrivo fa precipitare la ritirata assira.",
+      "referencias": [
+        "2 Re 19:9",
+        "Is 37:9"
+      ],
+      "personajes_clave": [
+        "Ezequías",
+        "Tirhacá",
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "cus_h2",
+      "titulo": "L'eunuco etiope e Filippo",
+      "fecha": "ca. 35 d.C.",
+      "descripcion": "Filippo l'Evangelista trova il tesoriere della regina etiope che legge Isaia sul suo carro; Lo battezza lungo la strada.",
+      "referencias": [
+        "At 8:26-40"
+      ],
+      "personajes_clave": [
+        "Felipe",
+        "eunuco etíope"
+      ]
+    },
+    {
+      "id": "cus_h3",
+      "titulo": "I fiumi di Cush nelle profezie",
+      "fecha": "ca. 640-620 a.C.",
+      "descripcion": "Sofonia profetizza che i fedeli dei fiumi di Cush porteranno offerte al Signore da oltre l'Etiopia.",
+      "referencias": [
+        "Sof 3:10"
+      ],
+      "personajes_clave": [
+        "Sofonías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cus_p1",
+      "nombre": "Tirhaca",
+      "rol": "Faraone etiope",
+      "periodo": "690-664 a.C.",
+      "descripcion": "Re nubiano che governò Egitto e venne in aiuto di Ezechia contro gli Assiri.",
+      "referencias": [
+        "2 Re 19:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cus_p2",
+      "nombre": "L'eunuco etiope",
+      "rol": "Il tesoriere della regina Candace",
+      "periodo": "ca. 35 d.C.",
+      "descripcion": "Alto funzionario etiope battezzato da Filippo; Ha portato il Vangelo in Africa.",
+      "referencias": [
+        "At 8:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cus_p3",
+      "nombre": "Zippora",
+      "rol": "Moglie custode di Mosè",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "La moglie madianita di Mosè è chiamata \"Cushita\" in Numbers, causando conflitti familiari.",
+      "referencias": [
+        "Nm 12:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terra di mistero e ricchezza a sud del mondo conosciuto; Nel Nuovo Testamento l'eunuco etiope rappresenta l'universalità del Vangelo.",
+    "religiones_presentes": [
+      "Nubiano_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "cus_m1",
+        "nombre": "L’Etiopia tenderà le mani a Dio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Sal 68,31",
+          "fuente_secundaria": "",
+          "descripcion": "«L'Etiopia tenderà le mani verso Dio» (Sal 68,31): promessa che le nazioni africane adoreranno il Signore.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "«L'Etiopia tenderà le mani verso Dio» (Sal 68,31): promessa che le nazioni africane adoreranno il Signore.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il battesimo dell'eunuco etiope (At 8) realizza la profezia: il Vangelo raggiunge l'Etiopia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il battesimo dell'eunuco etiope (At 8) realizza la profezia: il Vangelo raggiunge l'Etiopia.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

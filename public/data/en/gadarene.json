@@ -1,0 +1,246 @@
+{
+  "id": "gadarene",
+  "nombre": "Gadara (Decapolis)",
+  "tipo": "ciudad",
+  "lat": 32.654,
+  "lng": 35.685,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City of the Decapolis east of the Galilee lake. Hellenistic region with strong Gentile presence; scene of the exorcism of the two demoniacs.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gad_h1",
+      "titulo": "Jesus heals the demon-possessed man of Gadara",
+      "fecha": "ca. 28-30 AD",
+      "descripcion": "Jesus crosses the lake and in the region of the Gadarenes/Gerasenes heals a man with a legion of demons; the pigs run to the lake.",
+      "referencias": [
+        "Matt 8:28-34",
+        "Mark 5:1-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "endemoniado"
+      ]
+    },
+    {
+      "id": "gad_h2",
+      "titulo": "The demoniac of Gadara evangelizes the Decapolis",
+      "fecha": "ca. 28-30 AD",
+      "descripcion": "Healed, the man asks to follow Jesus; Jesus orders him to return and tell what he did to him; he proclaims it throughout the Decapolis.",
+      "referencias": [
+        "Mark 5:19-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "exendemoniado"
+      ]
+    },
+    {
+      "id": "gad_h3",
+      "titulo": "Pigs as a sign of gentle land",
+      "fecha": "ca. 28-30 AD",
+      "descripcion": "The presence of a large herd of pigs at Gadara indicates that it was Gentile territory; Jesus ministers there extending his mission beyond Israel.",
+      "referencias": [
+        "Mark 5:11"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gad_p1",
+      "nombre": "Jesus",
+      "rol": "Messiah",
+      "periodo": "ca. 28-30 AD",
+      "descripcion": "He crossed the lake to heal the demon-possessed man in a Gentile land; sign of the universality of his ministry.",
+      "referencias": [
+        "Matt 8:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p2",
+      "nombre": "The demoniac of Gadara",
+      "rol": "First missionary of the Decapolis",
+      "periodo": "ca. 28-30 AD",
+      "descripcion": "Healed by Jesus, he proclaimed the gospel in ten cities of the Decapolis.",
+      "referencias": [
+        "Mark 5:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p3",
+      "nombre": "The Gadarenes",
+      "rol": "Gentile community",
+      "periodo": "ca. 28-30 AD",
+      "descripcion": "They asked Jesus to leave their region after losing the pig herd.",
+      "referencias": [
+        "Mark 5:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gadara (Decapolis): relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "gad_m1",
+        "nombre": "Legion and freedom",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The healing of the demon-possessed man of Gadara shows that Christ's power over the 'legion' (a metaphor for Roman and demonic power) reaches even to Gentile land.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The healing of the demon-possessed man of Gadara shows that Christ's power over the 'legion' (a metaphor for Roman and demonic power) reaches even to Gentile land.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gad_h1",
+        "titulo": "Jesus heals the demon-possessed man of Gadara",
+        "fecha": "ca. 28-30 AD",
+        "descripcion": "Jesus crosses the lake and in the region of the Gadarenes/Gerasenes heals a man with a legion of demons; the pigs run to the lake.",
+        "referencias": [
+          "Matt 8:28-34",
+          "Mark 5:1-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "endemoniado"
+        ]
+      },
+      {
+        "id": "gad_h2",
+        "titulo": "The demoniac of Gadara evangelizes the Decapolis",
+        "fecha": "ca. 28-30 AD",
+        "descripcion": "Healed, the man asks to follow Jesus; Jesus orders him to return and tell what he did to him; he proclaims it throughout the Decapolis.",
+        "referencias": [
+          "Mark 5:19-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "exendemoniado"
+        ]
+      },
+      {
+        "id": "gad_h3",
+        "titulo": "Pigs as a sign of gentle land",
+        "fecha": "ca. 28-30 AD",
+        "descripcion": "The presence of a large herd of pigs at Gadara indicates that it was Gentile territory; Jesus ministers there extending his mission beyond Israel.",
+        "referencias": [
+          "Mark 5:11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gad_p1",
+        "nombre": "Jesus",
+        "rol": "Messiah",
+        "periodo": "ca. 28-30 AD",
+        "descripcion": "He crossed the lake to heal the demon-possessed man in a Gentile land; sign of the universality of his ministry.",
+        "referencias": [
+          "Matt 8:28"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p2",
+        "nombre": "The demoniac of Gadara",
+        "rol": "First missionary of the Decapolis",
+        "periodo": "ca. 28-30 AD",
+        "descripcion": "Healed by Jesus, he proclaimed the gospel in ten cities of the Decapolis.",
+        "referencias": [
+          "Mark 5:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p3",
+        "nombre": "The Gadarenes",
+        "rol": "Gentile community",
+        "periodo": "ca. 28-30 AD",
+        "descripcion": "They asked Jesus to leave their region after losing the pig herd.",
+        "referencias": [
+          "Mark 5:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Gadara (Decapolis) in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "gad_m1",
+          "nombre": "Legion and freedom",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The healing of the demon-possessed man of Gadara shows that Christ's power over the 'legion' (a metaphor for Roman and demonic power) reaches even to Gentile land.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The healing of the demon-possessed man of Gadara shows that Christ's power over the 'legion' (a metaphor for Roman and demonic power) reaches even to Gentile land.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

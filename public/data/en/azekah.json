@@ -1,0 +1,163 @@
+{
+  "id": "azekah",
+  "nombre": "azeca",
+  "tipo": "ciudad",
+  "lat": 31.70063856043753,
+  "lng": 34.93618589974822,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Persecution after Gibeon, Valley of Elah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Rehoboam Fortification, last stand against Babylon"
+    }
+  ],
+  "descripcion_geo": "Fortified city in the Shephelah, at the northern end of the Elah Valley, commanding an elevated position that controls access from the Philistine plain to the mountains of Judah. Its strategic location made it a recurring reference point in war episodes over several centuries.",
+  "altitud_m": 330,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah.",
+  "recursos": [
+    "Dominant fortified position over the Elah Valley",
+    "Control of routes between the Philistine plain and the mountains of Judah"
+  ],
+  "importancia_estrategica": "Azeca appears in three decisive moments of war separated by centuries: the pursuit of the Amorites armies following the Battle of Gibeon, David's battle against Goliath in the adjacent Elah Valley, and as one of the last fortified cities of Judah to resist the Babylonian advance, mentioned explicitly in the letters of Lachish as a signal fire communication point that was still functioning moments before the final fall of the kingdom.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_azeca",
+      "nombre": "Canaanites Amorites",
+      "descripcion": "Original population of the Elah Valley region, through whose territory the defeated armies of the coalition of five kings flee after the battle of Gibeon.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "judaitas_azeca",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Jewish population of Azekah, a city fortified by Rehoboam and one of the last to resist the final Babylonian siege of the kingdom of Judah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "persecucion-azeca-gabaon",
+      "titulo": "The chase to Azeca after the battle of Gibeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "The account of the divine hail and the sun stopped during Joshua's pursuit after Gibeon's victory locates the extent of the Amorite flight to Azekah and Makkedah, marking the geographical limit of the first great southern campaign.",
+      "referencias": [
+        "Josh 10:10-11"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "david-goliat-valle-ela-azeca",
+      "titulo": "The Philistine camp between Soco and Azekah",
+      "fecha": "c. 1020 BC",
+      "descripcion": "The Philistine army gathers for the battle in which David will face Goliath camping between Soco and Azekah, in the Valley of Elah, while the Israelite army positions itself on the opposite side of the valley.",
+      "referencias": [
+        "1 Sam 17:1"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "azeca-cartas-laquis-resistencia-final",
+      "titulo": "Azeca on Lachish's cards during Judah's fall",
+      "fecha": "c. 588–586 BC",
+      "descripcion": "The prophet Jeremiah mentions that, during the final siege of Nebuchadnezzar, Lachish and Azeca were the only fortified cities of Judah that still resisted alongside Jerusalem, a fact confirmed by archaeological finds (the letters of Lachish) that document the loss of visibility of the fire signals of Azeca shortly before the final fall.",
+      "referencias": [
+        "Jer 34:6-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_azeca",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "Pursue the retreating Amorites armies to Azeca following Gibeon's victory, extending the scope of the southern military campaign.",
+      "referencias": [
+        "Josh 10:10-11"
+      ],
+      "ruta": [
+        "gibeon",
+        "beth_horon_lower",
+        "azekah",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "david_azeca",
+      "nombre": "David",
+      "rol": "Young shepherd, future king by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "He faces Goliath in the Valley of Elah, along with Azekah, in the episode that marks his first public appearance as the liberator of Israel against the Philistine threat.",
+      "referencias": [
+        "1 Sam 17:1-54"
+      ],
+      "ruta": [
+        "bethlehem",
+        "azekah"
+      ]
+    },
+    {
+      "id": "jeremias_azeca",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "Witness of the last days of the kingdom of Judah, he records that Azeca and Lachish were the last fortified places to resist alongside Jerusalem before the final fall to Babylon.",
+      "referencias": [
+        "Jer 34:6-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Azeca frames three successive moments in the relationship between Israel and foreign military power: the providential victory over the Amorites, the charismatic individual triumph of David over Goliath as a preview of his future kingship, and finally the final resistance and defeat against Babylon that culminates the exile. This progression—providential victory, charismatic victory, final defeat—traces in one place the complete arc of Deuteronomist theology on faithfulness and judgment of Israel.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite-Amorite polytheism (original substrate)",
+      "Philistine polytheism (army encamped in the Valley of Elah)"
+    ],
+    "mitos": [
+      {
+        "id": "ultimas-luces-azeca",
+        "nombre": "Azeca's last signs of fire before the fall of Judah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 34:6-7",
+          "fuente_secundaria": "Hallazgo arqueológico de las Cartas de Laquis (Ostraca de Laquis, carta IV), que menciona explícitamente la pérdida de visibilidad de las señales de Azeca",
+          "descripcion": "Jewish tradition, reinforced by the archaeological discovery of the Lachish letters that almost literally confirm the testimony of Jeremiah, considers the Azekah episode as one of the points of greatest convergence between the biblical record and extrabiblical material evidence, underlining the historical veracity of the prophetic account of the final collapse of Judah.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The fall of the last fortified places, announced and witnessed by Jeremiah, confirms the fulfillment of the prophetic judgment on the persistent infidelity of the kingdom of Judah.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

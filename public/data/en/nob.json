@@ -1,0 +1,169 @@
+{
+  "id": "nob",
+  "nombre": "Nob",
+  "tipo": "ciudad",
+  "lat": 31.799605,
+  "lng": 35.23298,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Priestly City, Saul Massacre"
+    }
+  ],
+  "descripcion_geo": "Priestly city located on an elevation near Jerusalem, close enough to be visible from the city (mentioned by the prophet Isaiah as a viewing point towards Jerusalem). Temporary headquarters of the tabernacle and a large community of priests after the destruction of Shiloh.",
+  "altitud_m": 770,
+  "clima": "Mountain Mediterranean — dry, mild summers, cold winters with rain, typical of the Benjamin Plateau near Jerusalem.",
+  "recursos": [
+    "Tabernacle and showbread",
+    "Large priestly community",
+    "Elevated position overlooking Jerusalem"
+  ],
+  "importancia_estrategica": "Nob functions as a provisional cult center for Israel in the period immediately before the consolidation of the Temple in Jerusalem, housing the tabernacle after the loss of Shiloh. Its destruction by order of Saul represents one of the most extreme acts of violence attributed to the king and a decisive breaking point in his religious legitimacy.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes_nob",
+      "nombre": "Priests of the house of Eli (lineage of Ithamar)",
+      "descripcion": "Community of eighty-five priests wearing the linen ephod, residing in Nob under the leadership of Ahimelech, descendants of the priestly line of Eli.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    },
+    {
+      "id": "edomitas_nob",
+      "nombre": "Saul Edomite Servers",
+      "descripcion": "Doae the Edomite, chief of the shepherds of Saul, present in Nob on the day of David's visit; He will be the one who personally carries out the massacre of the priests by royal order.",
+      "religion": "Edomite religion (probably cults related to Qos)",
+      "periodo": "c. 1015 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-ahimelec-nob",
+      "titulo": "David receives consecrated bread and Goliath's sword in Nob",
+      "fecha": "c. 1015 BC",
+      "descripcion": "Fleeing from Saul, David reaches Nob, tricks the priest Ahimelech into believing he is carrying out a secret royal mission, receives the shewbread—normally reserved only for priests—and the sword of Goliath, kept there as a relic.",
+      "referencias": [
+        "1 Sam 21:1-9"
+      ],
+      "personajes_clave": [
+        "david",
+        "ahimelec"
+      ]
+    },
+    {
+      "id": "doeg-testigo-nob",
+      "titulo": "Doeg the Edomite witnesses the meeting",
+      "fecha": "c. 1015 BC",
+      "descripcion": "Doeg, chief of the shepherds of Saul, is held that day before YHWH in Nob and witnesses the meeting between David and Ahimelech, information that he will later communicate to Saul with fatal consequences for the priests.",
+      "referencias": [
+        "1 Sam 21:7",
+        "1 Sam 22:9-10"
+      ],
+      "personajes_clave": [
+        "ahimelec"
+      ]
+    },
+    {
+      "id": "masacre-sacerdotes-nob",
+      "titulo": "The massacre of the priests of Nob",
+      "fecha": "c. 1015 BC",
+      "descripcion": "Saul, informed by Doeg, orders the execution of Ahimelech and his entire priestly family for having helped David; When his own guards refuse to raise their hands against YHWH's priests, Doeg the Edomite personally executes eighty-five men in linen ephods and puts the entire city of Nob, including women, children, and livestock, to the sword.",
+      "referencias": [
+        "1 Sam 22:11-19"
+      ],
+      "personajes_clave": [
+        "saul",
+        "ahimelec"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ahimelec",
+      "nombre": "Ahimelech",
+      "rol": "High Priest of Nob",
+      "periodo": "c. 1015 BC",
+      "descripcion": "Priest of the line of Eli who gives David the consecrated bread and Goliath's sword without suspecting that he is helping a fugitive from Saul; He will pay for this help with his life and that of his entire priestly community.",
+      "referencias": [
+        "1 Sam 21:1-9",
+        "1 Sam 22:9-19"
+      ],
+      "ruta": [
+        "nob"
+      ]
+    },
+    {
+      "id": "david_nob",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "He arrives alone and unarmed in Nob during his escape, obtains provisions and a weapon symbolically loaded with meaning (the sword of the giant that he himself defeated), without foreseeing that his passage through the city will trigger the massacre of its inhabitants.",
+      "referencias": [
+        "1 Sam 21:1-9",
+        "1 Sam 22:20-23"
+      ],
+      "ruta": [
+        "naioth",
+        "nob",
+        "gath"
+      ]
+    },
+    {
+      "id": "doeg_edomita",
+      "nombre": "Doeg the Edomite",
+      "rol": "Chief of the shepherds of Saul, executor of the massacre",
+      "periodo": "c. 1015 BC",
+      "descripcion": "Foreign servant of Saul who betrays Ahimelech and subsequently personally executes the priests of Nob when the king's own Israelite guards refuse to do so, an episode remembered in Psalm 52 as an example of violent betrayal.",
+      "referencias": [
+        "1 Sam 21:7",
+        "1 Sam 22:9-19",
+        "Ps 52:1-9"
+      ],
+      "ruta": [
+        "nob"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Nob is, at the time of the events narrated, the most important priestly and cult center in Israel after the fall of Shiloh, seat of the tabernacle and a large community of legitimate priests. Its destruction by order of Saul—executed by an Edomite foreigner when the Israelites themselves refuse to shed priestly blood—constitutes one of the most serious acts of religious desecration attributed to a king of Israel in the entire biblical story, and marks a point of no return in the moral and spiritual deterioration of Saul's reign.",
+    "religiones_presentes": [
+      "Yahwism (priestly center of the tabernacle)"
+    ],
+    "mitos": [
+      {
+        "id": "masacre-sacerdotes-nob-mito",
+        "nombre": "The massacre of the priests of Nob as judgment on the house of Eli",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 22:6-19",
+          "fuente_secundaria": "Talmud Babilónico, Yoma 22b (discusión sobre la culpa de Saúl y Doeg en la masacre)",
+          "descripcion": "Rabbinic tradition links the massacre of Nob with the previous oracle against the house of Eli (1 Sam 2:27-36), reading the destruction of the priestly city as the fulfillment of a divine judgment announced generations before, without exempting Saul or Doeg from moral responsibility for the act.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode illustrates how divine judgment can be fulfilled through morally guilty human instruments, without this diminishing the responsibility of those who execute it.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 22:6-19; Mc 2:25-26 (referencia de Jesús al episodio del pan consagrado en Nob)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la cita de Jesús al caso de David y el pan de la proposición",
+          "descripcion": "The New Testament explicitly takes up the episode of David receiving the bread at Nob as a precedent that Jesus cites to justify the flexibility of ritual law in the face of human need, giving the place a second layer of theological meaning beyond the massacre.",
+          "similitudes": "It shares the centrality of the episode of the consecrated bread as a legal precedent cited later.",
+          "diferencias": "The Christian use of the episode focuses on the legal precedent of the bread, not the subsequent massacre, which receives less explicit theological development in the NT.",
+          "significado_teologico": "The episode becomes a biblical foundation to argue that human need can take precedence over the strict letter of the ritual law.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as a central figure in the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

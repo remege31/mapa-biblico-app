@@ -1,0 +1,186 @@
+{
+  "id": "gibeon",
+  "nombre": "Gibeon",
+  "tipo": "ciudad",
+  "lat": 31.8394,
+  "lng": 35.1786,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 36,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Hivean city, ally of Israel"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomon Royal Sanctuary"
+    }
+  ],
+  "descripcion_geo": "Gibeon (today el-Jib, West Bank) sits in the Benjamin Highlands, about 9 km northwest of Jerusalem. The archaeological tell has preserved extraordinarily well the large circular cistern (Pool of Gibeon) mentioned in 2 Samuel 2:13, with a spiral staircase carved into the rock that descends 12 meters to the water table. The city controlled access to the route that descended from the highlands to the coastal plain.",
+  "altitud_m": 783,
+  "clima": "Mountain Mediterranean — similar to Jerusalem, with annual rainfall of 500-600 mm and dry summers. The elevation guaranteed water stored in the large cisterns carved into the rock.",
+  "recursos": [
+    "Water (large circular cistern carved in rock, system of tunnels to the water table)",
+    "Terraced agricultural land",
+    "Strategic position (controlling access to Jerusalem from the west)",
+    "Vineyards (amphorae with lmlk inscriptions from Gibeon found in excavations)"
+  ],
+  "importancia_estrategica": "It controlled access to Jerusalem from the direction of the coastal plain, the road to Beth-Horon. A large city like a royal city (Josh 10:2), with its own warriors. The sanctuary of Gibeon was the most important place of worship in Israel before the construction of the Temple, where Solomon offered 1,000 burnt offerings and received wisdom in dreams.",
+  "otros_habitantes": [
+    {
+      "id": "heveos-gabaon",
+      "nombre": "Hivites of the Gibeonite Tetrapolis",
+      "descripcion": "The Gibeonites were Hivites (one of the pre-Israelite Canaanite nations) who formed a confederation of four cities: Gibeon, Chephira, Beeroth and Kiriath-Jearim. They deceived Joshua by posing as travelers from a distant land to obtain a peace pact. Discovered, they were condemned to be hewers of wood and bearers of water for the community and the altar of YHWH, becoming servants of the sanctuary.",
+      "religion": "Canaanite-Hevite polytheism, later integration into the Yahwist sanctuary service",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "gabaonitas-david",
+      "nombre": "Gibeonites at the time of David",
+      "descripcion": "A three-year famine during David's reign was attributed to Saul's violation of the covenant with the Gibeonites by attempting to exterminate them. David handed over seven descendants of Saul to the Gibeonites, who executed them. Rizpah, concubine of Saul and mother of two of the executed, watched over their bodies until David buried them with honors. The episode reflects the sacredness of the covenants in Israelite tradition.",
+      "religion": "Yahwism with memory of the sacred pacts",
+      "periodo": "c. 1000 BC"
+    },
+    {
+      "id": "levitas-gabaon",
+      "nombre": "Levitical community",
+      "descripcion": "Gibeon was assigned as a Levitical city of the tribe of Benjamin (Josh 21:17; 1 Chron 6:60). The tabernacle of Moses—the original desert tent—was set up in Gibeon, making the city the main sanctuary of Israel until the construction of the Temple of Solomon. The Levitical presence guaranteed the continuity of the Yahwist cult.",
+      "religion": "Yahwism levitical priest — desert tabernacle in Gibeon",
+      "periodo": "c. 1200–950 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "engano-gabaonitas",
+      "titulo": "The deception of the Gibeonites: alliance by cunning",
+      "fecha": "c. 1200 BC",
+      "descripcion": "When Israel conquered Canaan, the inhabitants of Gibeon feared being exterminated. They sent ambassadors with worn clothes, torn sandals and dried bread, posing as travelers from a distant land asking for a peace pact. Joshua and the princes of Israel made the pact without consulting YHWH. Discovering the deception three days later, they were unable to break the sacred oath. They condemned the Gibeonites to be hewers of wood and bearers of water for the sanctuary—a forced but permanent integration.",
+      "referencias": [
+        "Josh 9:1-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "sol-detenido",
+      "titulo": "The sun stands still over Gibeon: Israel's longest battle",
+      "fecha": "c. 1200 BC",
+      "descripcion": "When the five Amorites kings attacked the Gibeonites for having made a pact with Israel, Joshua came to their aid. God threw large stones from the sky against the enemy. Then Joshua uttered the boldest oracle in the book: Sol, stop at Gibeon; and you, moon, in the valley of Ajalon. And the sun stood still until Israel took revenge on his enemies. The text adds: There was no day like that before or after, when YHWH obeyed the voice of a man.",
+      "referencias": [
+        "Josh 10:1-15"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "salomon-gabaon",
+      "titulo": "Solomon in Gibeon: the dream that gave wisdom",
+      "fecha": "c. 960 BC",
+      "descripcion": "At the beginning of his reign, Solomon went to Gibeon—the greatest sanctuary, where the wilderness tabernacle was—and offered 1,000 burnt offerings on the altar. That night YHWH appeared to him in a dream and said: Ask me for whatever you want me to give you. Solomon asked for a listening heart to govern the people and distinguish good from evil. God, pleased that he did not ask for wealth, honor or long life, granted him wisdom and also what he had not asked for. The Dream of Gibeon is the founding text of the wisdom tradition in Israel.",
+      "referencias": [
+        "1 Kgs 3:4-15",
+        "2 Chr 1:1-13"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue-gabaon",
+      "nombre": "Joshua",
+      "rol": "Commander who stopped the sun over Gibeon",
+      "periodo": "bronce_tardio",
+      "descripcion": "In Gibeon, Joshua starred in two of the most notable episodes of his career: the alliance with the Gibeonites by deception—which taught Israel the unbreakable sacredness of the pacts—and the battle in which he stopped the sun, the most extraordinary military prodigy in the book that bears his name. The order to the sun is the most daring gesture in the entire Bible: a man ordering the stars.",
+      "referencias": [
+        "Josh 9:1-27",
+        "Josh 10:1-15",
+        "Josh 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "gibeon",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "salomon-gabaon-pj",
+      "nombre": "Solomon",
+      "rol": "King who received wisdom in dreams in Gibeon",
+      "periodo": "hierro_2",
+      "descripcion": "Gibeon's dream at the beginning of Solomon's reign is the moment of greatest spiritual clarity of his life. The choice of wisdom over wealth, honor, and long life defines the ideal of the righteous king in the biblical tradition. The entire wisdom tradition of Israel—Proverbs, Ecclesiastes, the Song—is attributed to the figure of Solomon, whose wisdom began in that dream of Gibeon.",
+      "referencias": [
+        "1 Kgs 3:4-15",
+        "1 Kgs 4:29-34",
+        "1 Kgs 10:1-13"
+      ],
+      "ruta": [
+        "bethlehem",
+        "jerusalen",
+        "gibeon"
+      ]
+    },
+    {
+      "id": "rizpa",
+      "nombre": "Rizpa bat Aya",
+      "rol": "Saul's concubine, guardian of the dead",
+      "periodo": "c. 1000 BC",
+      "descripcion": "Rizpah is one of the most tragic and silent characters in the OT. When David handed over seven descendants of Saul to the Gibeonites to atone for the violation of the covenant, Rizpah—the mother of two of them—spread a sack on the rock and watched over the corpses from the beginning of the harvest until it rained, chasing away the birds by day and the wild beasts by night. When David heard about her, he collected the bones of Saul and her children and buried them with honors. Rizpah's gesture is the purest of maternal love and the most eloquent silence in the Bible.",
+      "referencias": [
+        "2 Sam 21:1-14"
+      ],
+      "ruta": [
+        "gibeon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibeon is the great pre-temple sanctuary of Israel. The desert tabernacle—YHWH's portable abode during the exodus—was installed in Gibeon, making this Hivite city, forcibly integrated into Israel by a deception, the most sacred place in the town until the construction of the Temple. The paradox is theologically eloquent: the place where YHWH lived was a city of Canaanites converted into servants of the sanctuary. The dream of Solomon in Gibeon is the foundational text of wisdom theology in Israel.",
+    "religiones_presentes": [
+      "Yahwism of the tabernacle (desert sanctuary in Gibeon)",
+      "Canaanite-Hivite polytheism (pre-Israelite period)",
+      "Levitical Yahwism (city assigned to the Levites)"
+    ],
+    "mitos": [
+      {
+        "id": "sol-detente",
+        "nombre": "The sun stopped over Gibeon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josué 10:12-14",
+          "fuente_secundaria": "Talmud Bavli, Avoda Zara 25a; Midrash Bereshit Rabbah 6; Ben Sira 46:4",
+          "descripcion": "The Talmud records that the book of Yashar (mentioned in Jos 10:13) is the book of Genesis, where the nations are blessed through Abraham: the merit of the patriarchs stopped the sun. Ben Sira 46:4 praises Joshua: Did it not happen that in his days the sun receded, and one day became two? Jewish tradition interprets the miracle as the greatest demonstration of divine attention to human prayer.",
+          "similitudes": "The solar prodigy has parallels in Babylonian astronomical omen texts and in the solar retreat for King Hezekiah (Is 38:8).",
+          "diferencias": "The prodigy of Joshua is in favor of battle; Hezekiah's is a sign of healing. In Joshua, it is the man who speaks; in Hezekiah, it is YHWH who offers the sign.",
+          "significado_teologico": "YHWH obeys the voice of a man: the most extraordinary affirmation of the efficacy of human petition in the entire OT.",
+          "posible_relacion_cultural": "Battle texts from the ancient East frequently mention astronomical prodigies as signs of divine support."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josué 10:12-14; Ben Sira 46:4",
+          "fuente_secundaria": "Agustín, Ciudad de Dios X.8; comentarios medievales",
+          "descripcion": "The patristic tradition interpreted the sun stopped over Gibeon as a type (figure) of Christ's victory over death. Just as the sun stood still to complete the victory of Joshua, the resurrection of Christ interrupts the ordinary course of time to give definitive victory. The identification of the name Joshua = Jesus (same name in Hebrew) feeds this typological reading.",
+          "similitudes": "Military victory that transcends the natural limits of time is shared by both traditions.",
+          "diferencias": "Christian exegesis transposes the historical prodigy into a symbol of eschatological victory.",
+          "significado_teologico": "Joshua as a figure of Jesus; the battle of Gibeon as a figure of the Easter victory.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

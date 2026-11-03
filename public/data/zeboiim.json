@@ -1,0 +1,134 @@
+{
+  "id": "zeboiim",
+  "nombre": "Zeboim",
+  "tipo": "ciudad",
+  "lat": 31.12,
+  "lng": 35.41,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Una de las cinco ciudades de la llanura (pentápolis) destruidas junto a Sodoma y Gomorra; su localización exacta es incierta.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Ciudad del valle de Siddim destruida junto a Sodoma.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zeb_h1",
+      "titulo": "Zeboim en la batalla de los cuatro reyes contra cinco",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "El rey de Zeboim participó en la coalición de los cinco reyes del valle contra los cuatro reyes del este.",
+      "referencias": [
+        "Gn 14:2,8"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot"
+      ]
+    },
+    {
+      "id": "zeb_h2",
+      "titulo": "Dios destruye Zeboim junto a Sodoma",
+      "fecha": "ca. mítico",
+      "descripcion": "Zeboim es destruida junto a Sodoma, Gomorra, Adma y Zóar por el juicio de Dios.",
+      "referencias": [
+        "Gn 19:24",
+        "Dt 29:23"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "zeb_h3",
+      "titulo": "Oseas: Adma y Zeboim como advertencia",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Oseas cita la destrucción de Adma y Zeboim como advertencia para Israel: el mismo juicio podría caer sobre él.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zeb_p1",
+      "nombre": "rey de Zeboim",
+      "rol": "Rey de ciudad destruida",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Uno de los cinco reyes que primero se aliaron contra el este y luego fueron derrotados.",
+      "referencias": [
+        "Gn 14:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p2",
+      "nombre": "Abraham",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Rescató a Lot que fue capturado en la batalla de los cuatro reyes contra los cinco que incluía a Zeboim.",
+      "referencias": [
+        "Gn 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p3",
+      "nombre": "Oseas",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Citó la destrucción de Zeboim como paradigma del juicio divino para advertir al Israel del norte.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zeboim: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "zeb_m1",
+        "nombre": "Las ciudades del juicio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Sodoma, Gomorra, Adma y Zeboim son el paradigma bíblico del juicio total; su destrucción es citada por varios profetas como advertencia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Sodoma, Gomorra, Adma y Zeboim son el paradigma bíblico del juicio total; su destrucción es citada por varios profetas como advertencia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2"
+  ]
+}

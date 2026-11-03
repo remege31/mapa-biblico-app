@@ -1,0 +1,134 @@
+{
+  "id": "seir",
+  "nombre": "Seir",
+  "tipo": "territorio",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -586,
+      "nombre": "Bronzo medio - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Regione montuosa a est dell'Araba, tra il Mar Morto e il Golfo di Aqaba. Abitata dagli Edomiti, discendenti di Esaù.",
+  "altitud_m": 1500,
+  "clima": "arido",
+  "recursos": [
+    "rame",
+    "pascolo",
+    "commercio di carovane"
+  ],
+  "importancia_estrategica": "Terra di Esaù / Edom; controllo delle vie carovaniere meridionali.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sei_h1",
+      "titulo": "Esaù si stabilisce a Seir",
+      "fecha": "ca. 1700 a.C.",
+      "descripcion": "Esaù si trasferisce sui monti di Seir con la famiglia e i greggi; lì fondò la nazione edomita.",
+      "referencias": [
+        "Gen 36:8"
+      ],
+      "personajes_clave": [
+        "Esaú"
+      ]
+    },
+    {
+      "id": "sei_h2",
+      "titulo": "Il dominio dei capi di Seir",
+      "fecha": "ca. 1700-1200 a.C.",
+      "descripcion": "I discendenti di Esaù regnano a Seir: la lista dei re Edom è antecedente alla monarchia israelita.",
+      "referencias": [
+        "Gen 36:31-39"
+      ],
+      "personajes_clave": [
+        "jefes edomitas"
+      ]
+    },
+    {
+      "id": "sei_h3",
+      "titulo": "Israele deve rispettare Seir",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dio ordina a Israele di non provocare gli edomiti di Seir perché sono 'figli di Esaù, tuo fratello'.",
+      "referencias": [
+        "Dt 2:1-8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sei_p1",
+      "nombre": "Esaù",
+      "rol": "Patriarca di Edom/Seír",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Si stabilì a Seir e fu il padre di tutte le tribù edomite.",
+      "referencias": [
+        "Gen 36:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_p2",
+      "nombre": "Horit",
+      "rol": "Abitante originario di Seir",
+      "periodo": "Época pre-edomita",
+      "descripcion": "Gli Horei abitarono Seir prima degli Edomiti; Esaù li spodestò.",
+      "referencias": [
+        "Dt 2:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_p3",
+      "nombre": "Abdia",
+      "rol": "Profeta",
+      "periodo": "ca. 590 a.C.",
+      "descripcion": "Ha profetizzato contro Seir/Edom per il suo tradimento durante la caduta di Gerusalemme.",
+      "referencias": [
+        "Abd 1:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sorella Terra di Israele (Esaù e Giacobbe); il suo orgoglio e il suo tradimento al momento della caduta di Gerusalemme portarono alla profezia di Abdia.",
+    "religiones_presentes": [
+      "edomita_paganesimo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "sei_m1",
+        "nombre": "Seir: la terra del fratello nemico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Abd 1,3-4",
+          "fuente_secundaria": "",
+          "descripcion": "Seír/Edom rappresenta il fratello che diventa nemico; la loro arroganza sarà umiliata (Abd 1,3-4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Seír/Edom rappresenta il fratello che diventa nemico; la loro arroganza sarà umiliata (Abd 1,3-4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

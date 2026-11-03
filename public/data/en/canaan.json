@@ -1,0 +1,224 @@
+{
+  "id": "canaan",
+  "nombre": "Canaan",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 160,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Centro geográfico aproximado de la región histórica de Canaán — coincide con Jerusalén, núcleo político del territorio en el AT",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age—Egyptian rule"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Period of the Judges"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Israelite Monarchy"
+    }
+  ],
+  "descripcion_geo": "Region of the southern Levant between the Mediterranean Sea to the west, the Jordan to the east, Lebanon to the north and the Negev to the south. Territory with a Mediterranean climate with fertile valleys (Jezreel, Elá), coastal plains (Shephela), central hills and the deep Jordan Valley. The greatest topographic and climatic variety per square kilometer of any region of the ancient Near East.",
+  "altitud_m": "Variable — from -430 m (Dead Sea) to 2814 m (Mount Hermon)",
+  "clima": "Mediterranean to the north and west; arid-desert to the south and east. Well-defined dry and rainy seasons.",
+  "recursos": [
+    "Wheat and barley (valleys)",
+    "Olive trees (highlands)",
+    "Vineyards",
+    "Lebanese wood",
+    "Copper (Arab)",
+    "Trade routes between Egypt and Mesopotamia"
+  ],
+  "importancia_estrategica": "Forced land corridor between Egypt and Mesopotamia — all the powers of the period fought to control it. The Via Maris (coastal road) and the King's Road (transjordan road) crossed the territory.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-norte",
+      "nombre": "Canaanites",
+      "descripcion": "Semitic peoples who inhabited coastal and inland city-states. They developed the first alphabet, bronze technology and international trade. Their culture deeply influenced Israel despite religious opposition.",
+      "religion": "Polytheism — El (father of the gods), Baal (storm and fertility), Asherah (sea and motherhood)",
+      "periodo": "c. 3500–1000 BC"
+    },
+    {
+      "id": "filisteos-costa",
+      "nombre": "Philistines",
+      "descripcion": "Sea people settled in the coastal Pentapolis (Gaza, Ashdod, Ashkelon, Gath, Ekron). Israel's military rivals during the Judges and early monarchy. They introduced iron to the region.",
+      "religion": "Polytheism — Dagon, Baal-Zebub, Astarte",
+      "periodo": "c. 1200–600 BC"
+    },
+    {
+      "id": "fenicios",
+      "nombre": "Phoenicians",
+      "descripcion": "Towns on the north coast (Tyre, Sidon, Byblos). Masters of maritime trade and purple. Israel allies under David and Solomon — Hiram of Tyre provided cedars for the Temple.",
+      "religion": "Polytheism — Baal, Melkart (Tyre), Asherah",
+      "periodo": "c. 1200–333 BC"
+    },
+    {
+      "id": "amoritas",
+      "nombre": "Amoritas",
+      "descripcion": "Semitic people from the northeast who dominated Canaan in the Middle Bronze Age. Progenitors of various towns Canaanites. Frequently mentioned alongside Canaanites in the AT.",
+      "religion": "Polytheism — Western Semitic pantheon",
+      "periodo": "c. 2000–1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "promesa-abraham",
+      "titulo": "The promise to Abraham",
+      "fecha": "c. 1800 BC (trad.)",
+      "descripcion": "Yahweh promises Abraham Canaan's land for his descendants. The covenant defines the identity of Israel as a chosen people with a promised land. Origin of the theological relationship Israel-earth that permeates the entire OT.",
+      "referencias": [
+        "Gen 12:1-7",
+        "Gen 15:18-21",
+        "Gen 17:8"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "conquista-josue",
+      "titulo": "The conquest of Joshua",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Joshua leads the entry of the Israelite tribes into Canaan after the Exodus. The conquest is partial and progressive — many Canaanite cities remain untaken, creating the cultural and religious tension of the period of the Judges.",
+      "referencias": [
+        "Josh 1:1-18",
+        "Josh 6:1-27",
+        "Josh 11:16-23"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "periodo-jueces",
+      "titulo": "The cycle of the Judges",
+      "fecha": "c. 1200–1000 BC",
+      "descripcion": "In Canaan, the Israelite tribes alternate between allegiance to Yahweh and adoption of Canaanite polytheism. The apostasy-oppression-repentance-liberation cycle defines the period. The Judges (Deborah, Gideon, Samson) are local liberators, not national monarchs.",
+      "referencias": [
+        "Judg 2:10-23",
+        "Judg 4:1-24",
+        "Judg 6:1-40"
+      ],
+      "personajes_clave": [
+        "debora",
+        "gedeon",
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abraham",
+      "rol": "Patriarch — recipient of the promise of the land",
+      "periodo": "bronce_medio",
+      "descripcion": "Called from Ur de Chaldea to Canaan. First recipient of the territorial promise. Its route defines the limits of the promised territory and the founding sacred places (Shechem, Hebron, Beersheba).",
+      "referencias": [
+        "Gen 12:1-9",
+        "Gen 13:14-18",
+        "Gen 22:1-19"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "shechem",
+        "hebron",
+        "beersheba",
+        "egipto"
+      ]
+    },
+    {
+      "id": "josue",
+      "nombre": "Joshua",
+      "rol": "Conqueror — successor to Moses",
+      "periodo": "bronce_tardio",
+      "descripcion": "Leads Israel's entry into Canaan. The Taking of Jericho is the inaugural episode. Distribute the territory among the twelve tribes. His figure marks the transition from the nomadic period to the settlement in the promised land.",
+      "referencias": [
+        "Josh 1:1-9",
+        "Josh 6:1-27",
+        "Josh 24:1-28"
+      ],
+      "ruta": [
+        "sinai",
+        "jericho",
+        "ai",
+        "gibeon",
+        "shechem"
+      ]
+    },
+    {
+      "id": "debora",
+      "nombre": "Deborah",
+      "rol": "Judge and prophetess",
+      "periodo": "hierro_1",
+      "descripcion": "Only female judge in the OT. Lead Israel against Sisera's Canaanite army. His victory song (Judges 5) is one of the oldest Hebrew texts and a first-rate geographical document for the history of Canaan.",
+      "referencias": [
+        "Judg 4:1-24",
+        "Judg 5:1-31"
+      ],
+      "ruta": [
+        "bethel",
+        "tabor_mount",
+        "taanach"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Canaan is the scene of the central theological battle of the OT: Yahwist monotheism against Canaanite polytheism. The worship of Baal and Asherah in the high places (bamot) is the permanent temptation of Israel. The prophets of the OT almost always articulate their message in reference to this underlying tension.",
+    "religiones_presentes": [
+      "Yahwism (emerging Israelite monotheism)",
+      "Polytheism Canaanite (El, Baal, Asherah, Astarte)",
+      "Phoenician religion (Melkart, Baal of Tyre)"
+    ],
+    "mitos": [
+      {
+        "id": "tierra-prometida",
+        "nombre": "The Promised Land as a divine gift",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 15:18-21 · Dt 34:1-4",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 44:1 — la promesa territorial a Abraham como eje de la alianza; la tierra como señal de elección",
+          "descripcion": "The land of Canaan is the fulfillment of the promise to Abraham. It is not just a political territory — it is the space where Yahweh lives with its people. The Israel-earth relationship is inseparable from the divine alliance.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The earth is a sign of the election of Israel. His loss (Exile) is a sign of the judgment of Yahweh; its recovery, of the restoration of the alliance.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 11:8-16 · Gál 3:15-29",
+          "fuente_secundaria": "Justino Mártir, Diálogo con Trifón CXIX,5 — la herencia espiritual de Abraham; la promesa territorial reinterpretada como promesa escatológica",
+          "descripcion": "The promised land is reinterpreted as a type of the kingdom of God. Abraham was looking for a heavenly homeland. The territorial promise is spiritualized: the inheritance is Christ himself and eternal life.",
+          "diferencias": "The promise becomes spiritualized—the physical earth yields to the universal spiritual promise.",
+          "similitudes": "Abraham as father of faith; the promise as a framework of the divine-human relationship.",
+          "significado_teologico": "The earth is the image of eschatological salvation — the new Canaan is the eternal kingdom.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 5:20-21",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Maida 5:20-21 — al-ard al-muqaddasa como prueba de obediencia para los Hijos de Israel",
+          "descripcion": "The Quran mentions that Moses ordered the Israelites to enter the holy land (al-ard al-muqaddasa). The promise of the land is framed in the prophetic mission of Moses, without the theological weight it has in Jewish tradition.",
+          "diferencias": "Without emphasis on the permanent territorial pact. The sacred land is an episode, not a theological axis.",
+          "similitudes": "The land as a divine gift linked to obedience.",
+          "significado_teologico": "Disobedience prevents access to the land—theme of submission to divine will.",
+          "posible_relacion_cultural": "Shared tradition about the sanctity of the land of Palestine/Levant."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "mesopotamia",
+  "nombre": "Mesopotamia",
+  "tipo": "territorio",
+  "lat": 32.5352,
+  "lng": 44.4192,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 280,
+  "jerarquia_pin": "primario",
+  "nota_coordenadas": "Anclado en las ruinas de Babilonia antigua (cerca de Hilla, Iraq) — ciudad más mencionada del AT dentro del territorio mesopotámico",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Casitas in Babilonia"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Transizione e frammentazione"
+    },
+    {
+      "desde": -1000,
+      "hasta": -609,
+      "nombre": "Ferro II: Impero neo-assiro"
+    },
+    {
+      "desde": -626,
+      "hasta": -539,
+      "nombre": "Impero neobabilonese"
+    },
+    {
+      "desde": -539,
+      "hasta": -400,
+      "nombre": "Dominio persiano (achemenide)"
+    }
+  ],
+  "descripcion_geo": "Regione compresa tra i fiumi Tigri ed Eufrate, dalle montagne dell'Anatolia al Golfo Persico. Il nome greco significa \"terra tra i fiumi\". Le inondazioni annuali depositarono il limo fertile che rese possibili le prime città del mondo. Privo di pietra e legno, Mesopotamia dipendeva dal commercio con il Levante, l'Anatolia e l'India. La pianura alluvionale meridionale (Babilonia/Sumer) e gli altopiani settentrionali (Assiria) definiscono le sue due principali zone culturali.",
+  "altitud_m": "Variabile: dal livello del mare (sud) a 500 m (nord, Assiria)",
+  "clima": "Continentale semiarido: estati estremamente calde (45°C), inverni freddi. Poca pioggia; Tutta l'agricoltura dipende dall'irrigazione tramite canali provenienti dall'Eufrate e dal Tigri.",
+  "recursos": [
+    "Terreno alluvionale fertile (con irrigazione)",
+    "Argilla per mattoni e tavolette cuneiformi",
+    "Asfalto (bitume naturale)",
+    "Date",
+    "Lana e tessuti",
+    "Posizione sulle rotte commerciali verso l'India, Egitto e Anatolia"
+  ],
+  "importancia_estrategica": "Attraversamento delle rotte commerciali tra il Mediterraneo, l'India e il Golfo Persico. Le grandi potenze mesopotamiche (Assiria, Babilonia) controllavano il Levante e esercitarono pressioni dirette su Israele e Giuda durante tutta l'età del ferro.",
+  "otros_habitantes": [
+    {
+      "id": "sumerios",
+      "nombre": "Sumeri",
+      "descripcion": "Prima civiltà urbana conosciuta. Inventori della scrittura cuneiforme, del sistema sessagesimale (base 60), dello ziggurat e della letteratura epica (Gilgamesh). Ur era la loro città principale e la città natale di Abramo.",
+      "religion": "Politeismo: pantheon degli dei astrali (Anu, Enlil, Enki, Inanna)",
+      "periodo": "C. 4500–2000 a.C"
+    },
+    {
+      "id": "asirios",
+      "nombre": "Assiri",
+      "descripcion": "Impero settentrionale di Mesopotamia, centrato su Ninive e Assur. Conquistano il regno settentrionale di Israele (722 a.C.) e deportano le 10 tribù. La sua politica di deportazione di massa rimodellò la demografia del Levante.",
+      "religion": "Politeismo: Assur (dio nazionale), Ishtar (guerra e amore), Shamash (sole e giustizia)",
+      "periodo": "C. 2500–609 a.C"
+    },
+    {
+      "id": "babilonios",
+      "nombre": "Babilonesi",
+      "descripcion": "Impero del Sud di Mesopotamia, capitale Babilonia. Nabucodonosor II distrugge Gerusalemme (586 a.C.) e inizia l'esilio ebraico. La cultura babilonese ha un profondo impatto sulla teologia, sul calendario e sulla letteratura del giudaismo post-esilico.",
+      "religion": "Politeismo: Marduk (dio supremo), Ishtar, Nabu (scrittura), Sin (luna)",
+      "periodo": "C. 2000–539 a.C"
+    },
+    {
+      "id": "caldeos",
+      "nombre": "Caldei",
+      "descripcion": "Tribù semitica meridionale di Mesopotamia che prese il controllo di Babilonia nel VII secolo a.C. I profeti biblici usano \"Caldei\" come sinonimo di Babilonesi. Nabucodonosor II era caldeo. Ur dei Caldei è la città natale di Abramo.",
+      "religion": "Politeismo babilonese: eredi del pantheon sumero-accadico",
+      "periodo": "C. 1000–539 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "origen-abraham",
+      "titulo": "Abramo parte di Ur",
+      "fecha": "c. 2000–1800 a.C. (trad.)",
+      "descripcion": "Abramo (Abram) parte da Ur dei Caldei, a sud di Mesopotamia, chiamato da Jahvè verso Canaan. La partenza di Mesopotamia è il primo movimento della storia della salvezza, il punto di partenza geografico e teologico dell'Antico Testamento.",
+      "referencias": [
+        "Gen 11:31-32",
+        "Gen 12:1-5",
+        "At 7:2-4"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "torre-babel",
+      "titulo": "La Torre di Babele",
+      "fecha": "Época primordial (relato etiológico)",
+      "descripcion": "Nella piana di Sinear (Mesopotamia), l'umanità costruisce una torre per raggiungere il paradiso. Jahvè confonde le lingue e disperde i popoli. La ziggurat babilonese è il riferimento architettonico della storia.",
+      "referencias": [
+        "Gen 11:1-9"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "exilio-babilonico",
+      "titulo": "L'esilio babilonese",
+      "fecha": "597–539 a.C.",
+      "descripcion": "Nabucodonosor II deporta l'élite ebraica a Babilonia in due ondate (597 e 586 a.C.). In Mesopotamia l'ebraismo si trasforma: emerge la sinagoga come istituzione, si compilano le Scritture, si sviluppa la speranza messianica. L'esilio è il crogiolo del giudaismo classico.",
+      "referencias": [
+        "2 Re 24:10-17",
+        "2 Re 25:1-21",
+        "Sal 137:1-9",
+        "Ez 1:1-3"
+      ],
+      "personajes_clave": [
+        "daniel",
+        "ezequiel",
+        "nabucodonosor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham-meso",
+      "nombre": "Abramo",
+      "rol": "Patriarca - origine a Ur di Caldea",
+      "periodo": "bronce_medio",
+      "descripcion": "Nato a Ur, una città sumera nel sud di Mesopotamia. La sua chiamata e la partenza per Canaan è l'atto fondativo della storia biblica. Mesopotamia è la tua terra d'origine - Canaan, la tua terra di destinazione.",
+      "referencias": [
+        "Gen 11:28-31",
+        "Gen 15:7",
+        "Ne 9:7"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "canaan"
+      ]
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniele",
+      "rol": "Profeta alla corte babilonese",
+      "periodo": "hierro_2",
+      "descripcion": "Giovane ebreo deportato a Babilonia prestando servizio alla corte di Nabucodonosor. Interpreta sogni e visioni. Il suo libro è il testo apocalittico più influente nell'Antico Testamento e riflette l'esperienza della diaspora mesopotamica.",
+      "referencias": [
+        "Dn 1:1-21",
+        "Dn 2:1-49",
+        "Dn 6:1-28"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mesopotamia"
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio in Babilonia",
+      "periodo": "hierro_2",
+      "descripcion": "Sacerdote deportato che profetizza tra gli esuli presso il fiume Chebar (Mesopotamia). Le sue visioni (il carro divino, la valle delle ossa secche, il nuovo Tempio) sono i testi più visionari della profezia biblica.",
+      "referencias": [
+        "Ez 1:1-28",
+        "Ez 37:1-14",
+        "Ez 40:1-49"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mesopotamia"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mesopotamia è all'origine di molti dei miti e delle strutture letterarie che l'Antico Testamento reinterpreta in chiave monoteistica: il diluvio universale, la creazione dal caos, il giardino primordiale, la figura del re-sacerdote. L'esilio babilonese costringe l'Ebraismo a riformularsi senza terra né Tempio, generando le sue istituzioni più durature.",
+    "religiones_presentes": [
+      "Politeismo sumero-accadico (Anu, Enlil, Enki)",
+      "Politeismo babilonese (Marduk, Ishtar)",
+      "Politeismo assiro (Assur, Ishtar)",
+      "Zoroastrismo (influenza persiana dopo il 539 a.C.)"
+    ],
+    "mitos": [
+      {
+        "id": "diluvio",
+        "nombre": "Il Diluvio Universale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 6:1-9:29",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 32:1-6 — el diluvio como castigo moral; Noé como justo probado; paralelo con el Épico de Gilgamesh reconocido implícitamente",
+          "descripcion": "Noè costruisce l'arca e salva la sua famiglia e gli animali dal diluvio inviato da Jahvè per eliminare il male umano. L'arcobaleno è un segno dell'alleanza post-diluvio. La storia parallela all'epopea mesopotamica di Gilgamesh (tabella XI) mostra la reinterpretazione monoteistica di un mito più antico.",
+          "diferencias": "Nella versione biblica il diluvio risponde al male morale dell'umanità. In Gilgamesh, gli dei lo mandano per il rumore umano, senza motivazione etica.",
+          "similitudes": "Sopravvissuto avvertito da un dio, costruzione di una barca, animali a bordo, liberazione di uccelli per riconoscere la terra, offerta finale.",
+          "significado_teologico": "Il diluvio rivela la sovranità di Jahvè sulla creazione e sull'ordine morale dell'universo.",
+          "posible_relacion_cultural": "Il racconto biblico probabilmente conosce la tradizione mesopotamica (Atrahasis, Gilgamesh) e la reinterpreta a partire dal monoteismo."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 6-9 · 1 Pe 3:20-21 · Heb 11:7",
+          "fuente_secundaria": "Tertuliano, De Baptismo VIII — tipología bautismal del diluvio; el arca como prefiguración de la Iglesia",
+          "descripcion": "Il diluvio è una sorta di battesimo: come Noè fu salvato dall'acqua, il credente viene salvato attraverso il battesimo. Noè come figura dell'uomo giusto che obbedisce a Dio in mezzo alla corruzione universale.",
+          "diferencias": "La lettura tipologica cristiana vede nel diluvio un sacramento anticipato più che un giudizio storico.",
+          "similitudes": "L'obbedienza di Noè come modello di fede; giudizio come realtà del peccato.",
+          "significado_teologico": "Fondazione della tipologia battesimale; Noè come prefigurazione dei giusti salvati.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 71:1-28 · Corán 11:25-49",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat Hud 11:25-49 — Nuh como profeta rechazado durante 950 años; modelo del patrón profético coránico",
+          "descripcion": "Nuh (Noè) è un profeta inviato al suo popolo per 950 anni. Costruisci l'arca seguendo le istruzioni divine. Uno dei suoi figli si rifiuta di imbarcarsi e muore – un dettaglio assente nella Bibbia. Il Corano sottolinea la missione profetica di Nuh, non l'alleanza post-diluvio.",
+          "diferencias": "Il figlio di Nuh che muore non appare nella Bibbia. Nessuna alleanza arcobaleno. L'accento è profetico, non alleato.",
+          "similitudes": "Avvertimento divino, arca, animali, diluvio universale, sopravvivenza dei fedeli.",
+          "significado_teologico": "Nuh come modello di profeta perseverante rifiutato dal suo popolo – un modello che si ripete in tutti i profeti del Corano.",
+          "posible_relacion_cultural": "Tradizione condivisa del diluvio universale che affonda le sue radici nella cultura mesopotamica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "shur",
+  "nombre": "Desierto de Shur",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.24,
+  "lng": 33.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Desierto al noroeste del Sinaí, entre Egipto y Canaán. Primera parada de Israel tras cruzar el Mar Rojo; tierra de Agar.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Primera etapa del peregrinaje post-Éxodo; zona de tránsito entre Egipto y Canaán.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "shu_h1",
+      "titulo": "Agar huye a Shur",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Agar, huyendo de Sara, es encontrada por el ángel del Señor junto a un manantial en el camino a Shur.",
+      "referencias": [
+        "Gn 16:7-14"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "ángel del Señor"
+      ]
+    },
+    {
+      "id": "shu_h2",
+      "titulo": "Israel cruza el desierto de Shur tras el Mar Rojo",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Moisés conduce a Israel desde el Mar Rojo al desierto de Shur; caminan tres días sin agua hasta llegar a Mara.",
+      "referencias": [
+        "Ex 15:22"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "shu_h3",
+      "titulo": "Abraham y los patriarcas en Shur",
+      "fecha": "ca. 1900 a.C.",
+      "descripcion": "Abraham moraba entre Cades y Shur; Ismaelitas y amalecitas habitaban la región de Shur.",
+      "referencias": [
+        "Gn 20:1",
+        "Gn 25:18"
+      ],
+      "personajes_clave": [
+        "Abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "shu_p1",
+      "nombre": "Agar",
+      "rol": "Madre de Ismael",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "El ángel del Señor la encontró junto al manantial en el camino a Shur y le anunció el nacimiento de Ismael.",
+      "referencias": [
+        "Gn 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p2",
+      "nombre": "Moisés",
+      "rol": "Libertador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condujo a Israel por el desierto de Shur como primer tramo del camino al Sinaí.",
+      "referencias": [
+        "Ex 15:22"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p3",
+      "nombre": "Abraham",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Moraba entre Cades y Shur; zona de sus andanzas pastoriles.",
+      "referencias": [
+        "Gn 20:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Desierto de Shur: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "shu_m1",
+        "nombre": "El ángel junto al pozo en Shur",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 16:7",
+          "fuente_secundaria": "",
+          "descripcion": "El ángel del Señor encontró a Agar huyendo junto a un manantial en el camino a Shur (Gn 16:7): el Dios que ve y oye en el desierto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El ángel del Señor encontró a Agar huyendo junto a un manantial en el camino a Shur (Gn 16:7): el Dios que ve y oye en el desierto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

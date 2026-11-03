@@ -1,0 +1,151 @@
+{
+  "id": "corner_gate",
+  "nombre": "Angle Gate",
+  "tipo": "ciudad",
+  "lat": 31.775194,
+  "lng": 35.239435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — puerta del muro perimetral de la ciudad, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Gate in the northwest wall of Jerusalem"
+    }
+  ],
+  "descripcion_geo": "Fortified gate located in one of the corners of the walled perimeter of Jerusalem, probably in the northwest sector of the city, marking one of the extremes of the length measurements of the wall cited in the accounts of reconstruction and destruction.",
+  "altitud_m": "Jerusalem perimeter wall, c. 740-760",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Fortified reference point to measure the perimeter of the wall",
+    "Defensive access in the northwest corner of the city"
+  ],
+  "importancia_estrategica": "The Angle Gate functions in the biblical text mainly as a topographic reference point to measure distances from the wall of Jerusalem, both in the context of its repair by Uzziah and in that of its destruction recorded by the prophets, marking the limits of the fortified urban area at different times in the history of the kingdom of Judah.",
+  "otros_habitantes": [
+    {
+      "id": "guarnicion_puerta_angulo",
+      "nombre": "Wall garrison",
+      "descripcion": "Military personnel in charge of the defense of the Angle Gate sector as part of the general fortification system of the Jerusalem perimeter.",
+      "religion": "Yahwism",
+      "periodo": "c. 1000–586 BC"
+    },
+    {
+      "id": "comerciantes_puerta_angulo",
+      "nombre": "Urban population of the northwest sector",
+      "descripcion": "Inhabitants and merchants of the area of ​​the city near the Puerta del Ángulo, an area that grew urbanistically during the late monarchy.",
+      "religion": "Yahwism",
+      "periodo": "c. 800–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "uzias-fortifica-puerta-angulo",
+      "titulo": "Uzziah fortifies the Angle Gate",
+      "fecha": "c. 790–740 BC",
+      "descripcion": "King Uzziah of Judah builds towers at Jerusalem next to the Angle Gate, Valley Gate, and Angle Wall, and fortifies them as part of a broader military and agricultural strengthening program of his reign.",
+      "referencias": [
+        "2 Chr 26:9"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "joas-israel-brecha-puerta-angulo",
+      "titulo": "Joás of Israel breaches the Angle Gate",
+      "fecha": "c. 790 BC",
+      "descripcion": "After defeating Amaziah of Judah in battle, Joash, king of Israel, opens a breach in the wall of Jerusalem from the Ephraim Gate to the Angle Gate, four hundred cubits long, as punishment and humiliation after the Judahite defeat.",
+      "referencias": [
+        "2 Kgs 14:13",
+        "2 Chr 25:23"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jeremias-reconstruccion-futura-puerta-angulo",
+      "titulo": "The Angle Gate in the promise of reconstruction by Jeremiah",
+      "fecha": "c. 587 BC (oráculo, contexto del exilio)",
+      "descripcion": "The prophet Jeremiah announces that the day will come when Jerusalem will be rebuilt for YHWH from the tower of Hananeel to the Angle Gate, extending the consecrated area of ​​the city, as a sign of hope after the imminent destruction.",
+      "referencias": [
+        "Jer 31:38"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias_puerta_angulo",
+      "nombre": "Uzziah",
+      "rol": "King of Judah, Fortifier of Jerusalem",
+      "periodo": "hierro_2",
+      "descripcion": "He builds and fortifies towers next to the Angle Gate as part of his extensive program of military strengthening of the kingdom, described as one of the most prosperous kings of Judah until his later fall in pride.",
+      "referencias": [
+        "2 Chr 26:1-15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joas_israel_puerta_angulo",
+      "nombre": "Joash by Israel",
+      "rol": "King of Israel (northern kingdom)",
+      "periodo": "c. 798–782 BC",
+      "descripcion": "He defeats Amaziah of Judah and opens a humiliating breach in the wall of Jerusalem all the way to the Angle Gate, also plundering the Temple and the royal palace.",
+      "referencias": [
+        "2 Kgs 14:8-14"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_puerta_angulo",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He utters an oracle of future restoration that takes the Angle Gate as one of the geographical reference points of the rebuilt and consecrated Jerusalem that will come after the exile.",
+      "referencias": [
+        "Jer 31:38-40"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Angle Gate appears in the biblical text as a topographical marker that spans three theologically charged moments in the history of Jerusalem: fortification under a prosperous king (Uzziah), humiliation through a breach opened by a rival Israelite king (Joash), and finally the prophetic promise of future reconstruction and consecration (Jeremiah). This progression—strength, destruction, restoration—reflects in miniature the Deuteronomist theological cycle applied to the capital of the kingdom of Judah itself.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "promesa-reconstruccion-puerta-angulo",
+        "nombre": "The promise of reconstruction from Jerusalem to the Angle Gate",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 31:38-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las profecías de consolación de Jeremías 30-33 como anuncio de la restauración post-exílica",
+          "descripcion": "Jewish tradition places this oracle within the 'Book of Consolation' of Jeremiah, reading the future extension of the consecrated city to the Angle Gate as a concrete promise of physical and spiritual restoration of Jerusalem after the Babylonian exile.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The announced topographic reconstruction symbolizes the comprehensive renewal of the alliance relationship between YHWH and Israel after the exile judgment.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

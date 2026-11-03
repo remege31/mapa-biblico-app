@@ -1,0 +1,146 @@
+{
+  "id": "syracuse",
+  "nombre": "Syracuse",
+  "tipo": "ciudad",
+  "lat": 37.0755,
+  "lng": 15.2866,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Largest Greek city in the West, on the southeast coast of Sicily.",
+  "altitud_m": 10,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "agriculture",
+    "fishing"
+  ],
+  "importancia_estrategica": "Greek city-state of enormous historical and cultural importance.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "syr_h1",
+        "titulo": "Paul stops for three days in Syracuse",
+        "fecha": "ca. 60 AD",
+        "descripcion": "En route to Rome, the Paul ship makes a three-day stopover in Syracuse.",
+        "referencias": [
+          "Acts 28:12"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_h2",
+        "titulo": "The Sicilian route",
+        "fecha": "ca. 60 AD",
+        "descripcion": "From Syracuse the boat coasts towards Reggio and then Puteoli.",
+        "referencias": [
+          "Acts 28:13"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_h3",
+        "titulo": "Preaching tradition in Sicily",
+        "fecha": "ca. 60 AD",
+        "descripcion": "Local tradition holds that Paul preached in Syracuse during his stopover.",
+        "referencias": [
+          "Tradición cristiana siciliana"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "syr_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He spent three days in Syracuse during his journey to Rome.",
+        "referencias": [
+          "Acts 28:12"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_p2",
+        "nombre": "Julius the centurion",
+        "rol": "Paul Guardian",
+        "periodo": "s. I AD",
+        "descripcion": "He supervised the stopover in Syracuse.",
+        "referencias": [
+          "Acts 27:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_p3",
+        "nombre": "Archimedes",
+        "rol": "Scientist and mathematician",
+        "periodo": "ca. 287-212 BC",
+        "descripcion": "The most famous son of Syracuse; His city was a symbol of Greek greatness in the West.",
+        "referencias": [
+          "Historia griega"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Ancient Greek metropolis with cults of Athena and Artemis; silent witness of the apostolic step towards Rome.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "syr_m1",
+          "nombre": "The passage of Paul through Sicily",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Although only three days, Sicilian Christian tradition honors Paul as the one who brought the gospel to the island on his way to Rome.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Although only three days, Sicilian Christian tradition honors Paul as the one who brought the gospel to the island on his way to Rome.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

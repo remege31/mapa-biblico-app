@@ -1,0 +1,134 @@
+{
+  "id": "dedan",
+  "nombre": "Dedán",
+  "tipo": "territorio",
+  "lat": 26.63,
+  "lng": 37.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Oasis y ciudad caravanera en el noroeste de Arabia Saudita (actual Al-'Ula). Centro del comercio de incienso entre Arabia y el Mediterráneo.",
+  "altitud_m": 800,
+  "clima": "árido",
+  "recursos": [
+    "incienso",
+    "comercio caravanero",
+    "dátiles"
+  ],
+  "importancia_estrategica": "Nudo clave de la ruta del incienso; los profetas la mencionan como potencia comercial del sur.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ded_h1",
+      "titulo": "Los dedanitas: comerciantes de caravanas",
+      "fecha": "ca. 600-550 a.C.",
+      "descripcion": "Ezequiel menciona a los dedanitas como comerciantes que abastecen de sillas y alfombras a Tiro.",
+      "referencias": [
+        "Ez 27:15,20"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "ded_h2",
+      "titulo": "Jeremías profetiza contra Dedán",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Jeremías incluye a Dedán en los oráculos contra las naciones árabes que beberán la copa del juicio divino.",
+      "referencias": [
+        "Jer 25:23",
+        "Jer 49:8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "ded_h3",
+      "titulo": "Isaías y las caravanas de Dedán",
+      "fecha": "ca. 740-700 a.C.",
+      "descripcion": "Isaías menciona las caravanas de Dedán que se refugian en los bosques de Arabia huyendo del enemigo.",
+      "referencias": [
+        "Is 21:13"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ded_p1",
+      "nombre": "Ezequiel",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Mencionó los productos de Dedán en la descripción del comercio de Tiro.",
+      "referencias": [
+        "Ez 27:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p2",
+      "nombre": "Jeremías",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Pronunció un oráculo contra Dedán en los juicios sobre las naciones.",
+      "referencias": [
+        "Jer 49:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p3",
+      "nombre": "Isaías",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Describió las caravanas dedanitas en fuga como señal del juicio sobre Arabia.",
+      "referencias": [
+        "Is 21:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dedán: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ded_m1",
+        "nombre": "Las rutas del incienso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dedán era el principal nudo de la ruta del incienso en Arabia; los profetas la usan como símbolo del lujo y el comercio que también caerán bajo el juicio divino.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dedán era el principal nudo de la ruta del incienso en Arabia; los profetas la usan como símbolo del lujo y el comercio que también caerán bajo el juicio divino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

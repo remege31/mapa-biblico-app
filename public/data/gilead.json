@@ -1,0 +1,143 @@
+{
+  "id": "gilead",
+  "nombre": "Galaad",
+  "tipo": "territorio",
+  "lat": 32.04,
+  "lng": 35.72,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 99,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -722,
+      "nombre": "Hierro I y II"
+    }
+  ],
+  "descripcion_geo": "Región montañosa al este del Jordán, entre el Yarmuk y el río Arnón. Territorio de las tribus de Rubén, Gad y media tribu de Manasés.",
+  "altitud_m": 900,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "bálsamo",
+    "ganadería",
+    "madera",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Zona de amortiguamiento entre Israel y los reinos de Transjordán; famosa por su bálsamo medicinal.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gil_h1",
+      "titulo": "Jefté y el voto imprudente",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Jefté el galaadita vence a los amonitas pero hace un voto imprudente que cuesta la vida a su hija.",
+      "referencias": [
+        "Jue 11"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "gil_h2",
+      "titulo": "El bálsamo de Galaad",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Jeremías lamenta la ausencia de bálsamo para curar a Israel, usando la resina medicinal de Galaad como metáfora.",
+      "referencias": [
+        "Jer 8:22"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "gil_h3",
+      "titulo": "Elías el tisbita de Galaad",
+      "fecha": "ca. 870 a.C.",
+      "descripcion": "Elías, profeta de Galaad, anuncia la sequía a Acab y huye al torrente Querit donde es alimentado por cuervos.",
+      "referencias": [
+        "1 Re 17:1-7"
+      ],
+      "personajes_clave": [
+        "Elías",
+        "Acab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gil_p1",
+      "nombre": "Elías",
+      "rol": "Profeta",
+      "periodo": "ca. 875-850 a.C.",
+      "descripcion": "El gran profeta del AT era 'el tisbita, de los habitantes de Galaad'.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p2",
+      "nombre": "Jefté",
+      "rol": "Juez de Israel",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Caudillo militar de Galaad que libró a Israel de los amonitas con un voto trágico.",
+      "referencias": [
+        "Jue 11:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p3",
+      "nombre": "Maquir hijo de Manasés",
+      "rol": "Conquistador de Galaad",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Conquistó Galaad y recibió esa tierra como herencia para su clan.",
+      "referencias": [
+        "Nm 32:39"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tierra fértil y de refugio al este del Jordán; cuna de Elías y escenario de jueces y guerreros. Su bálsamo se convirtió en símbolo de sanación.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_ammonita"
+    ],
+    "mitos": [
+      {
+        "id": "gil_m1",
+        "nombre": "El bálsamo de Galaad",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 8:22",
+          "fuente_secundaria": "",
+          "descripcion": "'¿No hay bálsamo en Galaad?' (Jer 8:22): imagen de un remedio que debería existir pero que el pecado de Israel ha hecho inaccesible.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "'¿No hay bálsamo en Galaad?' (Jer 8:22): imagen de un remedio que debería existir pero que el pecado de Israel ha hecho inaccesible.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La expresión 'bálsamo de Galaad' pervive como símbolo de sanación espiritual en la tradición cristiana.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La expresión 'bálsamo de Galaad' pervive como símbolo de sanación espiritual en la tradición cristiana.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

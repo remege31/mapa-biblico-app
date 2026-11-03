@@ -1,0 +1,163 @@
+{
+  "id": "lehi",
+  "nombre": "Lehi",
+  "tipo": "ciudad",
+  "lat": 31.75274835811488,
+  "lng": 34.97660913147738,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: l'ultima battaglia di Sansone contro l'Filistei"
+    }
+  ],
+  "descripcion_geo": "Località della Sefela, molto vicina a Zorah e alla valle di Sorek, il cui nome (“mascella” in ebraico) deriva direttamente dall'episodio biblico ivi ambientato. Terreno basso e collinare tipico del confine tra il territorio danita e la pianura filistea.",
+  "altitud_m": 220,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale.",
+  "recursos": [
+    "Posizione di confine tra il territorio danita e quello filisteo",
+    "Terreni agricoli della Shephelah",
+    "Primavera associata alla storia (En-hacore)"
+  ],
+  "importancia_estrategica": "Lehi è la scena della più grande vittoria militare di Sansone contro l'Filistei, e il suo nome divenne fisso nella memoria biblica da quell'episodio. Geograficamente articola il ciclo di Sansone insieme a Zorah e Timnah, formando un piccolo triangolo di luoghi tutti legati allo stesso ciclo narrativo.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_lehi",
+      "nombre": "Filistei",
+      "descripcion": "Truppe filistee salgono a Lehi per catturare Sansone dopo essersi rifugiato nella roccia di Etam dopo le sue rappresaglie nei campi di Timnah.",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1100 a.C"
+    },
+    {
+      "id": "judaitas_lehi",
+      "nombre": "Uomini di Giuda",
+      "descripcion": "Tremila uomini di Giuda che scendono alla roccia di Etam per legare Sansone e consegnarlo alle Filistei, cercando di evitare rappresaglie collettive contro il loro territorio.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1100 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "entrega-sanson-judaitas",
+      "titulo": "Gli uomini di Giuda consegnano Sansone",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Di fronte alla minaccia di ritorsioni filistee per l'incendio dei campi, tremila uomini Giuda scendono alla roccia di Etam, rimproverano Sansone per il suo comportamento e lo legano con nuove corde per consegnarlo agli Filistei a Lehi, evitando così un grave conflitto con l'occupante.",
+      "referencias": [
+        "Gdc 15:9-13"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "quijada-asno-lehi",
+      "titulo": "mascella d'asino",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Giunto a Lehi, lo Spirito di YHWH si impadronisce di Sansone, le corde che lo legano si allentano come lino bruciato, e con la mascella fresca di un asino uccide mille uomini Filistei, dando origine al nome del luogo e ad un breve canto attribuito a Sansone.",
+      "referencias": [
+        "Gdc 15:14-17"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "manantial-en-hacore",
+      "titulo": "La sorgente di En-hacore",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Esausto e assetato dopo la strage, Sansone grida a YHWH temendo di morire di sete; Dio apre una fessura nella roccia di Lehi da cui sgorga l'acqua, una sorgente che conserva il nome 'En-hacore' ('fontana di chi piange') fino al tempo del narratore biblico.",
+      "referencias": [
+        "Gdc 15:18-19"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Sansone",
+      "rol": "Israele Giudice, nazireo dalla forza sovrumana",
+      "periodo": "hierro_1",
+      "descripcion": "Protagonista della battaglia più decisiva del suo ciclo personale contro l'Filistei, combattuta a Lehi con un'arma improvvisata; L'episodio segna il culmine della loro faida scoppiata a Timnah.",
+      "referencias": [
+        "Gdc 15:9-19"
+      ],
+      "ruta": [
+        "timnah",
+        "zorah",
+        "lehi"
+      ]
+    },
+    {
+      "id": "hombres_judá_lehi",
+      "nombre": "Uomini di Giuda",
+      "rol": "Delegazione di tremila uomini da Giuda",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Rappresentano l'atteggiamento accomodante della leadership di Giuda sotto il dominio filisteo, disposta a consegnare il proprio giudice per evitare rappresaglie, in contrasto con l'azione liberatoria individuale di Sansone.",
+      "referencias": [
+        "Gdc 15:9-13"
+      ],
+      "ruta": [
+        "lehi"
+      ]
+    },
+    {
+      "id": "filisteos_derrotados_lehi",
+      "nombre": "Mille uomini Filistei",
+      "rol": "Truppe filistee sconfitte a Lehi",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Forza filistea annientata da Sansone con la mascella dell'asino, episodio che rappresenta la più grande vittima inflitta da un solo giudice israelita in un unico confronto narrato.",
+      "referencias": [
+        "Gdc 15:15-16"
+      ],
+      "ruta": [
+        "lehi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lehi condensa lo schema teologico centrale del ciclo di Sansone: la forza sovrumana come manifestazione diretta dello Spirito di YHWH, esercitata attraverso uno strumento deliberatamente indegno (una mascella di animale morto, fonte di impurità rituale per un nazireo). Il grido della sete e la risposta divina attraverso la primavera sottolineano che la vittoria militare non esclude la fragilità umana del giudice, bilanciando la storia eroica con un momento di vulnerabilità e di esplicita dipendenza da Dio.",
+    "religiones_presentes": [
+      "Yahvismo (inclusa l'istituzione del nazireato)",
+      "Politeismo filisteo: culto di Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "quijada-mil-filisteos",
+        "nombre": "La mascella di un asino e il massacro di mille Filistei",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 15:14-19",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 9b-10a (sobre la fuerza de Sansón y su origen)",
+          "descripcion": "La tradizione rabbinica tratta l'episodio come una manifestazione del potere concesso dallo Spirito di YHWH a uno strumento umile e ritualmente discutibile, collegandolo a riflessioni sull'umiltà dei mezzi che Dio sceglie per effettuare la liberazione.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il contrasto tra la debolezza dell'arma (un osso) e l'entità della vittoria rafforza l'idea che la forza deriva interamente da YHWH, non dall'abilità umana.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gdc 15:14-19 (recepción patrística sobre Sansón como tipo de fuerza paradójica)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre Sansón en la tradición de los 'jueces-salvadores'",
+          "descripcion": "La prima lettura patristica assume Sansone in Lehi come esempio del potere divino manifestato attraverso strumenti deboli o disprezzati, tema che verrà successivamente integrato nella tradizione delle letture tipologiche sulla forza che si perfeziona nella debolezza.",
+          "similitudes": "Condivide l’enfasi sul contrasto tra la piccolezza dei mezzi e la grandezza del risultato.",
+          "diferencias": "La tradizione cristiana tende a generalizzare il motivo come un principio teologico ampio, al di là dello specifico episodio di Sansone.",
+          "significado_teologico": "L'episodio viene letto come antecedente al principio secondo cui la potenza di Dio si perfeziona in ciò che è debole o disprezzato secondo i criteri umani.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo dei giudici Israele come parte della storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

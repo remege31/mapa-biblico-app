@@ -1,0 +1,138 @@
+{
+  "id": "shephelah",
+  "nombre": "Sefela",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.78,
+  "lng": 34.85,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 20,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Le 'pianure' tra le montagne di Giuda e la pianura costiera filistea; terra di dolci colline e fertili vallate.",
+  "altitud_m": 200,
+  "clima": "mediterraneo",
+  "recursos": [
+    "ulivi",
+    "fichi",
+    "cereali",
+    "vite"
+  ],
+  "importancia_estrategica": "Zona buffer tra Israele e Filistei; scena di battaglie e la storia di Sansone.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "Sansone nelle valli della Sefela",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Le imprese di Sansone si svolgono nelle valli di Shephelah (Timnat, Ascalon, Lehi), terra di confine tra Israele e Filistei.",
+      "referencias": [
+        "Gdc 14-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "La Valle di Elah e Davide e Goliath",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "La valle di Elah in Shephelah è la scena del duello tra Davide e il gigante Golia.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "Le città di Sefela nella riforma di Giosia",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "Giosia estende la sua riforma religiosa alle città di Sefela, distruggendo i luoghi di culto pagano.",
+      "referencias": [
+        "2 Cr 34:6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "Sansone",
+      "rol": "Giudice nazireo",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Le sue avventure e battaglie contro l'Filistei hanno avuto luogo nella Shephela.",
+      "referencias": [
+        "Gdc 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Era un pastore in Betlemme e combatté nelle valli di Shephela prima di diventare re.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Michea di Moreset",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Nato a Moreset-Gat a La Sefela; profeta contemporaneo di Isaia.",
+      "referencias": [
+        "Mic 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terreni di confine e interazione con l'Filistei; Le sue valli erano campi di battaglia che hanno forgiato l'identità militare di Israele.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "filisteo_paganesimo"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "La valle della battaglia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La valle di Elah nella Shephelah è stata teatro dello scontro finale tra Israele e Filistei, rappresentato nel duello Davide-Goliath.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La valle di Elah nella Shephelah è stata teatro dello scontro finale tra Israele e Filistei, rappresentato nel duello Davide-Goliath.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "shur",
+  "nombre": "Deserto di Shur",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.24,
+  "lng": 33.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Deserto a nord-ovest di Sinai, tra Egitto e Canaan. La prima tappa di Israele dopo aver attraversato il Mar Rosso; terra di Agar.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Prima tappa del pellegrinaggio post-Esodo; zona di transito tra Egitto e Canaan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "shu_h1",
+      "titulo": "Agar fugge a Shur",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Agar, in fuga da Sara, viene trovata dall'angelo del Signore accanto a una sorgente sulla strada per Shur.",
+      "referencias": [
+        "Gen 16:7-14"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "ángel del Señor"
+      ]
+    },
+    {
+      "id": "shu_h2",
+      "titulo": "Israele attraversa il deserto di Shur dopo il Mar Rosso",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Mosè conduce Israele dal Mar Rosso al deserto di Shur; Camminano tre giorni senza acqua finché non raggiungono Mara.",
+      "referencias": [
+        "Es 15:22"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "shu_h3",
+      "titulo": "Abramo e i patriarchi di Shur",
+      "fecha": "ca. 1900 a.C.",
+      "descripcion": "Abramo si è fermato tra Kades e Shur; Nella regione di Shur abitavano gli Ismaeliti e gli Amalechiti.",
+      "referencias": [
+        "Gen 20:1",
+        "Gen 25:18"
+      ],
+      "personajes_clave": [
+        "Abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "shu_p1",
+      "nombre": "Agar",
+      "rol": "Madre di Ismaele",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "L'angelo del Signore l'ha incontrata alla sorgente sulla strada per Shur e le ha annunciato la nascita di Ismaele.",
+      "referencias": [
+        "Gen 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p2",
+      "nombre": "Mosè",
+      "rol": "Liberatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Ha guidato Israele attraverso il deserto di Shur come prima tappa del percorso verso Sinai.",
+      "referencias": [
+        "Es 15:22"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "shu_p3",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Abitava tra Kades e Shur; ambito delle sue avventure pastorali.",
+      "referencias": [
+        "Gen 20:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Deserto di Shur: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "shu_m1",
+        "nombre": "L'angelo al pozzo di Shur",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 16,7",
+          "fuente_secundaria": "",
+          "descripcion": "L'angelo del Signore trovò Agar che fuggiva presso una sorgente sulla strada per Shur (Gen 16,7): il Dio che vede e ascolta nel deserto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'angelo del Signore trovò Agar che fuggiva presso una sorgente sulla strada per Shur (Gen 16,7): il Dio che vede e ascolta nel deserto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "zoan",
+  "nombre": "Zoan (Tanis)",
+  "tipo": "ciudad",
+  "lat": 30.97461982407924,
+  "lng": 31.88417306768534,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Possible Egyptian capital of the exodus, wonders of Moses"
+    }
+  ],
+  "descripcion_geo": "Ancient Egyptian city in the Nile delta, identified by most scholars with the later Tanis, possible Egyptian capital or royal residence during the period of the exodus, explicitly mentioned in the Psalms as the scene of the wonders performed by Moses before Pharaoh.",
+  "altitud_m": 5,
+  "clima": "Subtropical desert — extremely hot and dry, typical of the northeastern Nile delta in Egypt.",
+  "recursos": [
+    "Possible Egyptian capital or royal residence",
+    "Poetic scenario of the wonders of the exodus"
+  ],
+  "importancia_estrategica": "Zoan is explicitly mentioned in psalmodic poetry as the 'field of Zoan' where YHWH performed his wonders before the eyes of Israel's parents during the exodus, serving as a specific geographic marker for the liturgical tradition commemorating Egypt's deliverance; Later it also appears in the prophetic oracles of judgment against the Egyptian power.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_zoan",
+      "nombre": "Egyptian population of Zoan",
+      "descripcion": "Inhabitants of the possible Egyptian capital where, according to biblical poetic tradition, Moses performed his wonders before Pharaoh before the release of Israel.",
+      "religion": "Egyptian polytheism",
+      "periodo": "c. 1400 BC (narrative) and later"
+    },
+    {
+      "id": "consejeros_faraon_zoan",
+      "nombre": "Princes and advisors of Pharaoh",
+      "descripcion": "Officials of the Egyptian court in Zoan, specifically mentioned in the oracle of Isaiah as bearers of foolish advice in the face of the announced crisis.",
+      "religion": "Egyptian polytheism",
+      "periodo": "c. 740–700 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "salmo-prodigios-zoan",
+      "titulo": "Psalm 78 commemorates the wonders in the field of Zoan",
+      "fecha": "Composición litúrgica, posterior al éxodo",
+      "descripcion": "Psalm 78, an extensive historical-didactic poem, explicitly remembers that YHWH did wonders before the eyes of the fathers of Israel 'in the field of Zoan', geographically linking the plagues and wonders of the exodus with this specific Egyptian city in the later liturgical memory of Israel.",
+      "referencias": [
+        "Ps 78:12",
+        "Ps 78:43"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "isaias-consejo-necio-zoan",
+      "titulo": "Isaiah denounces the foolish advice of the princes of Zoan",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah, in his oracle against Egypt, specifically denounces that the princes of Zoan have become foolish and give unwise advice to Pharaoh, contributing to the collapse of the wisdom traditionally attributed to the Egyptian court.",
+      "referencias": [
+        "Isa 19:11",
+        "Isa 19:13"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "ezequiel-juicio-zoan",
+      "titulo": "Ezekiel includes Zoan in his oracle against Egypt",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel mentions Zoan within his extensive catalog of Egyptian cities that will suffer divine judgment, placing it among the urban centers that will experience anguish on the day of punishment on Egypt.",
+      "referencias": [
+        "Ezek 30:14"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_zoan",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, performer of wonders",
+      "periodo": "bronce_tardio",
+      "descripcion": "He performs, according to the poetic tradition preserved in Psalm 78, his wonders and signs in the field of Zoan before Pharaoh and the Egyptians, before the final liberation of Israel.",
+      "referencias": [
+        "Ps 78:12",
+        "Ps 78:43"
+      ],
+      "ruta": [
+        "zoan"
+      ]
+    },
+    {
+      "id": "principes_zoan",
+      "nombre": "Princes of Zoan",
+      "rol": "Pharaoh's Foolish Advisors",
+      "periodo": "c. 740–700 BC",
+      "descripcion": "Denounced by Isaiah as giving unwise advice to Pharaoh, contributing to the collapse of legendary Egyptian wisdom in the face of the announced political crisis.",
+      "referencias": [
+        "Isa 19:11"
+      ],
+      "ruta": [
+        "zoan"
+      ]
+    },
+    {
+      "id": "isaias_zoan",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He denounces the foolishness of Zoan's advisors within his extensive oracle of judgment against Egyptian power.",
+      "referencias": [
+        "Isa 19:1-15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zoan fulfills a distinctive liturgical function in the biblical corpus: unlike other Egyptian cities mentioned primarily in late prophetic judgment contexts, Zoan first appears in psalmodic poetry as a positive commemorative setting for the liberation of Israel, geographically linking the foundational wonders of the exodus with a specific place that later liturgical memory preserves as historical testimony of decisive divine intervention on behalf of its people.",
+    "religiones_presentes": [
+      "Yahwism (commemorative perspective)",
+      "Egyptian polytheism"
+    ],
+    "mitos": [
+      {
+        "id": "campo-zoan-memoria-liturgica",
+        "nombre": "The field of Zoán as a geographical anchorage of the liturgical memory of the exodus",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ps 78:12, 43",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función didáctica del Salmo 78 como transmisión generacional de la historia sagrada de Israel a través de la poesía litúrgica",
+          "descripcion": "Jewish tradition values ​​the specific mention of Zoan in Psalm 78 as an example of how Israelite liturgical poetry anchors the great founding events of the faith—in this case the wonders of the exodus—in concrete and verifiable geographies, reinforcing the historical, not merely mythical, nature of the liberation of Egypt that the community must faithfully transmit to future generations.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The specific geographical anchoring of the wonders of the exodus in Zoan reinforces the concrete historical nature of divine liberation, the foundation of religious identity transmitted generationally through liturgical memory.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

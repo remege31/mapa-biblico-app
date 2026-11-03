@@ -1,0 +1,185 @@
+{
+  "id": "kiriath_jearim",
+  "nombre": "Kiriath-jearim",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.7711,
+  "lng": 34.9938,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 28,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Gibeonite city on the Judah-Benjamín border"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Custody of the ark for twenty years"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Border city of the kingdom of Judah"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Kiriath-jearim (Hebrew: קִרְיַת יְעָרִים, 'city of the forests') was a city on the border between Judah and Benjamin, about 13 km northwest of Jerusalem. Identified with Tell el-Azhar (Abu Ghosh), on the wooded hills overlooking the approach to Jerusalem from the coast. It was one of the four Gibeonite cities that deceived Joshua with their feigned remoteness (Josh 9). Also called Baalah (Josh 15:9) and Kiriath-baal, suggesting the presence of a sanctuary of Baal in the wooded hills before the arrival of the ark. Its position on the Jaffa-Jerusalem route made it a strategic point in all historical periods.",
+  "altitud_m": 700,
+  "clima": "Mountainous Mediterranean — rainfall of 600-650 mm annually (some of the highest in the region), cool summers due to the altitude, cold winters with possible snow. The forests that give the city its name ('yaarim' = forests) reflect the dense vegetation of these hills.",
+  "recursos": [
+    "Pine and oak forests — construction timber and charcoal",
+    "Terrace agriculture on forested slopes",
+    "Position on the Jaffa-Jerusalem route",
+    "Water from springs in the hills",
+    "Visual access to the entire Ajalon plain to the west"
+  ],
+  "importancia_estrategica": "Kiriath-jearim dominated the western approach to Jerusalem. Any army marching from the coast towards the capital had to pass through or near Kiriath-jearim. Its function as custodian of the ark for twenty years (c. 1050-1010 BC) gave it a religious centrality that transcended its modest size. The prophet Uriah, executed by Jehoiakim, was from Kiriath-jearim — evidencing that the city produced prophetic figures in the Jeremiah period.",
+  "otros_habitantes": [
+    {
+      "id": "gabaonitas-kiriath",
+      "nombre": "Gibeonites — Hivites of Kiriath-jearim",
+      "descripcion": "Kiriath-jearim was one of the four cities of the Gibeonite coalition (along with Gibeon, Kefirah and Beeroth) that deceived Joshua by presenting themselves as ambassadors from a distant land to obtain a non-aggression pact. Once the deception was discovered, Joshua turned them into woodcutters and water carriers at the service of the sanctuary. This condition of sacred Gibeonite (Nethinite) servitude continued into the post-exilic period. Kiriath-jearim's alternative name, Kiriath-baal ('city of Baal'), suggests that the Gibeonites practiced a Canaanite cult in the forested heights before their integration into the Israelite system.",
+      "religion": "Hivite polytheism-Canaanite — worship of Baal in the forested heights; later Yahwist cultic servitude as Nethinim",
+      "periodo": "Late Bronze to the post-exilic period"
+    },
+    {
+      "id": "familia-abinadab",
+      "nombre": "Abinadab's family",
+      "descripcion": "Eleazar ben Abinadab was consecrated to guard the ark during his twenty years in Kiriath-jearim. Abinadab's family was not Levite — the text does not specify this — which has sparked rabbinical debate over whether the custody was an emergency solution or a special consecration. Uzzah and Ahio, sons of Abinadab, drove the chariot that transported the ark to Jerusalem; Uzá died when he touched her to stabilize her. The entire family was marked by their relationship with the most sacred object of Israel.",
+      "religion": "Yahwism — custodians of the ark, consecrated for its safekeeping",
+      "periodo": "Iron I, c. 1050-1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca-kiriath-jearim",
+      "titulo": "The ark in Kiriath-jearim: twenty years of silent custody",
+      "fecha": "c. 1050 BC",
+      "descripcion": "After the disasters of the ark in Philistia and the death of those who looked at it in Beth-shemesh, the inhabitants of Beth-shemesh sent messengers to Kiriath-jearim: 'The Philistines have returned the ark of Yahweh; come pick her up.' The men of Kiriath-jearim came and took her to Abinadab's house on the hill. They consecrated their son Eleazar to guard her. The ark remained in Kiriath-jearim for twenty years, during which time the entire house of Israel mourned after Yahweh. The text is notable for what it does not say: there are no miracles, there are no consultations, there are no processions. The ark rests silently in a private house in a minor city, waiting. Samuel convened Israel in Mispah for a collective spiritual renewal. This long silent wait contrasts with the dramatic story of the ark in Philistia and the subsequent festive procession in David.",
+      "referencias": [
+        "1 Sam 7:1-2",
+        "1 Sam 6:21-7:1",
+        "2 Sam 6:2-3"
+      ],
+      "personajes_clave": [
+        "eleazar-abinadab",
+        "samuel-kiriath"
+      ]
+    },
+    {
+      "id": "david-traslada-arca",
+      "titulo": "David moves the ark from Kiriath-jearim: the joy and death of Uzzah",
+      "fecha": "c. 1000 BC",
+      "descripcion": "David gathered together thirty thousand chosen men from Israel and went to seek the ark of God from Kiriath-jearim, called by the name of Yahweh of the hosts who has his throne on the cherubim. They put the ark on a new cart driven by Uzzah and Ahio, sons of Abinadab. David and all Israel danced before Yahweh with all kinds of instruments. When they reached Nacon's threshing floor, the oxen stumbled; Uzzah stretched out his hand to the ark to hold it. Yahweh's anger was kindled against Uzzah and he struck him on the spot. David was angry because Yahweh had hurt Uzzah — he feared the ark and did not want to take it to Jerusalem. He deposited it in the house of Obed-edom the Gittite for three months. When David learned that Yahweh blessed Obed-edom, he went to look for the ark with great joy and brought it to Jerusalem dancing.",
+      "referencias": [
+        "2 Sam 6:1-23",
+        "2 Sam 6:6-8",
+        "1 Chr 13:1-14"
+      ],
+      "personajes_clave": [
+        "david-kiriath",
+        "uza",
+        "eleazar-abinadab"
+      ]
+    },
+    {
+      "id": "urias-kiriath-profeta",
+      "titulo": "Uriah of Kiriath-jearim: the prophet executed by Jehoiakim",
+      "fecha": "c. 608 BC",
+      "descripcion": "Uriah ben Shemaiah of Kiriath-jearim prophesied in the same terms as Jeremiah about Jerusalem and the territory of Judah. When King Jehoiakim and his officials heard it, they sought to kill him. Uriah was afraid and fled to Egypt. King Jehoiakim sent a commission to Egypt headed by Elnathan ben Acbor, who brought Uriah back. Joyaquim killed him with the sword and threw his corpse into the tombs of the common people. The episode is narrated by Jeremiah precisely to show the contrast with his own case: Uriah was killed; Jeremiah was protected by Prince Ajicam ben Shafan. Kiriath-jearim thus produced both the custodian of the ark (Eleazar) and the martyred prophet (Uriah)—a city of holiness and innocent blood.",
+      "referencias": [
+        "Jer 26:20-23",
+        "Jer 26:24"
+      ],
+      "personajes_clave": [
+        "urias-profeta",
+        "joyaquim"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eleazar-abinadab",
+      "nombre": "Eleazar ben Abinadab",
+      "rol": "Consecrated custodian of the ark for twenty years in Kiriath-jearim",
+      "periodo": "c. 1050–1010 BC",
+      "descripcion": "Eleazar ben Abinadab is the most significant anonymous character in the entire history of the ark: the man who guarded it for twenty years in the silence of a private house in Kiriath-jearim. The text does not say if he was a Levite, if he fulfilled special rituals, if he ever consulted the ark. Only it was 'consecrated' to keep it. Her brothers Uzá and Ahio later transported her to Jerusalem — Uzá died when they touched her. The contrast between Eleazar's quiet life as a custodian and Uzzah's sudden death on the move underscores that the sanctity of the ark requires specific forms of relationship: the static custodianship was secure; careless transportation was deadly.",
+      "referencias": [
+        "1 Sam 7:1",
+        "2 Sam 6:3-4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "uza",
+      "nombre": "Uzzah",
+      "rol": "Son of Abinadab, killed for reaching out to the ark",
+      "periodo": "c. 1000 BC",
+      "descripcion": "Uzzah ben Abinadab is the character whose sudden death while touching the ark to stabilize it became one of the most debated texts in the OT on divine holiness. The text says that he extended his hand because the oxen had stumbled — a gesture of care, not deliberate irreverence. However, divine wrath struck him down. Biblical commentators have debated for centuries: was he punished for the act itself (touching the forbidden) or for the prior negligence of using a chariot instead of carrying the ark on the shoulders of Levites? David himself became angry with God and then feared the ark. The death of Uzzah was the trigger for the three-month pause in Obed-edom and the liturgical reorganization that David undertook before the second attempt.",
+      "referencias": [
+        "2 Sam 6:3-8",
+        "1 Chr 13:7-10",
+        "1 Chr 15:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "urias-profeta",
+      "nombre": "Uriah of Kiriath-jearim",
+      "rol": "Martyred prophet, executed by Joyaquim king of Judah",
+      "periodo": "hierro_2",
+      "descripcion": "Uriah ben Shemaiah is the only OT prophet whose execution by an Israelite king is explicitly documented. He prophesied in the same terms as Jeremiah — judgment on Jerusalem and Judah — in the same period. Unlike Jeremiah, who was protected by Prince Ahikam, Uriah had no protector: he fled to Egypt, was extradited and executed. His corpse was treated with contempt (the grave of the common people, not the tomb of a prophet). The episode, narrated by Jeremiah, serves to underscore that the prophetic message of judgment was genuine — backed by a man with his life — and that Jeremiah's survival was divine grace, not his own merit.",
+      "referencias": [
+        "Jer 26:20-23"
+      ],
+      "ruta": [
+        "kiriath_jearim",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kiriath-jearim—'city of the forests'—is the place where the Ark of the Covenant rested in silence for two decades, between the turbulence of its Philistine capture and the festive procession from David to Jerusalem. This silence is theologically eloquent: the divine presence does not need spectacle. The city also produced the prophet martyr Uriah, whose innocent blood cried out against King Jehoiakim. In Kiriath-jearim, the sanctity of the ark and the blood of the prophet overlap as two forms of divine presence ignored by political power.",
+    "religiones_presentes": [
+      "Polytheism Canaanite-Gabaonite — Kiriath-baal as an alternative name suggests worship prior to Baal",
+      "Yahwism of the ark — custody of the divine presence during the period of the judges and early monarchy"
+    ],
+    "mitos": [
+      {
+        "id": "arca-presencia-silenciosa",
+        "nombre": "The ark in custody: the divine presence that awaits",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 7:1-2; 2 Sam 6:1-15; 1 Cr 13:1-14",
+          "fuente_secundaria": "Talmud Bavli, Sota 35a; Maimonides, Mishné Torá, Hiljot Bet HaBejirá 4:1",
+          "descripcion": "The Talmud discusses the twenty years of the ark in Kiriath-jearim in relation to the principle that the divine presence (Shechinah) accompanies the ark but is not identical with it. The ark can be in a private home without being a formal sanctuary. Maimonides analyzes the death of Uzzah to establish the rules for transporting the ark: it must be carried on the shoulders of frock coats using poles, never by cart. David's negligence in using a car was the mistake that caused Uzá's death — not Uzá's gesture itself, but the defective process that exposed him to that situation.",
+          "similitudes": "The sanctity of the divine presence that requires specific forms of approach is a shared principle.",
+          "diferencias": "Judaism developed the halakhah of carrying the ark in great detail; the NT has no direct institutional equivalent.",
+          "significado_teologico": "The divine presence can rest silently in unexpected places. But when it sets in motion, it demands correct procedures — not out of formalism but because holiness is real and its inappropriate contact has consequences.",
+          "posible_relacion_cultural": "Non-transferable sacred objects that cause harm when mishandled appear in many ancient religious traditions. The concept of Polynesian taboo is similar in structure to the Israelite herem in this regard."
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 6:6-8; Heb 9:1-5; Ap 11:19",
+          "fuente_secundaria": "Agustín, Quaestiones in Heptateuchum I,53; Beda, Comentario sobre 2 Samuel",
+          "descripcion": "Augustine interpreted the death of Uzzah allegorically: the ark is the Scripture; Irreverently extending one's hand to 'stabilize' it according to one's own criteria - without the prescribed form - is the heresy that seeks to correct the faith with human opinions. David's dance before the ark was read as a figure of eschatological joy; the station of the ark in Kiriath-jearim as a figure of the Church that guards the presence of Christ in history before the parousia. Revelation 11:19 (\"the temple of God was opened in heaven and the ark of his covenant was seen\") transforms the ark into a symbol of the definitive eschatological presence.",
+          "similitudes": "The ark as a symbol of the divine presence that the believer guards and honors is central in both traditions.",
+          "diferencias": "The NT and the Christian tradition have no physical ark; The divine presence is located in Christ, the sacraments and the community.",
+          "significado_teologico": "The Church is the new Kiriath-jearim: custodian of the divine presence in the intermediate period between the first and second coming of Christ.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

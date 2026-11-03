@@ -1,0 +1,154 @@
+{
+  "id": "arpad",
+  "nombre": "Arpad",
+  "tipo": "ciudad",
+  "lat": 36.47229,
+  "lng": 37.09471,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Syrian city conquered by Assyria"
+    }
+  ],
+  "descripcion_geo": "Aramaic city-state in northern Syria, conquered by the Assyrian Empire, repeatedly mentioned in Assyrian military propaganda speeches as an example of a powerful city whose gods could not save it from conquest, used as an intimidating argument against Jerusalem during Sennacherib's invasion.",
+  "altitud_m": 450,
+  "clima": "Continental Mediterranean — hot, dry summers, cold winters with rain, typical of northern Syria.",
+  "recursos": [
+    "Strategic position in northern Syria",
+    "Aramaic city-state of certain military prestige prior to its conquest"
+  ],
+  "importancia_estrategica": "Arpad functions in the biblical text exclusively as a rhetorical example used by both Isaiah and the Assyrian messengers themselves in their war propaganda: a powerful and well-defended city, whose local gods could not prevent its conquest by Assyria, an argument used to intimidate Hezekiah and the people of Jerusalem by suggesting that YHWH could not save them from the same fate either.",
+  "otros_habitantes": [
+    {
+      "id": "arameos_arpad",
+      "nombre": "Aramaic population of Arpad",
+      "descripcion": "Inhabitants of this Syrian city-state, conquered by the Assyrian empire in its expansion towards the west, later used as a rhetorical example of the futility of resistance to Assyria.",
+      "religion": "Aramaic polytheism",
+      "periodo": "c. 1000–740 BC"
+    },
+    {
+      "id": "asirios_arpad",
+      "nombre": "Assyrian army and administration",
+      "descripcion": "Conquering forces subduing Arpad as part of Assyrian imperial expansion, later using this precedent in their war propaganda against other resistant kingdoms.",
+      "religion": "Assyrian polytheism — worship of Ashur and other divinities",
+      "periodo": "c. 740 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-arpad",
+      "titulo": "Isaiah mentions Arpad in his denunciation of Assyrian arrogance",
+      "fecha": "c. 715 BC",
+      "descripcion": "The prophet Isaiah cites the Assyrian king's own boastful words, who compares the conquest of Calnus, Carchemish, Hamath, Arpad, Samaria, and Damascus as evidence of his absolute power, denouncing this arrogance as the true sin that YHWH will punish in the Assyrian empire.",
+      "referencias": [
+        "Isa 10:9"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "rabsaces-amenaza-arpad",
+      "titulo": "Rabshakeh summons Arpad to intimidate Jerusalem",
+      "fecha": "c. 701 BC",
+      "descripcion": "During Sennacherib's siege against Jerusalem, his officer Rabshakeh delivers a military propaganda speech to the people, rhetorically asking where the gods of Hamath and Arpad are who could not save these cities, an argument used to suggest that YHWH could not save Jerusalem either.",
+      "referencias": [
+        "2 Kgs 18:34",
+        "Isa 36:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ezequias-confronta-amenaza-arpad",
+      "titulo": "Hezekiah receives letter repeating threat against Arpad",
+      "fecha": "c. 701 BC",
+      "descripcion": "Sennacherib sends a direct letter to Hezekiah repeating the same argument about the futility of resistance, again citing Arpad and other conquered cities; Hezekiah takes the letter to the Temple and prays directly to YHWH, receiving through Isaiah the promise of liberation that is effectively fulfilled.",
+      "referencias": [
+        "2 Kgs 19:9-13",
+        "2 Kgs 19:35-36"
+      ],
+      "personajes_clave": [
+        "ezequias",
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_arpad",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He cites Assyrian boasting about Arpad and other conquered cities as evidence of the hubris that YHWH will ultimately punish in the Assyrian empire itself.",
+      "referencias": [
+        "Isa 10:5-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequias_arpad",
+      "nombre": "Hezekiah",
+      "rol": "King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He directly confronts the Assyrian propaganda threat that cites Arpad as a precedent, responding with confident prayer at the Temple rather than capitulation, resulting in Jerusalem's miraculous deliverance.",
+      "referencias": [
+        "2 Kgs 19:1-19",
+        "2 Kgs 19:35-36"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "senaquerib_arpad",
+      "nombre": "Sennacherib",
+      "rol": "King by Assyria",
+      "periodo": "c. 705–681 BC",
+      "descripcion": "He uses the precedent of Arpad and other conquered cities as a military propaganda argument to try to intimidate Jerusalem during his campaign against Judah.",
+      "referencias": [
+        "2 Kgs 18:34",
+        "2 Kgs 19:9-13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Arpad functions in the biblical text exclusively as a rhetorical argument in the theological confrontation between Assyrian imperial power and faith in YHWH: used both by Assyrian propaganda as proof of the impotence of the local gods in the face of their military power, and by Isaiah in the opposite sense, to denounce the idolatrous arrogance of an empire that confuses its temporary military success with absolute divine superiority, a confusion that will precisely provoke its final judgment.",
+    "religiones_presentes": [
+      "Aramaic polytheism (original population)",
+      "Assyrian polytheism (conquering power)",
+      "Yahwism (final confrontation perspective)"
+    ],
+    "mitos": [
+      {
+        "id": "soberbia-asiria-arpad-juicio",
+        "nombre": "Assyrian arrogance exemplified in the conquest of Arpad as a cause of its own judgment",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 10:5-19; 2 Re 19:9-13, 35-36",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el contraste deliberado entre la jactancia asiria citando ciudades como Arpad y el desenlace final de la liberación milagrosa de Jerusalén",
+          "descripcion": "Jewish tradition especially values ​​the narrative contrast between the confident Assyrian boast, which cites the precedent of Arpad and other cities as proof of invincibility, and the final outcome where precisely Jerusalem—the city that according to Assyrian logic should have fallen like the others—is miraculously liberated, demonstrating that the logic of purely military power does not determine the final result when YHWH intervenes directly on behalf of his faithful people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The contrast between the fall of Arpad and the liberation of Jerusalem demonstrates that no pattern of prior military conquest guarantees identical future results when the people respond with genuine faith to the threat.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

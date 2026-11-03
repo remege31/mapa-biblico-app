@@ -1,0 +1,262 @@
+{
+  "id": "arabia",
+  "nombre": "Arabia",
+  "tipo": "territorio",
+  "lat": 27.4,
+  "lng": 37.7,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 21,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Hierro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Vasta península al sur de la tierra de Israel, entre el mar Rojo, el golfo Pérsico y el Mediterráneo. Tierra de incienso, caravanas y beduinos.",
+  "altitud_m": 800,
+  "clima": "árido-desértico",
+  "recursos": [
+    "incienso",
+    "mirra",
+    "especias",
+    "oro",
+    "caravanas"
+  ],
+  "importancia_estrategica": "Fuente de especias y del comercio árabe; la reina de Saba vino de Arabia; Pablo se retiró allí tras su conversión.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "arb_h1",
+      "titulo": "La reina de Saba visita a Salomón",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "La reina de Saba (Arabia del sur) viaja a Jerusalén para probar la sabiduría de Salomón con enigmas y regalos.",
+      "referencias": [
+        "1 Re 10:1-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Saba"
+      ]
+    },
+    {
+      "id": "arb_h2",
+      "titulo": "Pablo se retira a Arabia",
+      "fecha": "ca. 33-36 d.C.",
+      "descripcion": "Tras su conversión en Damasco, Pablo se retira a Arabia por un tiempo antes de regresar a Damasco.",
+      "referencias": [
+        "Gál 1:17"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "arb_h3",
+      "titulo": "Los magos de Oriente (Arabia)",
+      "fecha": "ca. 6-4 a.C.",
+      "descripcion": "Magos de oriente (tradición los ubica en Arabia) siguen la estrella hasta Belén y ofrecen incienso y mirra.",
+      "referencias": [
+        "Mt 2:1-12"
+      ],
+      "personajes_clave": [
+        "magos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "arb_p1",
+      "nombre": "La reina de Saba",
+      "rol": "Reina árabe del sur",
+      "periodo": "ca. 950 a.C.",
+      "descripcion": "Visitó a Salomón para comprobar su fama; Jesús la cita como ejemplo de quien busca sabiduría (Mt 12:42).",
+      "referencias": [
+        "1 Re 10:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arb_p2",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Se retiró a Arabia tras su conversión; allí recibió las revelaciones que conformaron su teología.",
+      "referencias": [
+        "Gál 1:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arb_p3",
+      "nombre": "Ismael",
+      "rol": "Padre de los árabes",
+      "periodo": "ca. 2000 a.C.",
+      "descripcion": "Hijo de Abraham y Agar; sus descendientes habitaron Arabia y son ancestros de los árabes.",
+      "referencias": [
+        "Gn 25:12-18"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tierra de los nabateos y de la ruta del incienso; cuna del Islam; lugar del retiro de Pablo y posible origen de los magos.",
+    "religiones_presentes": [
+      "paganismo_árabe",
+      "judaismo",
+      "cristianismo",
+      "islam"
+    ],
+    "mitos": [
+      {
+        "id": "arb_m1",
+        "nombre": "Ismael y Arabia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 25:18",
+          "fuente_secundaria": "",
+          "descripcion": "Ismael, hijo de Abraham, fue padre de doce príncipes y habitó desde Havila hasta Shur, en Arabia (Gn 25:18).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ismael, hijo de Abraham, fue padre de doce príncipes y habitó desde Havila hasta Shur, en Arabia (Gn 25:18).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:42",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús cita a la reina de Saba (Arabia) como ejemplo de quien busca la sabiduría divina (Mt 12:42).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús cita a la reina de Saba (Arabia) como ejemplo de quien busca la sabiduría divina (Mt 12:42).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam considera a Ismael ancestro de los árabes y de Mahoma; La Meca, en Arabia, es el centro espiritual del Islam.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam considera a Ismael ancestro de los árabes y de Mahoma; La Meca, en Arabia, es el centro espiritual del Islam.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "arb_nt_h1",
+        "titulo": "Pablo en Arabia",
+        "fecha": "ca. 33-36 d.C.",
+        "descripcion": "Tras su conversión, Pablo se retira a Arabia; allí recibió por revelación el evangelio que proclamaría.",
+        "referencias": [
+          "Gál 1:17-18"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "arb_nt_h2",
+        "titulo": "La reina de Saba en el juicio",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Jesús cita a la reina del sur (Arabia) que vino a escuchar a Salomón; ella condenará a los que rechazan a Cristo.",
+        "referencias": [
+          "Mt 12:42"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "arb_nt_h3",
+        "titulo": "Agar y el Sinaí en Arabia",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Pablo usa la alegoría de Agar (asociada a Arabia/Sinaí) para explicar la diferencia entre la ley y la gracia.",
+        "referencias": [
+          "Gál 4:24-25"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "arb_nt_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Se retiró a Arabia tras su conversión para recibir la revelación evangélica.",
+        "referencias": [
+          "Gál 1:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "arb_nt_p2",
+        "nombre": "La reina de Saba",
+        "rol": "Ejemplo de búsqueda de sabiduría",
+        "periodo": "ca. 950 a.C.",
+        "descripcion": "Jesús la usa como modelo de quien busca la verdad, contrastando con los que lo rechazan.",
+        "referencias": [
+          "Mt 12:42"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "arb_nt_p3",
+        "nombre": "Agar",
+        "rol": "Esclava de Sara",
+        "periodo": "ca. 2000 a.C.",
+        "descripcion": "Pablo la usa como símbolo del pacto de la Ley (monte Sinaí en Arabia) frente al pacto de la gracia.",
+        "referencias": [
+          "Gál 4:24"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Arabia fue el lugar del retiro formativo de Pablo; también escenario de las alegorías sobre la ley y la gracia en Gálatas.",
+      "religiones_presentes": [
+        "paganismo_árabe",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "arb_nt_m1",
+          "nombre": "El retiro en Arabia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Pablo se retiró a Arabia para recibir su revelación; modelo del tiempo de soledad necesario antes del ministerio público.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Pablo se retiró a Arabia para recibir su revelación; modelo del tiempo de soledad necesario antes del ministerio público.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

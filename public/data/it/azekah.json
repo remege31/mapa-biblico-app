@@ -1,0 +1,163 @@
+{
+  "id": "azekah",
+  "nombre": "azeca",
+  "tipo": "ciudad",
+  "lat": 31.70063856043753,
+  "lng": 34.93618589974822,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Persecuzione dopo Gabaon, Valle di Elah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Fortificazione di Roboamo, ultima resistenza contro Babilonia"
+    }
+  ],
+  "descripcion_geo": "Città fortificata nella Sefela, all'estremità settentrionale della valle dell'Ela, in una posizione elevata che controlla l'accesso dalla pianura filistea ai monti Giuda. La sua posizione strategica ne fece un punto di riferimento ricorrente negli episodi bellici nel corso di diversi secoli.",
+  "altitud_m": 330,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale.",
+  "recursos": [
+    "Posizione fortificata dominante sulla valle dell'Elah",
+    "Controllo delle rotte tra la pianura filistea e le montagne di Giuda"
+  ],
+  "importancia_estrategica": "Azeca appare in tre momenti decisivi della guerra separati da secoli: l'inseguimento degli eserciti Amorrei in seguito alla battaglia di Gabaon, la battaglia di Davide contro Golia nell'adiacente Valle di Elah e come una delle ultime città fortificate di Giuda a resistere all'avanzata babilonese, menzionata esplicitamente nelle lettere di Lachis come punto di comunicazione del fuoco di segnalazione che era ancora funzionante pochi istanti prima della caduta definitiva del regno.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_azeca",
+      "nombre": "Cananei Amorrei",
+      "descripcion": "Popolazione originaria della regione della Valle dell'Elah, attraverso il cui territorio fuggono gli eserciti sconfitti della coalizione dei cinque re dopo la battaglia di Gabaon.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "judaitas_azeca",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Popolazione ebraica di Azekah, città fortificata da Roboamo e una delle ultime a resistere al definitivo assedio babilonese del regno di Giuda.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "persecucion-azeca-gabaon",
+      "titulo": "L'inseguimento ad Azeca dopo la battaglia di Gabaon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Il racconto della grandine divina e del sole fermato durante l'inseguimento di Giosuè dopo la vittoria di Gabaon individua l'estensione della fuga degli Amorrei verso Azekah e Makkeda, segnando il limite geografico della prima grande campagna meridionale.",
+      "referencias": [
+        "Gs 10:10-11"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "david-goliat-valle-ela-azeca",
+      "titulo": "L'accampamento filisteo tra Soco e Azeka",
+      "fecha": "c. 1020 a.C.",
+      "descripcion": "L'esercito filisteo si raduna per la battaglia in cui Davide affronterà Golia accampato tra Soco e Azekah, nella valle di Elah, mentre l'esercito israelita si posiziona sul lato opposto della valle.",
+      "referencias": [
+        "1 Sam 17:1"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "azeca-cartas-laquis-resistencia-final",
+      "titulo": "Azeca sulle carte di Lachis durante la caduta di Giuda",
+      "fecha": "c. 588–586 a.C.",
+      "descripcion": "Il profeta Geremia menziona che, durante l'assedio finale di Nabucodonosor, Lachis e Azeca erano le uniche città fortificate di Giuda che resistevano ancora insieme a Gerusalemme, fatto confermato da ritrovamenti archeologici (le lettere di Lachis) che documentano la perdita di visibilità dei segnali di fuoco di Azeca poco prima della caduta definitiva.",
+      "referencias": [
+        "Ger 34:6-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_azeca",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Insegui gli eserciti Amorrei in ritirata verso Azeca dopo la vittoria di Gabaon, estendendo la portata della campagna militare meridionale.",
+      "referencias": [
+        "Gs 10:10-11"
+      ],
+      "ruta": [
+        "gibeon",
+        "beth_horon_lower",
+        "azekah",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "david_azeca",
+      "nombre": "Davide",
+      "rol": "Giovane pastore, futuro re di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Affronta Golia nella Valle di Elah, insieme ad Azekah, nell'episodio che segna la sua prima apparizione pubblica come liberatore di Israele contro la minaccia filistea.",
+      "referencias": [
+        "1 Sam 17:1-54"
+      ],
+      "ruta": [
+        "bethlehem",
+        "azekah"
+      ]
+    },
+    {
+      "id": "jeremias_azeca",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Testimone degli ultimi giorni del regno di Giuda, registra che Azeca e Lachis furono gli ultimi luoghi fortificati a resistere insieme a Gerusalemme prima della caduta definitiva ad opera di Babilonia.",
+      "referencias": [
+        "Ger 34:6-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Azeca inquadra tre momenti successivi nel rapporto tra Israele e la potenza militare straniera: la vittoria provvidenziale su Amorrei, il carismatico trionfo individuale di Davide su Golia come anteprima della sua futura regalità, e infine la resistenza finale e la sconfitta contro Babilonia che culmina nell'esilio. Questa progressione – vittoria provvidenziale, vittoria carismatica, sconfitta finale – traccia in un unico punto l’arco completo della teologia deuteronomista sulla fedeltà e sul giudizio di Israele.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Cananeo-Politeismo amorreo (substrato originale)",
+      "Politeismo filisteo (esercito accampato nella valle di Elah)"
+    ],
+    "mitos": [
+      {
+        "id": "ultimas-luces-azeca",
+        "nombre": "Gli ultimi segni di incendio di Azeca prima della caduta di Giuda",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 34:6-7",
+          "fuente_secundaria": "Hallazgo arqueológico de las Cartas de Laquis (Ostraca de Laquis, carta IV), que menciona explícitamente la pérdida de visibilidad de las señales de Azeca",
+          "descripcion": "La tradizione ebraica, rafforzata dal ritrovamento archeologico delle lettere Lachis che confermano quasi letteralmente la testimonianza di Geremia, considera l'episodio di Azekah come uno dei punti di maggiore convergenza tra la documentazione biblica e l'evidenza materiale extrabiblica, sottolineando la veridicità storica del racconto profetico del crollo finale di Giuda.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La caduta degli ultimi luoghi fortificati, annunciata e testimoniata da Geremia, conferma il compimento del giudizio profetico sulla persistente infedeltà del regno di Giuda.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "moab",
+  "nombre": "Moab",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35.78,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 184,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronzo tardo - Ferro II"
+    }
+  ],
+  "descripcion_geo": "Regno a est del Mar Morto, sugli altipiani della Transgiordania tra i fiumi Arnon e Zéred.",
+  "altitud_m": 900,
+  "clima": "arido-semiarido",
+  "recursos": [
+    "cereali",
+    "allevamento del bestiame",
+    "acqua di sorgente"
+  ],
+  "importancia_estrategica": "Controllo delle rotte carovaniere della Transgiordania e della produzione agricola sugli altipiani.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "moa_h1",
+      "titulo": "Ruth la Moabita",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Ruth, una vedova moabita, torna a Betlemme con la suocera Naomi e sposa Boaz; È un'antenata di Davide.",
+      "referencias": [
+        "Rt 1-4"
+      ],
+      "personajes_clave": [
+        "Rut",
+        "Noemí",
+        "Boaz"
+      ]
+    },
+    {
+      "id": "moa_h2",
+      "titulo": "Israele nei campi Moab",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israele si accampa nei campi di Moab prima di attraversare il Giordano; Lì Mosè muore e Giosuè viene designato successore.",
+      "referencias": [
+        "Nm 22-36",
+        "Dt 34"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Balaam"
+      ]
+    },
+    {
+      "id": "moa_h3",
+      "titulo": "Tavolo King di Moab",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "Re Mesha di Moab si ribella contro Israele; La stele di Mesa è una delle testimonianze epigrafiche più importanti dell'Antico Testamento.",
+      "referencias": [
+        "2 Re 3:4-27"
+      ],
+      "personajes_clave": [
+        "Mesa",
+        "Joram"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moa_p1",
+      "nombre": "Ruth",
+      "rol": "Moabita, antenato di Davide",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "La sua lealtà verso Naomi e Israele l'ha resa un modello di conversione e amore leale.",
+      "referencias": [
+        "Rt 1:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p2",
+      "nombre": "Balaam",
+      "rol": "Profeta mesopotamico",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Chiamato a maledire Israele in Moab, finì per benedire il popolo per comando divino.",
+      "referencias": [
+        "Nm 22:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p3",
+      "nombre": "Tavolo",
+      "rol": "Re di Moab",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "Ha lasciato la stele di Mesa, un'iscrizione che menziona il Dio di Israele.",
+      "referencias": [
+        "2 Re 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Città imparentata con Israele (discendente di Lot); Adoravano Chemosh. La loro terra è stata teatro della morte di Mosè e dell'origine di Ruth.",
+    "religiones_presentes": [
+      "Moabita_paganesimo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "moa_m1",
+        "nombre": "L'origine di Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 19,36-37",
+          "fuente_secundaria": "",
+          "descripcion": "Moab nasce dall'incesto tra Lot e la sua figlia maggiore dopo la distruzione di Sodoma (Gen 19,36-37).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moab nasce dall'incesto tra Lot e la sua figlia maggiore dopo la distruzione di Sodoma (Gen 19,36-37).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 1,5",
+          "fuente_secundaria": "",
+          "descripcion": "Matteo include Rut la moabita nella genealogia di Gesù (Mt 1,5).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Matteo include Rut la moabita nella genealogia di Gesù (Mt 1,5).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

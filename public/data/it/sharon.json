@@ -1,0 +1,144 @@
+{
+  "id": "sharon",
+  "nombre": "Piana di Sharon",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 32.3,
+  "lng": 34.9,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Ferro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Fertile pianura costiera tra il Monte Carmelo a nord e Giaffa a sud, famosa per le sue bellezze naturali.",
+  "altitud_m": 50,
+  "clima": "mediterraneo",
+  "recursos": [
+    "cereali",
+    "fiori",
+    "allevamento del bestiame",
+    "legna"
+  ],
+  "importancia_estrategica": "La pianura più fertile di Israele; La sua proverbiale bellezza è simbolo di abbondanza e amore nella Canzone.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sha_h1",
+      "titulo": "La rosa di Sharon nella canzone",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "L'amato nel Cantico dei Cantici è descritto come \"la rosa di Saron e il mughetto\".",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "sha_h2",
+      "titulo": "Gli stormi reali a Sharon",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Salomone aveva Satri l'Ismaelita a capo delle greggi che pascolavano a Sharon.",
+      "referencias": [
+        "1 Cr 27:29"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "sha_h3",
+      "titulo": "Gli abitanti di Sharon si convertono",
+      "fecha": "ca. 35 d.C.",
+      "descripcion": "Dopo la guarigione di Enea a Lidda, tutti gli abitanti di Sharon videro il miracolo e si convertirono al Signore.",
+      "referencias": [
+        "At 9:35"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sha_p1",
+      "nombre": "La Sulammita",
+      "rol": "Amato dalla canzone",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "È identificata come \"la rosa di Sharon\"; simbolo dell'amato perfetto.",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p2",
+      "nombre": "Pietro",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Il suo ministero miracoloso a Lidda raggiunse l'intera pianura di Sharon.",
+      "referencias": [
+        "At 9:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p3",
+      "nombre": "Salomone",
+      "rol": "Re di Israele",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "I suoi greggi reali pascolavano nella fertile pianura di Sharon.",
+      "referencias": [
+        "1 Cr 27:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pianura di proverbiale bellezza; La \"Rosa di Sharon\" è una delle poesie più evocative dell'Antico Testamento; nel NT, teatro dell'evangelizzazione costiera.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "sha_m1",
+        "nombre": "La rosa di Sharon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La rosa di Sharon è il simbolo dell'amato del Cantico e del popolo di Israele amato da Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La rosa di Sharon è il simbolo dell'amato del Cantico e del popolo di Israele amato da Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "I Padri della Chiesa interpretano la “rosa di Sharon” come Cristo o la Vergine Maria.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I Padri della Chiesa interpretano la “rosa di Sharon” come Cristo o la Vergine Maria.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

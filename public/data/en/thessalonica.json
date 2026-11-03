@@ -1,0 +1,154 @@
+{
+  "id": "thessalonica",
+  "nombre": "Thessaloniki",
+  "tipo": "ciudad",
+  "lat": 40.6401,
+  "lng": 22.9444,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Capital of Roman Macedonia, large port on the Thermaic Gulf and node of the Via Egnatia.",
+  "altitud_m": 30,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "administration"
+  ],
+  "importancia_estrategica": "Provincial capital of Macedonia; free and strategic city on the Via Egnatia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tes_h1",
+        "titulo": "Paul preaching in the synagogue",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul preaches three Sabbaths in the synagogue; many Greeks and distinguished women believe.",
+        "referencias": [
+          "Acts 17:1-4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "tes_h2",
+        "titulo": "Pursuit and escape",
+        "fecha": "ca. 50 AD",
+        "descripcion": "A mutiny pushes Paul to flee at night to Berea.",
+        "referencias": [
+          "Acts 17:5-10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "Jasón"
+        ]
+      },
+      {
+        "id": "tes_h3",
+        "titulo": "Letters to the Thessalonians",
+        "fecha": "ca. 51-52 AD",
+        "descripcion": "Paul writes the two oldest NT letters from Corinth to Thessalonica.",
+        "referencias": [
+          "1 Thess 1:1",
+          "2 Thess 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tes_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He founded the church of Thessalonica; wrote the oldest letters in the NT.",
+        "referencias": [
+          "Acts 17:1"
+        ],
+        "ruta": [
+          "thessalonica",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "tes_p2",
+        "nombre": "Jason",
+        "rol": "Paul Host",
+        "periodo": "s. I AD",
+        "descripcion": "He hosted Paul in Thessaloniki; He was brought before the authorities.",
+        "referencias": [
+          "Acts 17:5-7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tes_p3",
+        "nombre": "silas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "He accompanied Paul on the mission to Thessaloniki.",
+        "referencias": [
+          "Acts 17:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City with cult of Cabiros and imperial cult; The nascent church faced persecution from the beginning.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "imperial_cult",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tes_m1",
+          "nombre": "The Parousia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The letters to the Thessalonians address the Second Coming of Christ, responding to believers' anxiety for the deceased.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The letters to the Thessalonians address the Second Coming of Christ, responding to believers' anxiety for the deceased.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

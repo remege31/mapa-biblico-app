@@ -1,0 +1,150 @@
+{
+  "id": "colossae",
+  "nombre": "Colosse",
+  "tipo": "ciudad",
+  "lat": 37.777,
+  "lng": 29.296,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città nella valle del fiume Lico, in Frigia (Asia Minore), famosa per la sua lana viola.",
+  "altitud_m": 350,
+  "clima": "continentale-mediterraneo",
+  "recursos": [
+    "lana",
+    "agricoltura",
+    "commercio"
+  ],
+  "importancia_estrategica": "Centro storico della Frigia con comunità ebraica e sincretismo religioso.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "col_h1",
+        "titulo": "Lettera ai Colossesi",
+        "fecha": "ca. 60-62 d.C.",
+        "descripcion": "Paolo scrive alla chiesa di Colosse combattendo l'eresia sincretista.",
+        "referencias": [
+          "Col 1-4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Epafras"
+        ]
+      },
+      {
+        "id": "col_h2",
+        "titulo": "Epafra fondò la chiesa",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Epafra, discepolo di Paolo, evangelizza la valle del Lico e fonda chiese.",
+        "referencias": [
+          "Col 1:7",
+          "Col 4:12-13"
+        ],
+        "personajes_clave": [
+          "Epafras"
+        ]
+      },
+      {
+        "id": "col_h3",
+        "titulo": "Filemone e Onesimo",
+        "fecha": "ca. 60 d.C.",
+        "descripcion": "Paolo intercede per lo schiavo Onesimo davanti al suo padrone Filemone di Colosse.",
+        "referencias": [
+          "Filemón 1:10"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Filemón",
+          "Onésimo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "col_p1",
+        "nombre": "Epafra",
+        "rol": "Fondatore della chiesa di Colosse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discepolo paolino che evangelizzò la valle del Lico.",
+        "referencias": [
+          "Col 1:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "col_p2",
+        "nombre": "Filemone",
+        "rol": "Capo della chiesa di Colosse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Proprietario di schiavi e ospite della chiesa domestica.",
+        "referencias": [
+          "Filemón 1:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "col_p3",
+        "nombre": "Onesimo",
+        "rol": "schiavo convertito",
+        "periodo": "s. I d.C.",
+        "descripcion": "Lo schiavo di Filemone che fuggì e fu convertito da Paolo; Tornò con la lettera.",
+        "referencias": [
+          "Filemón 1:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città sincretica dove varie correnti filosofiche e religiose minacciavano la purezza del vangelo.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "greco_roman_paganesimo",
+        "incipient_gnosticismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "col_m1",
+          "nombre": "L'eresia colossese",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Un misto di filosofia greca, pratiche ebraiche e venerazione degli angeli minacciava la fede a Colosse; Paolo risponde con la supremazia di Cristo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Un misto di filosofia greca, pratiche ebraiche e venerazione degli angeli minacciava la fede a Colosse; Paolo risponde con la supremazia di Cristo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

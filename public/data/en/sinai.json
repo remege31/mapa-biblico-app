@@ -1,0 +1,281 @@
+{
+  "id": "sinai",
+  "nombre": "Sinai",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 29.5,
+  "lng": 33.8,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 70,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Centro geográfico de la Península del Sinaí — entre el Golfo de Suez (oeste) y el Golfo de Aqaba (este)",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Exodus and pilgrimage"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Period of the Judges"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron II — Active trade route"
+    }
+  ],
+  "descripcion_geo": "Triangular peninsula between Africa and Asia, between the Mediterranean Sea to the north, the Gulf of Suez to the west and the Gulf of Aqaba to the east. Approximately 61,000 km². Three distinct zones: northern plain (sandy and arid), central Tih plateau (limestone, desolate) and southern mountain massif (granite, up to 2637 m in Jabal Katrina). The most inhospitable desert between Egypt and Canaan — the only land passage between Africa and Asia.",
+  "altitud_m": "Variable — from sea level to 2637 m (Jabal Katrina, 'Mount Santa Catalina'). Traditional Mount Sinai (Jabal Musa): 2285 m.",
+  "clima": "Hyperarid — less than 25 mm of annual rainfall in the south; something more in the north. Extreme temperatures: 45°C in summer on the plains, below zero on the summits in winter. Cold nights even in summer.",
+  "recursos": [
+    "Copper (Timna mines, exploited since the Early Bronze Age)",
+    "Turquoise (Serabit el-Jadim — Egyptian New Kingdom turquoise mines)",
+    "Manganese",
+    "Trade routes (Arabia-Egypt-Canaan)",
+    "Water in oasis (Kadesh-Barnea, Elim, Rephidim)"
+  ],
+  "importancia_estrategica": "The only land passage between Africa and Asia — an obligatory corridor for armies and caravans. Region of divine revelation in the OT: the Sinai is the space of theophany par excellence. Its extreme aridity makes it a 'testing zone' — a liminal space between slavery (Egypt) and the promised land (Canaan).",
+  "otros_habitantes": [
+    {
+      "id": "madianitas",
+      "nombre": "Midianites",
+      "descripcion": "Nomadic Semitic people of the eastern regions of Sinai and northwestern Arabia. Moses lived among the Midianites (his father-in-law Jethro was a Midianite priest). The Midianites were caravan traders — Genesis mentions them selling to Joseph in Egypt.",
+      "religion": "Semitic polytheism — Jethro appears to have known Yahweh (Ex 18:1-12)",
+      "periodo": "c. 2000–1000 BC"
+    },
+    {
+      "id": "amalecitas",
+      "nombre": "Amalekites",
+      "descripcion": "Nomadic people of the Negev and northern Sinai, traditional enemies of Israel from the desert. Israel's first battle after the Exodus was against the Amalekites at Rephidim (Ex 17). Symbol of the enemy who attacks the weak and the straggler (Deut 25:17-19).",
+      "religion": "Semitic polytheism",
+      "periodo": "c. 1500–1000 BC"
+    },
+    {
+      "id": "cenitas",
+      "nombre": "Cenitas / Kenitas",
+      "descripcion": "Semi-nomadic clan related to the Midianites. Hetero-family of Moses — Hobab the Zenite was Israel's guide in the desert (Num 10:29-32). Some scholars relate them to the origin of Yahwism as a desert religion.",
+      "religion": "Possibly Yahvist — hypotheses of the Kenite origin of Yahwism",
+      "periodo": "c. 1500–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "zarza-ardiente",
+      "titulo": "The burning bush — calling by Moses",
+      "fecha": "c. 1280 BC (trad.)",
+      "descripcion": "On Mount Horeb (identified with Sinai), Yahweh reveals himself to Moses in the bush that burns without being consumed. It is the first explicit theophany of the divine name: 'I am that I am' (YHWH). The Sinai as a divine mountain is established as a space of revelation from this moment.",
+      "referencias": [
+        "Exod 3:1-4:17"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "decalogo",
+      "titulo": "The Decalogue and the Sinai Alliance",
+      "fecha": "c. 1250 BC (trad.)",
+      "descripcion": "Moses receives the Tablets of the Law on Mount Sinai. The Decalogue (Ten Commandments) establishes the principles of the Alliance between Yahweh and Israel. This moment is the most theologically dense in the entire OT — the point where geography and revelation merge.",
+      "referencias": [
+        "Exod 19:1-20:21",
+        "Exod 24:1-18",
+        "Deut 5:1-22"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "peregrinacion-40-anios",
+      "titulo": "The pilgrimage of 40 years",
+      "fecha": "c. 1250–1210 BC (trad.)",
+      "descripcion": "Israel wanders through the desert of Sinai for 40 years before entering Canaan. The number 40 is theological (whole generation) rather than chronological. The desert is a space of testing, complaint, manna, water from the rock — and the death of the Exodus generation.",
+      "referencias": [
+        "Num 14:33-34",
+        "Num 20:1-13",
+        "Deut 8:1-20"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron",
+        "miriam"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises-sinai",
+      "nombre": "Moses",
+      "rol": "Receiver of the Torah — mediator of the Covenant in the Sinai",
+      "periodo": "bronce_tardio",
+      "descripcion": "His life has three geographical acts: Egypt (birth and formation), Sinai/Midian (refuge and vocation), Exodus/Sinai (revelation and legislation). The Sinai is the space of your closest proximity to God — 'face to face, as a man speaks to his friend' (Ex 33:11).",
+      "referencias": [
+        "Exod 3:1-4:17",
+        "Exod 19:1-20:21",
+        "Exod 33:7-23",
+        "Deut 34:1-12"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai",
+        "canaan"
+      ],
+      "viajes": [
+        {
+          "nombre": "The flight to Midian",
+          "ruta": [
+            "egipto",
+            "madian"
+          ],
+          "referencias": [
+            "Exod 2:11-15"
+          ]
+        },
+        {
+          "nombre": "The Exodus",
+          "ruta": [
+            "egipto",
+            "migdol",
+            "marah",
+            "rephidim",
+            "sinai"
+          ],
+          "referencias": [
+            "Exod 12:29-42",
+            "Exod 13:17-22",
+            "Exod 14:1-31",
+            "Exod 19:1-25"
+          ]
+        },
+        {
+          "nombre": "The road to Canaan",
+          "ruta": [
+            "sinai",
+            "edrei",
+            "heshbon",
+            "nebo"
+          ],
+          "referencias": [
+            "Num 21:21-35",
+            "Num 32:1-42",
+            "Deut 34:1-8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elias-sinai",
+      "nombre": "Elijah",
+      "rol": "Prophet – pilgrimage to Horeb",
+      "periodo": "hierro_2",
+      "descripcion": "Centuries after the Exodus, Elijah flees to Mount Horeb (Sinai) in search of Yahweh following his victory against Baal's prophets and the threat of Jezebel. Yahweh does not manifest itself in wind, earthquake or fire — but in 'the voice of thin silence'. The Sinai as a place of prophetic renewal.",
+      "referencias": [
+        "1 Kgs 19:1-21"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "beersheba",
+        "sinai"
+      ]
+    },
+    {
+      "id": "miriam",
+      "nombre": "Miriam",
+      "rol": "Prophetess—sister of Moses",
+      "periodo": "bronce_tardio",
+      "descripcion": "Moses and Aarón's older sister. He leads the song of triumph after crossing the sea (Ex 15:20-21). First woman called 'prophetess' in the OT. She dies and is buried in Kadesh (Num 20:1) — in the desert of Sinai.",
+      "referencias": [
+        "Exod 15:20-21",
+        "Num 12:1-16",
+        "Num 20:1"
+      ],
+      "ruta": [
+        "egipto",
+        "sinai"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Sinai is the space of theophany par excellence in the OT — the mountain where God is revealed, where the Law is given, where the Covenant is sealed. Its extreme aridity is no accident: the desert is the liminal space where Israel learns to depend exclusively on Yahweh, without the resources of civilization. Christian tradition and Islam share the recognition of the sanctity of the Sinai.",
+    "religiones_presentes": [
+      "Yahwism (revelation on Mount Sinai)",
+      "Semitic nomadic cults (Midianites, Amalekites)",
+      "Egyptian religion (turquoise mines in Serabit — temple to Hathor)"
+    ],
+    "mitos": [
+      {
+        "id": "teofania-sinai",
+        "nombre": "The Revelation of Mount Sinai",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 19:1-20:21 · Dt 5:1-22",
+          "fuente_secundaria": "Talmud Babilónico, Shabbat 88a — la recepción de la Torá en el Sinaí; el Shabbat como equivalente a todas las mitzvot",
+          "descripcion": "Sinai is the moment when Israel receives the Torah from the hand of Yahweh. The revelation in the Sinai defines the identity of Israel as a people of the Law. Shavuot (Jewish Pentecost) commemorates the reception of the Torah in the Sinai.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Torah is the most direct manifestation of divine will. The Sinai as 'God's mountain' is the highest geographical point in the sacred history of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 19-20 · Gál 4:24-25 · Heb 12:18-24",
+          "fuente_secundaria": "Pablo de Tarso, Gálatas 4:21-31 — alegoría Agar/Sara: el Sinaí representa la Ley que esclaviza frente a la gracia que libera",
+          "descripcion": "The Sinai represents the Law that condemns, in contrast to Mount Zion which represents grace. Paul uses the allegory of Sinai (Hagar) vs Zion (Sarah) to distinguish the Law from the Gospel. The Spirit of Pentecost (Acts 2) is the new Sinai.",
+          "diferencias": "Sinai has a negative connotation in Paul — law that enslaves vs grace that liberates.",
+          "similitudes": "The Sinai as a place of divine revelation; the encounter with God as transforming.",
+          "significado_teologico": "The Old Covenant (Sinai) contrasts with the New Covenant (Cross and Pentecost).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      },
+      {
+        "id": "mana-desierto",
+        "nombre": "Manna in the Desert",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 16:1-36 · Nm 11:6-9",
+          "fuente_secundaria": "Midrash Rabbah, Éxodo 25:3-6 — el maná adaptado al deseo de cada israelita; el mérito de Abraham al servir pan genera el maná para sus descendientes",
+          "descripcion": "Yahweh provides manna (bread from heaven) every morning for Israel in the desert of Sinai for 40 years. The manna that falls twice on Friday and does not appear on Saturday establishes the Shabbat. Symbol of the total dependence of Israel on Yahweh.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The desert as a school of divine dependence — 'man shall not live by bread alone' (Deut 8:3). Manna prefigures God's daily providence.",
+          "posible_relacion_cultural": "Some botanists identify it with the sugary secretion of the tamarisk (Tamarix gallica) present in Sinai."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Exod 16 · Jn 6:31-58 · 1 Cor 10:3",
+          "fuente_secundaria": "Cirilo de Jerusalén, Catequesis Mistagógica IV,5 — el maná como tipo eucarístico; el pan del cielo prefigura el cuerpo de Cristo",
+          "descripcion": "Jesus is presented as 'the bread that came down from heaven' — the true manna (Jn 6:35). The manna of the desert is a type of the Eucharist: both are 'bread from heaven' that gives life. Paul calls it 'spiritual food' (1 Cor 10:3).",
+          "diferencias": "Physical mana only sustained biological life; the 'bread of life' (Christ/Eucharist) sustains eternal life.",
+          "similitudes": "Free gift from heaven; everyday need; community that receives it.",
+          "significado_teologico": "Foundation of Eucharistic theology — the Eucharist as manna of the New Exodus.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:57 · Corán 7:160",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Baqara 2:57 — mann wa-salwa como favor divino desaprovechado por los israelitas; ejemplo de ingratitud ante la generosidad de Alá",
+          "descripcion": "The Quran mentions mann wa-salwa (manna and quail) as divine provision for the Israelites in the desert. It is one of Allah's favors towards the children of Israel who were later ungrateful.",
+          "diferencias": "The Quran does not develop the theological meaning of manna — it is one more of the divine benefits remembered to contrast with Israelite ingratitude.",
+          "similitudes": "Free divine provision in the wilderness; food from heaven",
+          "significado_teologico": "Example of divine generosity for which human beings can be grateful or ungrateful.",
+          "posible_relacion_cultural": "Shared tradition of manna as a divine gift in the desert."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "subtipo_geo": "Mountain"
+}

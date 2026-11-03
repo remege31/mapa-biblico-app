@@ -1,0 +1,165 @@
+{
+  "id": "shelah",
+  "nombre": "Piscina di Siloe (Shelah)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.775194,
+  "lng": 35.230435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — estanque y túnel en el extremo sur de la Ciudad de David, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Davide Idraulica cittadina, Tunnel di Ezechia"
+    }
+  ],
+  "descripcion_geo": "Stagno situato all'estremità meridionale del Comune di Davide, punto di ricezione delle acque della sorgente Guijón incanalate attraverso un tunnel scavato nella roccia calcarea. Il nome \"Shelah\" (\"inviato\" o \"canale\") si riferisce alla funzione del luogo come destinazione dell'acqua convogliata artificialmente all'interno delle mura della città.",
+  "altitud_m": "Estremità sud della città di Davide, c. 630-640",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "Acqua della sorgente Guijón, convogliata attraverso un tunnel",
+    "Sistema difensivo idraulico contro gli assedi",
+    "Punto di approvvigionamento idrico all'interno delle mura"
+  ],
+  "importancia_estrategica": "Lo stagno di Shelah e il suo tunnel di alimentazione rappresentano una delle opere di ingegneria idraulica più significative dell'antica Israele: garantivano l'accesso all'acqua della sorgente Gihon dall'interno della città murata senza esporre la popolazione ad un assedio nemico, anticipando e, secondo il racconto biblico, frustrando direttamente i piani di Sennacherib di Assiria.",
+  "otros_habitantes": [
+    {
+      "id": "obreros_tunel_shelah",
+      "nombre": "Squadre di lavoratori del tunnel",
+      "descripcion": "Squadre di operai che scavavano contemporaneamente da entrambe le estremità del tunnel di Ezechia, documentato nell'iscrizione di Siloe rinvenuta nel tunnel stesso, che descrive il momento dell'incontro delle due squadre.",
+      "religion": "Yahvismo",
+      "periodo": "C. 701 a.C"
+    },
+    {
+      "id": "poblacion_jerusalen_shelah",
+      "nombre": "Popolazione Gerusalemme",
+      "descripcion": "Abitanti delle città che dipendevano dalla piscina di Shelah come fonte primaria di acqua durante i periodi di assedio, specialmente durante l'assedio assiro di Sennacherib.",
+      "religion": "Yahvismo",
+      "periodo": "C. 701 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ezequias-tunel-shelah",
+      "titulo": "Ezechia scava il tunnel fino alla piscina di Shelah",
+      "fecha": "c. 701 a.C.",
+      "descripcion": "Di fronte alla minaccia imminente di un'invasione assira sotto Sennacherib, il re Ezechia ordina la chiusura delle fonti d'acqua esterne e lo scavo di un tunnel sotterraneo di oltre 500 metri che trasporta l'acqua dalla sorgente di Gihon alla piscina di Shelah, all'interno delle mura della città.",
+      "referencias": [
+        "2 Re 20:20",
+        "2 Cr 32:2-4",
+        "2 Cr 32:30"
+      ],
+      "personajes_clave": [
+        "ezequias"
+      ]
+    },
+    {
+      "id": "isaias-aguas-siloe",
+      "titulo": "Isaia e le 'acque che scorrono dolcemente di Siloe'",
+      "fecha": "c. 734 a.C.",
+      "descripcion": "Il profeta Isaia usa l'immagine delle acque tranquille di Siloe in contrasto con la dipendenza del popolo dalle alleanze militari straniere (Rezin e il figlio di Remaliah), avvertendo che il rifiuto dell'affidabile provvedimento di YHWH porterà le acque turbolente del fiume Eufrate come giudizio.",
+      "referencias": [
+        "Is 8:6-7"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "nehemias-shelah-reconstruccion",
+      "titulo": "La piscina nella ricostruzione delle mura di Neemia",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Nell'elenco dei costruttori del muro Gerusalemme sotto Neemia, il muro della piscina di Shelah, accanto al giardino del re, è menzionato come una delle sezioni destinate alla riparazione, a conferma che il sistema idraulico era ancora in uso secoli dopo Ezechia.",
+      "referencias": [
+        "Ne 3:15"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequias_shelah",
+      "nombre": "Ezechia",
+      "rol": "Giuda King, costruttore di tunnel idraulici",
+      "periodo": "hierro_2",
+      "descripcion": "Ordina lo scavo del tunnel che porta il suo nome per garantire l'approvvigionamento idrico di Gerusalemme di fronte all'imminente assedio assiro, una delle opere di ingegneria più citate del regno di Giuda.",
+      "referencias": [
+        "2 Re 20:20",
+        "2 Cr 32:2-4"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "isaias_shelah",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Usa le acque di Siloe come immagine profetica di serena fiducia in YHWH di fronte alla tentazione di alleanze politiche e militari straniere.",
+      "referencias": [
+        "Is 8:5-8"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nehemias_shelah",
+      "nombre": "Neemia",
+      "rol": "Governatore di Giuda, ricostruttore delle mura",
+      "periodo": "post_exilio",
+      "descripcion": "Include l'area della Shelah Pool nell'organizzazione della ricostruzione delle mura di Gerusalemme dopo il ritorno dall'esilio.",
+      "referencias": [
+        "Ne 3:15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La piscina di Shelah e il suo tunnel incarnano nel racconto biblico la combinazione tra prudenza tecnica umana e fiducia teologica in YHWH: Ezechia agisce con concreta lungimiranza ingegneristica, ma il racconto del cronista inquadra l'opera all'interno di una narrazione più ampia della fedeltà religiosa del re, mentre Isaia utilizza lo stesso sistema idraulico come metafora centrale per una fede correttamente orientata di fronte alla paura che cerca sicurezza nelle potenze straniere.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "aguas-mansas-siloe",
+        "nombre": "Le acque calme di Siloe come figura di fiducia in YHWH",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 8:6-7; 2 Re 20:20",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la inscripción de Siloé y la obra de Ezequías como modelo de previsión piadosa",
+          "descripcion": "La tradizione ebraica valorizza il tunnel di Ezechia come esempio di saggezza pratica messa al servizio della fiducia nella promessa divina di protezione di Gerusalemme, coniugando la responsabile preparazione umana con la fede nella provvidenza.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'opera idraulica viene letta come legittima espressione della prudenza umana che non contraddice, ma accompagna, la fiducia ultima in YHWH quale protettore della città.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gv 9:1-11 (curación del ciego de nacimiento, enviado a lavarse en el estanque de Siloé)",
+          "fuente_secundaria": "Comentarios patrísticos sobre el significado del nombre 'Siloé' como 'Enviado' aplicado a Cristo",
+          "descripcion": "Il Vangelo di Giovanni riprende lo stagno – identificandolo esplicitamente con il significato del suo nome, «Inviato» – come scena della guarigione di un uomo cieco dalla nascita, leggendo l'episodio in chiave cristologica: l'acqua dello stagno dell'Antico Testamento diventa segno di Cristo stesso come «Inviato» del Padre.",
+          "similitudes": "Condividere l'apprezzamento dell'acqua dello stagno come elemento di rifornimento e di guarigione legato all'azione divina.",
+          "diferencias": "La lettura cristiana aggiunge uno strato di interpretazione cristologica assente nel senso originario dell'Antico Testamento, incentrato sul significato etimologico del toponimo.",
+          "significado_teologico": "Lo stagno diventa segno della missione di Cristo come messaggero del Padre che porta luce e guarigione.",
+          "posible_relacion_cultural": "Continuità geografica e simbolica tra la Gerusalemme dell'Antico e del Nuovo Testamento attorno allo stesso sistema idraulico della Città di Davide."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

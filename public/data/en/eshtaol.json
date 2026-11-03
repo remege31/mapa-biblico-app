@@ -1,0 +1,151 @@
+{
+  "id": "eshtaol",
+  "nombre": "Eshtaol",
+  "tipo": "ciudad",
+  "lat": 31.782429,
+  "lng": 35.009012,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Danite settlement, starting point of migration to Laish"
+    }
+  ],
+  "descripcion_geo": "City of the Shephelah, jointly assigned to Judah and Dan, located very close to Zorah, with which it appears systematically paired in the biblical text. Low hilly terrain at the transition between the coastal plain and the central mountains.",
+  "altitud_m": 305,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, slightly cooler than Zorah due to higher altitude.",
+  "recursos": [
+    "Agricultural lands of the Shephelah",
+    "Elevated observation position",
+    "Proximity to Zorah, forming a joint Danite core"
+  ],
+  "importancia_estrategica": "Eshtaol and Zorah function in the biblical text almost as a geographical unit: both mark the limits of the territory originally assigned to Dan and, in the face of Philistine pressure, they are the starting point of the spies and later of the six hundred Danite warriors who migrate north in search of their own territory.",
+  "otros_habitantes": [
+    {
+      "id": "danitas_eshtaol",
+      "nombre": "Tribe by Dan",
+      "descripcion": "Main population of Eshtaol; From here the five spies sent to explore territory in the north depart, and later the armed expedition of six hundred men that conquers Lais.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "judaitas_eshtaol",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Eshtaol shares tribal allocation with Judah according to Joshua city lists, reflecting the shared border nature of the area between both tribes.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "espiritu-sanson-eshtaol",
+      "titulo": "The Spirit of YHWH moves on Samson between Zorah and Eshtaol",
+      "fecha": "c. 1105 BC",
+      "descripcion": "The biblical text explicitly places between Zorah and Eshtaol the moment in which the Spirit of YHWH begins to manifest itself on the young Samson, marking the beginning of his vocation as judge-liberator.",
+      "referencias": [
+        "Judg 13:25"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "espias-danitas-eshtaol",
+      "titulo": "The five Danite spies leave Eshtaol",
+      "fecha": "c. 1150–1100 BC",
+      "descripcion": "Given the lack of their own assigned territory, the Dan tribe sends five brave men from Zorah and Eshtaol to explore and reconnoiter land where they can settle, who reach the region of Lais in the extreme north.",
+      "referencias": [
+        "Judg 18:2"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "expedicion-seiscientos-danitas",
+      "titulo": "The six hundred Danite warriors set out for Laish",
+      "fecha": "c. 1150–1100 BC",
+      "descripcion": "After the favorable report of the spies, six hundred armed men of the tribe of Dan set out from Zorah and Eshtaol towards the north, conquered Lais, burned it and rebuilt it under the new name of Dan, completing the tribal migration motivated by the lack of southern territory.",
+      "referencias": [
+        "Judg 18:11-29"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson_eshtaol",
+      "nombre": "Samson",
+      "rol": "Israel Judge, Nazarite of superhuman strength",
+      "periodo": "hierro_1",
+      "descripcion": "The text places the beginning of his vocation between Zorah and Eshtaol, when the Spirit of YHWH begins to manifest itself on him during his youth, before the episodes of Timnah and Lehi.",
+      "referencias": [
+        "Judg 13:25"
+      ],
+      "ruta": [
+        "zorah",
+        "eshtaol"
+      ]
+    },
+    {
+      "id": "espias_dan",
+      "nombre": "Five spies by Dan",
+      "rol": "Scouts sent by Dan's tribe",
+      "periodo": "hierro_1",
+      "descripcion": "Brave men sent from Eshtaol and Zorah to explore territory to the north in the face of Philistine pressure on the original Danite territory; his favorable report on Laish triggers tribal migration.",
+      "referencias": [
+        "Judg 18:2-10"
+      ],
+      "ruta": [
+        "eshtaol",
+        "ai"
+      ]
+    },
+    {
+      "id": "guerreros_dan_seiscientos",
+      "nombre": "Six hundred armed men of Dan",
+      "rol": "Danish military expedition",
+      "periodo": "hierro_1",
+      "descripcion": "Armed contingent leaving Zorah and Eshtaol to conquer Laish in the far north, completing the resettlement of the Dan tribe outside their original territory in the Shephelah.",
+      "referencias": [
+        "Judg 18:11-29"
+      ],
+      "ruta": [
+        "eshtaol",
+        "dan"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Eshtaol, along with Zorah, represents the original—and ultimately insufficient or unsustainable—territory of the Dan tribe in the Shephelah, exposed to constant Philistine pressure. Its double narrative function (origin of Samson's vocation and starting point of tribal migration to Laish) illustrates two different responses of Israel to Philistine oppression: the individual charismatic resistance of a judge and the collective solution of territorial resettlement.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "migracion-dan-eshtaol",
+        "nombre": "The origin of the Danite migration in Eshtaol",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 18:1-29",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la pérdida de la herencia tribal y la búsqueda de territorio (relacionado con discusiones en Bava Batra sobre límites tribales)",
+          "descripcion": "Jewish tradition frames the episode of the spies and the Danite migration from Eshtaol as an example of the consequences of the period of the Judges, when 'there was no king in Israel and everyone did what seemed right in his own eyes', including the questionable appropriation of cult objects by the Danites during their journey to Laish.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode illustrates the tribal fragmentation and absence of centralized leadership characteristic of the pre-monarchy period.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

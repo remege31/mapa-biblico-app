@@ -1,0 +1,140 @@
+{
+  "id": "geshur",
+  "nombre": "Gesur",
+  "tipo": "territorio",
+  "lat": 33.0,
+  "lng": 36.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 15,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Small Aramaic kingdom northeast of Lake Galilee, on the Golan Plateau. Ally and then enemy of David.",
+  "altitud_m": 400,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "grazing",
+    "agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Territory that David could not conquer; Their king Talmai was Absalom's grandfather.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ges_h1",
+      "titulo": "David marries the princess of Gesur",
+      "fecha": "ca. 1010 BC",
+      "descripcion": "David took as his wife Maacah, daughter of King Talmai of Geshur; Absalom was born to her.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "personajes_clave": [
+        "David",
+        "Maacá",
+        "Talmai"
+      ]
+    },
+    {
+      "id": "ges_h2",
+      "titulo": "Absalom flees to Geshur after killing Amnon",
+      "fecha": "ca. 990 BC",
+      "descripcion": "After killing his half-brother Amnon to avenge Tamar's rape, Absalom flees to his grandfather Talmai's court in Geshur.",
+      "referencias": [
+        "2 Sam 13:37-38"
+      ],
+      "personajes_clave": [
+        "Absalón",
+        "David",
+        "Amnón",
+        "Tamar"
+      ]
+    },
+    {
+      "id": "ges_h3",
+      "titulo": "Joab negotiates the return of Absalom from Geshur",
+      "fecha": "ca. 988 BC",
+      "descripcion": "Joab convence a David de permitir que Absalón regrese de Gesur; David accepts it but it will take two years to see it.",
+      "referencias": [
+        "2 Sam 14:1-24"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "David",
+        "Absalón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ges_p1",
+      "nombre": "Absalom",
+      "rol": "Son of David",
+      "periodo": "ca. 1010-978 BC",
+      "descripcion": "Son of the princess of Gesur; It was refuge and exile for his mother; led the largest rebellion against David.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p2",
+      "nombre": "Talmai",
+      "rol": "King of Gesur",
+      "periodo": "ca. 1010 BC",
+      "descripcion": "Absalom's maternal grandfather; He gave shelter to his grandson after the murder of Amnon.",
+      "referencias": [
+        "2 Sam 13:37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p3",
+      "nombre": "Maaca",
+      "rol": "Princess of Gesur, wife of David",
+      "periodo": "ca. 1010 BC",
+      "descripcion": "Daughter of the king of Geshur; mother of Absalom and Tamar.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gesur: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ges_m1",
+        "nombre": "The fugitive's refuge",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Geshur was Absalom's refuge after his crime; The exile of a prince in a foreign land is a recurring motif in the biblical narrative.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Geshur was Absalom's refuge after his crime; The exile of a prince in a foreign land is a recurring motif in the biblical narrative.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

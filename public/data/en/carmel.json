@@ -1,0 +1,186 @@
+{
+  "id": "carmel",
+  "nombre": "Carmel",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.4333,
+  "lng": 35.1333,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 25,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Judah territory in the Negev"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Border city of the kingdom of Judah"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Carmel (Hebrew: כַּרְמֶל, 'vineyard' or 'cultivated land') was a city in the southern mountainous territory of Judah, in the transition zone between the hills of Hebron and the Negev Desert, about 12 km south of Hebron. Not to be confused with Mount Carmel in the north. Identified with modern-day Khirbet el-Karmil, the city controlled pastoral and trade routes between Hebron and the Negev. Its semi-arid environment was suitable for extensive livestock farming — the exact context of the narrative of Nabal, owner of three thousand sheep and one thousand goats in this region.",
+  "altitud_m": 850,
+  "clima": "Semi-arid mountain — rainfall of 300-400 mm annually, dry and hot summers, cool winters. Seasonal pastures that favor the transhumance of herds between the southern hills of Judah and the Negev.",
+  "recursos": [
+    "Extensive pastures for large and small livestock",
+    "Shearing — central economic activity (Nabal's time)",
+    "Rainfed crops in favorable years (barley, wheat)",
+    "Limestone for construction",
+    "Caravan route between Hebron and the Negev"
+  ],
+  "importancia_estrategica": "Carmel was a control point for the southern corridor between the Judah highlands and the desert. Its narrative relevance in the OT is primarily social and domestic—the scene of the confrontation between Abigail's generosity and Nabal's meanness, and the place where King Saul erected a monument after his victory over the Amalekites, the first act of self-glorification that precipitated his divine rejection.",
+  "otros_habitantes": [
+    {
+      "id": "calebitas-carmel",
+      "nombre": "Southern Calebitas by Judah",
+      "descripcion": "The territory around Carmel belonged to the clan of Caleb, integrated into the tribe of Judah. Nabal himself is described as a 'calebite' (1 Sam 25:3), a term that can be either a demonym or a pun on 'caleb' (dog) to characterize his brutality. The Calebites were prosperous ranchers in southern Judah, with strong ties to Hebron and the Negev.",
+      "religion": "Popular Yahwism from the south of Judah, with possible syncretistic practices at local heights",
+      "periodo": "Iron I-II, c. 1200-586 BC"
+    },
+    {
+      "id": "amalecitas-neguev",
+      "nombre": "Amalekites of the Negev",
+      "descripcion": "The Amalekites were the nomadic people who dominated the Negev and the northern Sinai. Saul fought them in this region (1 Sam 15), and David operated against them from Ziklag. Their presence in the Carmel area was permanent, alternating between violent raids and periods of coexistence with the sedentary shepherds of Judah.",
+      "religion": "Desert animism — worship of nomadic divinities without fixed temples",
+      "periodo": "Iron I-II, until its final dispersion under David"
+    }
+  ],
+  "historias": [
+    {
+      "id": "saul-monumento-carmel",
+      "titulo": "Saul erects a monument: the victory that went wrong",
+      "fecha": "c. 1025 BC",
+      "descripcion": "After defeating the Amalekites, Saul arrived at Carmel and erected a monument there in his own honor — the Hebrew text uses 'yad' (hand/memorial), a sign of self-glorification. The prophet Samuel, who was traveling to meet him, received news from Yahweh that Saul had disobeyed: instead of destroying all the Amalekite booty according to the herem ordered, he kept King Agag alive and kept the best of the livestock. When they met, Saul saluted triumphantly: 'I have kept Yahweh's word.' Samuel replied: 'And that sheep bleating that reaches my ears?' The scene in Carmel is the exact point where the relationship between Saul and the prophet is definitively broken, and where Samuel pronounces the oracle that will seal the fate of the first king of Israel: 'As you have rejected the word of Yahweh, Yahweh also rejects you as king.'",
+      "referencias": [
+        "1 Sam 15:12-23",
+        "1 Sam 15:1-11",
+        "1 Sam 15:24-35"
+      ],
+      "personajes_clave": [
+        "saul",
+        "samuel"
+      ]
+    },
+    {
+      "id": "nabal-abigail-david",
+      "titulo": "Nabal, Abigail and David: the generosity that prevented a massacre",
+      "fecha": "c. 1000 BC",
+      "descripcion": "During his period as an outlaw in the desert of Judah, David and his six hundred men had protected Nabal's flocks from bandit attacks. When the shearing season arrived in Carmel—a time of celebration and abundance—David sent ten young people to politely ask for a contribution of food. Nabal dismissed them with insults: 'Who is David? Who is Jesse's son?' David, furious, ordered the swords to be girded: he was going to exterminate all the males of Nabal's house. Abigail, Nabal's wife, intelligent and beautiful, found out from a servant, secretly loaded donkeys with two hundred loaves, two skins of wine, five prepared sheep, roasted grain, raisins and figs and went out to meet David. Her speech before him was a model of political and theological wisdom: she recognized her husband's guilt, asked that innocent blood not weigh on David when Yahweh gave him the kingdom, and freed him from the sin of revenge. Nabal died of a heart attack ten days later when Abigail told him what had happened; David took her as his wife.",
+      "referencias": [
+        "1 Sam 25:1-42",
+        "1 Sam 25:14-19",
+        "1 Sam 25:32-35"
+      ],
+      "personajes_clave": [
+        "abigail",
+        "nabal",
+        "david-forajido"
+      ]
+    },
+    {
+      "id": "uzias-carmel-ganaderia",
+      "titulo": "Uzziah and the Carmel livestock",
+      "fecha": "c. 780 BC",
+      "descripcion": "The chronicles of Uzziah's reign from Judah mention his love of the land and his promotion of livestock farming in the Negev and Carmel. The king ordered towers to be built in the desert and many cisterns to be dug, 'because he had many cattle in the Shephelah and in the plain; farmers and vinedressers in the mountains and in Carmel, for he was a lover of the land.' This information from the Chronicler places Carmel as an area of ​​royal agricultural activity in the 8th century, continuing the tradition of large livestock owners that Nabal's story had established three centuries earlier. The mention of Uzziah makes Carmel an example of the agrarian policy that sustained the economic peak of the kingdom of Judah.",
+      "referencias": [
+        "2 Chr 26:10",
+        "2 Kgs 15:1-7"
+      ],
+      "personajes_clave": [
+        "uzias-carmel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abigail",
+      "nombre": "Abigail",
+      "rol": "Wife of Nabal, mediator who saved David from blood sin",
+      "periodo": "hierro_2",
+      "descripcion": "Abigail is one of the most complex and admired female characters in the OT. The text presents her with two unusual adjectives: intelligent (sekhel) and beautiful-looking—in that order, subverting the usual priority of biblical female descriptions. Her action before David is a model of political initiative: without consulting her useless husband, she mobilized resources, faced danger and gave a speech that combined theology, psychology and diplomacy. He recognized in David the future anointed king and protected him from the error of staining himself with innocent blood before ascending the throne. After Nabal's death she became the wife of David and accompanied him in his years as an outlaw, including temporary captivity in Ziklag.",
+      "referencias": [
+        "1 Sam 25:3",
+        "1 Sam 25:23-31",
+        "1 Sam 27:3"
+      ],
+      "ruta": [
+        "carmel",
+        "ziklag"
+      ]
+    },
+    {
+      "id": "nabal",
+      "nombre": "Nabal",
+      "rol": "Rich rancher from Carmel, paradigm of foolishness",
+      "periodo": "c. 1000 BC",
+      "descripcion": "Nabal ('fool' in Hebrew) is the antagonist whose name is already a moral judgment. Owner of three thousand sheep and a thousand goats in Carmel, he belonged to the clan of Caleb but the text plays with homophony: he was 'a Caleb man' (dog/brutal). His refusal to David at shearing time—a time of maximum conventional generosity—violated the ancient world's code of hospitality and reciprocity. The text does not present him as evil but as foolish: unable to read political reality, drunk during the shearing banquet when Abigail came to tell him what had happened. He died ten days later 'like a stone', possibly from a stroke. His narrative function is threefold: antagonist to David, contrast to Abigail, and example of the proverbial principle that foolishness leads to death.",
+      "referencias": [
+        "1 Sam 25:2-3",
+        "1 Sam 25:10-11",
+        "1 Sam 25:36-38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "samuel",
+      "nombre": "Samuel",
+      "rol": "Last judge and first institutional prophet of Israel",
+      "periodo": "hierro_1",
+      "descripcion": "Samuel is the transition figure between the period of the judges and the monarchy. Judge, prophet and priest, he anointed Saul as the first king of Israel and David as his successor. His meeting with Saul in Carmel after the battle against the Amalekites is the climax of their relationship: the prophet who had resisted the people's request for a king and who obediently anointed Saul, must now pronounce divine rejection of that same king. The text highlights that Samuel cried for Saul all night and did not see him again until the day he died — the breakup was real and painful for both of them.",
+      "referencias": [
+        "1 Sam 3:1-21",
+        "1 Sam 15:10-35",
+        "1 Sam 16:1-13"
+      ],
+      "ruta": [
+        "shiloh",
+        "carmel",
+        "hebron",
+        "bethlehem"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Carmel in the south of Judah is the scene of two complementary theological moments: the rejection of Saul for his partial obedience (the unfulfilled herem) and the protection of David by the wisdom of Abigail. Both stories revolve around the same principle: obedience to Yahweh admits of no half measures, and God can use either an elderly prophet or an intelligent woman to execute his will. The monument that Saul erected in Carmel for his own glory contrasts with the humiliation he received right there.",
+    "religiones_presentes": [
+      "Yahwism Southern Judah — Caleb Clan Tradition",
+      "Monarchical Yahwism — official cult linked to the nascent royal institution"
+    ],
+    "mitos": [
+      {
+        "id": "obediencia-parcial-saul",
+        "nombre": "Half-obedience: Saul and the herem of Amalek",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 15:1-35; Dt 25:17-19",
+          "fuente_secundaria": "Talmud Bavli, Yomá 22b — 'Si alguien es compasivo con el cruel, terminará siendo cruel con el compasivo'",
+          "descripcion": "The Talmud (Yomah 22b) uses the case of Saul to formulate one of its best-known aphorisms: misapplied mercy—forgiving King Agag—results in greater cruelty (the subsequent massacre of the priests of Nob). Rabbinic tradition debated whether Saul sinned out of excessive piety or political calculation. Maimonides classified Saul's transgression as a 'sin due to error of judgment' but equally disabling for the exercise of leadership, because a king who cannot distinguish between compassion and obedience cannot rule in the name of God.",
+          "similitudes": "The notion that partial obedience equals total disobedience is shared by Christian and Islamic traditions.",
+          "diferencias": "Rabbinic Judaism qualifies: Saul did not act out of evil but out of theological error, which distinguishes him from later evil kings.",
+          "significado_teologico": "Obedience to God cannot be selective. The herem was a total divine order; the exception—however pious it may seem—constitutes a usurpation of the divine prerogative of mercy.",
+          "posible_relacion_cultural": "The motif of the king who disobeys the divine order of total destruction and suffers consequences has parallels in texts from Mari and Ugarit about kings who do not fulfill commands of their gods in military campaigns."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 15:22; 1 Cor 10:6-12",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios XVII,6",
+          "descripcion": "The key verse of the Carmel episode—'Does Yahweh delight in burnt offerings and sacrifices as much as in obedience to his word? Obedience is worth more than sacrifice' (1 Sam 15:22)—became one of the texts most cited by the Church Fathers in their criticism of empty religious ritualism. Augustine used it to argue that external worship without internal disposition is unacceptable. Paul in 1 Cor 10 uses the negative examples of the OT—implicitly including Saul—as a warning to the Corinthian Christians.",
+          "similitudes": "The primacy of obedience over ritual is an identical principle in Israelite prophecy and in the teaching of Jesus (Mt 9:13, quoting Hos 6:6).",
+          "diferencias": "The NT reinterprets obedience in terms of faith and love, not the fulfillment of commands of destruction.",
+          "significado_teologico": "The story of Saul in Carmel anticipates Jesus's prophetic critique of ritualism and teaching on mercy and justice as superior criteria to sacrifice.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

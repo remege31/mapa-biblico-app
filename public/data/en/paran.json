@@ -1,0 +1,144 @@
+{
+  "id": "paran",
+  "nombre": "Paran Desert",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 29.15,
+  "lng": 33.54,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Vast desert south of Canaan and north of Sinai; scene of Hagar's pilgrimage to Ishmael and Moses's spies.",
+  "altitud_m": 500,
+  "clima": "arid",
+  "recursos": [
+    "grazing",
+    "hunt"
+  ],
+  "importancia_estrategica": "Transit territory between Sinai and Canaan; home of Ishmael and Israelite pilgrimage route.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "par_h1",
+      "titulo": "Agar and Ishmael in the Paran desert",
+      "fecha": "ca. 1900-1800 BC",
+      "descripcion": "Expelled by Sara, Hagar wanders through the desert of Beersheba and Paran; Ishmael settles there and Hagar looks for Egypt's wife.",
+      "referencias": [
+        "Gen 21:14-21"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "Ismael"
+      ]
+    },
+    {
+      "id": "par_h2",
+      "titulo": "The Israel camp in Paran",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "The Israelites camp in the desert of Paran before sending out the spies; there they receive the negative report.",
+      "referencias": [
+        "Num 12:16",
+        "Num 13:3"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "par_h3",
+      "titulo": "David in the Paran desert",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "When Samuel dies, David goes down to the desert of Paran where Nabal the rich man lives.",
+      "referencias": [
+        "1 Sam 25:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Nabal"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "par_p1",
+      "nombre": "Ishmael",
+      "rol": "Father of the Arabs",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "He settled in the desert of Paran; God heard his cry and promised to make him a great nation.",
+      "referencias": [
+        "Gen 21:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p2",
+      "nombre": "Agar",
+      "rol": "Mother of Ishmael",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "He found the angel of the Lord in the desert; God heard the cry of his son in Paran.",
+      "referencias": [
+        "Gen 21:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p3",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He sent the twelve spies from the desert of Paran to reconnoiter Canaan.",
+      "referencias": [
+        "Num 13:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Paran Desert: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "par_m1",
+        "nombre": "The God who hears in the desert",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 21:17",
+          "fuente_secundaria": "",
+          "descripcion": "God heard the cry of Ishmael in the wilderness of Paran (Gen 21:17); The desert is the place where God listens to the one that no one else hears.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "God heard the cry of Ishmael in the wilderness of Paran (Gen 21:17); The desert is the place where God listens to the one that no one else hears.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 2:125",
+          "fuente_secundaria": "",
+          "descripcion": "The Quran narrates how God heard Ishmael (Ismail) in the desert and promised to make him the father of a great nation (Cor 2:125).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Quran narrates how God heard Ishmael (Ismail) in the desert and promised to make him the father of a great nation (Cor 2:125).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

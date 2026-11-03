@@ -1,0 +1,133 @@
+{
+  "id": "beth_arabah",
+  "nombre": "Bet-Arabá",
+  "tipo": "ciudad",
+  "lat": 31.84,
+  "lng": 35.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Pueblo en el límite entre Judá y Benjamín en el borde norte del mar Muerto.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Punto fronterizo entre las tribus de Judá y Benjamín.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bar_h1",
+      "titulo": "Bet-Arabá en el límite tribal",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Bet-Arabá era ciudad en el límite de Judá que llegaba al norte del mar Muerto.",
+      "referencias": [
+        "Jos 15:6",
+        "Jos 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "bar_h2",
+      "titulo": "Los 'Arabatita': guerreros de David de Bet-Arabá",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Abí-albón el arabatita y Azmaveth el baharumita eran de los héroes de David, procedentes de Bet-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bar_h3",
+      "titulo": "Bet-Arabá en la repartición de Benjamín",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La ciudad fue asignada a la tribu de Benjamín por su ubicación en el límite norte.",
+      "referencias": [
+        "Jos 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bar_p1",
+      "nombre": "Josué",
+      "rol": "Conquistador",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Asignó Bet-Arabá como punto fronterizo entre Judá y Benjamín.",
+      "referencias": [
+        "Jos 15:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p2",
+      "nombre": "Abí-albón el arabatita",
+      "rol": "Héroe de David",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Guerrero de David oriundo de Bet-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p3",
+      "nombre": "tribu de Benjamín",
+      "rol": "Tribu israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Recibió Bet-Arabá como parte de su herencia territorial.",
+      "referencias": [
+        "Jos 18:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bet-Arabá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bar_m1",
+        "nombre": "El límite tribal",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Bet-Arabá marca el límite entre Judá y Benjamín junto al mar Muerto; las ciudades fronterizas definen la identidad tribal en el AT.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bet-Arabá marca el límite entre Judá y Benjamín junto al mar Muerto; las ciudades fronterizas definen la identidad tribal en el AT.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

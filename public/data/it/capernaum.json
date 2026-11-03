@@ -1,0 +1,208 @@
+{
+  "id": "capernaum",
+  "nombre": "Cafarnao",
+  "tipo": "ciudad",
+  "lat": 32.8807,
+  "lng": 35.5751,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Località balneare di Galilea, sull'importante via commerciale Via Maris.",
+  "altitud_m": 210,
+  "clima": "semiarido-mediterraneo",
+  "recursos": [
+    "pesca",
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Nodo sulla rotta internazionale e base operativa per Gesù in Galilea.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "pedro",
+      "nombre": "Pietro",
+      "rol": "Galilea Pescatore, Capo degli Apostoli",
+      "periodo": "vida_jesus",
+      "descripcion": "Simone di Betsaida, stabilitosi a Cafarnao, chiamato da Gesù presso il mare di Galilea. Dopo la Pentecoste guidò la chiesa di Gerusalemme, portò il Vangelo ai Gentili in Cesarea e, secondo la tradizione, morì a Roma.",
+      "referencias": [
+        "Mc 1:16-31",
+        "At 2",
+        "At 10"
+      ],
+      "ruta": [
+        "capernaum",
+        "jerusalen",
+        "caesarea",
+        "rome"
+      ],
+      "viajes": [
+        {
+          "nombre": "Missione in Giudea e il Gentile Cornelio",
+          "ruta": [
+            "jerusalen",
+            "lod",
+            "joppa",
+            "caesarea",
+            "jerusalen"
+          ],
+          "referencias": [
+            "At 9:32–11:18"
+          ]
+        },
+        {
+          "nombre": "Antiochia della diaspora",
+          "ruta": [
+            "jerusalen",
+            "antioch"
+          ],
+          "referencias": [
+            "Gal 2:11-14"
+          ]
+        },
+        {
+          "nombre": "Roma (tradizione patristica)",
+          "ruta": [
+            "antioch",
+            "rome"
+          ],
+          "referencias": [
+            "1 Pt 5:13"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cap_h1",
+        "titulo": "Base operativa Gesù",
+        "fecha": "ca. 27-30 d.C.",
+        "descripcion": "Cafarnao diventa il centro del ministero galileiano di Gesù.",
+        "referencias": [
+          "Mt 4:13"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "cap_h2",
+        "titulo": "Guarigione del Centurione",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Un centurione romano chiede a Gesù di curare il suo servo; Gesù loda la sua fede.",
+        "referencias": [
+          "Mt 8:5-13"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "centurión"
+        ]
+      },
+      {
+        "id": "cap_h3",
+        "titulo": "Il paralitico appeso al soffitto",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Quattro uomini calano un uomo paralizzato dal soffitto per avvicinarlo a Gesù.",
+        "referencias": [
+          "Mc 2:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cap_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Predicatore e guaritore",
+        "periodo": "ca. 27-30 d.C.",
+        "descripcion": "Stabilì la sua base a Cafarnao durante il suo ministero in Galilea.",
+        "referencias": [
+          "Mt 4:13"
+        ],
+        "ruta": [
+          "nazareth",
+          "capernaum",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "cap_p2",
+        "nombre": "Simone Pietro",
+        "rol": "Pescatore e apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Originario di Betsaida, visse a Cafarnao; chiamato da Gesù.",
+        "referencias": [
+          "Mc 1:21,29"
+        ],
+        "ruta": [
+          "capernaum",
+          "bethsaida",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "cap_p3",
+        "nombre": "Matteo (Levi)",
+        "rol": "Esattore delle tasse, apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Esattore delle tasse a Cafarnao, chiamato da Gesù.",
+        "referencias": [
+          "Mt 9:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città cosmopolita con presenza romana ed ebraica; importante sinagoga del I secolo.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "romano_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "cap_m1",
+          "nombre": "Il miracolo del centurione",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù guarisce il servitore di un funzionario romano senza essere presente, dichiarando la fede universale.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù guarisce il servitore di un funzionario romano senza essere presente, dichiarando la fede universale.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

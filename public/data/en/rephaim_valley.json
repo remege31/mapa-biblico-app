@@ -1,0 +1,134 @@
+{
+  "id": "rephaim_valley",
+  "nombre": "Valley of the Rephaim",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.76,
+  "lng": 35.22,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Valley southwest of Jerusalem, between the city and Bethlehem. fertile land; battle scene between David and the Philistines.",
+  "altitud_m": 700,
+  "clima": "Mediterranean",
+  "recursos": [
+    "cereals",
+    "olive trees",
+    "vine"
+  ],
+  "importancia_estrategica": "Battlefield between David and the Philistines; Its name (Rephaites = giants) evokes the pre-Israelite peoples.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ref_h1",
+      "titulo": "David's battles against Philistines in the valley",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "The Philistines are deployed in the valley of the Rephaim; David consults the Lord twice and defeats them.",
+      "referencias": [
+        "2 Sam 5:18-25"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ref_h2",
+      "titulo": "The harvest of the valley of the Rephaim in Isaiah",
+      "fecha": "ca. 740 BC",
+      "descripcion": "Isaiah uses the harvest of the valley of the Rephaim as an image of judgment: only a cluster will remain, like shaking an olive tree.",
+      "referencias": [
+        "Isa 17:5"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    },
+    {
+      "id": "ref_h3",
+      "titulo": "The surprise attack of the sycamores",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "God orders David to attack the Philistines when he hears the sound of footsteps in the tops of the sycamore trees in the valley.",
+      "referencias": [
+        "2 Sam 5:23-24"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ref_p1",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He won two decisive battles against the Philistines in the valley of the Rephaim.",
+      "referencias": [
+        "2 Sam 5:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p2",
+      "nombre": "Isaiah",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "He used the valley as an image of the destruction of the north of Israel.",
+      "referencias": [
+        "Isa 17:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ref_p3",
+      "nombre": "Rephaim",
+      "rol": "pre-Israelite people",
+      "periodo": "Época pre-israelita",
+      "descripcion": "Giants that inhabited the valley before the arrival of Israel; His name persists as a toponym.",
+      "referencias": [
+        "Deut 2:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valley of the Rephaim: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ref_m1",
+        "nombre": "The noise in the sycamores",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 5:24",
+          "fuente_secundaria": "",
+          "descripcion": "God gives David a unique military signal: to attack when the noise sounds in the tops of the sycamores (2 Sam 5:24). Victory is miraculous, not tactical.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "God gives David a unique military signal: to attack when the noise sounds in the tops of the sycamores (2 Sam 5:24). Victory is miraculous, not tactical.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

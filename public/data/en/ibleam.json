@@ -1,0 +1,150 @@
+{
+  "id": "ibleam",
+  "nombre": "Ibleam",
+  "tipo": "ciudad",
+  "lat": 32.45,
+  "lng": 35.2833,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Incomplete conquest, murder of Ahaziah"
+    }
+  ],
+  "descripcion_geo": "Canaanite city in the region of Issachar, formally assigned to Manasseh according to the distribution pattern of Manassite cities in the territory of other tribes, close to the route between Jezreel and Samaria, which makes it the scene of passage during later military and political movements.",
+  "altitud_m": 200,
+  "clima": "Mediterranean — hot, dry summers, mild winters with rain, typical of the Issachar region.",
+  "recursos": [
+    "Position on the route between Jezreel and Samaria",
+    "Agricultural land of the Issachar region"
+  ],
+  "importancia_estrategica": "Ibleam, like Taanach and Megiddo, is one of the cities that Manasseh fails to completely conquer during the period of the Judges; Centuries later, its proximity to the route from Jezreel to Samaria makes it the place where King Ahaziah of Judah is mortally wounded by order of Jehu during the purge of the house of Ahab.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_ibleam",
+      "nombre": "Ibleam Canaanites",
+      "descripcion": "Original population of the city, not completely expelled by Manasseh according to the record of Judges, remaining under subjugated rule rather than total conquest.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC and persistent after"
+    },
+    {
+      "id": "manasitas_ibleam",
+      "nombre": "Tribe of Manasseh",
+      "descripcion": "Formal beneficiary of the territorial allocation of Ibleam, located in Issachar territory according to the pattern of Manassite cities scattered in neighboring tribes.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "manases-no-expulsa-ibleam",
+      "titulo": "Manasseh fails to expel the Canaanites from Ibleam",
+      "fecha": "c. 1150 BC",
+      "descripcion": "The book of Judges records that Manasseh was unable to dispossess the inhabitants of Ibleam and its villages, repeating the pattern of incomplete conquest that characterizes much of the most fortified Canaanite cities of the plain.",
+      "referencias": [
+        "Judg 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ibleam-ciudad-manases-isacar",
+      "titulo": "Ibleam among the cities of Manasseh in the territory of Issachar",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "The book of Joshua confirms Ibleam as one of the cities that, although geographically located within the territories of Issachar and Asher, are administratively assigned to the tribe of Manasseh.",
+      "referencias": [
+        "Josh 17:11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ocozias-herido-ibleam",
+      "titulo": "Ahaziah of Judah is wounded near Ibleam",
+      "fecha": "c. 841 BC",
+      "descripcion": "During Jehu's violent purge against Ahab's house, Ahaziah of Judah, who was visiting Joram of Israel, flees when pursued; Jehu orders him to be wounded in his chariot 'on the rise of Gur, near Ibleam', and Ahaziah manages to flee wounded to Megiddo, where he finally dies.",
+      "referencias": [
+        "2 Kgs 9:27"
+      ],
+      "personajes_clave": [
+        "jehu"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jehu_ibleam",
+      "nombre": "Jehu",
+      "rol": "King of Israel, executor of the purge against the house of Ahab",
+      "periodo": "hierro_2",
+      "descripcion": "He orders Ahaziah of Judah to be wounded in the vicinity of Ibleam during his violent campaign to eliminate the entire dynasty of Ahab and its allies, beginning his own reign through this bloody purge.",
+      "referencias": [
+        "2 Kgs 9:27"
+      ],
+      "ruta": [
+        "jezreel",
+        "ibleam"
+      ]
+    },
+    {
+      "id": "ocozias_juda_ibleam",
+      "nombre": "Ahaziah of Judah",
+      "rol": "King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He is mortally wounded near Ibleam by order of Jehu while fleeing in his chariot, dying shortly after in Megiddo, an episode that marks the end of his brief reign of just one year.",
+      "referencias": [
+        "2 Kgs 9:27",
+        "2 Chr 22:9"
+      ],
+      "ruta": [
+        "ibleam",
+        "taanach"
+      ]
+    },
+    {
+      "id": "manasitas_ibleam_personaje",
+      "nombre": "Clans of Manasseh",
+      "rol": "Ibleam formal beneficiaries",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Tribe to which Ibleam is administratively assigned despite its geographical location in the territory of Issachar, without achieving the complete expulsion of the original Canaanite population.",
+      "referencias": [
+        "Josh 17:11",
+        "Judg 1:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ibleam shares the same pattern of incomplete conquest as other fortified Canaanite cities on the plain, with no mythic development of its own; Its subsequent narrative relevance arises exclusively from the violent episode of Jehu's purge, where it functions as a geographical point of reference for the attack that begins the fulfillment of the prophetic judgment announced against the house of Ahab, also extended to the dynasty of Judah due to its marriage alliance with the house of Omri.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (persistent population)"
+    ],
+    "mitos": [
+      {
+        "id": "purga-jehu-ibleam-contexto",
+        "nombre": "Ibleam as the scene of the fulfillment of the judgment on the house of Ahab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 9:27",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la purga de Jehú como cumplimiento del juicio anunciado por Elías contra la casa de Acab",
+          "descripcion": "Jewish tradition interprets the episode of Ibleam, where Ahaziah is wounded during the persecution of Jehu, as part of the extensive and meticulous fulfillment of the prophetic judgment announced generations earlier by Elijah against the dynasty of Ahab and Jezebel, reaching even the royal house of Judah for its compromising marriage alliance with the idolatrous dynasty of the north.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The extent of divine judgment on the house of Ahab, extended even to his Judah allies, illustrates the consequences of marital and political alliances with idolatrous dynasties.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": "zorah",
+  "nombre": "Zorah",
+  "tipo": "ciudad",
+  "lat": 31.762141,
+  "lng": 34.969319,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Samson's hometown, Danite settlement"
+    }
+  ],
+  "descripcion_geo": "City located on a hill in the Shephelah, on the border between the territory of Dan and Judah, near the valley of Sorek. Elevated position overlooking the Philistine plain, which made it a natural observation point over enemy territory.",
+  "altitud_m": 245,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, somewhat cooler than the coastal plain due to its altitude.",
+  "recursos": [
+    "Elevated observation position over the Philistine plain",
+    "Agricultural lands of the Shephelah",
+    "Proximity to Sorek Valley"
+  ],
+  "importancia_estrategica": "Zorah was one of the starting points of the Danite settlement before the migration of much of the tribe to the north; as Samson's hometown, it functions narratively as the symbolic base of operations of the only judge whose fight against the Philistines is individual and charismatic rather than collective.",
+  "otros_habitantes": [
+    {
+      "id": "danitas_zorah",
+      "nombre": "Tribe by Dan",
+      "descripcion": "Danite families settled in Zorah, including that of Manoah, father of Samson; The expedition of Danite spies that precedes the tribe's migration to Laish, to the north, also departs from Zorah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "judaitas_zorah",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Zorah also appears genealogically linked to Judah clans in the chronicler lists, reflecting the border and shared nature of the area between both tribes.",
+      "religion": "Yahwism",
+      "periodo": "c. 1000–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "anuncio-nacimiento-sanson",
+      "titulo": "Announcement of Samson's birth",
+      "fecha": "c. 1120 BC",
+      "descripcion": "The angel of YHWH appears in Zorah to the barren wife of Manoah and announces the birth of a son who will be a Nazarite from the womb and will begin to liberate Israel from the hand of the Philistines; Manoah later offers a sacrifice and the angel ascends in the flame of the altar.",
+      "referencias": [
+        "Judg 13:2-23"
+      ],
+      "personajes_clave": [
+        "manoa",
+        "sanson"
+      ]
+    },
+    {
+      "id": "espiritu-sanson-zorah",
+      "titulo": "The Spirit of YHWH begins to move on Samson",
+      "fecha": "c. 1105 BC",
+      "descripcion": "The biblical text indicates that between Zorah and Eshtaol, the Spirit of YHWH began to manifest itself on Samson during his youth, marking the beginning of his vocation as judge-liberator.",
+      "referencias": [
+        "Judg 13:24-25"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "sepultura-sanson-zorah",
+      "titulo": "Samson's burial between Zorah and Eshtaol",
+      "fecha": "c. 1070 BC",
+      "descripcion": "After his death in Gaza by demolishing the temple of Dagon, Samson's brothers and family recover his body and bury it in the tomb of his father Manoah, between Zorah and Estaol, closing the narrative cycle in the place of his origin.",
+      "referencias": [
+        "Judg 16:31"
+      ],
+      "personajes_clave": [
+        "sanson",
+        "manoa"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Samson",
+      "rol": "Israel Judge, Nazarite of superhuman strength",
+      "periodo": "hierro_1",
+      "descripcion": "Born in Zorah after the angelic announcement to his mother, Samson was consecrated as a Nazirite before he was born; His entire life cycle—birth, vocation, and final burial—comes to a close in this same city and its surroundings.",
+      "referencias": [
+        "Judg 13:24-25",
+        "Judg 16:31"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah",
+        "gaza"
+      ]
+    },
+    {
+      "id": "manoa",
+      "nombre": "Manoah",
+      "rol": "Father of Samson, Danite of Zorah",
+      "periodo": "c. 1120 BC",
+      "descripcion": "He and his wife receive the angelic announcement of Samson's birth; After a sacrifice in which the angel ascends in the flame, he fears that he has seen God and died, but his wife reassures him with an argument of practicality.",
+      "referencias": [
+        "Judg 13:2-23"
+      ],
+      "ruta": [
+        "zorah"
+      ]
+    },
+    {
+      "id": "esposa_manoa",
+      "nombre": "Wife of Manoah",
+      "rol": "Samson's mother",
+      "periodo": "c. 1120 BC",
+      "descripcion": "Zorah's barren woman to whom the angel of YHWH appears with Nazarite instructions for her unborn child; figure of faith and discernment who calms Manoah after the theophany.",
+      "referencias": [
+        "Judg 13:2-23"
+      ],
+      "ruta": [
+        "zorah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zorah is the point of origin and closure of Samson's cycle, framed by two theophanies of different signs: the angelic announcement of his birth and, in a figurative sense, the final return of his body after a life marked by the tension between Nazarene vocation and personal weakness. The city embodies the Yahwist ideal of the Nazirite as a special consecration, narratively contrasted with Samson's own successive breaches throughout his life.",
+    "religiones_presentes": [
+      "Yahwism (including the institution of the Nazirite)"
+    ],
+    "mitos": [
+      {
+        "id": "anuncio-angelico-zorah",
+        "nombre": "The angelic announcement of the Nazirite in Zorah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 13:2-23",
+          "fuente_secundaria": "Talmud Babilónico, Berajot 6b (sobre la identidad del 'ángel de YHWH')",
+          "descripcion": "Rabbinic tradition discusses at length the nature of the 'angel of YHWH' who appears in Zorah, debating whether it is an actual angel or a prophetic manifestation, and develops Samson's Naziriteship as a paradigmatic—albeit imperfect—case of special consecration.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The story establishes the biblical pattern of the 'birth announced to a barren mother' that will be repeated with other liberators and prophets of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Judg 13:2-23 (lectura tipológica patrística)",
+          "fuente_secundaria": "Padres de la Iglesia que vinculan anuncios angélicos a madres estériles como prefiguración del anuncio a Isabel y a María",
+          "descripcion": "The early patristic tradition reads the announcement in Zorah within a typological chain of births announced by divine messengers to barren or virgin women, culminating in the evangelical accounts of infancy.",
+          "similitudes": "It shares the structure of the angelic announcement to a woman and the special consecration of the child from the womb.",
+          "diferencias": "The final recipient of the Christian typology (the annunciation to Mary) implies virginity, non-sterility, and a universal redemptive purpose as opposed to Samson's local liberation purpose.",
+          "significado_teologico": "The episode of Zorah is integrated into the Christian reading as an Old Testament antecedent to the pattern of the annunciation.",
+          "posible_relacion_cultural": "Shared narrative motif of the birth announced to a sterile woman, present in multiple stories from the biblical corpus common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

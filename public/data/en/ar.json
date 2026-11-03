@@ -1,0 +1,149 @@
+{
+  "id": "ar",
+  "nombre": "Ar",
+  "tipo": "ciudad",
+  "lat": 31.44980942220132,
+  "lng": 35.59395836278803,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Capital of Moab, respected by Israel"
+    }
+  ],
+  "descripcion_geo": "Capital city of Moab, situated along the River Arnon, which the city's name itself ('Ar' means 'city' in some Semitic contexts) appears to designate the kingdom's main urban center. Israel receives explicit divine instructions not to attack her during her passage through the region.",
+  "altitud_m": 600,
+  "clima": "Semi-arid highland — dry, hot summers, cold winters, typical of the Arnon Valley.",
+  "recursos": [
+    "Position next to the Arnon River, natural border with the Amorites",
+    "Administrative and religious capital of Moab"
+  ],
+  "importancia_estrategica": "Ar is notable precisely for being one of the few cities in the region that Israel receives explicit divine order NOT to attack during its pilgrimage, in recognition that the land of Moab had been given by YHWH to the descendants of Lot, establishing a clear ethical limit to the Israelite conquest that distinguishes between territory intended for possession and territory of brother peoples to be respected.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_ar",
+      "nombre": "Moabites",
+      "descripcion": "Original and continuous population of Ar, capital of the kingdom of Moab, descendants of Lot according to biblical genealogy, whose land Israel is instructed to respect.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "Since c. 1900 BC (traditional chronology)"
+    },
+    {
+      "id": "emitas_ar",
+      "nombre": "Emitas (previous inhabitants)",
+      "descripcion": "People of giants who inhabited the region before the Moabites, mentioned in the genealogical account of Deuteronomy about the successive displacement of peoples in the area.",
+      "religion": "Early Canaanite-Transjordan religion",
+      "periodo": "Prior to c. 1900 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "yhwh-prohibe-atacar-ar",
+      "titulo": "YHWH forbids Israel to attack Ar",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Before confronting Sihon, YHWH explicitly instructs Moses not to harass or provoke Moab in battle, as he will not give him his land in possession, 'for I have given it to the sons of Lot for an inheritance', establishing Ar and its territory as a protected area from Israelite conquest.",
+      "referencias": [
+        "Deut 2:9",
+        "Deut 2:18-19"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "emitas-desplazados-ar",
+      "titulo": "The memory of the previous broadcasts in Ar",
+      "fecha": "Genealógico, anterior a c. 1900 BC",
+      "descripcion": "Deuteronomy records that the Moabites had previously displaced the Emites, a large and numerous people compared to the Anakim, in a pattern of succession of peoples that YHWH had permitted in different regions of Transjordan.",
+      "referencias": [
+        "Deut 2:10-11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-oraculo-ar",
+      "titulo": "Isaiah prophesies the nocturnal destruction of Ar",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "Despite the ancient protection granted by YHWH, the oracle of Isaiah against Moab announces that Ar will be devastated and destroyed in a single night, showing that the original territorial respect does not exempt Moab from subsequent divine judgment for its idolatry and arrogance.",
+      "referencias": [
+        "Isa 15:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_ar",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, recipient of the instruction to respect Moab",
+      "periodo": "bronce_tardio",
+      "descripcion": "He receives and transmits to Israel the divine order not to attack Ar or the surrounding Moabite territory, in recognition of the inheritance granted by YHWH to the descendants of Lot.",
+      "referencias": [
+        "Deut 2:9",
+        "Deut 2:18-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lot_descendencia_ar",
+      "nombre": "Offspring of Lot (Moabites)",
+      "rol": "People of Moab, possessors of Ar by divine design",
+      "periodo": "Desde c. 1900 BC (cronología tradicional)",
+      "descripcion": "Genealogically identified as descendants of Lot, nephew of Abraham, their possession of Ar and the surrounding territory is presented as a divine grant prior to the Israelite conquest, establishing a distant kinship link recognized by Mosaic law itself.",
+      "referencias": [
+        "Gen 19:36-37",
+        "Deut 2:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_ar",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He announces the destruction of Ar as part of his extensive oracle of judgment against Moab, confirming that the historical protection granted by YHWH does not equate to permanent immunity from divine judgment for later idolatry.",
+      "referencias": [
+        "Isa 15:1"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ar represents a theologically unique case in the conquest narrative: a city explicitly protected from Israelite aggression by direct divine command, by virtue of the genealogical kinship between Israel and Moab through Lot. This original protection, however, does not translate into permanent immunity, as confirmed by the later prophetic oracles of Isaiah and Jeremiah, which announce the destruction of Ar as a consequence of Moabite idolatry and arrogance developed in the centuries following the conquest.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "proteccion-divina-moab-ar",
+        "nombre": "The divine protection of Moab as the inheritance of Lot's children",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 2:9, 18-19",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el principio de respeto territorial hacia pueblos emparentados con Israel (Moab, Amón, Edom) como expresión de justicia divina universal más allá de la elección específica de Israel",
+          "descripcion": "Jewish tradition develops the principle that YHWH, as sovereign of all nations, also assigns territory and inheritance to peoples not chosen but related to Israel—such as the descendants of Lot in Moab and Ammon, or of Esau in Edom—establishing clear ethical limits on Israelite expansion even in the context of the divinely sanctioned conquest of Canaan.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The ordered respect for Ar demonstrates that the choice of Israel does not imply unlimited right over all territory, but that YHWH as universal God also recognizes and protects the inheritances of other related peoples.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

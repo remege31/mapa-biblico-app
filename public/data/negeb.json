@@ -1,0 +1,156 @@
+{
+  "id": "negeb",
+  "nombre": "Néguev",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 30.3,
+  "lng": 34.2,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 42,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronce medio - Romano"
+    }
+  ],
+  "descripcion_geo": "Región semiárida al sur de Israel, entre el desierto del Sinaí y el mar Muerto. Tierra de patriarcas y ruta de caravanas.",
+  "altitud_m": 400,
+  "clima": "árido-desértico",
+  "recursos": [
+    "pastoreo",
+    "comercio caravanero",
+    "cobre"
+  ],
+  "importancia_estrategica": "Zona de paso entre Egipto y Canaán; tierra de Abraham, Isaac y las primeras comunidades de Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neg_h1",
+      "titulo": "Abraham habita en el Néguev",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Abraham se establece entre Cades y Shur en el Néguev; allí nace Isaac y Agar halla agua en el desierto.",
+      "referencias": [
+        "Gn 20:1",
+        "Gn 21:14"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Agar",
+        "Sara"
+      ]
+    },
+    {
+      "id": "neg_h2",
+      "titulo": "Israel en el desierto del Néguev",
+      "fecha": "ca. 1260-1220 a.C.",
+      "descripcion": "Israel merodea cuarenta años por el Néguev y el Sinaí como castigo por la incredulidad de los espías.",
+      "referencias": [
+        "Nm 13-14"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "neg_h3",
+      "titulo": "Juan el Bautista en el desierto de Judea",
+      "fecha": "ca. 26-29 d.C.",
+      "descripcion": "Juan el Bautista predica en el desierto de Judea (bordes del Néguev): 'Arrepentíos, porque el reino de los cielos se ha acercado'.",
+      "referencias": [
+        "Mt 3:1-4"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neg_p1",
+      "nombre": "Abraham",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Vivió y acampó en el Néguev; allí recibió visitas angelicales y engendró a Isaac.",
+      "referencias": [
+        "Gn 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p2",
+      "nombre": "Caleb",
+      "rol": "Explorador y conquistador",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Único explorador junto a Josué que confió en Dios al reconocer el Néguev; recibió Hebrón como herencia.",
+      "referencias": [
+        "Nm 13:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neg_p3",
+      "nombre": "Juan el Bautista",
+      "rol": "Profeta y precursor",
+      "periodo": "ca. 5 a.C.–29 d.C.",
+      "descripcion": "Vivió y predicó en el desierto de Judea, en los márgenes del Néguev.",
+      "referencias": [
+        "Mt 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El desierto del sur: lugar de prueba, encuentro con Dios y purificación. Los patriarcas lo habitaron; Israel lo recorrió en el éxodo; Juan el Bautista lo usó de tribuna.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "neg_m1",
+        "nombre": "El desierto como lugar de encuentro divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Os 2:14",
+          "fuente_secundaria": "",
+          "descripcion": "El Néguev es tierra de patriarcas y peregrinaje; el desierto es en la Biblia el lugar donde Dios habla al corazón (Os 2:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Néguev es tierra de patriarcas y peregrinaje; el desierto es en la Biblia el lugar donde Dios habla al corazón (Os 2:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Is 40:3",
+          "fuente_secundaria": "",
+          "descripcion": "Juan el Bautista 'prepara el camino del Señor' en el desierto, cumpliendo Is 40:3.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Juan el Bautista 'prepara el camino del Señor' en el desierto, cumpliendo Is 40:3.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam venera a Ibrahim (Abraham) que habitó la región; el desierto es tierra de profetas.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam venera a Ibrahim (Abraham) que habitó la región; el desierto es tierra de profetas.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

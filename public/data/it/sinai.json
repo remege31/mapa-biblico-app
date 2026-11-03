@@ -1,0 +1,281 @@
+{
+  "id": "sinai",
+  "nombre": "Sinai",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 29.5,
+  "lng": 33.8,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 70,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Centro geográfico de la Península del Sinaí — entre el Golfo de Suez (oeste) y el Golfo de Aqaba (este)",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo: Esodo e pellegrinaggio"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Periodo dei Giudici"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Ferro II: rotta commerciale attiva"
+    }
+  ],
+  "descripcion_geo": "Penisola triangolare tra Africa e Asia, compresa tra il Mar Mediterraneo a nord, il Golfo di Suez a ovest e il Golfo di Aqaba a est. Circa 61.000 km². Tre zone distinte: pianura settentrionale (sabbiosa e arida), altopiano centrale di Tih (calcareo, desolato) e massiccio montuoso meridionale (granito, fino a 2637 m nel Jabal Katrina). Il deserto più inospitale tra Egitto e Canaan: l'unico passaggio terrestre tra Africa e Asia.",
+  "altitud_m": "Variabile: dal livello del mare a 2637 m (Jabal Katrina, 'Monte Santa Catalina'). Monte tradizionale Sinai (Jabal Musa): 2285 m.",
+  "clima": "Iperarido: meno di 25 mm di precipitazioni annuali nel sud; qualcosa in più al nord. Temperature estreme: 45°C in estate in pianura, sotto lo zero in vetta in inverno. Notti fredde anche d'estate.",
+  "recursos": [
+    "Rame (miniere di Timna, sfruttate fin dalla prima età del bronzo)",
+    "Turchese (Serabit el-Jadim - miniere di turchese egiziano del Nuovo Regno)",
+    "Manganese",
+    "Rotte commerciali (Arabia-Egitto-Canaan)",
+    "Acqua nelle oasi (Kadesh-Barnea, Elim, Refidim)"
+  ],
+  "importancia_estrategica": "L'unico passaggio terrestre tra Africa e Asia: corridoio obbligato per eserciti e carovane. Regione della rivelazione divina nell'Antico Testamento: l'Sinai è lo spazio della teofania per eccellenza. La sua estrema aridità la rende una “zona di prova”, uno spazio liminale tra la schiavitù (Egitto) e la terra promessa (Canaan).",
+  "otros_habitantes": [
+    {
+      "id": "madianitas",
+      "nombre": "Madianiti",
+      "descripcion": "Popolo nomade semitico delle regioni orientali del Sinai e dell'Arabia nordoccidentale. Mosè viveva tra i madianiti (suo suocero Jethro era un sacerdote madianita). I Madianiti erano commercianti di carovane: la Genesi li menziona mentre vendevano a Giuseppe in Egitto.",
+      "religion": "Politeismo semitico: sembra che Ietro conoscesse Jahvè (Eso 18:1-12)",
+      "periodo": "C. 2000-1000 a.C"
+    },
+    {
+      "id": "amalecitas",
+      "nombre": "Amalechiti",
+      "descripcion": "Popoli nomadi del Negev e del nord Sinai, tradizionali nemici di Israele del deserto. La prima battaglia di Israele dopo l'Esodo fu contro gli Amalechiti a Refidim (Es 17). Simbolo del nemico che attacca il debole e lo sbandato (Dt 25,17-19).",
+      "religion": "Politeismo semitico",
+      "periodo": "C. 1500–1000 a.C"
+    },
+    {
+      "id": "cenitas",
+      "nombre": "Cenitas / Kenitas",
+      "descripcion": "Clan semi-nomade imparentato con i Madianiti. Eterofamiglia di Mosè — Hobab lo Zenita era la guida di Israele nel deserto (Num 10:29-32). Alcuni studiosi li collegano all'origine dello Yahwismo come religione del deserto.",
+      "religion": "Forse yahvista: ipotesi sull'origine kenita dello yahwismo",
+      "periodo": "C. 1500–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "zarza-ardiente",
+      "titulo": "Il roveto ardente — chiamata con Mosè",
+      "fecha": "c. 1280 a.C. (trad.)",
+      "descripcion": "Sul monte Horeb (identificato con Sinai), Jahvè si rivela a Mosè nel roveto che arde senza consumarsi. È la prima teofania esplicita del nome divino: «Io sono colui che sono» (YHWH). L'Sinai come montagna divina si afferma da questo momento come spazio di rivelazione.",
+      "referencias": [
+        "Es 3:1-4:17"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "decalogo",
+      "titulo": "Il Decalogo e l'Alleanza Sinai",
+      "fecha": "c. 1250 a.C. (trad.)",
+      "descripcion": "Mosè riceve le Tavole della Legge sul Monte Sinai. Il Decalogo (Dieci Comandamenti) stabilisce i principi dell'Alleanza tra Jahvè e Israele. Questo momento è il più teologicamente denso dell’intero OT: il punto in cui geografia e rivelazione si fondono.",
+      "referencias": [
+        "Es 19:1-20:21",
+        "Es 24:1-18",
+        "Dt 5:1-22"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "peregrinacion-40-anios",
+      "titulo": "Il pellegrinaggio di 40 anni",
+      "fecha": "c. 1250–1210 a.C. (trad.)",
+      "descripcion": "Israele vaga per 40 anni nel deserto di Sinai prima di entrare in Canaan. Il numero 40 è teologico (intera generazione) piuttosto che cronologico. Il deserto è uno spazio di prova, di lamentela, di manna, di acqua dalla roccia – e di morte della generazione dell’Esodo.",
+      "referencias": [
+        "Nm 14:33-34",
+        "Nm 20:1-13",
+        "Dt 8:1-20"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron",
+        "miriam"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises-sinai",
+      "nombre": "Mosè",
+      "rol": "Ricevitore della Torah - mediatore dell'Alleanza nel Sinai",
+      "periodo": "bronce_tardio",
+      "descripcion": "La sua vita ha tre atti geografici: Egitto (nascita e formazione), Sinai/Midian (rifugio e vocazione), Esodo/Sinai (rivelazione e legislazione). Il Sinai è lo spazio della tua più stretta vicinanza a Dio: «faccia a faccia, come un uomo parla al suo amico» (Es 33,11).",
+      "referencias": [
+        "Es 3:1-4:17",
+        "Es 19:1-20:21",
+        "Es 33:7-23",
+        "Dt 34:1-12"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai",
+        "canaan"
+      ],
+      "viajes": [
+        {
+          "nombre": "Il volo per Midian",
+          "ruta": [
+            "egipto",
+            "madian"
+          ],
+          "referencias": [
+            "Es 2:11-15"
+          ]
+        },
+        {
+          "nombre": "L'Esodo",
+          "ruta": [
+            "egipto",
+            "migdol",
+            "marah",
+            "rephidim",
+            "sinai"
+          ],
+          "referencias": [
+            "Es 12:29-42",
+            "Es 13:17-22",
+            "Es 14:1-31",
+            "Es 19:1-25"
+          ]
+        },
+        {
+          "nombre": "La strada per Canaan",
+          "ruta": [
+            "sinai",
+            "edrei",
+            "heshbon",
+            "nebo"
+          ],
+          "referencias": [
+            "Nm 21:21-35",
+            "Nm 32:1-42",
+            "Dt 34:1-8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elias-sinai",
+      "nombre": "Elia",
+      "rol": "Profeta – pellegrinaggio all'Oreb",
+      "periodo": "hierro_2",
+      "descripcion": "Secoli dopo l'Esodo, Elia fugge sul Monte Horeb (Sinai) alla ricerca di Jahvè in seguito alla sua vittoria contro i profeti di Baal e alla minaccia di Jezebel. Jahvè non si manifesta nel vento, nel terremoto o nel fuoco, ma nella \"voce del sottile silenzio\". L'Sinai come luogo di rinnovamento profetico.",
+      "referencias": [
+        "1 Re 19:1-21"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "beersheba",
+        "sinai"
+      ]
+    },
+    {
+      "id": "miriam",
+      "nombre": "Miriam",
+      "rol": "Profetessa: sorella di Mosè",
+      "periodo": "bronce_tardio",
+      "descripcion": "Mosè e la sorella maggiore di Aarón. Conduce il canto di trionfo dopo aver attraversato il mare (Es 15,20-21). Prima donna chiamata 'profetessa' nell'Antico Testamento. Muore e viene sepolta a Kades (Nm 20,1) — nel deserto di Sinai.",
+      "referencias": [
+        "Es 15:20-21",
+        "Nm 12:1-16",
+        "Nm 20:1"
+      ],
+      "ruta": [
+        "egipto",
+        "sinai"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Sinai è lo spazio della teofania per eccellenza nell'Antico Testamento: il monte dove Dio si rivela, dove viene data la Legge, dove viene suggellata l'Alleanza. La sua estrema aridità non è un caso: il deserto è lo spazio liminale dove Israele impara a dipendere esclusivamente da Jahvè, senza le risorse della civiltà. La tradizione cristiana e l'Islam condividono il riconoscimento della santità dell'Sinai.",
+    "religiones_presentes": [
+      "Yahvismo (rivelazione sul Monte Sinai)",
+      "Culti nomadi semitici (Madianiti, Amaleciti)",
+      "Religione egiziana (miniere di turchese a Serabit - tempio di Hathor)"
+    ],
+    "mitos": [
+      {
+        "id": "teofania-sinai",
+        "nombre": "L'Apocalisse del Monte Sinai",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 19:1-20:21 · Dt 5:1-22",
+          "fuente_secundaria": "Talmud Babilónico, Shabbat 88a — la recepción de la Torá en el Sinaí; el Shabbat como equivalente a todas las mitzvot",
+          "descripcion": "Sinai è il momento in cui Israele riceve la Torah dalla mano di Jahvè. La rivelazione contenuta in Sinai definisce l'identità di Israele come popolo della Legge. Shavuot (Pentecoste ebraica) commemora la ricezione della Torah nel Sinai.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Torah è la manifestazione più diretta della volontà divina. L'Sinai come \"montagna di Dio\" è il punto geografico più alto nella storia sacra di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 19-20 · Gál 4:24-25 · Heb 12:18-24",
+          "fuente_secundaria": "Pablo de Tarso, Gálatas 4:21-31 — alegoría Agar/Sara: el Sinaí representa la Ley que esclaviza frente a la gracia que libera",
+          "descripcion": "L'Sinai rappresenta la Legge che condanna, in contrasto con il Monte Sion che rappresenta la grazia. Paolo utilizza l'allegoria di Sinai (Agar) contro Sion (Sara) per distinguere la Legge dal Vangelo. Lo Spirito di Pentecoste (Atti 2) è il nuovo Sinai.",
+          "diferencias": "Sinai ha una connotazione negativa in Paolo: legge che schiavizza contro grazia che libera.",
+          "similitudes": "L'Sinai come luogo di rivelazione divina; l'incontro con Dio come trasformante.",
+          "significado_teologico": "L'Antica Alleanza (Sinai) contrasta con la Nuova Alleanza (Croce e Pentecoste).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      },
+      {
+        "id": "mana-desierto",
+        "nombre": "Manna nel deserto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 16:1-36 · Nm 11:6-9",
+          "fuente_secundaria": "Midrash Rabbah, Éxodo 25:3-6 — el maná adaptado al deseo de cada israelita; el mérito de Abraham al servir pan genera el maná para sus descendientes",
+          "descripcion": "Jahvè fornisce la manna (pane dal cielo) ogni mattina a Israele nel deserto di Sinai da 40 anni. La manna che cade due volte il venerdì e non appare il sabato stabilisce lo Shabbat. Simbolo della dipendenza totale di Israele da Jahvè.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il deserto come scuola di dipendenza divina: «Non di solo pane vivrà l'uomo» (Dt 8,3). La manna prefigura la provvidenza quotidiana di Dio.",
+          "posible_relacion_cultural": "Alcuni botanici lo identificano con la secrezione zuccherina della tamerice (Tamarix gallica) presente in Sinai."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 16 · Jn 6:31-58 · 1 Cor 10:3",
+          "fuente_secundaria": "Cirilo de Jerusalén, Catequesis Mistagógica IV,5 — el maná como tipo eucarístico; el pan del cielo prefigura el cuerpo de Cristo",
+          "descripcion": "Gesù è presentato come «il pane disceso dal cielo» – la vera manna (Gv 6,35). La manna del deserto è una figura dell'Eucaristia: entrambe sono 'pane dal cielo' che dà la vita. Paolo lo chiama “cibo spirituale” (1 Cor 10,3).",
+          "diferencias": "Il mana fisico sosteneva soltanto la vita biologica; il \"pane della vita\" (Cristo/Eucaristia) sostiene la vita eterna.",
+          "similitudes": "Dono gratuito dal cielo; necessità quotidiana; comunità che lo riceve.",
+          "significado_teologico": "Fondamento della teologia eucaristica: l'Eucaristia come manna del Nuovo Esodo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:57 · Corán 7:160",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Baqara 2:57 — mann wa-salwa como favor divino desaprovechado por los israelitas; ejemplo de ingratitud ante la generosidad de Alá",
+          "descripcion": "Il Corano menziona mann wa-salwa (manna e quaglie) come provvista divina per gli israeliti nel deserto. È uno dei favori di Allah verso i figli di Israele che in seguito furono ingrati.",
+          "diferencias": "Il Corano non sviluppa il significato teologico della manna: è uno dei benefici divini ricordati per contrastare l'ingratitudine israelita.",
+          "similitudes": "Provvedimento divino gratuito nel deserto; cibo dal cielo",
+          "significado_teologico": "Esempio di generosità divina per la quale gli esseri umani possono essere grati o ingrati.",
+          "posible_relacion_cultural": "Tradizione condivisa della manna come dono divino nel deserto."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "subtipo_geo": "Montagna"
+}

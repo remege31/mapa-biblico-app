@@ -1,0 +1,137 @@
+{
+  "id": "amalek",
+  "nombre": "Amalek",
+  "tipo": "territorio",
+  "lat": 30.66,
+  "lng": 34.84,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 49,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -700,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Nomadic desert people of Negev and Sinai, descendants of Esau. Perennial enemy of Israel in the period of the exodus and the judges.",
+  "altitud_m": 500,
+  "clima": "arid-desert",
+  "recursos": [
+    "grazing",
+    "pillage",
+    "caravan trade"
+  ],
+  "importancia_estrategica": "Israel's first enemy in the desert; control of the steps of the Negev and the Sinai.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ama_h1",
+      "titulo": "The first battle at Rephidim",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Amalek attacks Israel fresh from Egypt in Rephidim; Joshua fights while Moses keeps his arms raised.",
+      "referencias": [
+        "Exod 17:8-16"
+      ],
+      "personajes_clave": [
+        "Josué",
+        "Moisés",
+        "Aarón",
+        "Hur"
+      ]
+    },
+    {
+      "id": "ama_h2",
+      "titulo": "Saul disobeys by exterminating Amalek",
+      "fecha": "ca. 1030 BC",
+      "descripcion": "Saul defeats Amalek but spares King Agag and the best of the cattle; Samuel disapproves and breaks up with him.",
+      "referencias": [
+        "1 Sam 15"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel",
+        "Agag"
+      ]
+    },
+    {
+      "id": "ama_h3",
+      "titulo": "David recovers the Amalekite loot",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "While David is at war, Amalekites sack Ziklag; David chases after them and recovers everything they had taken.",
+      "referencias": [
+        "1 Sam 30"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ama_p1",
+      "nombre": "Joshua",
+      "rol": "Israel First General",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "He commanded Israel's first battle in the wilderness against Amalek at Rephidim.",
+      "referencias": [
+        "Exod 17:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p2",
+      "nombre": "Saul",
+      "rol": "First king by Israel",
+      "periodo": "ca. 1030 BC",
+      "descripcion": "His mercy to Agag king of Amalek cost him the kingdom; sign of his disobedience to God.",
+      "referencias": [
+        "1 Sam 15:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ama_p3",
+      "nombre": "Agag",
+      "rol": "King of Amalek",
+      "periodo": "ca. 1030 BC",
+      "descripcion": "Forgiven by Saul but executed by Samuel: 'As your sword left women childless, so will your mother be childless.'",
+      "referencias": [
+        "1 Sam 15:33"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Israel's first adversary in history; symbol of the evil that stalks God's people in the desert. 'War with Amalek from generation to generation' (Ex 17:16).",
+    "religiones_presentes": [
+      "nomadic_paganism"
+    ],
+    "mitos": [
+      {
+        "id": "ama_m1",
+        "nombre": "The eternal enemy",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ex 17:16",
+          "fuente_secundaria": "",
+          "descripcion": "The war with Amalek is declared eternal (Ex 17:16); The rabbis identify it as a symbol of radical evil.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The war with Amalek is declared eternal (Ex 17:16); The rabbis identify it as a symbol of radical evil.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

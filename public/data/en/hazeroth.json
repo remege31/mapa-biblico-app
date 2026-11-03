@@ -1,0 +1,134 @@
+{
+  "id": "hazeroth",
+  "nombre": "Hazeroth",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Israel camp in the Sinai desert, second stop after Mount Sinai. Scene of Miriam's murmuring.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Desert camp where Miriam was struck with leprosy for murmuring against Moses.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "haz_h1",
+      "titulo": "Miriam and Aaron murmur against Moses in Hazerot",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "In Hazerot, Miriam and Aaron criticize Moses for his Cushite wife; Miriam is struck with white leprosy.",
+      "referencias": [
+        "Num 12:1-16"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Aarón",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "haz_h2",
+      "titulo": "Israel camps in Hazerot for seven days",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Israel waits in Hazerot seven days while Miriam is outside the camp because of leprosy; Then he leaves for the Paran desert.",
+      "referencias": [
+        "Num 12:15"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "haz_h3",
+      "titulo": "Hazerot on the itinerary of the exodus",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Hazerot appears on the list of desert stations traveled by Israel from Egypt to Canaan.",
+      "referencias": [
+        "Num 33:17-18"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "haz_p1",
+      "nombre": "Miriam",
+      "rol": "Prophetess",
+      "periodo": "ca. 1320-1250 BC",
+      "descripcion": "She was struck with leprosy in Hazeroth for her murmuring against Moses; restored after seven days.",
+      "referencias": [
+        "Num 12:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p2",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He interceded for Miriam before God in Hazerot: 'O God, heal her now!'",
+      "referencias": [
+        "Num 12:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p3",
+      "nombre": "Aaron",
+      "rol": "High priest",
+      "periodo": "ca. 1280-1220 BC",
+      "descripcion": "He participated in the murmuring but was not punished; He implored Moses to intercede for Miriam.",
+      "referencias": [
+        "Num 12:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hazerot: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "haz_m1",
+        "nombre": "Miriam's leprosy",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Miriam was struck with leprosy for criticizing Moses; His punishment and restoration show that not even those closest to the leader are exempt from divine discipline.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Miriam was struck with leprosy for criticizing Moses; His punishment and restoration show that not even those closest to the leader are exempt from divine discipline.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "ramah",
+  "nombre": "Branch",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8964,
+  "lng": 35.2017,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "City of the tribe of Benjamin located in the hills north of Jerusalem, about 8 km from the capital. Its elevated position on the main route between Jerusalem and Bethel made it a strategic control point for the central territory of Israel. Identified with the current er-Ram.",
+  "altitud_m": 858,
+  "clima": "mountain Mediterranean; dry and warm summers, winters with rain and occasional fog.",
+  "recursos": [
+    "Limestone terrace agriculture",
+    "Olive trees and vineyards",
+    "cattle pasture",
+    "local limestone"
+  ],
+  "importancia_estrategica": "Road junction between Jerusalem and the north of Israel. It was a concentration point for deportees during the Babylonian conquest and the habitual residence of the prophet Samuel, which gave it exceptional religious and political weight.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -1100,
+      "hasta": -1000,
+      "nombre": "Period of the Judges — Samuel in Ramah"
+    },
+    {
+      "desde": -900,
+      "hasta": -586,
+      "nombre": "Divided monarchy — border between Israel and Judah"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas",
+      "nombre": "Benjaminites",
+      "descripcion": "Israelite tribe to which Ramah belonged. Its territory was disputed between the kingdoms of Israel and Judah after the monarchical division.",
+      "religion": "Yahwism",
+      "periodo": "iron_1 — iron_2"
+    },
+    {
+      "id": "cananeos_del_norte",
+      "nombre": "Northern Benjamin Canaanites",
+      "descripcion": "Previous settlers of the central hills who coexisted with Israelite tribes during settlement at Canaan.",
+      "religion": "Canaanite polytheism — worship of Baal and Asherah",
+      "periodo": "late_bronze — iron_1"
+    },
+    {
+      "id": "babilonios_ocupantes",
+      "nombre": "Babylonian administration",
+      "descripcion": "After the destruction of Jerusalem, Ramah was used by General Nebuzaradan as a concentration point for Jewish deportees before their transfer to Babylon.",
+      "religion": "Babylonian polytheism",
+      "periodo": "iron_2"
+    }
+  ],
+  "historias": [
+    {
+      "id": "samuel_en_rama",
+      "titulo": "Samuel judge and prophet in Ramah",
+      "fecha": "c. 1050 BC",
+      "descripcion": "The prophet and judge Samuel established his residence in Ramah, from where he administered justice by traveling an annual circuit that included Bethel, Gilgal and Mizpah. In Ramah he anointed Saul as the first king of Israel and later, after the divine rejection of Saul, he secretly anointed David into Bethlehem. Ramah was also the place of death and burial of Samuel, who held the last great magistracy of Israel there before the monarchy.",
+      "referencias": [
+        "1 Sam 7:17",
+        "1 Sam 8:4-5",
+        "1 Sam 19:18-24",
+        "1 Sam 25:1"
+      ],
+      "personajes_clave": [
+        "samuel"
+      ]
+    },
+    {
+      "id": "baasa_fortifica_rama",
+      "titulo": "Baasa fortifies Ramah against Judah",
+      "fecha": "c. 885 BC",
+      "descripcion": "King Baasha of Israel began the fortification of Ramah to block traffic to the kingdom of Judah. King Asa of Judah responded by bribing King Ben-Hadad of Aram with silver and gold from the temple treasury to attack northern Israel. Ben-Hadad invaded the northern cities, forcing Baasha to abandon Ramah. Asa used the stones from Ramah's works to build his own fortifications at Geba and Mizpah.",
+      "referencias": [
+        "1 Kgs 15:17-22",
+        "2 Chr 16:1-6"
+      ],
+      "personajes_clave": [
+        "baasa",
+        "asa"
+      ]
+    },
+    {
+      "id": "llanto_en_rama",
+      "titulo": "The cry of Ramah: those deported to Babylon",
+      "fecha": "586 BC",
+      "descripcion": "After the fall of Jerusalem, the Babylonian general Nebuzaradan concentrated the Jews destined for exile in Ramah before embarking on the march to Babylon. The prophet Jeremiah, who had been freed from his chains there, watched the scene. His oracle evokes Rachel weeping for her children from the grave: an image that the New Testament would take up for the slaughter of the innocents in Bethlehem.",
+      "referencias": [
+        "Jer 31:15",
+        "Jer 40:1-4"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "samuel",
+      "nombre": "Samuel",
+      "rol": "Prophet, judge and anointer of kings",
+      "periodo": "hierro_1",
+      "descripcion": "Last great judge of Israel and first prophet of the monarchical era. Born in response to his mother Anna's prayer in Shiloh, he was consecrated to the Lord as a child. From Ramah he directed the transition of Israel towards the monarchy, anointing both Saul and David. His burial in Ramah made it a place of pilgrimage.",
+      "referencias": [
+        "1 Sam 1:20",
+        "1 Sam 7:15-17",
+        "1 Sam 25:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "baasa",
+      "nombre": "Baasa",
+      "rol": "King of Israel (north)",
+      "periodo": "c. 900–877 BC",
+      "descripcion": "King of the northern kingdom who tried to control Ramah as a strategic position against Judah. Its trade blockade policy against Judah triggered the Aramaic intervention and the disabling of its defensive project in Ramah.",
+      "referencias": [
+        "1 Kgs 15:16-22",
+        "2 Chr 16:1-6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jeremias",
+      "nombre": "Jeremiah",
+      "rol": "Prophet of the Babylonian exile",
+      "periodo": "hierro_2",
+      "descripcion": "Prophet of Anathoth who lived through the destruction of Jerusalem and was liberated by the Babylonians in Ramah. There he contemplated the concentration of deportees and pronounced the oracle of Rachel crying, an image of national pain that would cross centuries and religious traditions.",
+      "referencias": [
+        "Jer 1:1",
+        "Jer 31:15",
+        "Jer 40:1-6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ramah was the spiritual center of the transition period between the judges and the monarchy thanks to the figure of Samuel. Its function as a prophetic seat and place of judgment made it a reference for pre-monarchical Yahwism. Later, his role in the Babylonian exile gave him a symbolic charge of national mourning that crossed all three Abrahamic traditions.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "raquel_llora_en_rama",
+        "nombre": "Rachel cries for her children in Ramah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 31:15",
+          "fuente_secundaria": "Midrash Rabbah, Lamentaciones, Petijta 24 — Raquel intercede ante Dios por Israel en el exilio, conmoviendo su misericordia más que los patriarcas",
+          "descripcion": "The prophet Jeremiah evokes Rachel, mother of Benjamin and Joseph, crying from her tomb in Ramah for the children of Israel who are going into exile. God responds by promising return.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Raquel's cry is the voice of Israel's motherhood in the face of the pain of exile. Her maternal intercession before God in the Midrash surpasses that of the patriarchs themselves, revealing a theology of compassion.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Matt 2:17-18",
+          "fuente_secundaria": "Orígenes, Commentarii in Matthaeum 2.16 — interpreta el llanto de Ramá como prefiguración del martirio de los inocentes",
+          "descripcion": "The evangelist Matthew cites the oracle of Jeremiah to interpret Herod's slaughter of the innocents in Bethlehem after the birth of Jesus. Ramah becomes a symbol of the pain of the mothers of Israel.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Ramah's pain prefigures the suffering associated with the birth of the Messiah. Jesus comes to the world in the midst of the violence of political power, fulfilling the pattern of the people who cry and are consoled.",
+          "posible_relacion_cultural": "Both traditions share the figure of Rachel as an intercessory mother whose cry mobilizes divine mercy."
+        },
+        "islam": null
+      }
+    ]
+  }
+}

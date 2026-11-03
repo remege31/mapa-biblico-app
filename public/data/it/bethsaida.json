@@ -1,0 +1,151 @@
+{
+  "id": "bethsaida",
+  "nombre": "Betsaida",
+  "tipo": "ciudad",
+  "lat": 32.9027,
+  "lng": 35.6323,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città balneare di Galilea, vicino alla foce del Giordano. Territorio di Erode Filippo.",
+  "altitud_m": -195,
+  "clima": "semiarido",
+  "recursos": [
+    "pesca",
+    "commercio"
+  ],
+  "importancia_estrategica": "Porto di pesca all'estremità nord-orientale del mare di Galilea.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bts_h1",
+        "titulo": "Vocazione di Pietro, Andrés e Felipe",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Gesù chiama i pescatori di Betsaida: Simón, Andrés e Felipe.",
+        "referencias": [
+          "Gv 1:44",
+          "Mt 4:18-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Andrés",
+          "Felipe"
+        ]
+      },
+      {
+        "id": "bts_h2",
+        "titulo": "Moltiplicazione dei pani",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù nutre 5.000 persone vicino a Betsaida.",
+        "referencias": [
+          "Lc 9:10-17"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "bts_h3",
+        "titulo": "Maledizione delle città impenitenti",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù rimprovera Corazin, Betsaida e Cafarnao di non essersi pentite.",
+        "referencias": [
+          "Mt 11:20-24"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bts_p1",
+        "nombre": "Simone Pietro",
+        "rol": "Apostolo e leader",
+        "periodo": "s. I d.C.",
+        "descripcion": "Nato a Betsaida, si stabilì successivamente a Cafarnao.",
+        "referencias": [
+          "Gv 1:44"
+        ],
+        "ruta": [
+          "bethsaida",
+          "capernaum",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "bts_p2",
+        "nombre": "Filippo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Originario di Betsaida, evangelizzò Samaria.",
+        "referencias": [
+          "Gv 1:44"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bts_p3",
+        "nombre": "Andrea",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fratello di Pietro, anche lui di Betsaida.",
+        "referencias": [
+          "Gv 1:44"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città dalla mescolanza ebraica ed ellenistica in riva al mare in Galilea; scena di miracoli evangelistici.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "ellenistico_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "bts_m1",
+          "nombre": "Moltiplicazione dei pani e dei pesci",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù sfama una folla con cinque pani e due pesci, evocando la manna del deserto.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù sfama una folla con cinque pani e due pesci, evocando la manna del deserto.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

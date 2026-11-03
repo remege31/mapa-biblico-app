@@ -1,0 +1,144 @@
+{
+  "id": "sharon",
+  "nombre": "Plain of Sharon",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 32.3,
+  "lng": 34.9,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Iron I - Roman"
+    }
+  ],
+  "descripcion_geo": "Fertile coastal plain between Mount Carmel to the north and Jaffa to the south, famous for its natural beauty.",
+  "altitud_m": 50,
+  "clima": "Mediterranean",
+  "recursos": [
+    "cereals",
+    "flowers",
+    "cattle raising",
+    "wood"
+  ],
+  "importancia_estrategica": "The most fertile plain of Israel; Her proverbial beauty is a symbol of abundance and love in the Song.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sha_h1",
+      "titulo": "The Rose of Sharon in the Song",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "The beloved in the Song of Songs is described as 'the rose of Sharon and the lily of the valley'.",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "sha_h2",
+      "titulo": "The royal flocks at Sharon",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Solomon had Satri the Ishmaelite in charge of the flocks that grazed in Sharon.",
+      "referencias": [
+        "1 Chr 27:29"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "sha_h3",
+      "titulo": "The inhabitants of Sharon convert",
+      "fecha": "ca. 35 AD",
+      "descripcion": "After the healing of Aeneas in Lydda, all the inhabitants of Sharon saw the miracle and converted to the Lord.",
+      "referencias": [
+        "Acts 9:35"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sha_p1",
+      "nombre": "The Shulammite",
+      "rol": "Beloved of Song",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "It is identified as 'the rose of Sharon'; symbol of the perfect beloved.",
+      "referencias": [
+        "Cnt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p2",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "His miraculous ministry in Lydda reached the entire plain of Sharon.",
+      "referencias": [
+        "Acts 9:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sha_p3",
+      "nombre": "Solomon",
+      "rol": "King by Israel",
+      "periodo": "ca. 970-931 BC",
+      "descripcion": "His royal flocks grazed on the fertile plain of Sharon.",
+      "referencias": [
+        "1 Chr 27:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Plain of proverbial beauty; The 'Rose of Sharon' is one of the most evocative poems in the OT; in the NT, scene of coastal evangelization.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "sha_m1",
+        "nombre": "The Rose of Sharon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The rose of Sharon is a symbol of the beloved in the Song and of the people of Israel loved by God.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The rose of Sharon is a symbol of the beloved in the Song and of the people of Israel loved by God.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Fathers of the Church interpret the 'rose of Sharon' as Christ or the Virgin Mary.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Fathers of the Church interpret the 'rose of Sharon' as Christ or the Virgin Mary.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

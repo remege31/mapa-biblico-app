@@ -1,0 +1,146 @@
+{
+  "id": "gennesaret",
+  "nombre": "Genezaret",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 32.8627,
+  "lng": 35.5261,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Fertile pianura costiera a ovest del Mare Galilea, lunga circa 5 km.",
+  "altitud_m": -200,
+  "clima": "caldo-mediterraneo",
+  "recursos": [
+    "agricoltura intensiva",
+    "pesca",
+    "acqua"
+  ],
+  "importancia_estrategica": "Terreno ad alta produttività agricola vicino al mare di Galilea.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gen_h1",
+        "titulo": "Atterraggio dopo aver camminato sull'acqua",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "La barca arriva a Gennesaret dopo che Gesù ha camminato sull'acqua.",
+        "referencias": [
+          "Mt 14:34-36"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "gen_h2",
+        "titulo": "Guarigioni in pianura",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Moltitudini portano malati a Gesù nella piana di Gennesaret.",
+        "referencias": [
+          "Mc 6:53-56"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gen_h3",
+        "titulo": "pesca miracolosa",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Dalla riva di Gennesaret, Gesù ordina a Pietro di gettare le reti.",
+        "referencias": [
+          "Lc 5:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gen_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Guaritore e insegnante",
+        "periodo": "ca. 27-30 d.C.",
+        "descripcion": "Predicò dalle rive del lago Gennesaret.",
+        "referencias": [
+          "Lc 5:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gen_p2",
+        "nombre": "Simone Pietro",
+        "rol": "Pescatore e apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "La sua barca è stata utilizzata come pulpito galleggiante da Gesù.",
+        "referencias": [
+          "Lc 5:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gen_p3",
+        "nombre": "Giacomo figlio di Zebedeo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Pescatore del lago con suo fratello Juan.",
+        "referencias": [
+          "Mc 1:19-20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La fertile sponda del lago fu teatro di vocazione apostolica e di molteplici guarigioni.",
+      "religiones_presentes": [
+        "Ebraismo"
+      ],
+      "mitos": [
+        {
+          "id": "gen_m1",
+          "nombre": "La cattura miracolosa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Pietro obbedisce a Gesù e pesca abbondantemente; Il miracolo inaugura la sua missione apostolica.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Pietro obbedisce a Gesù e pesca abbondantemente; Il miracolo inaugura la sua missione apostolica.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

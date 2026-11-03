@@ -1,0 +1,247 @@
+{
+  "id": "cyrene",
+  "nombre": "Cirene",
+  "tipo": "ciudad",
+  "lat": 32.82,
+  "lng": 21.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -632,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città greca sulla costa della Libia (Nord Africa), con una significativa comunità ebraica nel periodo del NT.",
+  "altitud_m": 622,
+  "clima": "mediterraneo-secco",
+  "recursos": [
+    "ulivi",
+    "cereali",
+    "silfio",
+    "commercio"
+  ],
+  "importancia_estrategica": "Città greca nel Nord Africa; culla di Simone che portò la croce di Gesù.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cir_h1",
+      "titulo": "Simone di Cirene porta la croce di Gesù",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Simone di Cirene, proveniente dalla campagna, è costretto a portare la croce di Gesù sulla via del Calvario.",
+      "referencias": [
+        "Mt 27:32",
+        "Mc 15:21"
+      ],
+      "personajes_clave": [
+        "Simón de Cirene",
+        "Jesús"
+      ]
+    },
+    {
+      "id": "cir_h2",
+      "titulo": "I Cirenei a Pentecoste",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Tra gli ebrei che sono arrivati ​​a Gerusalemme per la Pentecoste ci sono uomini di Cirene che ascoltano il Vangelo.",
+      "referencias": [
+        "At 2:10"
+      ],
+      "personajes_clave": [
+        "cireneos"
+      ]
+    },
+    {
+      "id": "cir_h3",
+      "titulo": "I Cirenei evangelizzano Antiochia",
+      "fecha": "ca. 40-44 d.C.",
+      "descripcion": "Uomini provenienti da Cipro e Cirene sono i primi a predicare il Vangelo ai Greci in Antiochia.",
+      "referencias": [
+        "At 11:20"
+      ],
+      "personajes_clave": [
+        "misioneros cireneos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cir_p1",
+      "nombre": "Simone di Cirene",
+      "rol": "portatore di croce",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Costretto a portare la croce di Gesù; Mark afferma di essere il padre di Alessandro e Rufus.",
+      "referencias": [
+        "Mc 15:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p2",
+      "nombre": "Luccio di Cirene",
+      "rol": "Profeta in Antiochia",
+      "periodo": "s. I d.C.",
+      "descripcion": "Tra i profeti e maestri della chiesa di Antiochia c'era un Lucio di Cirene.",
+      "referencias": [
+        "At 13:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p3",
+      "nombre": "Rossiccio",
+      "rol": "Figlio di Simone di Cirene",
+      "periodo": "s. I d.C.",
+      "descripcion": "Paolo saluta a Roma un Rufo, forse il figlio del Cireneo che portò la croce.",
+      "referencias": [
+        "Rm 16:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Città africana con attiva comunità ebraica; Simone di Cirene è la figura più nota del Nuovo Testamento; I suoi cittadini sono tra i primi evangelizzatori.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "cir_m1",
+        "nombre": "Il portatore della croce",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Lc 9,23",
+          "fuente_secundaria": "",
+          "descripcion": "Simone di Cirene, un gentile dell'Africa, portava la croce di Gesù; figura del discepolo che «prende la sua croce» (Lc 9,23).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Simone di Cirene, un gentile dell'Africa, portava la croce di Gesù; figura del discepolo che «prende la sua croce» (Lc 9,23).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cir_nt_h1",
+        "titulo": "Simone di Cirene e la croce",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Simone, in arrivo dalla campagna per Pasqua, è costretto a portare la croce di Gesù.",
+        "referencias": [
+          "Mt 27:32"
+        ],
+        "personajes_clave": [
+          "Simón de Cirene",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "cir_nt_h2",
+        "titulo": "Cirenei a Pentecoste",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gli ebrei di Cirene erano a Gerusalemme il giorno di Pentecoste e ascoltarono il Vangelo.",
+        "referencias": [
+          "At 2:10"
+        ],
+        "personajes_clave": [
+          "cireneos"
+        ]
+      },
+      {
+        "id": "cir_nt_h3",
+        "titulo": "I Cirenei evangelizzano i Greci",
+        "fecha": "ca. 40-44 d.C.",
+        "descripcion": "Gli uomini di Cirene furono i pionieri nella predicazione ai Greci in Antiochia.",
+        "referencias": [
+          "At 11:20"
+        ],
+        "personajes_clave": [
+          "misioneros cireneos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cir_nt_p1",
+        "nombre": "Simone di Cirene",
+        "rol": "portatore di croce",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Ha portato la croce di Cristo; simbolo del discepolato.",
+        "referencias": [
+          "Mc 15:21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p2",
+        "nombre": "Luccio di Cirene",
+        "rol": "Profeta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Membro della leadership della chiesa Antiochia.",
+        "referencias": [
+          "At 13:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p3",
+        "nombre": "Rossiccio",
+        "rol": "Possibile figlio di Simone",
+        "periodo": "s. I d.C.",
+        "descripcion": "Accolto da Paolo a Roma come 'scelto nel Signore'.",
+        "referencias": [
+          "Rm 16:13"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cirene ha contribuito al Vangelo con Simone (portatore della croce) e con gli evangelizzatori pionieri.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "cir_nt_m1",
+          "nombre": "Il portatore della croce",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Simone di Cirene, proveniente dall'Africa, è l'immagine della sequela forzata che diventa grazia.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Simone di Cirene, proveniente dall'Africa, è l'immagine della sequela forzata che diventa grazia.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

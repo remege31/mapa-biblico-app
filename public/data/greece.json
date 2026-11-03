@@ -1,0 +1,252 @@
+{
+  "id": "greece",
+  "nombre": "Grecia (Helade)",
+  "tipo": "territorio",
+  "lat": 39.07,
+  "lng": 21.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Tierra madre de la civilización occidental; su cultura y lengua (koiné) formaron el mundo del Nuevo Testamento.",
+  "altitud_m": 200,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "filosofía",
+    "arte",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Cuna del pensamiento filosófico, del alfabeto y de la lengua en que fue escrito el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gre_h1",
+      "titulo": "Alejandro extiende el helenismo",
+      "fecha": "336-323 a.C.",
+      "descripcion": "Alejandro Magno conquista el mundo conocido difundiendo la lengua y cultura griega; el koiné griego se convierte en la lengua franca del Mediterráneo.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Alejandro Magno"
+      ]
+    },
+    {
+      "id": "gre_h2",
+      "titulo": "Pablo visita Grecia",
+      "fecha": "ca. 51-52 d.C.",
+      "descripcion": "En su segundo viaje misionero, Pablo visita Atenas y Corinto, las dos grandes ciudades de la Grecia romana.",
+      "referencias": [
+        "Hch 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "gre_h3",
+      "titulo": "Colecta de Grecia para Jerusalén",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Pablo coordina una colecta en las iglesias de Grecia (Macedonia y Acaya) para los pobres de la iglesia de Jerusalén.",
+      "referencias": [
+        "Rom 15:26"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gre_p1",
+      "nombre": "Alejandro Magno",
+      "rol": "Rey de Macedonia y conquistador",
+      "periodo": "356-323 a.C.",
+      "descripcion": "Su conquista helenizó el mundo; el NT fue escrito en griego gracias a su legado.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p2",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Predicó el evangelio en el corazón de la cultura griega.",
+      "referencias": [
+        "Hch 17:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p3",
+      "nombre": "Lucas",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Posiblemente griego de origen; escribió el evangelio y los Hechos en griego literario.",
+      "referencias": [
+        "Lc 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sin Grecia no habría NT: el koiné griego fue el vehículo de la revelación; la filosofía griega el interlocutor del evangelio.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "culto_olimpico",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "gre_m1",
+        "nombre": "La Septuaginta: la Torah en griego",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La traducción de la Torah al griego (Septuaginta, s. III a.C.) fue el primer puente entre el mundo hebreo y el helenístico.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La traducción de la Torah al griego (Septuaginta, s. III a.C.) fue el primer puente entre el mundo hebreo y el helenístico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Jn 1:1",
+          "fuente_secundaria": "",
+          "descripcion": "El NT fue escrito enteramente en griego; el logos joanino dialoga con la filosofía griega (Jn 1:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El NT fue escrito enteramente en griego; el logos joanino dialoga con la filosofía griega (Jn 1:1).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gre_nt_h1",
+        "titulo": "El Evangelio llega a Grecia",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "La visión del macedonio redirige la misión de Pablo hacia Grecia; el evangelio da el salto al corazón de la cultura occidental.",
+        "referencias": [
+          "Hch 16:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h2",
+        "titulo": "Pablo en Atenas: el discurso del Areópago",
+        "fecha": "ca. 51 d.C.",
+        "descripcion": "Pablo confronta la idolatría griega con el monotheismo; cita a poetas griegos para anunciar la resurrección.",
+        "referencias": [
+          "Hch 17:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h3",
+        "titulo": "Las epístolas paulinas en koiné",
+        "fecha": "ca. 50-67 d.C.",
+        "descripcion": "Pablo escribe en griego koiné para iglesias de todo el Imperio; el griego es la lengua universal del evangelio.",
+        "referencias": [
+          "Rom 1:1",
+          "1 Co 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gre_nt_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Predicó el evangelio en Grecia; sus cartas en griego son la base de la teología cristiana.",
+        "referencias": [
+          "Hch 17:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p2",
+        "nombre": "Alejandro Magno",
+        "rol": "Preparador del camino",
+        "periodo": "356-323 a.C.",
+        "descripcion": "Sin su helenización del mundo, el NT no habría tenido lengua universal ni infraestructura cultural.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p3",
+        "nombre": "Apolo",
+        "rol": "Predicador alejandrino",
+        "periodo": "s. I d.C.",
+        "descripcion": "Judío alejandrino, elocuente en las Escrituras griegas; predicó en Acaya.",
+        "referencias": [
+          "Hch 18:24"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Grecia es el molde cultural del NT: su lengua, su filosofía y sus rutas marítimas permitieron la expansión del evangelio.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "gre_nt_m1",
+          "nombre": "El logos y la filosofía griega",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Juan 1:1 usa el concepto filosófico griego del 'logos' para anunciar al Cristo encarnado: el evangelio habla en el idioma de la cultura griega.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Juan 1:1 usa el concepto filosófico griego del 'logos' para anunciar al Cristo encarnado: el evangelio habla en el idioma de la cultura griega.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

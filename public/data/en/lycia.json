@@ -1,0 +1,242 @@
+{
+  "id": "lycia",
+  "nombre": "Lycia",
+  "tipo": "territorio",
+  "lat": 36.64,
+  "lng": 29.98,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Coastal region of southwestern Asia Minor, with cities such as Pátara and Mira. Stopover scenario for Paul's trip to Rome.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyc_h1",
+      "titulo": "Paul in Pátara de Licia: path to Jerusalem",
+      "fecha": "ca. 57 AD",
+      "descripcion": "From Miletus, Paul and his companions arrive at Pátara and change ships to sail towards Phoenicia.",
+      "referencias": [
+        "Acts 21:1"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyc_h2",
+      "titulo": "The change of boat in Mira de Licia",
+      "fecha": "ca. 60 AD",
+      "descripcion": "On Paul's journey to Rome, Centurion Julius transfers in Mira de Licia to an Alexandrian ship bound for Italy.",
+      "referencias": [
+        "Acts 27:5-6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "lyc_h3",
+      "titulo": "Nicholas of Mira: bishop of Lycia",
+      "fecha": "ca. s. IV AD",
+      "descripcion": "Saint Nicholas, bishop of Mira in Lycia, is the patron saint of children and the historical source of the Santa Claus tradition.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Nicolás de Mira"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyc_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He passed through Lycia on two of his trips: towards Jerusalem and towards Rome.",
+      "referencias": [
+        "Acts 21:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p2",
+      "nombre": "Julius the centurion",
+      "rol": "Roman officer",
+      "periodo": "ca. 60 AD",
+      "descripcion": "Responsible for the transfer of Paul to Rome; In Mira he made the decisive transfer.",
+      "referencias": [
+        "Acts 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyc_p3",
+      "nombre": "Nicolas de Mira",
+      "rol": "Bishop",
+      "periodo": "ca. s. IV AD",
+      "descripcion": "Bishop of Mira in Lycia; His generosity became a universal legend.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lycia: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "lyc_m1",
+        "nombre": "Saint Nicholas of Mira",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Bishop Nicholas of Mira (Licia) was so generous with the poor that his memory became the legend of Santa Claus.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bishop Nicholas of Mira (Licia) was so generous with the poor that his memory became the legend of Santa Claus.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyc_h1",
+        "titulo": "Paul in Pátara de Licia: path to Jerusalem",
+        "fecha": "ca. 57 AD",
+        "descripcion": "From Miletus, Paul and his companions arrive at Pátara and change ships to sail towards Phoenicia.",
+        "referencias": [
+          "Acts 21:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyc_h2",
+        "titulo": "The change of boat in Mira de Licia",
+        "fecha": "ca. 60 AD",
+        "descripcion": "On Paul's journey to Rome, Centurion Julius transfers in Mira de Licia to an Alexandrian ship bound for Italy.",
+        "referencias": [
+          "Acts 27:5-6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio"
+        ]
+      },
+      {
+        "id": "lyc_h3",
+        "titulo": "Nicholas of Mira: bishop of Lycia",
+        "fecha": "ca. s. IV AD",
+        "descripcion": "Saint Nicholas, bishop of Mira in Lycia, is the patron saint of children and the historical source of the Santa Claus tradition.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Nicolás de Mira"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyc_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He passed through Lycia on two of his trips: towards Jerusalem and towards Rome.",
+        "referencias": [
+          "Acts 21:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p2",
+        "nombre": "Julius the centurion",
+        "rol": "Roman officer",
+        "periodo": "ca. 60 AD",
+        "descripcion": "Responsible for the transfer of Paul to Rome; In Mira he made the decisive transfer.",
+        "referencias": [
+          "Acts 27:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyc_p3",
+        "nombre": "Nicolas de Mira",
+        "rol": "Bishop",
+        "periodo": "ca. s. IV AD",
+        "descripcion": "Bishop of Mira in Lycia; His generosity became a universal legend.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Lycia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "lyc_m1",
+          "nombre": "Saint Nicholas of Mira",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Bishop Nicholas of Mira (Licia) was so generous with the poor that his memory became the legend of Santa Claus.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Bishop Nicholas of Mira (Licia) was so generous with the poor that his memory became the legend of Santa Claus.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ophir",
+  "nombre": "Ofir",
+  "tipo": "territorio",
+  "lat": 22.0,
+  "lng": 77.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Terra misteriosa d'origine dell'oro più puro della Bibbia; la sua esatta identificazione è incerta (Arabia, India o Africa orientale).",
+  "altitud_m": 500,
+  "clima": "tropicale",
+  "recursos": [
+    "oro",
+    "argento",
+    "legno pregiato",
+    "pietre preziose",
+    "avorio"
+  ],
+  "importancia_estrategica": "Principale fonte d'oro per il Tempio di Salomone; simbolo di ricchezza senza pari nell'Antico Testamento.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ofi_h1",
+      "titulo": "Le flotte Salomone vanno a Ofir",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "Salomone invia una flotta da Ezion-Geber con gli uomini di Hiram da Tiro; Portano da Ofir quattrocentoventi talenti d'oro.",
+      "referencias": [
+        "1 Re 9:26-28"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "ofi_h2",
+      "titulo": "L'oro di Ofir per il Tempio",
+      "fecha": "ca. 960 a.C.",
+      "descripcion": "Davide preparò grandi quantità dell'oro più puro di Ophir per il Tempio che Salomone avrebbe costruito.",
+      "referencias": [
+        "1 Cr 29:4"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "ofi_h3",
+      "titulo": "L'oro di Ofir nei Salmi",
+      "fecha": "ca. 1000-400 a.C.",
+      "descripcion": "Il Salmo 45 usa \"l'oro di Ofir\" come immagine del gioiello più prezioso; Giobbe lo usa come simbolo dell'incomparabile.",
+      "referencias": [
+        "Sal 45:9",
+        "Gb 28:16"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ofi_p1",
+      "nombre": "Salomone",
+      "rol": "Re di Israele",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Organizzò le spedizioni marittime che portarono l'oro da Ofir per il Tempio e il suo palazzo.",
+      "referencias": [
+        "1 Re 9:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p2",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re fenicio in navigazione",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "I suoi marinai guidarono le flotte di Salomone verso Ophir.",
+      "referencias": [
+        "1 Re 9:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ofi_p3",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Riservò grandi quantità di oro da Ofir per il Tempio che non gli era permesso costruire.",
+      "referencias": [
+        "1 Cr 29:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ophir: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ofi_m1",
+        "nombre": "L'oro di Ofir",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "L'«oro di Ofir» è la qualifica biblica dell'oro più puro; La loro terra d'origine resta misteriosa, simbolo dell'insondabile ricchezza di Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'«oro di Ofir» è la qualifica biblica dell'oro più puro; La loro terra d'origine resta misteriosa, simbolo dell'insondabile ricchezza di Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

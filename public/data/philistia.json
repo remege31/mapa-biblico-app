@@ -1,0 +1,136 @@
+{
+  "id": "philistia",
+  "nombre": "Filistea",
+  "tipo": "territorio",
+  "lat": 31.8,
+  "lng": 34.75,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 294,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -586,
+      "nombre": "Hierro I y II"
+    }
+  ],
+  "descripcion_geo": "Franja costera del mediterráneo al suroeste de Canaán; territorio de las cinco ciudades filisteas: Gaza, Asdod, Ascalón, Gat y Ecrón.",
+  "altitud_m": 50,
+  "clima": "mediterráneo",
+  "recursos": [
+    "agricultura",
+    "comercio marítimo",
+    "hierro",
+    "pesca"
+  ],
+  "importancia_estrategica": "Control de la llanura costera y las rutas comerciales entre Egipto y el norte de Canaán.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phi_h1",
+      "titulo": "Sansón y los filisteos",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Sansón, nazireo del Señor, mata a mil filisteos con la quijada de un asno y muere derribando el templo de Dagón en Gaza.",
+      "referencias": [
+        "Jue 13-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "phi_h2",
+      "titulo": "El arca capturada por los filisteos",
+      "fecha": "ca. 1050 a.C.",
+      "descripcion": "Los filisteos capturan el arca de la alianza en Eben-ézer; plagas los obligan a devolverla a Israel.",
+      "referencias": [
+        "1 Sam 4-6"
+      ],
+      "personajes_clave": [
+        "Elí",
+        "sacerdotes filisteos"
+      ]
+    },
+    {
+      "id": "phi_h3",
+      "titulo": "David y Goliat",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "El joven David mata al gigante filisteo Goliat con una honda y piedra; Israel derrota al ejército filisteo.",
+      "referencias": [
+        "1 Sam 17"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phi_p1",
+      "nombre": "Goliat",
+      "rol": "Campeón filisteo",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Guerrero gigante de Gat; muerto por David con una honda.",
+      "referencias": [
+        "1 Sam 17:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p2",
+      "nombre": "Dalila",
+      "rol": "Mujer filistea",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Descubrió el secreto de la fuerza de Sansón y lo entregó a los filisteos.",
+      "referencias": [
+        "Jue 16:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p3",
+      "nombre": "Aquis",
+      "rol": "Rey filisteo de Gat",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Dio refugio a David cuando huía de Saúl.",
+      "referencias": [
+        "1 Sam 21:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pueblo guerrero con culto a Dagón y Baal-Zebub; enemigos por excelencia de Israel en la época de los jueces y la monarquía.",
+    "religiones_presentes": [
+      "paganismo_filisteo"
+    ],
+    "mitos": [
+      {
+        "id": "phi_m1",
+        "nombre": "Dagón y el arca",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 5:1-4",
+          "fuente_secundaria": "",
+          "descripcion": "Cuando el arca llegó al templo de Dagón en Asdod, la estatua del dios amaneció derribada ante el arca (1 Sam 5:1-4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Cuando el arca llegó al templo de Dagón en Asdod, la estatua del dios amaneció derribada ante el arca (1 Sam 5:1-4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

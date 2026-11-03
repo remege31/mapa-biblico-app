@@ -1,0 +1,190 @@
+{
+  "id": "ammon",
+  "nombre": "Ammon",
+  "tipo": "ciudad",
+  "lat": 31.9539,
+  "lng": 35.9106,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 42,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Ammonite Kingdom established"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Rival kingdom of Israel and Judah"
+    }
+  ],
+  "descripcion_geo": "Ammon (today Amman, capital of Jordan) sat in the highlands of Transjordan, east of the Jordan River, at the headwaters of the Jabbok River. The city of Rabba (Rabbat-Ammon, the great city of Ammon) was the capital of the Ammonite kingdom. Located at about 800 meters above sea level on the Transjordan plateau, it controlled the caravan routes between Arabia and northern Syria.",
+  "altitud_m": 800,
+  "clima": "Continental Mediterranean — drier than the West Bank. Precipitation of 300-400 mm annually, cold winters, hot and dry summers. The plateau is fertile in areas irrigated by the tributaries of the Jabbok.",
+  "recursos": [
+    "Agricultural land on the plateau (cereals, olive trees)",
+    "cattle pasture",
+    "Caravan routes (trade between Arabia and Syria)",
+    "Iron (mineral resources in the Transjordan region)"
+  ],
+  "importancia_estrategica": "Capital of the Ammonite kingdom, one of the Transjordanian states most persistent in its resistance to Israel. Rabba of the Ammonites is the city that Joab besieged while David remained in Jerusalem—the context of David's sin with Bathsheba. Its position on the caravan routes gave it independent commercial importance.",
+  "otros_habitantes": [
+    {
+      "id": "amonitas",
+      "nombre": "Ammonites",
+      "descripcion": "The Ammonites are presented in the OT as descendants of Ben-Ami, son of Lot and his youngest daughter (Gen 19:38), which makes them distant relatives of Israel. Like the Moabites, they were excluded from YHWH's assembly until the tenth generation (Deut 23:3). However, the figure of Naamah the Ammonite—mother of Rehoboam—and the presence of ammonites in the court of Solomon complicate this theoretical exclusion.",
+      "religion": "Ammonite polytheism — cult of Molech (or Milcom), national god to whom child sacrifices were attributed",
+      "periodo": "c. 1200–586 BC"
+    },
+    {
+      "id": "naama-salomon",
+      "nombre": "Naamah the Ammonite and foreign wives by Solomon",
+      "descripcion": "Solomon had wives from neighboring peoples, including the Ammonites. Naamah the Ammonite was the mother of Rehoboam, Solomon's successor (1 Kings 14:21). Their presence in the royal lineage of Judah—just as Ruth the Moabite did in that of David—demonstrates that the theoretical exclusion of the Ammonites was not absolute in practice. Solomon built a sanctuary for Milcom (Ammonite god) on the Mount of Olives (1 Kgs 11:7), which Josiah destroyed (2 Kgs 23:13).",
+      "religion": "Solomonic syncretism — cult of Milcom in Jerusalem along with the gods of other foreign wives",
+      "periodo": "c. 970–930 BC"
+    },
+    {
+      "id": "tobias-ammonita",
+      "nombre": "Tobias the Ammonite",
+      "descripcion": "Tobit the Ammonite servant was one of Nehemiah's main opponents in the rebuilding of the Jerusalem wall. Together with Sanballat and Geshem, he conspired against Nehemiah, attempted to intimidate him, and undermined the project with mockery and intrigue. The presence of an ammonite with influence in Jerusalem in the post-exilic period reflects the complexity of interethnic relations in the region.",
+      "religion": "Post-exilic syncretism — connections with the temple of Jerusalem despite political hostility",
+      "periodo": "c. 445 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jefte-ammonitas",
+      "titulo": "Jephthah and the tragic vow: the victory over Ammon and its price",
+      "fecha": "c. 1100 BC",
+      "descripcion": "When the Ammonites oppressed Israel in Transjordan, the elders of Gilead summoned Jephthah, the son of a harlot banished by his brothers, to lead them. Jephthah negotiated his rehabilitation and marched against the Ammonites. Before the battle, he made a vow to YHWH: the first thing he left his house when he returned victorious would be for YHWH. He defeated the Ammonites with a devastating defeat. When he returned, his only daughter came out to welcome him with tambourines and dances. Jephthah fulfilled his vow. Tradition does not specify exactly what this meant but the most natural reading is the sacrifice of the young woman. Her daughter asked for two months to mourn her virginity with her friends in the mountains.",
+      "referencias": [
+        "Judg 11:1-40"
+      ],
+      "personajes_clave": [
+        "jefte"
+      ]
+    },
+    {
+      "id": "david-rabbah",
+      "titulo": "The siege of Rabba and the sin of David: Bathsheba and Uriah",
+      "fecha": "c. 990 BC",
+      "descripcion": "In the spring, when the kings go out on campaign, David sent Joab to besiege Rabbah of the Ammonites while he remained in Jerusalem. From his terrace he saw Bathsheba, wife of Uriah the Hittite, one of his best warriors on the front, bathing. He called her, slept with her and when she became pregnant, he tried to hide it by summoning Uriah from the front. Uriah refused to sleep at home while his companions were on campaign. David sent him back with a letter to Joab: Put Uriah in the thick of the battle and withdraw from him so that he may be wounded and die. Uriah died. The prophet Nathan confronted David with the parable of the little sheep: You are that man. The episode is the most morally disturbing in the Davidic narrative.",
+      "referencias": [
+        "2 Sam 11:1-27",
+        "2 Sam 12:1-25"
+      ],
+      "personajes_clave": [
+        "david",
+        "natan"
+      ]
+    },
+    {
+      "id": "naamah-nehemias",
+      "titulo": "Nehemiah against the Ammonites: the reconstruction of the wall",
+      "fecha": "c. 445 BC",
+      "descripcion": "When Nehemiah returned to Jerusalem to rebuild the wall, he encountered coordinated opposition from Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arab. Tactics included ridicule—Will stones rise from the piles of rubble?—the threat of military attack, calling for trap negotiations, and bribing prophets to intimidate Nehemiah. He responded pragmatically: the builders worked with one hand and held a spear with the other. The wall was completed in 52 days.",
+      "referencias": [
+        "Neh 2:19-20",
+        "Neh 4:1-23",
+        "Neh 6:1-19"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jefte",
+      "nombre": "Jephthah the Gileadite",
+      "rol": "Judge-warrior, victor of Ammon",
+      "periodo": "c. 1100 BC",
+      "descripcion": "The son of a man named Gilead and a prostitute, Jephthah was expelled from the family inheritance by his brothers. He lived as a leader of a gang of outcasts. When the Ammonites threatened Israel, his brothers summoned him as a military commander. Jephthah negotiated formal rehabilitation before agreeing. His victory over the Ammonites was decisive, but his hasty vote made him one of the most tragic figures in the book of Judges. The moral ambiguity of his story—was voting mandatory? Did he literally fulfill it?—has generated centuries of debate.",
+      "referencias": [
+        "Judg 11:1-40",
+        "Judg 12:1-7",
+        "Heb 11:32"
+      ],
+      "ruta": [
+        "ammon"
+      ]
+    },
+    {
+      "id": "david-ammon",
+      "nombre": "David",
+      "rol": "King who besieged Rabba while he fell into sin",
+      "periodo": "hierro_2",
+      "descripcion": "The campaign against Ammon was the context for David's gravest sin: adultery with Bathsheba and the indirect murder of Uriah. The irony is heavy: while Joab was besieging the Ammonite capital in the king's name, the king was using his power to destroy one of his greatest warriors. The episode marks the beginning of dynastic decline: sword, incest, rebellion. The prophet Nathan confronted him with a parable that David himself condemned before acknowledging that it was about him.",
+      "referencias": [
+        "2 Sam 10:1-19",
+        "2 Sam 11:1-27",
+        "2 Sam 12:1-31"
+      ],
+      "ruta": [
+        "jerusalen",
+        "hebron",
+        "ammon"
+      ]
+    },
+    {
+      "id": "nehemias",
+      "nombre": "Nehemiah ben Hakalya",
+      "rol": "Cupbearer to the Persian king, rebuilder of the wall by Jerusalem",
+      "periodo": "post_exilio",
+      "descripcion": "Cupbearer to the Persian king Artaxerxes I, Nehemiah obtained permission to rebuild the wall of Jerusalem after learning of its ruinous state. He organized reconstruction by family sections, coordinated defense against external threats and reformed internal social practices (usury, mixed marriages). His opponent Tobit the Ammonite represented exactly what Nehemiah wanted to avoid: foreign infiltration into the reconstituted community.",
+      "referencias": [
+        "Neh 1:1-11",
+        "Neh 2:1-20",
+        "Neh 4:1-23",
+        "Neh 13:1-31"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ammon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ammon is the transjordanian neighbor who embodies the ambivalence of Israel's relations with sister peoples. Relative of Israel according to Lot's genealogy, permanent rival on the battlefield, excluded from the assembly by the Deuteronomist law but present in the royal lineage through Naamah, mother of Rehoboam. The Ammonite god Milcom, to whom child sacrifices were attributed, received a sanctuary in Jerusalem from Solomon—the ultimate sin of royal syncretism. The opposition of Tobias the Ammonite to Nehemiah is the last chapter of this ambivalent relationship.",
+    "religiones_presentes": [
+      "Ammonite polytheism — cult of Milcom (Moloch)",
+      "Yahwism by Israel (in permanent tension with the Ammonite cult)",
+      "Solomonic syncretism (Milcom temple in Jerusalem)"
+    ],
+    "mitos": [
+      {
+        "id": "moloc-sacrificio",
+        "nombre": "Milcom / Moloch: the god to whom children were offered",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Levítico 18:21; 20:2-5; 1 Reyes 11:7; 2 Reyes 23:10",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 64a; Midrash Vayikra Rabbah 20",
+          "descripcion": "The prohibition of making children pass through the fire for Molech is one of the most emphatic in the Torah. The Talmud debates the exact nature of the rite: was it an actual sacrifice or a purification by fire without death? The Tophet in the Valley of Hinnom (Gehenna) was the place where these rites were performed in Judah. Josiah desecrated the Tophet to make it impassable.",
+          "similitudes": "The sacrifice of children as a supreme offering has parallels in Phoenician cultures (tophet of Carthage) confirmed archaeologically.",
+          "diferencias": "Modern academic debate questions whether the infant remains in the Carthaginian tophet are sacrifices or cemeteries of children who died of natural causes.",
+          "significado_teologico": "The prohibition of Molech defines the border between Yahwism and the surrounding paganism: YHWH never demands the life of children, but rather their consecration in life.",
+          "posible_relacion_cultural": "The tophet of Carthage, a Phoenician colony, is the closest archaeological parallel; Phoenician inscriptions of mlk as a sacrificial term support the Moloch-Milcom identification."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Levítico 18:21; Hechos 7:43 (cita de Amós 5:26)",
+          "fuente_secundaria": "Agustín, Ciudad de Dios VII.19; Tertuliano, Apologético 9",
+          "descripcion": "The New Testament quotes Amos 5:26 about Molech in Stephen's speech (Acts 7:43). The Church Fathers used the cult of Molech as an extreme example of pagan degradation, contrasting it with the God who provided a substitute lamb for Abraham (Gen 22). The Valley of Hinnom (Gehenna) became the name for hell in Christian tradition.",
+          "similitudes": "The sacrifice of children as a paradigm of the ultimate evil is shared.",
+          "diferencias": "The Christian emphasis falls on the contrast with divine providence (the lamb instead of Isaac), not on cultic legislation.",
+          "significado_teologico": "Gehenna, the place of Molech's fire in the Valley of Hinnom, becomes the image of eternal punishment.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

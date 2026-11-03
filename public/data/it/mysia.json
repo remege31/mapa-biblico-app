@@ -1,0 +1,244 @@
+{
+  "id": "mysia",
+  "nombre": "Misia",
+  "tipo": "territorio",
+  "lat": 40.11,
+  "lng": 28.57,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione nordoccidentale dell'Asia Minore; include Troas (Troas), dove Paolo aveva la visione del macedone.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mys_h1",
+      "titulo": "Paolo attraversa la Misia e scende a Troade",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Attraversando la Misia, Paolo e i suoi compagni scendono a Troade dove riceveranno la visione del Macedone.",
+      "referencias": [
+        "At 16:7-8"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "mys_h2",
+      "titulo": "Troade: porto della Misia e passaggio verso l'Europa",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Da Troad (una città costiera della Misia), Paolo salpa per la Macedonia in risposta alla visione notturna.",
+      "referencias": [
+        "At 16:8-11"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Lucas"
+      ]
+    },
+    {
+      "id": "mys_h3",
+      "titulo": "Paolo incontra i discepoli a Troade",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Nel terzo viaggio, Paolo trascorre una settimana a Troade of Mysia; Lì resuscita Eutico che si addormentò.",
+      "referencias": [
+        "At 20:6-12"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Eutico"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mys_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Attraversò la Misia diretto a Troade e vide la visione del Macedone.",
+      "referencias": [
+        "At 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p2",
+      "nombre": "Luca",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Forse si è unito a Paolo a Troade of Mysia; il “noi” degli Atti comincia qui.",
+      "referencias": [
+        "At 16:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p3",
+      "nombre": "Eutico",
+      "rol": "Giovane di Troade",
+      "periodo": "s. I d.C.",
+      "descripcion": "Si è addormentato alla finestra durante il lungo discorso di Paolo; Paolo lo ha resuscitato.",
+      "referencias": [
+        "At 20:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Misia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "mys_m1",
+        "nombre": "Troade: la traversata dall'Asia all'Europa",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La visione del Macedone nella Troade della Misia fu il momento decisivo in cui il Vangelo passò dall'Asia all'Europa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La visione del Macedone nella Troade della Misia fu il momento decisivo in cui il Vangelo passò dall'Asia all'Europa.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mys_h1",
+        "titulo": "Paolo attraversa la Misia e scende a Troade",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Attraversando la Misia, Paolo e i suoi compagni scendono a Troade dove riceveranno la visione del Macedone.",
+        "referencias": [
+          "At 16:7-8"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mys_h2",
+        "titulo": "Troade: porto della Misia e passaggio verso l'Europa",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Da Troad (una città costiera della Misia), Paolo salpa per la Macedonia in risposta alla visione notturna.",
+        "referencias": [
+          "At 16:8-11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "mys_h3",
+        "titulo": "Paolo incontra i discepoli a Troade",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Nel terzo viaggio, Paolo trascorre una settimana a Troade of Mysia; Lì resuscita Eutico che si addormentò.",
+        "referencias": [
+          "At 20:6-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Eutico"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mys_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Attraversò la Misia diretto a Troade e vide la visione del Macedone.",
+        "referencias": [
+          "At 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p2",
+        "nombre": "Luca",
+        "rol": "Evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Forse si è unito a Paolo a Troade of Mysia; il “noi” degli Atti comincia qui.",
+        "referencias": [
+          "At 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p3",
+        "nombre": "Eutico",
+        "rol": "Giovane di Troade",
+        "periodo": "s. I d.C.",
+        "descripcion": "Si è addormentato alla finestra durante il lungo discorso di Paolo; Paolo lo ha resuscitato.",
+        "referencias": [
+          "At 20:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Misia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "mys_m1",
+          "nombre": "Troade: la traversata dall'Asia all'Europa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La visione del Macedone nella Troade della Misia fu il momento decisivo in cui il Vangelo passò dall'Asia all'Europa.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La visione del Macedone nella Troade della Misia fu il momento decisivo in cui il Vangelo passò dall'Asia all'Europa.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

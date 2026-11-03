@@ -1,0 +1,179 @@
+{
+  "id": "dan",
+  "nombre": "Dan",
+  "tipo": "ciudad",
+  "lat": 33.2468,
+  "lng": 35.6516,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 51,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Dan Tribe Settlement"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Royal Sanctuary of the Northern Kingdom"
+    }
+  ],
+  "descripcion_geo": "Dan (Tel Dan, north of Israel) sits at the northern edge of Israel land, at the confluence of several tributaries of the Jordan River, at the foot of Mount Hermon. The biblical expression from Dan to Beersheba defines the north-south limits of the Israelite territory. The Dan archaeological tell (Tel el-Qadi) is one of the richest in Israel, with occupation since the Neolithic.",
+  "altitud_m": 220,
+  "clima": "Mediterranean with mountainous influence — wetter than the rest of Israel (800-1000 mm annually). The sources of the Jordan create a cool and fertile microclimate, with abundant vegetation.",
+  "recursos": [
+    "Water (sources of the Jordan, the most abundant in the region)",
+    "Fertile agricultural land (watered by the tributaries of the Hermon)",
+    "Oak forests and other trees",
+    "Trade routes to the north (Syria, Phoenicia)"
+  ],
+  "importancia_estrategica": "Northernmost point of Israel, with strategic value as a northern gateway facing Syria and Phoenicia. The sanctuary of Dan, established by Jeroboam I with a golden calf, turned the city into an alternative religious center to Jerusalem for the northern kingdom. The Aramaic inscription found in Tel Dan (9th century BC) is the first extra-biblical mention of the House of David.",
+  "otros_habitantes": [
+    {
+      "id": "layis-cananeos",
+      "nombre": "Inhabitants of Layis",
+      "descripcion": "Before the Danite conquest, the city was called Layis. Its inhabitants are described as calm and confident, living according to the custom of the Sidonians and without relation to the Arameans. The Danite spies found them unprepared and vulnerable. The city was conquered, burned, and rebuilt as Dan.",
+      "religion": "Canaanite-Phoenician polytheism — Sidonian influence",
+      "periodo": "Prior to c. 1150 BC"
+    },
+    {
+      "id": "tribu-dan",
+      "nombre": "Tribe by Dan",
+      "descripcion": "Dan's tribe, unable to conquer their allotted territory on the coastal plain (facing the Philistines), sent spies north, found Layis unprotected, and conquered it with 600 warriors. They established their sanctuary there with a cast idol and a mercenary priest from the family of Moses. Dan became the oldest tribal sanctuary in the north.",
+      "religion": "Yahwism syncretistic — foundry image in tribal shrine",
+      "periodo": "c. 1150–930 BC"
+    },
+    {
+      "id": "sacerdotes-jeroboam",
+      "nombre": "Priests of the Golden Calf by Dan",
+      "descripcion": "Jeroboam I installed one of the two golden calves at Dan (the other at Bethel) and established a non-Levitical clergy to serve them. Dan and Bethel became the two official shrines of the Northern Kingdom, competing with the Temple of Jerusalem. The southern prophets condemned both sanctuaries, but Dan maintained its role until the fall of Samaria (722 BC).",
+      "religion": "Yahwism official syncretist — golden calf as a representation of YHWH",
+      "periodo": "c. 930–722 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-dan",
+      "titulo": "The conquest of Layis: the landless tribe seeks a home",
+      "fecha": "c. 1150 BC",
+      "descripcion": "The Dan tribe, pressured by the Philistines in their coastal territory, sent five spies north. On their journey they passed by the house of Micah in Ephraim, where there was a mercenary priest and a cast idol. The spies arrived at Layis, an unprotected city without military alliances. On their return, they convinced the tribe to emigrate: 600 warriors with their families left for the north. On the way they stole the idol of Micah and convinced their priest to accompany them. They conquered Layis, burned it, built their city and established their sanctuary.",
+      "referencias": [
+        "Judg 17:1-13",
+        "Judg 18:1-31"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jeroboam-dan",
+      "titulo": "The Golden Calf of Dan: The Second Sanctuary of the Northern Kingdom",
+      "fecha": "c. 930 BC",
+      "descripcion": "Jeroboam I, to consolidate the Northern Kingdom independent of Jerusalem, established two cult centers: one in Bethel (southern of the kingdom) and another in Dan (north). On each one he installed a golden calf with the words: Here are your gods, Israel, the ones who brought you out of Egypt. Dan, further away from Jerusalem, also had the legitimacy of the ancient tribal sanctuary. Southern prophets condemned both centers as apostasy, but for the northern kingdom they were symbols of independent national and religious identity.",
+      "referencias": [
+        "1 Kgs 12:26-33",
+        "Amos 8:14"
+      ],
+      "personajes_clave": [
+        "jeroboam"
+      ]
+    },
+    {
+      "id": "inscripcion-dan",
+      "titulo": "The Stele of Dan: the first mention of the House of David",
+      "fecha": "c. 840 BC",
+      "descripcion": "In 1993-94, Israeli archaeologists found fragments of an Aramaic inscription from the 9th century BC at Tel Dan. which mentions the House of David (in Aramaic: Beit David). It is the first extrabiblical mention of David outside the Bible. The inscription was probably engraved by Hazael of Damascus to commemorate a victory over Israel and Judah. The find confirmed the historicity of the Davidic dynasty and generated considerable academic debate.",
+      "referencias": [
+        "2 Kgs 8:7-15",
+        "2 Kgs 10:32-33"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeroboam-dan-pj",
+      "nombre": "Jeroboam I",
+      "rol": "Founder of the Royal Shrine of Dan",
+      "periodo": "hierro_2",
+      "descripcion": "Dividing the kingdom after the death of Solomon, Jeroboam I needed cult centers that competed with the Temple of Jerusalem to prevent his people from pilgrimage to the south. Dan and Bethel were their choices: Dan for its seniority as a tribal sanctuary, Bethel for its geographic centrality. His decision was condemned by all biblical historians but was coherent from a political point of view.",
+      "referencias": [
+        "1 Kgs 11:26-40",
+        "1 Kgs 12:20-33"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "dan"
+      ]
+    },
+    {
+      "id": "espias-dan",
+      "nombre": "The five spies of Dan",
+      "rol": "Explorers who found the new territory of Dan",
+      "periodo": "c. 1150 BC",
+      "descripcion": "The five spies of the Dan tribe represent the independent tribal initiative in the period of the judges, when there was no king in Israel and each one did what seemed right to him. His discovery of Layis and his positive report—the land is excellent—led to mass tribal emigration. On their way they stole idols and a priest, establishing the pattern of the Danite sanctuary before the monarchy.",
+      "referencias": [
+        "Judg 18:1-20"
+      ],
+      "ruta": [
+        "dan"
+      ]
+    },
+    {
+      "id": "hazael-dan",
+      "nombre": "Hazael by Damascus",
+      "rol": "Aramaic king who attacked Dan and Israel",
+      "periodo": "hierro_2",
+      "descripcion": "Anointed king of Damascus by Elisha (2 Kgs 8:13), Hazael was the most devastating enemy Israel met in the 9th century BC. He conquered Transjordanian territories, attacked Gath and threatened Jerusalem. The Dan inscription would have been erected by him or his successor to commemorate victories over Israel and Judah. When Elisha anointed him, he wept in anticipation of the evil he would cause.",
+      "referencias": [
+        "1 Kgs 19:15",
+        "2 Kgs 8:7-15",
+        "2 Kgs 10:32-33",
+        "2 Kgs 12:17-18"
+      ],
+      "ruta": [
+        "damascus",
+        "dan",
+        "samaria"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dan marks the northern boundary of the biblical Israelite world. Its sanctuary, established first by the tribe of Dan with a stolen idol and then by Jeroboam with the golden calf, is the symbol of the unauthorized cult, parallel and in tension with the Temple of Jerusalem. The discovery of the House of David inscription at Tel Dan transformed biblical archaeology: for the first time, a non-biblical epigraphic text confirmed the existence of the Davidic dynasty in the 9th century BC.",
+    "religiones_presentes": [
+      "Yahwism tribal syncretist (Micah sanctuary, later tribe of Dan)",
+      "Yahwism official syncretist (golden calf of Jeroboam)",
+      "Canaanite-Phoenician polytheism (pre-conquest Layis)"
+    ],
+    "mitos": [
+      {
+        "id": "becerro-norte",
+        "nombre": "The golden calf as a symbol of schism",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Reyes 12:28-30; Éxodo 32:1-6",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 102a; Midrash Shemot Rabbah 42",
+          "descripcion": "The Talmud links the golden calf of the desert (Ex 32) with Jeroboam's calves, suggesting that Jeroboam deliberately copied the sin of the Sinai. The presentation formula is identical: This is your God who brought you out of Egypt. Medieval commentators debated whether the calf was a representation of YHWH or another god.",
+          "similitudes": "The calf as a plastic representation of divinity has parallels in the sacred bull of El in Ugarit and in the Egyptian Apis.",
+          "diferencias": "The prophetic condemnation of the Dan calf is more insistent than that of the Bethel calf, perhaps because Dan was more influenced by Phoenician culture.",
+          "significado_teologico": "The prohibition of images (Ex 20:4) is not only theological but political: the cult centralized in Jerusalem was the mechanism of cohesion of the state. Image is always also a political factor.",
+          "posible_relacion_cultural": "The sacred bull (Apis) of the Bajo Egypt and the bull of El in Ugaritic mythology are the direct iconographic parallels of the biblical golden calf."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

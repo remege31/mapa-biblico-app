@@ -1,0 +1,248 @@
+{
+  "id": "lycaonia",
+  "nombre": "Licaonia",
+  "tipo": "territorio",
+  "lat": 37.9,
+  "lng": 33.48,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione interna dell'Asia Minore tra Pisidia e Cappadocia. Principali città: Listra, Iconio e Derbe.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyca_h1",
+      "titulo": "Paolo e Barnaba adoravano come dei a Listra",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Dopo aver guarito uno zoppo a Listra, i Licaoni credono di essere Zeus ed Hermes; Paolo si strappa i vestiti per dissuaderli.",
+      "referencias": [
+        "At 14:8-18"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "lyca_h2",
+      "titulo": "Paolo lapidato a Listra",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Gli ebrei di Antiochia e Iconio convincono i Licaoni; Paolo viene lapidato e trascinato fuori città.",
+      "referencias": [
+        "At 14:19-20"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyca_h3",
+      "titulo": "Timoteo figlio di Listra di Licaonia",
+      "fecha": "ca. 47 d.C.",
+      "descripcion": "Timoteo, discepolo di Paolo, nacque a Listra di Licaonia; Sua madre Eunice e la nonna Loida gli avevano trasmesso la fede.",
+      "referencias": [
+        "At 16:1",
+        "2 Tm 1:5"
+      ],
+      "personajes_clave": [
+        "Timoteo",
+        "Eunice",
+        "Loida"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyca_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fu venerato come un dio e poi lapidato a Listra di Licaonia; il massimo contrasto della missione.",
+      "referencias": [
+        "At 14:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p2",
+      "nombre": "Timoteo",
+      "rol": "Discepolo e pastore",
+      "periodo": "s. I d.C.",
+      "descripcion": "Naturale di Listra di Licaonia; compagno e discepolo prediletto di Paolo.",
+      "referencias": [
+        "At 16:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p3",
+      "nombre": "Barnaba",
+      "rol": "Missionario",
+      "periodo": "s. I d.C.",
+      "descripcion": "Scambiato per Zeus a Listra; evangelizzò la regione con Paolo.",
+      "referencias": [
+        "At 14:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Licaonia: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "lyca_m1",
+        "nombre": "Dei e apostoli in Licaonia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "L'episodio di Listra rivela la confusione religiosa del paganesimo e la reazione apostolica: i missionari non sono dei ma messaggeri del Dio vivente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'episodio di Listra rivela la confusione religiosa del paganesimo e la reazione apostolica: i missionari non sono dei ma messaggeri del Dio vivente.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyca_h1",
+        "titulo": "Paolo e Barnaba adoravano come dei a Listra",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Dopo aver guarito uno zoppo a Listra, i Licaoni credono di essere Zeus ed Hermes; Paolo si strappa i vestiti per dissuaderli.",
+        "referencias": [
+          "At 14:8-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "lyca_h2",
+        "titulo": "Paolo lapidato a Listra",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Gli ebrei di Antiochia e Iconio convincono i Licaoni; Paolo viene lapidato e trascinato fuori città.",
+        "referencias": [
+          "At 14:19-20"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyca_h3",
+        "titulo": "Timoteo figlio di Listra di Licaonia",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Timoteo, discepolo di Paolo, nacque a Listra di Licaonia; Sua madre Eunice e la nonna Loida gli avevano trasmesso la fede.",
+        "referencias": [
+          "At 16:1",
+          "2 Tm 1:5"
+        ],
+        "personajes_clave": [
+          "Timoteo",
+          "Eunice",
+          "Loida"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyca_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fu venerato come un dio e poi lapidato a Listra di Licaonia; il massimo contrasto della missione.",
+        "referencias": [
+          "At 14:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p2",
+        "nombre": "Timoteo",
+        "rol": "Discepolo e pastore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Naturale di Listra di Licaonia; compagno e discepolo prediletto di Paolo.",
+        "referencias": [
+          "At 16:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p3",
+        "nombre": "Barnaba",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Scambiato per Zeus a Listra; evangelizzò la regione con Paolo.",
+        "referencias": [
+          "At 14:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Licaonia nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "lyca_m1",
+          "nombre": "Dei e apostoli in Licaonia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "L'episodio di Listra rivela la confusione religiosa del paganesimo e la reazione apostolica: i missionari non sono dei ma messaggeri del Dio vivente.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'episodio di Listra rivela la confusione religiosa del paganesimo e la reazione apostolica: i missionari non sono dei ma messaggeri del Dio vivente.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

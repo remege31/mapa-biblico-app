@@ -1,0 +1,148 @@
+{
+  "id": "moab",
+  "nombre": "Moab",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35.78,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 184,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Reino al este del mar Muerto, en las mesetas altas de Transjordania entre los ríos Arnón y Zéred.",
+  "altitud_m": 900,
+  "clima": "árido-semiárido",
+  "recursos": [
+    "cereales",
+    "ganadería",
+    "agua de manantial"
+  ],
+  "importancia_estrategica": "Control de las rutas caravaneras del Transjordán y la producción agrícola de las mesetas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "moa_h1",
+      "titulo": "Rut la moabita",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Rut, viuda moabita, regresa a Belén con su suegra Noemí y se casa con Boaz; es antepasada de David.",
+      "referencias": [
+        "Rut 1-4"
+      ],
+      "personajes_clave": [
+        "Rut",
+        "Noemí",
+        "Boaz"
+      ]
+    },
+    {
+      "id": "moa_h2",
+      "titulo": "Israel en los campos de Moab",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Israel acampa en los campos de Moab antes de cruzar el Jordán; allí muere Moisés y Josué es designado sucesor.",
+      "referencias": [
+        "Nm 22-36",
+        "Dt 34"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Balaam"
+      ]
+    },
+    {
+      "id": "moa_h3",
+      "titulo": "Mesa rey de Moab",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "El rey Mesa de Moab se rebela contra Israel; la estela de Mesa es uno de los testimonios epigráficos más importantes del AT.",
+      "referencias": [
+        "2 Re 3:4-27"
+      ],
+      "personajes_clave": [
+        "Mesa",
+        "Joram"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moa_p1",
+      "nombre": "Rut",
+      "rol": "Moabita, antepasada de David",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Su lealtad a Noemí y a Israel la convirtió en modelo de conversión y amor leal.",
+      "referencias": [
+        "Rut 1:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p2",
+      "nombre": "Balaam",
+      "rol": "Profeta mesopotámico",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Llamado a maldecir a Israel en Moab, terminó bendiciendo al pueblo por mandato divino.",
+      "referencias": [
+        "Nm 22:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p3",
+      "nombre": "Mesa",
+      "rol": "Rey de Moab",
+      "periodo": "ca. 850 a.C.",
+      "descripcion": "Dejó la estela de Mesa, inscripción que menciona al Dios de Israel.",
+      "referencias": [
+        "2 Re 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pueblo emparentado con Israel (descendiente de Lot); adoraban a Quemós. Su tierra fue escenario de la muerte de Moisés y el origen de Rut.",
+    "religiones_presentes": [
+      "paganismo_moabita",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "moa_m1",
+        "nombre": "El origen de Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 19:36-37",
+          "fuente_secundaria": "",
+          "descripcion": "Moab nació del incesto entre Lot y su hija mayor tras la destrucción de Sodoma (Gn 19:36-37).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moab nació del incesto entre Lot y su hija mayor tras la destrucción de Sodoma (Gn 19:36-37).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 1:5",
+          "fuente_secundaria": "",
+          "descripcion": "Mateo incluye a Rut la moabita en la genealogía de Jesús (Mt 1:5).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mateo incluye a Rut la moabita en la genealogía de Jesús (Mt 1:5).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

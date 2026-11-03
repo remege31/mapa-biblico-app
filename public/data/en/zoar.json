@@ -1,0 +1,172 @@
+{
+  "id": "zoar",
+  "nombre": "Zoar",
+  "tipo": "ciudad",
+  "lat": 30.9265225301655,
+  "lng": 35.4190606947832,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Middle Bronze Age — City spared in the destruction of Sodom"
+    }
+  ],
+  "descripcion_geo": "City at the southern end of the Salt Sea, originally called Bela, one of the five Cities of the Plain but the only one that escapes the destruction of Sodom and Gomorrah at the explicit request of Lot, who finds it too small ('zoar' means 'smallness') to deserve destruction along with the others.",
+  "altitud_m": -400,
+  "clima": "Extreme desert — typical of the southern end of the Salt Sea, with very little precipitation and very high temperatures.",
+  "recursos": [
+    "Position at the southern end of the fertile Jordan Plain",
+    "Immediate refuge available after the destruction of Sodom"
+  ],
+  "importancia_estrategica": "Zoar is the only one of the five Cities of the Plain that survives the destruction narrated in Genesis 19, thanks to the direct intercession of Lot, who chooses it as a closer and more manageable refuge than fleeing to the mountains; It later becomes a fixed geographical reference point in the description of the southern limit of Moses's vision from Pisgah and in the prophetic oracles of judgment against Moab.",
+  "otros_habitantes": [
+    {
+      "id": "reyes_coalicion_zoar",
+      "nombre": "Bela (king of Zoar/Bela)",
+      "descripcion": "Local king of the city originally called Bela, member of the coalition of five kings of the Cities of the Plain opposed to Chedorlaomer.",
+      "religion": "Early Canaanite-Transjordan religion",
+      "periodo": "c. 2050 BC (narrative, Abraham era)"
+    },
+    {
+      "id": "lot_hijas_zoar",
+      "nombre": "Lot and his two daughters",
+      "descripcion": "Survivors of the destruction of Sodom who take refuge first in Zoar before moving to a cave in the nearby mountains for fear of remaining in the city.",
+      "religion": "Yahwism (Abraham line)",
+      "periodo": "c. 2067 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "lot-intercede-zoar",
+      "titulo": "Lot intercedes for Zoar as a refuge",
+      "fecha": "c. 2067 BC (narrativa)",
+      "descripcion": "Urged by the angels to flee to the mountains before the destruction of Sodom, Lot instead asks to take refuge in the nearby small town of Bela, claiming to be unable to reach the mountains in time; The angel agrees to his request and spares the city out of love for Lot, changing its name to Zoar ('smallness').",
+      "referencias": [
+        "Gen 19:18-22"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    },
+    {
+      "id": "moises-vision-zoar",
+      "titulo": "Zoar as the southern limit of Moses's vision",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "In the description of the panoramic vision that Moses contemplates from the summit of Pisgah, Zoar marks the southern limit of the promised land shown to him, thus encompassing the entire extension from Gilead to the southern tip.",
+      "referencias": [
+        "Deut 34:3"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "isaias-jeremias-huida-zoar",
+      "titulo": "Zoar as a destination of escape in the oracles against Moab",
+      "fecha": "c. 740–600 BC",
+      "descripcion": "Both Isaiah and Jeremiah mention Zoar as a destination of escape for the Moabite fugitives who are escaping the judgment announced against their kingdom, ironically returning to the historical function of the city as a place of refuge already established in the story of Lot.",
+      "referencias": [
+        "Isa 15:5",
+        "Jer 48:34"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot_zoar",
+      "nombre": "lots",
+      "rol": "Nephew of Abraham, intercessor for Zoar",
+      "periodo": "bronce_medio",
+      "descripcion": "He asks for and obtains the preservation of Zoar as an immediate refuge during his flight from Sodom, the only case in the account of destruction where human intercession explicitly manages to save an entire city from the announced judgment.",
+      "referencias": [
+        "Gen 19:18-23"
+      ],
+      "ruta": [
+        "sodom",
+        "zoar"
+      ]
+    },
+    {
+      "id": "moises_zoar",
+      "nombre": "Moses",
+      "rol": "Legislator, visionary of the promised land",
+      "periodo": "bronce_tardio",
+      "descripcion": "He contemplates Zoar as the southern limit of the extensive panoramic vision of the promised land that he receives from the summit of Pisgah shortly before his death.",
+      "referencias": [
+        "Deut 34:1-4"
+      ],
+      "ruta": [
+        "pisgah"
+      ]
+    },
+    {
+      "id": "isaias_jeremias_zoar",
+      "nombre": "Isaiah and Jeremiah",
+      "rol": "Prophets by Judah",
+      "periodo": "c. 740–600 BC",
+      "descripcion": "They mention Zoar as the escape destination of the Moabite fugitives in their respective judgment oracles, giving Lot's ancient refuge city a new narrative function centuries later.",
+      "referencias": [
+        "Isa 15:5",
+        "Jer 48:34"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zoar is theologically significant as the only exception within the narrative of total judgment on the Cities of the Plain, demonstrating that specific human intercession can alter the scope of a divine judgment already decreed. Its subsequent mention both in the final vision of Moses and in the prophetic oracles of judgment against Moab confirms its permanence as a stable geographic point of reference throughout all of biblical history, from the patriarchal period to the late monarchy.",
+    "religiones_presentes": [
+      "Early Canaanite-Transjordan religion",
+      "Yahwism (narrative perspective of the story)"
+    ],
+    "mitos": [
+      {
+        "id": "zoar-unica-ciudad-perdonada",
+        "nombre": "Zoar, the only City of the Plain forgiven",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 19:18-23",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 50 (sobre el mérito de la intercesión de Lot por Zoar)",
+          "descripcion": "Rabbinic tradition discusses the relative merit of Lot's request, noting that, although Lot himself is not presented as a model of justice comparable to Abraham, his specific and concrete intercession for a single small city achieves immediate results, contrasting with Abraham's broader and more general intercession for the entire region, which fails to prevent the destruction of Sodom itself.",
+          "similitudes": "It shares with Christianity and Islam the recognition of Zoar as the only city preserved from the judgment on the region.",
+          "diferencias": null,
+          "significado_teologico": "The preservation of Zoar teaches that concrete and specific intercession, even from someone not especially righteous, can be effective when directed toward a limited and achievable goal.",
+          "posible_relacion_cultural": "Shared tradition of the Lot cycle as part of the founding story common to the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 19:18-23 (recepción patrística sobre la gracia concedida por causa de la petición de un justo imperfecto)",
+          "fuente_secundaria": "Comentarios patrísticos que contrastan la debilidad moral de Lot con la eficacia de su súplica específica",
+          "descripcion": "Christian tradition takes up the episode as an example that divine grace can respond to a humble and concrete request even from someone whose overall moral record is questionable, anticipating the broader principle of grace that does not depend on the complete merit of the supplicant.",
+          "similitudes": "It shares with the Jewish reading the value of concrete intercession as effective independently of the general merit of the intercessor.",
+          "diferencias": "The Christian reading tends to generalize the episode as an illustration of the broader principle of unmerited grace.",
+          "significado_teologico": "The preservation of Zoar becomes an Old Testament figure of grace that responds to the humble request, regardless of the accumulated merit of the one who supplicates.",
+          "posible_relacion_cultural": "Shared tradition of the Lot cycle as a founding story common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 15:59-60; 29:32-33 (referencia a la salvación de la familia de Lut, 'excepto su mujer')",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la salvación de Lut y su familia",
+          "descripcion": "The Qur'an confirms the salvation of Lut and his family (except his wife) from the judgment on his people, although it does not develop in the same topographical detail the specific identification of Zoar as a city of refuge distinct from the other Cities of the Plain.",
+          "similitudes": "Shared recognition of the salvation of Lut and his closest family from the judgment on the region.",
+          "diferencias": "The Qur'anic account does not detail the specific negotiation over Zoar as a forgiven city, focusing more generically on the salvation of Lut's family as a whole.",
+          "significado_teologico": "Lut's salvation confirms the Quranic pattern that God preserves the righteous even in the midst of collective judgment on entire communities.",
+          "posible_relacion_cultural": "Shared tradition of the Lot/Lut cycle as a foundational prophetic story common to the three Abrahamic religions."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

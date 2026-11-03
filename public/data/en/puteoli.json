@@ -1,0 +1,146 @@
+{
+  "id": "puteoli",
+  "nombre": "Puteoli",
+  "tipo": "ciudad",
+  "lat": 40.8272,
+  "lng": 14.1241,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Rome's main port on the Gulf of Naples, terminal of the eastern maritime routes.",
+  "altitud_m": 15,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "industry"
+  ],
+  "importancia_estrategica": "Largest import port in the western Mediterranean before the rise of Ostia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "put_h1",
+        "titulo": "Disembarkation of Paul in Puteoli",
+        "fecha": "ca. 60-61 AD",
+        "descripcion": "Paul's ship docks in Puteoli; He finds a Christian community there and rests for seven days.",
+        "referencias": [
+          "Acts 28:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "put_h2",
+        "titulo": "Early Christian community",
+        "fecha": "ca. 60 AD",
+        "descripcion": "The presence of brothers in Puteoli evidences the expansion of the gospel to Italy before Paul.",
+        "referencias": [
+          "Acts 28:14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "put_h3",
+        "titulo": "Last leg to Rome",
+        "fecha": "ca. 60-61 AD",
+        "descripcion": "From Puteoli, Paul follows the Appian Way towards Rome, where he is welcomed by brothers.",
+        "referencias": [
+          "Acts 28:15-16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "put_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He disembarked at Puteoli on his final voyage to Rome.",
+        "referencias": [
+          "Acts 28:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "put_p2",
+        "nombre": "Brothers of Puteoli",
+        "rol": "Christian community",
+        "periodo": "s. I AD",
+        "descripcion": "First documented Christian community in Italy; They hosted Paul for seven days.",
+        "referencias": [
+          "Acts 28:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "put_p3",
+        "nombre": "Julius the centurion",
+        "rol": "Paul Guardian",
+        "periodo": "s. I AD",
+        "descripcion": "He allowed Paul to rest with the brothers in Puteoli.",
+        "referencias": [
+          "Acts 28:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cosmopolitan port through which eastern goods and religions arrived in Italy; first Italian soil that Paul set foot on.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "Judaism",
+        "imperial_cult",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "put_m1",
+          "nombre": "The gospel reaches Italy",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The community of Puteoli demonstrates that the gospel arrived in Italy before Paul; The brothers who came out to welcome him on the Appian Way encouraged him.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The community of Puteoli demonstrates that the gospel arrived in Italy before Paul; The brothers who came out to welcome him on the Appian Way encouraged him.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

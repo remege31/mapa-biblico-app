@@ -1,0 +1,152 @@
+{
+  "id": "migdol",
+  "nombre": "Migdol",
+  "tipo": "ciudad",
+  "lat": 30.020296,
+  "lng": 32.372233,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Exodus Camp, Red Sea Crossing"
+    }
+  ],
+  "descripcion_geo": "Egyptian border town near the Red Sea, mentioned as one of the last camping points of Israel before the miraculous crossing of the waters during the departure of Egypt, and later as a destination for Jewish refugees after the fall of Jerusalem.",
+  "altitud_m": 5,
+  "clima": "Desert — extremely hot and dry, typical of the northeastern border region of Egypt.",
+  "recursos": [
+    "Border position near the Red Sea",
+    "Geographical landmark of the exodus camp"
+  ],
+  "importancia_estrategica": "Migdol marks one of the last Israel camping spots during the Egypt exodus, just before the miraculous crossing of the Red Sea, strategically positioning the town between Migdol and the sea facing Baal-zephon; Centuries later, it reappears as a destination for Jewish refugees fleeing to Egypt after the fall of Jerusalem, closing an ironic geographical circle between the original departure of Egypt and the forced return of the descendants of those liberated.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_migdol",
+      "nombre": "Israel of the exodus",
+      "descripcion": "Village camping near Migdol on its exit route from Egypt, just before the miraculous crossing of the Red Sea.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "refugiados_judios_migdol",
+      "nombre": "Jewish refugees in Migdol",
+      "descripcion": "Population of Judah that, after the destruction of Jerusalem, settles in Migdol among other Egyptian destinations, denounced by Jeremiah for adopting idolatrous practices in their new residence.",
+      "religion": "Yahwist-idolatrous syncretism (denounced by Jeremiah)",
+      "periodo": "c. 586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "exodo-campamento-migdol",
+      "titulo": "Israel camps near Migdol before the Red Sea",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "YHWH instructs Moses to order Israel to camp between Migdol and the sea, facing Baal-zephon, an apparently vulnerable positioning that serves to lure Pharaoh's army into the trap of the later miraculous crossing.",
+      "referencias": [
+        "Exod 14:1-2"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "migdol-referencia-numeros",
+      "titulo": "Migdol confirmed on the list of exodus camps",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The book of Numbers confirms Migdol's position in the detailed list of Israel's campsites during his departure from Egypt, a record that systematically documents the entire pilgrimage route.",
+      "referencias": [
+        "Num 33:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jeremias-juicio-migdol",
+      "titulo": "Jeremiah denounces the idolatry of the Jews in Migdol",
+      "fecha": "c. 586–580 BC",
+      "descripcion": "Jeremiah directs its prophetic denunciation specifically to the Jews residing in Migdol, Tahpanes, Memphis and other regions of Egypt, condemning their persistence in burning incense to the 'queen of heaven' despite the destruction of Jerusalem that such idolatry had caused.",
+      "referencias": [
+        "Jer 44:1",
+        "Jer 44:15-19"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_migdol",
+      "nombre": "Moses",
+      "rol": "Israel leader in the exodus",
+      "periodo": "bronce_tardio",
+      "descripcion": "Direct the strategic positioning of Israel near Migdol before the miraculous crossing of the Red Sea, following divine instructions that appear to expose the people but in reality prepare the trap against the Egyptian army.",
+      "referencias": [
+        "Exod 14:1-4"
+      ],
+      "ruta": [
+        "migdol"
+      ]
+    },
+    {
+      "id": "jeremias_migdol",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He denounces the persistent idolatry of the Jewish refugees in Migdol and other Egyptian cities, warning that their fate will be complete destruction for repeating the same sins that caused the fall of Jerusalem.",
+      "referencias": [
+        "Jer 44:1-30"
+      ],
+      "ruta": [
+        "tahpanhes",
+        "migdol"
+      ]
+    },
+    {
+      "id": "faraon_migdol",
+      "nombre": "Pharaoh and his army",
+      "rol": "Israel pursuers to the Red Sea",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "He pursues Israel into the region of Migdol, deceived by the town's apparent vulnerable positioning, before being defeated at the miraculous crossing of the Red Sea.",
+      "referencias": [
+        "Exod 14:5-9"
+      ],
+      "ruta": [
+        "migdol"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Migdol ironically connects the beginning and a late moment in the history of Israel: a place of passage in the original liberation from Egyptian slavery under Moses, and centuries later, the destination of Jewish refugees who voluntarily return to Egypt fleeing the consequences of their own infidelity, closing a geographical circle that illustrates the contrast between the original providential liberation and the subsequent self-inflicted exile for the persistence in idolatry denounced by Jeremiah.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Egyptian polytheism (context of the exodus and subsequent refugees)"
+    ],
+    "mitos": [
+      {
+        "id": "trampa-divina-migdol",
+        "nombre": "Seemingly vulnerable positioning as a divine trap in Migdol",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Exod 14:1-4",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la sabiduría aparentemente contraintuitiva del posicionamiento divino de Israel antes del cruce del Mar Rojo",
+          "descripcion": "Jewish tradition observes that the divine command to position Israel in an apparently vulnerable place near Migdol, far from being a strategic error, constitutes precisely the mechanism by which YHWH draws the Egyptian army towards its definitive defeat, interpreting the episode as a paradigmatic example of how divine wisdom can manifest itself through strategies that from a human perspective would seem counterproductive.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Migdol's positioning teaches that divine wisdom frequently operates in ways that transcend and even contradict conventional human strategic logic.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "nebo_mount",
+  "nombre": "Monte Nebo",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.76,
+  "lng": 35.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Montaña en Moab al este del Jordán (actual Jordania) con vistas a toda la tierra prometida. Lugar de la muerte de Moisés.",
+  "altitud_m": 817,
+  "clima": "mediterráneo-árido",
+  "recursos": [
+    "panorámica de Canaán",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "El último lugar de Moisés: subió allí para ver la tierra prometida y murió.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "neb_h1",
+      "titulo": "Moisés sube al Nebo y ve la tierra prometida",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Desde el monte Nebo, Moisés contempla toda la tierra prometida desde Galaad hasta el Néguev, el mar Grande y el Jordán.",
+      "referencias": [
+        "Dt 34:1-4"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h2",
+      "titulo": "La muerte de Moisés en el Nebo",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Moisés muere en el monte Nebo a los 120 años de edad; Dios lo sepulta y nadie sabe su sepulcro.",
+      "referencias": [
+        "Dt 34:5-8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "neb_h3",
+      "titulo": "El arca de la alianza escondida en el Nebo",
+      "fecha": "ca. 586 a.C.",
+      "descripcion": "El segundo libro de Macabeos relata que Jeremías escondió el tabernáculo y el arca en una cueva del monte Nebo.",
+      "referencias": [
+        "2 Mac 2:4-8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "neb_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador y legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Murió en el monte Nebo a la vista de la tierra prometida que no le fue dado pisar; el más grande profeta del AT.",
+      "referencias": [
+        "Dt 34:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p2",
+      "nombre": "Josué",
+      "rol": "Sucesor de Moisés",
+      "periodo": "ca. 1250-1200 a.C.",
+      "descripcion": "Aguardaba en el campamento mientras Moisés subía al Nebo para morir.",
+      "referencias": [
+        "Dt 34:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neb_p3",
+      "nombre": "Jeremías",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Tradición del libro de Macabeos lo vincula al escondite del arca en el Nebo.",
+      "referencias": [
+        "2 Mac 2:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Monte Nebo: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "neb_m1",
+        "nombre": "El sepulcro desconocido de Moisés",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 34:6",
+          "fuente_secundaria": "",
+          "descripcion": "Nadie sabe hasta hoy dónde está el sepulcro de Moisés (Dt 34:6): misterio que preserva al mayor profeta de toda idolatría postmortem.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Nadie sabe hasta hoy dónde está el sepulcro de Moisés (Dt 34:6): misterio que preserva al mayor profeta de toda idolatría postmortem.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La Transfiguración de Jesús incluye a Moisés; el contraste con el Nebo es notable: allí murió sin entrar, en el Hermón aparece glorificado.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Transfiguración de Jesús incluye a Moisés; el contraste con el Nebo es notable: allí murió sin entrar, en el Hermón aparece glorificado.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam considera a Musa (Moisés) el mayor profeta antes de Mahoma; su muerte en el Nebo es narrada en tradiciones islámicas.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam considera a Musa (Moisés) el mayor profeta antes de Mahoma; su muerte en el Nebo es narrada en tradiciones islámicas.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2"
+  ]
+}

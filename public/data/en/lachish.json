@@ -1,0 +1,191 @@
+{
+  "id": "lachish",
+  "nombre": "Lachish",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.5649,
+  "lng": 34.8467,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city conquered by Joshua"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Israelite city in the Shephelah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Second city of Judah, besieged by Assyria and Babylon"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Lachish (Hebrew: לָכִישׁ) was the second most important city in Judah after Jerusalem, located in the Shephelah about 40 km southwest of the capital. Tell Lachish is one of the most important archaeological sites in Israel: excavations revealed eighteen levels of occupation, from the Chalcolithic to the Persian period. The tell dominates the surrounding plain with thick Iron II walls. The Lachish Reliefs in Sennacherib's palace at Nineveh — today in the British Museum — show the Assyrian siege of 701 BC. in extraordinary detail. The Letters of Lachish (eighteen ostraca from the period 589-587 BC) are one of the most important epigraphic documents of biblical Hebrew.",
+  "altitud_m": 40,
+  "clima": "Plain Mediterranean — rainfall of 350-400 mm annually, hot and dry summers, mild winters. Sefela soils are very fertile for dryland agriculture.",
+  "recursos": [
+    "Intensive agriculture of the Sefela — wheat, barley, olive trees, vineyards",
+    "Control position on the route Egypt-Jerusalem",
+    "Ceramic and craft industry",
+    "Massive Iron II walls — double defensive system",
+    "Royal warehouses for military supplies"
+  ],
+  "importancia_estrategica": "Lachish was the key fortress of Judah's western defensive system. Any army marching from Egypt or the coast towards Jerusalem was to take Lachish first. The kings of Judah turned it into the kingdom's second stronghold, with walls up to 6 meters thick and an elaborate gate system. Both Sennacherib (701 BC) and Nebuchadnezzar (588-586 BC) besieged it before marching on Jerusalem. Its fall was the inevitable prelude to the fall of the capital.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-lachish",
+      "nombre": "Lachish Canaanites",
+      "descripcion": "Lachish of the Late Bronze Age was one of the most prosperous Canaanite city-states of the inland coastal plain. The Amarna Letters (14th century BC) mention Lachish in the context of disputes between Canaanite city-states and the Egyptian administration. The Late Bronze Temple Canaanite (Moat Temple) reveals a sophisticated cult with luxury objects from Egypt, Cyprus and the Aegean. His conquest by Joshua was total — 'he wounded every living being with the edge of the sword' — which excavations confirmed by revealing a level of mass destruction from the 13th century BC.",
+      "religion": "Canaanite polytheism — worship of Baal, Asherah and divinities from above; The Temple of the Pit shows Egyptian influences (cult of Hathor)",
+      "periodo": "Late Bronze to c. 1200 BC"
+    },
+    {
+      "id": "asirios-lachish",
+      "nombre": "Sennacherib's Assyrian Army",
+      "descripcion": "The siege of Lachish by Sennacherib in 701 BC. It is one of the best-documented military events in biblical history: confirmed by Assyrian chronicles, the Lachish Reliefs at Nineveh (showing siege ramp, war machines, deportees) and tell archeology (Assyrian arrowheads, remains of ramp). The Assyrians built an earth and stone ramp against the southwestern flank of the city — the first archaeologically documented siege ramp in Israel. Sennacherib personally oversaw the siege from his field throne, as the reliefs show.",
+      "religion": "Assyrian polytheism — Ashur as national god, Ishtar, Marduk",
+      "periodo": "Iron II, 701 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-lachish",
+      "titulo": "Joshua conquers Lachish: the southern campaign",
+      "fecha": "c. 1220 BC",
+      "descripcion": "Lachish was part of the coalition of five southern kings (Jerusalem, Hebron, Yarmut, Lachish, Eglon) that attacked Gibeon for his alliance with Israel. Joshua defeated them at the battle of Gibeon, pursued the fugitives down the descent of Beth-Horon and the seven to Azekah and Makkedah, where he captured and executed the five kings in a cave. Then he marched systematically on each city: Lachish fell in two days. The king of Gezer came to the aid of Lachish — he too was defeated. The brevity of the conquest ('he took Lachish on the second day', Jos 10:32) contrasts with the resistance he would offer to Sennacherib five centuries later, showing that the walls of Iron II were incomparably stronger than those of the Late Bronze.",
+      "referencias": [
+        "Josh 10:31-33",
+        "Josh 10:1-15",
+        "Josh 12:11"
+      ],
+      "personajes_clave": [
+        "josue-lachish"
+      ]
+    },
+    {
+      "id": "senaquerib-lachish",
+      "titulo": "Sennacherib besieges Lachish: the largest military relief of the ancient world",
+      "fecha": "701 BC",
+      "descripcion": "In his campaign against Judah and King Hezekiah, Sennacherib of Assyria first besieged Lachish before marching on Jerusalem. The siege was so significant to the Assyrian king that he had an 80-foot panoramic relief carved in the throne room of his palace at Nineveh showing the siege in detail: Assyrian soldiers ascending the earthen ramp, archers protected by squires, Jewish defenders throwing stones and torches, deportees filing out with their belongings, impaled on the view of the city as a warning. It was the only event in his campaign that Sennacherib considered worthy of such artistic representation—not even the surrender of Jerusalem merited equivalent relief. Archeology confirmed the siege ramp and a massive pit filled with 1,500 human skeletons. From Lachish, Sennacherib sent his officers with a large army to Jerusalem while he remained in Lachish.",
+      "referencias": [
+        "2 Kgs 18:13-17",
+        "2 Chr 32:9",
+        "Isa 36:1-2"
+      ],
+      "personajes_clave": [
+        "senaquerib",
+        "ezequias"
+      ]
+    },
+    {
+      "id": "cartas-lachish",
+      "titulo": "The Lachish Letters: the last words before silence",
+      "fecha": "589-587 BC",
+      "descripcion": "During the final Babylonian siege (589-586 BC), the commander of Lachish exchanged letters with an officer at an outpost. Eighteen of these letters on pottery fragments (óstraca) were discovered in 1935-1938. The most famous (Letter IV) says: 'Let my lord know that we are monitoring the signs of fire of Lachish according to all the indications that my lord has given us, since we no longer see the signs of Azekah.' Azekah had fallen. Jeremiah 34:7 confirms: 'Only Lachish and Azekah remained of the cities of Judah.' The letters reveal disintegrating military morale, accusations against officials that 'weaken the hands of the people,' and barely contained desperation. Soon after, Lachish fell. The excavation confirmed a level of mass destruction by fire from 586 BC.",
+      "referencias": [
+        "Jer 34:7",
+        "Cartas de Lachish IV",
+        "2 Kgs 25:1-4"
+      ],
+      "personajes_clave": [
+        "comandante-lachish",
+        "jeremias-lachish"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequias",
+      "nombre": "Hezekiah",
+      "rol": "Reformer king of Judah, resisted Sennacherib with faith in Yahweh",
+      "periodo": "hierro_2",
+      "descripcion": "Hezekiah ben Ahaz is one of the most admired kings of Judah. He destroyed the places of worship on high places, removed the stelae, cut down the Asherah, and even destroyed the bronze serpent of Moses (Nehustan) that the people revered. When Sennacherib invaded Judah and took Lachish, Hezekiah initially paid an enormous tribute—300 talents of silver and 30 talents of gold—by emptying the temple treasury. But when the Assyrian emissaries delivered their speech of intimidation before the walls of Jerusalem, Hezekiah went to the temple, spread the Assyrian letter before Yahweh, and prayed. Isaiah announced that the king of Assyria would not enter the city. The Assyrian army was decimated by a plague and Sennacherib returned to Nineveh, where he was murdered by his sons.",
+      "referencias": [
+        "2 Kgs 18:1-20:21",
+        "2 Kgs 19:14-19",
+        "Isa 36:1-37:38"
+      ],
+      "ruta": [
+        "lachish",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "senaquerib",
+      "nombre": "Sennacherib",
+      "rol": "King of Assyria, conqueror of Lachish, defeated by Jerusalem",
+      "periodo": "c. 705–681 BC",
+      "descripcion": "Sennacherib ben Sargon II is the Assyrian pharaoh whose campaign of 701 BC. It is best documented in biblical and extra-biblical history. His clay prisms ('Taylor's Prism') preserve his version: he claimed to have locked Hezekiah in Jerusalem 'like a bird in a cage' and demanded tribute, but did not claim to have taken the city. The Lachish relief — his greatest artistic and military achievement — shows his pride in that conquest. His death at the hands of his sons in the temple of Nisroch (2 Kings 19:37; Is 37:38) was confirmed by the Babylonian chronicles: he was murdered in 681 BC.",
+      "referencias": [
+        "2 Kgs 18:13-19:37",
+        "Isa 36:1-37:38",
+        "Prisma de Taylor"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jeremias-lachish",
+      "nombre": "Jeremiah",
+      "rol": "Prophet of Jerusalem, contemporary of the fall of Lachish to Babylon",
+      "periodo": "hierro_2",
+      "descripcion": "Jeremiah lived through the fall of Lachish as a prophet in besieged Jerusalem. His mention of Lachish and Azekah (Jer 34:7) as the last cities standing before the total capitulation is the exact historical background of the Letters of Lachish. During the same period, Jeremiah was thrown into the ditch by its adversaries—accused of weakening the morale of defenders, exactly the charge that Lachish's letters make against officials who 'weaken their hands.' The linguistic coincidence between the letters and the book of Jeremiah is one of the arguments for the historical authenticity of both documents.",
+      "referencias": [
+        "Jer 34:7",
+        "Jer 38:1-13",
+        "Jer 32:1-5"
+      ],
+      "ruta": [
+        "anathoth",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lachish concentrates in his history the two great judgments on Judah in the OT: the Assyrian of 701 BC. (from which Judah survived by the faith of Hezekiah) and the Babylonian of 586 B.C. (from which there was no salvation). The Letters of Lachish are the most human document in the extracanonical OT: real soldiers, with real names, writing in colloquial Hebrew about the collapse of their world. Archeology confirmed his words layer by layer in the tell.",
+    "religiones_presentes": [
+      "Polytheism Canaanite — documented in the Late Bronze Pit Temple",
+      "Official Yahwism of the kingdom of Judah — Lachish as the second city of the kingdom",
+      "Assyrian polytheism — during the siege of Sennacherib"
+    ],
+    "mitos": [
+      {
+        "id": "ezequias-fe-senaquerib",
+        "nombre": "Hezekiah extends the letter before Yahweh: the faith that stopped Assyria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 19:14-19; Is 37:14-20",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 94b; Midrash Rabbah, Isaías 37",
+          "descripcion": "The Talmud (Sanhedrin 94b) states that God wanted to make Hezekiah the Messiah and the Assyrian king Gog and Magog — but Hezekiah did not sing a spontaneous victory hymn after Sennacherib's defeat, unlike Moses at the Red Sea. The Midrash develops that Hezekiah's prayer spreading Sennacherib's letter before the altar was the monarchy's purest act of faith: he did not ask for military victory but rather for recognition of the sovereignty of Yahweh over all the kingdoms of the earth. The angel who killed 185,000 Assyrians in one night is the executing arm of that faith.",
+          "similitudes": "Faith that meets the military threat with prayer rather than capitulation is a principle shared by all three monotheistic traditions.",
+          "diferencias": "Judaism elaborates the theology of Hezekiah as quasi-Messiah; the NT uses him as a type of Christ who faces the adversary with confidence in the Father.",
+          "significado_teologico": "Genuine faith does not calculate military forces but trusts in divine sovereignty over history. Sennacherib's letter extended before God is the most concrete form of intercessory prayer: bringing the threat itself to the Lord.",
+          "posible_relacion_cultural": "The motif of the pious king praying in the face of a powerful enemy threat and receiving divine intervention has parallels in Near Eastern victory texts, including Ramses II's autobiography at Kadesh, where the pharaoh prays to Ammon before battle."
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Kgs 19:14-19; Mt 6:25-34; Jn 16:33",
+          "fuente_secundaria": "Agustín, Enarrationes in Psalmos 45; Beda, Comentario sobre 2 Re 19",
+          "descripcion": "Hezekiah's prayer before Sennacherib's letter was read by Augustine as a model of Christian prayer in the face of persecution: presenting the very threat to God, recognizing his universal sovereignty, and asking for glory for the divine name, not just personal salvation. Jesus's instruction 'do not be distressed' (Mt 6:25-34) was interpreted in this context: Hezekiah's trust is the AT of the peace that Jesus promises. Bede used the episode for monastic catechesis: the monk facing tribulation must, like Hezekiah, spread it before the Lord before acting.",
+          "similitudes": "Confidence in divine sovereignty in the face of the threat of apparently invincible human powers is identical in both traditions.",
+          "diferencias": "The NT takes the principle to persecution for faith; martyrdom is the extreme form of Hezekiah's pattern.",
+          "significado_teologico": "God can intervene in history to save those who trust in him in the face of humanly insurmountable threats. Hezekiah's faith is the AT of Easter victory: what seemed certain defeat becomes liberation.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

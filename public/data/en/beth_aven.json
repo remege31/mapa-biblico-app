@@ -1,0 +1,138 @@
+{
+  "id": "beth_aven",
+  "nombre": "Beth-Aven",
+  "tipo": "ciudad",
+  "lat": 31.9,
+  "lng": 35.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Ironic toponym ('house of evil') used by the prophets to refer to Bethel ('house of God') after Jeroboam installed a golden calf there.",
+  "altitud_m": 800,
+  "clima": "Mediterranean",
+  "recursos": [
+    "agriculture",
+    "craft"
+  ],
+  "importancia_estrategica": "Bethel Degraded: The prophetic name ironically describes the sanctuary of the golden calf.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bav_h1",
+      "titulo": "Hosea calls Bethel 'Bet-Aven'",
+      "fecha": "ca. 750 BC",
+      "descripcion": "The prophet Hosea uses 'Bet-Aven' (house of wickedness) instead of 'Bethel' (house of God) for the sanctuary with the golden calf.",
+      "referencias": [
+        "Hos 4:15",
+        "Hos 5:8",
+        "Hos 10:5"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "bav_h2",
+      "titulo": "The battle of Israel against the Philistines near Beth-Aven",
+      "fecha": "ca. 1010 BC",
+      "descripcion": "The Philistine army encamps between Michmas and Beth-Aven; Saul and Jonathan launch the offensive.",
+      "referencias": [
+        "1 Sam 13:5",
+        "1 Sam 14:23"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Jonatán"
+      ]
+    },
+    {
+      "id": "bav_h3",
+      "titulo": "Amos and the sanctuary of Bethel/Bet-Aven",
+      "fecha": "ca. 760 BC",
+      "descripcion": "Amos denounces the sanctuary of Bethel as a place of sin; Hosea calls it Beth-Aven because of the golden calf.",
+      "referencias": [
+        "Amos 4:4",
+        "Amos 5:5"
+      ],
+      "personajes_clave": [
+        "Amós",
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bav_p1",
+      "nombre": "Hosea",
+      "rol": "Prophet",
+      "periodo": "ca. 750-720 BC",
+      "descripcion": "He used the name 'Bet-Aven' as a sarcastic condemnation of the sanctuary of the golden calf in Bethel.",
+      "referencias": [
+        "Hos 4:15"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p2",
+      "nombre": "Amos",
+      "rol": "Prophet",
+      "periodo": "ca. 760 BC",
+      "descripcion": "He denounced the sanctuary of Bethel/Bet-Aven as the seat of the idolatrous cult of the northern kingdom.",
+      "referencias": [
+        "Amos 4:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p3",
+      "nombre": "Jeroboam I",
+      "rol": "king of the north",
+      "periodo": "931-910 BC",
+      "descripcion": "He installed the golden calf in Bethel, turning the 'house of God' into the 'house of wickedness'.",
+      "referencias": [
+        "1 Kgs 12:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-Aven: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "bav_m1",
+        "nombre": "The house of God turned into a house of evil",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 28:17",
+          "fuente_secundaria": "",
+          "descripcion": "Bethel, where God revealed himself to Jacob (Gen 28:17), becomes Beth-Aven for the sin of the golden calf: the degradation of the sacred place is the paradigm of syncretism.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bethel, where God revealed himself to Jacob (Gen 28:17), becomes Beth-Aven for the sin of the golden calf: the degradation of the sacred place is the paradigm of syncretism.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

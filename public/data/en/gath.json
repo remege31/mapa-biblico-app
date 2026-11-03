@@ -1,0 +1,196 @@
+{
+  "id": "gath",
+  "nombre": "Gath",
+  "tipo": "ciudad",
+  "lat": 31.6093,
+  "lng": 34.8572,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 34,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — One of the five Philistine cities"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Philistine city in conflict with Israel"
+    }
+  ],
+  "descripcion_geo": "Gath (identified with Tell es-Safi / Tel Zafit, Israel) was located in the Philistine plain, in the transition zone between the coastal plain and the Shephelá (lowlands of Judah). It was the easternmost of the five Philistine cities, the closest to the Israelite territory of Judah, and therefore the city of most frequent contact and conflict between Philistines and the Israelites.",
+  "altitud_m": 105,
+  "clima": "Mediterranean — drier than the Judah highlands but with sufficient rainfall (400-500 mm annually). Hot and dry summers, mild winters.",
+  "recursos": [
+    "Fertile agricultural lands in Shephelá",
+    "Iron (Philistines controlled iron work in the region, strategic monopoly)",
+    "Trade route between the coastal plain and the highlands of Judah"
+  ],
+  "importancia_estrategica": "The most powerful of the five Philistine cities according to the context of some stories. Its border position with Judah made it the point of greatest friction between Philistines and the Israelites. Gath was also the birthplace of the surviving Anakites expelled by Caleb (Josh 11:22)—where giants like Goliath came from.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-gat",
+      "nombre": "Philistines by Gath",
+      "descripcion": "The Philistines were sea people of Aegean origin (possibly Mycenaean or Cretan) who settled on the Canaanite coast in the 12th century BC. Those of Gath were known for their tall warriors—the Anakite refugees absorbed into the Philistine population. Goliath and his brothers, all from Gath, are the most famous example of this type of Philistine warrior.",
+      "religion": "Polytheism of the Sea Peoples - cult of Dagon, Baal-Zebub and divinities of Aegean origin-Canaanite",
+      "periodo": "c. 1200–800 BC"
+    },
+    {
+      "id": "anaquitas-gat",
+      "nombre": "Anakite refugees",
+      "descripcion": "When Caleb drove the Anakites out of Hebron (Jos 14:12-15), the survivors fled to Gaza, Gath, and Ashdod (Jos 11:22). This presence of Anakites in Gath explains the tradition of the giants of Gath: Goliath and his four brothers, all of great stature, are the last heirs of the tradition of the Rephaim-Anakites who inhabited Canaan before Israel.",
+      "religion": "Canaanite polytheism of the Rephaites, fused with the Philistine cult",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "david-gat",
+      "nombre": "David and his followers at Gath",
+      "descripcion": "Pursued by Saul, David took refuge in Gath with 600 men, under the protection of the Philistine king Achish. It was assigned to Ziclag as a fief. This stay as a Philistine vassal is the most politically compromised episode of David's career: he served a Philistine king while raiding the Negev hiding Achish. Ittai the Gittite (of Gath), one of his loyalists in this period, accompanied him even during Absalom's rebellion.",
+      "religion": "Davidic Yahwism in Philistine context",
+      "periodo": "c. 1013–1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-goliat",
+      "titulo": "David and Goliath: the shepherd against the Gath champion",
+      "fecha": "c. 1025 BC",
+      "descripcion": "Goliath of Gath, a warrior measuring six cubits and a span (almost 3 meters), challenged the Israelite army for forty days in the Valley of Elah. When no one dared to confront him, David—the youngest of Jesse's sons, who was bringing supplies to his brothers—accepted the challenge. He rejected Saul's armor and walked out with his sling and five smooth stones from the stream. The first stone sank into Goliath's forehead. David decapitated him with his own sword. The episode is the most narrated in the entire Bible in Western culture.",
+      "referencias": [
+        "1 Sam 17:1-58"
+      ],
+      "personajes_clave": [
+        "david",
+        "goliat"
+      ]
+    },
+    {
+      "id": "david-refugio-gat",
+      "titulo": "David in Gath: the future king as a Philistine vassal",
+      "fecha": "c. 1013 BC",
+      "descripcion": "Pursued by Saul and with 600 men, David appeared before Achish, king of Gath, requesting refuge. Achish received him and assigned him Ziklag as a fief. David carried out raids against towns in Negev, but informed Aquis to attack Israel and Judah, hiding their true actions. When Aquis summoned the Philistines to battle Israel (the Battle of Gilboa where Saul would die), the Philistines princes distrusted David and sent him back to Siclag. The ambiguity of this Davidic period has generated debates about the political ethics of the future king.",
+      "referencias": [
+        "1 Sam 21:10-15",
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "hazael-gat",
+      "titulo": "Hazael conquers Gath: the Philistine decline",
+      "fecha": "c. 830 BC",
+      "descripcion": "King Hazael of Damascus, the same one anointed by Elisha, conquered Gath during his southward expansion. This conquest was so shocking that King Joash of Judah paid tribute to Hazael with the treasures of the Temple to prevent the attack on Jerusalem. The fall of Gath to Aram marks the beginning of the decline of the Philistine cities as a regional power. Amos (6:2) mentions Gath as an example of a large fallen city, warning Israel that the same fate awaits him.",
+      "referencias": [
+        "2 Kgs 12:17-18",
+        "Amos 6:2"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goliat",
+      "nombre": "Goliath by Gath",
+      "rol": "Philistine champion defeated by David",
+      "periodo": "c. 1025 BC",
+      "descripcion": "Goliath is the biblical archetype of overwhelming power defeated by faith and unexpected skill. His physical description—height, armor, weaving-roll spear—is the most detailed of any warrior in the AT. His forty-day unanswered challenge turns his defeat into the most dramatic contrast possible. Goliath of Gath has given a name in all languages ​​to the giant defeated by the weak.",
+      "referencias": [
+        "1 Sam 17:1-58",
+        "2 Sam 21:19"
+      ],
+      "ruta": [
+        "gath"
+      ]
+    },
+    {
+      "id": "david-gat-personaje",
+      "nombre": "David",
+      "rol": "Victor of Goliath, fugitive in Gath",
+      "periodo": "hierro_2",
+      "descripcion": "David's relationship with Gath is twofold: he defeated her champion as a youth and took refuge in her as an adult. This duality summarizes the complexity of David: the national hero who needs the protection of the enemy to survive. Ittai the Gittite, a Gath mercenary who joined David, symbolizes how even in enemy territory David built personal loyalties that transcended ethnic boundaries.",
+      "referencias": [
+        "1 Sam 17:1-58",
+        "1 Sam 27:1-12",
+        "2 Sam 15:18-22"
+      ],
+      "ruta": [
+        "bethlehem",
+        "gibeah",
+        "gath",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ittai-geteo",
+      "nombre": "Ittai the Gittite",
+      "rol": "Gath mercenary, loyal to David until the end",
+      "periodo": "hierro_2",
+      "descripcion": "Ittai of Gath was a Philistine mercenary who joined David. When Absalom rebelled and David fled from Jerusalem, he offered Ittai the chance to stay with the new king—he was a foreigner and an exile. Ittai responded with words reminiscent of Ruth: As YHWH lives, and as my lord the king lives, wherever my lord the king is, there his servant will also be, whether in death or in life. He commanded a third of the Davidic army in the battle against Absalom. Their loyalty transcends all ethnic and political boundaries.",
+      "referencias": [
+        "2 Sam 15:18-22",
+        "2 Sam 18:2-5"
+      ],
+      "ruta": [
+        "gath",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gath is the biblical symbol of Philistine brute force and the irony of providence: the giant falls before the shepherd with the sling, the enemy's champion is defeated by the youngest of the brothers. David's presence in Gath as a Philistine vassal is the moment of greatest moral ambiguity of his career and the one that has most challenged apologists. Ittai the Gittite's loyalty to David during Absalom's rebellion offers the counterpoint: even in Gath, the city of the enemy giant, loyalties are born that surpass the categories of friend and enemy.",
+    "religiones_presentes": [
+      "Philistine polytheism (worship of Dagon and Baal-Zebub)",
+      "Davidic Yahwism (presence of David and his men in Gath)",
+      "Syncretism of the Sea Peoples (mixture of Aegean and Canaanite traditions)"
+    ],
+    "mitos": [
+      {
+        "id": "david-goliat-mito",
+        "nombre": "David and Goliath: the little one who defeats the giant",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 17:1-58",
+          "fuente_secundaria": "Talmud Bavli, Sotá 42b; Midrash Shmuel 20; Yalkut Shimoni, Shmuel 130",
+          "descripcion": "The Talmud explores the merit that allowed David to win: it is the reward for modesty and faith. The Midrash develops the dialogue between David and Goliath with dramatic elements. The identification of the name of God with which David threw the stone—the stone had the Name engraved on it—turned the episode into a paradigm of victory by faith.",
+          "similitudes": "The single combat that decides the battle is a common literary and military device in the epic traditions of the ancient East.",
+          "diferencias": "Unlike the epic parallels (Achilles, Enkidu), David is not a born warrior but a shepherd-musician: the reversal of expectations is the core of the story.",
+          "significado_teologico": "David's victory over Goliath demonstrates that the battle belongs to YHWH, not military resources. The weak trust; The strong boasts: that is why the strong loses.",
+          "posible_relacion_cultural": "Combat between champions to avoid general battle was a documented practice in the Late Bronze Age (treaty of Qadesh between Ramses II and the Hittites contemplates similar arbitration)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Samuel 17; Hebreos 11:32-34",
+          "fuente_secundaria": "Orígenes, Homilías sobre los Reyes; Agustín, Ciudad de Dios XVII; arte paleocristiano",
+          "descripcion": "Christian exegesis interpreted David as a figure of Christ and Goliath as a figure of the devil or death. Just as David defeated the giant with five stones (the five books of Moses, according to some Fathers), Christ defeated the enemy with the most humble resources. Early Christian and medieval art used the image of David and Goliath as a representation of the Church's victory over evil.",
+          "similitudes": "The unexpected winner using humble resources is the shared narrative structure.",
+          "diferencias": "The Christian typology transposes the historical combat into a cosmic drama; Judaism maintains the emphasis on the historical virtue of David.",
+          "significado_teologico": "Christ as the true David who defeats the giant of sin and death with the weapons of humility and the cross.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2:246-251 (Al-Baqara)",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya — Historia de Dawud",
+          "descripcion": "The Quran tells the story of Talut (Saul) and the army of believers who faced Jalut (Goliath). Dawud (David) killed Jalut, and Allah gave him the kingdom and wisdom. The episode is used to illustrate that victory in battle does not depend on numbers but on patience and faith.",
+          "similitudes": "The structure of the faithful believer's victory over the powerful unbeliever is identical in all three traditions.",
+          "diferencias": "The Quran emphasizes the context of the Talut test (only those who did not drink from the river could continue) more than the personal duel between David and Goliath.",
+          "significado_teologico": "Dawud's victory over Jalut shows how many times a small troop defeated a large one, with the permission of Allah. Faith surpasses numbers.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

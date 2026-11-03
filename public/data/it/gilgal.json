@@ -1,0 +1,134 @@
+{
+  "id": "gilgal",
+  "nombre": "Galgala",
+  "tipo": "ciudad",
+  "lat": 31.86,
+  "lng": 35.52,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 40,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1220,
+      "hasta": -800,
+      "nombre": "Ferro I e II"
+    }
+  ],
+  "descripcion_geo": "Campo base Israele a ovest del Giordano, vicino a Gerico. Primo posto dove Israele si è accampato in Canaan.",
+  "altitud_m": -200,
+  "clima": "arido-mediterraneo",
+  "recursos": [
+    "acqua",
+    "agricoltura dell'oasi"
+  ],
+  "importancia_estrategica": "Prima capitale spirituale di Israele in Canaan; luogo del primo accampamento, della circoncisione collettiva e del monumento delle dodici pietre.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gal_h1",
+      "titulo": "Le dodici pietre del Giordano in Galgala",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Israele solleva dodici pietre dal Giordano a Galgala in memoria della traversata miracolosa.",
+      "referencias": [
+        "Gs 4:19-24"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h2",
+      "titulo": "Circoncisione collettiva in Galgala",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Giosuè circoncide l'intera generazione nata nel deserto in Galgala; 'Oggi vi ho tolto il rimprovero di Egitto.'",
+      "referencias": [
+        "Gs 5:2-9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "gal_h3",
+      "titulo": "Saul re unto in Galgala",
+      "fecha": "ca. 1030 a.C.",
+      "descripcion": "Saul viene presentato al popolo come re in Galgala; Successivamente offre lì un sacrificio che gli costa il regno.",
+      "referencias": [
+        "1 Sam 11:15",
+        "1 Sam 13:8-14"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Samuel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gal_p1",
+      "nombre": "Giosuè",
+      "rol": "Leader della conquista",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Ha stabilito Galgala come base operativa per la conquista di Canaan.",
+      "referencias": [
+        "Gs 5:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p2",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele",
+      "periodo": "ca. 1030 a.C.",
+      "descripcion": "Fu incoronato e poi giudicato in Galgala; La sua disobbedienza segnò la fine del suo regno.",
+      "referencias": [
+        "1 Sam 13:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gal_p3",
+      "nombre": "Samuele",
+      "rol": "Profeta e giudice",
+      "periodo": "ca. 1050-1000 a.C.",
+      "descripcion": "Realizzò circuiti giudiziari che includevano Galgala; ha rimproverato Saul lì.",
+      "referencias": [
+        "1 Sam 7:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Luogo di fondazione religiosa: prima circoncisione in Canaan, prima Pasqua nella terra promessa, primo accampamento dopo il Giordano.",
+    "religiones_presentes": [
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "gal_m1",
+        "nombre": "La vergogna di Egitto è stata rimossa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gsè 5,9",
+          "fuente_secundaria": "",
+          "descripcion": "«Oggi vi ho tolto l'obbrobrio di Egitto» (Gsè 5,9): la circoncisione in Galgala segna il nuovo inizio del popolo liberato.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "«Oggi vi ho tolto l'obbrobrio di Egitto» (Gsè 5,9): la circoncisione in Galgala segna il nuovo inizio del popolo liberato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

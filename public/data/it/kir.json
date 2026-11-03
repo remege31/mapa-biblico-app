@@ -1,0 +1,152 @@
+{
+  "id": "kir",
+  "nombre": "Quir di Moab",
+  "tipo": "ciudad",
+  "lat": 31.18132579594509,
+  "lng": 35.70214779044711,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Fortezza meridionale di Moab, distrutta da Babilonia"
+    }
+  ],
+  "descripcion_geo": "Città fortificata all'estremità meridionale di Moab, forse la stessa di Quir-hareset, identificata in alcune tradizioni con la moderna Al-Karak. Una delle principali roccaforti del regno moabita, menzionata negli oracoli profetici insieme ad Ar come le due capitali di Moab.",
+  "altitud_m": 950,
+  "clima": "Montagna semi-arida: estati calde e secche, inverni freddi, tipici degli altopiani meridionali di Moab.",
+  "recursos": [
+    "Posizione fortificata su un'altura",
+    "Capitale meridionale alternativa di Moab vicino ad Ar"
+  ],
+  "importancia_estrategica": "Quir è, insieme ad Ar, una delle due città principali esplicitamente menzionate all'inizio del vasto oracolo di Isaia contro Moab, suggerendo il suo status di centro fortificato di prim'ordine; Appare anche come un'ambientazione cruciale nella ribellione di Mesha contro Israele narrata in 2 Re 3, dove il re moabita sacrifica il suo figlio primogenito sulle sue mura durante l'assedio.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_kir",
+      "nombre": "Moabiti",
+      "descripcion": "Città di Kir, una delle principali fortezze del regno di Moab, sotto assedio durante la campagna della coalizione israelita-giudaita-edomita narrata in 2 Re 3.",
+      "religion": "Politeismo moabita: culto di Chemosh",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "arqueros_kir",
+      "nombre": "Difensori di Quir-hareset",
+      "descripcion": "Combattenti moabiti che resistono dalle mura della città durante l'assedio da parte della coalizione di Joram, Giosafat e il re di Edom.",
+      "religion": "Politeismo moabita",
+      "periodo": "C. 850 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-ar-kir",
+      "titulo": "Isaia inizia il suo oracolo contro Moab nominando Ar e Quir",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "L'ampio oracolo di Isaia contro Moab inizia proprio annunciando che 'in una notte Ar di Moab fu distrutto' e che 'in una notte Quir di Moab fu distrutto', stabilendo queste due città come principali punti di riferimento di giudizio sull'intero regno.",
+      "referencias": [
+        "Is 15:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "asedio-mesa-kir-hareset",
+      "titulo": "L'assedio di Kir-Hareseth e il sacrificio di Mesha",
+      "fecha": "c. 850 a.C.",
+      "descripcion": "Durante la campagna congiunta di Israele, Giuda e Edom contro la ribellione Mesha di Moab, la coalizione devasta il territorio moabita e pone l'assedio a Quir-hareset; Vedendo che la battaglia sta diventando troppo dura per lui, Mesha prende il suo figlio primogenito, erede al trono, e lo offre in olocausto sul muro, episodio dopo il quale 'ci fu una grande rabbia contro Israele' che costringe la coalizione a ritirarsi.",
+      "referencias": [
+        "2 Re 3:25-27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-lamento-kir-hareset",
+      "titulo": "Lamento per gli uomini di Kir-Hareset",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Isaia affronta specificamente Quir-hareset in un passaggio successivo dell'oracolo, lamentando la distruzione delle sue \"torte all'uvetta\" (probabilmente offerte o prodotti caratteristici) come parte dell'ampio catalogo di perdite materiali e umane che influenzeranno Moab.",
+      "referencias": [
+        "Is 16:7",
+        "Is 16:11"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_kir",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Stabilisce Quir, insieme ad Ar, come le due principali città menzionate all'inizio del suo ampio oracolo di giudizio contro il regno di Moab.",
+      "referencias": [
+        "Is 15:1",
+        "Is 16:7-11"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "mesa_kir",
+      "nombre": "Tavolo, re di Moab",
+      "rol": "Il re moabita assediò a Kir-Hareseth",
+      "periodo": "hierro_2",
+      "descripcion": "Resiste all'assedio della coalizione israelita-giudaita-edomita a Kir-Hareset al punto da sacrificare il proprio figlio primogenito in un atto estremo che costringe gli assedianti a ritirarsi.",
+      "referencias": [
+        "2 Re 3:26-27"
+      ],
+      "ruta": [
+        "dibon",
+        "kir"
+      ]
+    },
+    {
+      "id": "joram_josafat_kir",
+      "nombre": "Jehoram di Israele e Giosafat di Giuda",
+      "rol": "Re della coalizione assediante",
+      "periodo": "c. 850 a.C.",
+      "descripcion": "Insieme al re di Edom, guidano la campagna militare contro la ribellione di Mesha, assediando Kir-Hareset prima di ritirarsi dopo l'estremo sacrificio del re moabita.",
+      "referencias": [
+        "2 Re 3:6-27"
+      ],
+      "ruta": [
+        "kir"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Chir è teatro di uno degli episodi più inquietanti dell'Antico Testamento: il sacrificio del figlio primogenito di Mesha di fronte all'imminente sconfitta, un atto di estrema devozione al dio moabita Chemosh che il testo biblico ricorda senza spiegarne pienamente gli effetti (\"vi fu una grande ira contro Israele\"), generando secoli di dibattito esegetico se la 'rabbia' provenisse da Chemosh, da YHWH, o dalla costernazione morale di gli stessi soldati israeliti a un simile atto.",
+    "religiones_presentes": [
+      "Politeismo moabita - culto di Chemosh (incluso il sacrificio umano in circostanze estreme)"
+    ],
+    "mitos": [
+      {
+        "id": "sacrificio-mesa-kir",
+        "nombre": "Il sacrificio del primogenito di Mesha a Kir-Hareseth",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 3:26-27",
+          "fuente_secundaria": "Comentario rabínico tradicional y académico moderno sobre la ambigüedad de la expresión 'gran enojo' (qetsef gadol) y sus posibles interpretaciones",
+          "descripcion": "La tradizione ebraica e la successiva esegesi accademica dibattono ampiamente sull'esatto significato della frase 'ci fu grande ira contro Israele' in seguito al sacrificio di Mesha: alcune interpretazioni la attribuiscono all'orrore morale provocato tra le stesse truppe israelite, altre a una manifestazione di potere attribuito (dal punto di vista moabita) al dio Chemosh, generando uno dei passaggi più enigmatici di tutta la letteratura storica biblica riguardo all'efficacia percepita delle divinità straniere.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio solleva complesse questioni teologiche sul rapporto tra il racconto biblico e l'efficacia percepita dei culti stranieri, senza offrire un'esplicita soluzione dottrinale nel testo stesso.",
+          "posible_relacion_cultural": "Parziale conferma extrabiblica attraverso la Stele di Mesa, che documenta la prospettiva moabita di questa stessa ribellione contro Israele."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

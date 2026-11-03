@@ -1,0 +1,150 @@
+{
+  "id": "libya",
+  "nombre": "Libia",
+  "tipo": "territorio",
+  "lat": 32.824979,
+  "lng": 21.858301,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II - Alleati di Egitto negli oracoli profetici"
+    }
+  ],
+  "descripcion_geo": "Regione del Nord Africa a ovest di Egitto, menzionata nel testo biblico con il nome 'Fut' o 'Put' in alcuni passaggi e 'Lubim' (Libici) in altri, conosciuta principalmente come cittadina militarmente alleata con Egitto in diversi episodi bellici.",
+  "altitud_m": 200,
+  "clima": "Deserto mediterraneo: estremamente secco e caldo, tipico dell'Africa occidentale settentrionale fino a Egitto.",
+  "recursos": [
+    "Truppe mercenarie e alleate per Egitto",
+    "Posizione strategica come alleato occidentale del potere egiziano"
+  ],
+  "importancia_estrategica": "La Libia appare costantemente nel testo biblico come alleato militare di Egitto, fornendo truppe sia per la difesa di Tebe menzionata da Naum che per le campagne del faraone Shishak contro Roboamo di Giuda, illustrando la rete di alleanze africane che sostenne il potere militare egiziano durante gran parte del periodo della monarchia israelita.",
+  "otros_habitantes": [
+    {
+      "id": "libios_ejercito_sisac",
+      "nombre": "Truppe libiche dell'esercito di Shishak",
+      "descripcion": "Contingente militare libico integrato nell'esercito invasore del faraone Shishak che attacca Gerusalemme durante il regno di Roboamo.",
+      "religion": "Religioni politeiste nordafricane",
+      "periodo": "C. 925 a.C"
+    },
+    {
+      "id": "libios_aliados_tebas",
+      "nombre": "Alleati militari libici di Tebe",
+      "descripcion": "Forze libiche menzionate da Nahum tra gli alleati militari di Tebe che, nonostante la loro forza combinata, non riuscirono a impedire la distruzione della città da parte degli Assiri.",
+      "religion": "Religioni politeiste nordafricane",
+      "periodo": "C. 663 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sisac-tropas-libias-jerusalen",
+      "titulo": "Truppe libiche nell'invasione di Shishak contro Roboamo",
+      "fecha": "c. 925 a.C.",
+      "descripcion": "Il faraone Shishak invade Giuda durante il regno di Roboamo con un enorme esercito che include carri, cavalieri e un'innumerevole popolazione di egiziani, libici, suchyen ed etiopi, saccheggiando i tesori del Tempio e del palazzo reale come punizione per aver abbandonato la Legge di YHWH.",
+      "referencias": [
+        "2 Cr 12:2-9"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    },
+    {
+      "id": "nahum-libios-tebas",
+      "titulo": "Nahum menziona i Libici come alleati della distrutta Tebe",
+      "fecha": "c. 663–612 a.C.",
+      "descripcion": "Il profeta Nahum, ricordando la caduta di Tebe come monito per Ninive, menziona specificamente i libici tra gli alleati militari della città egiziana, la cui forza combinata con Cush e Put alla fine non ne impedì la distruzione.",
+      "referencias": [
+        "Na 3:9"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    },
+    {
+      "id": "ezequiel-libia-juicio-egipto",
+      "titulo": "Ezechiele include la Libia nel processo sugli alleati di Egitto",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Il profeta Ezechiele menziona Put (Libia) e Lud tra i popoli alleati che cadranno di spada insieme a Egitto nel giorno del giudizio divino annunciato contro questa grande potenza e le nazioni ad essa associate.",
+      "referencias": [
+        "Ez 30:5"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sisac_libia",
+      "nombre": "Shishak, Faraone di Egitto",
+      "rol": "Leader della coalizione d'invasione che comprende truppe libiche",
+      "periodo": "c. 925 a.C.",
+      "descripcion": "Conduce una massiccia invasione contro Giuda che include contingenti libici tra le sue forze multinazionali, saccheggiando Gerusalemme durante il regno di Roboamo.",
+      "referencias": [
+        "2 Cr 12:2-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nahum_libia",
+      "nombre": "Nahum",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 663–612 a.C.",
+      "descripcion": "Cita gli alleati libici di Tebe come parte della tesi storica secondo cui anche le alleanze militari più estese non potrebbero salvare la città egiziana dalla sua distruzione finale.",
+      "referencias": [
+        "Na 3:8-10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "roboam_libia",
+      "nombre": "Roboamo",
+      "rol": "Re di Giuda, vittima dell'invasione con le truppe libiche",
+      "periodo": "hierro_2",
+      "descripcion": "Subisce il saccheggio di Gerusalemme da parte dell'esercito multinazionale di Shishak che comprende contingenti libici, episodio presentato come punizione divina per aver abbandonato la Legge.",
+      "referencias": [
+        "2 Cr 12:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La Libia appare costantemente nel corpus biblico non come protagonista di se stessa ma come elemento della rete di alleanze militari che sostennero il potere egiziano in diversi momenti storici, dall'invasione di Shishak alla fallita difesa di Tebe; La sua inclusione negli oracoli profetici di giudizio contro Egitto e i suoi alleati rafforza l’idea biblica secondo cui il giudizio divino raggiunge non solo la potenza principale ma anche l’intera rete di nazioni che sostengono la sua potenza militare.",
+    "religiones_presentes": [
+      "Religioni politeiste nordafricane",
+      "Yahvismo (prospettiva degli oracoli profetici)"
+    ],
+    "mitos": [
+      {
+        "id": "alianzas-africanas-egipto-libia",
+        "nombre": "Le alleanze militari africane di Egitto oggetto di processo congiunto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Cr 12:2-9; Nah 3:9; Ez 30:5",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la red de alianzas militares de Egipto con pueblos africanos como Libia, Cus y Put como ejemplo de poder humano construido sobre alianzas extensas pero finalmente insuficientes frente al juicio divino",
+          "descripcion": "La tradizione ebraica osserva che la ripetuta menzione da parte di Egitto della Libia e di altri alleati africani in vari contesti biblici - dalla vittoriosa invasione di Shishak alla caduta finale di Tebe - illustra come il potere umano, non importa quanto estese siano le sue alleanze militari, non può essere sostenuto indefinitamente di fronte al disegno divino, un principio applicabile sia alle nazioni pagane che, implicitamente, come avvertimento a Giuda sull'inutilità di riporre la massima fiducia nelle alleanze militari umane piuttosto che YHWH.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La rete di alleanze militari di Egitto con popoli come la Libia esemplifica i limiti del potere umano organizzato di fronte al giudizio sovrano di YHWH sulle nazioni.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "bezer",
+  "nombre": "kisser",
+  "tipo": "ciudad",
+  "lat": 32.51613740944529,
+  "lng": 36.48829075785014,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City of Refuge in Reuben"
+    }
+  ],
+  "descripcion_geo": "City on the Reuben Plateau in Transjordan, designated as one of the six cities of refuge in the Israelite legal system, equivalent on the eastern side of the Jordan to Kedesh in the north and Hebron in the south.",
+  "altitud_m": 850,
+  "clima": "Semi-arid highland — dry, hot summers, cold winters, typical of the Reuben Plateau in Transjordan.",
+  "recursos": [
+    "Legal status of city of refuge (asylum for involuntary murderers)",
+    "Levitical city within the territory of Reuben",
+    "Position on the Transjordan Plateau"
+  ],
+  "importancia_estrategica": "Beser fulfills the same legal-religious function as Kedesh in the north: one of the six cities of refuge of the Mosaic legal system, strategically located on the eastern side of the Jordan to guarantee equal access to this mechanism of legal protection both for the inhabitants of Transjordan and, potentially, for any Israelite who needed refuge in that region.",
+  "otros_habitantes": [
+    {
+      "id": "rubenitas_bezer",
+      "nombre": "Ruben's Tribe",
+      "descripcion": "Local population of Beser, in whose territory this city of refuge is established according to the territorial distribution of Transjordan.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    },
+    {
+      "id": "levitas_bezer",
+      "nombre": "Levites of the Merari line",
+      "descripcion": "Priestly families settled in Beser as one of the Levitical cities assigned within the territory of Reuben.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-designa-bezer-refugio",
+      "titulo": "Moses designates Beser as a city of refuge",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Moses himself, before his death, separates three cities of refuge east of the Jordan, including Beser on the plateau of Reubenite territory, complementing the system of three additional cities that will be established west of the Jordan after the conquest of Canaan.",
+      "referencias": [
+        "Deut 4:41-43"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "bezer-confirmada-josue",
+      "titulo": "Joshua confirms Beser among the six cities of refuge",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "The book of Joshua formally confirms Bezer among the complete system of six cities of refuge distributed on both sides of the Jordan, guaranteeing equal access to the legal protection mechanism for the entire Israelite population.",
+      "referencias": [
+        "Josh 20:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "bezer-ciudad-levitica-rubenita",
+      "titulo": "Beser designated Levitical city in Reuben",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "Beser receives the double designation of city of refuge and Levitical city for the priestly families of the Merari line, combining the legal function of asylum with permanent priestly presence in the Reubenite territory.",
+      "referencias": [
+        "Josh 21:36"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_bezer",
+      "nombre": "Moses",
+      "rol": "Legislator, instituter of the refuge system",
+      "periodo": "bronce_tardio",
+      "descripcion": "He personally establishes Bezer as one of the first three cities of refuge in the Mosaic legal system, even before the crossing of the Jordan into Canaan.",
+      "referencias": [
+        "Deut 4:41-43"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_bezer",
+      "nombre": "Joshua",
+      "rol": "Leader of conquest, confirmer of the complete system",
+      "periodo": "bronce_tardio",
+      "descripcion": "It confirms and completes the system of six cities of refuge established by Moses, including Beser among the places of legal asylum distributed equally on both sides of the Jordan.",
+      "referencias": [
+        "Josh 20:1-9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "levitas_merari_bezer",
+      "nombre": "Levites of the Merari line",
+      "rol": "Priestly residents of Beser",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Assigned to reside in Beser, combining the Levitical priestly presence with the city's legal refuge function.",
+      "referencias": [
+        "Josh 21:36"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beser completes, along with Cedes in the north and other cities in the system, the legal protection network established by Mosaic law to guarantee due process to those who commit involuntary manslaughter; Its early designation by Moses himself, even before the conquest of Canaan, underlines the priority that the Israelite legal system gave to this mechanism of procedural mercy from the first moments of the territorial organization of the people.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "sistema-completo-refugio-bezer",
+        "nombre": "The early establishment of the refuge system by Moses",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 4:41-43; Jos 20:8; Jos 21:36",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la prioridad legal otorgada por Moisés a la designación de las primeras ciudades de refugio antes incluso de completar la conquista de la tierra prometida",
+          "descripcion": "Jewish tradition highlights that Moses personally established the first three cities of refuge, including Bezer, before his own death and even before Israel crossed the Jordan into Canaan, interpreting this early prioritization as evidence of the fundamental importance that the Mosaic legal system placed on the protection of due process, even before full territorial possession was completed.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The early establishment of the refuge system demonstrates that procedural justice and protection against hasty revenge were fundamental priorities of the Mosaic legal system from its earliest moments of implementation.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

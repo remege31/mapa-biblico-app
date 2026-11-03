@@ -1,0 +1,242 @@
+{
+  "id": "illyricum",
+  "nombre": "Illiria",
+  "tipo": "territorio",
+  "lat": 42.47,
+  "lng": 19.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione sulla costa orientale dell'Adriatico (l'attuale Albania ed ex Jugoslavia). Paolo è arrivato lì durante la sua missione europea.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ill_h1",
+      "titulo": "Paolo predica all'Illiria",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Paolo descrive l'ambito della sua missione: da Gerusalemme all'Illiria, sulla costa adriatica.",
+      "referencias": [
+        "Rm 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h2",
+      "titulo": "Tito inviato in Dalmazia (Illiria)",
+      "fecha": "ca. 64-66 d.C.",
+      "descripcion": "Tito fu inviato in Dalmazia (parte dell'Illiria) nel ministero finale di Paolo.",
+      "referencias": [
+        "2 Tm 4:10"
+      ],
+      "personajes_clave": [
+        "Tito",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ill_h3",
+      "titulo": "Illiria: limite occidentale della missione paolina",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "L'Illiria era il punto più occidentale raggiunto da Paolo prima del suo ultimo viaggio verso Roma.",
+      "referencias": [
+        "Rm 15:19"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ill_p1",
+      "nombre": "Paolo",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Venne predicando il Vangelo all'Illiria, sulle rive dell'Adriatico.",
+      "referencias": [
+        "Rm 15:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p2",
+      "nombre": "Tito",
+      "rol": "Discepolo di Paolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Fu inviato in Dalmazia (Illiria) nell'ultima tappa del ministero paolino.",
+      "referencias": [
+        "2 Tm 4:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ill_p3",
+      "nombre": "Luca",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Compagno di Paolo che ha registrato i suoi viaggi missionari.",
+      "referencias": [
+        "At 16:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Illiria: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ill_m1",
+        "nombre": "Da Gerusalemme all'Illiria",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo ha descritto l'intero arco della sua missione: da Gerusalemme all'Illiria, adempiendo al mandato di portare il Vangelo fino ai confini della terra.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo ha descritto l'intero arco della sua missione: da Gerusalemme all'Illiria, adempiendo al mandato di portare il Vangelo fino ai confini della terra.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ill_h1",
+        "titulo": "Paolo predica all'Illiria",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo descrive l'ambito della sua missione: da Gerusalemme all'Illiria, sulla costa adriatica.",
+        "referencias": [
+          "Rm 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h2",
+        "titulo": "Tito inviato in Dalmazia (Illiria)",
+        "fecha": "ca. 64-66 d.C.",
+        "descripcion": "Tito fu inviato in Dalmazia (parte dell'Illiria) nel ministero finale di Paolo.",
+        "referencias": [
+          "2 Tm 4:10"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ill_h3",
+        "titulo": "Illiria: limite occidentale della missione paolina",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "L'Illiria era il punto più occidentale raggiunto da Paolo prima del suo ultimo viaggio verso Roma.",
+        "referencias": [
+          "Rm 15:19"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ill_p1",
+        "nombre": "Paolo",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Venne predicando il Vangelo all'Illiria, sulle rive dell'Adriatico.",
+        "referencias": [
+          "Rm 15:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p2",
+        "nombre": "Tito",
+        "rol": "Discepolo di Paolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Fu inviato in Dalmazia (Illiria) nell'ultima tappa del ministero paolino.",
+        "referencias": [
+          "2 Tm 4:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ill_p3",
+        "nombre": "Luca",
+        "rol": "Evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Compagno di Paolo che ha registrato i suoi viaggi missionari.",
+        "referencias": [
+          "At 16:10"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "L'Illiria nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ill_m1",
+          "nombre": "Da Gerusalemme all'Illiria",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Paolo ha descritto l'intero arco della sua missione: da Gerusalemme all'Illiria, adempiendo al mandato di portare il Vangelo fino ai confini della terra.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paolo ha descritto l'intero arco della sua missione: da Gerusalemme all'Illiria, adempiendo al mandato di portare il Vangelo fino ai confini della terra.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

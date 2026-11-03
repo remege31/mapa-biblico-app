@@ -1,0 +1,158 @@
+{
+  "id": "great_sea",
+  "nombre": "Gran Mar (Mediterráneo)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 34.0,
+  "lng": 29.0,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronce medio - Romano"
+    }
+  ],
+  "descripcion_geo": "El 'Gran Mar' de la Biblia, llamado también 'Mar del Occidente'. Frontera occidental de la tierra prometida y arteria del comercio antiguo.",
+  "altitud_m": 0,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pesca",
+    "comercio marítimo",
+    "sal",
+    "ruta de navegación"
+  ],
+  "importancia_estrategica": "Frontera occidental de Israel y eje del comercio entre Canaán, Fenicia, Grecia y Roma.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "grs_h1",
+      "titulo": "El mar como frontera occidental de la tierra prometida",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dios señala el Gran Mar como frontera occidental de la herencia de Israel: 'desde el desierto hasta este mar'.",
+      "referencias": [
+        "Nm 34:6",
+        "Jos 1:4"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué"
+      ]
+    },
+    {
+      "id": "grs_h2",
+      "titulo": "Jonás arroja al mar en una tormenta",
+      "fecha": "ca. s. VIII a.C.",
+      "descripcion": "Jonás, huyendo a Tarsis por el Mediterráneo, es arrojado al mar por los marineros durante una tormenta; un gran pez lo traga.",
+      "referencias": [
+        "Jon 1:15"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    },
+    {
+      "id": "grs_h3",
+      "titulo": "Pablo naufragado en el Mediterráneo",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Pablo naufraga camino a Roma en el Mediterráneo; el barco encalla en Malta pero todos se salvan.",
+      "referencias": [
+        "Hch 27:27-44"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "grs_p1",
+      "nombre": "Jonás",
+      "rol": "Profeta fugitivo",
+      "periodo": "ca. s. VIII a.C.",
+      "descripcion": "Intentó huir a Tarsis por el Mediterráneo; fue rescatado del fondo del mar por un gran pez.",
+      "referencias": [
+        "Jon 1:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p2",
+      "nombre": "Hiram de Tiro",
+      "rol": "Rey fenicio",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Los fenicios dominaban el comercio mediterráneo; Hiram suministró madera a Salomón por vía marítima.",
+      "referencias": [
+        "1 Re 5:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p3",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Realizó tres viajes misioneros por el Mediterráneo y naufragó camino a Roma.",
+      "referencias": [
+        "Hch 27:41"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El mar fue para Israel la frontera del mundo conocido y el escenario de la huida de Jonás; en el NT, la autopista de la misión paulina.",
+    "religiones_presentes": [
+      "paganismo_fenicio",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "grs_m1",
+        "nombre": "Jonás y el gran pez",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Jonás en el vientre del pez en el fondo del Mediterráneo: símbolo de muerte y resurrección, oración desde el abismo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jonás en el vientre del pez en el fondo del Mediterráneo: símbolo de muerte y resurrección, oración desde el abismo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:40",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús cita el 'signo de Jonás' como anuncio de su muerte y resurrección (Mt 12:40).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús cita el 'signo de Jonás' como anuncio de su muerte y resurrección (Mt 12:40).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 37:139-148",
+          "fuente_secundaria": "",
+          "descripcion": "Yunus (Jonás) es profeta en el Islam; el Corán narra su historia en el mar (Cor 37:139-148).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Yunus (Jonás) es profeta en el Islam; el Corán narra su historia en el mar (Cor 37:139-148).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

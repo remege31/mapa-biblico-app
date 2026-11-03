@@ -1,0 +1,133 @@
+{
+  "id": "zeboiim",
+  "nombre": "Zeboim",
+  "tipo": "ciudad",
+  "lat": 31.12,
+  "lng": 35.41,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Una delle cinque città della pianura (pentapoli) distrutte insieme a Sodoma e Gomorra; La sua ubicazione esatta è incerta.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Città della valle di Siddim distrutta vicino a Sodoma.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zeb_h1",
+      "titulo": "Zeboim nella battaglia dei quattro re contro cinque",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Il re di Zeboim partecipò alla coalizione dei cinque re della valle contro i quattro re dell'oriente.",
+      "referencias": [
+        "Gen 14:2,8"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot"
+      ]
+    },
+    {
+      "id": "zeb_h2",
+      "titulo": "Dio distrugge Zeboim insieme a Sodoma",
+      "fecha": "ca. mítico",
+      "descripcion": "Zeboim viene distrutto insieme a Sodoma, Gomorra, Adma e Zoar per giudizio di Dio.",
+      "referencias": [
+        "Gen 19:24",
+        "Dt 29:23"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "zeb_h3",
+      "titulo": "Osea: Adma e Zeboim come avvertimento",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Osea cita la distruzione di Adma e Zeboim come monito per Israele: lo stesso giudizio potrebbe cadere su di lui.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zeb_p1",
+      "nombre": "re di Zeboim",
+      "rol": "Re della città distrutta",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Uno dei cinque re che prima si allearono contro l'Oriente e poi furono sconfitti.",
+      "referencias": [
+        "Gen 14:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p2",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Salvò Lot che era stato catturato nella battaglia dei quattro re contro i cinque che includevano Zeboim.",
+      "referencias": [
+        "Gen 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p3",
+      "nombre": "Osea",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Ha citato la distruzione di Zeboim come paradigma del giudizio divino per avvertire l'Israele del nord.",
+      "referencias": [
+        "Os 11:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zeboim: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "zeb_m1",
+        "nombre": "Le città del giudizio",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Sodoma, Gomorra, Adma e Zeboim sono il paradigma biblico del giudizio totale; la sua distruzione è citata da diversi profeti come avvertimento.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Sodoma, Gomorra, Adma e Zeboim sono il paradigma biblico del giudizio totale; la sua distruzione è citata da diversi profeti come avvertimento.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

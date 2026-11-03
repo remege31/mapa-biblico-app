@@ -1,0 +1,134 @@
+{
+  "id": "hazeroth",
+  "nombre": "Hazerot",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Campamento de Israel en el desierto del Sinaí, segunda parada después del monte Sinaí. Escenario de la murmuración de Miriam.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Campamento del desierto donde Miriam fue herida de lepra por murmurar contra Moisés.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "haz_h1",
+      "titulo": "Miriam y Aarón murmuran contra Moisés en Hazerot",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "En Hazerot, Miriam y Aarón critican a Moisés por su esposa cushita; Miriam es golpeada de lepra blanca.",
+      "referencias": [
+        "Nm 12:1-16"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Aarón",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "haz_h2",
+      "titulo": "Israel acampa en Hazerot siete días",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Israel espera en Hazerot siete días mientras Miriam está fuera del campamento por la lepra; luego parte al desierto de Parán.",
+      "referencias": [
+        "Nm 12:15"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "haz_h3",
+      "titulo": "Hazerot en el itinerario del éxodo",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Hazerot aparece en la lista de estaciones del desierto recorridas por Israel desde Egipto hasta Canaán.",
+      "referencias": [
+        "Nm 33:17-18"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "haz_p1",
+      "nombre": "Miriam",
+      "rol": "Profetisa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Fue herida de lepra en Hazerot por su murmuración contra Moisés; restaurada tras siete días.",
+      "referencias": [
+        "Nm 12:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p2",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Intercedió por Miriam ante Dios en Hazerot: '¡Oh Dios, sánala ahora!'.",
+      "referencias": [
+        "Nm 12:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p3",
+      "nombre": "Aarón",
+      "rol": "Sumo sacerdote",
+      "periodo": "ca. 1280-1220 a.C.",
+      "descripcion": "Participó en la murmuración pero no fue castigado; imploró a Moisés que intercediera por Miriam.",
+      "referencias": [
+        "Nm 12:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hazerot: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "haz_m1",
+        "nombre": "La lepra de Miriam",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Miriam fue golpeada de lepra por criticar a Moisés; su castigo y restauración muestran que ni siquiera los más cercanos al líder están exentos de la disciplina divina.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Miriam fue golpeada de lepra por criticar a Moisés; su castigo y restauración muestran que ni siquiera los más cercanos al líder están exentos de la disciplina divina.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

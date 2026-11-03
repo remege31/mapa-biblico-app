@@ -1,0 +1,133 @@
+{
+  "id": "pathros",
+  "nombre": "Patros",
+  "tipo": "territorio",
+  "lat": 28.32,
+  "lng": 30.69,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Upper Egypt (southern Egypt), where Jewish communities lived in the post-exilic period. The name means 'southern land' in Egyptian.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Land of the Jewish diaspora in the south of Egypt.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pat_h1",
+      "titulo": "Jews exiled in Patros",
+      "fecha": "ca. 586-400 BC",
+      "descripcion": "After the fall of Jerusalem, Jewish communities were established in Patros (Upper Egypt); the Elephantine papyri document his life.",
+      "referencias": [
+        "Jer 44:1,15"
+      ],
+      "personajes_clave": [
+        "Jeremías",
+        "judíos"
+      ]
+    },
+    {
+      "id": "pat_h2",
+      "titulo": "Jeremiah warns the Jews of Patros",
+      "fecha": "ca. 586 BC",
+      "descripcion": "Jeremiah warns the Jewish communities in Patros that their religious syncretism will bring judgment.",
+      "referencias": [
+        "Jer 44:15-30"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "pat_h3",
+      "titulo": "The return of the dispersed of Patros",
+      "fecha": "ca. 700 BC",
+      "descripcion": "Isaiah prophesies that the Lord will gather his dispersed people from Patros among other places.",
+      "referencias": [
+        "Isa 11:11"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pat_p1",
+      "nombre": "Jeremiah",
+      "rol": "Prophet",
+      "periodo": "627-586 BC",
+      "descripcion": "He traveled to Egypt and warned the Jews of Patros against syncretism.",
+      "referencias": [
+        "Jer 44:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p2",
+      "nombre": "Isaiah",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "He included Patros in the prophecy of the return of the dispersed to Israel.",
+      "referencias": [
+        "Isa 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p3",
+      "nombre": "Jewish communities of Patros",
+      "rol": "Jewish diaspora",
+      "periodo": "ca. 586-400 BC",
+      "descripcion": "They lived in Alto Egypt; the Elephantine papyri show a Jewish temple in the region.",
+      "referencias": [
+        "Jer 44:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Patros: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "pat_m1",
+        "nombre": "The diaspora in Patros",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Patros is a symbol of the Jewish diaspora: Israel dispersed to the ends of the known world; but Isaiah promises that God will gather him from there.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Patros is a symbol of the Jewish diaspora: Israel dispersed to the ends of the known world; but Isaiah promises that God will gather him from there.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

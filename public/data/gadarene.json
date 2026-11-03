@@ -1,0 +1,246 @@
+{
+  "id": "gadarene",
+  "nombre": "Gadara (Decápolis)",
+  "tipo": "ciudad",
+  "lat": 32.654,
+  "lng": 35.685,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Ciudad de la Decápolis al este del lago de Galilea. Región helenística con fuerte presencia gentil; escenario del exorcismo de los dos endemoniados.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gad_h1",
+      "titulo": "Jesús sana al endemoniado de Gadara",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "Jesús cruza el lago y en la región de los gadarenos/gerasenos sana a un hombre con legión de demonios; los cerdos corren al lago.",
+      "referencias": [
+        "Mt 8:28-34",
+        "Mc 5:1-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "endemoniado"
+      ]
+    },
+    {
+      "id": "gad_h2",
+      "titulo": "El endemoniado de Gadara evangeliza la Decápolis",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "Sanado, el hombre pide seguir a Jesús; Jesús le manda volver y contar lo que le hizo; él lo proclama en toda la Decápolis.",
+      "referencias": [
+        "Mc 5:19-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "exendemoniado"
+      ]
+    },
+    {
+      "id": "gad_h3",
+      "titulo": "Los cerdos como señal de tierra gentil",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "La presencia de una gran piara de cerdos en Gadara indica que era territorio gentil; Jesús ministra allí extendiendo su misión más allá de Israel.",
+      "referencias": [
+        "Mc 5:11"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gad_p1",
+      "nombre": "Jesús",
+      "rol": "Mesías",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Atravesó el lago para sanar al endemoniado en tierra gentil; señal de la universalidad de su ministerio.",
+      "referencias": [
+        "Mt 8:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p2",
+      "nombre": "El endemoniado de Gadara",
+      "rol": "Primer misionero de la Decápolis",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Sanado por Jesús, proclamó el evangelio en diez ciudades de la Decápolis.",
+      "referencias": [
+        "Mc 5:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p3",
+      "nombre": "Los gadarenos",
+      "rol": "Comunidad gentil",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Pidieron a Jesús que se fuera de su región tras perder la piara de cerdos.",
+      "referencias": [
+        "Mc 5:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gadara (Decápolis): región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "gad_m1",
+        "nombre": "Legión y libertad",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La sanación del endemoniado de Gadara muestra que el poder de Cristo sobre la 'legión' (metáfora del poder romano y demoníaco) llega incluso a tierra gentil.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La sanación del endemoniado de Gadara muestra que el poder de Cristo sobre la 'legión' (metáfora del poder romano y demoníaco) llega incluso a tierra gentil.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gad_h1",
+        "titulo": "Jesús sana al endemoniado de Gadara",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "Jesús cruza el lago y en la región de los gadarenos/gerasenos sana a un hombre con legión de demonios; los cerdos corren al lago.",
+        "referencias": [
+          "Mt 8:28-34",
+          "Mc 5:1-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "endemoniado"
+        ]
+      },
+      {
+        "id": "gad_h2",
+        "titulo": "El endemoniado de Gadara evangeliza la Decápolis",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "Sanado, el hombre pide seguir a Jesús; Jesús le manda volver y contar lo que le hizo; él lo proclama en toda la Decápolis.",
+        "referencias": [
+          "Mc 5:19-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "exendemoniado"
+        ]
+      },
+      {
+        "id": "gad_h3",
+        "titulo": "Los cerdos como señal de tierra gentil",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "La presencia de una gran piara de cerdos en Gadara indica que era territorio gentil; Jesús ministra allí extendiendo su misión más allá de Israel.",
+        "referencias": [
+          "Mc 5:11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gad_p1",
+        "nombre": "Jesús",
+        "rol": "Mesías",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Atravesó el lago para sanar al endemoniado en tierra gentil; señal de la universalidad de su ministerio.",
+        "referencias": [
+          "Mt 8:28"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p2",
+        "nombre": "El endemoniado de Gadara",
+        "rol": "Primer misionero de la Decápolis",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Sanado por Jesús, proclamó el evangelio en diez ciudades de la Decápolis.",
+        "referencias": [
+          "Mc 5:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p3",
+        "nombre": "Los gadarenos",
+        "rol": "Comunidad gentil",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Pidieron a Jesús que se fuera de su región tras perder la piara de cerdos.",
+        "referencias": [
+          "Mc 5:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Gadara (Decápolis) en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "gad_m1",
+          "nombre": "Legión y libertad",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La sanación del endemoniado de Gadara muestra que el poder de Cristo sobre la 'legión' (metáfora del poder romano y demoníaco) llega incluso a tierra gentil.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La sanación del endemoniado de Gadara muestra que el poder de Cristo sobre la 'legión' (metáfora del poder romano y demoníaco) llega incluso a tierra gentil.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "italy",
+  "nombre": "Italia",
+  "tipo": "territorio",
+  "lat": 43.53,
+  "lng": 11.31,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Romano"
+    }
+  ],
+  "descripcion_geo": "Península mediterránea, corazón del Imperio Romano. Roma, su capital, es el destino final del viaje apostólico de Pablo.",
+  "altitud_m": 200,
+  "clima": "mediterráneo-continental",
+  "recursos": [
+    "comercio",
+    "agricultura",
+    "manufactura",
+    "derecho"
+  ],
+  "importancia_estrategica": "Capital espiritual del mundo romano; Roma como meta final de Pablo y sede del martirio de Pedro y Pablo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ita_h1",
+      "titulo": "Pablo apela al César y navega a Italia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Ante el tribunal de Festo, Pablo apela al emperador; es enviado bajo guardia a Roma por vía marítima.",
+      "referencias": [
+        "Hch 25:11",
+        "Hch 27:1"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Festo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "ita_h2",
+      "titulo": "El naufragio y la llegada a Italia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Tras naufragar en Malta, Pablo llega finalmente a Italia y desembarca en Poteoli.",
+      "referencias": [
+        "Hch 28:13-14"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ita_h3",
+      "titulo": "Pablo en Roma: dos años de predicación libre",
+      "fecha": "ca. 61-63 d.C.",
+      "descripcion": "En Roma, Pablo predica el reino de Dios bajo arresto domiciliario durante dos años.",
+      "referencias": [
+        "Hch 28:30-31"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ita_p1",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol mártir",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Llegó a Italia como prisionero; allí escribió cartas, predicó y fue martirizado.",
+      "referencias": [
+        "Hch 28:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p2",
+      "nombre": "Pedro",
+      "rol": "Apóstol mártir",
+      "periodo": "ca. 1-67 d.C.",
+      "descripcion": "Según la tradición, fue a Roma y murió crucificado boca abajo bajo Nerón.",
+      "referencias": [
+        "1 Pe 5:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p3",
+      "nombre": "Aquila y Priscila",
+      "rol": "Misioneros expulsados de Italia",
+      "periodo": "s. I d.C.",
+      "descripcion": "Judíos expulsados de Roma por el edicto de Claudio; Pablo los encontró en Corinto.",
+      "referencias": [
+        "Hch 18:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Roma como meta y destino del evangelio; su carta a los Romanos es el tratado teológico más completo del NT.",
+    "religiones_presentes": [
+      "paganismo_romano",
+      "culto_imperial",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ita_m1",
+        "nombre": "Pablo en Roma",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "El libro de Hechos termina con Pablo predicando libremente en Roma; el evangelio ha llegado al centro del mundo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El libro de Hechos termina con Pablo predicando libremente en Roma; el evangelio ha llegado al centro del mundo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ita_nt_h1",
+        "titulo": "Pablo llega a Roma",
+        "fecha": "ca. 61 d.C.",
+        "descripcion": "Pablo llega a Roma como prisionero; los hermanos salen a recibirlo hasta el Foro de Apio.",
+        "referencias": [
+          "Hch 28:14-16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h2",
+        "titulo": "La carta a los Romanos: el evangelio para la capital",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Pablo escribe la Carta a los Romanos antes de llegar, su obra teológica más sistemática.",
+        "referencias": [
+          "Rom 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h3",
+        "titulo": "El martirio de Pedro y Pablo en Roma",
+        "fecha": "ca. 64-68 d.C.",
+        "descripcion": "Bajo Nerón, Pedro y Pablo son martirizado en Roma; la sangre de los mártires se convierte en semilla de la Iglesia.",
+        "referencias": [
+          "Tradición eclesiástica"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ita_nt_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol mártir",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Llegó a Roma como prisionero; predicó, escribió y fue decapitado.",
+        "referencias": [
+          "Hch 28:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p2",
+        "nombre": "Pedro",
+        "rol": "Apóstol mártir",
+        "periodo": "ca. 1-67 d.C.",
+        "descripcion": "Martirizado en Roma; su tumba en el Vaticano es el centro de la Iglesia Católica.",
+        "referencias": [
+          "1 Pe 5:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p3",
+        "nombre": "Nerón",
+        "rol": "Emperador romano perseguidor",
+        "periodo": "54-68 d.C.",
+        "descripcion": "Desencadenó la primera persecución sistémica de los cristianos en Roma tras el incendio del 64 d.C.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Roma es el destino final del evangelio en los Hechos y el escenario del martirio apostólico.",
+      "religiones_presentes": [
+        "paganismo_romano",
+        "culto_imperial",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "ita_nt_m1",
+          "nombre": "Roma y el evangelio",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Hch 1:8",
+            "fuente_secundaria": "",
+            "descripcion": "El libro de Hechos culmina con Pablo predicando libremente en el corazón del Imperio Romano: el evangelio ha llegado 'hasta los confines de la tierra' (Hch 1:8).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El libro de Hechos culmina con Pablo predicando libremente en el corazón del Imperio Romano: el evangelio ha llegado 'hasta los confines de la tierra' (Hch 1:8).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "shephelah",
+  "nombre": "Sefela",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.78,
+  "lng": 34.85,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 20,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Bronce tardío - Hierro II"
+    }
+  ],
+  "descripcion_geo": "Las 'tierras bajas' entre las montañas de Judá y la llanura costera filistea; tierra de colinas suaves y valles fértiles.",
+  "altitud_m": 200,
+  "clima": "mediterráneo",
+  "recursos": [
+    "olivos",
+    "higos",
+    "cereales",
+    "vid"
+  ],
+  "importancia_estrategica": "Zona de amortiguamiento entre Israel y los filisteos; escenario de batallas y de la historia de Sansón.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "Sansón en los valles de la Sefela",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Las hazañas de Sansón se desarrollan en los valles de la Sefela (Timnat, Ascalón, Lehi), tierra fronteriza entre Israel y los filisteos.",
+      "referencias": [
+        "Jue 14-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "El valle de Ela y David y Goliat",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "El valle de Ela en la Sefela es el escenario del duelo entre David y el gigante Goliat.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "Las ciudades de la Sefela en la reforma de Josías",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "Josías extiende su reforma religiosa a las ciudades de la Sefela, destruyendo los lugares de culto pagano.",
+      "referencias": [
+        "2 Cr 34:6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "Sansón",
+      "rol": "Juez nazireo",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Sus aventuras y batallas contra los filisteos se desarrollaron en la Sefela.",
+      "referencias": [
+        "Jue 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Fue pastor en Belén y combatió en los valles de la Sefela antes de ser rey.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Miqueas de Moreset",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Natural de Moreset-Gat en la Sefela; profeta contemporáneo de Isaías.",
+      "referencias": [
+        "Miq 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tierra de frontera e interacción con los filisteos; sus valles fueron campos de batalla que forjaron la identidad militar de Israel.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_filisteo"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "El valle de la batalla",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El valle de Ela en la Sefela fue el escenario del enfrentamiento definitivo entre Israel y los filisteos, representado en el duelo David-Goliat.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El valle de Ela en la Sefela fue el escenario del enfrentamiento definitivo entre Israel y los filisteos, representado en el duelo David-Goliat.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "media",
+  "nombre": "Average",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 23,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -700,
+      "hasta": -330,
+      "nombre": "Persian post-exile"
+    }
+  ],
+  "descripcion_geo": "Mountainous region northwest of Persia, between the Caspian and Mesopotamia. The Medes formed a powerful kingdom allied with Babylon.",
+  "altitud_m": 1200,
+  "clima": "continental-arid",
+  "recursos": [
+    "horses",
+    "silver",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Empire that helped bring down Nineveh and later merged with Persia under Cyrus the Great.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "med_h1",
+      "titulo": "Average decline in Nineveh",
+      "fecha": "612 BC",
+      "descripcion": "The Medes allied with Babylon destroy Nineveh, capital of Assyria; Nahun's prophecy is fulfilled.",
+      "referencias": [
+        "Nah 3:18-19",
+        "2 Kgs 25:1"
+      ],
+      "personajes_clave": [
+        "Nabopolasar",
+        "Ciaxares"
+      ]
+    },
+    {
+      "id": "med_h2",
+      "titulo": "The cities of the Medes: destiny of the Israelite exile",
+      "fecha": "ca. 722 BC",
+      "descripcion": "The Assyrian king deported the northern tribes of Israel to the cities of the Medes.",
+      "referencias": [
+        "2 Kgs 17:6",
+        "2 Kgs 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "med_h3",
+      "titulo": "Darius the Mede in Daniel",
+      "fecha": "ca. 539 BC",
+      "descripcion": "Darius the Mede receives the kingdom of Babylon; he issues an edict prohibiting prayer to any god except the king, leading Daniel to the lions' den.",
+      "referencias": [
+        "Dan 6"
+      ],
+      "personajes_clave": [
+        "Darío",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "med_p1",
+      "nombre": "Darius the Mede",
+      "rol": "King of Babylon (Medo)",
+      "periodo": "ca. 539 BC",
+      "descripcion": "Median monarch who received the Babylonian kingdom; allowed the plot against Daniel.",
+      "referencias": [
+        "Dan 5:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p2",
+      "nombre": "Ciaxares",
+      "rol": "King of Media",
+      "periodo": "625-585 BC",
+      "descripcion": "Babylon ally; destroyed Nineveh fulfilling the prophecies of Nahún.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p3",
+      "nombre": "Daniel",
+      "rol": "Prophet in exile",
+      "periodo": "ca. 620-535 BC",
+      "descripcion": "He survived the lions' den under the Median king Darius.",
+      "referencias": [
+        "Dan 6:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Empire that was an instrument of divine judgment on Assyria; The deported Israelites lived with the Medes in exile.",
+    "religiones_presentes": [
+      "incipient_zoroastrianism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "med_m1",
+        "nombre": "The lion's den",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Daniel survives the lions' den under the Median king Darius; sign of God's power over empires.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Daniel survives the lions' den under the Median king Darius; sign of God's power over empires.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

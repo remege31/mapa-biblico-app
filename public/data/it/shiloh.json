@@ -1,0 +1,179 @@
+{
+  "id": "shiloh",
+  "nombre": "Silo",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.0557,
+  "lng": 35.2895,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 38,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Città sui Monti Efraim, nel cuore geografico di Canaan, a circa 35 km a nord di Gerusalemme. Situato in una valle riparata tra le colline, fu il primo santuario centrale permanente di Israele dopo la conquista. Identificato con l'attuale Khirbet Seilun, dove gli scavi hanno confermato l'occupazione israelita del periodo dei giudici.",
+  "altitud_m": 873,
+  "clima": "montagna mediterranea; precipitazioni moderate in inverno, estati secche e calde.",
+  "recursos": [
+    "Olivi e vigneti sui terrazzamenti circostanti",
+    "Pascoli per animali da santuario",
+    "Acqua di sorgente locale",
+    "Calcare per l'edilizia"
+  ],
+  "importancia_estrategica": "Prima sede permanente del Tabernacolo e dell'Arca dell'Alleanza dopo la conquista di Canaan. Centro religioso e amministrativo delle dodici tribù durante tutto il periodo dei giudici. La sua distruzione da parte dell'Filistei c. 1050 aC Segna la fine dell'era tribale e l'inizio della monarchia.",
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ],
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1050,
+      "nombre": "Israele Santuario Centrale — Periodo dei Giudici"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "efraimitas",
+      "nombre": "Efraimiti",
+      "descripcion": "Tribù dominante nel cui territorio si trovava Sciloh. La loro leadership tribale fu rafforzata dalla presenza del santuario centrale nella loro zona.",
+      "religion": "Yahvismo",
+      "periodo": "ferro_1"
+    },
+    {
+      "id": "cananeos_efraim",
+      "nombre": "Cananei della regione di Efraim",
+      "descripcion": "Precedenti coloni delle colline di Efraim che non furono completamente sfollati durante l'insediamento israelita, secondo il libro dei Giudici.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "tardo_bronzo — ferro_1"
+    },
+    {
+      "id": "sacerdotes_de_eli",
+      "nombre": "Casa Sacerdotale di Eli",
+      "descripcion": "Famiglia sacerdotale che amministrò per generazioni il santuario di Sciloh. I suoi figli Hofni e Fineas corruppero il culto, facendo precipitare il giudizio divino sulla casa di Eli.",
+      "religion": "sacerdotale Yahvismo",
+      "periodo": "ferro_1"
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca_en_silo",
+      "titulo": "Il Tabernacolo e l'Arca dell'Alleanza a Sciloh",
+      "fecha": "c. 1200–1050 a.C.",
+      "descripcion": "Dopo la distribuzione del territorio conquistato, Giosuè ha installato il Tabernacolo a Sciloh e da lì ha distribuito a sorte le porzioni di terra alle tribù che non avevano ancora ricevuto l'eredità. Shiloh divenne il centro religioso e legale della confederazione tribale israelita per circa 150 anni. L'Arca dell'Alleanza rimase lì finché non fu catturata dall'Filistei nella battaglia di Eben-Ezer.",
+      "referencias": [
+        "Gs 18:1",
+        "Gs 19:51",
+        "Gdc 21:19"
+      ],
+      "personajes_clave": [
+        "josue",
+        "eli"
+      ]
+    },
+    {
+      "id": "samuel_llamado_en_silo",
+      "titulo": "Il richiamo di Samuele nel santuario di Sciloh",
+      "fecha": "c. 1075 a.C.",
+      "descripcion": "Anna, moglie di Elkana, si reca ogni anno al santuario di Sciloh e prega con angoscia per un figlio. Il prete Elí, vedendola muovere le labbra senza suono, la scambia per un'ubriaca. Ana spiega la sua preghiera ed Elí la benedice. Nasce Samuele, che viene consacrato al Signore e lasciato a Sciloh al servizio di Eli. Una notte Dio chiama Samuele tre volte; il ragazzo finalmente risponde dopo le istruzioni di Eli. Il primo oracolo di Samuele annuncia il giudizio sulla casa di Eli.",
+      "referencias": [
+        "1 Sam 1:3-28",
+        "1 Sam 3:1-21"
+      ],
+      "personajes_clave": [
+        "samuel",
+        "eli",
+        "ana"
+      ]
+    },
+    {
+      "id": "destruccion_de_silo",
+      "titulo": "La distruzione di Sciloh e la perdita dell'Arca",
+      "fecha": "c. 1050 a.C.",
+      "descripcion": "Gli israeliti portano l'Arca dell'Alleanza da Sciloh sul campo di battaglia contro l'Filistei a Eben-Ezer, confidando che la sua presenza garantirà la vittoria. Ma gli Filistei sconfiggono Israele e catturano l'Arca. I figli di Eli, Hofni e Finehas, muoiono in combattimento. Appresa la notizia, il vecchio Eli cade dal posto e muore. Shiloh viene distrutta e non è più menzionata come santuario attivo. Il profeta Geremia utilizzerà Shiloh come paradigma della punizione divina sul tempio di Gerusalemme secoli dopo.",
+      "referencias": [
+        "1 Sam 4:1-22",
+        "Sal 78:60",
+        "Ger 7:12-14"
+      ],
+      "personajes_clave": [
+        "eli",
+        "samuel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eli",
+      "nombre": "Eli",
+      "rol": "Sommo sacerdote a Sciloh",
+      "periodo": "c. 1100–1050 a.C.",
+      "descripcion": "Israele sacerdote e giudice che amministrò il santuario di Sciloh per quarant'anni. Ha ricevuto e cresciuto il bambino Samuele. La sua incapacità di correggere i figli Ofni e Fineas, che abusarono delle offerte e delle donne del santuario, provocò l'oracolo di condanna della sua casa. Morì dopo aver appreso della cattura dell'Arca.",
+      "referencias": [
+        "1 Sam 1:9-17",
+        "1 Sam 2:12-17",
+        "1 Sam 4:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ana_de_silo",
+      "nombre": "Anna",
+      "rol": "Madre di Samuele — prototipo della preghiera di petizione",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Moglie di Elkaná e madre di Samuele. La sua preghiera nel santuario di Sciloh, detta in silenzio sotto il peso della sterilità e dell'umiliazione familiare, divenne un modello di preghiera interiore per la tradizione ebraica. Il suo canto di ringraziamento dopo la nascita di Samuele è considerato l'antecedente letterario del Magnificat.",
+      "referencias": [
+        "1 Sam 1:9-20",
+        "1 Sam 2:1-10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_silo",
+      "nombre": "Giosuè",
+      "rol": "Driver Israele: ha installato il Tabernacolo a Shiloh",
+      "periodo": "bronce_tardio",
+      "descripcion": "Successore di Mosè che guidò la conquista di Canaan e scelse Shiloh come sede del Tabernacolo per la distribuzione del territorio conquistato tra le tribù. La sua decisione ha reso Shiloh il primo centro sacrale permanente Israele nella terra promessa.",
+      "referencias": [
+        "Gs 18:1",
+        "Gs 19:51",
+        "Gs 22:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shiloh era il Gerusalemme dell'era pretemporale israelita: il luogo dove risiedeva la presenza divina nell'Arca e nel Tabernacolo durante la confederazione tribale. La sua distruzione fu interpretata dai profeti come un presagio del destino del Tempio di Gerusalemme se Israele avesse abbandonato l'alleanza. La memoria di Sciloh ha funzionato per secoli come monito teologico.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "oración_de_ana",
+        "nombre": "La preghiera silenziosa di Anna a Sciloh",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 1:9-20",
+          "fuente_secundaria": "Talmud Bavli, Berakhot 31a-b — la oración de Ana como modelo de las dieciocho bendiciones (Amidá); se aprenden de ella seis leyes de la oración correcta",
+          "descripcion": "Anna prega a Sciloh, muovendo le labbra senza emettere suono, effondendo la sua anima davanti al Signore per la sua sterilità. La sua preghiera silenziosa e interiore divenne per i rabbini il modello definitivo della preghiera ebraica.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La preghiera di Anna stabilisce che la comunicazione autentica con Dio è interna e diretta, non necessariamente mediata dal sacerdote o dalla liturgia esterna. Il loro canto anticipa la teologia del rovesciamento divino: l'umiliato viene esaltato.",
+          "posible_relacion_cultural": "Il canto di Anna (1 Sam 2,1-10) è riconosciuto dagli esegeti di entrambe le tradizioni come modello letterario per il Magnificat di Maria nel NT."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Lc 1:46-55",
+          "fuente_secundaria": "Orígenes, Homilías sobre Lucas 7 — identifica explícitamente el cántico de Ana como prototipo del Magnificat de María",
+          "descripcion": "Il Magnificat di Maria nel vangelo di Luca segue da vicino la struttura e il vocabolario del canto di Anna. Entrambe le donne celebrano il rovesciamento divino dell'ordine sociale: l'umiliato viene esaltato, il potente viene abbattuto.",
+          "similitudes": "Entrambi i canti celebrano l'azione di Dio che esalta gli umili e abbassa i potenti; Entrambe le donne sono madri di figure che inaugurano una nuova era nella storia della salvezza.",
+          "diferencias": null,
+          "significado_teologico": "Per la tradizione cristiana, Anna prefigura Maria e Samuele prefigura Giovanni Battista. Shiloh come luogo di consacrazione anticipa il tempio come luogo di presentazione di Gesù.",
+          "posible_relacion_cultural": "La tipologia di Anna-Maria è uno dei paralleli narrativi tra l'Antico Testamento e il Nuovo Testamento più studiati nell'esegesi patristica."
+        },
+        "islam": null
+      }
+    ]
+  }
+}

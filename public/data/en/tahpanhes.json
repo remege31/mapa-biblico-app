@@ -1,0 +1,156 @@
+{
+  "id": "tahpanhes",
+  "nombre": "Tafnes",
+  "tipo": "ciudad",
+  "lat": 30.860556,
+  "lng": 32.171389,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Refuge of Jeremiah and Judah Returnees"
+    }
+  ],
+  "descripcion_geo": "Egyptian border city in the Nile Delta, main destination of Jewish refugees fleeing to Egypt after the murder of Gedaliah and the final destruction of Jerusalem, forcibly taking with them the prophet Jeremiah himself.",
+  "altitud_m": 10,
+  "clima": "Subtropical desert — extremely hot and dry, typical of the eastern Nile delta in Egypt.",
+  "recursos": [
+    "Access border position from Canaan to Egypt",
+    "Shelter for the Jewish community dispersed after the fall of Jerusalem"
+  ],
+  "importancia_estrategica": "Taphnes is the main destination of the last great wave of refugees from Judah after the murder of Gedaliah, who, ignoring Jeremiah's explicit warning, flee towards Egypt, taking the prophet with them by force; There Jeremiah performs a prophetic sign by burying stones that announces the future Egyptian invasion by Nebuchadnezzar, tragically closing his ministry on foreign soil.",
+  "otros_habitantes": [
+    {
+      "id": "refugiados_juda_tahpanhes",
+      "nombre": "Judah Refugees",
+      "descripcion": "Community of Jews that flees to Taphnes after the murder of Gedaliah, fearing Babylonian reprisals, taking with them Jeremiah and Baruch against the express will of the prophet.",
+      "religion": "Yahwism (with idolatrous syncretism denounced by Jeremiah)",
+      "periodo": "c. 582 BC"
+    },
+    {
+      "id": "egipcios_tahpanhes",
+      "nombre": "Egyptian population of Tafnes",
+      "descripcion": "Local inhabitants of the border town receiving the community of Jewish refugees who fled after the final fall of Jerusalem.",
+      "religion": "Egyptian polytheism",
+      "periodo": "c. 586–580 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "huida-forzada-jeremias-tahpanhes",
+      "titulo": "Jeremiah is forcibly taken to Tafnes",
+      "fecha": "c. 582 BC",
+      "descripcion": "After the assassination of Gedaliah, the surviving military leaders decide to flee to Egypt despite Jeremiah's explicit warning that YHWH forbade them to do so, and forcibly take both the prophet and his scribe Baruch with them, finally arriving at Taphnes.",
+      "referencias": [
+        "Jer 43:1-7"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "signo-piedras-tahpanhes",
+      "titulo": "Jeremiah buries stones as a prophetic sign in Tafnes",
+      "fecha": "c. 582 BC",
+      "descripcion": "By order of YHWH, Jeremiah hides large stones in the brick pavement at the entrance to Pharaoh's house in Taphnes, announcing that in that same place Nebuchadnezzar will place his throne when he invades Egypt, thus predicting that the refuge chosen by the Jewish fugitives will not be safe.",
+      "referencias": [
+        "Jer 43:8-13"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "jeremias-ultimo-oraculo-tahpanhes",
+      "titulo": "The last oracle of Jeremiah against the idolaters of Egypt",
+      "fecha": "c. 580 BC",
+      "descripcion": "From Taphnes and the other Jewish colonies of Egypt, Jeremiah delivers his last recorded oracle, severely denouncing the idolatrous persistence of the refugee community and announcing that the sword and famine will consume them until no survivors remain, save for a few fugitives.",
+      "referencias": [
+        "Jer 44:1-30"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeremias_tahpanhes",
+      "nombre": "Jeremiah",
+      "rol": "Prophet of Judah, forcibly taken to Egypt",
+      "periodo": "hierro_2",
+      "descripcion": "He ends his long prophetic ministry in Taphnes, taken against his will by refugees fleeing Babylon, where he utters both the prophetic sign of the stones and his last known oracle of denunciation against the persistent idolatry of his people.",
+      "referencias": [
+        "Jer 43:1-13",
+        "Jer 44:1-30"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    },
+    {
+      "id": "johanan_tahpanhes",
+      "nombre": "Johanan son of Kareah",
+      "rol": "Military leader directing the escape to Egypt",
+      "periodo": "post_exilio",
+      "descripcion": "He directs the decision to flee to Egypt after the murder of Gedaliah, ignoring Jeremiah's explicit warning and forcing the prophet to accompany them to Taphnes.",
+      "referencias": [
+        "Jer 43:1-7"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    },
+    {
+      "id": "baruc_tahpanhes",
+      "nombre": "Baruch",
+      "rol": "Jeremiah Scribe",
+      "periodo": "hierro_2",
+      "descripcion": "Accompany Jeremiah in his forced transfer to Taphnes, sharing the fate of the prophet in his final exile in Egyptian territory.",
+      "referencias": [
+        "Jer 43:6"
+      ],
+      "ruta": [
+        "mizpah",
+        "tahpanhes"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tafnes marks the tragic closure of Jeremiah's ministry: the prophet who repeatedly warned about the dangers of seeking security in Egyptian alliances ends up precisely in Egyptian territory, forcibly taken away by those who ignored his final advice, where he must pronounce his last and most severe denunciation against the persistent idolatry of a people who, despite having witnessed the destruction of Jerusalem, still do not abandon their pagan practices.",
+    "religiones_presentes": [
+      "Yahwism (with denounced idolatrous syncretism)",
+      "Egyptian polytheism"
+    ],
+    "mitos": [
+      {
+        "id": "piedras-trono-nabucodonosor-tahpanhes",
+        "nombre": "Stones buried as a sign of Nebuchadnezzar's throne at Taphnes",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jer 43:8-13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre los actos proféticos simbólicos como Jeremías enterrando piedras, comparados con otros gestos similares de profetas que comunican mensajes divinos mediante acciones físicas concretas más que solo palabras",
+          "descripcion": "Jewish tradition values ​​the symbolic act of Jeremiah burying stones at the entrance to the Pharaoh's house in Taphnes as a characteristic example of the prophetic tradition of communicating divine messages through concrete and memorable physical gestures, a technique that reinforces the impact of the verbal message through a visible and permanent action that the audience can remember and eventually verify with historical fulfillment.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The prophetic gesture confirms that not even the refuge in Egypt, traditionally considered a land of alternative security, escapes the reach of the announced divine judgment, since the same Nebuchadnezzar who destroyed Jerusalem will extend his power to the heart of Egypt.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

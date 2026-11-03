@@ -1,0 +1,153 @@
+{
+  "id": "midian",
+  "nombre": "Midian",
+  "tipo": "territorio",
+  "lat": 28.93,
+  "lng": 34.91,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 64,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -900,
+      "nombre": "Late Bronze - Iron I"
+    }
+  ],
+  "descripcion_geo": "Region east of the Gulf of Aqaba, in present-day Saudi Arabia. Land of the descendants of Midian, son of Abraham and Keturah.",
+  "altitud_m": 800,
+  "clima": "arid-desert",
+  "recursos": [
+    "caravan trade",
+    "cattle raising"
+  ],
+  "importancia_estrategica": "Caravan passage land between Arabia and Egypt; place of the call of Moses.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mad_h1",
+      "titulo": "Moses in Midian and the burning bush",
+      "fecha": "ca. 1280 BC",
+      "descripcion": "Moses flees from Egypt to Midian, marries Zipporah daughter of Jethro, and receives God's revelation at the burning bush.",
+      "referencias": [
+        "Exod 2:15-3:15"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jetró",
+        "Séfora"
+      ]
+    },
+    {
+      "id": "mad_h2",
+      "titulo": "The seven daughters of Jethro",
+      "fecha": "ca. 1280 BC",
+      "descripcion": "Moses helps the daughters of the priest of Midian at the well and is invited to stay; He takes Zipporah as his wife.",
+      "referencias": [
+        "Exod 2:16-22"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Séfora",
+        "Jetró"
+      ]
+    },
+    {
+      "id": "mad_h3",
+      "titulo": "Midianite oppression and Gideon",
+      "fecha": "ca. 1150 BC",
+      "descripcion": "The Midianites oppress Israel for seven years; Gideon with 300 men defeats the Midianite army.",
+      "referencias": [
+        "Judg 6-8"
+      ],
+      "personajes_clave": [
+        "Gedeón",
+        "ángel del Señor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mad_p1",
+      "nombre": "Jethro",
+      "rol": "Priest of Midian",
+      "periodo": "ca. 1280 BC",
+      "descripcion": "Father-in-law of Moses; He taught Moses to delegate judgment to the people.",
+      "referencias": [
+        "Exod 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p2",
+      "nombre": "Zipporah",
+      "rol": "Moses's wife",
+      "periodo": "ca. 1280 BC",
+      "descripcion": "Daughter of Jethro wife of Moses and mother of his children.",
+      "referencias": [
+        "Exod 2:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p3",
+      "nombre": "Gideon",
+      "rol": "Israel Judge",
+      "periodo": "ca. 1150 BC",
+      "descripcion": "He liberated Israel from Midianite oppression with 300 men and torches in jars.",
+      "referencias": [
+        "Judg 6:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Land of shepherds and caravans where Moses found God in the burning bush; The priest Jethro worshiped the Most High God.",
+    "religiones_presentes": [
+      "madianite_paganism",
+      "pre-Israelite_cult"
+    ],
+    "mitos": [
+      {
+        "id": "mad_m1",
+        "nombre": "The bush that burns without being consumed",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Ex 3:14",
+          "fuente_secundaria": "",
+          "descripcion": "Moses sees the burning bush in Midian: God reveals himself as the 'I am that I am' (Ex 3:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moses sees the burning bush in Midian: God reveals himself as the 'I am that I am' (Ex 3:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The burning bush is a symbol of the presence of God who reveals himself without consuming what he touches.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The burning bush is a symbol of the presence of God who reveals himself without consuming what he touches.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 28:29-35",
+          "fuente_secundaria": "",
+          "descripcion": "Moses (Musa) is a major prophet in Islam; His calling in Sinai/Midian is mentioned in the Qur'an (Cor 28:29-35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moses (Musa) is a major prophet in Islam; His calling in Sinai/Midian is mentioned in the Qur'an (Cor 28:29-35).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

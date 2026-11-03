@@ -1,0 +1,186 @@
+{
+  "id": "carmel",
+  "nombre": "Carmelo",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.4333,
+  "lng": 35.1333,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 25,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I: territorio Giuda nel Negev"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Città di confine del regno di Giuda"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Carmel (ebraico: כַּרְמֶל, 'vigneto' o 'terra coltivata') era una città nel territorio montuoso meridionale di Giuda, nella zona di transizione tra le colline di Hebron e il deserto del Negev, a circa 12 km a sud di Hebron. Da non confondere con il Monte Carmelo a nord. Identificata con l'odierna Khirbet el-Karmil, la città controllava le rotte pastorali e commerciali tra Hebron e il Negev. Il suo ambiente semiarido era adatto all'allevamento estensivo di bestiame: l'esatto contesto della narrazione di Nabal, proprietario di tremila pecore e mille capre in questa regione.",
+  "altitud_m": 850,
+  "clima": "Montagna semiarida: precipitazioni di 300-400 mm all'anno, estati secche e calde, inverni freddi. Pascoli stagionali che favoriscono la transumanza delle mandrie tra le colline meridionali del Giuda e il Negev.",
+  "recursos": [
+    "Pascoli estesi per bestiame grande e piccolo",
+    "Tosatura: attività economica centrale (epoca di Nabal)",
+    "Colture irrigue in annate favorevoli (orzo, grano)",
+    "Calcare per l'edilizia",
+    "Percorso carovaniero tra Hebron e il Negev"
+  ],
+  "importancia_estrategica": "Carmel era un punto di controllo per il corridoio meridionale tra gli altopiani Giuda e il deserto. La sua rilevanza narrativa nell'Antico Testamento è principalmente sociale e domestica: la scena del confronto tra la generosità di Abigail e la meschinità di Nabal, e il luogo in cui il re Saul eresse un monumento dopo la sua vittoria sugli Amalechiti, il primo atto di auto-glorificazione che fece precipitare il suo rifiuto divino.",
+  "otros_habitantes": [
+    {
+      "id": "calebitas-carmel",
+      "nombre": "Calebitas meridionali di Giuda",
+      "descripcion": "Il territorio intorno a Carmel apparteneva al clan di Caleb, integrato nella tribù di Giuda. Lo stesso Nabal è descritto come un 'calebita' (1 Sam 25:3), termine che può essere sia un demonimo che un gioco di parole su 'caleb' (cane) per caratterizzare la sua brutalità. I Calebiti erano ricchi allevatori nel sud dell'Giuda, con forti legami con l'Hebron e il Negev.",
+      "religion": "Yahvismo popolare dal sud di Giuda, con possibili pratiche sincretistiche ad altezze locali",
+      "periodo": "Ferro I-II, c. 1200-586 a.C"
+    },
+    {
+      "id": "amalecitas-neguev",
+      "nombre": "Amalechiti del Negev",
+      "descripcion": "Gli Amalechiti erano il popolo nomade che dominava il Negev e il nord Sinai. Saul li combatté in questa regione (1 Sam 15), e Davide operò contro di loro da Ziklag. La loro presenza nella zona del Carmelo fu permanente, alternando violente incursioni a periodi di convivenza con i pastori sedentari di Giuda.",
+      "religion": "Animismo del deserto: culto di divinità nomadi senza templi fissi",
+      "periodo": "Ferro I-II, fino alla sua dispersione finale sotto Davide"
+    }
+  ],
+  "historias": [
+    {
+      "id": "saul-monumento-carmel",
+      "titulo": "Saul erige un monumento: la vittoria andata male",
+      "fecha": "c. 1025 a.C.",
+      "descripcion": "Dopo aver sconfitto gli Amalechiti, Saul arrivò al Carmelo e lì eresse un monumento in suo onore: il testo ebraico usa 'yad' (mano/memoriale), un segno di autoglorificazione. Il profeta Samuele, che era in viaggio per incontrarlo, ricevette da Jahvè la notizia che Saul aveva disobbedito: invece di distruggere tutto il bottino amalecito secondo l'erem ordinato, mantenne in vita il re Agag e conservò il meglio del bestiame. Quando si sono incontrati, Saul ha salutato trionfalmente: \"Ho mantenuto la parola di Jahvè\". Samuele ha risposto: 'E quel belato di pecora che arriva alle mie orecchie?' La scena del Carmelo è il punto esatto in cui il rapporto tra Saul e il profeta si rompe definitivamente, e dove Samuele pronuncia l'oracolo che segnerà la sorte del primo re di Israele: 'Come hai rifiutato la parola di Jahvè, anche Jahvè rigetta te come re.'",
+      "referencias": [
+        "1 Sam 15:12-23",
+        "1 Sam 15:1-11",
+        "1 Sam 15:24-35"
+      ],
+      "personajes_clave": [
+        "saul",
+        "samuel"
+      ]
+    },
+    {
+      "id": "nabal-abigail-david",
+      "titulo": "Nabal, Abigail e Davide: la generosità che ha impedito un massacro",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Durante il suo periodo come fuorilegge nel deserto di Giuda, Davide e i suoi seicento uomini avevano protetto le greggi di Nabal dagli attacchi dei banditi. Quando a Carmel arrivò la stagione della tosatura, un momento di festa e di abbondanza, Davide inviò dieci giovani a chiedere gentilmente un contributo di cibo. Nabal li congedò con insulti: 'Chi è Davide? Chi è il figlio di Jesse?' Davide, furioso, ordinò che si cingessero le spade: avrebbe sterminato tutti i maschi della casa di Nabal. Abigail, la moglie di Nabal, intelligente e bella, appresa da un servo, caricò di nascosto degli asini con duecento pani, due otri di vino, cinque pecore preparate, grano arrostito, uva passa e fichi e uscì incontro a Davide. Il suo discorso davanti a lui fu un modello di saggezza politica e teologica: riconobbe la colpevolezza del marito, chiese che il sangue innocente non gravasse su Davide quando Jahvè gli diede il regno, e lo liberò dal peccato della vendetta. Nabal morì di infarto dieci giorni dopo quando Abigail gli raccontò cosa era successo; Davide la prese come sua moglie.",
+      "referencias": [
+        "1 Sam 25:1-42",
+        "1 Sam 25:14-19",
+        "1 Sam 25:32-35"
+      ],
+      "personajes_clave": [
+        "abigail",
+        "nabal",
+        "david-forajido"
+      ]
+    },
+    {
+      "id": "uzias-carmel-ganaderia",
+      "titulo": "Uzzia e il bestiame del Carmelo",
+      "fecha": "c. 780 a.C.",
+      "descripcion": "Le cronache del regno di Uzzia da Giuda menzionano il suo amore per la terra e la sua promozione dell'allevamento del bestiame nel Negev e nel Carmelo. Il re ordinò che fossero costruite torri nel deserto e scavate molte cisterne, «perché aveva molto bestiame nella Sefela e nella pianura; agricoltori e vignaioli sulle montagne e nel Carmelo, perché era amante della terra». Queste informazioni del Cronista collocano il Carmelo come un'area di attività agricola reale nell'VIII secolo, continuando la tradizione dei grandi proprietari di bestiame che la storia di Nabal aveva stabilito tre secoli prima. La menzione di Uzzia fa del Carmelo un esempio della politica agraria che sostenne il picco economico del regno di Giuda.",
+      "referencias": [
+        "2 Cr 26:10",
+        "2 Re 15:1-7"
+      ],
+      "personajes_clave": [
+        "uzias-carmel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abigail",
+      "nombre": "Abigail",
+      "rol": "Moglie di Nabal, mediatrice che salvò Davide dal peccato di sangue",
+      "periodo": "hierro_2",
+      "descripcion": "Abigail è uno dei personaggi femminili più complessi e ammirati dell'OT. Il testo le presenta due aggettivi insoliti: intelligente (sekhel) e bella, in quest'ordine, sovvertendo la consueta priorità delle descrizioni femminili bibliche. La sua azione davanti a Davide è un modello di iniziativa politica: senza consultare l'inutile marito, ha mobilitato risorse, ha affrontato il pericolo e ha tenuto un discorso che combinava teologia, psicologia e diplomazia. Riconobbe in Davide il futuro unto re e lo protesse dall'errore di macchiarsi di sangue innocente prima di salire al trono. Dopo la morte di Nabal divenne la moglie di Davide e lo accompagnò nei suoi anni da fuorilegge, inclusa la prigionia temporanea a Ziklag.",
+      "referencias": [
+        "1 Sam 25:3",
+        "1 Sam 25:23-31",
+        "1 Sam 27:3"
+      ],
+      "ruta": [
+        "carmel",
+        "ziklag"
+      ]
+    },
+    {
+      "id": "nabal",
+      "nombre": "Nabal",
+      "rol": "Ricco allevatore di Carmel, paradigma di stoltezza",
+      "periodo": "c. 1000 a.C.",
+      "descripcion": "Nabal (“folle” in ebraico) è l'antagonista il cui nome è già un giudizio morale. Proprietario di tremila pecore e mille capre nel Carmelo, apparteneva al clan di Caleb ma il testo gioca con l'omofonia: era «un uomo Caleb» (cane/brutale). Il suo rifiuto di Davide al momento della tosatura - un momento di massima generosità convenzionale - ha violato il codice di ospitalità e reciprocità del mondo antico. Il testo non lo presenta come malvagio ma come stolto: incapace di leggere la realtà politica, ubriaco durante il banchetto della tosatura quando Abigail venne a raccontargli l'accaduto. Morì dieci giorni dopo \"come un sasso\", forse per un ictus. La sua funzione narrativa è triplice: antagonista di Davide, contrasto con Abigail ed esempio del proverbiale principio secondo cui la stoltezza porta alla morte.",
+      "referencias": [
+        "1 Sam 25:2-3",
+        "1 Sam 25:10-11",
+        "1 Sam 25:36-38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "samuel",
+      "nombre": "Samuele",
+      "rol": "Ultimo giudice e primo profeta istituzionale di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Samuele è la figura di transizione tra il periodo dei giudici e quello della monarchia. Giudice, profeta e sacerdote, consacrò Saul come primo re di Israele e Davide come suo successore. Il suo incontro con Saul nel Carmelo dopo la battaglia contro gli Amalechiti è il culmine del loro rapporto: il profeta che aveva resistito alla richiesta del popolo di un re e che obbedientemente unse Saul, deve ora pronunciare il rifiuto divino di quello stesso re. Il testo evidenzia che Samuele pianse per Saul tutta la notte e non lo vide più fino al giorno della sua morte: la rottura fu reale e dolorosa per entrambi.",
+      "referencias": [
+        "1 Sam 3:1-21",
+        "1 Sam 15:10-35",
+        "1 Sam 16:1-13"
+      ],
+      "ruta": [
+        "shiloh",
+        "carmel",
+        "hebron",
+        "bethlehem"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Carmelo nel sud di Giuda è teatro di due momenti teologici complementari: il rifiuto di Saul per la sua obbedienza parziale (l'erema incompiuto) e la protezione di Davide da parte della saggezza di Abigail. Entrambe le storie ruotano attorno allo stesso principio: l'obbedienza a Jahvè non ammette mezze misure e Dio può utilizzare un profeta anziano o una donna intelligente per eseguire la sua volontà. Il monumento che Saul ha eretto al Carmelo per la propria gloria contrasta con l'umiliazione subita proprio lì.",
+    "religiones_presentes": [
+      "Yahvismo Giuda meridionale — Tradizione del clan Caleb",
+      "Monarchico Yahvismo — culto ufficiale legato alla nascente istituzione reale"
+    ],
+    "mitos": [
+      {
+        "id": "obediencia-parcial-saul",
+        "nombre": "Mezza obbedienza: Saul e l'erema di Amalek",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 15:1-35; Dt 25:17-19",
+          "fuente_secundaria": "Talmud Bavli, Yomá 22b — 'Si alguien es compasivo con el cruel, terminará siendo cruel con el compasivo'",
+          "descripcion": "Il Talmud (Yomah 22b) utilizza il caso di Saul per formulare uno dei suoi aforismi più noti: la misericordia mal applicata – perdonando il re Agag – si traduce in una maggiore crudeltà (il successivo massacro dei sacerdoti di Nob). La tradizione rabbinica discuteva se Saul avesse peccato per eccessiva pietà o per calcolo politico. Maimonide classificò la trasgressione di Saul come un \"peccato dovuto a errore di giudizio\" ma ugualmente invalidante per l'esercizio della leadership, perché un re che non sa distinguere tra compassione e obbedienza non può governare in nome di Dio.",
+          "similitudes": "L’idea che l’obbedienza parziale equivale alla disobbedienza totale è condivisa dalle tradizioni cristiane e islamiche.",
+          "diferencias": "Il giudaismo rabbinico si qualifica: Saul non ha agito per malvagità ma per errore teologico, che lo distingue dai successivi re malvagi.",
+          "significado_teologico": "L’obbedienza a Dio non può essere selettiva. L'herem era un ordine divino totale; l’eccezione – per quanto pia possa sembrare – costituisce un’usurpazione della prerogativa divina della misericordia.",
+          "posible_relacion_cultural": "Il motivo del re che disobbedisce all'ordine divino di distruzione totale e ne subisce le conseguenze ha paralleli nei testi di Mari e Ugarit sui re che non adempiono ai comandi dei loro dei nelle campagne militari."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 15:22; 1 Cor 10:6-12",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios XVII,6",
+          "descripcion": "Il versetto chiave dell'episodio del Carmelo: 'Jahvè si diletta negli olocausti e nei sacrifici tanto quanto nell'obbedienza alla sua parola? L'obbedienza vale più del sacrificio» (1 Sam 15,22) – divenne uno dei testi più citati dai Padri della Chiesa nella loro critica al vuoto ritualismo religioso. Agostino lo usò per sostenere che il culto esterno senza una disposizione interna è inaccettabile. Paolo in 1 Cor 10 usa gli esempi negativi dell'Antico Testamento – includendo implicitamente Saul – come avvertimento per i cristiani di Corinto.",
+          "similitudes": "Il primato dell'obbedienza sul rito è un principio identico nella profezia israelitica e nell'insegnamento di Gesù (Mt 9,13, citazione Os 6,6).",
+          "diferencias": "Il Nuovo Testamento reinterpreta l'obbedienza in termini di fede e amore, non di adempimento di comandi di distruzione.",
+          "significado_teologico": "La storia di Saul nel Carmelo anticipa la critica profetica di Gesù al ritualismo e l'insegnamento sulla misericordia e la giustizia come criteri superiori al sacrificio.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

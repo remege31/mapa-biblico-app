@@ -1,0 +1,141 @@
+{
+  "id": "gedor",
+  "nombre": "Gedor",
+  "tipo": "ciudad",
+  "lat": 31.63333,
+  "lng": 35.083333,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Genealogical locality of Judah and Benjamin"
+    }
+  ],
+  "descripcion_geo": "Small town in the mountainous region of Judah, mentioned mainly in genealogical contexts. Its name ('wall' or 'enclosure') suggests an originally fortified or fenced settlement, typical of agricultural and pastoral populations in the central mountainous area.",
+  "altitud_m": 700,
+  "clima": "Mountain Mediterranean — dry summers, cold winters with rain, typical of the Judah highlands.",
+  "recursos": [
+    "Judah Mountain Grazing and Agricultural Land",
+    "Original fortified or enclosed settlement"
+  ],
+  "importancia_estrategica": "Gedor has no military, economic, or narrative relevance of note in its own right; Its mention is exclusively genealogical, serving as a reference point to record the descent and territorial distribution of clans from Judah, and in the case of the sons of Sasac, also from a Benjaminite branch associated with the region.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_gedor",
+      "nombre": "Judah Clan (Caleb's Line)",
+      "descripcion": "Family descended from Penuel, identified in chronicler genealogies as 'father of Gedor', that is, founder or eponymous ancestor associated with the settlement.",
+      "religion": "Yahwism",
+      "periodo": "Period of the Judges until the monarchy"
+    },
+    {
+      "id": "benjaminitas_gedor",
+      "nombre": "Clan of Benjamin (line of Shashak)",
+      "descripcion": "Benjaminite family recorded in the genealogical lists of 1 Chronicles with a link to Gedor among their descendants.",
+      "religion": "Yahwism",
+      "periodo": "Monarchy period"
+    }
+  ],
+  "historias": [
+    {
+      "id": "penuel-padre-gedor",
+      "titulo": "Penuel, 'father of Gedor', in the genealogy of Judah",
+      "fecha": "Genealógico, contexto pre-monárquico a monárquico",
+      "descripcion": "The genealogical lists of 1 Chronicles identify Penuel, of the line of Caleb, as the 'father' (founder or eponymous ancestor) of Gedor, integrating the locality into the extensive network of clans that populated the mountainous region of Judah.",
+      "referencias": [
+        "1 Chr 4:4"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jered-padre-gedor-alt",
+      "titulo": "Jered, also linked to Gedor",
+      "fecha": "Genealógico",
+      "descripcion": "In a parallel genealogical list, Jered is also mentioned as 'father of Gedor', reflecting the complex and sometimes overlapping nature of chronicling genealogical traditions about the origin of different settlements.",
+      "referencias": [
+        "1 Chr 4:18"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "sasac-gedor-benjamin",
+      "titulo": "The Benjaminite line of Sasac linked to Gedor",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "Among the descendants of Shashak, from the tribe of Benjamin, the chronicler genealogies also mention a connection with Gedor, showing that the small town appears referenced from more than one tribal line in the genealogical records.",
+      "referencias": [
+        "1 Chr 8:31",
+        "1 Chr 9:37"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "penuel_gedor",
+      "nombre": "Penuel",
+      "rol": "Eponymous ancestor of Gedor in the line of Caleb",
+      "periodo": "Genealógico, anterior a la monarquía",
+      "descripcion": "Genealogical figure from the Judah tribe identified as 'father' of Gedor in the chronicle lists, without associated narrative episodes beyond his genealogical mention.",
+      "referencias": [
+        "1 Chr 4:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jered_gedor",
+      "nombre": "Jered",
+      "rol": "Alternative eponymous ancestor of Gedor",
+      "periodo": "Genealógico",
+      "descripcion": "Genealogical figure mentioned in a parallel list as 'father of Gedor', illustrating the complexity of chronicling genealogical traditions about minor settlements of Judah.",
+      "referencias": [
+        "1 Chr 4:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sasac_gedor",
+      "nombre": "Sasac",
+      "rol": "Ancestor of a Benjaminite line linked to Gedor",
+      "periodo": "Genealógico, período de la monarquía",
+      "descripcion": "Figure from the tribe of Benjamin whose descent appears recorded with a link to Gedor in the genealogical lists of Chronicles, evidencing the presence of more than one tribal lineage associated with the place.",
+      "referencias": [
+        "1 Chr 8:31",
+        "1 Chr 9:37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gedor lacks its own narrative, mythical or cultic development; Their presence in the biblical text is purely genealogical, as part of the extensive system of tribal lists that document the distribution and continuity of the clans of Israel through generations. Its value for the OT is testimonial: it confirms the density of the genealogical plot that sustained the Israelite tribal identity beyond the great narrative stories.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "genealogias-gedor-continuidad",
+        "nombre": "Gedor's genealogies as a fabric of tribal continuity",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Chr 4:4; 1 Cr 4:18; 1 Cr 8:31",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el valor teológico de las listas genealógicas cronistas como afirmación de la continuidad del pueblo de Israel",
+          "descripcion": "Jewish tradition values ​​the extensive genealogies of Chronicles, including minor references such as those of Gedor, as a theological affirmation that each family and clan in Israel, however small their narrative prominence, forms an integral part of the continuing history of the chosen people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The inclusion of minor localities and lineages in the genealogical record reflects the conviction that the divine election of Israel encompasses the entire people, not just their most prominent figures.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

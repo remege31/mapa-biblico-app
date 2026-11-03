@@ -1,0 +1,159 @@
+{
+  "id": "shaalbim",
+  "nombre": "Shaalbim",
+  "tipo": "ciudad",
+  "lat": 31.870364,
+  "lng": 34.981728,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Enclave amorrei nel territorio danita"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Distretto amministrativo salomonico"
+    }
+  ],
+  "descripcion_geo": "Città di Sefela, vicino ad Aijalon, nel territorio assegnato a Dan ma che rimase sotto il controllo amorreo per gran parte del periodo dei Giudici. Terreno collinare basso nella zona di transito tra la costa e le montagne centrali.",
+  "altitud_m": 220,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con precipitazioni moderate.",
+  "recursos": [
+    "Terreni agricoli della Shephelah",
+    "Posizione nella rete di rotte verso Aialon e Bet-Horon",
+    "Integrato nel sistema amministrativo salomonico"
+  ],
+  "importancia_estrategica": "Shaalbim esemplifica il modello di conquista incompleta nel Libro dei Giudici: nonostante sia territorio assegnato a Dan, rimane sotto il dominio amorreo finché la crescente forza della Casa di Giuseppe non lo sottopone ai lavori forzati. Secoli dopo, sotto Salomone, fu integrato come parte di uno dei dodici distretti amministrativi del regno, riflettendo il consolidamento territoriale della monarchia unita.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_shaalbim",
+      "nombre": "Shaalbim Amorrei",
+      "descripcion": "Popolazione cananeo-amorrea che mantiene il controllo di Shaalbim, Aijalon e Har-heres nonostante l'assegnazione tribale a Dan, fino a essere sottoposta ai lavori forzati a causa delle pressioni della casa di Giuseppe.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "danitas_shaalbim",
+      "nombre": "Tribù di Dan",
+      "descripcion": "Beneficiari formali dell'assegnazione territoriale di Shaalbim, pur non riuscendo ad espellere la popolazione locale amorrei per gran parte del periodo dei Giudici.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "amorreos-shaalbim-sometidos",
+      "titulo": "Presentazione di Shaalbim Amorrei",
+      "fecha": "c. 1150–1100 a.C.",
+      "descripcion": "Gli Amorrei mantengono il controllo di Har-heres, Aijalon e Shaalbim nonostante l'assegnazione tribale danita, finché la mano della Casa di Giuseppe non si rafforza su di loro e li sottopone ai lavori forzati, non riuscendo a espellerli completamente dal territorio.",
+      "referencias": [
+        "Gdc 1:35"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "shaalbim-distrito-salomon",
+      "titulo": "Shaalbim nel distretto amministrativo di Ben-Dequer",
+      "fecha": "c. 970–931 a.C.",
+      "descripcion": "Salomone organizza il regno in dodici distretti amministrativi per sostenere le forniture della corte; Shaalbim, insieme ad Aijalon e Bet-semesh, è integrato nel secondo distretto sotto la responsabilità di Ben-Dequer.",
+      "referencias": [
+        "1 Re 4:9"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "danitas_mighty_men_shaalbim",
+      "titulo": "Elahba il Saalbonita, uno degli uomini coraggiosi di Davide",
+      "fecha": "c. 1010–1000 a.C.",
+      "descripcion": "Elahba, originario di Shaalbim, è tra gli 'uomini coraggiosi' (gibborim) di Davide, la cerchia di guerrieri d'élite che accompagnavano il re fin da prima del suo consolidamento sul trono, menzionato negli elenchi del cronista e di Samuele.",
+      "referencias": [
+        "2 Sam 23:32",
+        "1 Cr 11:33"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elahba_saalbonita",
+      "nombre": "Elahba il Saalbonita",
+      "rol": "Uno dei trenta uomini coraggiosi di Davide",
+      "periodo": "c. 1010–970 a.C.",
+      "descripcion": "Guerriero originario di Shaalbim incluso nella lista dei 'coraggiosi' dell'Davide, il corpo d'élite di combattenti che sostenne militarmente l'ascesa e il consolidamento del re.",
+      "referencias": [
+        "2 Sam 23:32",
+        "1 Cr 11:33"
+      ],
+      "ruta": [
+        "shaalbim"
+      ]
+    },
+    {
+      "id": "salomon_shaalbim",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, organizzatore amministrativo del regno",
+      "periodo": "hierro_2",
+      "descripcion": "Riorganizza il territorio del Regno Unito in dodici distretti di approvvigionamento; Shaalbim è integrato in uno di essi insieme ad Aijalon e Bet-semesh.",
+      "referencias": [
+        "1 Re 4:7-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ben_dequer",
+      "nombre": "Ben-Dequer",
+      "rol": "Funzionario amministrativo del distretto di Shaalbim",
+      "periodo": "c. 970–931 a.C.",
+      "descripcion": "Responsabile del secondo distretto amministrativo di Salomone, che comprendeva Shaalbim, Aijalon, Bet-shemesh e altre città della Shephelah, incaricato di organizzare le forniture mensili della corte.",
+      "referencias": [
+        "1 Re 4:9"
+      ],
+      "ruta": [
+        "shaalbim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shaalbim non ha uno sviluppo mitico proprio; Il suo valore narrativo sta nell'esemplificare due momenti distinti della storia di Israele nello stesso luogo: primo, la conquista incompleta del periodo dei Giudici, con una persistente popolazione cananea sotto il dominio nominale israelita; più tardi, il pieno consolidamento amministrativo sotto la monarchia salomonica, segno di quella stabilizzazione territoriale che due secoli prima sembrava irraggiungibile.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Cananeo-Politeismo amorreo (popolazione originaria persistente)"
+    ],
+    "mitos": [
+      {
+        "id": "conquista-incompleta-sefela",
+        "nombre": "La conquista incompleta della Sefela danita",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 1:34-35",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las listas de conquista incompleta en Jueces 1 como explicación teológica de la coexistencia posterior con pueblos cananeos",
+          "descripcion": "La tradizione ebraica utilizza questi passaggi per spiegare perché, nonostante le promesse di pieno possesso della terra, alcune popolazioni cananee persistettero per generazioni al fianco di Israele, attribuendo questa situazione sia alla debolezza di fede delle tribù sia a un disegno pedagogico divino di continua prova.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La persistenza di popolazioni non israelite nel territorio assegnato viene interpretata come una conseguenza della mancanza di fede e di piena decisione delle tribù, non come un fallimento del disegno divino stesso.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

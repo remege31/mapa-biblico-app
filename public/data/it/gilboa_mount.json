@@ -1,0 +1,153 @@
+{
+  "id": "gilboa_mount",
+  "nombre": "Monte Gilboa",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.50984080716704,
+  "lng": 35.40843470396692,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Morte di Saul e dei suoi figli"
+    }
+  ],
+  "descripcion_geo": "Catena montuosa all'estremità meridionale della pianura di Jezreel, teatro della battaglia decisiva in cui Israele viene sconfitto da Filistei e dove muoiono sia il re Saul che tre dei suoi figli, tra cui Jonathan, segnando la tragica fine del primo regno di Israele.",
+  "altitud_m": 500,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici del limite meridionale della pianura di Jezreel.",
+  "recursos": [
+    "Posizione elevata di controllo sulla pianura di Jezreel",
+    "Scenario della battaglia decisiva tra Israele e Filistea"
+  ],
+  "importancia_estrategica": "Il monte Gilboa è il luogo della sconfitta più catastrofica del regno di Saul: Israele viene definitivamente sconfitto da Filistei, Saul e tre dei suoi figli muoiono, incluso Jonathan, e il cadavere del re viene successivamente esposto con umiliazione sul muro di Bethshean, segnando il crollo definitivo della prima monarchia israelita e aprendo la strada al consolidamento della monarchia di Davide. regnare.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_gilboa",
+      "nombre": "Esercito di Saul",
+      "descripcion": "Le forze israeliane furono definitivamente sconfitte dall'Filistei nella battaglia del Monte Gilboa, con numerose vittime tra il popolo e la famiglia reale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1010 a.C"
+    },
+    {
+      "id": "filisteos_gilboa",
+      "nombre": "Esercito filisteo",
+      "descripcion": "Forze che ottengono la vittoria più decisiva su Israele nell'intera narrazione biblica, sconfiggendo completamente l'esercito di Saul ed esponendo quindi il suo corpo come trofeo di guerra.",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1010 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "muerte-saul-jonatan-gilboa",
+      "titulo": "Saul e i suoi figli muoiono sul monte Gilboa",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "L'Filistei sconfigge definitivamente Israele al Monte Gilboa, uccidendo Jonathan, Abinadab e Malchishua, figli di Saul; Ferito gravemente dagli arcieri, Saul chiede al suo scudiero di ucciderlo per evitare di cadere umiliato nelle mani del nemico, e al suo rifiuto si getta sulla propria spada.",
+      "referencias": [
+        "1 Sam 31:1-6"
+      ],
+      "personajes_clave": [
+        "saul",
+        "jonatan"
+      ]
+    },
+    {
+      "id": "exposicion-cuerpos-bethsean-gilboa",
+      "titulo": "I corpi sono esposti sulle mura di Bet-Sean",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Il giorno successivo, Filistei trova i corpi di Saul e dei suoi figli sul monte Gilboa, taglia la testa di Saul, mostra la sua armatura nel tempio di Astarte e inchioda i corpi al muro di Beth-Shean come trofeo pubblico della loro vittoria sul primo re di Israele.",
+      "referencias": [
+        "1 Sam 31:8-10"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "lamento-david-gilboa",
+      "titulo": "Lamento di Davide: \"Come sono caduti i coraggiosi!\"",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Dopo aver ricevuto la notizia della morte di Saul e Jonathan, Davide compone un'elegia formale conosciuta come \"La canzone dell'arco\", in cui maledice il Monte Gilboa chiedendo che rugiada e pioggia non cadano mai più su di esso, e piange profondamente la perdita di Jonathan con parole di eccezionale amore fraterno.",
+      "referencias": [
+        "2 Sam 1:17-27"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul_gilboa",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Muore di propria mano sul Monte Gilboa dopo essere stato gravemente ferito dagli arcieri di Filistei, chiudendo tragicamente il suo regno segnato dal progressivo deterioramento dei suoi rapporti con YHWH e con Davide.",
+      "referencias": [
+        "1 Sam 31:1-6"
+      ],
+      "ruta": [
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "jonatan_gilboa",
+      "nombre": "Jonathan",
+      "rol": "Figlio di Saul, amico di Davide",
+      "periodo": "hierro_1",
+      "descripcion": "Muore con suo padre sul Monte Gilboa, una perdita che Davide lamenta con parole di profondo affetto fraterno nel suo elogio, ricordando un'amicizia che trascendeva le tensioni dinastiche tra entrambe le famiglie.",
+      "referencias": [
+        "1 Sam 31:2",
+        "2 Sam 1:25-26"
+      ],
+      "ruta": [
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "david_gilboa",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Compone una delle elegie più commoventi di tutta la letteratura biblica dopo aver ricevuto la notizia della morte di Saul e Jonathan a Gilboa, dimostrando un dolore genuino nonostante la precedente persecuzione subita da Saul.",
+      "referencias": [
+        "2 Sam 1:1-27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Monte Gilboa segna il tragico culmine del primo regno di Israele, presentato dal narratore biblico come una conseguenza diretta del progressivo abbandono di Saul da parte di YHWH in seguito ai suoi ripetuti atti di disobbedienza; L'elegia di Davide, lungi dal celebrare la caduta del suo persecutore, esprime un lutto genuino che illustra l'ideale biblico di onorare anche l'avversario caduto quando ricopriva la posizione di unto di YHWH.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo filisteo – culto di Dagon e Astarte"
+    ],
+    "mitos": [
+      {
+        "id": "maldicion-david-gilboa",
+        "nombre": "La maledizione di Davide sulle montagne di Gilboa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 1:21",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la maldición poética de David como expresión de duelo nacional, no de venganza personal",
+          "descripcion": "La tradizione ebraica interpreta la maledizione di Davide sul monte Gilboa, chiedendo che non riceva mai più rugiada o pioggia, non come un atto di vendetta contro il suo ex persecutore, ma come un'espressione poetica di lutto nazionale per la perdita del primo re consacrato di Israele e del suo amico Jonathan, trasformando il luogo della sconfitta in un simbolo permanente di lutto collettivo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il lamento di Davide su Gilboa dimostra che il rispetto per l'unto di YHWH e il lutto genuino per la sua perdita trascendono anche il precedente conflitto personale tra persecutore e perseguitato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

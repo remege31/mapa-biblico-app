@@ -1,0 +1,125 @@
+{
+  "id": "perge",
+  "nombre": "Perge",
+  "tipo": "ciudad",
+  "lat": 36.9613,
+  "lng": 30.8536,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Ciudad de Panfilia a unos 12 km de la costa sur de Asia Menor, junto al río Cestro.",
+  "altitud_m": 60,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio fluvial",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Puerta de entrada desde la costa panfilia hacia el altiplano de Pisidia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "per_h1",
+        "titulo": "Juan Marcos abandona la misión",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Al llegar a Perge desde Chipre, Juan Marcos se separa de Pablo y Bernabé y regresa a Jerusalén.",
+        "referencias": [
+          "Hch 13:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Juan Marcos"
+        ]
+      },
+      {
+        "id": "per_h2",
+        "titulo": "Predicación al regreso",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "De vuelta hacia la costa, Pablo y Bernabé anuncian la palabra en Perge antes de embarcar en Atalia.",
+        "referencias": [
+          "Hch 14:24-26"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "per_h3",
+        "titulo": "Desacuerdo entre Pablo y Bernabé por Juan Marcos",
+        "fecha": "ca. 49-50 d.C.",
+        "descripcion": "Al preparar un nuevo viaje, Bernabé quiere llevar otra vez a Juan Marcos; Pablo se niega porque los había abandonado en Panfilia. La discusión es tan fuerte que se separan: Bernabé parte con Marcos a Chipre y Pablo elige a Silas.",
+        "referencias": [
+          "Hch 15:36-41"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Juan Marcos",
+          "Silas"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "per_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Llega a Perge desde Pafos con su grupo y, tras la partida de Juan Marcos, sigue hacia Antioquía de Pisidia; a la vuelta predica la palabra en la ciudad.",
+        "referencias": [
+          "Hch 13:13-14",
+          "Hch 14:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p2",
+        "nombre": "Bernabé",
+        "rol": "Líder misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Compañero de Pablo en el primer viaje; pasa por Perge a la ida y a la vuelta y más tarde mantiene a Marcos como colaborador.",
+        "referencias": [
+          "Hch 13:13",
+          "Hch 14:25",
+          "Hch 15:39"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p3",
+        "nombre": "Juan Marcos",
+        "rol": "Evangelista y misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Acompaña a Pablo y Bernabé en el primer viaje, pero se separa de ellos en Perge y regresa a Jerusalén. Más tarde Pablo lo menciona como colaborador útil.",
+        "referencias": [
+          "Hch 13:13",
+          "Hch 15:37-39",
+          "2 Ti 4:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

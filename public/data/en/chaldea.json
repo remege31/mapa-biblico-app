@@ -1,0 +1,145 @@
+{
+  "id": "chaldea",
+  "nombre": "Chaldea",
+  "tipo": "territorio",
+  "lat": 30.96,
+  "lng": 46.1,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 91,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -625,
+      "hasta": -539,
+      "nombre": "Neo-Babylonian Empire"
+    }
+  ],
+  "descripcion_geo": "Southern region of Mesopotamia, at the mouth of the Tigris and Euphrates. Headquarters of the Neo-Babylonian Empire.",
+  "altitud_m": 10,
+  "clima": "continental arid",
+  "recursos": [
+    "river agriculture",
+    "trade",
+    "astrology"
+  ],
+  "importancia_estrategica": "Capital of world power in the 7th-6th centuries BC; conquered Jerusalem and deported Judah.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cal_h1",
+      "titulo": "Nebuchadnezzar destroys Jerusalem",
+      "fecha": "586 BC",
+      "descripcion": "The Chaldean king Nebuchadnezzar sacks the Temple, demolishes the walls of Jerusalem and deports the people to Babylon.",
+      "referencias": [
+        "2 Kgs 25",
+        "Jer 52"
+      ],
+      "personajes_clave": [
+        "Nabucodonosor",
+        "Sedecías"
+      ]
+    },
+    {
+      "id": "cal_h2",
+      "titulo": "Daniel at the Chaldean court",
+      "fecha": "ca. 605-535 BC",
+      "descripcion": "Daniel and his companions are taken to Babylon; Daniel interprets the king's dreams and survives the fiery furnace.",
+      "referencias": [
+        "Dan 1-6"
+      ],
+      "personajes_clave": [
+        "Daniel",
+        "Nabucodonosor"
+      ]
+    },
+    {
+      "id": "cal_h3",
+      "titulo": "The Fall of Persian Babylon",
+      "fecha": "539 BC",
+      "descripcion": "Cyrus the Great conquers Babylon without battle; Jews in exile are freed to return to their land.",
+      "referencias": [
+        "Dan 5",
+        "Isa 45"
+      ],
+      "personajes_clave": [
+        "Ciro",
+        "Belsasar"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cal_p1",
+      "nombre": "Nebuchadnezzar II",
+      "rol": "King by Babylon",
+      "periodo": "605-562 BC",
+      "descripcion": "He conquered Jerusalem, destroyed the Temple, and deported the people of Judah.",
+      "referencias": [
+        "2 Kgs 24:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cal_p2",
+      "nombre": "Daniel",
+      "rol": "Prophet in exile",
+      "periodo": "ca. 620-535 BC",
+      "descripcion": "Jewish scholar at the Chaldean court; His visions span empires to the end time.",
+      "referencias": [
+        "Dan 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cal_p3",
+      "nombre": "Belshazzar",
+      "rol": "Last King by Babylon",
+      "periodo": "ca. 553-539 BC",
+      "descripcion": "During their banquet the hand that wrote on the wall appeared; Babylon fell that night.",
+      "referencias": [
+        "Dan 5:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cradle of astrology and magic; The Babylonian exile transformed Judaism: the synagogue, the codification of the Torah and exclusive monotheism emerged.",
+    "religiones_presentes": [
+      "babylonian_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "cal_m1",
+        "nombre": "The writing on the wall",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Mene, Tekel, Paris: Daniel interprets the signs that announce the end of the Chaldean kingdom.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mene, Tekel, Paris: Daniel interprets the signs that announce the end of the Chaldean kingdom.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 2:102",
+          "fuente_secundaria": "",
+          "descripcion": "Babylon appears in the Quran as a place of punishment for those who practiced magic (Cor 2:102).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Babylon appears in the Quran as a place of punishment for those who practiced magic (Cor 2:102).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

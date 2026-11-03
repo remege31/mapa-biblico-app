@@ -1,0 +1,342 @@
+{
+  "id": "sidon",
+  "nombre": "Sidone",
+  "tipo": "ciudad",
+  "lat": 33.5635,
+  "lng": 35.3706,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 39,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: metropoli fenicia"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Prima città di Fenicia"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: dominio babilonese e persiano"
+    }
+  ],
+  "descripcion_geo": "Sidone (ora Saida, Libano) si trova sulla costa mediterranea di Fenicia, a circa 40 km a nord di Tiro. Possiede uno dei migliori porti naturali del Levante, con due baie protette da un'isola che fungeva da base navale. La città controllava l'accesso al Libano e ai suoi famosi cedri, materia prima esportata in tutto il bacino del Mediterraneo.",
+  "altitud_m": 5,
+  "clima": "Mediterraneo costiero: inverni miti e umidi, estati calde e secche. Precipitazioni di 700-900 mm all'anno. La fertile costa consentiva un'agricoltura intensiva di ulivi, viti e alberi da frutto.",
+  "recursos": [
+    "Porto naturale (commercio mediterraneo)",
+    "Cedri del Libano (legno pregiato in tutta la regione)",
+    "Murex viola (colorante più costoso dei tempi antichi, estratto dalle lumache di mare)",
+    "Artigianato del vetro (i Fenici sono considerati gli inventori del vetro soffiato)",
+    "Avorio lavorato e oggetti di lusso"
+  ],
+  "importancia_estrategica": "Prima metropoli di Fenicia e madre delle colonie in tutto il Mediterraneo. La sua padronanza del commercio marittimo ne ha fatto un ponte culturale tra Egitto, Mesopotamia, la Grecia e la penisola iberica. L'alleanza di Omri con Etbaal di Sidone (padre di Jezebel) introdusse il culto fenicio in Israele con conseguenze religiose catastrofiche.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-sidon",
+      "nombre": "Fenici sidoni",
+      "descripcion": "I Fenici Sidone erano Semiti Cananei che svilupparono la prima civiltà commerciale nel Mediterraneo. Hanno inventato l'alfabeto consonantico (abyad) da cui derivano tutti gli alfabeti occidentali. Il suo viola di Tiro era così prezioso che il colore divenne un simbolo di regalità in tutto il mondo antico. La Bibbia li chiama spesso Sidoni per riferirsi a tutti i Fenici.",
+      "religion": "Politeismo fenicio - culto di Baal di Sidone, Asera (Astarte), Melqart (dio di Tiro)",
+      "periodo": "C. 1200 a.C. in poi"
+    },
+    {
+      "id": "jezabel-familia",
+      "nombre": "Famiglia reale Etbaal",
+      "descripcion": "Ethbaal (Ittobaal), re di Sidone e sommo sacerdote di Asera, era il padre di Jezebel. L'alleanza matrimoniale con Omri di Israele introdusse il culto fenicio ufficiale alla corte di Samaria. Jezebel importò 450 profeti da Baal e 400 da Asera, sfidando direttamente il profeta Elia. La persecuzione di Elia da parte di Jezebel è la crisi religiosa più drammatica nel Regno del Nord.",
+      "religion": "Politeismo fenicio - Baal di Sidone e Asera come divinità protettrici della corte israelita",
+      "periodo": "C. 885–843 a.C"
+    },
+    {
+      "id": "viuda-sarepta",
+      "nombre": "Abitanti di Sarepta",
+      "descripcion": "Zarepta (tra Sidone e Tiro) è stato il luogo di rifugio di Elia durante la siccità da lui stesso annunciata. Una vedova di Sarepta condivise con il profeta la sua ultima farina e il suo ultimo olio e fu ricompensata con la moltiplicazione delle sue provviste e la risurrezione di suo figlio. Gesù cita questo episodio per illustrare che i profeti vengono respinti nella loro patria (Luca 4:26).",
+      "religion": "Politeismo fenicio locale, con apertura all'azione di YHWH attraverso il profeta",
+      "periodo": "C. 875–850 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-sarepta",
+      "titulo": "Elia in Sarepta: il profeta rifugiatosi presso i Fenici",
+      "fecha": "c. 870 a.C.",
+      "descripcion": "Quando la siccità annunciata da Elia decimò la terra di Israele, YHWH ordinò al profeta di rifugiarsi a Sarepta di Sidone, nel cuore del territorio fenicio. Una vedova, in procinto di consumare le sue ultime provviste insieme al figlio prima di morire di fame, condivise con lo straniero la sua farina e il suo olio. Il vaso della farina non fu svuotato né il vaso dell'olio si esaurì durante tutta la siccità. Quando il figlio della vedova morì di malattia, Elia lo resuscitò. L'episodio evidenzia che la provvidenza di YHWH arriva oltre i confini di Israele, fin nel cuore del territorio fenicio.",
+      "referencias": [
+        "1 Re 17:8-24",
+        "Lc 4:25-26"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "jezabel-israel",
+      "titulo": "Jezebel di Sidone: la regina che importò gli dei fenici",
+      "fecha": "c. 874 a.C.",
+      "descripcion": "Jezebel, figlia del re fenicio Ethbaal di Sidone, sposò Achab di Israele nel quadro dell'alleanza politica di Omri con Fenicia. La sua influenza trasformò la corte di Samaria: costruì un tempio a Baal di Sidone, mantenne 850 profeti pagani a spese dello stato, perseguitò i profeti di YHWH e ordinò la morte di Nabot per impadronirsi della sua vigna. Jezebel divenne il simbolo biblico della seduzione idolatra del potere straniero. Fu gettata a morte da una finestra dai suoi eunuchi e il suo corpo fu divorato dai cani, adempiendo la profezia di Elia.",
+      "referencias": [
+        "1 Re 16:31",
+        "1 Re 18:4",
+        "1 Re 21:1-25",
+        "2 Re 9:30-37"
+      ],
+      "personajes_clave": [
+        "elias",
+        "jezabel"
+      ]
+    },
+    {
+      "id": "hiram-templo",
+      "titulo": "Hiram da Sidone e la costruzione del Tempio",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Salomone ha negoziato con Hiram I di Tiro (identificato nella tradizione anche con Sidone) la fornitura di cedri del Libano e di artigiani specializzati per la costruzione del Tempio di Gerusalemme. I cedri furono abbattuti in Libano, trasportati su zattere attraverso il Mediterraneo fino a Joppa e portati a Gerusalemme. Il Tempio combinava così la fede Yahwista con l'artigianato fenicio. Hiram-Abif, un maestro artigiano inviato dal re di Tiro, ha fuso il mare di bronzo e i pilastri Jachin e Boaz.",
+      "referencias": [
+        "1 Re 5:1-18",
+        "1 Re 7:13-47",
+        "2 Cr 2:1-16"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias-fenicio",
+      "nombre": "Elia il Tishbite",
+      "rol": "Prophet si rifugia a Fenicia durante la siccità",
+      "periodo": "hierro_2",
+      "descripcion": "Elia trascorse parte del suo ministero in territorio fenicio, a Sarepta di Sidone, dove YHWH lo mandò a farsi sfamare da una vedova. Questa esperienza, nel cuore del territorio da cui proveniva Jezebel e degli dei che Elia combatteva, mette in luce il paradosso della fede: la provvidenza agisce proprio dove meno ce lo si aspetta.",
+      "referencias": [
+        "1 Re 17:8-24",
+        "1 Re 18:1-19",
+        "2 Re 2:1-12"
+      ],
+      "ruta": [
+        "samaria",
+        "carmel_mount",
+        "sidon",
+        "beersheba",
+        "sinai"
+      ],
+      "viajes": [
+        {
+          "nombre": "Il ministero profetico",
+          "ruta": [
+            "samaria",
+            "sidon",
+            "carmel_mount"
+          ],
+          "referencias": [
+            "1 Re 17:1",
+            "1 Re 17:9-24",
+            "1 Re 18:20-40"
+          ]
+        },
+        {
+          "nombre": "La fuga sull'Oreb",
+          "ruta": [
+            "carmel_mount",
+            "beersheba",
+            "sinai"
+          ],
+          "referencias": [
+            "1 Re 19:1-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jezabel",
+      "nombre": "Jezebel",
+      "rol": "Regina di Israele, figlia del re di Sidone",
+      "periodo": "hierro_2",
+      "descripcion": "Figlia di Ethbaal di Sidone, moglie di Achab re di Israele, Jezebel è la figura femminile più potente e più condannata dell'Antico Testamento. Introdusse il culto ufficiale Baal di Sidone, perseguitò i profeti di YHWH, uccise Nabot per impossessarsi della sua vigna e governò de facto dopo la morte di Achab. La sua morte violenta – gettato da una finestra, calpestato e divorato dai cani – divenne la punizione esemplare per l’idolatria e l’abuso di potere.",
+      "referencias": [
+        "1 Re 16:31",
+        "1 Re 19:1-2",
+        "1 Re 21:1-25",
+        "2 Re 9:30-37"
+      ],
+      "ruta": [
+        "sidon",
+        "samaria"
+      ]
+    },
+    {
+      "id": "salomon-sidon",
+      "nombre": "Salomone",
+      "rol": "Re costruttore del Tempio, alleato di Fenicia",
+      "periodo": "hierro_2",
+      "descripcion": "Salomone ereditò dal padre Davide l'alleanza con il re fenicio di Tiro-Sidone e ne approfittò per procurarsi cedri del Libano e artigiani specializzati per il Tempio. Ma costruì anche altari agli dei delle sue mogli straniere, tra cui Astarte dei Sidoni (1 Re 11:5), motivo per cui gli autori biblici giudicano il suo regno come l'inizio del declino religioso che culminerà nell'esilio.",
+      "referencias": [
+        "1 Re 3:1-15",
+        "1 Re 5:1-18",
+        "1 Re 11:1-13"
+      ],
+      "ruta": [
+        "jerusalen",
+        "sidon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sidone rappresenta la cultura fenicia che sedusse e minacciò persistentemente Israele. La loro influenza non fu solo militare o commerciale ma profondamente religiosa: il culto Baal di Sidone, introdotto da Jezebel, innescò la crisi profetica di Elia e Eliseo. Paradossalmente fu anche in territorio sidoniano che Elia trovò rifugio e dove YHWH dimostrò la sua sovranità oltre i confini di Israele. Il commercio fenicio di cedro e di artigianato permise la costruzione del Tempio e l'alfabeto fenicio, adattato da Israele, fu il veicolo della rivelazione scritta.",
+    "religiones_presentes": [
+      "Politeismo fenicio (Baal di Sidone, Astarte/Asera, Melqart)",
+      "Profetica Yahvismo (presenza di Elia a Sarepta)",
+      "Sincretismo salomonico (altari fenici in Gerusalemme)"
+    ],
+    "mitos": [
+      {
+        "id": "baal-sidon",
+        "nombre": "Baal di Sidone contro YHWH nel Carmelo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Reyes 18:20-40",
+          "fuente_secundaria": "Midrash Tanjuma, Ki Tisa; comentario de Rashi a 1 Re 18",
+          "descripcion": "Il combattimento sul Monte Carmelo tra Elia e i 450 profeti di Baal è il testo programmatico del monoteismo jahvista. Il Dio che risponde con il fuoco è il vero Dio. L'ironia di Elia—Grida più forte, forse sta dormendo—è la prima satira religiosa della letteratura occidentale.",
+          "similitudes": "Il combattimento tra dei ha paralleli nella letteratura ugaritica (ciclo Baal), dove Baal combatte anche contro il caos e la morte.",
+          "diferencias": "A Ugarit, Baal è l'eroe; In 1 Kings, Baal è l'impostore sconfitto. L'investimento è volutamente controverso.",
+          "significado_teologico": "YHWH non è un dio tra gli altri ma l'unico che agisce nella storia. Il fuoco che consuma il sacrificio umido è la dimostrazione definitiva della sovranità divina.",
+          "posible_relacion_cultural": "I testi di Ugarit (XIV secolo a.C.) descrivono Baal Hadad come signore della pioggia e della tempesta, esattamente il ruolo che Elia nega a Baal annunciando la siccità."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sid_nt_h1",
+        "titulo": "Gesù passa attraverso Sidone",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Nel suo viaggio attraverso la Decapoli, Gesù attraversa i territori di Tiro e Sidone.",
+        "referencias": [
+          "Mc 7:31"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "sid_nt_h2",
+        "titulo": "Sidone a giudizio delle città",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù dichiara che Tiro e Sidone se la passeranno meglio nel giorno del giudizio rispetto a Corazin e Betsaida.",
+        "referencias": [
+          "Mt 11:21-22",
+          "Lc 10:13-14"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "sid_nt_h3",
+        "titulo": "Paolo ferma a Sidone sulla strada per Roma",
+        "fecha": "ca. 59-60 d.C.",
+        "descripcion": "Il Centurione Julius permette a Paolo di visitare i suoi amici in Sidone durante il viaggio verso Roma.",
+        "referencias": [
+          "At 27:3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sid_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Predicatore",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Ha attraversato la regione Sidone; Usò la città come riferimento nei suoi insegnamenti sul giudizio.",
+        "referencias": [
+          "Mc 7:31"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sid_nt_p2",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo prigioniero",
+        "periodo": "ca. 59-60 d.C.",
+        "descripcion": "Sbarcò brevemente a Sidone durante il suo ultimo viaggio; Fu trattato gentilmente dal centurione.",
+        "referencias": [
+          "At 27:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sid_nt_p3",
+        "nombre": "Giulio il centurione",
+        "rol": "Paolo Guardiano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha permesso a Paolo di visitare gli amici in Sidone, mostrando un insolito atteggiamento umanitario.",
+        "referencias": [
+          "At 27:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Antica metropoli fenicia; nel NT serve come riferimento al mondo gentile che sarà giudicato con più misericordia delle città ebraiche non credenti.",
+      "religiones_presentes": [
+        "Paganesimo_fenicio_romano",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "sid_nt_m1",
+          "nombre": "Il giudizio delle città pagane",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Ez 28,20-23",
+            "fuente_secundaria": "",
+            "descripcion": "Sidone fu condannato dai profeti (Ez 28,20-23; Gl 3,4).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sidone fu condannato dai profeti (Ez 28,20-23; Gl 3,4).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù dichiara che Tiro e Sidone riceveranno un giudizio più indulgente rispetto alle città di Galilea che hanno rifiutato il Vangelo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù dichiara che Tiro e Sidone riceveranno un giudizio più indulgente rispetto alle città di Galilea che hanno rifiutato il Vangelo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

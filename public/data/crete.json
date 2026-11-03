@@ -1,0 +1,121 @@
+{
+  "id": "crete",
+  "nombre": "Creta",
+  "tipo": "territorio",
+  "lat": 35.2401,
+  "lng": 24.8093,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "La mayor isla del Egeo, montañosa y alargada, en la ruta marítima entre el Levante e Italia.",
+  "altitud_m": 0,
+  "clima": "mediterráneo",
+  "recursos": [
+    "navegación",
+    "vino",
+    "aceite"
+  ],
+  "importancia_estrategica": "Escala de la ruta de grano Alejandría-Roma; refugio invernal de navíos.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cre_h1",
+        "titulo": "Escala rumbo a Roma",
+        "fecha": "ca. 59 d.C.",
+        "descripcion": "El barco que lleva preso a Pablo bordea Creta y fondea en Buenos Puertos; Pablo advierte del peligro, pero zarpan y los atrapa el temporal.",
+        "referencias": [
+          "Hch 27:7-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Julio el centurión",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "cre_h2",
+        "titulo": "Tito organiza las iglesias",
+        "fecha": "ca. 63 d.C.",
+        "descripcion": "Pablo deja a Tito en Creta para «poner en orden lo que faltaba» y nombrar ancianos en cada ciudad.",
+        "referencias": [
+          "Tit 1:5-12"
+        ],
+        "personajes_clave": [
+          "Tito",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "cre_h3",
+        "titulo": "Cretenses en Pentecostés",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Entre los judíos y prosélitos que oyen a los apóstoles hablar en sus propias lenguas en Jerusalén figuran cretenses y árabes, indicio de una presencia judía en la isla desde fecha temprana.",
+        "referencias": [
+          "Hch 2:5-11"
+        ],
+        "personajes_clave": [
+          "Los apóstoles",
+          "Cretenses"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cre_p1",
+        "nombre": "Tito",
+        "rol": "Colaborador de Pablo, líder en Creta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discípulo griego de Pablo, encargado de organizar las iglesias cretenses.",
+        "referencias": [
+          "Tit 1:4-5",
+          "Gál 2:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cre_p2",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Su nave hace escala en Buenos Puertos, en la costa de Creta, y advierte del riesgo de seguir navegando; según la carta a Tito, deja allí a Tito para organizar las iglesias.",
+        "referencias": [
+          "Hch 27:7-12",
+          "Tit 1:5"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cre_p3",
+        "nombre": "Epiménides de Cnosos",
+        "rol": "Poeta y profeta cretense (identificación tradicional)",
+        "periodo": "s. VI a.C.",
+        "descripcion": "Tito 1:12 cita a «uno de ellos, su propio profeta» sobre el carácter de los cretenses; la tradición identifica ese verso con Epiménides. ⚠ El texto no lo nombra.",
+        "referencias": [
+          "Tit 1:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

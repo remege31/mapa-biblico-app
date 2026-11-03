@@ -1,0 +1,186 @@
+{
+  "id": "ur",
+  "nombre": "Ur dei Caldei",
+  "tipo": "ciudad",
+  "lat": 30.9626,
+  "lng": 46.1039,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Tell el-Muqayyar, Irak — sitio arqueológico identificado con la antigua Ur sumeria desde las excavaciones de Leonard Woolley (1922-1934)",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Età del Bronzo Medio — Città d'origine della famiglia Abramo"
+    }
+  ],
+  "descripcion_geo": "Città-stato sumera all'estremità meridionale del Mesopotamia, sulle rive del fiume Eufrate in quello che oggi è l'Iraq meridionale. Anticamente era vicina al Golfo Persico, allora molto più a nord di oggi. Ur fu una delle città più importanti del mondo antico: capitale della Terza dinastia di Ur (ca. 2112-2004 aC), centro di prosperi commerci marittimi e sede del culto del dio lunare Nanna (Sin). Le sue ziggurat, torri di mattoni a gradini, dominavano l'orizzonte della pianura alluvionale. Con questo insediamento si identifica la biblica 'Ur dei Caldei', anche se il termine 'Caldei' è anacronistico rispetto all'epoca di Abramo.",
+  "altitud_m": 10,
+  "clima": "Deserto estremo: estati superiori a 45°C, inverni miti. Scarse precipitazioni (meno di 150 mm all'anno). Nell'antichità l'ambiente circostante era più umido grazie ai canali di irrigazione dell'Eufrate.",
+  "recursos": [
+    "Porto fluviale sull'Eufrate con accesso al commercio del Golfo Persico",
+    "Centro di produzione artigianale avanzata (oreficeria, ceramica, tessile)",
+    "Reti di irrigazione che consentivano coltivazioni intensive in terreni aridi",
+    "Grande centro commerciale per lapislazzuli, corniola e metalli dell'Asia centrale"
+  ],
+  "importancia_estrategica": "Ur è il punto di partenza dell'intera narrazione patriarcale dell'Antico Testamento. La famiglia di Terah, padre di Abramo, parte da questa città per un viaggio verso Canaan che definisce l'inizio del ciclo abramitico. La partenza da Ur non è un semplice spostamento geografico: rappresenta il taglio fondativo tra il mondo politeista mesopotamico, centrato sul culto di Nanna/Sin, e la nuova identità monoteista che prenderà progressivamente forma nel corso del pellegrinaggio. Dio stesso identifica con questa città la sua originaria vocazione, ricordando ad Abramo che era stato lui a farlo uscire da Ur dei Caldei (Gen 15,7).",
+  "otros_habitantes": [
+    {
+      "id": "sumerios_caldeos_ur",
+      "nombre": "Sumeri e Accadi",
+      "descripcion": "Abitanti originari di Ur, costruttori della sua ziggurat e del sistema di canali che sostenevano la civiltà. Durante il III millennio a.C., Ur era la capitale di un impero che copriva tutto il Mesopotamia. Al tempo di Abramo, la città era in declino ma rimase un importante centro urbano e religioso.",
+      "religion": "Politeismo sumero-accadico: culto principale di Nanna/Sin, dio lunare, il cui ziggurat presiedeva la città",
+      "periodo": "C. 3000-1900 a.C"
+    },
+    {
+      "id": "familia_tare_ur",
+      "nombre": "La famiglia di Terah",
+      "descripcion": "Clan semitico che viveva a Ur prima di iniziare la migrazione verso Canaan. Terah era il padre di Abramo (Abramo), Nahor e Haran. La famiglia probabilmente partecipava all'ambiente politeista della città, contesto dal quale Abramo prenderà le distanze nel suo pellegrinaggio di fede.",
+      "religion": "Probabile sincretismo tra tradizioni semitiche e politeismo mesopotamico, secondo la successiva tradizione ebraica",
+      "periodo": "C. 2100 a.C. (cronologia tradizionale)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "tare-sale-ur",
+      "titulo": "Terah lascia Ur con la sua famiglia verso Canaan",
+      "fecha": "c. 2091 a.C. (cronología tradicional)",
+      "descripcion": "Terah prende suo figlio Abramo, suo nipote Lot (figlio del defunto Haran) e sua nuora Sarai, e lascia Ur dei Caldei diretto verso la terra di Canaan. Il viaggio si interrompe ad Haran, città della Mesopotamia settentrionale, dove Terah si stabilisce e muore infine all'età di duecentocinque anni, senza aver completato il viaggio verso la terra promessa.",
+      "referencias": [
+        "Gen 11:28-32"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "llamado-dios-ur",
+      "titulo": "La chiamata originale di Dio a Abramo a Ur",
+      "fecha": "c. 2091 a.C. (cronología tradicional)",
+      "descripcion": "Il diacono Stefano, nel suo discorso davanti al Sinedrio, colloca esplicitamente la prima chiamata divina a Abramo a Ur, prima del suo soggiorno a Carran: Dio apparve ad Abramo quando era ancora in Mesopotamia, prima che si stabilisse a Carran (At 7,2). Questa tradizione integra il racconto della Genesi, dove è ad Haran che la chiamata viene esplicitata, suggerendo che la vocazione di Abramo inizia ad Ur e viene confermata ad Haran. YHWH stesso ricorda questa partenza fondatrice, perché fu lui a far uscire Abramo da Ur dei Caldei (Gen 15,7).",
+      "referencias": [
+        "Gen 15:7",
+        "At 7:2-4",
+        "Ne 9:7"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "ur-identidad-caldea",
+      "titulo": "Ur come marchio di identità di Abramo",
+      "fecha": "c. 2091 a.C. (cronología tradicional)",
+      "descripcion": "Il titolo \"di Ur dei Caldei\" diventa la designazione geografica permanente dell'origine di Abramo nella memoria biblica. Neemia lo ricorda nella sua preghiera nazionale: YHWH è colui che ha scelto Abramo, lo ha fatto uscire da Ur dei Caldei e gli ha dato il nome di Abramo (Neemia 9,7). Questa identificazione ancora la storia della salvezza a un luogo specifico della geografia antica – una grande città pagana nel sud di Mesopotamia – sottolineando che la vocazione patriarcale nasce nel cuore stesso del mondo politeista.",
+      "referencias": [
+        "Ne 9:7",
+        "Gen 11:31",
+        "Gen 15:7"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_ur",
+      "nombre": "Abramo",
+      "rol": "Patriarca Fondatore",
+      "periodo": "bronce_medio",
+      "descripcion": "Nacque a Ur dei Caldei nella famiglia di Terah. Lascia la città seguendo il padre verso Canaan, essendo chiamato da Dio – già da Ur, secondo il discorso di Stefano negli Atti – a diventare padre di una nazione e fonte di benedizione per tutti i popoli. La sua partenza da Ur segna l'inizio del ciclo patriarcale.",
+      "referencias": [
+        "Gen 11:31",
+        "Gen 15:7",
+        "At 7:2-4"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "shechem"
+      ]
+    },
+    {
+      "id": "tare_ur",
+      "nombre": "Tara",
+      "rol": "Padre di Abramo, iniziatore della migrazione",
+      "periodo": "bronce_medio",
+      "descripcion": "Padre di Abramo, Nahor e Haran. Inizia il viaggio da Ur verso Canaan ma si ferma ad Haran, dove muore all'età di duecentocinque anni. La sua partenza da Ur mette in moto il movimento familiare che culminerà nella fondazione di Abramo in Canaan.",
+      "referencias": [
+        "Gen 11:26-32"
+      ],
+      "ruta": [
+        "ur",
+        "haran"
+      ]
+    },
+    {
+      "id": "lot_ur",
+      "nombre": "molti",
+      "rol": "Nipote di Abramo",
+      "periodo": "bronce_medio",
+      "descripcion": "Figlio di Haran (fratello di Abramo, morto a Ur), orfano fin da giovane. Lascia Ur sotto la tutela del nonno Terah e poi dello zio Abramo, accompagnandolo fino alla separazione nella pianura di Canaan. La loro storia illustra sia la lealtà familiare che le conseguenze delle scelte geografiche nella narrazione biblica.",
+      "referencias": [
+        "Gen 11:27-28",
+        "Gen 11:31",
+        "Gen 13:5-13"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "shechem",
+        "sodom"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ur è la scena del contrasto più profondo nella narrativa patriarcale: una delle più grandi città del mondo antico, centro del culto lunare di Nanna/Sin, funge da punto di partenza per la famiglia che porterà la fede monoteista nel mondo. La partenza da Ur non è semplicemente un viaggio; Si tratta di una rottura culturale e religiosa radicale, di un “lasciarsi alle spalle” l’universo simbolico mesopotamico per iniziare un cammino verso un’identità teologica radicalmente nuova. Questa tensione – l’origine pagana del patriarca prescelto – sarà ricordata dai profeti e dai maestri come prova della grazia divina che agisce prima di ogni merito umano.",
+    "religiones_presentes": [
+      "Culto sumero-accadico di Nanna/Sin (dio lunare, il cui grande ziggurat presiedeva la città)",
+      "Tradizioni semitiche locali sincretiche",
+      "Yahvismo nascente (secondo la tradizione successiva) nella famiglia di Terah"
+    ],
+    "mitos": [
+      {
+        "id": "partida-abraham-ur-mito",
+        "nombre": "La partenza di Abramo da Ur dei Caldei",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 11:31; 15:7; Neh 9:7",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 38 (la historia de Abraham destruyendo los ídolos de su padre Taré en Ur, antes de la partida)",
+          "descripcion": "La tradizione rabbinica elabora l'episodio di Ur come il luogo in cui Abramo ruppe per la prima volta con il paganesimo. Il Midrash Bereshit Rabbah narra che Abramo distrusse gli idoli nella bottega di suo padre Terah a Ur, per cui fu gettato in una fornace ardente dalla quale uscì illeso: un'anticipazione tipologica dell'episodio dei tre giovani in Babilonia (Dn 3). Questa lettura fa della città di Ur il teatro del primo atto di fede radicale di Abramo: il rifiuto attivo dell'idolatria ancor prima dell'esplicita chiamata divina.",
+          "similitudes": "Condivide con l'Islam l'enfasi sulla rottura attiva di Abramo con l'idolatria del suo popolo d'origine.",
+          "diferencias": "Il Midrash aggiunge l'episodio della fornace ardente, assente nel testo biblico e nel Corano.",
+          "significado_teologico": "Ur rappresenta il mondo che Abramo si lascia alle spalle: sicurezza materiale, prestigio urbano e politeismo consolidato. La grazia divina sceglie Abramo proprio da quel contesto pagano, non nonostante esso ma attraverso di esso.",
+          "posible_relacion_cultural": "Il motivo degli “eletti dal paganesimo” è comune a tutte e tre le tradizioni abramitiche e riflette una teologia della grazia preveniente."
+        },
+        "cristianismo": {
+          "fuente_primaria": "At 7:2-4; Heb 11:8-10",
+          "fuente_secundaria": "Agustín de Hipona, La Ciudad de Dios XV-XVI (sobre Abraham como figura de la Iglesia peregrina)",
+          "descripcion": "Il Nuovo Testamento rende esplicito che la chiamata divina a Abramo è iniziata a Ur – non ad Haran – secondo il discorso di Stefano (At 7,2-4), una sfumatura importante per la cronologia della vocazione patriarcale. La Lettera agli Ebrei presenta Abramo come modello di fede che esce «senza sapere dove va» (Eb 11,8), immagine applicata alla condizione del cristiano credente nel mondo. La lettura patristica fa di Abramo una tipologia della Chiesa che, come lui, è chiamata a lasciare il mondo per compiere un pellegrinaggio verso la città celeste.",
+          "similitudes": "Condivide con l'ebraismo il riconoscimento di Ur come origine della vocazione abramitica.",
+          "diferencias": "La teologia cristiana generalizza la partenza da Ur come modello universale di fede che abbandona le sicurezze mondane per seguire la chiamata divina, al di là dello specifico contesto storico.",
+          "significado_teologico": "Abramo in partenza da Ur diventa icona del cristiano che abbandona “Babilonia” – simbolo del mondo lontano da Dio – per seguire Cristo verso la “città celeste” (Eb 11,10).",
+          "posible_relacion_cultural": "La rilettura di Ur come spirituale 'Babilonia' si collega al simbolismo apocalittico del Nuovo Testamento (Ap 17-18)."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 6:74-83; 21:51-71; 26:69-89",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya (Historias de los Profetas), capítulo sobre Ibrahim",
+          "descripcion": "Il Corano non menziona esplicitamente Ur, ma narra la rottura di Ibrahim con l'idolatria di suo padre Azar (identificato con Terah nella tradizione islamica) e del suo popolo, episodio localizzato dai commentatori nel Mesopotamia. Ibrahim distrugge gli idoli del tempio locale e viene gettato nel fuoco dal re Nimrod, dal quale esce illeso grazie alla protezione divina. Questa narrazione islamica coincide in modo sorprendente con il Midrash ebraico sulla fornace di Ur, suggerendo un'antica tradizione comune.",
+          "similitudes": "L'episodio dell'incendio in Mesopotamia è condiviso con la tradizione rabbinica, anche se con differenze nei dettagli narrativi.",
+          "diferencias": "Il Corano sottolinea il confronto verbale diretto di Ibrahim con suo padre e il re Nimrod, e il miracolo del fuoco, elementi che il testo biblico non menziona esplicitamente.",
+          "significado_teologico": "La partenza di Ibrahim dalla sua terra d'origine rappresenta la rottura con lo shirk (associazione degli dei con Allah) e l'inizio del tawhid (monoteismo puro), primo atto fondativo dell'Islam.",
+          "posible_relacion_cultural": "Il motivo del profeta gettato nel fuoco e protetto da Dio appare in molteplici tradizioni della Mezzaluna Fertile e può riflettere una comune tradizione orale preislamica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

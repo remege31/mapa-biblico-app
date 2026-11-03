@@ -1,0 +1,196 @@
+{
+  "id": "gaza",
+  "nombre": "Gaza",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.5248,
+  "lng": 34.4334,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città di guarnigione egiziana nel Canaan"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Capitale della Pentapoli Filistea"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Ferro II - Città filistea sotto la pressione israeliana e assira"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio — Città sotto il dominio babilonese e persiano"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Gaza (ebraico: עַזָּה; egiziano: Ghazzat) era la città più meridionale e politicamente più importante della Pentapoli filistea, situata nella pianura costiera a circa 4 km dal Mediterraneo e all'estremità settentrionale della Sinai. Controllava il passaggio obbligatorio della Via Maris tra Egitto e Canaan. La sua posizione strategica ne fece la sede dell'amministrazione egiziana in Canaan durante il Nuovo Regno e la capitale effettiva della Pentapoli filistea. Con un'occupazione ininterrotta dal Calcolitico fino ad oggi, Gaza è una delle città abitate più antiche del mondo. Il sito archeologico si trova sotto la città moderna, limitando gli scavi.",
+  "altitud_m": 10,
+  "clima": "Mediterraneo costiero arido e transitorio: precipitazioni di 300-400 mm all'anno (le più basse sulla costa cananea), estati calde e secche con umidità costiera, inverni miti. Zona di transizione tra il clima mediterraneo e il clima desertico di Sinai.",
+  "recursos": [
+    "Controllo assoluto della Via Maris — percorso tra Egitto e Levante",
+    "Porto marittimo e commercio mediterraneo",
+    "Agricoltura di pianura costiera (grano, orzo, vite)",
+    "Commercio di transito tra Arabia, Egitto e Mediterraneo",
+    "Industria tessile e artigianale"
+  ],
+  "importancia_estrategica": "Gaza era nell'antichità il collegamento obbligato tra Africa e Asia. Chiunque controllasse Gaza controllava il flusso di merci, eserciti e comunicazioni tra Egitto e il resto del Levante. I faraoni del Nuovo Regno lo usarono come quartier generale della loro amministrazione in Canaan. Gli Assiri lo trasformarono in un punto di controllo del confine con Egitto. Questa posizione di cardine geopolitico spiega perché è stato oggetto di conquista da parte di tutte le grandi potenze del Vicino Oriente antico.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-gaza",
+      "nombre": "Filistei di Gaza",
+      "descripcion": "Gaza era la città più potente della Pentapoli. Il tempio di Dagon in Gaza (Giudici 16:23-30) era il principale santuario della confederazione filistea: Sansone lo distrusse, uccidendo più persone nella morte che nella vita. Gli Filistei di Gaza mantennero la città come capitale politica e religiosa della loro confederazione per tutto il periodo del Ferro I-II, resistendo successivamente agli Israeliti, agli Assiri e agli Egiziani.",
+      "religion": "Politeismo filisteo: Dagon come dio principale; sincretismo con culti Cananei (Astarte, Baal)",
+      "periodo": "C. 1200–600 a.C"
+    },
+    {
+      "id": "egipcios-gaza",
+      "nombre": "Guarnigione egiziana del Nuovo Regno",
+      "descripcion": "Durante la tarda età del bronzo (1550-1200 a.C. circa), Gaza era la sede principale dell'amministrazione egiziana in Canaan. Le lettere di Amarna (XIV secolo a.C.) menzionano Gaza come centro di potere regionale. Pharaohs Thutmose III and Ramses II used Gaza as a base of operations for their campaigns in Canaan and Syria. La caduta del Nuovo Regno e l'arrivo dei Popoli del Mare (compresi gli Filistei) trasformarono la città egiziana in una città filistea intorno al 1175 a.C.",
+      "religion": "Politeismo egiziano: culto di Ammon, Ra, Ptah; sincretismo con le divinità cananee locali",
+      "periodo": "Bronzo Tardo, c. 1550-1175 a.C"
+    },
+    {
+      "id": "israelitas-frontera-sur",
+      "nombre": "Israeliti del confine meridionale",
+      "descripcion": "Gaza appare nei testi biblici come il limite meridionale ideale del territorio israelita ('da Dan a Gaza' o 'dall'ingresso di Hamath al fiume Egitto'). La tribù di Giuda prese temporaneamente Gaza (Giudici 1:18) ma non riuscì a trattenerlo. La presenza israelita nell'area fu sempre periferica e conflittuale, narrativamente rappresentata dalla figura di Sansone, che operò nella zona di confine tra Dan e la pianura filistea.",
+      "religion": "Tribale Yahvismo: nessuna presenza permanente nell'Gaza vero e proprio",
+      "periodo": "Ferro I-II, contatto intermittente"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-gaza",
+      "titulo": "Sansone in Gaza: la notte in cui strappò le porte",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Sansone andò a Gaza e lì vide una prostituta; entrò in lei. Fu detto ai Gazattiti: 'Sansone è venuto qui.' Lo circondarono e lo aspettavano tutta la notte davanti alla porta della città, dicendo: \"Lo uccideremo all'alba\". Sansone rimase lì fino a mezzanotte; A mezzanotte si alzò, afferrò le porte della città con i due pilastri e le distrusse, catenaccio e tutto, se le caricò sulle spalle e le portò fino alla cima del monte che è di fronte a Hebron. L'episodio rappresenta il primo incontro di Sansone con Gaza, una dimostrazione di forza fisica soprannaturale nel cuore della città nemica. Non si recò lì come un guerriero ma come un uomo che seguì il suo istinto, ma la sua forza divina trasformò la trappola in una dimostrazione di potere. La scena prefigura la sua morte nello stesso tempio di Gaza: Sansone agisce sempre su Gaza con conseguenze sproporzionate.",
+      "referencias": [
+        "Gdc 16:1-3"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "sanson-muerte-dagon",
+      "titulo": "La morte di Sansone: il tempio di Dagon crollato",
+      "fecha": "c. 1080 a.C.",
+      "descripcion": "Catturato dopo il tradimento di Dalila, con gli occhi cavati e incatenati, Sansone fu imprigionato in Gaza. I signori Filistei indissero una grande festa in onore di Dagon: \"Il nostro dio ci ha dato Sansone, nostro nemico\". Tremila uomini e donne riempirono il tempio. Sansone chiese al servo di condurlo ai due pilastri centrali che sostenevano la struttura. Posò una mano su ciascun pilastro e invocò Jahvè: 'Signore Jahvè, ricordati di me, ti prego; Dammi la forza solo per questa volta, così in un colpo solo potrò vendicarmi dell'Filistei per entrambi gli occhi.' Ha spinto con tutte le sue forze e l'edificio è crollato sui signori Filistei e su tutte le persone che vi si trovavano. I morti che ha ucciso nella morte superavano quelli che aveva ucciso nella vita. I suoi fratelli e tutta la famiglia di suo padre scesero, lo presero e lo seppellirono nel sepolcro di suo padre Manoah, tra Sorah ed Eshtaol.",
+      "referencias": [
+        "Gdc 16:21-31",
+        "Gdc 16:23-30"
+      ],
+      "personajes_clave": [
+        "sanson",
+        "senores-filisteos-gaza"
+      ]
+    },
+    {
+      "id": "amos-gaza",
+      "titulo": "Amos condanna Gaza: l'oracolo contro i trafficanti di schiavi",
+      "fecha": "c. 760 a.C.",
+      "descripcion": "Il profeta Amos aprì il suo libro con una serie di oracoli contro le nazioni vicine a Israele. L'oracolo contro Gaza è il secondo: 'Per tre delitti di Gaza e per quattro non revocherò il mio decreto: perché hanno deportato un'intera popolazione per consegnarla a Edom.' Il reato denunciato è la tratta degli schiavi – Gaza come intermediario nella deportazione di intere popolazioni per la vendita nei mercati di Edom (e da lì probabilmente in Arabia e Mesopotamia). Questo oracolo documenta Gaza come centro della tratta degli schiavi nell'VIII secolo a.C. e afferma che Jahvè giudicherà le nazioni pagane non solo per la loro idolatria ma per i loro crimini contro la dignità umana.",
+      "referencias": [
+        "Am 1:6-8",
+        "Sof 2:4",
+        "Ger 25:20"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Sansone",
+      "rol": "Dan Giudice nazireo, guerriero personale contro Filistei",
+      "periodo": "hierro_1",
+      "descripcion": "Sansone ben Manoah, della tribù di Dan, è il giudice più paradossale dell'Antico Testamento: consacrato a Dio fin dal grembo materno come nazireo (voto di non tagliarsi i capelli, di non bere vino, di non toccare cadaveri), la sua vita fu segnata dalla rottura sistematica delle tre condizioni della sua consacrazione. La sua forza non era fisica nel senso convenzionale, ma un dono dello Spirito di Jahvè che gli veniva in momenti specifici. Le sue imprese in Gaza - abbattere le porte della città e abbattere il tempio di Dagon - sono i punti estremi della sua narrazione: il primo dimostra che nessun luogo nemico può trattenerlo, il secondo che la sua morte scelta vale più della sua intera vita di violenza spontanea.",
+      "referencias": [
+        "Gdc 13:2-5",
+        "Gdc 14:1-20",
+        "Gdc 16:1-31"
+      ],
+      "ruta": [
+        "dan",
+        "gaza"
+      ]
+    },
+    {
+      "id": "amos",
+      "nombre": "Amos",
+      "rol": "Profeta pastore di Tekoa, primo profeta scrittore dell'Antico Testamento",
+      "periodo": "hierro_2",
+      "descripcion": "Amos di Tekoa era un pastore e coltivatore di sicomori nel deserto di Giuda. Senza alcuna formazione profetica ufficiale (\"Non sono né un profeta né il figlio di un profeta\"), ricevette la chiamata divina e fu inviato al santuario reale settentrionale a Betel per pronunciare un giudizio su Israele nel momento della sua massima prosperità. Il suo libro si apre con oracoli contro le nazioni vicine (inclusa Gaza) prima di indirizzare il messaggio principale a Israele: una strategia retorica che catturò l'approvazione dell'ascoltatore israelita prima di rivoltarla contro di lui. La sua visione della giustizia sociale è la più sistematica delle profezie preesiliche.",
+      "referencias": [
+        "Am 1:1",
+        "Am 7:14-15",
+        "Am 5:21-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "dalila",
+      "nombre": "Dalila",
+      "rol": "Donna della Valle di Sorec, strumento della cattura di Sansone",
+      "periodo": "c. 1080 a.C.",
+      "descripcion": "Dalila (nome di origine incerta, forse Cananeo: 'delicato' o 'notte') è il personaggio femminile più famoso della narrativa di Sansone. Non è esplicitamente chiamata filistea e il suo nome non è né ebraico né chiaramente filisteo. I signori Filistei gli offrirono millecento sicli d'argento ciascuno - un prezzo enorme - per scoprire il segreto della forza di Sansone. Per tre volte Sansone la ingannò con false risposte; Al quarto, stanco delle loro insistenze (\"la sua anima era angosciata a morte\"), rivelò la verità sui capelli nazirei. Delilah si è fatta radere le sette trecce mentre dormiva in ginocchio. La sua figura ha generato interpretazioni contrastanti: una traditrice calcolatrice, una vittima di pressioni esterne o semplicemente una donna che ha preferito il denaro all'amore.",
+      "referencias": [
+        "Gdc 16:4-20",
+        "Gdc 16:15-17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gaza è la scena dello scontro più drammatico tra Jahvè e Dagon nell'OT: il crollo del tempio da parte di Sansone. Ma è anche la città dove il profeta Amos colloca uno dei peccati che Dio non può perdonare: il traffico di esseri umani. Gaza condensa quindi due dimensioni del monoteismo etico biblico: la sovranità di Jahvè sugli altri dei (Dagon crollato) e la richiesta di giustizia nei confronti delle nazioni che trattano le persone come merci.",
+    "religiones_presentes": [
+      "Politeismo filisteo: Dagon come dio principale, con santuario centrale in Gaza",
+      "Politeismo egiziano: eredità dell'amministrazione del Nuovo Regno",
+      "Yahvismo Israelita — presenza narrativa ma non istituzionale nella città"
+    ],
+    "mitos": [
+      {
+        "id": "sanson-nazireo",
+        "nombre": "Il nazirato di Sansone: forza divina e debolezza umana",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 13:1-7; Núm 6:1-21",
+          "fuente_secundaria": "Talmud Bavli, Sotá 9b-10a; Midrash Tanjuma, Naso 24",
+          "descripcion": "La tradizione rabbinica dibatteva intensamente sullo status di Sansone. Il Talmud (Sota 9b) nota che Sansone «giudicò Israele proprio come fece suo Padre nei cieli»: poiché Dio giudica con misericordia, Sansone agì da solo, senza esercito. Ma identifica anche in ciascuna delle loro cadute (Timna, Gaza, Dalila) una violazione del voto di nazireato. Il Midrash Tanchuma legge la preghiera finale di Sansone come la più autentica della sua vita: l'uomo che non ha mai chiesto sinceramente l'aiuto divino, lo ha chiesto quando non aveva nient'altro - e è stato esaudito. La morte di Sansone come atto di vendetta personale contro il sacrificio da parte di Israele è un dibattito rabbinico aperto.",
+          "similitudes": "Il tema della persona consacrata a Dio che fallisce e viene restaurata all'ultimo momento appare in tutte e tre le tradizioni.",
+          "diferencias": "L'ebraismo è ambivalente nei confronti di Sansone: un eroe imperfetto, non un modello di pietà.",
+          "significado_teologico": "La forza di Sansone non è sua ma di Jahvè; Quando agisce di proprio impulso è vulnerabile; Quando invoca Dio – anche per vendetta personale – riceve il dono soprannaturale.",
+          "posible_relacion_cultural": "La figura dell'eroe dalla forza soprannaturale legata ai capelli ha paralleli in Gilgamesh e nel mito di Achille (tallone vulnerabile). La consacrazione fisica come fonte di potere è un motivo universale nella mitologia eroica."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Eb 11:32-34; Jue 16:28-30",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios I,21; Ambrosio, De Spiritu Sancto I,1",
+          "descripcion": "Ebrei 11:32 include Sansone nell'elenco degli eroi della fede insieme a Gedeone, Barak, Iefte e Davide. Agostino ne La Città di Dio (I,21) affronta la morte di Sansone nel contesto della domanda sul suicidio: era lecito? Ha risposto che ha agito mosso dallo Spirito Santo e che il suo caso è eccezionale, non la norma. Ambrogio vedeva in Sansone un tipo di Cristo: come Cristo morì per distruggere il nemico, Sansone morì per distruggere l'Filistei. La preghiera di Sansone prima di demolire il tempio fu interpretata come una prefigurazione della preghiera di Gesù nel Getsemani.",
+          "similitudes": "La morte che sconfigge il nemico più della vita è il nucleo tipologico della lettura cristiana.",
+          "diferencias": "Il Nuovo Testamento convalida la fede di Sansone, non la sua morale; La tipologia cristologica trasforma la vendetta personale in sacrificio redentore.",
+          "significado_teologico": "Dio può operare attraverso strumenti imperfetti. Anche la fede che agisce al limite – quando non c’è altra opzione – è vera fede.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

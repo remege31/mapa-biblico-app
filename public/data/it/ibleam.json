@@ -1,0 +1,150 @@
+{
+  "id": "ibleam",
+  "nombre": "Ibleam",
+  "tipo": "ciudad",
+  "lat": 32.45,
+  "lng": 35.2833,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Conquista incompleta, omicidio di Acazia"
+    }
+  ],
+  "descripcion_geo": "Città cananea nella regione di Issacar, formalmente assegnata a Manasse secondo lo schema di distribuzione delle città manassite nel territorio di altre tribù, vicino alla strada tra Izreel e Samaria, che la rende teatro di passaggio durante successivi movimenti militari e politici.",
+  "altitud_m": 200,
+  "clima": "Mediterraneo: estati calde e secche, inverni miti con piogge, tipici della regione di Issacar.",
+  "recursos": [
+    "Posizione sulla rotta tra Jezreel e Samaria",
+    "Terreno agricolo della regione di Issacar"
+  ],
+  "importancia_estrategica": "Ibleam, come Taanach e Meghiddo, è una delle città che Manasse non riesce a conquistare completamente durante il periodo dei Giudici; Secoli dopo, la sua vicinanza alla strada da Jezreel a Samaria ne fa il luogo in cui il re Achaziah di Giuda viene ferito a morte per ordine di Jehu durante l'epurazione della casa di Achab.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_ibleam",
+      "nombre": "Cananei di Ibleam",
+      "descripcion": "Popolazione originaria della città, non completamente espulsa da Manasse secondo il resoconto dei giudici, che rimase sotto il dominio anziché sotto la conquista totale.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C. e persistente dopo"
+    },
+    {
+      "id": "manasitas_ibleam",
+      "nombre": "Tribù di Manasse",
+      "descripcion": "Beneficiario formale della ripartizione territoriale di Ibleam, situata nel territorio di Issacar secondo lo schema delle città manassite sparse nelle tribù vicine.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "manases-no-expulsa-ibleam",
+      "titulo": "Manasse non riesce ad espellere l'Cananei da Ibleam",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Il libro dei Giudici riporta che Manasse non riuscì a spodestare gli abitanti di Ibleam e dei suoi villaggi, ripetendo il modello di conquista incompleta che caratterizza gran parte delle città cananee più fortificate della pianura.",
+      "referencias": [
+        "Gdc 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ibleam-ciudad-manases-isacar",
+      "titulo": "Ibleam fra le città di Manasse nel territorio di Issacar",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Il libro di Giosuè conferma Ibleam come una delle città che, pur essendo geograficamente situate nei territori di Issacar e Ascer, sono amministrativamente assegnate alla tribù di Manasse.",
+      "referencias": [
+        "Gs 17:11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ocozias-herido-ibleam",
+      "titulo": "Achaziah di Giuda viene ferito vicino a Ibleam",
+      "fecha": "c. 841 a.C.",
+      "descripcion": "Durante la violenta epurazione di Jehu contro la casa di Achab, Achaziah di Giuda, che stava visitando Joram di Israele, fugge quando viene inseguito; Ieu gli ordina di essere ferito sul suo carro \"sulla salita di Gur, vicino a Ibleam\", e Acazia riesce a fuggire ferito a Meghiddo, dove alla fine muore.",
+      "referencias": [
+        "2 Re 9:27"
+      ],
+      "personajes_clave": [
+        "jehu"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jehu_ibleam",
+      "nombre": "Ieu",
+      "rol": "Re di Israele, esecutore dell'epurazione contro la casa di Achab",
+      "periodo": "hierro_2",
+      "descripcion": "Ordina ad Achaziah di Giuda di essere ferito nelle vicinanze di Ibleam durante la sua violenta campagna per eliminare l'intera dinastia di Achab e i suoi alleati, dando inizio al suo regno attraverso questa sanguinosa epurazione.",
+      "referencias": [
+        "2 Re 9:27"
+      ],
+      "ruta": [
+        "jezreel",
+        "ibleam"
+      ]
+    },
+    {
+      "id": "ocozias_juda_ibleam",
+      "nombre": "Acazia di Giuda",
+      "rol": "Re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Viene ferito a morte nei pressi di Ibleam per ordine di Jehu mentre fugge sul suo carro, morendo poco dopo in Meghiddo, episodio che segna la fine del suo breve regno di appena un anno.",
+      "referencias": [
+        "2 Re 9:27",
+        "2 Cr 22:9"
+      ],
+      "ruta": [
+        "ibleam",
+        "taanach"
+      ]
+    },
+    {
+      "id": "manasitas_ibleam_personaje",
+      "nombre": "Clan di Manasse",
+      "rol": "Beneficiari formali Ibleam",
+      "periodo": "Desde c. 1200 a.C.",
+      "descripcion": "Tribù alla quale viene amministrativamente assegnata Ibleam nonostante la sua collocazione geografica nel territorio di Issacar, senza ottenere la completa espulsione dell'originaria popolazione cananea.",
+      "referencias": [
+        "Gs 17:11",
+        "Gdc 1:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ibleam condivide lo stesso modello di conquista incompleta di altre città cananee fortificate nella pianura, senza un proprio sviluppo mitico; La sua successiva rilevanza narrativa scaturisce esclusivamente dall'episodio violento dell'epurazione di Jehu, dove funge da punto di riferimento geografico per l'attacco che dà inizio al compimento del giudizio profetico annunciato contro la casa di Achab, esteso anche alla dinastia di Giuda per la sua alleanza matrimoniale con la casa di Omri.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (popolazione persistente)"
+    ],
+    "mitos": [
+      {
+        "id": "purga-jehu-ibleam-contexto",
+        "nombre": "Ibleam come scena dell'adempimento del giudizio sulla casa di Achab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 9:27",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la purga de Jehú como cumplimiento del juicio anunciado por Elías contra la casa de Acab",
+          "descripcion": "La tradizione ebraica interpreta l'episodio di Ibleam, dove Acazia viene ferita durante la persecuzione di Jehu, come parte dell'ampio e meticoloso adempimento del giudizio profetico annunciato generazioni prima da Elia contro la dinastia di Achab e Jezebel, raggiungendo anche la casa reale di Giuda per la sua compromettente alleanza matrimoniale con la dinastia idolatra del nord.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La portata del giudizio divino sulla casa di Acab, esteso anche ai suoi alleati Giuda, illustra le conseguenze delle alleanze coniugali e politiche con dinastie idolatriche.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

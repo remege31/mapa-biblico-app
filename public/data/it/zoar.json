@@ -1,0 +1,172 @@
+{
+  "id": "zoar",
+  "nombre": "Zoar",
+  "tipo": "ciudad",
+  "lat": 30.9265225301655,
+  "lng": 35.4190606947832,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Età del Bronzo Medio — Città risparmiata dalla distruzione di Sodoma"
+    }
+  ],
+  "descripcion_geo": "Città all'estremità meridionale del Mar Salato, originariamente chiamata Bela, una delle cinque Città della Pianura ma l'unica che sfugge alla distruzione di Sodoma e Gomorra su esplicita richiesta di Lot, che la trova troppo piccola (\"zoar\" significa \"piccolezza\") per meritare la distruzione insieme alle altre.",
+  "altitud_m": -400,
+  "clima": "Deserto estremo - tipico dell'estremità meridionale del Mar Salato, con pochissime precipitazioni e temperature molto elevate.",
+  "recursos": [
+    "Posizione all'estremità meridionale della fertile pianura del Giordano",
+    "Rifugio immediato disponibile dopo la distruzione di Sodoma"
+  ],
+  "importancia_estrategica": "Zoar è l'unica delle cinque Città della Piana che sopravvive alla distruzione narrata in Genesi 19, grazie alla diretta intercessione di Lot, che la sceglie come rifugio più vicino e gestibile rispetto alla fuga sui monti; Successivamente diventa un punto di riferimento geografico fisso nella descrizione del limite meridionale della visione di Mosè da Pisgah e negli oracoli profetici di giudizio contro Moab.",
+  "otros_habitantes": [
+    {
+      "id": "reyes_coalicion_zoar",
+      "nombre": "Bela (re di Zoar/Bela)",
+      "descripcion": "Re locale della città originariamente chiamato Bela, membro della coalizione di cinque re delle Città della Pianura contrari a Chedorlaomer.",
+      "religion": "Prima religione cananea-transgiordana",
+      "periodo": "C. 2050 a.C. (narrativa, era Abramo)"
+    },
+    {
+      "id": "lot_hijas_zoar",
+      "nombre": "Lot e le sue due figlie",
+      "descripcion": "Sopravvissuti alla distruzione di Sodoma che si rifugiano prima a Zoar prima di trasferirsi in una grotta sulle montagne vicine per paura di rimanere in città.",
+      "religion": "Yahvismo (linea Abramo)",
+      "periodo": "C. 2067 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "lot-intercede-zoar",
+      "titulo": "Lot intercede per Zoar come rifugio",
+      "fecha": "c. 2067 a.C. (narrativa)",
+      "descripcion": "Sollecitato dagli angeli a fuggire sui monti prima della distruzione di Sodoma, Lot chiede invece di rifugiarsi nella vicina cittadina di Bela, sostenendo di non riuscire a raggiungere i monti in tempo; L'angelo accoglie la sua richiesta e risparmia la città per amore di Lot, cambiandole il nome in Zoar (\"piccolezza\").",
+      "referencias": [
+        "Gen 19:18-22"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    },
+    {
+      "id": "moises-vision-zoar",
+      "titulo": "Zoar come limite meridionale della visione di Mosè",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Nella descrizione della visione panoramica che Mosè contempla dalla vetta del Pisgah, Zoar segna il limite meridionale della terra promessa che gli viene mostrata, abbracciando così l'intera estensione da Galaad alla punta meridionale.",
+      "referencias": [
+        "Dt 34:3"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "isaias-jeremias-huida-zoar",
+      "titulo": "Zoar come meta di fuga negli oracoli contro Moab",
+      "fecha": "c. 740–600 a.C.",
+      "descripcion": "Sia Isaia che Geremia menzionano Zoar come meta di fuga dei fuggitivi moabiti che sfuggono al giudizio annunciato contro il loro regno, tornando ironicamente alla funzione storica della città come luogo di rifugio già stabilita nel racconto di Lot.",
+      "referencias": [
+        "Is 15:5",
+        "Ger 48:34"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot_zoar",
+      "nombre": "molti",
+      "rol": "Nipote di Abramo, intercessore per Zoar",
+      "periodo": "bronce_medio",
+      "descripcion": "Chiede e ottiene la preservazione di Zoar come rifugio immediato durante la fuga da Sodoma, unico caso nel racconto di distruzione in cui l'intercessione umana riesce esplicitamente a salvare un'intera città dal giudizio annunciato.",
+      "referencias": [
+        "Gen 19:18-23"
+      ],
+      "ruta": [
+        "sodom",
+        "zoar"
+      ]
+    },
+    {
+      "id": "moises_zoar",
+      "nombre": "Mosè",
+      "rol": "Legislatore, visionario della terra promessa",
+      "periodo": "bronce_tardio",
+      "descripcion": "Contempla Zoar come il limite meridionale dell'ampia visione panoramica della terra promessa che riceve dalla vetta del Pisgah poco prima della sua morte.",
+      "referencias": [
+        "Dt 34:1-4"
+      ],
+      "ruta": [
+        "pisgah"
+      ]
+    },
+    {
+      "id": "isaias_jeremias_zoar",
+      "nombre": "Isaia e Geremia",
+      "rol": "Profeti di Giuda",
+      "periodo": "c. 740–600 a.C.",
+      "descripcion": "Menzionano Zoar come destinazione di fuga dei fuggitivi moabiti nei rispettivi oracoli di giudizio, conferendo all'antica città di rifugio di Lot una nuova funzione narrativa secoli dopo.",
+      "referencias": [
+        "Is 15:5",
+        "Ger 48:34"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zoar è teologicamente significativo in quanto unica eccezione all'interno della narrazione del giudizio totale sulle Città della Pianura, dimostrando che una specifica intercessione umana può alterare la portata di un giudizio divino già decretato. La sua successiva menzione sia nella visione finale di Mosè che negli oracoli profetici di giudizio contro Moab conferma la sua permanenza come punto di riferimento geografico stabile lungo tutta la storia biblica, dal periodo patriarcale alla tarda monarchia.",
+    "religiones_presentes": [
+      "Prima religione cananea-transgiordana",
+      "Yahvismo (prospettiva narrativa della storia)"
+    ],
+    "mitos": [
+      {
+        "id": "zoar-unica-ciudad-perdonada",
+        "nombre": "Zoar, l'unica Città della Piana perdonata",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 19:18-23",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 50 (sobre el mérito de la intercesión de Lot por Zoar)",
+          "descripcion": "La tradizione rabbinica discute il merito relativo della richiesta di Lot, rilevando che, sebbene Lot stesso non sia presentato come un modello di giustizia paragonabile a Abramo, la sua intercessione specifica e concreta per una singola piccola città ottiene risultati immediati, in contrasto con l'intercessione più ampia e generale di Abramo per l'intera regione, che non riesce a impedire la distruzione della stessa Sodoma.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Zoar come l'unica città preservata dal giudizio sulla regione.",
+          "diferencias": null,
+          "significado_teologico": "La preservazione dello Zoar insegna che l’intercessione concreta e specifica, anche da parte di qualcuno non particolarmente retto, può essere efficace se diretta verso un obiettivo limitato e raggiungibile.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo del Lotto come parte della storia fondativa comune alle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 19:18-23 (recepción patrística sobre la gracia concedida por causa de la petición de un justo imperfecto)",
+          "fuente_secundaria": "Comentarios patrísticos que contrastan la debilidad moral de Lot con la eficacia de su súplica específica",
+          "descripcion": "La tradizione cristiana prende l'episodio come un esempio del fatto che la grazia divina può rispondere a una richiesta umile e concreta anche da parte di qualcuno la cui morale complessiva è discutibile, anticipando il principio più ampio della grazia che non dipende dal merito completo del supplicante.",
+          "similitudes": "Condivide con la lettura ebraica il valore dell'intercessione concreta come efficace indipendentemente dal merito generale dell'intercessore.",
+          "diferencias": "La lettura cristiana tende a generalizzare l'episodio come illustrazione del principio più ampio della grazia immeritata.",
+          "significado_teologico": "La preservazione di Zoar diventa una figura di grazia dell'Antico Testamento che risponde all'umile richiesta, indipendentemente dal merito accumulato di chi supplica.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo del Lotto come storia fondativa comune al giudaismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 15:59-60; 29:32-33 (referencia a la salvación de la familia de Lut, 'excepto su mujer')",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la salvación de Lut y su familia",
+          "descripcion": "Il Corano conferma la salvezza di Lut e della sua famiglia (tranne la moglie) dal giudizio sul suo popolo, anche se non sviluppa nello stesso dettaglio topografico l'identificazione specifica di Zoar come città di rifugio distinta dalle altre Città della Pianura.",
+          "similitudes": "Riconoscimento condiviso della salvezza di Lut e dei suoi familiari più stretti dal giudizio sulla regione.",
+          "diferencias": "Il racconto coranico non descrive nei dettagli la trattativa specifica su Zoar come città perdonata, concentrandosi più genericamente sulla salvezza della famiglia di Lut nel suo insieme.",
+          "significado_teologico": "La salvezza di Lut conferma il modello coranico secondo cui Dio preserva i giusti anche nel mezzo del giudizio collettivo su intere comunità.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo Lot/Lut come storia profetica fondamentale comune alle tre religioni abramitiche."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

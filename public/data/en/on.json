@@ -1,0 +1,156 @@
+{
+  "id": "on",
+  "nombre": "On (Heliopolis)",
+  "tipo": "ciudad",
+  "lat": 30.108086,
+  "lng": 31.33822,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — City of Joseph's father-in-law"
+    }
+  ],
+  "descripcion_geo": "Ancient Egyptian city, known by the Greeks as Heliopolis ('city of the sun'), main religious center of the Egyptian solar cult dedicated to Ra, located near the Nile delta, famous for its temple and its priestly class of high social status.",
+  "altitud_m": 30,
+  "clima": "Subtropical desert — extremely hot and dry year-round, typical of the Nile Delta in Egypt.",
+  "recursos": [
+    "Main center of the Egyptian solar cult of Ra",
+    "Temple of great religious prestige",
+    "Priestly class of high social status at the Egyptian court"
+  ],
+  "importancia_estrategica": "On is relevant in the biblical story exclusively because it is the city of origin of Potiphera, a priest whose marriage of his daughter to Joseph links the patriarch family with the most prestigious Egyptian religious elite, integrating Joseph—and through him, the future tribe of Ephraim and Manasseh—into the highest social structure of the pharaonic Egypt.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes_on",
+      "nombre": "Priestly class of Ra",
+      "descripcion": "Religious elite of On dedicated to the cult of the sun god Ra, of which Potifera, Joseph's father-in-law, was a part as main priest.",
+      "religion": "Egyptian polytheism — cult of Ra",
+      "periodo": "c. 1880–1700 BC (traditional chronology)"
+    },
+    {
+      "id": "familia_potifera_on",
+      "nombre": "Potifera's family",
+      "descripcion": "Family nucleus of the priest of On whose daughter Asenath becomes the wife of Joseph, mother of Manasseh and Ephraim.",
+      "religion": "Egyptian polytheism",
+      "periodo": "c. 1880 BC (traditional chronology)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jose-desposa-asenat-on",
+      "titulo": "Pharaoh gives Joseph to Asenath of On as his wife",
+      "fecha": "c. 1885 BC (cronología tradicional)",
+      "descripcion": "After successfully interpreting the Pharaoh's dreams and being elevated to second ruler of Egypt, Joseph receives Asenath, daughter of Potiphera, priest of On, as his wife, a marriage that formally integrates Joseph into the Egyptian social and religious elite.",
+      "referencias": [
+        "Gen 41:45"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "nacimiento-manases-efrain-on",
+      "titulo": "Manasseh and Ephraim are born, sons of Joseph and Asenath",
+      "fecha": "c. 1884–1880 BC (cronología tradicional)",
+      "descripcion": "Before the years of famine came, Asenath gives birth to Manasseh and Ephraim, whose names Joseph chooses in Hebrew to commemorate her forgetfulness of past labors and her fruitfulness in the land of her affliction, sons who will later become heads of two tribes of Israel.",
+      "referencias": [
+        "Gen 41:50-52"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "ezequiel-mencion-on",
+      "titulo": "Ezekiel mentions the judgment on On in his oracle against Egypt",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel includes On among the Egyptian cities that will suffer divine judgment in his extensive oracle against Egypt, announcing the destruction of the idols and the cessation of images in this ancient solar cult center.",
+      "referencias": [
+        "Ezek 30:17"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jose_on",
+      "nombre": "José",
+      "rol": "Governor of Egypt, son of Jacob",
+      "periodo": "bronce_medio",
+      "descripcion": "He joined the Egyptian religious elite through his marriage to Asenath of On, a link that gave rise to the tribes of Ephraim and Manasseh.",
+      "referencias": [
+        "Gen 41:45-52"
+      ],
+      "ruta": [
+        "egipto",
+        "on"
+      ]
+    },
+    {
+      "id": "potifera_on",
+      "nombre": "Potifera",
+      "rol": "Priest of On, father-in-law of Joseph",
+      "periodo": "c. 1885 BC (cronología tradicional)",
+      "descripcion": "Head priest of the solar cult of On whose daughter Asenath becomes Joseph's wife by direct appointment of the pharaoh.",
+      "referencias": [
+        "Gen 41:45",
+        "Gen 41:50"
+      ],
+      "ruta": [
+        "on"
+      ]
+    },
+    {
+      "id": "asenat_on",
+      "nombre": "Asenath",
+      "rol": "Egyptian wife of Joseph, mother of Ephraim and Manasseh",
+      "periodo": "c. 1885–1880 BC (cronología tradicional)",
+      "descripcion": "Daughter of the priest Potiphera of On, she becomes the wife of Joseph and mother of the eponymous ancestors of two important tribes of Israel.",
+      "referencias": [
+        "Gen 41:45",
+        "Gen 41:50-52"
+      ],
+      "ruta": [
+        "on"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "On, as the main center of the Egyptian solar cult of Ra, represents the paradoxical integration of the Israelite patriarchal line with the highest pagan religious elite of Egypt: Joseph's marriage to the daughter of a priest of Ra directly gives rise to two of the twelve tribes of Israel, illustrating how divine providential design can operate even through alliances with religious institutions outside the covenant, without compromising the ultimate Yahwist identity of the resulting offspring.",
+    "religiones_presentes": [
+      "Egyptian polytheism — solar cult of Ra",
+      "Yahwism (perspective of Joseph and his descendants)"
+    ],
+    "mitos": [
+      {
+        "id": "integracion-jose-elite-egipcia-on",
+        "nombre": "Joseph's integration into the Egyptian religious elite of On",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 41:45-52",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la providencia divina manifestada en el matrimonio de José con Asenat, incluyendo tradiciones midráshicas posteriores que elaboran sobre la conversión espiritual de Asenat",
+          "descripcion": "Jewish tradition extensively develops Joseph's marriage to Asenath of On, with later midrashic traditions (including the extrabiblical text 'Joseph and Asenath') elaborating narratives about a spiritual transformation of Asenath toward monotheism, softening the theological tension implicit in the union of a Hebrew patriarch with the daughter of a high-ranking pagan priest.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Joseph's integration into the Egyptian religious elite, despite his pagan origin, does not compromise his Yahwist fidelity or that of his descendants, demonstrating that divine providence can operate through circumstances and alliances external to the explicit covenant.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

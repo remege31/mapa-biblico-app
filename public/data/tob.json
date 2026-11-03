@@ -1,0 +1,133 @@
+{
+  "id": "tob",
+  "nombre": "Tob",
+  "tipo": "territorio",
+  "lat": 32.56,
+  "lng": 36.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Territorio al este del Jordán, en la actual Siria meridional. Refugio de Jefté cuando fue expulsado por sus hermanos.",
+  "altitud_m": 600,
+  "clima": "árido-mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "comercio"
+  ],
+  "importancia_estrategica": "Tierra de refugio y rebelión; base de operaciones de Jefté el caudillo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tob_h1",
+      "titulo": "Jefté huye a Tob",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Expulsado por sus hermanos por ser hijo de prostituta, Jefté huye a la tierra de Tob donde reúne a hombres aventureros.",
+      "referencias": [
+        "Jue 11:3"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "tob_h2",
+      "titulo": "Los ammonitas contratan guerreros de Tob",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Los ammonitas contratan soldados de Tob para enfrentarse a David en la guerra contra Joab.",
+      "referencias": [
+        "2 Sam 10:6-8"
+      ],
+      "personajes_clave": [
+        "ammonitas",
+        "Joab"
+      ]
+    },
+    {
+      "id": "tob_h3",
+      "titulo": "Los ancianos de Galaad traen a Jefté de Tob",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Ante la amenaza ammonita, los ancianos de Galaad van a Tob a buscar a Jefté y lo nombran jefe.",
+      "referencias": [
+        "Jue 11:4-11"
+      ],
+      "personajes_clave": [
+        "Jefté",
+        "ancianos de Galaad"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tob_p1",
+      "nombre": "Jefté",
+      "rol": "Juez de Galaad",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Refugiado en Tob, reunió una banda de hombres; regresó como caudillo cuando Israel le necesitó.",
+      "referencias": [
+        "Jue 11:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p2",
+      "nombre": "ancianos de Galaad",
+      "rol": "Líderes tribales",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Viajaron a Tob para convencer a Jefté de regresar como líder militar.",
+      "referencias": [
+        "Jue 11:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p3",
+      "nombre": "hombres aventureros",
+      "rol": "Banda de Jefté",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Se unieron a Jefté en Tob; base del ejército que liberó a Galaad.",
+      "referencias": [
+        "Jue 11:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tob: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tob_m1",
+        "nombre": "El rechazado que se convierte en salvador",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Jefté, rechazado por su origen, se convierte en el salvador de quien lo rechazó; patrón bíblico del elegido menospreciado.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jefté, rechazado por su origen, se convierte en el salvador de quien lo rechazó; patrón bíblico del elegido menospreciado.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

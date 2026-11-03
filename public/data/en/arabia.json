@@ -1,0 +1,262 @@
+{
+  "id": "arabia",
+  "nombre": "Arabia",
+  "tipo": "territorio",
+  "lat": 27.4,
+  "lng": 37.7,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 21,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Iron II - Roman"
+    }
+  ],
+  "descripcion_geo": "Vast peninsula south of the land of Israel, between the Red Sea, the Persian Gulf and the Mediterranean. Land of incense, caravans and Bedouins.",
+  "altitud_m": 800,
+  "clima": "arid-desert",
+  "recursos": [
+    "incense",
+    "myrrh",
+    "spices",
+    "gold",
+    "caravans"
+  ],
+  "importancia_estrategica": "Source of spices and Arab trade; the queen of Sheba came from Arabia; Paul retired there after his conversion.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "arb_h1",
+      "titulo": "The Queen of Sheba visits Solomon",
+      "fecha": "ca. 950 BC",
+      "descripcion": "The Queen of Sheba (Southern Arabia) travels to Jerusalem to test Solomon's wisdom with riddles and gifts.",
+      "referencias": [
+        "1 Kgs 10:1-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Saba"
+      ]
+    },
+    {
+      "id": "arb_h2",
+      "titulo": "Paul retreats to Arabia",
+      "fecha": "ca. 33-36 AD",
+      "descripcion": "Following his conversion into Damascus, Paul retreats to Arabia for a time before returning to Damascus.",
+      "referencias": [
+        "Gal 1:17"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "arb_h3",
+      "titulo": "The Magi of the East (Arabia)",
+      "fecha": "ca. 6-4 BC",
+      "descripcion": "Wizards from the East (tradition places them in Arabia) follow the star to Bethlehem and offer incense and myrrh.",
+      "referencias": [
+        "Matt 2:1-12"
+      ],
+      "personajes_clave": [
+        "magos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "arb_p1",
+      "nombre": "The Queen of Sheba",
+      "rol": "Arabian queen of the south",
+      "periodo": "ca. 950 BC",
+      "descripcion": "He visited Solomon to check his fame; Jesus cites her as an example of one who seeks wisdom (Mt 12:42).",
+      "referencias": [
+        "1 Kgs 10:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arb_p2",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He retired to Arabia after his conversion; There he received the revelations that formed his theology.",
+      "referencias": [
+        "Gal 1:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arb_p3",
+      "nombre": "Ishmael",
+      "rol": "Father of the Arabs",
+      "periodo": "ca. 2000 BC",
+      "descripcion": "Son of Abraham and Hagar; Their descendants inhabited Arabia and are ancestors of the Arabs.",
+      "referencias": [
+        "Gen 25:12-18"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Land of the Nabataeans and the route of incense; cradle of Islam; place of Paul's retreat and possible origin of the magicians.",
+    "religiones_presentes": [
+      "arabic_paganism",
+      "Judaism",
+      "Christianity",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "arb_m1",
+        "nombre": "Ishmael and Arabia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 25:18",
+          "fuente_secundaria": "",
+          "descripcion": "Ishmael, son of Abraham, was the father of twelve princes and lived from Havilah to Shur, in Arabia (Gen 25:18).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ishmael, son of Abraham, was the father of twelve princes and lived from Havilah to Shur, in Arabia (Gen 25:18).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:42",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus cites the queen of Sheba (Arabia) as an example of one who seeks divine wisdom (Mt 12:42).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus cites the queen of Sheba (Arabia) as an example of one who seeks divine wisdom (Mt 12:42).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Islam considers Ishmael ancestor of the Arabs and Muhammad; Mecca, in Arabia, is the spiritual center of Islam.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam considers Ishmael ancestor of the Arabs and Muhammad; Mecca, in Arabia, is the spiritual center of Islam.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "arb_nt_h1",
+        "titulo": "Paul in Arabia",
+        "fecha": "ca. 33-36 AD",
+        "descripcion": "After his conversion, Paul retreats to Arabia; There he received by revelation the gospel that he would proclaim.",
+        "referencias": [
+          "Gal 1:17-18"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "arb_nt_h2",
+        "titulo": "The Queen of Sheba at trial",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jesus quotes the queen of the south (Arabia) who came to listen to Solomon; she will condemn those who reject Christ.",
+        "referencias": [
+          "Matt 12:42"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "arb_nt_h3",
+        "titulo": "Hagar and the Sinai in Arabia",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul uses the allegory of Hagar (associated with Arabia/Sinai) to explain the difference between law and grace.",
+        "referencias": [
+          "Gal 4:24-25"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "arb_nt_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He retired to Arabia after his conversion to receive the evangelical revelation.",
+        "referencias": [
+          "Gal 1:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "arb_nt_p2",
+        "nombre": "The Queen of Sheba",
+        "rol": "Wisdom Search Example",
+        "periodo": "ca. 950 BC",
+        "descripcion": "Jesus uses her as a model of those who seek the truth, contrasting with those who reject it.",
+        "referencias": [
+          "Matt 12:42"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "arb_nt_p3",
+        "nombre": "Agar",
+        "rol": "Sara's slave",
+        "periodo": "ca. 2000 BC",
+        "descripcion": "Paul uses it as a symbol of the covenant of Law (mount Sinai in Arabia) versus the covenant of grace.",
+        "referencias": [
+          "Gal 4:24"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Arabia was the location of Paul's training retreat; also the setting for the allegories about law and grace in Galatians.",
+      "religiones_presentes": [
+        "arabic_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "arb_nt_m1",
+          "nombre": "Retirement in Arabia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Paul retired to Arabia to receive his revelation; model of the time of solitude necessary before public ministry.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Paul retired to Arabia to receive his revelation; model of the time of solitude necessary before public ministry.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

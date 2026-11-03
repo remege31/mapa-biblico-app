@@ -1,0 +1,138 @@
+{
+  "id": "shephelah",
+  "nombre": "Sefela",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.78,
+  "lng": 34.85,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 20,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "The 'lowlands' between the mountains of Judah and the Philistine coastal plain; land of gentle hills and fertile valleys.",
+  "altitud_m": 200,
+  "clima": "Mediterranean",
+  "recursos": [
+    "olive trees",
+    "figs",
+    "cereals",
+    "vine"
+  ],
+  "importancia_estrategica": "Buffer zone between Israel and Philistines; scene of battles and the story of Samson.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "Samson in the valleys of the Shephelah",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Samson's exploits take place in the valleys of Shephelah (Timnat, Ashkelon, Lehi), the border land between Israel and the Philistines.",
+      "referencias": [
+        "Judg 14-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "The Valley of Elah and David and Goliath",
+      "fecha": "ca. 1010 BC",
+      "descripcion": "The valley of Elah in Shephelah is the scene of the duel between David and the giant Goliath.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "The cities of Shephelah in Josiah's reform",
+      "fecha": "ca. 621 BC",
+      "descripcion": "Josiah extends his religious reform to the cities of Shephelah, destroying places of pagan worship.",
+      "referencias": [
+        "2 Chr 34:6"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "Samson",
+      "rol": "Nazirite judge",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "His adventures and battles against the Philistines took place in the Shephela.",
+      "referencias": [
+        "Judg 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "David",
+      "rol": "King by Israel",
+      "periodo": "ca. 1010-970 BC",
+      "descripcion": "He was a shepherd in Bethlehem and fought in the valleys of Shephela before becoming king.",
+      "referencias": [
+        "1 Sam 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Micah of Moreset",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "Born in Moreset-Gath in La Sefela; contemporary prophet by Isaiah.",
+      "referencias": [
+        "Mic 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Border land and interaction with the Philistines; Its valleys were battlefields that forged the military identity of Israel.",
+    "religiones_presentes": [
+      "Judaism",
+      "philistine_paganism"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "The valley of battle",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The valley of Elah in the Shephelah was the scene of the final confrontation between Israel and the Philistines, represented in the David-Goliath duel.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The valley of Elah in the Shephelah was the scene of the final confrontation between Israel and the Philistines, represented in the David-Goliath duel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

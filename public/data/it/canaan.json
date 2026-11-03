@@ -1,0 +1,224 @@
+{
+  "id": "canaan",
+  "nombre": "Canaan",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 160,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Centro geográfico aproximado de la región histórica de Canaán — coincide con Jerusalén, núcleo político del territorio en el AT",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo: dominio egiziano"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Periodo dei Giudici"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: monarchia israelita"
+    }
+  ],
+  "descripcion_geo": "Regione del Levante meridionale compresa tra il Mar Mediterraneo a ovest, il Giordano a est, il Libano a nord e il Negev a sud. Territorio dal clima mediterraneo con valli fertili (Jezreel, Elá), pianure costiere (Shephela), colline centrali e la profonda valle del Giordano. La più grande varietà topografica e climatica per chilometro quadrato di qualsiasi regione del Vicino Oriente antico.",
+  "altitud_m": "Variabile: da -430 m (Mar Morto) a 2814 m (Monte Hermon)",
+  "clima": "Mediterraneo a nord e ad ovest; arido-desertico a sud e ad est. Stagioni secche e piovose ben definite.",
+  "recursos": [
+    "Grano e orzo (valli)",
+    "Olivi (altopiani)",
+    "Vigneti",
+    "Legno libanese",
+    "Rame (arabo)",
+    "Rotte commerciali tra Egitto e Mesopotamia"
+  ],
+  "importancia_estrategica": "Corridoio terrestre forzato tra Egitto e Mesopotamia: tutte le potenze dell'epoca combatterono per il suo controllo. Il territorio era attraversato dalla Via Maris (strada costiera) e dalla Via dei Re (strada della Transgiordania).",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-norte",
+      "nombre": "Cananei",
+      "descripcion": "Popoli semitici che abitavano le città-stato costiere e dell'entroterra. Hanno sviluppato il primo alfabeto, la tecnologia del bronzo e il commercio internazionale. La loro cultura ha influenzato profondamente Israele nonostante l'opposizione religiosa.",
+      "religion": "Politeismo — El (padre degli dei), Baal (tempesta e fertilità), Asera (mare e maternità)",
+      "periodo": "C. 3500–1000 a.C"
+    },
+    {
+      "id": "filisteos-costa",
+      "nombre": "Filistei",
+      "descripcion": "Popoli del mare si stabilirono nella Pentapoli costiera (Gaza, Asdod, Ascalon, Gat, Accaron). Rivali militari di Israele durante i Giudici e la prima monarchia. Hanno introdotto il ferro nella regione.",
+      "religion": "Politeismo — Dagon, Baal-Zebub, Astarte",
+      "periodo": "C. 1200–600 a.C"
+    },
+    {
+      "id": "fenicios",
+      "nombre": "Fenici",
+      "descripcion": "Località della costa nord (Tiro, Sidone, Byblos). Maestri del commercio marittimo e della porpora. Alleati di Israele sotto Davide e Salomone: Hiram di Tiro ha fornito cedri per il Tempio.",
+      "religion": "Politeismo — Baal, Melkart (Tiro), Asera",
+      "periodo": "C. 1200–333 a.C"
+    },
+    {
+      "id": "amoritas",
+      "nombre": "Amorita",
+      "descripcion": "Popolo semitico del nord-est che dominava Canaan nella media età del bronzo. Progenitori di varie città Cananei. Menzionato spesso insieme a Cananei nell'AT.",
+      "religion": "Politeismo: pantheon semitico occidentale",
+      "periodo": "C. 2000–1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "promesa-abraham",
+      "titulo": "La promessa di Abramo",
+      "fecha": "c. 1800 a.C. (trad.)",
+      "descripcion": "Jahvè promette la terra di Abramo Canaan per i suoi discendenti. Il patto definisce l'identità di Israele come popolo eletto con una terra promessa. Origine del rapporto teologico Israele-terra che permea tutto l'Antico Testamento.",
+      "referencias": [
+        "Gen 12:1-7",
+        "Gen 15:18-21",
+        "Gen 17:8"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "conquista-josue",
+      "titulo": "La conquista di Giosuè",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Giosuè guida l'ingresso delle tribù israelite in Canaan dopo l'Esodo. La conquista è parziale e progressiva: molte città cananee rimangono inesplorate, creando la tensione culturale e religiosa del periodo dei Giudici.",
+      "referencias": [
+        "Gs 1:1-18",
+        "Gs 6:1-27",
+        "Gs 11:16-23"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "periodo-jueces",
+      "titulo": "Il ciclo dei Giudici",
+      "fecha": "c. 1200–1000 a.C.",
+      "descripcion": "In Canaan, le tribù israelite alternano la fedeltà a Jahvè e l'adozione del politeismo Cananeo. Il ciclo apostasia-oppressione-pentimento-liberazione definisce il periodo. I giudici (Deborah, Gedeone, Sansone) sono liberatori locali, non monarchi nazionali.",
+      "referencias": [
+        "Gdc 2:10-23",
+        "Gdc 4:1-24",
+        "Gdc 6:1-40"
+      ],
+      "personajes_clave": [
+        "debora",
+        "gedeon",
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abramo",
+      "rol": "Patriarca: destinatario della promessa della terra",
+      "periodo": "bronce_medio",
+      "descripcion": "Chiamato da Ur de Chaldea a Canaan. Primo destinatario della promessa territoriale. Il suo percorso definisce i limiti del territorio promesso e dei luoghi sacri fondatori (Sichem, Hebron, Bersabea).",
+      "referencias": [
+        "Gen 12:1-9",
+        "Gen 13:14-18",
+        "Gen 22:1-19"
+      ],
+      "ruta": [
+        "ur",
+        "haran",
+        "shechem",
+        "hebron",
+        "beersheba",
+        "egipto"
+      ]
+    },
+    {
+      "id": "josue",
+      "nombre": "Giosuè",
+      "rol": "Conquistatore: successore di Mosè",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida l'ingresso di Israele in Canaan. La presa di Gerico è l'episodio inaugurale. Distribuire il territorio tra le dodici tribù. La sua figura segna il passaggio dal periodo nomade all'insediamento nella terra promessa.",
+      "referencias": [
+        "Gs 1:1-9",
+        "Gs 6:1-27",
+        "Gs 24:1-28"
+      ],
+      "ruta": [
+        "sinai",
+        "jericho",
+        "ai",
+        "gibeon",
+        "shechem"
+      ]
+    },
+    {
+      "id": "debora",
+      "nombre": "Debora",
+      "rol": "Giudice e profetessa",
+      "periodo": "hierro_1",
+      "descripcion": "Unico giudice donna nell'OT. Guida Israele contro l'esercito Cananeo di Sisera. Il suo canto di vittoria (Giudici 5) è uno dei testi ebraici più antichi e un documento geografico di prim'ordine per la storia di Canaan.",
+      "referencias": [
+        "Gdc 4:1-24",
+        "Gdc 5:1-31"
+      ],
+      "ruta": [
+        "bethel",
+        "tabor_mount",
+        "taanach"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Canaan è la scena della battaglia teologica centrale dell'Antico Testamento: il monoteismo yahvista contro il politeismo Cananeo. Il culto di Baal e Asera negli alti luoghi (bamot) è la tentazione permanente di Israele. I profeti dell'Antico Testamento articolano quasi sempre il loro messaggio in riferimento a questa tensione di fondo.",
+    "religiones_presentes": [
+      "Yahvismo (monoteismo israelita emergente)",
+      "Politeismo Cananeo (El, Baal, Asera, Astarte)",
+      "Religione fenicia (Melkart, Baal di Tiro)"
+    ],
+    "mitos": [
+      {
+        "id": "tierra-prometida",
+        "nombre": "La Terra Promessa come dono divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 15:18-21 · Dt 34:1-4",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 44:1 — la promesa territorial a Abraham como eje de la alianza; la tierra como señal de elección",
+          "descripcion": "La terra di Canaan è l'adempimento della promessa fatta a Abramo. Non è solo un territorio politico: è lo spazio in cui Jahvè vive con la sua gente. Il rapporto Israele-terra è inseparabile dall'alleanza divina.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La terra è un segno dell'elezione di Israele. La sua perdita (Esilio) è un segno del giudizio di Jahvè; del suo recupero, del ripristino dell'alleanza.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Eb 11:8-16 · Gál 3:15-29",
+          "fuente_secundaria": "Justino Mártir, Diálogo con Trifón CXIX,5 — la herencia espiritual de Abraham; la promesa territorial reinterpretada como promesa escatológica",
+          "descripcion": "La terra promessa viene reinterpretata come tipo del regno di Dio. Abramo cercava una patria celeste. La promessa territoriale è spiritualizzata: l'eredità è Cristo stesso e la vita eterna.",
+          "diferencias": "La promessa si spiritualizza: la terra fisica cede alla promessa spirituale universale.",
+          "similitudes": "Abramo come padre della fede; la promessa come quadro della relazione divino-umana.",
+          "significado_teologico": "La terra è l'immagine della salvezza escatologica: il nuovo Canaan è il regno eterno.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 5:20-21",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Maida 5:20-21 — al-ard al-muqaddasa como prueba de obediencia para los Hijos de Israel",
+          "descripcion": "Il Corano menziona che Mosè ordinò agli Israeliti di entrare nella Terra Santa (al-ard al-muqaddasa). La promessa della terra è inquadrata nella missione profetica di Mosè, senza il peso teologico che ha nella tradizione ebraica.",
+          "diferencias": "Senza enfasi sul patto territoriale permanente. La terra sacra è un episodio, non un asse teologico.",
+          "similitudes": "La terra come dono divino legato all'obbedienza.",
+          "significado_teologico": "La disobbedienza impedisce l'accesso alla terra, tema di sottomissione alla volontà divina.",
+          "posible_relacion_cultural": "Tradizione condivisa sulla santità della terra di Palestina/Levante."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

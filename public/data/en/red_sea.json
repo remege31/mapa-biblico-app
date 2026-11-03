@@ -1,0 +1,152 @@
+{
+  "id": "red_sea",
+  "nombre": "Red Sea",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 27.09,
+  "lng": 34.77,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "late bronze"
+    }
+  ],
+  "descripcion_geo": "Narrow sea between Africa and the Arabian Peninsula. In the AT, the 'Yam Suf' (Sea of ​​Reeds), scene of the miraculous passage of the exodus.",
+  "altitud_m": 0,
+  "clima": "desert-tropical",
+  "recursos": [
+    "fishing",
+    "maritime trade",
+    "salt"
+  ],
+  "importancia_estrategica": "Natural border between Egypt and Arabia; scene of the founding miracle of the town of Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "red_h1",
+      "titulo": "The miraculous passage of the Red Sea",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Moses extends the rod and the sea is divided; Israel crosses on dry land while the Egyptian army perishes in the waters.",
+      "referencias": [
+        "Exod 14:21-31"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "red_h2",
+      "titulo": "The song of Moses and Miriam",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "After the passage of the sea, Moses sings the song of victory and Miriam dances with tambourines celebrating the salvation of the Lord.",
+      "referencias": [
+        "Exod 15:1-21"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "red_h3",
+      "titulo": "The Red Sea in the NT: type of baptism",
+      "fecha": "ca. 50-55 AD",
+      "descripcion": "Paul interprets the crossing of the Red Sea as a type of Christian baptism: all were 'baptized in Moses in the sea'.",
+      "referencias": [
+        "1 Cor 10:1-2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "red_p1",
+      "nombre": "Moses",
+      "rol": "Liberator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He stretched out the rod over the sea; his faith at the most critical moment saved the entire Israel.",
+      "referencias": [
+        "Exod 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p2",
+      "nombre": "Miriam",
+      "rol": "Prophetess",
+      "periodo": "ca. 1320-1250 BC",
+      "descripcion": "She led the Israelite women's victory song after the passage of the sea.",
+      "referencias": [
+        "Exod 15:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "red_p3",
+      "nombre": "Pharaoh",
+      "rol": "King by Egypt",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "His army pursued Israel into the sea and he perished in the waters.",
+      "referencias": [
+        "Exod 14:28"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Red Sea is the setting for Israel's founding event: the exodus. His miraculous step is cited throughout the Bible as a paradigm of divine salvation.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "red_m1",
+        "nombre": "The passage of the Red Sea",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The crossing of the Red Sea is the founding event of the people of God: birth of Israel as a free nation.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The crossing of the Red Sea is the founding event of the people of God: birth of Israel as a free nation.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paul interprets it as a type of Christian baptism (1 Cor 10:1-2); Hebrews cites it as an act of faith (Heb 11:29).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul interprets it as a type of Christian baptism (1 Cor 10:1-2); Hebrews cites it as an act of faith (Heb 11:29).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 26:63-66",
+          "fuente_secundaria": "",
+          "descripcion": "The Quran narrates the passage of the sea of ​​Musa (Moses) and the drowning of Pharaoh (Cor 26:63-66).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Quran narrates the passage of the sea of ​​Musa (Moses) and the drowning of Pharaoh (Cor 26:63-66).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

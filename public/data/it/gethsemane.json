@@ -1,0 +1,77 @@
+{
+  "id": "gethsemane",
+  "nombre": "Getsemani",
+  "tipo": "ciudad",
+  "lat": 31.7794,
+  "lng": 35.2397,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Uliveto ai piedi occidentali del Monte degli Ulivi, vicino al torrente Kidron, di fronte a Gerusalemme.",
+  "altitud_m": 730,
+  "clima": "arido-mediterraneo",
+  "recursos": [
+    "ulivi",
+    "frantoio per l'olio"
+  ],
+  "importancia_estrategica": "Luogo di ritiro abituale di Gesù; scena di agonia e arresto.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "get_h1",
+        "titulo": "L'agonia nel giardino",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gesù prega angosciato mentre i suoi discepoli dormono: \"non sia fatta la mia volontà, ma la tua\".",
+        "referencias": [
+          "Mt 26:36-46",
+          "Mc 14:32-42",
+          "Lc 22:39-46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      },
+      {
+        "id": "get_h2",
+        "titulo": "L'arresto di Gesù",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Giuda consegna Gesù con un bacio; Pietro taglia l'orecchio di Malchus e Gesù viene fatto prigioniero.",
+        "referencias": [
+          "Mt 26:47-56",
+          "Gv 18:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Judas Iscariote",
+          "Pedro",
+          "Malco"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

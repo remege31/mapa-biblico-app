@@ -1,0 +1,369 @@
+{
+  "id": "jerusalen",
+  "nombre": "Gerusalemme",
+  "tipo": "ciudad",
+  "lat": 31.7683,
+  "lng": 35.2137,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 660,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: monarchia"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: ricostruzione"
+    }
+  ],
+  "descripcion_geo": "Città tra le montagne di Giuda, a 754 m di altitudine, al crocevia delle rotte commerciali tra Egitto e Mesopotamia. Posizione strategica su un altopiano difendibile tra il Monte degli Ulivi a est e la Valle di Hinnom a sud. Accesso alla sorgente del Guijón, fonte d'acqua essenziale per la sua continua occupazione.",
+  "altitud_m": 754,
+  "clima": "Mediterraneo: estati calde e secche, inverni freddi con piogge occasionali",
+  "recursos": [
+    "Acqua (sorgente Guijon)",
+    "calcare",
+    "Rotte commerciali",
+    "Posizione difensiva elevata"
+  ],
+  "importancia_estrategica": "Crocevia tra la strada costiera (Via Maris) e la strada dell'altopiano. Capitale religiosa e politica del Regno Unito di Israele e del regno di Giuda.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos",
+      "nombre": "Gebusei",
+      "descripcion": "Città originaria di Cananeo di Gerusalemme, chiamata Jebus prima della conquista di Davide. Coesistevano parzialmente con Israele dopo la cattura della città.",
+      "religion": "Politeismo Cananeo: culto di Baal e Asera",
+      "periodo": "Prima del c. 1000 a.C"
+    },
+    {
+      "id": "cananeos",
+      "nombre": "Cananei",
+      "descripcion": "Abitanti semiti del Levante, il cui politeismo (Baal, Asera, El) era in permanente tensione con il monoteismo israelita. Cultura urbana avanzata con scrittura e metallurgia.",
+      "religion": "Politeismo: pantheon guidato da El e Baal",
+      "periodo": "C. 3000–1200 a.C"
+    },
+    {
+      "id": "filisteos",
+      "nombre": "Filistei",
+      "descripcion": "La gente del mare si stabilì sulla costa sud-occidentale di Canaan. Rivali militari di Israele durante il periodo dei Giudici e della prima monarchia.",
+      "religion": "Politeismo: Dagon come dio principale",
+      "periodo": "C. 1200–600 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-david",
+      "titulo": "Davide conquista Gerusalemme",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Davide cattura la città gebusita di Sion e ne fa la capitale del regno unito di Israele, spostando l'Arca dell'Alleanza da Quiryat-Yearim. Il gesto unifica le tribù del nord e del sud sotto un unico centro politico e religioso.",
+      "referencias": [
+        "2 Sam 5:6-10",
+        "1 Cr 11:4-9",
+        "2 Sam 6:1-19"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "templo-salomon",
+      "titulo": "Salomone costruisce il Primo Tempio",
+      "fecha": "c. 957 a.C.",
+      "descripcion": "Costruzione del Tempio sul Monte Moria in sette anni, con materiali portati dal Libano (cedri di Tiro) e maestranze fenicie. L'Arca dell'Alleanza è installata nel Santo dei Santi. Il Tempio diventa l'asse del culto Yahvista centralizzato.",
+      "referencias": [
+        "1 Re 6:1-38",
+        "1 Re 8:1-66",
+        "2 Cr 3:1-17"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "destruccion-babilonica",
+      "titulo": "Distruzione ed esilio babilonese",
+      "fecha": "586 a.C.",
+      "descripcion": "Nabucodonosor II distrugge il Tempio, demolisce le mura e deporta l'élite ebraica a Babilonia. Fine del periodo monarchico e inizio dell'esilio babilonese. L'evento segna una svolta teologica: Jahvè agisce attraverso il nemico come strumento di giudizio.",
+      "referencias": [
+        "2 Re 25:1-21",
+        "Ger 52:1-30",
+        "Lam 1:1-22"
+      ],
+      "personajes_clave": [
+        "jeremias",
+        "nabucodonosor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david",
+      "nombre": "Davide",
+      "rol": "Re fondatore della dinastia davidica",
+      "periodo": "hierro_2",
+      "descripcion": "Betlemme pastore che diventa re. Conquista Gerusalemme e la stabilisce come capitale politica e religiosa. Il suo regno segna l'apogeo territoriale del regno unito di Israele.",
+      "referencias": [
+        "2 Sam 5:1-25",
+        "2 Sam 7:1-29",
+        "1 Re 2:1-12"
+      ],
+      "ruta": [
+        "bethlehem",
+        "jerusalen",
+        "hebron"
+      ]
+    },
+    {
+      "id": "salomon",
+      "nombre": "Salomone",
+      "rol": "Re Costruttore: Primo Tempio",
+      "periodo": "hierro_2",
+      "descripcion": "Figlio di Davide, simbolo della saggezza israelita. Costruttore del Primo Tempio e organizzatore dello stato. Il suo regno rappresenta l'apice della monarchia unita prima della divisione del regno.",
+      "referencias": [
+        "1 Re 3:1-28",
+        "1 Re 6:1-38",
+        "1 Re 11:1-43"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias",
+      "nombre": "Geremia",
+      "rol": "Profeta del periodo pre-esilico",
+      "periodo": "hierro_2",
+      "descripcion": "Profeta che visse e predicò durante la distruzione di Gerusalemme. Testimone diretto del crollo del regno di Giuda. I suoi lamenti sono la testimonianza più intima del trauma dell'esilio babilonese.",
+      "referencias": [
+        "Ger 1:1-19",
+        "Ger 7:1-34",
+        "Ger 52:1-34",
+        "Lam 1:1-22"
+      ],
+      "ruta": [
+        "jerusalen",
+        "anathoth"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gerusalemme è il centro del monoteismo Yahwista e la città più santa per tutte e tre le tradizioni abramitiche. Nel periodo OT, il Tempio di Salomone concentra il culto ufficiale e definisce l'identità religiosa di Israele. La tensione tra la fede yahvista e il politeismo Cananeo è la grande linea di forza nella storia religiosa della città.",
+    "religiones_presentes": [
+      "Yahvismo (monoteismo israelita)",
+      "Politeismo Cananeo (Baal, Asera)",
+      "Culti egiziani (periodo di influenza)"
+    ],
+    "mitos": [
+      {
+        "id": "aqeda",
+        "nombre": "Sacrificio di Isacco (Aqedah)",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 22:1-19",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 55:4 — el Monte Moria como lugar donde Yahvé prueba a los justos; la Aqedá como modelo de sometimiento a prueba divina",
+          "descripcion": "Il Monte Moria dove Abramo offre Isacco è identificato con il Monte del Tempio a Gerusalemme. L'Aqedah è il testo centrale di Rosh Hashanah e un simbolo di assoluta obbedienza a Jahvè.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Fondazione dell'alleanza tra Dio e Israele. L'ariete fornito in sostituzione prefigura il sacrificio cultuale del Tempio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 22:1-19 · Heb 11:17-19",
+          "fuente_secundaria": "Orígenes, Homilías sobre el Génesis VIII,6; tipología patrística: Isaac cargando la leña prefigura a Cristo cargando la cruz",
+          "descripcion": "Isacco che trasporta la legna da ardere sul monte Moria viene letto come una prefigurazione di Cristo che porta la croce. La disponibilità al sacrificio di Abramo prefigura il sacrificio redentore del Padre.",
+          "diferencias": "Isacco non muore; La tipologia cristiana completa quanto anticipa l'Antico Testamento.",
+          "similitudes": "Obbedienza totale del figlio al padre, sostituzione vicaria.",
+          "significado_teologico": "Tipologia centrale della teologia dell'espiazione.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 37:99-111",
+          "fuente_secundaria": "Ibn Kathir, Tafsir Surat al-Saffat 37:99-111 — el hijo sacrificado identificado como Ismael; debate clásico de los exegetas sobre la identidad del hijo",
+          "descripcion": "Il figlio offerto è Ismaele, non Isacco. L'evento è commemorato durante l'Eid al-Adha ed è geograficamente associato alla Mecca, non a Gerusalemme.",
+          "diferencias": "Il figlio è Ismaele. Il posto è la Mecca. La narrazione coranica non menziona il monte Moria.",
+          "similitudes": "L'obbedienza assoluta e la volontà di sacrificio di Abramo (Ibrahim).",
+          "significado_teologico": "Fondamento di sottomissione totale (Islam) alla volontà divina. Asse del calendario liturgico islamico.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo — base delle tre religioni abramitiche."
+        }
+      },
+      {
+        "id": "templo-morada",
+        "nombre": "Il Tempio come dimora divina",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 8:1-66 · Ez 40-48",
+          "fuente_secundaria": "Talmud Babilónico, Taanit 4a — la destrucción del Templo como trauma central; la Shekhiná que se retira",
+          "descripcion": "Il Tempio è la dimora terrena della Shekhina (presenza divina). Asse dell'escatologia ebraica: la ricostruzione del Terzo Tempio è speranza messianica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il Tempio definisce la geografia sacra dell'ebraismo. La sua distruzione (586 a.C. e 70 d.C.) costituisce il trauma storico centrale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gv 2:19-21 · 1 Cor 3:16",
+          "fuente_secundaria": "Ireneo de Lyon, Adversus Haereses IV,36,4 — el cuerpo de Cristo como nuevo templo; eclesiología del templo como comunidad",
+          "descripcion": "Il corpo di Cristo è il nuovo Tempio che sostituisce quello di pietra. La comunità cristiana è il tempio dello Spirito Santo. Il Tempio storico diventa figura compiuta in Cristo.",
+          "diferencias": "Il Tempio di Pietra è superato: la presenza divina abita nella comunità, non in un edificio.",
+          "similitudes": "La logica della presenza divina localizzata viene mantenuta, ma ridefinita.",
+          "significado_teologico": "Fondamento dell'ecclesiologia: la Chiesa come corpo di Cristo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jer_nt_h1",
+        "titulo": "L'ingresso trionfale di Gesù",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gesù entra in Gerusalemme su un asino tra acclamazioni messianiche; L'intera città è commossa.",
+        "referencias": [
+          "Mt 21:1-11",
+          "Mc 11:1-10",
+          "Lc 19:28-44",
+          "Gv 12:12-19"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "jer_nt_h2",
+        "titulo": "L'Ultima Cena e il Getsemani",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gesù celebra la Pasqua con i suoi discepoli nel Cenacolo, istituisce l'Eucaristia e prega nell'orto del Getsemani.",
+        "referencias": [
+          "Mt 26:17-56",
+          "Lc 22:7-53"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Juan",
+          "Judas Iscariote"
+        ]
+      },
+      {
+        "id": "jer_nt_h3",
+        "titulo": "Pentecoste: nascita della Chiesa",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Lo Spirito Santo discende sui discepoli riuniti a Gerusalemme; Pietro predica e vengono battezzate 3.000 persone.",
+        "referencias": [
+          "At 2:1-41"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "apóstoles"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jer_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia",
+        "periodo": "ca. 6 a.C.–30 d.C.",
+        "descripcion": "Svolse il suo ultimo ministero in Gerusalemme: purificò il Tempio, fu giudicato, crocifisso e resuscitò.",
+        "referencias": [
+          "Mt 21-28"
+        ],
+        "ruta": [
+          "nazareth",
+          "galilee",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "jer_nt_p2",
+        "nombre": "Ponzio Pilato",
+        "rol": "Prefetto romano della Giudea",
+        "periodo": "26-36 d.C.",
+        "descripcion": "Governatore che ha condannato a morte Gesù dopo il processo davanti al Sinedrio.",
+        "referencias": [
+          "Mt 27:11-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer_nt_p3",
+        "nombre": "Pietro",
+        "rol": "Apostolo e guida della Chiesa",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha predicato il primo sermone cristiano a Gerusalemme il giorno di Pentecoste.",
+        "referencias": [
+          "At 2:14-36"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Centro dell'ebraismo del Secondo Tempio e culla del movimento cristiano; scena della Passione, Resurrezione e Pentecoste.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "romano_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "jer_nt_m1",
+          "nombre": "Il Tempio distrutto e ricostruito",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Il Tempio di Salomone, distrutto e ricostruito, è il cuore dell'identità ebraica.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il Tempio di Salomone, distrutto e ricostruito, è il cuore dell'identità ebraica.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù profetizza la distruzione del Tempio (70 d.C.) e annuncia che lui stesso è il nuovo tempio.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù profetizza la distruzione del Tempio (70 d.C.) e annuncia che lui stesso è il nuovo tempio.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Gerusalemme (Al-Quds) è la terza città santa dell'Islam; La Cupola della Roccia segna il luogo del viaggio notturno di Maometto.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gerusalemme (Al-Quds) è la terza città santa dell'Islam; La Cupola della Roccia segna il luogo del viaggio notturno di Maometto.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù",
+      "apostolico"
+    ]
+  }
+}

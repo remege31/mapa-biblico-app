@@ -1,0 +1,166 @@
+{
+  "id": "chebar",
+  "nombre": "Quebar River",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 33.159129,
+  "lng": 44.06293,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Exile and Visions of Ezekiel"
+    }
+  ],
+  "descripcion_geo": "Canal or river in Babylon, next to which the community of Jewish exiles deported after the first fall of Jerusalem is established, and where the prophet Ezekiel receives his first and most elaborate prophetic visions.",
+  "altitud_m": 30,
+  "clima": "Mesopotamia Desert — extremely hot and dry summers, mild winters, typical of the Babylonian floodplain.",
+  "recursos": [
+    "Navigable canal of the Babylonian hydraulic network",
+    "Settlement of the community of Jewish exiles",
+    "Scenario of the prophetic visions of Ezekiel"
+  ],
+  "importancia_estrategica": "The Chebar River has no strategic military relevance, but is of utmost theological importance as the place where Ezekiel, a priest deported along with the first wave of exiles, receives the inaugural vision of his prophetic ministry—the vision of the divine chariot with the living creatures and the wheels—establishing this place as the point of origin of one of the most elaborate and visionary prophetic corpus of the entire Old Testament.",
+  "otros_habitantes": [
+    {
+      "id": "exiliados_judios_chebar",
+      "nombre": "Judah Exile Community",
+      "descripcion": "Jewish population deported by Nebuchadnezzar that settles next to the Chebar River, including the prophet Ezekiel himself, forming an organized community in Babylonian territory.",
+      "religion": "Yahwism (in exile)",
+      "periodo": "c. 597–571 BC"
+    },
+    {
+      "id": "ancianos_juda_chebar",
+      "nombre": "Judah Elders",
+      "descripcion": "Leaders of the exiled community who meet at Ezekiel's house next to the Quebar, receiving various oracles and visions through him during the period of exile.",
+      "religion": "Yahwism",
+      "periodo": "c. 593–571 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "vision-inaugural-ezequiel-chebar",
+      "titulo": "The inaugural vision of Ezekiel next to the Quebar",
+      "fecha": "c. 593 BC",
+      "descripcion": "Standing among the deportees at the Chebar River, Ezekiel sees the open heavens and receives the elaborate vision of the divine chariot, with four living creatures, wheels within wheels, and the glory of YHWH in the form of a human figure on a throne, formally inaugurating his prophetic ministry with one of the most detailed and symbolically complex theophanies in the entire Old Testament.",
+      "referencias": [
+        "Ezek 1:1-28"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "llamado-vocacion-ezequiel-chebar",
+      "titulo": "The call and prophetic commission of Ezekiel",
+      "fecha": "c. 593 BC",
+      "descripcion": "Following the vision of the divine chariot, YHWH formally calls Ezekiel 'son of man' and commissions him to speak to the 'rebellious house' of Israel, giving him a written scroll that the prophet must symbolically eat before beginning his ministry of warning.",
+      "referencias": [
+        "Ezek 2:1-3:3"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "visiones-posteriores-chebar",
+      "titulo": "Later visions received near the Quebar",
+      "fecha": "c. 592–571 BC",
+      "descripcion": "The Chebar River reappears as a setting at several later points in the book of Ezekiel, including Jerusalem's vision of the abominations of the Temple and the final vision of the restoration of the Temple, confirming this location as a recurring geographic anchor for the prophet's entire visionary ministry.",
+      "referencias": [
+        "Ezek 3:15",
+        "Ezek 10:15-22",
+        "Ezek 43:3"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequiel_chebar",
+      "nombre": "Ezekiel",
+      "rol": "Priest and prophet of exile",
+      "periodo": "hierro_2",
+      "descripcion": "Next to the River Chebar he receives the inaugural vision and several subsequent visions that constitute the core of his extensive and elaborate prophetic ministry during the Babylonian exile.",
+      "referencias": [
+        "Ezek 1:1-3",
+        "Ezek 3:15",
+        "Ezek 10:15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "chebar"
+      ]
+    },
+    {
+      "id": "ancianos_juda_chebar_personaje",
+      "nombre": "Judah Elders in Exile",
+      "rol": "Leaders of the exiled community",
+      "periodo": "c. 593–571 BC",
+      "descripcion": "They meet periodically at Ezekiel's house next to the Quebar, receiving various oracles through him and witnessing some of his most elaborate visions and symbolic actions.",
+      "referencias": [
+        "Ezek 8:1",
+        "Ezek 14:1",
+        "Ezek 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "comunidad_exilio_chebar",
+      "nombre": "Community of Jewish exiles",
+      "rol": "Deported population established next to the Quebar",
+      "periodo": "c. 597–571 BC",
+      "descripcion": "Organized community of deported Jews that maintains its religious and community identity in foreign territory, main recipient of the extensive prophetic ministry of Ezekiel.",
+      "referencias": [
+        "Ezek 1:1",
+        "Ezek 3:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The River Chebar is the founding place of the prophetic ministry of Ezekiel, a priest who, deprived of the Temple of Jerusalem by exile, receives in foreign territory some of the most theologically elaborate and symbolically complex visions of the entire Old Testament, establishing the theological principle that the presence and revelation of YHWH is not geographically limited to the land of Israel or the Temple of Jerusalem, but can be fully manifested even in the very heart of the territory of the conquering empire",
+    "religiones_presentes": [
+      "Yahwism (exiled community)",
+      "Babylonian polytheism (exile context)"
+    ],
+    "mitos": [
+      {
+        "id": "vision-carro-divino-chebar",
+        "nombre": "The vision of the divine chariot (Merkava) next to the Chebar River",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ezek 1:1-28",
+          "fuente_secundaria": "Tradición mística judía de la Merkavá (literalmente 'carro'), desarrollada extensamente en textos místicos posteriores como fundamento de toda una corriente de misticismo judío centrada en la contemplación del trono divino",
+          "descripcion": "Jewish tradition develops from the vision of Ezekiel next to the Chebar an entire independent mystical current known as 'Merkavah mysticism', which during later centuries would elaborate contemplative techniques and extensive theological speculations on the meaning of the living creatures, the wheels and the divine throne described in this inaugural chapter, turning the episode into the textual foundation of an entire Jewish esoteric tradition.",
+          "similitudes": "It shares with Christianity the recognition of the exceptional symbolic depth of this vision.",
+          "diferencias": null,
+          "significado_teologico": "The vision of the Chebar establishes that the glory and presence of YHWH completely transcends the geographical limitations of the earthly Temple, and can be fully manifested even in a foreign land during the exile.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ezek 1:1-28 (recepción tipológica en la literatura apocalíptica cristiana, especialmente Apocalipsis 4)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan las cuatro criaturas vivientes de Ezequiel con los cuatro evangelistas en la iconografía cristiana tradicional",
+          "descripcion": "The Christian tradition directly takes up the imagery of the four living creatures from the vision of Ezekiel—reappearing almost identically in the book of Revelation—and also develops an iconographic tradition that associates each of the four creatures with the four evangelists, turning the vision of the Chebar into a direct source of enduring Christian artistic and theological symbolism.",
+          "similitudes": "It shares with Jewish reading the recognition of the unique symbolic depth of this inaugural vision.",
+          "diferencias": "The specific Christian application of the four creatures to the four evangelists is a particular iconographic elaboration absent in Jewish tradition.",
+          "significado_teologico": "Ezekiel's vision becomes a direct textual source of Christian apocalyptic imagery about the heavenly throne, also reinterpreted in the key of evangelical symbolism.",
+          "posible_relacion_cultural": "Direct Christian reception of the visionary imagery of Ezekiel, taken up almost literally in the book of Revelation."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

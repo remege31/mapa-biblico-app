@@ -1,0 +1,134 @@
+{
+  "id": "seir_mount",
+  "nombre": "Mount Seir",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "The mountains of Seir are the mountain range east of the Arabah inhabited by the Edomites; Seír is an alternative name of Edom.",
+  "altitud_m": 1500,
+  "clima": "arid",
+  "recursos": [
+    "copper",
+    "grazing"
+  ],
+  "importancia_estrategica": "Esau's mountainous land; place of Jehoshaphat's victory according to 2 Chronicles.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sei_h1",
+      "titulo": "The vision of Ezekiel against Mount Seir",
+      "fecha": "ca. 590 BC",
+      "descripcion": "Ezekiel prophesies against Mount Seir because he rejoiced when Israel fell; It will be desolate.",
+      "referencias": [
+        "Ezek 35"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "sei_h2",
+      "titulo": "Jehoshaphat: Mount Seir destroys its own allies",
+      "fecha": "ca. 850 BC",
+      "descripcion": "The invaders of Moab and Ammon attack those of Mount Seir; then they turn against each other and destroy each other.",
+      "referencias": [
+        "2 Chr 20:22-23"
+      ],
+      "personajes_clave": [
+        "Josafat"
+      ]
+    },
+    {
+      "id": "sei_h3",
+      "titulo": "The Lord marched from Seir",
+      "fecha": "ca. 1200 BC",
+      "descripcion": "The song of Deborah evokes the Lord who marched from the field of Edom/Seír in the past.",
+      "referencias": [
+        "Judg 5:4"
+      ],
+      "personajes_clave": [
+        "Débora"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sei_m_p1",
+      "nombre": "Ezekiel",
+      "rol": "Prophet",
+      "periodo": "593-571 BC",
+      "descripcion": "He uttered a full oracle against Mount Seir for its hostility to Israel.",
+      "referencias": [
+        "Ezek 35:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p2",
+      "nombre": "Jehoshaphat",
+      "rol": "King by Judah",
+      "periodo": "873-849 BC",
+      "descripcion": "Their enemies on Mount Seir destroyed each other; His victory was without combat.",
+      "referencias": [
+        "2 Chr 20:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p3",
+      "nombre": "Deborah",
+      "rol": "prophetess and judge",
+      "periodo": "ca. 1125 BC",
+      "descripcion": "Their song evokes God's ancient march from Seir as an image of his power.",
+      "referencias": [
+        "Judg 5:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Seir: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "sei_m1",
+        "nombre": "God marches from Seir",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judges 5:4",
+          "fuente_secundaria": "",
+          "descripcion": "God marched from Seir to save his people: the mountain of the enemy becomes the scene of divine action (Judges 5:4; Deut 33:2).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "God marched from Seir to save his people: the mountain of the enemy becomes the scene of divine action (Judges 5:4; Deut 33:2).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

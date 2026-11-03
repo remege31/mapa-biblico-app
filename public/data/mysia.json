@@ -1,0 +1,244 @@
+{
+  "id": "mysia",
+  "nombre": "Misia",
+  "tipo": "territorio",
+  "lat": 40.11,
+  "lng": 28.57,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Región del noroeste de Asia Menor; incluye Tróade (Troas), donde Pablo tuvo la visión del macedonio.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mys_h1",
+      "titulo": "Pablo pasa por Misia y baja a Tróade",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Atravesando Misia, Pablo y sus compañeros descienden a Tróade donde recibirán la visión del macedonio.",
+      "referencias": [
+        "Hch 16:7-8"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "mys_h2",
+      "titulo": "Tróade: puerto de Misia y cruce a Europa",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Desde Tróade (ciudad costera de Misia), Pablo embarca hacia Macedonia en respuesta a la visión nocturna.",
+      "referencias": [
+        "Hch 16:8-11"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Lucas"
+      ]
+    },
+    {
+      "id": "mys_h3",
+      "titulo": "Pablo se reúne con los discípulos en Tróade",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "En el tercer viaje, Pablo pasa una semana en Tróade de Misia; allí resucita a Eutico que cayó dormido.",
+      "referencias": [
+        "Hch 20:6-12"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Eutico"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mys_p1",
+      "nombre": "Pablo",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Pasó por Misia en su camino a Tróade y la visión del macedonio.",
+      "referencias": [
+        "Hch 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p2",
+      "nombre": "Lucas",
+      "rol": "Evangelista",
+      "periodo": "s. I d.C.",
+      "descripcion": "Posiblemente se unió a Pablo en Tróade de Misia; el 'nosotros' de los Hechos comienza aquí.",
+      "referencias": [
+        "Hch 16:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mys_p3",
+      "nombre": "Eutico",
+      "rol": "Joven de Tróade",
+      "periodo": "s. I d.C.",
+      "descripcion": "Cayó dormido en una ventana durante el largo discurso de Pablo; Pablo lo resucitó.",
+      "referencias": [
+        "Hch 20:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Misia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "mys_m1",
+        "nombre": "Tróade: el cruce de Asia a Europa",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La visión del macedonio en Tróade de Misia fue el momento decisivo en que el evangelio saltó de Asia a Europa.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La visión del macedonio en Tróade de Misia fue el momento decisivo en que el evangelio saltó de Asia a Europa.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mys_h1",
+        "titulo": "Pablo pasa por Misia y baja a Tróade",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Atravesando Misia, Pablo y sus compañeros descienden a Tróade donde recibirán la visión del macedonio.",
+        "referencias": [
+          "Hch 16:7-8"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mys_h2",
+        "titulo": "Tróade: puerto de Misia y cruce a Europa",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Desde Tróade (ciudad costera de Misia), Pablo embarca hacia Macedonia en respuesta a la visión nocturna.",
+        "referencias": [
+          "Hch 16:8-11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lucas"
+        ]
+      },
+      {
+        "id": "mys_h3",
+        "titulo": "Pablo se reúne con los discípulos en Tróade",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "En el tercer viaje, Pablo pasa una semana en Tróade de Misia; allí resucita a Eutico que cayó dormido.",
+        "referencias": [
+          "Hch 20:6-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Eutico"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mys_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Pasó por Misia en su camino a Tróade y la visión del macedonio.",
+        "referencias": [
+          "Hch 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p2",
+        "nombre": "Lucas",
+        "rol": "Evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Posiblemente se unió a Pablo en Tróade de Misia; el 'nosotros' de los Hechos comienza aquí.",
+        "referencias": [
+          "Hch 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mys_p3",
+        "nombre": "Eutico",
+        "rol": "Joven de Tróade",
+        "periodo": "s. I d.C.",
+        "descripcion": "Cayó dormido en una ventana durante el largo discurso de Pablo; Pablo lo resucitó.",
+        "referencias": [
+          "Hch 20:9"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Misia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "mys_m1",
+          "nombre": "Tróade: el cruce de Asia a Europa",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La visión del macedonio en Tróade de Misia fue el momento decisivo en que el evangelio saltó de Asia a Europa.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La visión del macedonio en Tróade de Misia fue el momento decisivo en que el evangelio saltó de Asia a Europa.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

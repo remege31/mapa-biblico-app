@@ -1,0 +1,163 @@
+{
+  "id": "jabbok",
+  "nombre": "Jabbok",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.193237,
+  "lng": 35.676305,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Tribal Frontier, River of Struggle by Jacob"
+    }
+  ],
+  "descripcion_geo": "A tributary river of the Jordan that rises in Gilead and descends in a sinuous course until it flows into the Jordan, marking a significant natural border in Transjordan, both in the patriarchal cycle and in the subsequent tribal distribution between Gad and the Amorites.",
+  "altitud_m": 200,
+  "clima": "Mountain Mediterranean in transition to the Jordan Valley — varying according to altitude along its course.",
+  "recursos": [
+    "Permanent river course in central Transjordan",
+    "Strategic crossing point to Gilead",
+    "Natural border between tribal territories and kingdoms"
+  ],
+  "importancia_estrategica": "The Jabbok marks the northern limit of the ancient kingdom of Sihon conquered by Israel, a natural border between the territory assigned to Gad and the Amorites; It is also, in the patriarchal cycle, the place where Jacob sends his family and possessions crossing at night, remaining alone for the decisive episode of his struggle with the divine being.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_jaboc",
+      "nombre": "Amorites (kingdom of Sihon)",
+      "descripcion": "Population whose territory extended to the Jabbok as the northern border before the Israelite conquest under Moses.",
+      "religion": "Amorite polytheism",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "amonitas_jaboc",
+      "nombre": "Ammonites",
+      "descripcion": "Town whose territory also bordered the upper course of the Jabbok, eastern neighbor of the region conquered by Israel.",
+      "religion": "Ammonite polytheism—worship of Moloch",
+      "periodo": "c. 1400–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-cruza-jaboc",
+      "titulo": "Jacob sends his family to cross the Jabbok",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "The night before his reunion with Esau, Jacob makes his wives, servants, eleven children and all his possessions pass through the ford of the Jabbok, leaving him alone on the shore, a moment of solitude that immediately precedes the episode of the night fight.",
+      "referencias": [
+        "Gen 32:22-23"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "lucha-jacob-jaboc",
+      "titulo": "Jacob fights with a man next to the Jabbok",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "Left alone on the banks of the Jabbok, Jacob fights all night with a man who turns out to be a divine manifestation; At dawn, he receives a blessing and the new name 'Israel' ('he who fights with God'), also becoming lame due to a wound in his thigh, an episode that also gives rise to an Israeli dietary prohibition.",
+      "referencias": [
+        "Gen 32:24-32"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "jaboc-frontera-sehon",
+      "titulo": "The Jabbok as the border of the territory conquered from Sihon",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The biblical text repeatedly establishes Jabbok as the northern limit of the Amorite territory of Sihon conquered by Israel, a natural border that later separates the territory of Gad from that of the Ammonites.",
+      "referencias": [
+        "Num 21:24",
+        "Deut 2:37",
+        "Josh 12:2"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_jaboc",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "bronce_medio",
+      "descripcion": "Next to the Jabbok River, he stars in one of the most enigmatic and theologically charged episodes of the entire patriarchal cycle: his nocturnal fight with a divine being who gives him the name Israel.",
+      "referencias": [
+        "Gen 32:22-32"
+      ],
+      "ruta": [
+        "mahanaim",
+        "jabbok",
+        "peniel"
+      ]
+    },
+    {
+      "id": "ser_divino_jaboc",
+      "nombre": "The man/angel who fights with Jacob",
+      "rol": "divine manifestation",
+      "periodo": "c. 1900 BC (narrativa)",
+      "descripcion": "Figure whose exact identity—angel, manifestation of YHWH, or symbolic representation—has been the subject of extensive interpretative debate throughout the history of biblical exegesis, central to the founding episode of the new name of Jacob.",
+      "referencias": [
+        "Gen 32:24-30"
+      ],
+      "ruta": [
+        "jabbok"
+      ]
+    },
+    {
+      "id": "moises_jaboc",
+      "nombre": "Moses",
+      "rol": "Leader of Israel in the conquest of Transjordan",
+      "periodo": "bronce_tardio",
+      "descripcion": "It establishes the Jabbok as the northern border of the conquered territory of Sihon, marking the limits of Israelite possession in this region of Transjordan.",
+      "referencias": [
+        "Num 21:21-24",
+        "Deut 2:36-37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Jabbok is the scene of one of the most reinterpreted episodes in the entire patriarchal corpus: the nighttime fight of Jacob, whose name changes precisely in this place to reflect his new identity as 'Israel', thus establishing the river as the symbolic founding point of the name that all the people descended from Jacob will carry throughout subsequent biblical history.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "lucha-jacob-nombre-israel",
+        "nombre": "Jacob's fight alongside Jabbok and the origin of the name Israel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:22-32",
+          "fuente_secundaria": "Talmud Babilónico, Julin 91a (discusión sobre la identidad del 'hombre' y el origen de la prohibición del nervio ciático); Midrash Bereshit Rabbah 77-78",
+          "descripcion": "Rabbinic tradition extensively develops the identity of Jacob's opponent—frequently interpreted as Esau's guardian angel—and establishes from this episode the dietary prohibition on eating the sciatic nerve (gid hanasheh), turning the encounter into a direct legal basis for a dietary practice observed to this day.",
+          "similitudes": "It shares with Christianity the recognition of the theological centrality of the name change from Jacob to Israel.",
+          "diferencias": null,
+          "significado_teologico": "The new name 'Israel' ('he who fights with God and with men and wins') becomes the founding designation of all the people descended from Jacob, capturing the essence of a relationship of persistent but ultimately blessed struggle with the divine.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 32:22-32 (recepción patrística sobre la lucha de Jacob como figura de la lucha espiritual del creyente)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la persistencia en la oración ejemplificada por Jacob, que no suelta a su oponente hasta recibir bendición",
+          "descripcion": "The Christian tradition frequently takes up the Jabbok episode as a spiritual model of persistence in prayer and the struggle of faith, generalizing the physical combat of Jacob as a metaphor for the spiritual struggle of the believer who persists until obtaining divine blessing.",
+          "similitudes": "It shares with Jewish reading the appreciation of name change as a moment of fundamental transformation of identity.",
+          "diferencias": "The Christian reading tends to spiritualize and generalize the episode as a model of persistent prayer, while the Jewish reading focuses more on the legal implications and the specific foundation of the Israel name as a people.",
+          "significado_teologico": "The struggle of Jacob becomes a general figure of the spiritual perseverance of the believer who seeks divine blessing despite the difficulty of the encounter.",
+          "posible_relacion_cultural": "Shared tradition of patriarch Jacob as a founding figure common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "River"
+}

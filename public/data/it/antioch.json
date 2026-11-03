@@ -1,0 +1,154 @@
+{
+  "id": "antioch",
+  "nombre": "Antiochia dalla Siria",
+  "tipo": "ciudad",
+  "lat": 36.2021,
+  "lng": 36.1607,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Terza città dell'Impero Romano, capitale della provincia della Siria, sul fiume Oronte.",
+  "altitud_m": 70,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "mestiere",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Importante centro amministrativo e commerciale tra Oriente e Occidente.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ant_h1",
+        "titulo": "Prima comunità cristiana multiculturale",
+        "fecha": "ca. 40 d.C.",
+        "descripcion": "In Antiochia i seguaci di Gesù vengono chiamati per la prima volta \"cristiani\".",
+        "referencias": [
+          "At 11:26"
+        ],
+        "personajes_clave": [
+          "Bernabé",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ant_h2",
+        "titulo": "Base dei viaggi missionari di Paolo",
+        "fecha": "ca. 46-57 d.C.",
+        "descripcion": "Paolo parte e ritorna a Antiochia nei suoi tre viaggi missionari.",
+        "referencias": [
+          "At 13:1-3",
+          "At 14:26"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "ant_h3",
+        "titulo": "Conflitto Antiochia",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Paolo affronta Pietro riguardo al suo comportamento nei confronti dei gentili.",
+        "referencias": [
+          "Gal 2:11-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ant_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo delle genti",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Ha utilizzato Antiochia come base delle sue missioni nel mondo mediterraneo.",
+        "referencias": [
+          "At 13:1"
+        ],
+        "ruta": [
+          "antioch",
+          "ephesus",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "ant_p2",
+        "nombre": "Barnaba",
+        "rol": "Leader missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Accompagnato Paolo nel primo viaggio di missione dai tempi di Antiochia.",
+        "referencias": [
+          "At 11:25-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ant_p3",
+        "nombre": "Simone Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Visitato Antiochia; è stato rimproverato da Paolo per aver trattato ebrei e gentili in modo diverso.",
+        "referencias": [
+          "Gal 2:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cosmopoli ellenistica dove il Vangelo oltrepassò i confini etnici; luogo di nascita del nome 'Cristiano'.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "greco_roman_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ant_m1",
+          "nombre": "Il nome cristiano",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "In Antiochia nasce il termine 'cristiano' per designare i seguaci di Cristo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In Antiochia nasce il termine 'cristiano' per designare i seguaci di Cristo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

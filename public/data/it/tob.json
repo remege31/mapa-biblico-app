@@ -1,0 +1,133 @@
+{
+  "id": "tob",
+  "nombre": "Tob",
+  "tipo": "territorio",
+  "lat": 32.56,
+  "lng": 36.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Territorio a est del Giordano, nell'attuale Siria meridionale. Il rifugio di Iefte quando fu espulso dai suoi fratelli.",
+  "altitud_m": 600,
+  "clima": "arido-mediterraneo",
+  "recursos": [
+    "pascolo",
+    "commercio"
+  ],
+  "importancia_estrategica": "Terra di rifugio e ribellione; base operativa del condottiero Iefte.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tob_h1",
+      "titulo": "Iefte fugge a Tob",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Espulso dai fratelli perché figlio di una prostituta, Iefte fugge nel paese di Tob dove raduna uomini avventurosi.",
+      "referencias": [
+        "Gdc 11:3"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "tob_h2",
+      "titulo": "Gli ammoniti assumono guerrieri da Tob",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Gli Ammoniti assumono soldati di Tob per affrontare Davide nella guerra contro Joab.",
+      "referencias": [
+        "2 Sam 10:6-8"
+      ],
+      "personajes_clave": [
+        "ammonitas",
+        "Joab"
+      ]
+    },
+    {
+      "id": "tob_h3",
+      "titulo": "Galaad Gli anziani portano Iefte di Tob",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Di fronte alla minaccia ammonita, gli anziani di Galaad si recano a Tob per trovare Iefte e nominarlo capo.",
+      "referencias": [
+        "Gdc 11:4-11"
+      ],
+      "personajes_clave": [
+        "Jefté",
+        "ancianos de Galaad"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tob_p1",
+      "nombre": "Iefte",
+      "rol": "Giudice Galaad",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Rifugiandosi a Tob, radunò una banda di uomini; È tornato come leader quando Israele aveva bisogno di lui.",
+      "referencias": [
+        "Gdc 11:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p2",
+      "nombre": "anziani di Galaad",
+      "rol": "Leader tribali",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Si recarono a Tob per convincere Iefte a tornare come capo militare.",
+      "referencias": [
+        "Gdc 11:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p3",
+      "nombre": "uomini avventurosi",
+      "rol": "La banda di Iefte",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Si unirono a Iefte a Tob; base militare che ha liberato Galaad.",
+      "referencias": [
+        "Gdc 11:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tob: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tob_m1",
+        "nombre": "Il rifiutato che diventa salvatore",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Iefte, rifiutato a causa della sua origine, diventa il salvatore di coloro che lo hanno rifiutato; modello biblico del prescelto disprezzato.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Iefte, rifiutato a causa della sua origine, diventa il salvatore di coloro che lo hanno rifiutato; modello biblico del prescelto disprezzato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

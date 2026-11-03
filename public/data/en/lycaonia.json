@@ -1,0 +1,248 @@
+{
+  "id": "lycaonia",
+  "nombre": "Lycaonia",
+  "tipo": "territorio",
+  "lat": 37.9,
+  "lng": 33.48,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Inner region of Asia Minor between Pisidia and Cappadocia. Main cities: Lystra, Iconium and Derbe.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lyca_h1",
+      "titulo": "Paul and Barnabas worshiped as gods at Lystra",
+      "fecha": "ca. 47 AD",
+      "descripcion": "After healing a lame man in Lystra, the Lycaonians believe they are Zeus and Hermes; Paul tears their clothes to dissuade them.",
+      "referencias": [
+        "Acts 14:8-18"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    },
+    {
+      "id": "lyca_h2",
+      "titulo": "Paul stoned in Lystra",
+      "fecha": "ca. 47 AD",
+      "descripcion": "Jews from Antioch and Iconium convince the Lycaonians; Paul is stoned and dragged out of the city.",
+      "referencias": [
+        "Acts 14:19-20"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "lyca_h3",
+      "titulo": "Timothy son of Lystra of Lycaonia",
+      "fecha": "ca. 47 AD",
+      "descripcion": "Timothy, a disciple of Paul, was born in Lystra of Lycaonia; His mother Eunice and grandmother Loida had transmitted the faith to him.",
+      "referencias": [
+        "Acts 16:1",
+        "2 Tim 1:5"
+      ],
+      "personajes_clave": [
+        "Timoteo",
+        "Eunice",
+        "Loida"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lyca_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He was worshiped as a god and then stoned in Lystra of Lycaonia; the maximum contrast of the mission.",
+      "referencias": [
+        "Acts 14:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p2",
+      "nombre": "Timothy",
+      "rol": "Disciple and pastor",
+      "periodo": "s. I AD",
+      "descripcion": "Natural of Lystra of Lycaonia; companion and favorite disciple of Paul.",
+      "referencias": [
+        "Acts 16:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lyca_p3",
+      "nombre": "Barnabas",
+      "rol": "Missionary",
+      "periodo": "s. I AD",
+      "descripcion": "Mistaken for Zeus at Lystra; evangelized the region with Paul.",
+      "referencias": [
+        "Acts 14:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lycaonia: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "lyca_m1",
+        "nombre": "Gods and apostles in Lycaonia",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The Lystra episode reveals the religious confusion of paganism and the apostolic reaction: the missionaries are not gods but messengers of the living God.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Lystra episode reveals the religious confusion of paganism and the apostolic reaction: the missionaries are not gods but messengers of the living God.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lyca_h1",
+        "titulo": "Paul and Barnabas worshiped as gods at Lystra",
+        "fecha": "ca. 47 AD",
+        "descripcion": "After healing a lame man in Lystra, the Lycaonians believe they are Zeus and Hermes; Paul tears their clothes to dissuade them.",
+        "referencias": [
+          "Acts 14:8-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "lyca_h2",
+        "titulo": "Paul stoned in Lystra",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Jews from Antioch and Iconium convince the Lycaonians; Paul is stoned and dragged out of the city.",
+        "referencias": [
+          "Acts 14:19-20"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lyca_h3",
+        "titulo": "Timothy son of Lystra of Lycaonia",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Timothy, a disciple of Paul, was born in Lystra of Lycaonia; His mother Eunice and grandmother Loida had transmitted the faith to him.",
+        "referencias": [
+          "Acts 16:1",
+          "2 Tim 1:5"
+        ],
+        "personajes_clave": [
+          "Timoteo",
+          "Eunice",
+          "Loida"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lyca_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He was worshiped as a god and then stoned in Lystra of Lycaonia; the maximum contrast of the mission.",
+        "referencias": [
+          "Acts 14:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p2",
+        "nombre": "Timothy",
+        "rol": "Disciple and pastor",
+        "periodo": "s. I AD",
+        "descripcion": "Natural of Lystra of Lycaonia; companion and favorite disciple of Paul.",
+        "referencias": [
+          "Acts 16:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lyca_p3",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Mistaken for Zeus at Lystra; evangelized the region with Paul.",
+        "referencias": [
+          "Acts 14:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Lycaonia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "lyca_m1",
+          "nombre": "Gods and apostles in Lycaonia",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The Lystra episode reveals the religious confusion of paganism and the apostolic reaction: the missionaries are not gods but messengers of the living God.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Lystra episode reveals the religious confusion of paganism and the apostolic reaction: the missionaries are not gods but messengers of the living God.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

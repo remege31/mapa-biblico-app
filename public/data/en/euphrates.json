@@ -1,0 +1,154 @@
+{
+  "id": "euphrates",
+  "nombre": "Euphrates River",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 35.09,
+  "lng": 40.43,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 65,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Middle bronze - Roman"
+    }
+  ],
+  "descripcion_geo": "The largest river in Western Asia, it originates in Anatolia and empties into the Persian Gulf after 2,700 km. Eastern border of the promised land.",
+  "altitud_m": 50,
+  "clima": "arid-continental",
+  "recursos": [
+    "water",
+    "river agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Northeastern border of the promised land and axis of the great Mesopotamian empires.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "euf_h1",
+      "titulo": "The Euphrates as the border of promise",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "God promises Abraham that his descendants will inherit the land 'from the river of Egypt to the great river, the Euphrates.'",
+      "referencias": [
+        "Gen 15:18",
+        "Deut 1:7"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "euf_h2",
+      "titulo": "Exile by the Rivers by Babylon",
+      "fecha": "586 BC",
+      "descripcion": "The deportees of Judah sit by the rivers of Babylon (the Euphrates and its canals) and weep for Zion.",
+      "referencias": [
+        "Ps 137:1"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "euf_h3",
+      "titulo": "The Euphrates in the Apocalypse",
+      "fecha": "ca. 95 AD",
+      "descripcion": "The Apocalypse uses the Euphrates as an eschatological border: its waters dry up to make way for the kings of the east.",
+      "referencias": [
+        "Rev 16:12"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "euf_p1",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "ca. 2000-1800 BC",
+      "descripcion": "God promised Abraham the land up to the Euphrates as an inheritance for his descendants.",
+      "referencias": [
+        "Gen 15:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p2",
+      "nombre": "Nebuchadnezzar II",
+      "rol": "King by Babylon",
+      "periodo": "605-562 BC",
+      "descripcion": "He turned the Euphrates into the heart of the largest Empire in the ancient world.",
+      "referencias": [
+        "2 Kgs 24:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p3",
+      "nombre": "Cyrus the Great",
+      "rol": "king of persia",
+      "periodo": "559-530 BC",
+      "descripcion": "He crossed the Euphrates to conquer Babylon; He freed the Jews from exile.",
+      "referencias": [
+        "Isa 45:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sacred River of Mesopotamia; limit of divine promise and eschatological symbol in the Apocalypse.",
+    "religiones_presentes": [
+      "mesopotamic_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "euf_m1",
+        "nombre": "The river of paradise",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 2:14",
+          "fuente_secundaria": "",
+          "descripcion": "The Euphrates is one of the four rivers that watered the Garden of Eden (Gen 2:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Euphrates is one of the four rivers that watered the Garden of Eden (Gen 2:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Rev 16:12",
+          "fuente_secundaria": "",
+          "descripcion": "The Apocalypse uses it as a border that dries up at the time of the end (Rev 16:12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Apocalypse uses it as a border that dries up at the time of the end (Rev 16:12).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Islam places the Euphrates in the land of the prophets; Traditions say that it will hide treasures at the end of time.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Islam places the Euphrates in the land of the prophets; Traditions say that it will hide treasures at the end of time.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "id": "olives_mount",
+  "nombre": "Monte de los Olivos",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.778,
+  "lng": 35.247,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Hierro II - Romano"
+    }
+  ],
+  "descripcion_geo": "Cresta montañosa al este de Jerusalén separada del Monte del Templo por el valle del Cedrón. Cubierta de olivares desde la antigüedad.",
+  "altitud_m": 820,
+  "clima": "mediterráneo",
+  "recursos": [
+    "aceite de oliva",
+    "olivares",
+    "vista panorámica de Jerusalén"
+  ],
+  "importancia_estrategica": "Lugar sagrado para el judaismo (escenario de la profecía de Zacarías) y el centro de los últimos días de Jesús en Jerusalén.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oli_h1",
+      "titulo": "David huye por el Monte de los Olivos",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "David asciende el Monte de los Olivos llorando descalzo cuando huye de la rebelión de su hijo Absalón.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "personajes_clave": [
+        "David",
+        "Absalón"
+      ]
+    },
+    {
+      "id": "oli_h2",
+      "titulo": "Ezequiel ve la Gloria abandonar el Templo",
+      "fecha": "592 a.C.",
+      "descripcion": "La Gloria de Dios abandona el Templo de Jerusalén y se detiene sobre el Monte de los Olivos.",
+      "referencias": [
+        "Ez 11:23"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "oli_h3",
+      "titulo": "La profecía de Zacarías sobre el monte",
+      "fecha": "ca. 520 a.C.",
+      "descripcion": "Zacarías profetiza que en el día del Señor sus pies se posarán sobre el Monte de los Olivos y este se partirá en dos.",
+      "referencias": [
+        "Zac 14:4"
+      ],
+      "personajes_clave": [
+        "Zacarías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oli_p1",
+      "nombre": "David",
+      "rol": "Rey de Israel en fuga",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Ascendió el Monte de los Olivos llorando al huir de Absalón; símbolo de la pasión de Jesús.",
+      "referencias": [
+        "2 Sam 15:30"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p2",
+      "nombre": "Ezequiel",
+      "rol": "Profeta del exilio",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Vio la Gloria de Dios posarse sobre el monte antes de que Jerusalén fuera destruida.",
+      "referencias": [
+        "Ez 11:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oli_p3",
+      "nombre": "Zacarías",
+      "rol": "Profeta postexílico",
+      "periodo": "520-480 a.C.",
+      "descripcion": "Profetizó que el Mesías se posará sobre el Monte de los Olivos en el día final.",
+      "referencias": [
+        "Zac 14:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Monte sagrado entre Jerusalén y el desierto; escenario de profecías mesiánicas y del drama final de la vida de Jesús.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "oli_m1",
+        "nombre": "El monte del retorno divino",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11:23",
+          "fuente_secundaria": "",
+          "descripcion": "La Gloria de Dios se detuvo sobre el monte al abandonar el Templo (Ez 11:23); allí regresará en el fin (Zac 14:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Gloria de Dios se detuvo sobre el monte al abandonar el Templo (Ez 11:23); allí regresará en el fin (Zac 14:4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hch 1:9-12",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús ascendió al cielo desde el Monte de los Olivos (Hch 1:9-12); los ángeles prometieron que regresará de la misma manera.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús ascendió al cielo desde el Monte de los Olivos (Hch 1:9-12); los ángeles prometieron que regresará de la misma manera.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "oli_nt_h1",
+        "titulo": "La entrada triunfal desde el Monte de los Olivos",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Jesús desciende el Monte de los Olivos sobre un asno entre aclamaciones de la multitud; se cumple Zacarías 9:9.",
+        "referencias": [
+          "Mt 21:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "oli_nt_h2",
+        "titulo": "El discurso escatológico en el Monte de los Olivos",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Sentado en el monte frente al Templo, Jesús anuncia la destrucción de Jerusalén y los signos del fin.",
+        "referencias": [
+          "Mt 24:3-25:46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "oli_nt_h3",
+        "titulo": "Getsemaní: la agonía en el huerto",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "En el huerto al pie del Monte de los Olivos, Jesús ora hasta sudar sangre antes de ser arrestado.",
+        "referencias": [
+          "Mt 26:36-56"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "oli_nt_p1",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Oró, enseñó y fue arrestado en el Monte de los Olivos; ascendió al cielo desde allí.",
+        "referencias": [
+          "Hch 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p2",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Durmió en Getsemaní y cortó la oreja del siervo al ser arrestado Jesús.",
+        "referencias": [
+          "Mt 26:51"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "oli_nt_p3",
+        "nombre": "Judas Iscariote",
+        "rol": "Discípulo traidor",
+        "periodo": "s. I d.C.",
+        "descripcion": "Conocía el huerto y guió la turba al arresto de Jesús.",
+        "referencias": [
+          "Jn 18:2"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "El Monte de los Olivos fue el escenario central de la pasión, el discurso escatológico y la ascensión de Jesús.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "oli_nt_m1",
+          "nombre": "El monte de la pasión y la ascensión",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El Monte de los Olivos cumple la profecía de Zacarías: el Mesías desciende en triunfo y asciende en gloria desde allí.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El Monte de los Olivos cumple la profecía de Zacarías: el Mesías desciende en triunfo y asciende en gloria desde allí.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus",
+      "apostolico"
+    ]
+  }
+}

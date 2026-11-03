@@ -1,0 +1,136 @@
+{
+  "id": "media",
+  "nombre": "Media",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 23,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -700,
+      "hasta": -330,
+      "nombre": "Persiano post-esilio"
+    }
+  ],
+  "descripcion_geo": "Regione montuosa a nord-ovest della Persia, tra il Caspio e l'Mesopotamia. I Medi formarono un potente regno alleato di Babilonia.",
+  "altitud_m": 1200,
+  "clima": "continentale-arido",
+  "recursos": [
+    "cavalli",
+    "argento",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Impero che contribuì alla caduta di Ninive e successivamente si fuse con la Persia sotto Ciro il Grande.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "med_h1",
+      "titulo": "Calo medio di Ninive",
+      "fecha": "612 a.C.",
+      "descripcion": "I Medi alleati di Babilonia distruggono Ninive, capitale di Assiria; La profezia di Nahun si è avverata.",
+      "referencias": [
+        "Na 3:18-19",
+        "2 Re 25:1"
+      ],
+      "personajes_clave": [
+        "Nabopolasar",
+        "Ciaxares"
+      ]
+    },
+    {
+      "id": "med_h2",
+      "titulo": "Le città dei Medi: destino dell'esilio israelita",
+      "fecha": "ca. 722 a.C.",
+      "descripcion": "Il re assiro deportò le tribù settentrionali di Israele nelle città dei Medi.",
+      "referencias": [
+        "2 Re 17:6",
+        "2 Re 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "med_h3",
+      "titulo": "Dario il Medo in Daniele",
+      "fecha": "ca. 539 a.C.",
+      "descripcion": "Dario il Medo riceve il regno di Babilonia; emette un editto che vieta la preghiera a qualsiasi dio tranne il re, conducendo Daniele nella fossa dei leoni.",
+      "referencias": [
+        "Dn 6"
+      ],
+      "personajes_clave": [
+        "Darío",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "med_p1",
+      "nombre": "Dario il Medio",
+      "rol": "Re di Babilonia (Medo)",
+      "periodo": "ca. 539 a.C.",
+      "descripcion": "Monarca mediano che ricevette il regno babilonese; ha consentito il complotto contro Daniele.",
+      "referencias": [
+        "Dn 5:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p2",
+      "nombre": "Ciaxares",
+      "rol": "Re dei media",
+      "periodo": "625-585 a.C.",
+      "descripcion": "alleato Babilonia; distrusse Ninive adempiendo le profezie di Nahún.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "med_p3",
+      "nombre": "Daniele",
+      "rol": "Profeta in esilio",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Sopravvisse alla fossa dei leoni sotto il re medio Dario.",
+      "referencias": [
+        "Dn 6:16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Impero che era strumento di giudizio divino su Assiria; Gli Israeliti deportati vivevano con i Medi in esilio.",
+    "religiones_presentes": [
+      "incipient_zoroastrismo",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "med_m1",
+        "nombre": "La fossa dei leoni",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Daniele sopravvive alla fossa dei leoni sotto il re medio Dario; segno del potere di Dio sugli imperi.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Daniele sopravvive alla fossa dei leoni sotto il re medio Dario; segno del potere di Dio sugli imperi.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

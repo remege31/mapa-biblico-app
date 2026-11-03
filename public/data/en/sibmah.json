@@ -1,0 +1,149 @@
+{
+  "id": "sibmah",
+  "nombre": "Sibma",
+  "tipo": "ciudad",
+  "lat": 31.815283,
+  "lng": 35.766738,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Rubén wine-growing city"
+    }
+  ],
+  "descripcion_geo": "City on the Moab plateau, near Heshbon, famous in the biblical text for its extensive vineyards. Its fertile plateau environment especially favored the cultivation of vines, a characteristic that distinguishes it from other neighboring cities mentioned mainly for military or administrative reasons.",
+  "altitud_m": 850,
+  "clima": "Semi-arid highland — dry, hot summers, cold winters, with favorable conditions for viticulture on the Moabite plateau.",
+  "recursos": [
+    "Extensive and renowned vineyards (central reason for its biblical mention)",
+    "Agricultural land of the Moabite plateau"
+  ],
+  "importancia_estrategica": "Sibma has no notable military relevance; Its importance in the biblical text is almost exclusively agricultural and poetic, as a symbol of the Moabite wine prosperity that the prophetic oracles regret losing, explicitly contrasting the economic fertility of the region with the devastation announced by divine judgment.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_sibma",
+      "nombre": "Amorites (kingdom of Sihon)",
+      "descripcion": "Original population under Sihon's rule before the Israelite conquest of northern Moabite territory.",
+      "religion": "Amorite polytheism",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "rubenitas_sibma",
+      "nombre": "Ruben's Tribe",
+      "descripcion": "Beneficiary of the territorial allocation of Sibmá, famous for its vineyards, within the Transjordan region.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sibma-asignada-ruben",
+      "titulo": "Shibmah assigned to the tribe of Reuben",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the conquest of Sihon's territory, Sibma is included among the cities rebuilt and assigned to the tribe of Reuben in the division of Transjordan.",
+      "referencias": [
+        "Num 32:38",
+        "Josh 13:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-vinedos-sibma",
+      "titulo": "Isaiah cries for the vineyards of Sibmá",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah dedicates an especially vivid image to the vineyards of Sibma in his oracle of judgment against Moab, describing how he will water the city with his tears for the destruction of its branches, which had reached to the Dead Sea and Jazer.",
+      "referencias": [
+        "Isa 16:8-9"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-vendimia-sibma",
+      "titulo": "Jeremiah prophesies the end of the grape harvest in Sibmá",
+      "fecha": "c. 600 BC",
+      "descripcion": "Jeremiah takes up the image of Isaiah over the vineyards of Sibmah, announcing that the devastating will fall on its fruits and vintage, and that the cry of destruction will reach Jazer, in a poetic lament that uses the loss of the harvest as a central symbol of the judgment on Moab.",
+      "referencias": [
+        "Jer 48:32-33"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rubenitas_sibma",
+      "nombre": "Clans of Ruben",
+      "rol": "Owners of the Sibmá vineyards",
+      "periodo": "c. 1400–1000 BC",
+      "descripcion": "Tribe beneficiary of the fertile wine-growing region of Sibma after the conquest of the Amorite territory, whose agricultural prosperity would become the central theme of prophetic oracles of lament centuries later.",
+      "referencias": [
+        "Num 32:38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_sibma",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He composes one of the most moving poetic images of the entire oracle against Moab when describing his own cry over the destruction of the vineyards of Sibmah.",
+      "referencias": [
+        "Isa 16:8-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_sibma",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He takes up and develops the image of the lost vintage of Sibmah, integrating it into his extensive oracle of judgment over the entire Moabite territory.",
+      "referencias": [
+        "Jer 48:32-33"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sibma functions in the prophetic text as a concentrated symbol of the material prosperity of Moab, expressed specifically in terms of wine abundance; The lament that both Isaiah and Jeremiah dedicate to their vineyards—the former going so far as to express his own personal cry for the loss—illustrates how oracles of judgment against foreign nations do not preclude genuine poetic compassion for the destruction of human prosperity, even when it belongs to a people considered enemies or idolaters.",
+    "religiones_presentes": [
+      "Yahwism (rubenite control period)",
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "llanto-profeta-sibma",
+        "nombre": "The prophet's cry over the vineyards of Sibma",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 16:9; Jer 48:32",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la compasión profética incluso hacia las naciones objeto de juicio divino",
+          "descripcion": "Jewish tradition notes with particular attention the fact that Isaiah expresses his own personal weeping ('therefore I will weep with the weeping of Jazer for the vineyard of Sibma') over the destruction of a foreign people, interpreting this passage as evidence that the divine justice announced by the prophets does not preclude genuine compassion toward human suffering, even of idolatrous nations under judgment.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The prophetic cry for Moab demonstrates that the announcement of divine judgment can coexist with genuine human empathy towards the suffering of the judged people.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

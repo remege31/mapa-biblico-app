@@ -1,0 +1,152 @@
+{
+  "id": "kir",
+  "nombre": "Quir by Moab",
+  "tipo": "ciudad",
+  "lat": 31.18132579594509,
+  "lng": 35.70214779044711,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Moab Southern Fortress, destroyed by Babylon"
+    }
+  ],
+  "descripcion_geo": "Fortified city at the southern end of Moab, possibly the same as Quir-hareset, identified in some traditions with modern-day Al-Karak. One of the main strongholds of the Moabite kingdom, mentioned in prophetic oracles along with Ar as the two capital cities of Moab.",
+  "altitud_m": 950,
+  "clima": "Semi-arid mountain — hot, dry summers, cold winters, typical of the southern highlands of Moab.",
+  "recursos": [
+    "Fortified position on high ground",
+    "Alternative southern capital of Moab next to Ar"
+  ],
+  "importancia_estrategica": "Quir is, along with Ar, one of the two main cities explicitly mentioned at the beginning of Isaiah's extensive oracle against Moab, suggesting its status as a first-rate fortified center; It also appears as a crucial setting in Mesha's rebellion against Israel narrated in 2 Kings 3, where the Moabite king sacrifices his first-born son on his walls during the siege.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_kir",
+      "nombre": "Moabites",
+      "descripcion": "Town of Kir, one of the main fortresses of the kingdom of Moab, under siege during the campaign of the Israelite-Judaite-Edomite coalition narrated in 2 Kings 3.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "c. 1000–586 BC"
+    },
+    {
+      "id": "arqueros_kir",
+      "nombre": "Defenders of Quir-hareset",
+      "descripcion": "Moabite fighters holding out from the city walls during the siege by the coalition of Joram, Jehoshaphat and the king of Edom.",
+      "religion": "Moabite polytheism",
+      "periodo": "c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-ar-kir",
+      "titulo": "Isaiah begins his oracle against Moab naming Ar and Quir",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The extensive oracle of Isaiah against Moab begins precisely by announcing that 'in one night Ar of Moab was destroyed' and that 'in one night Quir of Moab was destroyed', establishing these two cities as the main reference points of judgment over the entire kingdom.",
+      "referencias": [
+        "Isa 15:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "asedio-mesa-kir-hareset",
+      "titulo": "The siege of Kir-hareseth and the sacrifice of Mesha",
+      "fecha": "c. 850 BC",
+      "descripcion": "During the joint campaign of Israel, Judah and Edom against Moab's Mesha rebellion, the coalition lays waste to Moabite territory and lays siege to Quir-hareset; Seeing that the battle is becoming too hard for him, Mesha takes his first-born son, heir to the throne, and offers him as a holocaust on the wall, an episode after which 'there was great anger against Israel' which forces the coalition to withdraw.",
+      "referencias": [
+        "2 Kgs 3:25-27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-lamento-kir-hareset",
+      "titulo": "Lament for the men of Kir-hareset",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "Isaiah specifically takes up Quir-hareset in a later passage of the oracle, lamenting the destruction of his 'raisin cakes' (possibly offerings or characteristic products) as part of the extensive catalog of material and human losses that will affect Moab.",
+      "referencias": [
+        "Isa 16:7",
+        "Isa 16:11"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_kir",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He establishes Quir, along with Ar, as the two main cities mentioned at the beginning of his extensive oracle of judgment against the kingdom of Moab.",
+      "referencias": [
+        "Isa 15:1",
+        "Isa 16:7-11"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "mesa_kir",
+      "nombre": "Table, king by Moab",
+      "rol": "Moabite king besieged at Kir-hareseth",
+      "periodo": "hierro_2",
+      "descripcion": "He resists the siege of the Israelite-Judaite-Edomite coalition in Kir-hareset to the point of sacrificing his own first-born son in an extreme act that causes the besiegers to withdraw.",
+      "referencias": [
+        "2 Kgs 3:26-27"
+      ],
+      "ruta": [
+        "dibon",
+        "kir"
+      ]
+    },
+    {
+      "id": "joram_josafat_kir",
+      "nombre": "Jehoram of Israel and Jehoshaphat of Judah",
+      "rol": "Kings of the besieging coalition",
+      "periodo": "c. 850 BC",
+      "descripcion": "Together with the king of Edom, they lead the military campaign against the Mesha rebellion, besieging Kir-hareset before withdrawing after the extreme sacrifice of the Moabite king.",
+      "referencias": [
+        "2 Kgs 3:6-27"
+      ],
+      "ruta": [
+        "kir"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Chir is the scene of one of the most disturbing episodes of the Old Testament: the sacrifice of Mesha's first-born son in the face of imminent defeat, an act of extreme devotion to the Moabite god Chemosh that the biblical text records without fully explaining its effect ('there was great anger against Israel'), generating centuries of exegetical debate about whether the 'anger' came from Chemosh, from YHWH, or from the moral consternation of the Israelite soldiers themselves at such an act.",
+    "religiones_presentes": [
+      "Moabite polytheism — cult of Chemosh (including human sacrifice in extreme circumstances)"
+    ],
+    "mitos": [
+      {
+        "id": "sacrificio-mesa-kir",
+        "nombre": "The Sacrifice of Mesha's Firstborn at Kir-hareseth",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 3:26-27",
+          "fuente_secundaria": "Comentario rabínico tradicional y académico moderno sobre la ambigüedad de la expresión 'gran enojo' (qetsef gadol) y sus posibles interpretaciones",
+          "descripcion": "Jewish tradition and subsequent academic exegesis debate extensively the exact meaning of the phrase 'there was great anger against Israel' following the sacrifice of Mesha: some interpretations attribute it to the moral horror caused among the Israelite troops themselves, others to a manifestation of power attributed (from the Moabite perspective) to the god Chemosh, generating one of the most enigmatic passages in all biblical historical literature regarding the perceived effectiveness of foreign divinities.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode raises complex theological questions about the relationship between the biblical account and the perceived effectiveness of foreign cults, without offering an explicit doctrinal resolution in the text itself.",
+          "posible_relacion_cultural": "Partial extrabiblical confirmation through the Mesa Stele, which documents the Moabite perspective of this same rebellion against Israel."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

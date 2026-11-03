@@ -1,0 +1,151 @@
+{
+  "id": "lystra",
+  "nombre": "Listra",
+  "tipo": "ciudad",
+  "lat": 37.5833,
+  "lng": 32.3667,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città romana nella Galazia meridionale (Licaonia), colonia militare fondata da Augusto.",
+  "altitud_m": 1020,
+  "clima": "continentale-secco",
+  "recursos": [
+    "allevamento del bestiame",
+    "agricoltura",
+    "commercio"
+  ],
+  "importancia_estrategica": "Colonia militare romana sulla strada verso l'interno dell'Anatolia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lys_h1",
+        "titulo": "Guarigione degli zoppi e confusione divina",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Paolo guarisce uno zoppo; i Licaoni li scambiano per Hermes e Zeus.",
+        "referencias": [
+          "At 14:8-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "lys_h2",
+        "titulo": "Paolo lapidato e dato per morto",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Gli ebrei di Iconio convincono la folla; Paolo viene lapidato e trascinato fuori città.",
+        "referencias": [
+          "At 14:19-20"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lys_h3",
+        "titulo": "Conversione di Timoteo",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Timoteo, figlio di madre ebrea e padre greco, diventa Listra.",
+        "referencias": [
+          "At 16:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Timoteo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lys_p1",
+        "nombre": "Timoteo",
+        "rol": "Paolo Collaboratore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Nato a Listra, figlio di Eunice; compagno inseparabile di Paolo.",
+        "referencias": [
+          "At 16:1"
+        ],
+        "ruta": [
+          "lystra",
+          "ephesus",
+          "corinth"
+        ]
+      },
+      {
+        "id": "lys_p2",
+        "nombre": "Paolo di Tarso",
+        "rol": "Missionario",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Lapidato a Listra ma sopravvisse per continuare la sua missione.",
+        "referencias": [
+          "At 14:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lys_p3",
+        "nombre": "Eunice",
+        "rol": "La madre di Timothy",
+        "periodo": "s. I d.C.",
+        "descripcion": "Donna ebrea credente che allevò il figlio nella fede.",
+        "referencias": [
+          "2 Tm 1:5"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Colonia romana dove il Vangelo si scontrava con la religiosità popolare; Timoteo incarna l'incontro tra ebraismo ed ellenismo.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "lys_m1",
+          "nombre": "Hermes e Zeus visitano Listra",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "I Licaoni confondono Paolo e Barnaba con gli dei; L'episodio rivela il contrasto tra Vangelo e politeismo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I Licaoni confondono Paolo e Barnaba con gli dei; L'episodio rivela il contrasto tra Vangelo e politeismo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

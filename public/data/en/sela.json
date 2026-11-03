@@ -1,0 +1,152 @@
+{
+  "id": "sela",
+  "nombre": "Sela",
+  "tipo": "ciudad",
+  "lat": 30.32243571223214,
+  "lng": 35.45627946919968,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Edomite fortress conquered by Amaziah"
+    }
+  ],
+  "descripcion_geo": "Edomite fortress excavated in rock ('sela' literally means 'rock' or 'rock' in Hebrew), in mountainous terrain with difficult access to the south of the Salt Sea, identified by much of the tradition with the region where the Nabataean city of Petra would later be developed.",
+  "altitud_m": 950,
+  "clima": "Semi-arid mountain — hot, dry summers, cold winters, typical of the Edom highlands.",
+  "recursos": [
+    "Natural fortification in rock that is difficult to access",
+    "Defensive position in mountainous Edomite terrain"
+  ],
+  "importancia_estrategica": "Shelah is the scene of one of the most significant military victories of Judah over Edom: its conquest by Amaziah, followed by the mass execution of Edomite prisoners thrown from the rock, marks an episode of extreme violence that illustrates the intensity of the conflict between both neighboring kingdoms during the divided monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_sela",
+      "nombre": "Edomites",
+      "descripcion": "Original population of the fortress of Shela, part of the kingdom of Edom, conquered by Amaziah of Judah in his military campaign against this neighboring town.",
+      "religion": "Edomite polytheism – cult of Qos",
+      "periodo": "c. 1000–586 BC"
+    },
+    {
+      "id": "judaitas_sela",
+      "nombre": "Army of Judah under Amaziah",
+      "descripcion": "Judah military forces conquer Shelah and execute a massive number of Edomite prisoners by throwing them from the top of the rock.",
+      "religion": "Yahwism",
+      "periodo": "c. 800 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "amasias-conquista-sela",
+      "titulo": "Amaziah conquers Shelah and renames her Jocteel",
+      "fecha": "c. 800 BC",
+      "descripcion": "After defeating ten thousand Edomites in the Valley of Salt, Amaziah of Judah marches against Shelah, captures her and gives her the name Jocteel, which she retains to the time of the biblical account, consolidating one of the few significant military victories of Judah recorded during this period.",
+      "referencias": [
+        "2 Kgs 14:7"
+      ],
+      "personajes_clave": [
+        "amasias"
+      ]
+    },
+    {
+      "id": "ejecucion-prisioneros-sela",
+      "titulo": "Ten thousand Edomite prisoners are thrown from the rock",
+      "fecha": "c. 800 BC",
+      "descripcion": "According to the chronicler's account, in addition to the ten thousand killed in battle, Amaziah captures another ten thousand living Edomites, takes them to the top of the rock of Shelah and throws them off the cliff from there, all of them dying destroyed, an episode of extreme brutality that the text records without explicit condemnation but that contrasts with the subsequent moral fall of Amaziah for idolizing the captured Edomite gods.",
+      "referencias": [
+        "2 Chr 25:11-12"
+      ],
+      "personajes_clave": [
+        "amasias"
+      ]
+    },
+    {
+      "id": "isaias-oraculo-sela",
+      "titulo": "Messengers sent from Shela at the oracle of Isaiah",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah refers to messengers sent 'from Shelah into the wilderness' in connection with an oracle of protection for Moab's fugitives, linking the Edomite stronghold with the geography of the region's political and prophetic movements.",
+      "referencias": [
+        "Isa 16:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "amasias_sela",
+      "nombre": "Amaziah",
+      "rol": "King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He conquers the Edomite fortress of Shelah after a previous military victory against Edom, an episode that represents the climax of his militarily successful reign, before his subsequent fall into idolatry that would lead to the deterioration of his reign.",
+      "referencias": [
+        "2 Kgs 14:7",
+        "2 Chr 25:11-16"
+      ],
+      "ruta": [
+        "jerusalen",
+        "sela"
+      ]
+    },
+    {
+      "id": "edomitas_sela_personaje",
+      "nombre": "Edomite prisoners of Shelah",
+      "rol": "Victims of Amaziah's mass execution",
+      "periodo": "c. 800 BC",
+      "descripcion": "Ten thousand men captured alive after the conquest of Sela, executed by falling off the rock, an episode of extreme violence that marks the conflict between Judah and Edom during this period.",
+      "referencias": [
+        "2 Chr 25:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_sela",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He mentions Shela as a geographical point of reference in his oracle on Moab, connecting the Edomite fortress with the movements of fugitives and messengers in the region.",
+      "referencias": [
+        "Isa 16:1-2"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shela is the scene of one of the most extreme episodes of war violence narrated without explicit condemnation in the chronicle text, although the immediate subsequent context—the apostasy of Amaziah by adopting the cult of the captured Edomite gods—suggests an implicit theological connection between the military victory and the subsequent spiritual fall of the king, a recurring pattern in Deuteronomist theology where excessive military success frequently precedes religious arrogance.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Edomite polytheism – cult of Qos"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-apostasia-amasias-sela",
+        "nombre": "Shelah's victory and Amaziah's subsequent apostasy",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Chr 25:11-16",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la conexión entre el éxito militar de Amasías en Sela y su posterior idolatría con los dioses edomitas capturados",
+          "descripcion": "Jewish tradition carefully observes the contrast between Amaziah's military victory at Shelah and his later inexplicable decision to worship the same Edomite gods who had not been able to save his people from defeat, interpreting this episode as a paradigmatic warning about how military success can generate arrogance that leads directly to religious apostasy.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Amaziah's victory-apostasy sequence illustrates the theological danger of attributing military success to wrong sources, leading to the idolatry of precisely the defeated gods.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

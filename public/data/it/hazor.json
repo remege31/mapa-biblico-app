@@ -1,0 +1,160 @@
+{
+  "id": "hazor",
+  "nombre": "Cazor",
+  "tipo": "ciudad",
+  "lat": 33.01718199667929,
+  "lng": 35.56804856758258,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: conquistato da Giosuè, riconquistato da Jabin"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Fortificazione Salomone"
+    }
+  ],
+  "descripcion_geo": "La più importante città cananea nel nord di Canaan, descritta nel testo biblico come 'capo di tutti questi regni', con un ampio racconto che l'archeologia conferma come uno degli insediamenti più grandi e potenti dell'intera regione nella tarda età del bronzo. Situato in una posizione strategica che controllava le principali rotte commerciali del nord.",
+  "altitud_m": 200,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici del nord di Galilea.",
+  "recursos": [
+    "Posizione strategica sulle rotte commerciali del nord",
+    "Vasto Tell, uno dei più grandi siti archeologici del biblico Israele",
+    "Centro amministrativo regionale fin dalla media età del bronzo"
+  ],
+  "importancia_estrategica": "Cazor è la più potente città-stato cananea del nord, la cui conquista e distruzione da parte di Giosuè segna il culmine della campagna settentrionale; Secoli dopo, riappare sotto il dominio di un altro re chiamato Jabin durante il periodo dei Giudici, sconfitto da Debora e Barak, e viene finalmente fortificato da Salomone come una delle tre grandi città di guarnigione del regno unito insieme a Meghiddo e Ghezer.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_hazor",
+      "nombre": "Cananei settentrionali (sotto Iabin)",
+      "descripcion": "Popolazione governata successivamente da due diversi re chiamati Jabin, capi della coalizione cananea settentrionale sia ai tempi di Giosuè che, generazioni dopo, ai tempi di Debora.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C. e ancora c. 1150 a.C"
+    },
+    {
+      "id": "israelitas_hazor",
+      "nombre": "Tribù di Neftali",
+      "descripcion": "Popolazione israelita che occupa Cazor dopo la sua conquista definitiva, integrandola nel territorio tribale settentrionale.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-hazor",
+      "titulo": "Giosuè conquista e brucia Cazor",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Jabin, re di Cazor, organizza una grande coalizione di re del nord contro Israele nei pressi del lago di Merom; Giosuè li sconfigge definitivamente e Cazor, descritta come \"capo di tutti questi regni\", è l'unica città nella campagna settentrionale che Giosuè rasa al suolo, a differenza delle altre città catturate ma non bruciate.",
+      "referencias": [
+        "Gs 11:1-13"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jabin-debora-hazor",
+      "titulo": "Deborah e Barak sconfiggono un altro Jabin con Cazor",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Generazioni dopo, un nuovo re chiamato anch'egli Jabin regna da Cazor e opprime Israele per vent'anni attraverso il suo generale Sisera e novecento carri di ferro; la profetessa Debora e il generale Barak lo sconfiggono definitivamente, liberando Israele dall'oppressione cananea del nord.",
+      "referencias": [
+        "Gdc 4:1-24"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    },
+    {
+      "id": "salomon-fortifica-hazor",
+      "titulo": "Salomone fortifica Cazor",
+      "fecha": "c. 970–960 a.C.",
+      "descripcion": "Salomone ricostruisce e fortifica Cazor insieme a Meghiddo e Gezer come parte del suo sistema di città strategiche con carri e guarnigioni a cavallo, confermando archeologicamente la continua importanza del sito nell'amministrazione del Regno Unito.",
+      "referencias": [
+        "1 Re 9:15"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_hazor",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida la sconfitta della coalizione cananea settentrionale guidata dal primo Jabin di Cazor, bruciando la città come atto eccezionale nell'ambito del modello generale della campagna settentrionale.",
+      "referencias": [
+        "Gs 11:1-13"
+      ],
+      "ruta": [
+        "hazor",
+        "hazor"
+      ]
+    },
+    {
+      "id": "debora_hazor",
+      "nombre": "Debora",
+      "rol": "Giudice e profetessa di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Convoca Barak per affrontare l'esercito del secondo Jabin di Cazor, guidato da Sisera, in una delle vittorie più celebrate del periodo dei Giudici, commemorata nell'ampio Cantico di Debora.",
+      "referencias": [
+        "Gdc 4:1-16",
+        "Gdc 5:1-31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "salomon_hazor",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore di fortificazioni",
+      "periodo": "hierro_2",
+      "descripcion": "Include Cazor tra i suoi tre principali progetti di fortificazione strategica, confermati archeologicamente dai caratteristici strati di costruzione simili trovati in Cazor, Meghiddo e Ghezer.",
+      "referencias": [
+        "1 Re 9:15-19"
+      ],
+      "ruta": [
+        "jerusalen",
+        "hazor"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cazor è noto per essere stato conquistato e distrutto due volte in momenti diversi nella storia biblica, entrambi presentati come la liberazione provvidenziale di Israele dall'oppressione cananea settentrionale: prima da Giosuè nel contesto della conquista, e poi da Debora e Barak nel periodo dei Giudici. La sua successiva ricostruzione e fortificazione da parte di Salomone dimostra il continuo valore strategico del sito nonostante le sue ricorrenti distruzioni, e l'archeologia moderna ha confermato in particolare gli strati di distruzione corrispondenti ad entrambi gli episodi biblici.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (popolazione originaria, in due periodi diversi)"
+    ],
+    "mitos": [
+      {
+        "id": "doble-destruccion-hazor",
+        "nombre": "La doppia distruzione di Cazor confermata archeologicamente",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 11:1-13; Jue 4:1-24",
+          "fuente_secundaria": "Hallazgos arqueológicos de las excavaciones de Hazor (Yigael Yadin y posteriores), que documentan capas de destrucción por fuego correspondientes a distintos períodos del Bronce Tardío y la Edad de Hierro",
+          "descripcion": "La moderna tradizione accademica ebraica apprezza particolarmente il fatto che gli scavi archeologici presso Cazor abbiano confermato strati di distruzione di massa da parte di incendi in periodi coerenti con i resoconti biblici della conquista, rendendo Cazor uno dei pochi siti in cui prove materiali supportano in particolare l'entità della distruzione descritta nel testo biblico.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La conferma archeologica della distruzione di Cazor rafforza la credibilità storica della storia della conquista presentata nel libro di Giosuè come l'esecuzione del giudizio divino sulle più potenti città cananee.",
+          "posible_relacion_cultural": "Convergenza documentata tra il racconto biblico della conquista e le prove archeologiche materiali della distruzione di massa nel sito Cazor."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

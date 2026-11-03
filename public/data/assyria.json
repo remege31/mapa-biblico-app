@@ -1,0 +1,136 @@
+{
+  "id": "assyria",
+  "nombre": "Asiria",
+  "tipo": "territorio",
+  "lat": 36.36,
+  "lng": 43.15,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 149,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -900,
+      "hasta": -612,
+      "nombre": "Período asirio"
+    }
+  ],
+  "descripcion_geo": "Imperio mesopotámico con capital en Nínive, en el norte del Tigris. Potencia dominante del Antiguo Oriente durante los siglos IX-VII a.C.",
+  "altitud_m": 200,
+  "clima": "continental-seco",
+  "recursos": [
+    "agricultura fluvial",
+    "comercio",
+    "minerales"
+  ],
+  "importancia_estrategica": "Imperio que conquistó el reino del norte (Israel) en 722 a.C. y deportó a sus habitantes.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi_h1",
+      "titulo": "Caída del reino del norte: Israel deportado",
+      "fecha": "722 a.C.",
+      "descripcion": "El rey asirio Salmanasar V y luego Sargón II conquistan Samaria y deportan a las diez tribus del norte.",
+      "referencias": [
+        "2 Re 17:1-6"
+      ],
+      "personajes_clave": [
+        "Oseas (rey)",
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "asi_h2",
+      "titulo": "Senaquerib amenaza Jerusalén",
+      "fecha": "701 a.C.",
+      "descripcion": "El rey asirio Senaquerib sitia Jerusalén; el ángel del Señor hiere a 185.000 soldados asirios en una noche.",
+      "referencias": [
+        "2 Re 18-19",
+        "Is 36-37"
+      ],
+      "personajes_clave": [
+        "Ezequías",
+        "Isaías",
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "asi_h3",
+      "titulo": "Jonás en Nínive",
+      "fecha": "ca. s. VIII a.C.",
+      "descripcion": "El profeta Jonás predica el arrepentimiento en Nínive, capital de Asiria; la ciudad entera se arrepiente.",
+      "referencias": [
+        "Jon 3"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi_p1",
+      "nombre": "Senaquerib",
+      "rol": "Rey de Asiria",
+      "periodo": "705-681 a.C.",
+      "descripcion": "Sitió Jerusalén pero fracasó en su conquista; fue asesinado por sus hijos.",
+      "referencias": [
+        "2 Re 19:36-37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p2",
+      "nombre": "Tiglat-Pileser III",
+      "rol": "Rey de Asiria",
+      "periodo": "745-727 a.C.",
+      "descripcion": "Inició las deportaciones masivas de pueblos conquistados; subyugó a Israel.",
+      "referencias": [
+        "2 Re 15:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p3",
+      "nombre": "Sargón II",
+      "rol": "Rey de Asiria",
+      "periodo": "722-705 a.C.",
+      "descripcion": "Conquistó Samaria y deportó a las diez tribus de Israel.",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Imperio politeísta con culto a Asur; usó el exilio como arma política. Su caída en 612 a.C. fue interpretada como juicio divino por los profetas.",
+    "religiones_presentes": [
+      "paganismo_asirio"
+    ],
+    "mitos": [
+      {
+        "id": "asi_m1",
+        "nombre": "El juicio sobre Asiria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Los profetas Nahún e Isaías anunciaron la destrucción de Nínive como juicio de Dios sobre el opresor.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los profetas Nahún e Isaías anunciaron la destrucción de Nínive como juicio de Dios sobre el opresor.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

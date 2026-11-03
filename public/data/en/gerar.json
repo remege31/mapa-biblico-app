@@ -1,0 +1,164 @@
+{
+  "id": "gerar",
+  "nombre": "Gerar",
+  "tipo": "ciudad",
+  "lat": 31.39129109635703,
+  "lng": 34.56057015639144,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Patriarchal residence of Abraham and Isaac"
+    }
+  ],
+  "descripcion_geo": "Philistine city-state at the southern end of the coastal plain, bordering Canaan and Egypt, ruled in patriarchal times by a king titled 'Abimelech'. Scenario of two almost parallel episodes in the Abraham and Isaac cycles respectively.",
+  "altitud_m": 100,
+  "clima": "Arid transitional Mediterranean — hot, dry summers, mild winters, typical of the southern end of the Philistine coast.",
+  "recursos": [
+    "Water wells (central reason for the narrated conflicts)",
+    "Agricultural land of the southern coastal strip",
+    "Border position between Canaan and Egypt"
+  ],
+  "importancia_estrategica": "Gerar is the scene of two structurally parallel episodes—that of Abraham with Sara and that of Isaac with Rebekah—where the patriarch presents his wife as a sister for fear of being murdered, and of the subsequent conflicts over the water wells between the patriarchal shepherds and those of Gerar, establishing a recurring narrative pattern about the tense but ultimately agreed coexistence between the Hebrew patriarchs and the local Philistine population.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_gerar",
+      "nombre": "Philistines of Gerar (under Abimelech)",
+      "descripcion": "Local population ruled by King Abimelech, with whom both Abraham and Isaac establish formal pacts after episodes of initial tension related to their wives and access to water.",
+      "religion": "Early Philistine polytheism",
+      "periodo": "c. 2050–1850 BC (traditional chronology)"
+    },
+    {
+      "id": "pastores_isaac_gerar",
+      "nombre": "Shepherds by Isaac",
+      "descripcion": "Servants of Isaac who reopen the wells originally dug by Abraham and dig new ones, generating successive disputes with the shepherds of Gerar for the possession of water.",
+      "religion": "Patriarchal Yahwism",
+      "periodo": "c. 1900 BC (traditional chronology)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-sara-abimelec-gerar",
+      "titulo": "Abraham presents Sarah as his sister to Abimelech",
+      "fecha": "c. 2050 BC (narrativa)",
+      "descripcion": "Temporarily residing in Gerar, Abraham, fearing being killed because of Sara's beauty, introduces her as his sister; Abimelech takes her for himself, but God warns him in a dream of the truth, and the king, after reproaching Abraham, returns Sarah to him along with gifts and allows her to settle in his land.",
+      "referencias": [
+        "Gen 20:1-18"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "isaac-rebeca-abimelec-gerar",
+      "titulo": "Isaac repeats the pattern with Rebeca in Gerar",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "Generations later, Isaac settles in Gerar during a famine and also introduces Rebekah as his sister; Abimelech discovers the truth by observing them and rebukes Isaac, but orders his people not to touch them under penalty of death, almost exactly repeating the narrative pattern of the Abraham episode.",
+      "referencias": [
+        "Gen 26:1-11"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    },
+    {
+      "id": "pacto-pozos-beerseba-gerar",
+      "titulo": "Conflict and pact over the wells between Isaac and Gerar",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "The shepherds of Gerar repeatedly dispute with those of Isaac over the wells that he reopens and digs, until finally, in Beersheba, Abimelech seeks out Isaac to establish a formal peace pact, recognizing that YHWH is with him, in an episode that closes the cycle of tension with a stable agreement.",
+      "referencias": [
+        "Gen 26:12-33"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_gerar",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "bronce_medio",
+      "descripcion": "He temporarily resides in Gerar, where he presents Sara as his sister out of fear, an episode that is resolved with divine intervention and a pact of peaceful coexistence with Abimelech.",
+      "referencias": [
+        "Gen 20:1-18"
+      ],
+      "ruta": [
+        "mamre",
+        "gerar"
+      ]
+    },
+    {
+      "id": "isaac_gerar",
+      "nombre": "Isaac",
+      "rol": "Patriarch, son of Abraham",
+      "periodo": "bronce_medio",
+      "descripcion": "He repeats his father's pattern with Rebekah in Gerar, and also stars in the extensive cycle of dispute and pact over the water wells that culminates in a formal peace agreement with Abimelech in Beersheba.",
+      "referencias": [
+        "Gen 26:1-33"
+      ],
+      "ruta": [
+        "gerar",
+        "beersheba"
+      ]
+    },
+    {
+      "id": "abimelec_gerar",
+      "nombre": "Abimelech, king of Gerar",
+      "rol": "Philistine king of Gerar",
+      "periodo": "c. 2050–1900 BC (cronología tradicional, posiblemente título dinástico)",
+      "descripcion": "Protagonist of the formal pacts with both patriarchs, presented in both episodes as a figure of integrity who acts correctly when discovering the truth about the wives presented as sisters, and who actively seeks lasting peace with the descendants of Abraham.",
+      "referencias": [
+        "Gen 20:1-18",
+        "Gen 26:1-33"
+      ],
+      "ruta": [
+        "gerar"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gerar is the scene of two practically parallel episodes that establish a recurring theological pattern in the patriarchal cycle: the human vulnerability of the patriarchs (the fear that leads them to deceive) is always resolved through the direct protective intervention of YHWH and the surprising moral integrity of a foreign king, suggesting that the fear of God is not exclusive to the chosen people and that divine providence protects the patriarchal promise even through the righteousness of figures outside the alliance.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism",
+      "Early Philistine polytheism"
+    ],
+    "mitos": [
+      {
+        "id": "esposa-hermana-gerar-mito",
+        "nombre": "The narrative pattern of the wife presented as a sister",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 20:1-18; Gén 26:1-11",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 52, 64 (comparación entre los episodios de Abraham/Sara y Egipto, y de Isaac/Rebeca en Gerar)",
+          "descripcion": "Rabbinic tradition extensively compares the three similar episodes of Genesis (Abraham in Egypt, Abraham in Gerar, Isaac in Gerar), noting the subtle differences between each version—especially that Isaac, unlike his father, never goes so far as to formally present Rebekah as his sister to the king, but is instead caught observing them—as an indication of a generational moral growth in the honesty of the patriarchs.",
+          "similitudes": "It shares with Christianity the recognition of the repeated narrative pattern as a significant literary element of the patriarchal cycle.",
+          "diferencias": null,
+          "significado_teologico": "The repetition of the pattern with subtle variations teaches that divine providence protects the patriarchal promise from generation to generation, even through the recurring human weaknesses of its bearers.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 20:1-18; Gén 26:1-11 (recepción patrística sobre la fidelidad divina pese a la debilidad humana de los patriarcas)",
+          "fuente_secundaria": "Comentarios patrísticos que leen los episodios de Gerar como ejemplo de la gracia divina que opera pese a las imperfecciones morales de quienes llevan la promesa",
+          "descripcion": "The Christian patristic tradition reads these parallel episodes as evidence that divine election and promise do not depend on the moral perfection of the patriarchs, but on the faithfulness of God himself to his word, a theme that connects with the broader Pauline theology of grace operating independently of human merit.",
+          "similitudes": "It shares with Jewish reading the observation of the repeated narrative pattern as a structuring element of the patriarchal story.",
+          "diferencias": "The Christian reading tends to generalize the episode toward the broader theological principle of free grace, while the Jewish reading focuses more on the progressive moral development of the patriarchs themselves.",
+          "significado_teologico": "The Gerar episodes illustrate that the faithfulness of the divine promise does not depend on the complete moral integrity of its human bearers.",
+          "posible_relacion_cultural": "Shared tradition of the patriarchal cycle of Abraham and Isaac as a common founding history of Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

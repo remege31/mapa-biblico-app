@@ -1,0 +1,242 @@
+{
+  "id": "bithynia",
+  "nombre": "Bithynia",
+  "tipo": "territorio",
+  "lat": 40.66,
+  "lng": 30.63,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman province in northwest Asia Minor on the shores of the Black Sea. Paul tried to go there but was prevented by the Spirit.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bit_h1",
+      "titulo": "The Spirit prevents Paul from going to Bithynia",
+      "fecha": "ca. 50 AD",
+      "descripcion": "Paul tries to enter Bithynia but 'the Spirit of Jesus did not allow it'; The Macedonian's vision redirects him to Europe.",
+      "referencias": [
+        "Acts 16:7-9"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "bit_h2",
+      "titulo": "Peter's letter to the believers of Bithynia",
+      "fecha": "ca. 64 AD",
+      "descripcion": "Peter addresses his first letter to the 'elect' of several provinces, including Bithynia; There are Christian communities there.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "bit_h3",
+      "titulo": "Pliny the Younger and the Christians of Bithynia",
+      "fecha": "ca. 112 AD",
+      "descripcion": "Roman governor Pliny the Younger writes to Emperor Trajan about Christians in Bithynia: pagan testimony to the growth of the Church.",
+      "referencias": [
+        "Historia romana"
+      ],
+      "personajes_clave": [
+        "Plinio el Joven"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bit_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He tried to go to Bithynia; the Spirit redirected him toward Macedonia.",
+      "referencias": [
+        "Acts 16:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p2",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He addressed his first letter to the believers of Bithynia and other provinces of Asia Minor.",
+      "referencias": [
+        "1 Pet 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bit_p3",
+      "nombre": "Pliny the Younger",
+      "rol": "Roman governor",
+      "periodo": "ca. 61-112 AD",
+      "descripcion": "His letters to Trajan about the Christians in Bithynia are the first detailed Roman testimony of early Christianity.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bithynia: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "bit_m1",
+        "nombre": "The Spirit closes a door and opens Europe",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The redirection of Paul in Bithynia is a paradigm of divine providence in the mission: a closed door opens another towards Europe.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The redirection of Paul in Bithynia is a paradigm of divine providence in the mission: a closed door opens another towards Europe.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bit_h1",
+        "titulo": "The Spirit prevents Paul from going to Bithynia",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Paul tries to enter Bithynia but 'the Spirit of Jesus did not allow it'; The Macedonian's vision redirects him to Europe.",
+        "referencias": [
+          "Acts 16:7-9"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "bit_h2",
+        "titulo": "Peter's letter to the believers of Bithynia",
+        "fecha": "ca. 64 AD",
+        "descripcion": "Peter addresses his first letter to the 'elect' of several provinces, including Bithynia; There are Christian communities there.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "bit_h3",
+        "titulo": "Pliny the Younger and the Christians of Bithynia",
+        "fecha": "ca. 112 AD",
+        "descripcion": "Roman governor Pliny the Younger writes to Emperor Trajan about Christians in Bithynia: pagan testimony to the growth of the Church.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "personajes_clave": [
+          "Plinio el Joven"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bit_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He tried to go to Bithynia; the Spirit redirected him toward Macedonia.",
+        "referencias": [
+          "Acts 16:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p2",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He addressed his first letter to the believers of Bithynia and other provinces of Asia Minor.",
+        "referencias": [
+          "1 Pet 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bit_p3",
+        "nombre": "Pliny the Younger",
+        "rol": "Roman governor",
+        "periodo": "ca. 61-112 AD",
+        "descripcion": "His letters to Trajan about the Christians in Bithynia are the first detailed Roman testimony of early Christianity.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Bithynia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "bit_m1",
+          "nombre": "The Spirit closes a door and opens Europe",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "The redirection of Paul in Bithynia is a paradigm of divine providence in the mission: a closed door opens another towards Europe.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The redirection of Paul in Bithynia is a paradigm of divine providence in the mission: a closed door opens another towards Europe.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

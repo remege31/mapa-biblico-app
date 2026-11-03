@@ -1,0 +1,145 @@
+{
+  "id": "lebanon",
+  "nombre": "Libano",
+  "tipo": "territorio",
+  "lat": 33.75,
+  "lng": 35.59,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 63,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Ferro I - Romano"
+    }
+  ],
+  "descripcion_geo": "Catena montuosa costiera a nord di Israele, ricoperta da leggendarie foreste di cedri. Comprende le valli del Libano e dell'Antilibano.",
+  "altitud_m": 2000,
+  "clima": "Mediterraneo-montano",
+  "recursos": [
+    "cedri",
+    "legna",
+    "risorse idriche",
+    "commercio"
+  ],
+  "importancia_estrategica": "Principale fonte di antico legno da costruzione mediterraneo; i cedri del Libano furono usati nel Tempio di Salomone.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lib_h1",
+      "titulo": "I cedri per il Tempio di Salomone",
+      "fecha": "ca. 960 a.C.",
+      "descripcion": "Salomone negozia con Hiram di Tiro la fornitura di cedri del Libano per costruire il Tempio di Gerusalemme.",
+      "referencias": [
+        "1 Re 5:1-12"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "Hiram de Tiro"
+      ]
+    },
+    {
+      "id": "lib_h2",
+      "titulo": "La foresta libanese nelle poesie d'amore",
+      "fecha": "ca. 1000-700 a.C.",
+      "descripcion": "Il Cantico dei Cantici evoca l'aroma del Libano come profumo dell'amato.",
+      "referencias": [
+        "Cnt 4:8,11,15"
+      ],
+      "personajes_clave": [
+        "la Sulamita"
+      ]
+    },
+    {
+      "id": "lib_h3",
+      "titulo": "Gesù nei territori di Tiro e Libano",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "Gesù si ritira nei territori di Tiro, nella regione libanese, dove guarisce la figlia della donna siro-fenicia.",
+      "referencias": [
+        "Mc 7:24-30"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "mujer sirofeniciana"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lib_p1",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re fenicio del Libano",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Fornì cedri e artigiani a Salomone per il Tempio; alleato commerciale di Israele.",
+      "referencias": [
+        "1 Re 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p2",
+      "nombre": "Salomone",
+      "rol": "Re di Israele",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Usò i cedri del Libano per costruire il Tempio e il suo palazzo.",
+      "referencias": [
+        "1 Re 5:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lib_p3",
+      "nombre": "Gesù di Nazareth",
+      "rol": "Messia",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "Ha visitato la regione del Libano (Tiro e Sidone) estendendo il suo ministero al territorio dei gentili.",
+      "referencias": [
+        "Mc 7:24"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "I cedri del Libano simboleggiano grandezza e permanenza nella Bibbia; La regione fu teatro dell'incontro tra Israele e il mondo fenicio.",
+    "religiones_presentes": [
+      "Fenicio_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "lib_m1",
+        "nombre": "I cedri del Signore",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Sal 104,16",
+          "fuente_secundaria": "",
+          "descripcion": "I cedri del Libano sono piantati da Dio stesso (Sal 104,16) e simbolo di maestosità e potenza.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I cedri del Libano sono piantati da Dio stesso (Sal 104,16) e simbolo di maestosità e potenza.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù visita la regione libanese; La donna sirofenicia rappresenta l'apertura del vangelo alle genti.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù visita la regione libanese; La donna sirofenicia rappresenta l'apertura del vangelo alle genti.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

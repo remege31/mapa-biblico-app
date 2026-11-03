@@ -1,0 +1,175 @@
+{
+  "id": "gibeah",
+  "nombre": "Ghibeah",
+  "tipo": "ciudad",
+  "lat": 31.8517,
+  "lng": 35.1995,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 35,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Capitale tribale di Beniamino, città di Saul"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II — Città della tribù di Beniamino"
+    }
+  ],
+  "descripcion_geo": "Gibeah (oggi Jaba o Tell el-Ful, a nord di Gerusalemme) si trova nella tribù di Beniamino, a circa 5 km a nord di Gerusalemme. Era la città natale e capitale di Saul, primo re di Israele. Gli scavi archeologici di Tell el-Ful hanno scoperto una fortezza di Ferro I che potrebbe corrispondere al palazzo-fortezza di Saul.",
+  "altitud_m": 843,
+  "clima": "Montagna mediterranea - simile a Gerusalemme. Precipitazioni di 500-600 mm all'anno, inverni freddi, estati secche.",
+  "recursos": [
+    "Terreno agricolo terrazzato",
+    "Acqua (serbatoi)",
+    "Posizione difensiva elevata con visibilità sulle strade principali"
+  ],
+  "importancia_estrategica": "Città natale di Saul e prima capitale del regno di Israele. Gibeah controllava le rotte tra Gerusalemme e Benjamin settentrionale. La sua storia più oscura – il crimine della concubina del levita – fu il fattore scatenante per la quasi estinzione della tribù di Beniamino e il modello per il giudizio collettivo sul male intracomunitario.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-gibeah",
+      "nombre": "Beniaminiti di Ghibeah",
+      "descripcion": "Gli abitanti di Ghibeah sono descritti in Giudici 19-20 come figli di Belial (uomini malvagi) che commisero il crimine che scatenò la guerra civile tra Israele e Beniamino. Il parallelo con il racconto di Sodoma (Gen 19) è esplicito: la folla circonda la casa, la richiesta di consegnare il visitatore, la consegna della concubina. La tribù di Beniamino venne quasi sterminata per essersi rifiutata di consegnare i colpevoli.",
+      "religion": "Yahvismo tribale di Beniamino, con gravi deviazioni morali secondo il testo",
+      "periodo": "C. 1150–1100 a.C"
+    },
+    {
+      "id": "guardia-saul",
+      "nombre": "Saul protezione e taglio",
+      "descripcion": "In quanto città natale e residenza di Saul, Gibeah ospitò la prima corte reale di Israele. Il palazzo-fortezza di Saul, provvisoriamente identificato con la fortezza scavata a Tell el-Ful, era la sede del potere reale. Davide ha suonato l'arpa per Saul a Gibeah prima di diventare il suo rivale. Anche i figli di Saul e il suo generale Abner avevano sede lì.",
+      "religion": "Royal Yahvismo — culto ufficiale sotto la prima monarchia israelita",
+      "periodo": "C. 1025–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "crimen-gibeah",
+      "titulo": "Il delitto di Ghibeah: la concubina del levita",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Un levita che viaggiava con la sua concubina trascorse la notte a Ghibeah, una città beniaminita. Gli uomini della città circondarono la casa reclamando l'ospite. Il levita consegnò la sua concubina, che fu maltrattata tutta la notte e trovata morta all'alba. Il levita smembrò il suo corpo in dodici parti e le inviò alle dodici tribù di Israele come comparizione per il giudizio. Il delitto scatenò la guerra civile più devastante dell'epoca dei giudici: la quasi estinzione della tribù di Beniamino. L'episodio è il più oscuro del libro dei Giudici e chiude il libro con la frase: A quei tempi non c'era nessun re in Israele; ognuno faceva quello che voleva.",
+      "referencias": [
+        "Gdc 19:1-30",
+        "Gdc 20:1-48",
+        "Gdc 21:1-25"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "saul-gibeah",
+      "titulo": "Saul in Gibeah: il re contadino",
+      "fecha": "c. 1025 a.C.",
+      "descripcion": "Saul, consacrato re da Samuele, è tornato a casa sua a Gibeah come se nulla fosse accaduto, accompagnato solo da pochi uomini coraggiosi. Quando gli Ammoniti minacciarono Jabez di Galaad e i messaggeri arrivarono a Ghibeah, Saul stava arando i suoi campi. Lo Spirito di YHWH si impossessò di lui: macellò i suoi buoi, li inviò alle tribù come convocazione militare e radunò un esercito di 330.000 uomini. L'immagine del re contadino che abbandona l'aratro per diventare guerriero è un archetipo di leadership carismatica.",
+      "referencias": [
+        "1 Sam 10:26-11:15"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "david-saul-gibeah",
+      "titulo": "Davide alla corte di Saul: l'arpista diventato rivale",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Quando lo spirito maligno tormentava Saul, i suoi servi gli consigliarono di trovare un uomo che sapesse suonare l'arpa per calmarlo. Uno di loro conosceva Davide, figlio di Jesse di Betlemme, che era coraggioso, un guerriero, eloquente, di bell'aspetto, e YHWH era con lui. Davide è stato portato a Gibeah, ha suonato l'arpa per Saul e gli attacchi dello spirito maligno sono cessati. Saul lo amava moltissimo e ne fece il suo scudiero. L'amicizia iniziale tra Saul e Davide a Gibeah si trasformerà in una tragica rivalità che durerà decenni.",
+      "referencias": [
+        "1 Sam 16:14-23"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul",
+      "nombre": "Saul ben Quis",
+      "rol": "Primo re di Israele, nativo di Ghibeah",
+      "periodo": "hierro_1",
+      "descripcion": "Beniaminita di umile famiglia, Saul fu consacrato primo re di Israele da Samuele in risposta al clamore del popolo. Alto, bello e carismatico, iniziò con brillanti vittorie militari ma il suo regno deteriorò a causa della disobbedienza ai comandi divini trasmessi da Samuele. La sua invidia per Davide, i suoi episodi di violenza irrazionale e il suo consulto con il medium Endor dipingono il ritratto di un uomo prescelto che perde le elezioni, tragico nel senso classico.",
+      "referencias": [
+        "1 Sam 9:1-10:27",
+        "1 Sam 13:1-14",
+        "1 Sam 28:1-25",
+        "1 Sam 31:1-13"
+      ],
+      "ruta": [
+        "gibeah",
+        "hebron",
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "david-gibeah",
+      "nombre": "Davide",
+      "rol": "Harper alla corte di Saul, futuro re",
+      "periodo": "hierro_2",
+      "descripcion": "La prima presenza di Davide a Gibeá è stata come musicista terapeutico per Saul. L'immagine del pastore-poeta che calma con la sua arpa il re tormentato è uno dei dipinti più belli della storia davidica. Questa fase iniziale di favore si trasformò presto in rivalità quando Davide iniziò ad eccellere militarmente. L'amicizia con Jonathan, figlio di Saul, è stato l'unico legame sopravvissuto alla rottura.",
+      "referencias": [
+        "1 Sam 16:14-23",
+        "1 Sam 18:1-16",
+        "1 Sam 20:1-42"
+      ],
+      "ruta": [
+        "bethlehem",
+        "gibeah",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jonatan",
+      "nombre": "Jonathan ben Saul",
+      "rol": "Principe guerriero, fedele amico di Davide",
+      "periodo": "hierro_1",
+      "descripcion": "Jonathan, il figlio maggiore di Saul ed erede naturale al trono, ha scelto l'amicizia con Davide rispetto ai propri interessi dinastici. La sua alleanza con Davide (l'anima di Jonathan si è unita all'anima di Davide e lo amava come se stesso) è il modello biblico di amicizia leale. Morì insieme a suo padre sul Monte Gilboa combattendo contro l'Filistei. Il lamento di Davide per Saul e Jonathan è l'elegia più bella dell'OT.",
+      "referencias": [
+        "1 Sam 18:1-4",
+        "1 Sam 20:1-42",
+        "2 Sam 1:17-27"
+      ],
+      "ruta": [
+        "gibeah",
+        "gilboa_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibeah è la città del primo re e del crimine che quasi estinse una tribù. La sua storia incarna entrambi i lati del libro dei Giudici: il caos morale quando non c'è un re e l'ambiguità del primo esperimento monarchico. Saul, il re beniaminita di Ghibeah, è la figura tragica per eccellenza dell'Antico Testamento: prescelto, carismatico, vittorioso, poi abbandonato dallo Spirito che lo aveva investito. Il suo fallimento pone le basi per il successo di Davide e la sua storia è psicologicamente la più complessa di tutta la letteratura biblica prima dei profeti.",
+    "religiones_presentes": [
+      "Yahvismo tribale di Beniamino (periodo dei giudici)",
+      "Reale Yahvismo - prima monarchia israelita sotto Saul"
+    ],
+    "mitos": [
+      {
+        "id": "saul-espiritu",
+        "nombre": "Lo spirito di YHWH su Saul: il re carismatico e la sua ombra",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 10:9-11; 16:14; 18:10-11",
+          "fuente_secundaria": "Talmud Bavli, Yoma 22b; Midrash Shmuel 15; Maimónides, Hilkhot Teshuvá 6:3",
+          "descripcion": "Il dibattito talmudico su Saul ruota attorno alla questione se abbia perso la sua elezione divina a causa di un peccato reale o di un decreto inevitabile. Maimonide lo usa come esempio della tensione tra libero arbitrio e provvidenza. La formula secondo cui lo spirito di YHWH si allontanò da Saul e uno spirito maligno lo tormentava generò dibattiti sulla natura del male psicologico e sulla responsabilità divina.",
+          "similitudes": "Il re carismatico caduto ha paralleli nelle tradizioni di altri popoli dell'antico Oriente.",
+          "diferencias": "A differenza dei re divini dell'antico Oriente, Saul è un uomo eletto che può essere rifiutato. La sua caduta non è inevitabile ma una conseguenza delle sue decisioni.",
+          "significado_teologico": "Lo spirito divino non garantisce la permanenza: l'elezione può essere ritirata. Il re non è sacro in se stesso ma fedele al comando divino.",
+          "posible_relacion_cultural": "Il concetto di uno spirito che possiede temporaneamente il leader carismatico (shofet, re) è parallelo al concetto assiro di melammu (aura reale) e al concetto egiziano di ka."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": "hebron",
+  "nombre": "Hebron",
+  "tipo": "ciudad",
+  "lat": 31.5326,
+  "lng": 35.0998,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 71,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Middle Bronze Age — Patriarchal Period"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Canaanite city"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquest and settlement"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Davidic City"
+    }
+  ],
+  "descripcion_geo": "Hebron is located in the heart of the Judah highlands, about 30 km south of Jerusalem, at 930 meters above sea level — the highest city in the entire region. The ancient name, Kiriath-Arba (city of four), suggests a confederation of four villages or the presence of the Anakite giants. Surrounded by fertile valleys such as the Escol Valley, famous for its vineyards and pomegranate trees, Hebron was always a first-rate agricultural and livestock center.",
+  "altitud_m": 930,
+  "clima": "Mountain Mediterranean — one of the coolest climates in the region. Cold winters with the possibility of occasional snow, mild summers. Precipitation of 500-600 mm annually, higher than the average for the region.",
+  "recursos": [
+    "Water (permanent springs and deep wells)",
+    "Vineyards and olive groves (the Escol Valley was renowned for its grapes)",
+    "Pomegranate and fruit trees",
+    "Pastures for livestock",
+    "High quality limestone (construction)"
+  ],
+  "importancia_estrategica": "Dominant position on the Judah highland north-south route. Its height and water resources made it a natural refuge city. As the first capital of David before Jerusalem, it concentrated military, political and religious power during seven crucial years for the formation of the united monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "anaquitas-hebron",
+      "nombre": "Anakites",
+      "descripcion": "People of extraordinary stature who inhabited Hebron and its surroundings. The spies sent by Moses returned terrified from their encounter with the Anakites, describing themselves as locusts in comparison (Num 13:33). Caleb expelled them during the conquest, receiving the city as an inheritance (Josh 14:12-15).",
+      "religion": "Polytheism Canaanite — worship of local deities of the Rephaites",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "hititas-hebron",
+      "nombre": "Hittites by Canaan",
+      "descripcion": "Abraham purchased the cave of Machpelah from Ephron the Hittite, in a transaction detailed in Gen 23 that follows the legal formats of the Middle Bronze Age. The negotiation at the city gate and the setting of the price in current silver between merchants reflects commercial practices of the period.",
+      "religion": "Canaanite polytheism with Hittites elements — cult of fertility deities and ancestors",
+      "periodo": "c. 1800–1600 BC (Medium Bronze)"
+    },
+    {
+      "id": "calebitas-hebron",
+      "nombre": "Calebitas",
+      "descripcion": "Caleb's tribe, of Kenizean origin (Num 32:12), received Hebron as a permanent inheritance for the faithfulness of their ancestor during Canaan's espionage. The Calebites were fully integrated into the tribe of Judah and maintained control of Hebron during the Davidic period.",
+      "religion": "Yahwism — integration into the Israel cult",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "machpela-compra",
+      "titulo": "The Cave of Machpelah: The First Soil of Promise",
+      "fecha": "c. 1750 BC",
+      "descripcion": "After Sarah's death, Abraham negotiated with the Hittites to purchase the cave of Machpelah, paying 400 shekels of silver to Ephron. This transaction is the only territory that the patriarchs possessed during their lifetime in the promised land. The cave became a family tomb: Abraham and Sarah, Isaac and Rebekah, Jacob and Leah were buried there.",
+      "referencias": [
+        "Gen 23:1-20",
+        "Gen 25:9-10",
+        "Gen 49:29-32",
+        "Gen 50:13"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "david-rey-hebron",
+      "titulo": "David anointed king in Hebron",
+      "fecha": "c. 1010 BC",
+      "descripcion": "After the death of Saul, David rose to Hebron by divine order. The elders of Judah anointed him king, where he reigned for seven years and six months before moving the capital to Jerusalem. In Hebron six of his children were born, among them Amnon and Absalom. Also there, General Joab murdered Abner, complicating the unification of the kingdom.",
+      "referencias": [
+        "2 Sam 2:1-4",
+        "2 Sam 2:11",
+        "2 Sam 3:2-5",
+        "2 Sam 3:27-30",
+        "2 Sam 5:1-5"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "absalon-rebelion",
+      "titulo": "Absalom's rebellion: betrayal from Hebron",
+      "fecha": "c. 975 BC",
+      "descripcion": "Absalom chose Hebron as a base to proclaim himself king and launch his rebellion against his father David. The city had symbolic weight: it was the first capital of David. The rebellion failed when Absalom was killed by Joab against David's orders. The king's lament—Absalom, my son, my son!—is one of the most emotional passages in Samuel's book.",
+      "referencias": [
+        "2 Sam 15:7-12",
+        "2 Sam 15:13-14",
+        "2 Sam 18:1-18",
+        "2 Sam 18:33"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abraham",
+      "rol": "Founding patriarch, first monotheist in the biblical story",
+      "periodo": "bronce_medio",
+      "descripcion": "Originally from Ur of the Chaldees, Abraham received the call to migrate to Canaan with the promise of land, descendants and universal blessing. He established his main camp next to the oak forest of Mamré, near Hebron, where he received the visit of the three angels who announced the birth of Isaac.",
+      "referencias": [
+        "Gen 12:1-9",
+        "Gen 13:14-18",
+        "Gen 18:1-15",
+        "Gen 23:1-20"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "beersheba"
+      ],
+      "viajes": [
+        {
+          "nombre": "Family migration",
+          "ruta": [
+            "ur",
+            "haran"
+          ],
+          "referencias": [
+            "Gen 11:31-32"
+          ]
+        },
+        {
+          "nombre": "The call to Canaan",
+          "ruta": [
+            "haran",
+            "shechem",
+            "bethel",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 12:1-9",
+            "Gen 13:14-18"
+          ]
+        },
+        {
+          "nombre": "Descent to Egypt",
+          "ruta": [
+            "mamre",
+            "egipto",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 12:10-20"
+          ]
+        },
+        {
+          "nombre": "Lot's Rescue",
+          "ruta": [
+            "mamre",
+            "dan",
+            "mamre"
+          ],
+          "referencias": [
+            "Gen 14:1-16",
+            "Gen 14:17-20"
+          ]
+        },
+        {
+          "nombre": "The pact in Gerar",
+          "ruta": [
+            "mamre",
+            "gerar",
+            "beersheba"
+          ],
+          "referencias": [
+            "Gen 20:1-18",
+            "Gen 21:22-34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caleb",
+      "nombre": "Caleb ben Jefone",
+      "rol": "Faithful spy, conqueror by Hebron",
+      "periodo": "c. 1250–1200 BC",
+      "descripcion": "The only spy alongside Joshua who trusted in the conquest of Canaan. Forty-five years later, at age 85, he claimed Hebron as the inheritance promised by Moses and expelled the Anakites. His vigor in old age became a symbol of rewarded loyalty.",
+      "referencias": [
+        "Num 13:6",
+        "Num 14:24",
+        "Josh 14:6-15",
+        "Josh 15:13-14"
+      ],
+      "ruta": [
+        "hebron"
+      ]
+    },
+    {
+      "id": "david",
+      "nombre": "David",
+      "rol": "King of Judah and Israel, chosen by YHWH",
+      "periodo": "hierro_2",
+      "descripcion": "Shepherd of Bethlehem secretly anointed by Samuel, David made Hebron his first capital for seven and a half years. In Hebron his first children were born and his power over Judah was consolidated. It was also the scene of Absalom's rebellion, which overshadowed the end of his reign.",
+      "referencias": [
+        "2 Sam 2:1-11",
+        "2 Sam 5:1-5",
+        "2 Sam 15:7-12",
+        "2 Sam 18:33"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hebron is the city of patriarchs par excellence. The cave of Machpelah, where Abraham and Sarah, Isaac and Rebekah, Jacob and Leah rest, makes it the first sacred place in Judaism linked to the territorial promise. This patriarchal sacredness precedes the Temple of Jerusalem and survives all political vicissitudes. For Islam, Patriarch Ibrahim is the founder of the Ka'ba and the first Muslim; The tomb of Hebron is the fourth holiest site in Islam.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism (Abraham, Isaac, Jacob)",
+      "Polytheism Canaanite (Anakites, pre-conquest Hittites)",
+      "Yahwism institutional (Davidic and monarchical period)",
+      "Islam (Ibrahim's tomb — Ibrahim Mosque / Machpelah Cave)"
+    ],
+    "mitos": [
+      {
+        "id": "macpela-tumba",
+        "nombre": "The Cave of Machpelah: Tomb of the Patriarchs",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 23; 25:9-10; 49:29-32; 50:13",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 58; Sefer HaYashar",
+          "descripcion": "The cave is identified as the resting place of the six patriarchs and matriarchs. According to the Midrash, Adam and Eve are also buried there, turning the cave into the tomb of original humanity.",
+          "similitudes": "All three traditions recognize Abraham/Ibrahim as the founding father buried at Hebron.",
+          "diferencias": "Judaism identifies six patriarchal tombs; Islam emphasizes Ibrahim's tomb; Christianity focuses its significance on Abraham as the father of faith, not on the physical place.",
+          "significado_teologico": "The legal possession of Machpelah is the first tangible fulfillment of the territorial promise. The promised land began as a cave for the dead.",
+          "posible_relacion_cultural": "The cult of ancestors buried in sacred caves is documented throughout the Middle Bronze Age Levant."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hechos 7:16; Hebreos 11:8-16",
+          "fuente_secundaria": "Eusebio de Cesarea, Onomasticon; peregrinaciones medievales",
+          "descripcion": "The Letter to the Hebrews praises Abraham for having lived as a stranger in the promised land, seeking a better homeland, the heavenly one. Hebron as a physical place has less theological relevance than Abraham as a model of faith.",
+          "similitudes": "Abraham as a paradigm of obedient faith is central to both Paul and Genesis.",
+          "diferencias": "The New Testament spiritualizes the territorial promise: the earth is no longer Canaan but the Kingdom of God.",
+          "significado_teologico": "Hebron represents the beginning of faith as a pilgrimage; The Christian is also a foreigner in search of a heavenly homeland.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2 (Al-Baqara); Sura 4:125",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya; Ibn Battuta, visita a Al-Khalil",
+          "descripcion": "Hebron is known in Arabic as Al-Khalil (the friend), in reference to the title of Ibrahim Khalilullah (friend of God). The Ibrahim Mosque, built over the Machpelah Cave, is considered the fourth holiest place in Islam.",
+          "similitudes": "Ibrahim as the first monotheist and father of the faith is shared by all three traditions.",
+          "diferencias": "Islam emphasizes that Ibrahim was a Muslim before Judaism and Christianity; The tomb is a place of active pilgrimage.",
+          "significado_teologico": "Al-Khalil is testimony that Islam is the original religion of Ibrahim, prior to the Torah and the Gospel.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "gedor",
+  "nombre": "Ghedor",
+  "tipo": "ciudad",
+  "lat": 31.63333,
+  "lng": 35.083333,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Località genealogica di Giuda e Benjamin"
+    }
+  ],
+  "descripcion_geo": "Piccola cittadina della regione montuosa di Giuda, citata soprattutto in contesti genealogici. Il suo nome (“muro” o “recinto”) fa pensare ad un insediamento originariamente fortificato o recintato, tipico delle popolazioni agricole e pastorali della zona montuosa centrale.",
+  "altitud_m": 700,
+  "clima": "Montagna mediterranea: estati secche, inverni freddi con piogge, tipici degli altopiani Giuda.",
+  "recursos": [
+    "Giuda Pascoli montani e terreni agricoli",
+    "Insediamento originario fortificato o recintato"
+  ],
+  "importancia_estrategica": "Gedor non ha alcuna rilevanza militare, economica o narrativa di per sé degna di nota; La sua menzione è esclusivamente genealogica e serve come punto di riferimento per registrare la discendenza e la distribuzione territoriale dei clan di Giuda e, nel caso dei figli di Sasac, anche di un ramo beniaminita associato alla regione.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_gedor",
+      "nombre": "Clan Giuda (Linea di Caleb)",
+      "descripcion": "Famiglia discendente da Penuel, identificato nelle genealogie dei cronisti come 'padre di Ghedor', cioè fondatore o antenato omonimo associato all'insediamento.",
+      "religion": "Yahvismo",
+      "periodo": "Periodo dei Giudici fino alla monarchia"
+    },
+    {
+      "id": "benjaminitas_gedor",
+      "nombre": "Clan di Beniamino (linea di Shashak)",
+      "descripcion": "Famiglia beniaminita menzionata negli elenchi genealogici di 1 Cronache con un legame con Ghedor tra i suoi discendenti.",
+      "religion": "Yahvismo",
+      "periodo": "Periodo monarchico"
+    }
+  ],
+  "historias": [
+    {
+      "id": "penuel-padre-gedor",
+      "titulo": "Penuel, 'padre di Ghedor', nella genealogia di Giuda",
+      "fecha": "Genealógico, contexto pre-monárquico a monárquico",
+      "descripcion": "Gli elenchi genealogici di 1 Cronache identificano Penuel, della linea di Caleb, come il 'padre' (fondatore o antenato eponimo) di Ghedor, integrando la località nella vasta rete di clan che popolavano la regione montuosa di Giuda.",
+      "referencias": [
+        "1 Cr 4:4"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jered-padre-gedor-alt",
+      "titulo": "Jered, anch'egli legato a Gedor",
+      "fecha": "Genealógico",
+      "descripcion": "In un elenco genealogico parallelo, Jered è menzionato anche come \"padre di Ghedor\", riflettendo la natura complessa e talvolta sovrapposta della cronaca delle tradizioni genealogiche sull'origine dei diversi insediamenti.",
+      "referencias": [
+        "1 Cr 4:18"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "sasac-gedor-benjamin",
+      "titulo": "La linea benjaminita di Sasac era collegata a Ghedor",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "Tra i discendenti di Shashak, della tribù di Beniamino, le genealogie dei cronisti menzionano anche un collegamento con Ghedor, dimostrando che la piccola città appare citata da più di una linea tribale nei documenti genealogici.",
+      "referencias": [
+        "1 Cr 8:31",
+        "1 Cr 9:37"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "penuel_gedor",
+      "nombre": "Penuel",
+      "rol": "Antenato omonimo di Ghedor nella linea di Caleb",
+      "periodo": "Genealógico, anterior a la monarquía",
+      "descripcion": "Figura genealogica della tribù Giuda identificata come 'padre' di Ghedor negli elenchi della cronaca, senza episodi narrativi associati oltre alla sua menzione genealogica.",
+      "referencias": [
+        "1 Cr 4:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jered_gedor",
+      "nombre": "Jered",
+      "rol": "Antenato omonimo alternativo di Gedor",
+      "periodo": "Genealógico",
+      "descripcion": "Figura genealogica menzionata in un elenco parallelo come \"padre di Gedor\", che illustra la complessità della cronaca delle tradizioni genealogiche sugli insediamenti minori di Giuda.",
+      "referencias": [
+        "1 Cr 4:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sasac_gedor",
+      "nombre": "Sasac",
+      "rol": "Antenato di una stirpe benjaminita legata a Ghedor",
+      "periodo": "Genealógico, período de la monarquía",
+      "descripcion": "Figura della tribù di Beniamino la cui discendenza appare registrata con un collegamento a Ghedor negli elenchi genealogici delle Cronache, evidenziando la presenza di più di un lignaggio tribale associato al luogo.",
+      "referencias": [
+        "1 Cr 8:31",
+        "1 Cr 9:37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gedor manca di un proprio sviluppo narrativo, mitico o cultuale; La loro presenza nel testo biblico è puramente genealogica, come parte del vasto sistema di elenchi tribali che documentano la distribuzione e la continuità dei clan di Israele attraverso le generazioni. Il suo valore per l'Antico Testamento è testimoniale: conferma la densità della trama genealogica che sosteneva l'identità tribale israelita al di là dei grandi racconti narrativi.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "genealogias-gedor-continuidad",
+        "nombre": "Le genealogie di Ghedor come tessuto di continuità tribale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Cr 4:4; 1 Cr 4:18; 1 Cr 8:31",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el valor teológico de las listas genealógicas cronistas como afirmación de la continuidad del pueblo de Israel",
+          "descripcion": "La tradizione ebraica valorizza le estese genealogie delle Cronache, compresi riferimenti minori come quelli di Ghedor, come un'affermazione teologica che ogni famiglia e clan in Israele, per quanto piccola sia la loro importanza narrativa, costituisce parte integrante della storia continua del popolo eletto.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L’inclusione di località e lignaggi minori nella documentazione genealogica riflette la convinzione che l’elezione divina di Israele abbraccia l’intero popolo, non solo le sue figure più importanti.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

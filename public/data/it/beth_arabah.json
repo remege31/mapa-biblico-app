@@ -1,0 +1,133 @@
+{
+  "id": "beth_arabah",
+  "nombre": "Bet-Araba",
+  "tipo": "ciudad",
+  "lat": 31.84,
+  "lng": 35.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città al confine tra Giuda e Benjamin, all'estremità settentrionale del Mar Morto.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Punto di confine tra le tribù di Giuda e Benjamin.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bar_h1",
+      "titulo": "Beth-Arab sul confine tribale",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Beth-Arabá era una città al confine con Giuda che si estendeva a nord del Mar Morto.",
+      "referencias": [
+        "Gs 15:6",
+        "Gs 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "bar_h2",
+      "titulo": "Gli 'Arabatiti': guerrieri Davide di Bet-Arabá",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Abi-albon l'Arabatita e Azmaveth il Baharumita furono tra gli eroi di Davide, di Beth-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bar_h3",
+      "titulo": "Beth-Arabá nella divisione di Beniamino",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La città fu assegnata alla tribù di Beniamino a causa della sua posizione sul confine settentrionale.",
+      "referencias": [
+        "Gs 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bar_p1",
+      "nombre": "Giosuè",
+      "rol": "Conquistatore",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Assegnò Beth-Arabá come punto di confine tra Giuda e Benjamin.",
+      "referencias": [
+        "Gs 15:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p2",
+      "nombre": "Abi-albon l'Arabatita",
+      "rol": "Davide Eroe",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Guerriero Davide di Beth-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p3",
+      "nombre": "tribù di Beniamino",
+      "rol": "Tribù israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Ha ricevuto Beth-Arabá come parte della sua eredità territoriale.",
+      "referencias": [
+        "Gs 18:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-Arabá: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bar_m1",
+        "nombre": "Il confine tribale",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Beth-Arabá segna il confine tra Giuda e Benjamin vicino al Mar Morto; Le città di confine definiscono l'identità tribale nell'AT.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Beth-Arabá segna il confine tra Giuda e Benjamin vicino al Mar Morto; Le città di confine definiscono l'identità tribale nell'AT.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

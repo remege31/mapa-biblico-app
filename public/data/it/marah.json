@@ -1,0 +1,158 @@
+{
+  "id": "marah",
+  "nombre": "Mara",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 29.35,
+  "lng": 32.933333,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I: le acque amare si addolcirono"
+    }
+  ],
+  "descripcion_geo": "Località nel deserto del Sur, primo punto di campeggio di Israele dopo aver attraversato il Mar Rosso, il cui nome (“l'amarezza”) deriva direttamente dallo stato delle sue acque, inizialmente non adatte al consumo umano.",
+  "altitud_m": 10,
+  "clima": "Deserto: estremamente secco e caldo, tipico della penisola Sinai vicino alla costa del Mar Rosso.",
+  "recursos": [
+    "Fontana d'acqua amara trasformata miracolosamente in potabile",
+    "Punto di campeggio sulla rotta dell'esodo"
+  ],
+  "importancia_estrategica": "Mara è il primo luogo di sperimentazione di Israele subito dopo la trionfante liberazione del Mar Rosso: l'iniziale incapacità di bere le sue acque amare provoca il primo lamento registrato della gente nel deserto, risolto attraverso l'intervento miracoloso di YHWH che indica a Mosè un albero specifico per addolcire le acque.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_marah",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Gente che, dopo tre giorni senza trovare acqua nel deserto, arriva a Mara e si lamenta amaramente quando scopre che le sue acque non sono potabili.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "moises_aaron_marah",
+      "nombre": "Mosè e Aaron",
+      "descripcion": "Leader Israele che ricevono direttamente la lamentela della gente riguardo alle acque amare e mediano davanti a YHWH per ottenere la soluzione miracolosa.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "queja-aguas-amargas-marah",
+      "titulo": "La gente si lamenta delle acque amare di Mara",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo tre giorni di marcia attraverso il deserto senza trovare acqua dopo aver attraversato il Mar Rosso, Israele arriva a Mara, ma non può bere le sue acque perché sono amare, il che provoca il primo mormorio registrato della gente contro Mosè.",
+      "referencias": [
+        "Es 15:22-24"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "moises-endulza-aguas-marah",
+      "titulo": "Mosè addolcisce le acque con un albero indicato da YHWH",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Mosè grida a YHWH, che gli mostra un albero che, gettato nelle acque, le trasforma in acqua potabile, episodio subito seguito dall'istituzione di un'ordinanza e di uno statuto in cui YHWH mette alla prova l'obbedienza del popolo e si rivela come 'colui che ti guarisce'.",
+      "referencias": [
+        "Es 15:25-26"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "marah-primer-prueba-desierto",
+      "titulo": "Mara come prima prova del pellegrinaggio attraverso il deserto",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "L'episodio di Mara stabilisce lo schema ricorrente dell'intero racconto del pellegrinaggio: bisogno fondamentale insoddisfatto, lamento della gente, intervento provvidenziale di YHWH e progressiva rivelazione del carattere divino, schema che si ripeterà con variazioni a Massa-Meribah, Rephidim e altri episodi simili.",
+      "referencias": [
+        "Es 15:22-26"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_marah",
+      "nombre": "Mosè",
+      "rol": "Capo Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Intercedi presso YHWH per gli assetati di Mara, ricevendo la rivelazione dell'albero che trasforma miracolosamente le acque amare in potabili.",
+      "referencias": [
+        "Es 15:25"
+      ],
+      "ruta": [
+        "sinai",
+        "marah"
+      ]
+    },
+    {
+      "id": "pueblo_quejoso_marah",
+      "nombre": "Congregazione Israele",
+      "rol": "Città che inizia il modello del mormorio nel deserto",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "È protagonista della prima denuncia documentata del pellegrinaggio nel deserto, stabilendo lo schema che sarà ripetuto in numerosi episodi successivi di Esodo e Numeri.",
+      "referencias": [
+        "Es 15:24"
+      ],
+      "ruta": [
+        "marah"
+      ]
+    },
+    {
+      "id": "yhwh_sanador_marah",
+      "nombre": "YHWH (rivelazione come guaritore)",
+      "rol": "Fornitore e rivelatore del suo carattere",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Si rivela in Mara con il titolo 'colui che ti guarisce', stabilendo un nuovo aspetto del suo carattere in diretto rapporto con la fornitura di acqua trasformata e la salute delle persone.",
+      "referencias": [
+        "Es 15:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mara stabilisce lo schema teologico fondamentale che strutturerà l'intera storia del vagabondare nel deserto: bisogno urgente, comprensibile lamentela umana e intervento provvidenziale che non solo risolve il problema immediato ma rivela progressivamente un nuovo aspetto del carattere di YHWH - in questo caso, la sua identità di guaritore - collegando la fornitura materiale con la progressiva rivelazione teologica di chi è Dio per il suo popolo.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "arbol-endulza-aguas-marah",
+        "nombre": "L'albero che addolcisce le acque amare di Mara",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 15:22-26",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la identidad del árbol mostrado a Moisés, frecuentemente vinculado simbólicamente con la Torá misma como fuente que 'endulza' las amarguras de la vida",
+          "descripcion": "La tradizione rabbinica sviluppa ampie speculazioni sulla natura specifica dell'albero utilizzato per addolcire le acque, e spesso interpreta l'episodio in chiave simbolica, collegando l'albero con la Torah o con l'osservanza dei comandamenti come fonte spirituale capace di trasformare l'amarezza dell'esistenza umana in qualcosa di sopportabile e perfino benefico.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento del valore simbolico dell'episodio al di là del suo immediato significato letterale.",
+          "diferencias": null,
+          "significado_teologico": "L'episodio di Mara stabilisce fin dall'inizio il principio secondo cui YHWH provvede non solo ai bisogni materiali immediati, ma usa queste disposizioni per rivelare progressivamente il suo carattere e stabilire statuti formativi per il suo popolo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 15:22-26 (recepción tipológica patrística sobre el árbol/madero como figura de la cruz)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan el árbol de Mara con el madero de la cruz como instrumento que transforma la amargura en dulzura",
+          "descripcion": "Una corrente della tradizione patristica cristiana legge tipologicamente l'albero di Mara come prefigurazione del legno della croce, interpretando che come quell'albero trasformò le acque amare in dolci, la croce di Cristo trasforma l'amarezza del peccato e della morte nella dolcezza della salvezza.",
+          "similitudes": "Condivide con la lettura ebraica la valorizzazione simbolica dell'albero al di là della sua immediata funzione letterale.",
+          "diferencias": "La lettura tipologica specifica cristiana (albero-croce) è una particolare aggiunta assente nell'interpretazione ebraica tradizionale, focalizzata più sul collegamento con la Torah.",
+          "significado_teologico": "L'albero di Mara diventa figura veterotestamentaria della croce di Cristo come strumento per trasformare l'amarezza umana in dolcezza salvifica.",
+          "posible_relacion_cultural": "Ricezione cristiana del racconto dell'Esodo riletto tipologicamente in chiave cristologica."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Primavera"
+}

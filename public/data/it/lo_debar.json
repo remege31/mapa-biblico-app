@@ -1,0 +1,164 @@
+{
+  "id": "lo_debar",
+  "nombre": "Lo-debar",
+  "tipo": "ciudad",
+  "lat": 32.662488,
+  "lng": 35.783568,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Rifugio di Mefibosheth"
+    }
+  ],
+  "descripcion_geo": "Città di Galaad, conosciuta esclusivamente come luogo di rifugio temporaneo di Mefiboset, figlio di Gionata e nipote di Saul, durante il periodo successivo alla morte della famiglia reale saulide.",
+  "altitud_m": 350,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici della regione Galaad.",
+  "recursos": [
+    "Saul Rifugio per sopravvissuti",
+    "Casa di Maquir figlio di Amiel, ospite locale"
+  ],
+  "importancia_estrategica": "Lo-debar non ha alcuna rilevanza strategica, militare o amministrativa; la sua unica funzione narrativa è quella di identificare il luogo in cui Mephibosheth, l'unico discendente disabile sopravvissuto della casa di Saul, trova rifugio nella casa di Machir prima di essere localizzato e portato alla corte di Davide.",
+  "otros_habitantes": [
+    {
+      "id": "maquir_lo_debar",
+      "nombre": "Machir, figlio di Amiel",
+      "descripcion": "Abitante di Lo-debar che dà rifugio a Mefibosheth dopo la morte di Saul e Jonathan, e che in seguito riappare sostenendo Davide durante la ribellione di Absalom.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1010–975 a.C"
+    },
+    {
+      "id": "gaditas_lo_debar",
+      "nombre": "Popolazione locale di Galaad",
+      "descripcion": "Abitanti della regione della Transgiordania dove si trova Lo-debar, che offre rifugio ai fuggitivi politici in tempi di crisi dinastica in Israele.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1010–975 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "mefiboset-refugio-lo-debar",
+      "titulo": "Mephibosheth si rifugia a Lo-debar dopo la morte di Saul",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Dopo la morte di Saul e Gionata a Gilboa, Mefibosheth, figlio di Gionatan, di cinque anni e disabile ad entrambi i piedi dopo una caduta mentre fuggiva dalla nutrice, trova rifugio nella casa di Machir figlio di Ammiel a Lo-Debar.",
+      "referencias": [
+        "2 Sam 4:4",
+        "2 Sam 9:4"
+      ],
+      "personajes_clave": [
+        "mefiboset"
+      ]
+    },
+    {
+      "id": "david-busca-mefiboset-lo-debar",
+      "titulo": "Davide individua Mefibosheth a Lo-Debar",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Desiderando mostrare misericordia a causa del suo patto con Jonathan, Davide chiede se ci sono sopravvissuti della casa di Saul e viene informato che Mephibosheth vive nella casa di Machir a Lo-debar; Davide gli ordina di portare Gerusalemme, ripristina le terre di Saul e lo invita a mangiare permanentemente alla sua tavola reale.",
+      "referencias": [
+        "2 Sam 9:1-13"
+      ],
+      "personajes_clave": [
+        "david",
+        "mefiboset"
+      ]
+    },
+    {
+      "id": "maquir-apoya-david-absalon",
+      "titulo": "Machir di Lo-debar sostiene Davide durante la ribellione di Absalom",
+      "fecha": "c. 975 a.C.",
+      "descripcion": "Lo stesso Machir che aveva accolto Mephibosheth riappare anni dopo come uno dei benefattori che fornirono provviste a Davide durante la sua fuga da Absalom a Mahanaim, dimostrando continua lealtà alla casa reale nonostante i cambiamenti nella fortuna politica.",
+      "referencias": [
+        "2 Sam 17:27-29"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mefiboset",
+      "nombre": "Mefiboset",
+      "rol": "Figlio di Jonathan, nipote di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Trova rifugio a Lo-debar dopo la morte del padre e del nonno, finché non viene localizzato da Davide, che gli ripristina l'onore e la posizione nonostante sia l'unico discendente diretto sopravvissuto della dinastia rivale.",
+      "referencias": [
+        "2 Sam 4:4",
+        "2 Sam 9:1-13"
+      ],
+      "ruta": [
+        "lo_debar",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "maquir_lo_debar_personaje",
+      "nombre": "Machir, figlio di Amiel",
+      "rol": "Ospite di Mefibosheth, benefattore di Davide",
+      "periodo": "c. 1010–975 a.C.",
+      "descripcion": "Inizialmente dà rifugio a Mefibosheth e, anni dopo, fornisce rifornimenti essenziali a Davide durante la ribellione di Absalom, dimostrando una lealtà costante sia alla casata di Saul che a Davide.",
+      "referencias": [
+        "2 Sam 9:4-5",
+        "2 Sam 17:27-29"
+      ],
+      "ruta": [
+        "lo_debar"
+      ]
+    },
+    {
+      "id": "david_lo_debar",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Cerca attivamente un sopravvissuto della casata di Saul per mantenere il suo patto di lealtà con Jonathan, trovando Mephibosheth a Lo-debar e restituendolo con onore alla corte reale.",
+      "referencias": [
+        "2 Sam 9:1-13"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lo-debar, nonostante la sua irrilevanza geografica e strategica, è teatro di uno degli episodi di lealtà politica e misericordia più commoventi dell'intero Antico Testamento: l'adempimento del patto di Davide con Jonathan, esteso all'unico discendente vulnerabile del suo antico rivale, contrasta nettamente con il modello consueto di eliminazione sistematica dei rivali dinastici nell'antico Vicino Oriente.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "misericordia-pacto-mefiboset-lo-debar",
+        "nombre": "La misericordia di Davide verso Mefibosheth come compimento dell'alleanza con Gionata",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 9:1-13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el cumplimiento del pacto (berit) entre David y Jonatán como modelo de fidelidad a los compromisos asumidos incluso después de la muerte de quien los hizo",
+          "descripcion": "La tradizione ebraica valorizza l'episodio di Lo-debar come esempio paradigmatico del compimento di un patto personale (berit) anche quando non c'è più nessuno che possa esigerne l'esecuzione, evidenziando che Davide, nel momento di massimo potere politico, sceglie attivamente di ricercare e onorare un discendente vulnerabile del suo ex rivale invece di semplicemente dimenticarlo o, come sarebbe consuetudine all'epoca, eliminarlo come potenziale minaccia.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento del valore esemplare della misericordia mostrata da Davide verso Mefibosheth.",
+          "diferencias": null,
+          "significado_teologico": "L'episodio dimostra che la fedeltà a un patto personale trascende l'opportunità politica e la logica abituale di eliminare i rivali dinastici.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 9:1-13 (recepción homilética cristiana sobre la gracia inmerecida hacia el discapacitado y vulnerable)",
+          "fuente_secundaria": "Comentarios homiléticos que usan el episodio de Mefiboset como ilustración de la gracia divina hacia los pecadores",
+          "descripcion": "La tradizione cristiana riprende spesso l'episodio di Mefibosheth come un esempio popolare di grazia immeritata: un uomo disabile, discendente della casata nemica, che non ha nulla da offrire e nessun merito proprio da rivendicare, viene elevato dall'assoluta bontà del re alla posizione di commensale permanente alla sua stessa tavola, un parallelo spesso utilizzato per illustrare la grazia divina verso il peccatore.",
+          "similitudes": "Condivide con la lettura ebraica l'apprezzamento positivo della misericordia mostrata da Davide al di là di ogni stretto obbligo.",
+          "diferencias": "La lettura popolare cristiana tende a generalizzare l'episodio come illustrazione della grazia salvifica immeritata, dimensione teologica assente nella lettura ebraica focalizzata sul compimento della specifica alleanza.",
+          "significado_teologico": "L'episodio diventa un'illustrazione cristiana popolare della grazia che eleva gli indegni e i vulnerabili a una posizione di immeritato onore.",
+          "posible_relacion_cultural": "Ricezione cristiana del ciclo Davide reinterpretato come illustrazione dei principi teologici di grazia e misericordia."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "salt_sea",
+  "nombre": "Mar Salato (Mar Morto)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.538593,
+  "lng": 35.482268,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Bronzo Medio: Distruzione di Sodoma e Gomorra"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Confine meridionale e orientale del territorio israelita"
+    }
+  ],
+  "descripcion_geo": "Il corpo idrico ipersalino più basso sulla superficie terrestre, situato sulla faglia del Rift tra Israele/Cisgiordania e la Giordania, alimentato dal fiume Giordano senza sbocco naturale, che produce la sua estrema concentrazione di sali. Funziona nel testo biblico come un limite geografico ricorrente del territorio delle varie tribù.",
+  "altitud_m": -430,
+  "clima": "Deserto estremo: il punto più basso e uno dei più caldi della regione, con un'evaporazione molto elevata che mantiene la concentrazione salina.",
+  "recursos": [
+    "Sale e minerali in alta concentrazione",
+    "Punto di riferimento geografico per i confini tribali",
+    "Asfalto naturale (bitume) che nell'antichità affiorava occasionalmente in superficie"
+  ],
+  "importancia_estrategica": "Il Mar Salato segna il limite orientale e meridionale di diverse assegnazioni tribali israelite (Giuda, Beniamino) ed è, soprattutto, l'ambito geografico associato alla distruzione di Sodoma e Gomorra, episodio fondativo per la teologia biblica del giudizio divino sul male umano, la cui memoria è conservata nella natura sterile e infertile del mare stesso.",
+  "otros_habitantes": [
+    {
+      "id": "ciudades_llanura_mar_salado",
+      "nombre": "Abitanti delle città pianeggianti",
+      "descripcion": "Popolazione di Sodoma, Gomorra e di altre città della regione prima della loro distruzione, descritta come estremamente malvagia e peccatrice davanti a YHWH.",
+      "religion": "Prima religione cananea-transgiordana",
+      "periodo": "C. 2067 a.C. (narrativa, era Abramo)"
+    },
+    {
+      "id": "rubenitas_juditas_mar_salado",
+      "nombre": "Tribù di Giuda, Beniamino e Ruben",
+      "descripcion": "Città israelite il cui territorio confina con le coste del Mar Salato, utilizzate come riferimento geografico fisso nella distribuzione tribale.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "destruccion-sodoma-mar-salado",
+      "titulo": "La distruzione di Sodoma e Gomorra",
+      "fecha": "c. 2067 a.C. (narrativa, época de Abraham)",
+      "descripcion": "Dopo l'annuncio ricevuto a Mamre, YHWH fa piovere zolfo e fuoco su Sodoma e Gomorra a causa della loro estrema malvagità, distruggendo le città della pianura e trasformando la moglie di Lot in una statua di sale per essersi guardata indietro durante la fuga, episodio che la tradizione biblica collega all'origine della regione del Mar Salato.",
+      "referencias": [
+        "Gen 19:24-26"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    },
+    {
+      "id": "frontera-tribal-mar-salado",
+      "titulo": "Il Mar Salato come limite delle assegnazioni tribali",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Il libro di Giosuè utilizza ripetutamente il Mar Salato come punto di riferimento fisso per definire i limiti territoriali di Giuda, Beniamino e Transgiordania, stabilendo la sua costa come confine naturale riconosciuto nella divisione tribale di Canaan.",
+      "referencias": [
+        "Gs 15:2-5",
+        "Gs 18:19"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ezequiel-vision-aguas-sanadas",
+      "titulo": "La visione di Ezechiele delle acque curate",
+      "fecha": "c. 573 a.C. (visión)",
+      "descripcion": "Nella sua visione del Tempio restaurato, Ezechiele descrive un fiume che scorre dal santuario verso il Mar Salato, risanando le sue acque al punto da consentire un'abbondante vita marina, mentre le paludi e i luoghi paludosi rimangono come fonte di sale, un'immagine escatologica della futura restaurazione applicata proprio al mare più arido della geografia biblica.",
+      "referencias": [
+        "Ez 47:1-12"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot_mar_salado",
+      "nombre": "molti",
+      "rol": "Nipote di Abramo, sopravvissuto di Sodoma",
+      "periodo": "bronce_medio",
+      "descripcion": "Egli sfugge con le sue figlie alla distruzione di Sodoma, mentre la moglie, disobbedendo all'ordine di non voltarsi indietro, viene trasformata in una statua di sale nella regione del Mar Salato.",
+      "referencias": [
+        "Gen 19:15-26"
+      ],
+      "ruta": [
+        "mamre",
+        "zoar"
+      ]
+    },
+    {
+      "id": "abraham_mar_salado",
+      "nombre": "Abramo",
+      "rol": "Patriarca, testimone della distruzione",
+      "periodo": "bronce_medio",
+      "descripcion": "Contempla da lontano, la mattina dopo, il fumo che si alza dalla regione delle città della pianura «come il fumo di una fornace», confermando visivamente l'entità della distruzione annunciata il giorno prima a Mamre.",
+      "referencias": [
+        "Gen 19:27-28"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    },
+    {
+      "id": "ezequiel_mar_salado",
+      "nombre": "Ezechiele",
+      "rol": "Profeta dell'esilio, visionario del Tempio restaurato",
+      "periodo": "hierro_2",
+      "descripcion": "Ricevi la visione escatologica di un fiume che risana le acque del Mar Salato, trasformando il simbolo biblico del giudizio e della sterilità in un segno di futura restaurazione e di vita abbondante.",
+      "referencias": [
+        "Ez 47:1-12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Mar Salato è, nell’immaginario biblico, il più potente simbolo geografico del giudizio divino sul male umano: la sua stessa natura fisica – acqua che non sostiene la vita, alta concentrazione di sale, assenza di sbocco naturale – è interpretata retrospettivamente come una traccia permanente del castigo su Sodoma e Gomorra. La visione successiva di Ezechiele di un fiume che guarisce le sue acque ribalta completamente questo simbolismo, trasformando il luogo del giudizio finale nella scena stessa della restaurazione escatologica più radicale immaginata dai profeti.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Prima religione cananea-transgiordana (città della pianura)"
+    ],
+    "mitos": [
+      {
+        "id": "destruccion-sodoma-mito",
+        "nombre": "La distruzione di Sodoma e Gomorra",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:16-33; Gén 19:1-29",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 49-51 (sobre la intercesión de Abraham y los pecados específicos de Sodoma)",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente sia l’intercessione di Abramo per la città sia lo specifico catalogo dei peccati di Sodoma – identificati principalmente con la crudeltà istituzionalizzata verso lo straniero e il povero, al di là della lettura successiva incentrata sul peccato sessuale – trasformando l’episodio in un paradigma della giustizia divina che non distrugge senza prima considerare la possibilità di salvezza per i giusti presenti.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento dell'episodio come esempio paradigmatico del giudizio divino sul male collettivo.",
+          "diferencias": null,
+          "significado_teologico": "La distruzione di Sodoma stabilisce il principio che il giudizio divino, pur severo, considera sempre la possibilità della misericordia a favore dei giusti, e che la statua di sale della moglie di Lot simboleggia il pericolo del desiderio di ciò che deve essere definitivamente abbandonato.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo di Abramo e Lot come storia fondativa comune alle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 19:1-29 (recepción neotestamentaria, Lc 17:28-32; 2 Pe 2:6-9; Jud 1:7)",
+          "fuente_secundaria": "Comentarios patrísticos que usan a Sodoma como paradigma escatológico del juicio final",
+          "descripcion": "Il Nuovo Testamento cita ripetutamente la distruzione di Sodoma come modello di riferimento per il giudizio escatologico finale, e lo stesso Gesù invoca esplicitamente la moglie di Lot come monito sul pericolo di aggrapparsi alla vita precedente al momento del giudizio.",
+          "similitudes": "Condivide con la lettura ebraica l'uso dell'episodio come paradigma del giudizio divino sul male collettivo.",
+          "diferencias": "La lettura cristiana neotestamentaria proietta l'episodio verso una dimensione escatologica esplicita, utilizzandolo come tipo dell'imminente giudizio finale, dimensione meno sviluppata nella lettura rabbinica focalizzata più sull'episodio storico stesso.",
+          "significado_teologico": "Sodoma diventa una figura ricorrente nel Nuovo Testamento per illustrare la certezza e l'imminenza del giudizio finale, e il ricordo della moglie di Lot come monito contro la mancanza di decisione totale nel momento della salvezza.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo di Abramo e Lot come storia comune della fondazione dell'ebraismo e del cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 11:77-83; 15:57-77; 29:28-35 (relato del pueblo de Lut)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la destrucción del pueblo de Lut",
+          "descripcion": "Il Corano racconta ampiamente la storia del popolo di Lut (Lot), inviato come profeta presso una comunità che pratica atti di grande immoralità; Dopo che il loro avvertimento è stato respinto, gli angeli distruggono la città capovolgendola e facendo piovere pietre d'argilla, mentre Lut e la sua famiglia, tranne sua moglie, che rimane e muore con gli altri, vengono salvati.",
+          "similitudes": "Condivide la struttura essenziale della storia: l'avvertimento profetico respinto, la salvezza della famiglia del profeta tranne la moglie e la distruzione da parte di un violento fenomeno celeste.",
+          "diferencias": "Il racconto coranico sottolinea la funzione profetica di Lut (inviata esplicitamente per avvertire il popolo) più che l'episodio di intercessione di Abramo presente nel racconto biblico, e la moglie perisce insieme alla città piuttosto che diventare una statua di sale.",
+          "significado_teologico": "La storia conferma nell’Islam il modello ricorrente di persone che rifiutano i loro profeti e vengono distrutte come conseguenza diretta del loro rifiuto, fungendo da avvertimento universale applicabile a qualsiasi comunità.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo Lot/Lut come storia profetica fondamentale comune alle tre religioni abramitiche."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1"
+  ]
+}

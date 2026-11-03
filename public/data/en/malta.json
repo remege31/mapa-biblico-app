@@ -1,0 +1,148 @@
+{
+  "id": "malta",
+  "nombre": "Malta",
+  "tipo": "territorio",
+  "lat": 35.9375,
+  "lng": 14.3754,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Mediterranean island south of Sicily, in the strait between the western and eastern Mediterranean.",
+  "altitud_m": 90,
+  "clima": "insular mediterranean",
+  "recursos": [
+    "port",
+    "Honey",
+    "fishing",
+    "salt"
+  ],
+  "importancia_estrategica": "Strategic island on the sea route between Rome and the East.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mal_h1",
+        "titulo": "Paul shipwreck",
+        "fecha": "ca. 60 AD",
+        "descripcion": "The ship carrying Paul to Rome is wrecked in Malta; everyone survives.",
+        "referencias": [
+          "Acts 27:41-44"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mal_h2",
+        "titulo": "Paul and the fire viper",
+        "fecha": "ca. 60 AD",
+        "descripcion": "A viper bites Paul on the hand; The Maltese wait for him to die, but nothing happens to him.",
+        "referencias": [
+          "Acts 28:1-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mal_h3",
+        "titulo": "Healing of the father of Publius",
+        "fecha": "ca. 60 AD",
+        "descripcion": "Paul heals the father of Chief Publius through prayer and laying on of hands.",
+        "referencias": [
+          "Acts 28:7-9"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Publio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mal_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Prisoner and miracle worker",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "Shipwrecked in Malta; His three-month stay resulted in healings and testimony.",
+        "referencias": [
+          "Acts 28:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mal_p2",
+        "nombre": "Publius",
+        "rol": "Malta Head Chief",
+        "periodo": "s. I AD",
+        "descripcion": "He received the shipwrecked; Paul healed his father.",
+        "referencias": [
+          "Acts 28:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mal_p3",
+        "nombre": "Julius the centurion",
+        "rol": "Paul Guardian",
+        "periodo": "s. I AD",
+        "descripcion": "Centurion in charge of transferring Paul to Rome; He treated it with consideration.",
+        "referencias": [
+          "Acts 27:1",
+          "Acts 28:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Island with a mixture of Phoenician and Roman culture; the Paul episode there inaugurated the Maltese Christian tradition.",
+      "religiones_presentes": [
+        "Roman_Phoenician_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "mal_m1",
+          "nombre": "Paul and the viper",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The Maltese interpret Paul's immunity to viper bite as a divine sign; The episode prefigures apostolic power over evil.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Maltese interpret Paul's immunity to viper bite as a divine sign; The episode prefigures apostolic power over evil.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

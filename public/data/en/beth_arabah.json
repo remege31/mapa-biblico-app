@@ -1,0 +1,133 @@
+{
+  "id": "beth_arabah",
+  "nombre": "Beth-Arab",
+  "tipo": "ciudad",
+  "lat": 31.84,
+  "lng": 35.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Town on the border between Judah and Benjamin on the northern edge of the Dead Sea.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Border point between the tribes of Judah and Benjamin.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bar_h1",
+      "titulo": "Beth-Arab on the tribal boundary",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Beth-Arabá was a city on the border of Judah that reached north of the Dead Sea.",
+      "referencias": [
+        "Josh 15:6",
+        "Josh 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "bar_h2",
+      "titulo": "The 'Arabatite': David warriors of Bet-Arabá",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "Abi-albon the Arabatite and Azmaveth the Baharumite were among the heroes of David, from Beth-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "bar_h3",
+      "titulo": "Beth-Arabá in the division of Benjamin",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "The city was assigned to the tribe of Benjamin because of its location on the northern boundary.",
+      "referencias": [
+        "Josh 18:22"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bar_p1",
+      "nombre": "Joshua",
+      "rol": "Conqueror",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He assigned Beth-Arabá as the border point between Judah and Benjamin.",
+      "referencias": [
+        "Josh 15:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p2",
+      "nombre": "Abi-albon the Arabatite",
+      "rol": "David Hero",
+      "periodo": "ca. 1000 BC",
+      "descripcion": "David warrior from Beth-Arabá.",
+      "referencias": [
+        "2 Sam 23:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bar_p3",
+      "nombre": "tribe of Benjamin",
+      "rol": "Israelite tribe",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He received Beth-Arabá as part of his territorial inheritance.",
+      "referencias": [
+        "Josh 18:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-Arabá: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "bar_m1",
+        "nombre": "The tribal boundary",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Beth-Arabá marks the boundary between Judah and Benjamin next to the Dead Sea; Border towns define tribal identity in the AT.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Beth-Arabá marks the boundary between Judah and Benjamin next to the Dead Sea; Border towns define tribal identity in the AT.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "on",
+  "nombre": "Su (Eliopoli)",
+  "tipo": "ciudad",
+  "lat": 30.108086,
+  "lng": 31.33822,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo — Città del suocero di Giuseppe"
+    }
+  ],
+  "descripcion_geo": "Antica città egiziana, conosciuta dai greci come Heliopolis (“città del sole”), principale centro religioso del culto solare egiziano dedicato a Ra, situata nei pressi del delta del Nilo, famosa per il suo tempio e la sua classe sacerdotale di elevato status sociale.",
+  "altitud_m": 30,
+  "clima": "Deserto subtropicale: estremamente caldo e secco tutto l'anno, tipico del delta del Nilo nella regione Egitto.",
+  "recursos": [
+    "Centro principale del culto solare egiziano di Ra",
+    "Tempio di grande prestigio religioso",
+    "Classe sacerdotale di elevato status sociale presso la corte egiziana"
+  ],
+  "importancia_estrategica": "On è rilevante nella storia biblica esclusivamente perché è la città d'origine di Potifera, un sacerdote il cui matrimonio di sua figlia con Giuseppe collega la famiglia patriarca con la più prestigiosa élite religiosa egiziana, integrando Giuseppe - e attraverso di lui, la futura tribù di Efraim e Manasse - nella più alta struttura sociale del faraonico Egitto.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes_on",
+      "nombre": "Classe sacerdotale di Ra",
+      "descripcion": "Élite religiosa di On dedita al culto del dio sole Ra, di cui Potifera, suocero di Giuseppe, faceva parte come sacerdote principale.",
+      "religion": "Politeismo egiziano: culto di Ra",
+      "periodo": "C. 1880–1700 a.C. (cronologia tradizionale)"
+    },
+    {
+      "id": "familia_potifera_on",
+      "nombre": "La famiglia di Potifera",
+      "descripcion": "Nucleo familiare del sacerdote di On la cui figlia Asenath diventa moglie di Giuseppe, madre di Manasse ed Efraim.",
+      "religion": "Politeismo egiziano",
+      "periodo": "C. 1880 a.C. (cronologia tradizionale)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jose-desposa-asenat-on",
+      "titulo": "Il faraone dà Giuseppe ad Asenath di On come sua moglie",
+      "fecha": "c. 1885 a.C. (cronología tradicional)",
+      "descripcion": "Dopo aver interpretato con successo i sogni del Faraone ed essere stato elevato a secondo sovrano di Egitto, Giuseppe riceve come moglie Asenath, figlia di Potifera, sacerdote di On, un matrimonio che integra formalmente Giuseppe nell'élite sociale e religiosa egiziana.",
+      "referencias": [
+        "Gen 41:45"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "nacimiento-manases-efrain-on",
+      "titulo": "Nascono Manasse ed Efraim, figli di Giuseppe e Asenath",
+      "fecha": "c. 1884–1880 a.C. (cronología tradicional)",
+      "descripcion": "Prima che arrivassero gli anni della carestia, Asenath dà alla luce Manasse ed Efraim, i cui nomi Giuseppe sceglie in ebraico per commemorare la sua dimenticanza delle fatiche passate e la sua fecondità nella terra della sua afflizione, figli che in seguito diventeranno capi di due tribù di Israele.",
+      "referencias": [
+        "Gen 41:50-52"
+      ],
+      "personajes_clave": [
+        "jose"
+      ]
+    },
+    {
+      "id": "ezequiel-mencion-on",
+      "titulo": "Ezechiele menziona il giudizio su On nel suo oracolo contro Egitto",
+      "fecha": "c. 587 a.C.",
+      "descripcion": "Il profeta Ezechiele annovera On tra le città egiziane che subiranno il giudizio divino nel suo ampio oracolo contro Egitto, annunciando la distruzione degli idoli e la cessazione delle immagini in questo antico centro di culto solare.",
+      "referencias": [
+        "Ez 30:17"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jose_on",
+      "nombre": "Josè",
+      "rol": "Governatore di Egitto, figlio di Giacobbe",
+      "periodo": "bronce_medio",
+      "descripcion": "Si unì all'élite religiosa egiziana attraverso il suo matrimonio con Asenath di On, un legame che diede origine alle tribù di Efraim e Manasse.",
+      "referencias": [
+        "Gen 41:45-52"
+      ],
+      "ruta": [
+        "egipto",
+        "on"
+      ]
+    },
+    {
+      "id": "potifera_on",
+      "nombre": "Potifera",
+      "rol": "Sacerdote di On, suocero di Giuseppe",
+      "periodo": "c. 1885 a.C. (cronología tradicional)",
+      "descripcion": "Capo sacerdote del culto solare di On, la cui figlia Asenath diventa moglie di Giuseppe per nomina diretta del faraone.",
+      "referencias": [
+        "Gen 41:45",
+        "Gen 41:50"
+      ],
+      "ruta": [
+        "on"
+      ]
+    },
+    {
+      "id": "asenat_on",
+      "nombre": "Asenath",
+      "rol": "Moglie egiziana di Giuseppe, madre di Efraim e Manasse",
+      "periodo": "c. 1885–1880 a.C. (cronología tradicional)",
+      "descripcion": "Figlia del sacerdote Potifera di On, diventa moglie di Giuseppe e madre degli omonimi antenati di due importanti tribù di Israele.",
+      "referencias": [
+        "Gen 41:45",
+        "Gen 41:50-52"
+      ],
+      "ruta": [
+        "on"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "On, in quanto centro principale del culto solare egiziano di Ra, rappresenta la paradossale integrazione della linea patriarcale israelita con la più alta élite religiosa pagana di Egitto: il matrimonio di Giuseppe con la figlia di un sacerdote di Ra dà origine direttamente a due delle dodici tribù di Israele, illustrando come il disegno provvidenziale divino possa operare anche attraverso alleanze con istituzioni religiose esterne all'alleanza, senza compromettere l'identità yahvista ultima del risultante prole.",
+    "religiones_presentes": [
+      "Politeismo egiziano: culto solare di Ra",
+      "Yahvismo (prospettiva di Giuseppe e dei suoi discendenti)"
+    ],
+    "mitos": [
+      {
+        "id": "integracion-jose-elite-egipcia-on",
+        "nombre": "L'integrazione di Giuseppe nell'élite religiosa egiziana dell'On",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 41:45-52",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la providencia divina manifestada en el matrimonio de José con Asenat, incluyendo tradiciones midráshicas posteriores que elaboran sobre la conversión espiritual de Asenat",
+          "descripcion": "La tradizione ebraica sviluppa ampiamente il matrimonio di Giuseppe con Asenath di On, con successive tradizioni midrashiche (incluso il testo extrabiblico \"Giuseppe e Asenath\") che elaborano narrazioni su una trasformazione spirituale di Asenath verso il monoteismo, ammorbidendo la tensione teologica implicita nell'unione di un patriarca ebreo con la figlia di un sacerdote pagano di alto rango.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'integrazione di Giuseppe nell'élite religiosa egiziana, nonostante la sua origine pagana, non compromette la sua fedeltà jahvista né quella dei suoi discendenti, dimostrando che la divina provvidenza può operare attraverso circostanze e alleanze esterne all'alleanza esplicita.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "greece",
+  "nombre": "Greece (Helade)",
+  "tipo": "territorio",
+  "lat": 39.07,
+  "lng": 21.82,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Motherland of Western Civilization; Their culture and language (koine) formed the world of the New Testament.",
+  "altitud_m": 200,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "philosophy",
+    "art",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Cradle of philosophical thought, the alphabet and the language in which the NT was written.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gre_h1",
+      "titulo": "Alexander spreads Hellenism",
+      "fecha": "336-323 BC",
+      "descripcion": "Alexander the Great conquers the known world by spreading the Greek language and culture; Koine Greek becomes the lingua franca of the Mediterranean.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Alejandro Magno"
+      ]
+    },
+    {
+      "id": "gre_h2",
+      "titulo": "Paul visits Greece",
+      "fecha": "ca. 51-52 AD",
+      "descripcion": "On his second missionary journey, Paul visits Athens and Corinth, the two great cities of Roman Greece.",
+      "referencias": [
+        "Acts 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "gre_h3",
+      "titulo": "Greece collection for Jerusalem",
+      "fecha": "ca. 57 AD",
+      "descripcion": "Paul coordinates a collection in the churches of Greece (Macedonia and Achaia) for the poor of the Jerusalem church.",
+      "referencias": [
+        "Rom 15:26"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gre_p1",
+      "nombre": "Alexander the Great",
+      "rol": "King of Macedonia and conqueror",
+      "periodo": "356-323 BC",
+      "descripcion": "His conquest Hellenized the world; the NT was written in Greek thanks to his legacy.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p2",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "He preached the gospel in the heart of Greek culture.",
+      "referencias": [
+        "Acts 17:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gre_p3",
+      "nombre": "Luke",
+      "rol": "Evangelist",
+      "periodo": "s. I AD",
+      "descripcion": "Possibly Greek in origin; wrote the gospel and Acts in literary Greek.",
+      "referencias": [
+        "Luke 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Without Greece there would be no NT: the Greek koine was the vehicle of revelation; Greek philosophy the interlocutor of the gospel.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "olympic_cult",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "gre_m1",
+        "nombre": "The Septuagint: the Torah in Greek",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The translation of the Torah into Greek (Septuagint, 3rd century BC) was the first bridge between the Hebrew and Hellenistic worlds.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The translation of the Torah into Greek (Septuagint, 3rd century BC) was the first bridge between the Hebrew and Hellenistic worlds.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Jn 1:1",
+          "fuente_secundaria": "",
+          "descripcion": "The NT was written entirely in Greek; The Johannine logos dialogues with Greek philosophy (Jn 1:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The NT was written entirely in Greek; The Johannine logos dialogues with Greek philosophy (Jn 1:1).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gre_nt_h1",
+        "titulo": "The Gospel reaches Greece",
+        "fecha": "ca. 50 AD",
+        "descripcion": "The Macedonian's vision redirects Paul's mission towards Greece; the gospel makes the leap to the heart of Western culture.",
+        "referencias": [
+          "Acts 16:9-10"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h2",
+        "titulo": "Paul in Athens: the Areopagus speech",
+        "fecha": "ca. 51 AD",
+        "descripcion": "Paul confronts Greek idolatry with monotheism; He quotes Greek poets to announce the resurrection.",
+        "referencias": [
+          "Acts 17:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "gre_nt_h3",
+        "titulo": "The Pauline Epistles in Koine",
+        "fecha": "ca. 50-67 AD",
+        "descripcion": "Paul writes in Koine Greek for churches throughout the Empire; Greek is the universal language of the gospel.",
+        "referencias": [
+          "Rom 1:1",
+          "1 Cor 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gre_nt_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He preached the gospel in Greece; His letters in Greek are the basis of Christian theology.",
+        "referencias": [
+          "Acts 17:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p2",
+        "nombre": "Alexander the Great",
+        "rol": "Path preparer",
+        "periodo": "356-323 BC",
+        "descripcion": "Without its Hellenization of the world, the NT would have had no universal language or cultural infrastructure.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gre_nt_p3",
+        "nombre": "Apollo",
+        "rol": "Alexandrian preacher",
+        "periodo": "s. I AD",
+        "descripcion": "Alexandrian Jew, eloquent in the Greek Scriptures; He preached in Achaia.",
+        "referencias": [
+          "Acts 18:24"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Greece is the cultural mold of the NT: its language, its philosophy, and its sea routes allowed the spread of the gospel.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "gre_nt_m1",
+          "nombre": "Logos and Greek philosophy",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "John 1:1 uses the Greek philosophical concept of 'logos' to announce the incarnate Christ: the gospel speaks in the language of Greek culture.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "John 1:1 uses the Greek philosophical concept of 'logos' to announce the incarnate Christ: the gospel speaks in the language of Greek culture.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

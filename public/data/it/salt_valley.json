@@ -1,0 +1,138 @@
+{
+  "id": "salt_valley",
+  "nombre": "Valle del Sale",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.09,
+  "lng": 35.38,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Valle arida a sud del Mar Morto, teatro delle vittorie israelite sugli edomiti.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Campo di battaglia tra Israele e Edom.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sal_h1",
+      "titulo": "Davide sconfigge Edom nella Valle del Sale",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Davide sconfigge diciottomila edomiti nella Valle del Sale; mette decorazioni su tutto Edom.",
+      "referencias": [
+        "2 Sam 8:13",
+        "1 Cr 18:12"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab",
+        "Abisal"
+      ]
+    },
+    {
+      "id": "sal_h2",
+      "titulo": "Amatsia sconfigge diecimila edomiti nella valle del sale",
+      "fecha": "ca. 800 a.C.",
+      "descripcion": "Il re Amatsia di Giuda uccise diecimila edomiti nella valle del sale e prese Sela.",
+      "referencias": [
+        "2 Re 14:7",
+        "2 Cr 25:11"
+      ],
+      "personajes_clave": [
+        "Amasías"
+      ]
+    },
+    {
+      "id": "sal_h3",
+      "titulo": "Salmo 60: occasione della battaglia nella valle",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Il Salmo 60 è stato scritto secondo il titolo 'quando combatté contro Aram-Naharaim... e Joab uccise dodicimila Edom nella valle del Sale'.",
+      "referencias": [
+        "Sal 60:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sal_p1",
+      "nombre": "Davide",
+      "rol": "Re di Israele",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Ha vinto la prima grande vittoria su Edom nella Valle del Sale.",
+      "referencias": [
+        "2 Sam 8:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p2",
+      "nombre": "Amazia",
+      "rol": "Re di Giuda",
+      "periodo": "ca. 796-767 a.C.",
+      "descripcion": "Ha sconfitto Edom nella Valle del Sale e ha preso Shela (Petra).",
+      "referencias": [
+        "2 Re 14:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p3",
+      "nombre": "Ioab",
+      "rol": "Davide Generale",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Comandò la vittoria degli Israeliti nella Valle del Sale.",
+      "referencias": [
+        "1 Cr 18:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle del Sale: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sal_m1",
+        "nombre": "La valle della vittoria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La Valle del Sale è stata teatro delle vittorie di Israele su Edom; Il luogo arido tra i due regni fratelli è testimone del loro eterno conflitto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Valle del Sale è stata teatro delle vittorie di Israele su Edom; Il luogo arido tra i due regni fratelli è testimone del loro eterno conflitto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

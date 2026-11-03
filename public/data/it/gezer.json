@@ -1,0 +1,179 @@
+{
+  "id": "gezer",
+  "nombre": "Ghezer",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8761,
+  "lng": 34.9225,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città cananea sulla strada costiera"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I: zona contesa tra Israele e Filistea"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Ferro II - Città israelita, dote della figlia del faraone"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Ghezer (ebraico: גֶּזֶר) era un'importante città cananea nell'estremo nord della Sefela (pianure di Giuda), alla confluenza tra la pianura costiera e le colline di Giuda, a circa 30 km a nord-ovest di Gerusalemme. Controllava la strada principale tra la pianura filistea e Gerusalemme attraverso la valle di Ajalon. Tel Gezer è uno dei siti archeologici più importanti di Israele: gli scavi hanno rivelato mura cicliche del Bronzo Tardo, un viale di massicce stele del Bronzo Medio, e la famosa \"Torre dell'Acqua\" e la porta in Ferro II a sei camere attribuita a Salomone. Il Calendario di Gezer (X secolo a.C.), una tavoletta calcarea con il ciclo agricolo annuale, è uno dei testi ebraici più antichi conosciuti.",
+  "altitud_m": 210,
+  "clima": "Mediterraneo di transizione: precipitazioni di 500-550 mm all'anno, estati secche e calde moderate da brezze occidentali, inverni miti e piovosi. Terreni fertili terra rossa per agricoltura intensiva.",
+  "recursos": [
+    "Controllo del percorso costiero Gerusalemme attraverso la valle di Ajalón",
+    "Agricoltura intensiva: grano, orzo, ulivi, vigneti",
+    "Artigianato (ceramica, metallurgia)",
+    "Acqua sorgiva locale e cisterne",
+    "Legno proveniente dalle foreste di Sefela"
+  ],
+  "importancia_estrategica": "Ghezer era la chiave del corridoio tra la pianura costiera e Gerusalemme. Chi controllava Ghezer controllava l'accesso più diretto alla capitale da ovest. Il suo dono in dote quando Salomone sposò la figlia del faraone dimostra che Egitto riconobbe il suo eccezionale valore strategico: fu l'unica volta in cui un faraone donò una città cananea a Israele.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-gezer",
+      "nombre": "Cananei di Ghezer",
+      "descripcion": "Ghezer aveva una delle popolazioni cananee più resistenti in Canaan. Giosuè sconfisse il loro re in battaglia ma non conquistò la città (Gs 12:12). Gli Cananei di Ghezer continuarono ad abitarlo come affluenti di Efraim (Gsè 16:10; Giudici 1:29) per tutto il tempo dei giudici e di parte della monarchia. Solo quando il faraone egiziano la conquistò, la bruciò e ne uccise la popolazione cananea, poté darla in dote a sua figlia moglie di Salomone, documento della tenacia cananea in questa enclave.",
+      "religion": "Politeismo Cananeo: entrambe le masse (stele di pietra) rinvenute a Ghezer testimoniano un culto duraturo ad alta quota; Baal, Asera ed El sono le divinità principali",
+      "periodo": "Tardo Bronzo al c. 970 a.C. (distruzione egiziana)"
+    },
+    {
+      "id": "egipcios-gezer",
+      "nombre": "Guarnigione tardo egiziana",
+      "descripcion": "Un faraone del periodo Salomone (forse Siamon della 21a dinastia) attaccò Ghezer, lo bruciò e uccise i suoi abitanti Cananei prima di darlo in dote. Questa azione egiziana, unica negli annali biblici, suggerisce che Ghezer fosse servito da punto di attrito tra Egitto e Israele e che l'alleanza matrimoniale con Salomone richiedesse questa previa \"pulizia\" del territorio.",
+      "religion": "Politeismo egiziano: adorazione di Ammon e Ra nel contesto di una campagna militare",
+      "periodo": "C. 970 a.C., campagna specifica del faraone alleato di Salomone"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-gezer",
+      "titulo": "Giosuè sconfigge il re di Ghezer ma non prende la città",
+      "fecha": "c. 1220 a.C.",
+      "descripcion": "Nella campagna meridionale di Canaan, Horam, re di Ghezer, venne in aiuto di Lachis quando Giosuè lo attaccò. Giosuè lo sconfisse completamente, uccidendo il re e il suo intero esercito senza lasciare alcun sopravvissuto. Tuttavia, Giosuè non ha preso la città di Ghezer in sé, ma ha solo eliminato l'esercito che era uscito in campo aperto. Ghezer era sulla lista dei re sconfitti (Giosuè 12:12), ma il Cananei continuò ad abitarlo. La tribù di Efraim, alla quale la città corrispondeva nella divisione, non poté espellerli e li ridusse ai lavori forzati. Questo schema – vittoria in campo aperto senza conquistare la città – era caratteristico della conquista israelita nella Sefela, un’area dove le città murate resistevano più che sulle colline.",
+      "referencias": [
+        "Gs 10:33",
+        "Gs 12:12",
+        "Gs 16:10"
+      ],
+      "personajes_clave": [
+        "josue-gezer",
+        "horam"
+      ]
+    },
+    {
+      "id": "dote-faraon-salomon",
+      "titulo": "Dote del faraone: Ghezer come regalo di nozze a Salomone",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Il re Salomone sposò la figlia del faraone di Egitto: un'alleanza politica senza precedenti che ha invertito la relazione storica tra Israele e Egitto. Il faraone aveva attaccato Ghezer, l'aveva bruciata e ucciso i suoi abitanti Cananei, e l'aveva data in dote quando sua figlia sposò Salomone. Salomone ha ricostruito Ghezer insieme a Cazor e Meghiddo, le tre città che il testo biblico menziona esplicitamente come opere del suo programma di costruzione con lavori forzati. Gli scavi archeologici hanno confermato una porta a sei camere identica nel design in tutti e tre i siti, prova del programma architettonico unificato del regno salomonico. Ghezer divenne così una città tributaria cananea in una città israelita di prima classe.",
+      "referencias": [
+        "1 Re 9:15-17",
+        "1 Re 3:1",
+        "1 Re 9:24"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "hija-faraon"
+      ]
+    },
+    {
+      "id": "batalla-gezer-filisteos",
+      "titulo": "Le battaglie di Gezer contro Filistei ai tempi di Davide",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Il libro di Samuele menziona due battaglie nella zona di Ghezer (chiamato anche Gob) tra Israele e Filistei durante il regno di Davide. In questi scontri caddero diversi guerrieri Filistei di statura gigantesca, discendenti dei Refaiti. Sibecai di Hushath uccise Saf; Elhanan uccise Lahmi, il fratello di Goliath; Jonathan ha ucciso un gigante con sei dita su ciascuna mano e piede. Il testo preserva così una tradizione di eroici combattimenti individuali nel contesto delle guerre di consolidamento del regno davidico, con Ghezer come zona di attrito tra il controllo israelita sugli altipiani e la presenza filistea sulla pianura.",
+      "referencias": [
+        "2 Sam 21:18-22",
+        "1 Cr 20:4-8"
+      ],
+      "personajes_clave": [
+        "sibecai",
+        "david-gezer"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon",
+      "nombre": "Salomone",
+      "rol": "Re di Israele al suo apice, costruttore del tempio e delle città reali",
+      "periodo": "hierro_2",
+      "descripcion": "Salomone ben Davide è il re di Israele famoso soprattutto per la sua saggezza, le sue opere architettoniche e la sua caduta definitiva nel sincretismo. Il suo programma di costruzione – tempio di Gerusalemme, palazzo reale, città di Cazor, Meghiddo e Ghezer – ha trasformato Israele in uno stato territoriale organizzato. L'alleanza con Egitto attraverso il matrimonio con la figlia del faraone, che aveva come oggetto della dote Ghezer, segnò il culmine della proiezione diplomatica israeliana sulla scena internazionale. Le sue seicento mogli e trecento concubine di origine straniera introdussero culti stranieri che il testo biblico ritiene responsabili dello scisma del regno dopo la sua morte.",
+      "referencias": [
+        "1 Re 3:1-15",
+        "1 Re 9:15-19",
+        "1 Re 11:1-13"
+      ],
+      "ruta": [
+        "jerusalen",
+        "gezer"
+      ]
+    },
+    {
+      "id": "horam",
+      "nombre": "Oramo di Ghezer",
+      "rol": "Re Cananeo di Ghezer, sconfitto da Giosuè nella campagna meridionale",
+      "periodo": "c. 1220 a.C.",
+      "descripcion": "Horam è il re di Ghezer che venne in aiuto di Lachis quando Giosuè lo stava assediando. Il suo intervento militare, lungi dal salvare Lachis, ha portato alla totale sconfitta del suo stesso esercito. Il testo biblico lo menziona brevemente (Gs 10:33), uno dei trentuno re Cananei sconfitti da Giosuè elencati in Jos 12. Il suo fallimento è significativo: Ghezer era una delle città più fortificate di Canaan, eppure il suo re non poteva salvare un alleato o proteggere il proprio esercito in campo aperto.",
+      "referencias": [
+        "Gs 10:33",
+        "Gs 12:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sibecai",
+      "nombre": "Sibecai l'Usatita",
+      "rol": "Guerriero di Davide, conquistatore del gigante filisteo Saf a Ghezer",
+      "periodo": "c. 1000 a.C.",
+      "descripcion": "Sibecai l'hushatita era uno dei guerrieri della cerchia di Davide, comandante dell'ottavo turno mensile dell'esercito (1 Cr 27,11). La sua vittoria su Saf, discendente dei Refaim, nella battaglia di Ghezer (chiamato Gob in 2 Sam 21:18) fu così significativa che i suoi compagni proibirono a Davide di andare in battaglia di persona: \"Non uscirai più con noi in guerra per non spegnere la lampada di Israele\". Sibecai rappresenta il combattente professionista della guardia davidica che protesse il re anche a costo della propria gloria.",
+      "referencias": [
+        "2 Sam 21:18",
+        "1 Cr 20:4",
+        "1 Cr 27:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ghezer è archeologicamente il sito in cui è meglio documentata la religione cananea in transizione allo Yahwismo israelita. Le masseentrambe (stele di pietra) del Bronzo medio, il Calendario di Ghezer con il suo ciclo agricolo, e la ricostruzione salomonica che sovrappose una città israelita alle rovine cananee incendiate dal faraone: tutto a Ghezer parla di incontro e sostituzione tra culture religiose. La città che il faraone purificò da Cananei per donarla a Israele è metafora del processo di 'Canaanizzazione dello Yahwismo' che i profeti denunceranno nei secoli successivi.",
+    "religiones_presentes": [
+      "Politeismo Cananeo: massa e culto in altezza documentati archeologicamente",
+      "Politeismo egiziano - presenza durante il Nuovo Regno e la campagna del faraone alleato di Salomone",
+      "Salomonico Yahvismo — Ricostruzione israelita della città dopo la dote del faraone"
+    ],
+    "mitos": [
+      {
+        "id": "alianza-salomon-egipto",
+        "nombre": "L'alleanza con Egitto: saggezza politica o trappola teologica",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 3:1; 1 Re 11:1-8; Dt 17:16-17",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 21b; Midrash Rabbah, Éxodo 6:1",
+          "descripcion": "Il Talmud (Sanhedrin 21b) riporta che quando Salomone prese la figlia del Faraone, l'angelo Gabriele piantò una canna nel mare che accumulò fango finché non divenne Roma - un'interpretazione aggadica secondo cui l'alleanza con Egitto seminò il seme del dominio Gentile su Israele. Deuteronomio 17:16-17 proibiva esplicitamente al re tre cose: moltiplicare i cavalli (importati da Egitto), moltiplicare le donne e accumulare argento e oro: Salomone le violava tutte e tre. Il Midrash interpreta che quando Salomone prese la figlia del faraone, Dio disse: \"Ora farò la scopa che spazza la tua casa\" - un riferimento all'esilio.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La saggezza politica di Salomone (alleanze matrimoniali) contraddiceva la legge di Mosè. L'apparente successo dell'alleanza con Egitto conteneva in sé il germe della caduta del Regno Unito.",
+          "posible_relacion_cultural": "Le alleanze matrimoniali tra i re dell'antico Vicino Oriente erano una pratica diplomatica standard documentata nelle lettere di Amarna e negli archivi Mari. L'eccezionalismo biblico è l'esplicita proibizione legale di questa pratica per il re israelita."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "antioch_pisidia",
+  "nombre": "Antiochia della Pisidia",
+  "tipo": "ciudad",
+  "lat": 38.3062,
+  "lng": 31.1892,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Colonia romana sull'altopiano dell'Asia Minore, al confine tra Frigia e Pisidia, sulla Via Sebaste.",
+  "altitud_m": 1200,
+  "clima": "continentale secco",
+  "recursos": [
+    "rotte commerciali",
+    "colonia militare"
+  ],
+  "importancia_estrategica": "Centro romano dell'Anatolia interna; primo grande pulpito di Paolo.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "anp_h1",
+        "titulo": "Il sermone nella sinagoga",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Paolo tiene il suo primo discorso importante mai registrato: la storia di Israele culmina nella resurrezione di Gesù. Molti credono; Gli oppositori espellono i missionari.",
+        "referencias": [
+          "At 13:14-52"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "anp_h2",
+        "titulo": "Ritorno per rafforzarsi",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "Nonostante la persecuzione subita, Paolo e Barnaba riconfermano i discepoli e nominano gli anziani.",
+        "referencias": [
+          "At 14:21-23",
+          "2 Tm 3:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

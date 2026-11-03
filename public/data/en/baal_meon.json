@@ -1,0 +1,145 @@
+{
+  "id": "baal_meon",
+  "nombre": "Baal-piss",
+  "tipo": "ciudad",
+  "lat": 31.679454,
+  "lng": 35.734892,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City rebuilt by Rubén, recovered by Moab"
+    }
+  ],
+  "descripcion_geo": "City on the plateau of Moab, whose compound name ('Baal of the abode') preserves the trace of the original Canaanite-Moabite cult of the god Baal. Rebuilt by the tribe of Reuben after the conquest of the Amorite territory, it was later recovered by Moab.",
+  "altitud_m": 770,
+  "clima": "Semi-arid highland — dry and hot summers, cold winters, typical of the Moabite plateau.",
+  "recursos": [
+    "Agricultural land of the Moabite plateau",
+    "Disputed position between Rubén and Moab"
+  ],
+  "importancia_estrategica": "Baal-meon exemplifies the pattern of unstable territorial possession characteristic of Transjordan: rebuilt and renamed by the Reubenites after the conquest, it ended up being recovered by Moab, a phenomenon confirmed both by the biblical prophecies of judgment and by the extrabiblical inscription on the Mesha Stele, which documents the Moabite reconstruction of the city.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_baal_meon",
+      "nombre": "Amorites (kingdom of Sihon)",
+      "descripcion": "Original population under the rule of Sihon before the Israelite conquest of the territory.",
+      "religion": "Amorite polytheism-Canaanite — worship of Baal",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "moabitas_baal_meon",
+      "nombre": "Moabites",
+      "descripcion": "Population that recovered and rebuilt Baal-meón in later periods, documented in the Mesa Stela as one of the cities rebuilt by the Moabite king.",
+      "religion": "Moabite polytheism — cult of Chemosh and Baal",
+      "periodo": "Since c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "baal-meon-reconstruida-ruben",
+      "titulo": "Rubén rebuilds and renames Baal-meón",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the conquest of the territory of Sihon, the Reubenites rebuilt Baal-meon along with other cities in the region, changing some names, as part of the process of settlement of the tribe in Transjordan.",
+      "referencias": [
+        "Num 32:38",
+        "Josh 13:17"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ezequiel-oraculo-baal-meon",
+      "titulo": "Ezekiel prophesies judgment on Baal-meon",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel includes Baal-meon among the cities of glory of Moab that will be given as an inheritance to the children of the east, forming part of the extensive oracle of judgment against the Moabite kingdom for its arrogance in the face of the singularity of Judah.",
+      "referencias": [
+        "Ezek 25:9"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "estela-mesa-baal-meon",
+      "titulo": "The Mesa Stele Documents Moabite Reconstruction",
+      "fecha": "c. 840 BC",
+      "descripcion": "King Mesha of Moab, in his famous commemorative inscription (the Mesha Stele), records having built or rebuilt Baal-meon, including a cistern there, extrabiblically confirming Moabite control of the city in the 9th century BC, in the same period of the conflicts described in 2 Kings 3.",
+      "referencias": [
+        "2 Kgs 3:4-27 (contexto histórico de la rebelión de Moab)"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rubenitas_baal_meon",
+      "nombre": "Clans of Ruben",
+      "rol": "Reconstructors of Baal-meón after the conquest",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "Tribe responsible for rebuilding and renaming Baal-meon as part of their settlement in the conquered territory of Sihon in Transjordan.",
+      "referencias": [
+        "Num 32:37-38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ezequiel_baal_meon",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of exile",
+      "periodo": "hierro_2",
+      "descripcion": "He includes Baal-meon in his oracle of judgment against Moab, prophesying the delivery of their cities of glory to peoples of the east as punishment for Moabite pride.",
+      "referencias": [
+        "Ezek 25:8-11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mesa_rey_moab_baal_meon",
+      "nombre": "Table, king by Moab",
+      "rol": "Moabite king, builder according to the Mesa Stele",
+      "periodo": "hierro_2",
+      "descripcion": "It records in its famous inscription the reconstruction of Baal-meon under Moabite rule, an extra-biblical document that independently confirms the territorial dispute described in the biblical account of the rebellion of Moab against Israel.",
+      "referencias": [
+        "2 Kgs 3:4-5 (contexto histórico)"
+      ],
+      "ruta": [
+        "baal_meon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Baal-meón preserves in its name the direct testimony of the Canaanite-Moabite cult of Baal, persistent despite the temporary Israelite occupation of the territory. Its recovery by Moab, confirmed by both prophetic biblical testimony and extrabiblical archeology (Mesa Stela), concretely illustrates the pattern of recurring territorial dispute on the eastern border of Israel and the persistence of the local cult of Baal even under different political administrations.",
+    "religiones_presentes": [
+      "Yahwism (rubenite control period)",
+      "Canaanite-Moabite polytheism — worship of Baal and Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "estela-mesa-testimonio-baal-meon",
+        "nombre": "The Mesa Stele as extrabiblical confirmation of Baal-meón",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 32:38; Ez 25:9",
+          "fuente_secundaria": "Estela de Mesa (inscripción moabita del siglo IX a.C., hallada en 1868), que menciona explícitamente la reconstrucción de Baal-meón por el rey Mesa",
+          "descripcion": "The modern Jewish academic tradition especially values ​​this case as one of the few points of direct convergence between the biblical record and independent extrabiblical epigraphic testimony from the same period and region, reinforcing the general historical reliability of the geographical and political framework described in the books of Kings and the prophetic oracles against Moab.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "External archaeological confirmation of biblical events and sites reinforces the historical credibility of the narrative framework of the conflicts between Israel and its Transjordanian neighbors.",
+          "posible_relacion_cultural": "Documented convergence between the biblical textual tradition and the independent Moabite epigraphic record of the same historical period."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

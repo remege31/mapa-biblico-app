@@ -1,0 +1,152 @@
+{
+  "id": "migdol",
+  "nombre": "Migdol",
+  "tipo": "ciudad",
+  "lat": 30.020296,
+  "lng": 32.372233,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I - Campo dell'Esodo, Traversata del Mar Rosso"
+    }
+  ],
+  "descripcion_geo": "Città di confine egiziana vicino al Mar Rosso, menzionata come uno degli ultimi punti di campeggio di Israele prima del miracoloso attraversamento delle acque durante la partenza di Egitto, e successivamente come destinazione per i rifugiati ebrei dopo la caduta di Gerusalemme.",
+  "altitud_m": 5,
+  "clima": "Deserto: estremamente caldo e secco, tipico della regione di confine nord-orientale di Egitto.",
+  "recursos": [
+    "Posizione di confine vicino al Mar Rosso",
+    "Punto di riferimento geografico del campo di esodo"
+  ],
+  "importancia_estrategica": "Migdol segna uno degli ultimi campeggi Israele durante l'esodo Egitto, poco prima della miracolosa traversata del Mar Rosso, posizionando strategicamente la città tra Migdol e il mare di fronte a Baal-zephon; Secoli dopo, riappare come destinazione dei profughi ebrei in fuga verso Egitto dopo la caduta di Gerusalemme, chiudendo un ironico cerchio geografico tra la partenza originaria di Egitto e il ritorno forzato dei discendenti dei liberati.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_migdol",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Villaggio campeggio vicino a Migdol sulla via di uscita da Egitto, poco prima della miracolosa traversata del Mar Rosso.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "refugiados_judios_migdol",
+      "nombre": "Profughi ebrei a Migdol",
+      "descripcion": "Popolazione di Giuda che, dopo la distruzione di Gerusalemme, si stabilisce a Migdol tra le altre destinazioni egiziane, denunciata da Geremia per aver adottato pratiche idolatriche nella loro nuova residenza.",
+      "religion": "Sincretismo yahwista-idolatrico (denunciato da Geremia)",
+      "periodo": "C. 586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "exodo-campamento-migdol",
+      "titulo": "Accampamenti Israele vicino a Migdol prima del Mar Rosso",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "YHWH ordina a Mosè di ordinare a Israele di accamparsi tra Migdol e il mare, di fronte a Baal-zephon, una posizione apparentemente vulnerabile che serve ad attirare l'esercito del Faraone nella trappola della successiva traversata miracolosa.",
+      "referencias": [
+        "Es 14:1-2"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "migdol-referencia-numeros",
+      "titulo": "Migdol confermato nella lista dei campi di esodo",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Il Libro dei Numeri conferma la posizione di Migdol nell'elenco dettagliato dei campeggi di Israele al momento della sua partenza da Egitto, un record che documenta sistematicamente l'intero percorso del pellegrinaggio.",
+      "referencias": [
+        "Nm 33:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jeremias-juicio-migdol",
+      "titulo": "Geremia denuncia l'idolatria degli ebrei a Migdol",
+      "fecha": "c. 586–580 a.C.",
+      "descripcion": "Geremia rivolge la sua denuncia profetica specificamente agli ebrei residenti a Migdol, Tahpanes, Menfi e in altre regioni di Egitto, condannando la loro persistenza nel bruciare incenso alla 'regina del cielo' nonostante la distruzione di Gerusalemme causata da tale idolatria.",
+      "referencias": [
+        "Ger 44:1",
+        "Ger 44:15-19"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_migdol",
+      "nombre": "Mosè",
+      "rol": "Israele leader nell'esodo",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dirigi il posizionamento strategico di Israele vicino a Migdol prima della miracolosa traversata del Mar Rosso, seguendo istruzioni divine che sembrano smascherare il popolo ma in realtà preparano la trappola contro l'esercito egiziano.",
+      "referencias": [
+        "Es 14:1-4"
+      ],
+      "ruta": [
+        "migdol"
+      ]
+    },
+    {
+      "id": "jeremias_migdol",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Denuncia la persistente idolatria dei rifugiati ebrei a Migdol e in altre città egiziane, avvertendo che il loro destino sarà la completa distruzione per aver ripetuto gli stessi peccati che hanno causato la caduta di Gerusalemme.",
+      "referencias": [
+        "Ger 44:1-30"
+      ],
+      "ruta": [
+        "tahpanhes",
+        "migdol"
+      ]
+    },
+    {
+      "id": "faraon_migdol",
+      "nombre": "Faraone e il suo esercito",
+      "rol": "Inseguitori Israele nel Mar Rosso",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Insegue Israele nella regione di Migdol, ingannato dall'apparente posizione vulnerabile della città, prima di essere sconfitto durante la miracolosa traversata del Mar Rosso.",
+      "referencias": [
+        "Es 14:5-9"
+      ],
+      "ruta": [
+        "migdol"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Migdol collega ironicamente l'inizio e un momento finale della storia di Israele: luogo di passaggio nell'originaria liberazione dalla schiavitù egiziana sotto Mosè, e secoli dopo, destinazione dei profughi ebrei che volontariamente ritornano a Egitto fuggendo dalle conseguenze della propria infedeltà, chiudendo un cerchio geografico che illustra il contrasto tra l'originaria liberazione provvidenziale e il successivo esilio autoinflitto per la persistenza nell'idolatria denunciato da Geremia.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo egiziano (contesto dell'esodo e dei successivi profughi)"
+    ],
+    "mitos": [
+      {
+        "id": "trampa-divina-migdol",
+        "nombre": "Posizionamento apparentemente vulnerabile come trappola divina a Migdol",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 14:1-4",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la sabiduría aparentemente contraintuitiva del posicionamiento divino de Israel antes del cruce del Mar Rojo",
+          "descripcion": "La tradizione ebraica osserva che il comando divino di posizionare Israele in un luogo apparentemente vulnerabile nei pressi di Migdol, lungi dall'essere un errore strategico, costituisce proprio il meccanismo con cui YHWH trascina l'esercito egiziano verso la sua sconfitta definitiva, interpretando l'episodio come un esempio paradigmatico di come la saggezza divina possa manifestarsi attraverso strategie che dal punto di vista umano sembrerebbero controproducenti.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il posizionamento di Migdol insegna che la saggezza divina spesso opera in modi che trascendono e addirittura contraddicono la logica strategica umana convenzionale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

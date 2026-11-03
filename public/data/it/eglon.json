@@ -1,0 +1,154 @@
+{
+  "id": "eglon",
+  "nombre": "Eglon",
+  "tipo": "ciudad",
+  "lat": 31.5,
+  "lng": 34.7667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città della coalizione Amorrei, conquista di Giosuè"
+    }
+  ],
+  "descripcion_geo": "Città-stato cananea nella Sefela occidentale di Giuda, vicino al confine con Filistea, governata al momento della conquista da un re locale che si unì alla coalizione di cinque re Amorrei sconfitti da Giosuè.",
+  "altitud_m": 150,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale vicino alla costa.",
+  "recursos": [
+    "Terreni agricoli della Shephelah occidentale",
+    "Posizione al confine con il territorio filisteo"
+  ],
+  "importancia_estrategica": "Eglon faceva parte della coalizione delle città-stato amorrei meridionali di Canaan che, guidata dal re di Gerusalemme, affrontò Giosuè in seguito all'alleanza di Gabaon con Israele; La sua conquista consolidò il controllo israelita sulla Sefela occidentale dopo la successiva caduta di Lachis e delle altre città della coalizione.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_eglon",
+      "nombre": "Cananei Amorrei",
+      "descripcion": "Città governata dal re Debir di Eglon, membro della coalizione di cinque re Amorrei sconfitti da Giosuè nella campagna del sud.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "judaitas_eglon",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Dopo la conquista, Eglon viene assegnato al territorio di Giuda all'interno della divisione della Shephelah occidentale.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rey-eglon-coalicion",
+      "titulo": "Il re di Eglon si unisce alla coalizione contro Gabaon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Debir, re di Eglon, si unisce ad Adoni-sedek di Gerusalemme e ai re di Hebron, Jarmut e Lachis per attaccare Gabaon come rappresaglia per il suo patto con Israele, formando la coalizione di cinque re di Amorrei che Giosuè sconfiggerà definitivamente.",
+      "referencias": [
+        "Gs 10:3-5"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-rey-eglon",
+      "titulo": "Il re di Eglon viene giustiziato nella grotta di Machedá",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dopo la sconfitta della coalizione e la fuga dei cinque re nella grotta di Machedá, il re di Eglon viene giustiziato insieme agli altri quattro re Amorrei per ordine di Giosuè, nell'episodio che chiude la prima fase della campagna del sud.",
+      "referencias": [
+        "Gs 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "conquista-eglon-ciudad",
+      "titulo": "Conquista della città di Eglon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Dopo la conquista di Lachis, Giosuè avanza con tutto Israele verso Eglon, si accampa contro di essa, la conquista lo stesso giorno e passa a fil di spada tutto ciò che aveva vita nella città, ripetendo lo schema di distruzione totale applicato alle altre città della coalizione.",
+      "referencias": [
+        "Gs 10:34-35"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debir_rey_eglon",
+      "nombre": "Debir, re di Eglon",
+      "rol": "Re amorreo di Eglon, membro della coalizione meridionale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Si unisce alla coalizione dei cinque re Amorrei guidata da Adoni-sedec di Gerusalemme contro Gabaon; Sconfitto in battaglia, fu giustiziato nella grotta di Maquedá insieme agli altri quattro re della coalizione.",
+      "referencias": [
+        "Gs 10:3",
+        "Gs 10:23-26"
+      ],
+      "ruta": [
+        "eglon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "josue_eglon",
+      "nombre": "Giosuè",
+      "rol": "Canaan Leader militare di conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Guida la successiva conquista delle città della coalizione amorrea meridionale, inclusa Eglon, in una campagna lampo che consolida il controllo israelita sulla Sefela in un unico movimento militare continuo.",
+      "referencias": [
+        "Gs 10:34-35"
+      ],
+      "ruta": [
+        "lachish",
+        "eglon",
+        "hebron"
+      ]
+    },
+    {
+      "id": "habitantes_eglon",
+      "nombre": "Abitanti di Eglon",
+      "rol": "Popolazione della città conquistata",
+      "periodo": "c. 1200 a.C.",
+      "descripcion": "L'intera popolazione di Eglon viene sterminata lo stesso giorno della conquista, secondo lo schema dell'herem (consacrazione alla distruzione) applicato da Giosuè alle città della coalizione meridionale.",
+      "referencias": [
+        "Gs 10:35"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Eglon fa parte della storia di conquista del sud di Canaan inquadrata nella teologia deuteronomista dell'herem, presentata come l'esecuzione del giudizio divino sui popoli Cananei. La rapidità e l'esaustività con cui Giosuè sottomette Eglon – nello stesso giorno del suo arrivo – è inscritta nello schema narrativo che sottolinea l'assistenza divina diretta nella conquista, in continuità con i precedenti episodi del sole fermato ad Aijalon e della grandine a Beth-Horon.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva della storia biblica)",
+      "Cananeo-Politeismo amorreo (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "campana-relampago-sur",
+        "nombre": "Campagna Southern Lightning di Canaan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 10:28-43",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la velocidad de la conquista del sur como evidencia de la asistencia divina directa",
+          "descripcion": "La tradizione ebraica osserva che la velocità con cui Giosuè sottomette successivamente Machedah, Libna, Lachis, Eglon, Hebron e Debir \"nello stesso giorno\" in ogni caso viene letta come un segno inequivocabile che la vittoria non dipende dalla capacità militare israelita ma dal continuo intervento di YHWH iniziato con le meraviglie di Gabaon.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La fulminea conquista del sud rafforza la teologia secondo cui il possesso della terra è un dono divino, non una conquista esclusivamente umana.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

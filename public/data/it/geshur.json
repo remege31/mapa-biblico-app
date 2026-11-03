@@ -1,0 +1,140 @@
+{
+  "id": "geshur",
+  "nombre": "Gesur",
+  "tipo": "territorio",
+  "lat": 33.0,
+  "lng": 36.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 15,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Piccolo regno aramaico a nord-est del lago Galilea, sull'altopiano del Golan. Alleato e poi nemico di Davide.",
+  "altitud_m": 400,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "pascolo",
+    "agricoltura",
+    "commercio"
+  ],
+  "importancia_estrategica": "Territorio che Davide non poteva conquistare; Il loro re Talmai era il nonno di Absalom.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ges_h1",
+      "titulo": "Davide sposa la principessa di Gesur",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "Davide prese in moglie Maaca, figlia del re Talmai di Gheshur; Le nacque Absalom.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "personajes_clave": [
+        "David",
+        "Maacá",
+        "Talmai"
+      ]
+    },
+    {
+      "id": "ges_h2",
+      "titulo": "Absalom fugge a Ghesur dopo aver ucciso Amnon",
+      "fecha": "ca. 990 a.C.",
+      "descripcion": "Dopo aver ucciso il fratellastro Amnon per vendicare lo stupro di Tamar, Absalom fugge alla corte di suo nonno Talmai a Geshur.",
+      "referencias": [
+        "2 Sam 13:37-38"
+      ],
+      "personajes_clave": [
+        "Absalón",
+        "David",
+        "Amnón",
+        "Tamar"
+      ]
+    },
+    {
+      "id": "ges_h3",
+      "titulo": "Joab negozia il ritorno di Absalom da Ghesur",
+      "fecha": "ca. 988 a.C.",
+      "descripcion": "Joab convince Davide a permettere ad Absalom di tornare da Ghesur; Davide lo accetta ma ci vorranno due anni per vederlo.",
+      "referencias": [
+        "2 Sam 14:1-24"
+      ],
+      "personajes_clave": [
+        "Joab",
+        "David",
+        "Absalón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ges_p1",
+      "nombre": "Assalonne",
+      "rol": "Figlio di Davide",
+      "periodo": "ca. 1010-978 a.C.",
+      "descripcion": "Figlio della principessa di Gesur; Era rifugio ed esilio per sua madre; guidò la più grande ribellione contro Davide.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p2",
+      "nombre": "Talmai",
+      "rol": "Re di Gesur",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Nonno materno di Absalom; Diede rifugio a suo nipote dopo l'assassinio di Amnon.",
+      "referencias": [
+        "2 Sam 13:37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ges_p3",
+      "nombre": "Maaca",
+      "rol": "Principessa di Gesur, moglie di Davide",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Figlia del re di Gheshur; madre di Assalonne e Tamar.",
+      "referencias": [
+        "2 Sam 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gesur: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ges_m1",
+        "nombre": "Il rifugio del fuggitivo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Geshur fu il rifugio di Absalom dopo il suo crimine; L'esilio di un principe in terra straniera è un motivo ricorrente nel racconto biblico.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Geshur fu il rifugio di Absalom dopo il suo crimine; L'esilio di un principe in terra straniera è un motivo ricorrente nel racconto biblico.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "sodom",
+  "nombre": "Sodom",
+  "tipo": "ciudad",
+  "lat": 31.1,
+  "lng": 35.48,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 48,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Middle Bronze Age — Salt Sea Pentapolis City"
+    }
+  ],
+  "descripcion_geo": "The exact location of Sodom is one of the most active archaeological debates in biblical study. The most widespread tradition places it at the southern end of the Dead Sea, in the plain of Siddim, possibly under the current waters or in the area of ​​Bab edh-Dhra (Jordan). It was part of the Pentapolis, a confederation of five cities (Sodom, Gomorrah, Adma, Zeboim and Bela/Zoar) that controlled the fertile plain watered by the Jordan before the catastrophe.",
+  "altitud_m": -400,
+  "clima": "Extremely arid — the southern tip of the Dead Sea is one of the hottest and driest regions on earth. Before the catastrophe, the biblical text describes the plain as a well-watered garden, like the garden of YHWH or the land of Egypt (Gen 13:10).",
+  "recursos": [
+    "Water (the Jordan irrigated the plain before the catastrophe)",
+    "Natural bitumen (the plain of Siddim had bitumen pits, Gen 14:10)",
+    "Salt and minerals from the Dead Sea",
+    "Fertile agricultural land (before destruction)"
+  ],
+  "importancia_estrategica": "It controls the southern route of the Jordan and access to the Dead Sea and its mineral resources. As the center of the Pentapolis, it was the most important city in the plains confederacy. Its destruction turned a fertile region into the salt desert at the southern end of the Dead Sea.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-sodoma",
+      "nombre": "Canaanites of the Pentapolis",
+      "descripcion": "The five cities of the plain were Canaanite city-states with their own political and military confederation. They paid tribute to King Chedorlaomer of Elam for twelve years before rebelling (Gen 14:4). Its inhabitants are described by the biblical text as very evil and sinners against YHWH (Gen 13:13), although the exact nature of that sin has been the subject of exegetical debate.",
+      "religion": "Polytheism Canaanite — worship of local deities of the plains",
+      "periodo": "c. 2100–1900 BC (Medium Bronze)"
+    },
+    {
+      "id": "lot-familia",
+      "nombre": "Lot's family",
+      "descripcion": "Lot, nephew of Abraham, chose to settle in the Jordan plain and eventually in the city of Sodom, attracted by its fertility. His presence in the city when the two angels arrived makes his family the only ones saved. Lot's wife, who looked back, became a pillar of salt. The two sons Lot fathered with his daughters in the cave after the destruction—Moab and Ben-Ami—are the eponymous ancestors of the Moabites and Ammonites.",
+      "religion": "Yahwism of the patriarchal tradition",
+      "periodo": "c. 1800 BC"
+    },
+    {
+      "id": "reyes-sodoma",
+      "nombre": "The five kings of the Pentapolis",
+      "descripcion": "Chapter 14 of Genesis describes the first war narrated in the Bible: four eastern kings against the five kings of the Pentapolis. Chedorlaomer of Elam and his allies defeated the five kings in the valley of Siddim. Abraham intervened with 318 trained warriors to free the captured Lot. The king of Sodom offered the loot to Abraham, who rejected it so as not to owe his wealth to any man.",
+      "religion": "Polytheism of the Canaanite city-states",
+      "periodo": "c. 1900–1800 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-intercesion",
+      "titulo": "Abraham intercedes for Sodom: will you destroy the righteous with the wicked?",
+      "fecha": "c. 1800 BC",
+      "descripcion": "When YHWH revealed to Abraham his intention to destroy Sodom, Abraham began one of the boldest negotiations in religious literature: Will you destroy the righteous with the wicked? Will not the judge of all the earth do justice? He progressively lowered the threshold of the righteous needed to save the city: from fifty to forty-five, to forty, to thirty, to twenty, to ten. YHWH accepted each condition. The city was destroyed because there were not even ten righteous people. The intercession of Abraham is the first biblical text on petitionary prayer on behalf of others and on divine justice.",
+      "referencias": [
+        "Gen 18:16-33"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "lot"
+      ]
+    },
+    {
+      "id": "destruccion-sodoma",
+      "titulo": "The Destruction of Sodom: Rain of Fire and Brimstone",
+      "fecha": "c. 1800 BC",
+      "descripcion": "The two angels who arrived in Sodom were recognized by Lot as divine messengers. Faced with the hostility of the sodomites, they blinded the attackers and ordered Lot to flee with his family without looking back. At dawn, YHWH rained sulfur and fire on Sodom and Gomorrah from heaven. Lot's wife looked back and turned into a pillar of salt. Abraham saw from Mamré how smoke rose from the earth like the smoke of a furnace. The destruction of Sodom became the biblical paradigm of divine judgment on collective evil.",
+      "referencias": [
+        "Gen 19:1-29"
+      ],
+      "personajes_clave": [
+        "lot",
+        "abraham"
+      ]
+    },
+    {
+      "id": "profecias-sodoma",
+      "titulo": "Sodom as a prophetic paradigm: the sin that lasts forever",
+      "fecha": "c. 760–580 BC",
+      "descripcion": "The prophets used Sodom as the ultimate measure of evil and judgment. Isaiah compares the corruption of Jerusalem with Sodom (Is 1:10). Amos mentions Sodom and Gomorrah as an example of divine destruction (Am 4:11). Jeremiah states that the sin of Judah exceeds that of Sodom (Jer 23:14). Ezekiel identifies the sin of Sodom not with sexual violence but with pride, satiety, and indifference to the poor (Ez 16:49-50). This last characterization has profoundly influenced contemporary social theology.",
+      "referencias": [
+        "Isa 1:9-10",
+        "Amos 4:11",
+        "Jer 23:14",
+        "Ezek 16:49-50",
+        "Matt 10:15"
+      ],
+      "personajes_clave": [
+        "lot"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lot",
+      "nombre": "lots",
+      "rol": "Nephew of Abraham, only righteous person saved from Sodom",
+      "periodo": "bronce_medio",
+      "descripcion": "Lot emigrated with Abraham from Ur and separated from it in Canaan, choosing the fertile plain of the Jordan. His gradual commitment to Sodom—first he pitches his tents toward the city, then he dwells in it, finally he sits at the gate as a magistrate—is read by commentators as a progressive assimilation to the world around him. His ambivalence toward evil (he offers his daughters to the mob) and his subsequent drunkenness question his moral stature. However, the NT calls him righteous (2 Pet 2:7-8).",
+      "referencias": [
+        "Gen 13:1-13",
+        "Gen 14:1-16",
+        "Gen 19:1-38"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "sodom",
+        "zoar"
+      ]
+    },
+    {
+      "id": "abraham-sodoma",
+      "nombre": "Abraham",
+      "rol": "Intercessor for the righteous of Sodom",
+      "periodo": "bronce_medio",
+      "descripcion": "Abraham's intercession for Sodom reveals a dimension of the character that goes beyond the obedient executor of divine commands: he is a negotiator who appeals to God's intrinsic justice. His argument—that destroying the righteous with the wicked would be contrary to divine nature itself—establishes the foundation of the prophetic theology of justice. The scene is one of the most intimate dialogues between God and a human being in the entire OT.",
+      "referencias": [
+        "Gen 18:16-33",
+        "Gen 19:27-29"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron",
+        "beersheba"
+      ]
+    },
+    {
+      "id": "angeles-sodoma",
+      "nombre": "The two angels (messengers)",
+      "rol": "Executors of divine judgment on Sodom",
+      "periodo": "bronce_medio",
+      "descripcion": "The two divine messengers who visited Abraham in Mamre arrived in Sodom at sunset. His meeting with Lot at the city gate, the hospitality offered, the siege of the mob, the blindness of the attackers and the order to flee constitute the most dramatic story of the Abraham cycle. The identity of these beings—angels, divine manifestations, men with special powers—has generated centuries of theological debate.",
+      "referencias": [
+        "Gen 18:1-3",
+        "Gen 19:1-22"
+      ],
+      "ruta": [
+        "hebron",
+        "sodom"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sodom is the quintessential biblical symbol of the doomed city. Its destruction by fire and brimstone—possibly related to seismic or volcanic activity on the Dead Sea Fault—became the paradigm of divine judgment on collective evil. But the debate over what exactly the sin of Sodom was has generated very different readings: the more literal tradition emphasizes sexual violence, while Ezekiel reinterprets it as pride, satiety, and indifference to the poor—a reading that has enormous relevance for contemporary social theology. In Islam, the city of Lut (Lot) is destroyed as divine punishment for those who rejected the prophet.",
+    "religiones_presentes": [
+      "Polytheism Canaanite (pre-destruction period)",
+      "Patriarchal Yahwism (Lot's presence)",
+      "Prophetic tradition (Sodom as a paradigm of judgment)"
+    ],
+    "mitos": [
+      {
+        "id": "destruccion-paradigma",
+        "nombre": "The destruction of Sodom: paradigm of divine judgment",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 18-19; Ezequiel 16:49-50; Amós 4:11",
+          "fuente_secundaria": "Mishná, Sanhedrin 10:3; Talmud Bavli, Sanhedrin 109a; Yalkut Shimoni",
+          "descripcion": "The Talmud discusses the sin of Sodom at length: the Sodomites denied hospitality, did not allow the poor to beg, and had a perverse legal system that formally legal covered up injustice. The bed of Sodom (middat Sedom) became a proverb: the tendency to do things formally right but substantially unjust.",
+          "similitudes": "Divine judgment on the corrupt city has parallels in the flood and the destruction of Jericho.",
+          "diferencias": "Unlike the flood (all humanity) and Jericho (holy war), Sodom is destroyed for its intrinsic moral evil without military mediation.",
+          "significado_teologico": "Hospitality to strangers (hakhnasat orechim) is a cardinal value in Judaism, defined by contrast with the anti-Sodom model.",
+          "posible_relacion_cultural": "Tales of cities destroyed by divinity are common in Middle Bronze literature: the Sumerian lament for the destruction of Ur has a similar structure."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mateo 10:15; 2 Pedro 2:6-8; Judas 7; Apocalipsis 11:8",
+          "fuente_secundaria": "Agustín, Ciudad de Dios XVI; Tertuliano; Orígenes",
+          "descripcion": "Jesus uses Sodom as a measure of the judgment that will come on the cities that reject his disciples: the punishment of Sodom will be more bearable than that of those cities (Mt 10:15). The Revelation calls Jerusalem Sodom and Egypt metaphorically (Rev 11:8). The letter of Jude interprets the sin of Sodom as sexual immorality.",
+          "similitudes": "Sodom as a paradigm of divine judgment is shared by all three traditions.",
+          "diferencias": "The NT emphasizes the dimension of rejection of the divine messenger more than the specific sin of Sodom.",
+          "significado_teologico": "The rejection of the divine messenger (the missionary, the Son) is more serious than the sins of Sodom.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 7:80-84 (Al-A'raf); Sura 11:77-83 (Hud); Sura 26:160-175 (Ash-Shu'ara)",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya — Historia de Lut",
+          "descripcion": "In the Quran, Lut (Lot) is a prophet sent to his people to warn them of their sins. The people rejected the warning and the angels who visited Lut. Allah destroyed the city with a shower of baked clay stones (hijara min Sijjil), turning the earth upside down. Lut's wife, who was left behind, was destroyed with the others.",
+          "similitudes": "The structure of the story—prophet, rejected warning, destruction, salvation of the believer—is identical in all three traditions.",
+          "diferencias": "In Islam, Lut is a prophet with an explicit mission; In the OT, Lot is a righteous man but not a prophet. The Quran emphasizes the rejection of the prophet rather than the specific sin.",
+          "significado_teologico": "The destruction of the city of Lut is proof that Allah punishes those who reject his prophets and that no human power can withstand divine judgment.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

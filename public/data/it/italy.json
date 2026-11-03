@@ -1,0 +1,248 @@
+{
+  "id": "italy",
+  "nombre": "Italia",
+  "tipo": "territorio",
+  "lat": 43.53,
+  "lng": 11.31,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "romano"
+    }
+  ],
+  "descripcion_geo": "Penisola del Mediterraneo, cuore dell'Impero Romano. Roma, la sua capitale, è la meta finale del viaggio apostolico di Paolo.",
+  "altitud_m": 200,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "commercio",
+    "agricoltura",
+    "produzione",
+    "Giusto"
+  ],
+  "importancia_estrategica": "Capitale spirituale del mondo romano; Roma come meta finale di Paolo e sede del martirio di Pietro e Paolo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ita_h1",
+      "titulo": "Paolo si appella a Cesare e salpa per l'Italia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Davanti alla corte di Festo, Paolo si appella all'imperatore; Viene mandato sotto scorta a Roma via mare.",
+      "referencias": [
+        "At 25:11",
+        "At 27:1"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Festo",
+        "Julio"
+      ]
+    },
+    {
+      "id": "ita_h2",
+      "titulo": "Il naufragio e l'arrivo in Italia",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Dopo il naufragio a Malta, Paolo arriva finalmente in Italia e sbarca a Poteoli.",
+      "referencias": [
+        "At 28:13-14"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ita_h3",
+      "titulo": "Paolo a Roma: due anni di predicazione gratuita",
+      "fecha": "ca. 61-63 d.C.",
+      "descripcion": "A Roma Paolo predica il regno di Dio agli arresti domiciliari per due anni.",
+      "referencias": [
+        "At 28:30-31"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ita_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "apostolo martire",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Arrivò in Italia come prigioniero; Lì scrisse lettere, predicò e fu martirizzato.",
+      "referencias": [
+        "At 28:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p2",
+      "nombre": "Pietro",
+      "rol": "apostolo martire",
+      "periodo": "ca. 1-67 d.C.",
+      "descripcion": "Secondo la tradizione si recò a Roma e morì crocifisso a faccia in giù sotto Nerone.",
+      "referencias": [
+        "1 Pt 5:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ita_p3",
+      "nombre": "Aquila e Priscilla",
+      "rol": "Missionari espulsi dall'Italia",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ebrei espulsi da Roma con l'editto di Claudio; Paolo li ha trovati a Corinto.",
+      "referencias": [
+        "At 18:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Roma come meta e destinazione del Vangelo; la sua lettera ai Romani è il trattato teologico più completo del Nuovo Testamento.",
+    "religiones_presentes": [
+      "romano_paganesimo",
+      "imperial_cult",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "ita_m1",
+        "nombre": "Paolo a Roma",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Il libro degli Atti si conclude con Paolo che predica liberamente a Roma; Il Vangelo è arrivato al centro del mondo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il libro degli Atti si conclude con Paolo che predica liberamente a Roma; Il Vangelo è arrivato al centro del mondo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ita_nt_h1",
+        "titulo": "Paolo arriva a Roma",
+        "fecha": "ca. 61 d.C.",
+        "descripcion": "Paolo arriva a Roma prigioniero; I fratelli escono per accoglierlo nel Foro di Sedano.",
+        "referencias": [
+          "At 28:14-16"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h2",
+        "titulo": "La lettera ai Romani: il vangelo per la capitale",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo prima di arrivare scrive la Lettera ai Romani, la sua opera teologica più sistematica.",
+        "referencias": [
+          "Rm 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ita_nt_h3",
+        "titulo": "Il martirio di Pietro e Paolo a Roma",
+        "fecha": "ca. 64-68 d.C.",
+        "descripcion": "Sotto Nerone, Pietro e Paolo vengono martirizzati a Roma; Il sangue dei martiri diventa seme della Chiesa.",
+        "referencias": [
+          "Tradición eclesiástica"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ita_nt_p1",
+        "nombre": "Paolo",
+        "rol": "apostolo martire",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Arrivò a Roma prigioniero; Predicò, scrisse e fu decapitato.",
+        "referencias": [
+          "At 28:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p2",
+        "nombre": "Pietro",
+        "rol": "apostolo martire",
+        "periodo": "ca. 1-67 d.C.",
+        "descripcion": "Martirizzato a Roma; La sua tomba in Vaticano è il centro della Chiesa cattolica.",
+        "referencias": [
+          "1 Pt 5:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ita_nt_p3",
+        "nombre": "Nerone",
+        "rol": "Persecutore dell'imperatore romano",
+        "periodo": "54-68 d.C.",
+        "descripcion": "Innescò la prima persecuzione sistemica dei cristiani a Roma dopo l’incendio del 64 d.C.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Roma è la destinazione finale del vangelo degli Atti e la scena del martirio apostolico.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "imperial_cult",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ita_nt_m1",
+          "nombre": "Roma e il Vangelo",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "At 1,8",
+            "fuente_secundaria": "",
+            "descripcion": "Il libro degli Atti culmina con la predicazione libera di Paolo nel cuore dell'Impero Romano: il Vangelo è giunto «fino ai confini della terra» (At 1,8).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il libro degli Atti culmina con la predicazione libera di Paolo nel cuore dell'Impero Romano: il Vangelo è giunto «fino ai confini della terra» (At 1,8).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

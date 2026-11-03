@@ -1,0 +1,192 @@
+{
+  "id": "debir",
+  "nombre": "owe",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.4167,
+  "lng": 34.9667,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city conquered by Joshua and Othniel"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Levitical city of refuge in Judah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Judah Southern Border Town"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Debir (Hebrew: דְּבִיר, possibly 'inner sanctuary' or 'place of the oracle') was a Canaanite city in the southern hills of Judah, about 13 km southwest of Hebron. Probably identified with Tell Beit Mirsim (extensively excavated by W.F. Albright in the 1920s-1930s) or Khirbet Rabud, it dominated the routes between Hebron and the western Negev. Also called Kiriath-séfer ('city of the book' or 'city of writing') before its Israelite conquest, suggesting that it may have been a center of written culture or archives. Excavations at Tell Beit Mirsim revealed a flourishing Late Bronze city with an advanced textile industry.",
+  "altitud_m": 580,
+  "clima": "Judah semi-arid southern Mediterranean — rainfall of 350-450 mm annually, hot dry summers, cool winters with occasional rain. Soils suitable for olive groves and livestock.",
+  "recursos": [
+    "Textile industry and dyeing (archaeologically documented at Tell Beit Mirsim)",
+    "Olive groves on the slopes of the hills",
+    "Sheep and goat farming",
+    "Control position on southern route-Hebron to the Western Negev",
+    "Limestone for construction"
+  ],
+  "importancia_estrategica": "Debir was a city of refuge (Jos 20:7—although it shares this assignment with other cities; Jos 21:15 lists it as a Levitical city). Her conquest by Otoniel, the first judge of Israel, made her a symbol of the beginning of the period of the judges. It was a key point in the southern defensive system of Judah and controlled access to the Negev from the west of Hebron.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-debir",
+      "nombre": "Canaanites of Kiriath-sepher",
+      "descripcion": "The city was known as Kiriath-sepher ('city of writing') before the Israelite conquest, suggesting a literate Canaanite elite or center of administrative records. Their king was one of the thirty-one Canaanites kings defeated by Joshua (Josh 12:13). The city was destroyed and rebuilt, archaeological evidence of violent transition between the Late Bronze Age and the First Iron Age.",
+      "religion": "Canaanite polytheism — worship of Baal, Asherah and local divinities of the southern heights of Judah",
+      "periodo": "Late Bronze to c. 1200 BC"
+    },
+    {
+      "id": "levitas-debir",
+      "nombre": "Levites of Aaron's family",
+      "descripcion": "Debir was assigned as a Levitical city to the sons of Aaron (Josh 21:15; 1 Chron 6:43). The Levites established here were part of the system of priestly cities distributed throughout the Israelite territory to guarantee religious instruction and justice in regions far from the central sanctuaries. His presence transformed a Canaanite city of written culture into a center of Torah teaching.",
+      "religion": "Yahwism Leviticus — Torah teaching and city of refuge functions",
+      "periodo": "Iron I-II, from the conquest until 586 BC."
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-debir",
+      "titulo": "Joshua conquers Debir: the southern campaign",
+      "fecha": "c. 1220 BC",
+      "descripcion": "Following Canaan's (Jericho, Ai, Gibeon) victories in the center, Joshua embarked on the southern campaign. The king of Jerusalem formed a coalition of five kings against Gibeon for allying himself with Israel; Joshua marched all night from Gilgal and surprised them. Yahweh threw large hailstones upon them and stopped the sun at Gibeon. After the victory, Joshua systematically continued south: he took Libna, Lachish, Eglon, Hebron and finally Debir. The text describes the campaign as a methodical sweep: 'Joshua took Debir with its king, with all its dependent cities; He wounded them with the edge of the sword and executed the anathema on every living being.' The city that had been Kiriath-sepher passed into Israelite hands.",
+      "referencias": [
+        "Josh 10:38-39",
+        "Josh 10:1-15",
+        "Josh 12:13"
+      ],
+      "personajes_clave": [
+        "josue-debir",
+        "caleb"
+      ]
+    },
+    {
+      "id": "otoniel-conquista-debir",
+      "titulo": "Otoniel conquers Debir: the first judge wins his wife",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Joshua's book preserves an alternative or complementary tradition about the conquest of Debir, starring Caleb and his family. Caleb, now an old man, received Hebron as an inheritance and announced: 'Whoever attacks Kiriath-sepher and takes her, I will give my daughter Achsha as his wife.' Othniel ben Kenaz, Caleb's nephew (some texts call him younger brother), took the city and received Achsha as his wife. Here, far from being a passive reward, he acted intelligently: he convinced his father to also give him springs of water - 'You have given me land of the Negev, give me also springs of water.' Caleb gave him the upper and lower springs. This Othniel would become the first judge of Israel, deliverer from the yoke of Cushan-rishataim of Mesopotamia (Judg 3:7-11), turning his feat in Debir into the springboard to a career of national leadership.",
+      "referencias": [
+        "Josh 15:15-19",
+        "Judg 1:11-15",
+        "Judg 3:7-11"
+      ],
+      "personajes_clave": [
+        "otoniel",
+        "acsa",
+        "caleb"
+      ]
+    },
+    {
+      "id": "debir-ciudad-refugio-levitas",
+      "titulo": "Debir: Levitical city and refuge",
+      "fecha": "c. 1150 BC",
+      "descripcion": "In the distribution of the territory among the tribes, Debir received a special double assignment: a Levitical city for the sons of Aaron (Jos 21:15) and a city of refuge (Jos 20). Cities of refuge were centers where the involuntary murderer could flee to escape the 'blood avenger' until his case was judged. Debir, at the southern end of the territory of Judah, completed the system of six cities of refuge distributed symmetrically throughout the Israelite territory (three east of the Jordan, three to the west). Its legal function—ensuring that justice prevailed over private revenge—made the ancient Canaanite city of writing the guardian of a revolutionary legal principle in the ancient Near East.",
+      "referencias": [
+        "Josh 20:7",
+        "Josh 21:13-15",
+        "Num 35:9-15"
+      ],
+      "personajes_clave": [
+        "otoniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "otoniel",
+      "nombre": "Otoniel",
+      "rol": "Conqueror of Debir, first judge of Israel",
+      "periodo": "bronce_tardio",
+      "descripcion": "Othniel ben Kenaz is the prototype of the Israelite judge: brave warrior, husband of an intelligent woman, liberator of his people. His conquest of Kiriath-sepher/Debir won him Achsah as a wife and established his military reputation. As a judge, he freed Israel from the yoke of Cushan-rishataim (king of Mesopotamia) for forty years. The text of the book of Judges presents him as a model without defect—no personal failure or apostasy is attributed to him, unlike later judges such as Gideon or Samson. It is significant that the first judge is from Caleb's clan, not from the central tribes, underscoring that leadership in Israel came from demonstrated merit, not birth.",
+      "referencias": [
+        "Judg 1:13",
+        "Judg 3:7-11",
+        "Josh 15:17"
+      ],
+      "ruta": [
+        "debir",
+        "hebron"
+      ]
+    },
+    {
+      "id": "acsa",
+      "nombre": "Here",
+      "rol": "Daughter of Caleb, wife of Othniel, negotiator of the springs",
+      "periodo": "c. 1200 BC",
+      "descripcion": "Here Caleb is one of the most assertive female characters in Joshua's book. Given as a marriage prize to the conqueror of Debir, she transformed her position from object to active subject: she convinced her father to complement the arid land of the Negev with water springs — a vital resource in a semi-arid area. Her direct request ('You have given me land of the Negev, give me also springs of water') and Caleb's generous response (he gave her the springs above and the springs below) establishes an unusual model of a woman negotiating her inheritance in a patriarchal system. The springs he obtained ensured the economic viability of the Debir area for generations.",
+      "referencias": [
+        "Josh 15:16-19",
+        "Judg 1:12-15"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caleb",
+      "nombre": "Caleb",
+      "rol": "Faithful explorer, conqueror of Hebron, father of Acsá",
+      "periodo": "bronce_tardio",
+      "descripcion": "Caleb ben Jefone, of the Kenaz clan integrated into Judah, was one of the twelve spies sent to explore Canaan. Together with Joshua, he gave a report of faith compared to the report of fear of the other ten, which earned him the divine promise of inheriting the land under his feet. At the age of eighty-five, when Israel was dividing up the territory, he claimed Hebron and the southern hills of Judah: 'Give me this mountain that Yahweh spoke of.' His vigor in old age and his assignment of Debir to his nephew/brother Otoniel present him as a leader who raises the next generation while he himself conquers his own inheritance.",
+      "referencias": [
+        "Num 13:30",
+        "Num 14:24",
+        "Josh 14:6-15"
+      ],
+      "ruta": [
+        "sinai",
+        "canaan",
+        "hebron",
+        "debir"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Debir—whose name can mean 'inner sanctuary' or 'oracle'—embodies a significant irony: the Canaanite city of writing (Kiriath-sepher) became a Levitical city of Torah teaching. The conquest of Debir is also the scene of the first marriage by military feat in the OT, a motif that combines warrior heroism with the intelligent marriage negotiation of Acsá. The system of cities of refuge, of which Debir was a part, represented one of the most significant legal advances in biblical law: the distinction between intentional and unintentional homicide, and the protection of the accused until trial.",
+    "religiones_presentes": [
+      "Polytheism Canaanite — pre-Israelite cult in the city of Kiriath-sefer",
+      "Yahwism levitical — priestly city and refuge after the conquest"
+    ],
+    "mitos": [
+      {
+        "id": "ciudades-refugio",
+        "nombre": "Cities of refuge: justice versus revenge",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 35:9-28; Jos 20:1-9; Dt 19:1-13",
+          "fuente_secundaria": "Mishná Makot 2:1-8; Maimonides, Mishné Torá, Hiljot Rotzeaj 5:1",
+          "descripcion": "The six cities of refuge (arei miklat) are one of the most elaborate legal institutions in biblical law. The Mishnah (Makot 2) specifies that the routes to the cities of refuge were to be kept wide and well marked, that the Levites were to provide food for the refugee, and that the high priest whose death freed the refugee was to live long years so that unintentional murderers would not wish for his death. Maimonides systematized that the city of refuge was not a prison but protection: the refugee could exercise his profession freely within its limits.",
+          "similitudes": "The distinction between intentional and involuntary manslaughter and the protection of the accused before trial are principles shared by later legal systems.",
+          "diferencias": "The biblical system links the release of the refugee to the natural death of the high priest, an element without parallel in other legal systems.",
+          "significado_teologico": "Human life has an absolute value that cannot be the object of private revenge. The State (represented by the Levites and the judicial system) has the obligation to protect even those who unintentionally caused harm.",
+          "posible_relacion_cultural": "The principle of distinguishing between intentional and involuntary homicide appears in the Code of Hammurabi (§206-208) and in Hittite law, although without the institutional system of refuge that the biblical text develops."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 6:18; Mt 5:21-26",
+          "fuente_secundaria": "Orígenes, Homilías sobre Josué, X",
+          "descripcion": "Origen interpreted the cities of refuge allegorically: they are a figure of Christ, the refuge to which the sinner can flee. The 'broad road to the city of refuge' prefigures the ease of access to grace. Hebrews 6:18 implicitly uses the motif: believers have 'strong consolation for those who flee to take refuge in the proposed hope.' Jesus in the Sermon on the Mount (Mt 5:21-22) radicalized the distinction between murder and anger, internalizing the legal principle into a moral requirement.",
+          "similitudes": "The protective function of the city of refuge as free access to safety parallels the function of Christ as mediator in Pauline theology and the letter to the Hebrews.",
+          "diferencias": "The Christian typology transforms the legal institution into a spiritual image; the physical city becomes a person (Christ).",
+          "significado_teologico": "Christ is the definitive city of refuge: in him the sinner finds protection from divine justice, not because he has not committed harm but because the eternal high priest intercedes.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

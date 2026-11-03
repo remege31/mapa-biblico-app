@@ -1,0 +1,171 @@
+{
+  "id": "naioth",
+  "nombre": "Naioth",
+  "tipo": "ciudad",
+  "lat": 31.8354,
+  "lng": 35.1829,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Prophetic Refuge by David"
+    }
+  ],
+  "descripcion_geo": "Locality or communal area near Ramah, in the territory of Benjamin, associated with a community of prophets under the direction of Samuel. The name ('dwellings' or 'dwellings') suggests a community-type settlement rather than a conventional walled city.",
+  "altitud_m": 790,
+  "clima": "Mountain Mediterranean — dry, mild summers, cold winters with rain, typical of the central plateau of Benjamin.",
+  "recursos": [
+    "Prophetic community organized around Samuel",
+    "Proximity to Ramah, residence and center of activity of Samuel",
+    "Shelter relatively out of direct range of Saul"
+  ],
+  "importancia_estrategica": "Naioth has no military or commercial relevance; Its importance is exclusively narrative-religious as the headquarters of a community of prophets under Samuel and as a refuge for David during the persecution of Saul, an episode that illustrates the conflict between prophetic authority and the rising royal authority.",
+  "otros_habitantes": [
+    {
+      "id": "profetas_naioth",
+      "nombre": "Community of prophets (benei ha-nebiim)",
+      "descripcion": "Group of prophetic disciples organized around Samuel in Naioth, antecedent of the later 'schools of prophets' that will appear in the cycles of Elijah and Elisha.",
+      "religion": "Yahwism",
+      "periodo": "c. 1020–1000 BC"
+    },
+    {
+      "id": "mensajeros_saul_naioth",
+      "nombre": "Saul Messengers",
+      "descripcion": "Successive groups sent by Saul to capture David in Naioth, who end up prophesying themselves upon coming into contact with the prophetic community, eventually including Saul himself.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-huye-naioth",
+      "titulo": "David takes refuge with Samuel in Naioth",
+      "fecha": "c. 1015 BC",
+      "descripcion": "After escaping Saul's attempt to kill him in his own home, David flees to Ramah, reunites with Samuel and together they settle in Naioth, where David recounts everything that Saul has done to him.",
+      "referencias": [
+        "1 Sam 19:18"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel"
+      ]
+    },
+    {
+      "id": "mensajeros-saul-profetizan",
+      "titulo": "Saul messengers prophesy in Naioth",
+      "fecha": "c. 1015 BC",
+      "descripcion": "Saul sends three successive groups of messengers to capture David; Each group, upon arriving at Naioth and seeing the company of prophets prophesying under Samuel, is overcome by the Spirit of God and prophesies as well, failing in their mission.",
+      "referencias": [
+        "1 Sam 19:19-21"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel",
+        "saul"
+      ]
+    },
+    {
+      "id": "saul-profetiza-naioth",
+      "titulo": "Saul himself prophesies naked in Naioth",
+      "fecha": "c. 1015 BC",
+      "descripcion": "After the failure of three groups of messengers, Saul personally goes to Naioth; He too is overcome by the Spirit of God, prophecies during the journey and remains naked prophesying before Samuel all day and the following night, giving rise to the saying 'Saul also among the prophets?'.",
+      "referencias": [
+        "1 Sam 19:22-24"
+      ],
+      "personajes_clave": [
+        "saul",
+        "samuel",
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_naioth",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "After escaping a direct assassination attempt on his own home, he seeks refuge with Samuel in Naioth, in one of the first episodes of his prolonged escape from Saul's pursuit.",
+      "referencias": [
+        "1 Sam 19:18-24"
+      ],
+      "ruta": [
+        "gibeah",
+        "ramah",
+        "naioth"
+      ]
+    },
+    {
+      "id": "samuel_naioth",
+      "nombre": "Samuel",
+      "rol": "Prophet and judge, leader of the prophetic community of Naioth",
+      "periodo": "hierro_1",
+      "descripcion": "He leads the community of prophets of Naioth and receives the fugitive David, presiding over the episode in which both Saul's messengers and the king himself are overcome by the prophetic Spirit.",
+      "referencias": [
+        "1 Sam 19:18-24"
+      ],
+      "ruta": [
+        "ramah",
+        "naioth"
+      ]
+    },
+    {
+      "id": "saul_naioth",
+      "nombre": "Saul",
+      "rol": "First king by Israel",
+      "periodo": "hierro_1",
+      "descripcion": "He personally pursues David to Naioth after the failure of three groups of messengers; He is overcome by the Spirit of God and prophecies naked, an episode that marks a climax of his deterioration as a royal figure in the face of the prophetic authority of Samuel.",
+      "referencias": [
+        "1 Sam 19:22-24"
+      ],
+      "ruta": [
+        "gibeah",
+        "ramah",
+        "naioth"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Naioth represents the space of Yahwist prophetic authority in direct tension with institutional royal power: the Spirit of God that manifests itself on the messengers and on Saul himself underlines that not even the anointed king escapes the dominion of YHWH when faced with the prophetic realm. The episode functions as a narrative preview of the progressive divine abandonment of Saul and the implicit legitimation of David as a successor protected by the same spiritual force that humiliates the reigning king.",
+    "religiones_presentes": [
+      "Yahwism (including early prophetic institution)"
+    ],
+    "mitos": [
+      {
+        "id": "saul-entre-profetas",
+        "nombre": "Also Saul among the prophets?",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 19:18-24",
+          "fuente_secundaria": "Targum y comentario rabínico tradicional sobre el dicho proverbial repetido también en 1 Sam 10:11-12",
+          "descripcion": "Jewish tradition discusses the episode as the second appearance of the proverbial saying 'Saul also among the prophets?', interpreting Saul's prophetic ecstasy in Naioth as a sign of the progressive withdrawal of divine favor, ironically contrasted with his outward appearance of prophetic piety.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode illustrates that momentary prophetic charisma does not equate to sustained fidelity or continued legitimacy of Saul leadership.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 19:18-24 (recepción patrística sobre la soberanía del Espíritu)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre la libertad del Espíritu de Dios para actuar incluso sobre quienes se oponen a su designio",
+          "descripcion": "Some Church fathers read the episode as an example that the Spirit of God can manifest itself in a transitory way even in spiritually deviated people, distinguishing between the punctual charismatic experience and sustained holiness of life.",
+          "similitudes": "It shares with the Jewish reading the emphasis on the contrast between charismatic manifestation and real fidelity.",
+          "diferencias": "The patristic reading tends to generalize the episode as a principle about the nature of the prophetic gift, beyond the specific case of Saul.",
+          "significado_teologico": "The episode reinforces the idea of ​​the sovereign freedom of the Spirit of God to act on any person, regardless of their moral merit.",
+          "posible_relacion_cultural": "Shared reception of the cycle of Samuel-Saul-David as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "nota_coordenadas": "Coordenada ajustada el 21 jun 2026 — antes compartía punto casi idéntico con Mizpah (6m de distancia). Ahora separada ~115m, manteniendo la cercanía geográfica real de Naioth respecto a Ramá/Mizpah que describe el texto bíblico (1 Sam 19:18-23)."
+}

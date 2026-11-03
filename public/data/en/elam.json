@@ -1,0 +1,147 @@
+{
+  "id": "elam",
+  "nombre": "elam",
+  "tipo": "territorio",
+  "lat": 32.19,
+  "lng": 48.26,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Ancient kingdom east of Mesopotamia (modern Khuzestan, Iran), with capital at Susa. One of the oldest powers in the Middle East.",
+  "altitud_m": 100,
+  "clima": "continental-arid",
+  "recursos": [
+    "silver",
+    "wool",
+    "cereals",
+    "trade"
+  ],
+  "importancia_estrategica": "Power that captured Lot in the times of Abraham and was later conquered by the Assyrians; scenario from Daniel's book.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ela_h1",
+      "titulo": "Chedorlaomer king of Elam captures Lot",
+      "fecha": "ca. 1800 BC",
+      "descripcion": "The Elamite king Chedorlaomer leads a coalition of kings that captures Lot in Sodom; Abraham rescues him with 318 men.",
+      "referencias": [
+        "Gen 14:1-16"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot",
+        "Quedorlaómer"
+      ]
+    },
+    {
+      "id": "ela_h2",
+      "titulo": "Susa of Elam: scene of Esther and Daniel",
+      "fecha": "ca. 480-350 BC",
+      "descripcion": "The capital of Elam, Susa, became the capital of the Persians; The books of Esther and part of Daniel take place there.",
+      "referencias": [
+        "Esth 1:2",
+        "Dan 8:2"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Daniel"
+      ]
+    },
+    {
+      "id": "ela_h3",
+      "titulo": "Nations at Pentecost include Elamites",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Among those present at Pentecost who heard the gospel are Elamites from the ancient region of Elam.",
+      "referencias": [
+        "Acts 2:9"
+      ],
+      "personajes_clave": [
+        "elamitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ela_p1",
+      "nombre": "Chedorlaomer",
+      "rol": "King of Elam",
+      "periodo": "ca. 1800 BC",
+      "descripcion": "Leader of the first war recorded in the Bible; defeated by Abraham.",
+      "referencias": [
+        "Gen 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p2",
+      "nombre": "Daniel",
+      "rol": "Prophet",
+      "periodo": "ca. 620-535 BC",
+      "descripcion": "He had a vision of the ram and the goat by the river Ulai in Susa of Elam.",
+      "referencias": [
+        "Dan 8:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p3",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "ca. 1900-1800 BC",
+      "descripcion": "He defeated the king of Elam and rescued his nephew Lot with only 318 men.",
+      "referencias": [
+        "Gen 14:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elam: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ela_m1",
+        "nombre": "The first war of the Bible",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The Elamite coalition that captured Lot is the first war narrated in the OT; Abraham won it with a tiny troop, a sign of God's power.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Elamite coalition that captured Lot is the first war narrated in the OT; Abraham won it with a tiny troop, a sign of God's power.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Acts 2:9",
+          "fuente_secundaria": "",
+          "descripcion": "The Elamites heard the gospel at Pentecost (Acts 2:9): the gospel reaches even to the land of Abraham's first enemies.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Elamites heard the gospel at Pentecost (Acts 2:9): the gospel reaches even to the land of Abraham's first enemies.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

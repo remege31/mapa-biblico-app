@@ -1,0 +1,154 @@
+{
+  "id": "persia",
+  "nombre": "Persia",
+  "tipo": "territorio",
+  "lat": 34.8,
+  "lng": 48.51,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 37,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -539,
+      "hasta": -330,
+      "nombre": "Post-exilio persa"
+    }
+  ],
+  "descripcion_geo": "Imperio aqueménida con capital en Persépolis y Susa, que dominó el Oriente Medio desde el 539 a.C.",
+  "altitud_m": 1500,
+  "clima": "continental-árido",
+  "recursos": [
+    "agricultura",
+    "comercio",
+    "plata",
+    "lapislázuli"
+  ],
+  "importancia_estrategica": "Imperio que liberó a los judíos del exilio babilónico y financió la reconstrucción del Templo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "per_h1",
+      "titulo": "Ciro el Grande decreta el retorno de los judíos",
+      "fecha": "538 a.C.",
+      "descripcion": "Ciro el persa decreta que los judíos pueden regresar a Jerusalén y reconstruir el Templo; devuelve los utensilios de oro.",
+      "referencias": [
+        "Esd 1:1-4",
+        "2 Cr 36:22-23"
+      ],
+      "personajes_clave": [
+        "Ciro"
+      ]
+    },
+    {
+      "id": "per_h2",
+      "titulo": "Ester y el complot de Amán en Persia",
+      "fecha": "ca. 480 a.C.",
+      "descripcion": "La joven judía Ester, reina persa, frustra el complot del ministro Amán para exterminar a los judíos del Imperio.",
+      "referencias": [
+        "Est 1-10"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Mardoqueo",
+        "Amán",
+        "Asuero"
+      ]
+    },
+    {
+      "id": "per_h3",
+      "titulo": "Nehemías: gobernador persa reconstruye Jerusalén",
+      "fecha": "ca. 445 a.C.",
+      "descripcion": "Nehemías, copero del rey Artajerjes, obtiene permiso para reconstruir los muros de Jerusalén.",
+      "referencias": [
+        "Neh 1-2"
+      ],
+      "personajes_clave": [
+        "Nehemías",
+        "Artajerjes"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "per_p1",
+      "nombre": "Ciro el Grande",
+      "rol": "Rey de Persia",
+      "periodo": "559-530 a.C.",
+      "descripcion": "Llamado 'ungido' por Isaías; liberó a los judíos del exilio babilónico.",
+      "referencias": [
+        "Is 45:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p2",
+      "nombre": "Ester",
+      "rol": "Reina judía en Persia",
+      "periodo": "ca. 480 a.C.",
+      "descripcion": "Joven judía que se convirtió en reina y salvó a su pueblo del genocidio.",
+      "referencias": [
+        "Est 2:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "per_p3",
+      "nombre": "Nehemías",
+      "rol": "Gobernador de Judá",
+      "periodo": "ca. 445-433 a.C.",
+      "descripcion": "Copero del rey persa que reconstruyó los muros de Jerusalén.",
+      "referencias": [
+        "Neh 1:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Imperio tolerante religiosamente; sus decretos de restauración permitieron el judaismo del Segundo Templo. Escenario del libro de Ester y las misiones de Esdras y Nehemías.",
+    "religiones_presentes": [
+      "zoroastrismo",
+      "judaismo"
+    ],
+    "mitos": [
+      {
+        "id": "per_m1",
+        "nombre": "Ciro el ungido",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 45:1",
+          "fuente_secundaria": "",
+          "descripcion": "Isaías llama a Ciro 'mi ungido' (mashiach) con un siglo de anticipación; Dios lo usa para restaurar a Israel (Is 45:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Isaías llama a Ciro 'mi ungido' (mashiach) con un siglo de anticipación; Dios lo usa para restaurar a Israel (Is 45:1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Los Padres de la Iglesia ven en Ciro un tipo de Cristo: el rey gentil que libera al pueblo de Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los Padres de la Iglesia ven en Ciro un tipo de Cristo: el rey gentil que libera al pueblo de Dios.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 18:83-98",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam reconoce a Ciro como posible candidato al 'Dhul-Qarnayn' del Corán (Cor 18:83-98).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam reconoce a Ciro como posible candidato al 'Dhul-Qarnayn' del Corán (Cor 18:83-98).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

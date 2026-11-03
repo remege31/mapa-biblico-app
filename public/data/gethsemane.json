@@ -1,0 +1,130 @@
+{
+  "id": "gethsemane",
+  "nombre": "Getsemaní",
+  "tipo": "ciudad",
+  "lat": 31.7794,
+  "lng": 35.2397,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Huerto de olivos al pie occidental del Monte de los Olivos, junto al torrente Cedrón, frente a Jerusalén.",
+  "altitud_m": 730,
+  "clima": "mediterráneo-árido",
+  "recursos": [
+    "olivos",
+    "prensa de aceite"
+  ],
+  "importancia_estrategica": "Lugar de retiro habitual de Jesús; escenario de la agonía y el arresto.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "get_h1",
+        "titulo": "La agonía en el huerto",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Jesús ora en angustia mientras sus discípulos duermen: «no se haga mi voluntad, sino la tuya».",
+        "referencias": [
+          "Mt 26:36-46",
+          "Mc 14:32-42",
+          "Lc 22:39-46"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      },
+      {
+        "id": "get_h2",
+        "titulo": "El arresto de Jesús",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Judas entrega a Jesús con un beso; Pedro corta la oreja de Malco y Jesús es llevado preso.",
+        "referencias": [
+          "Mt 26:47-56",
+          "Jn 18:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Judas Iscariote",
+          "Pedro",
+          "Malco"
+        ]
+      },
+      {
+        "id": "get_h3",
+        "titulo": "Pedro hiere a Malco",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "En el momento del arresto, uno de los discípulos —Juan lo identifica como Pedro— desenvaina la espada e hiere en la oreja al siervo del sumo sacerdote, llamado Malco. Jesús ordena guardar la espada y, según Lucas, sana la oreja.",
+        "referencias": [
+          "Mt 26:51-54",
+          "Lc 22:49-51",
+          "Jn 18:10-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Malco"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "get_p1",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías",
+        "periodo": "n. ca. 6-4 a.C.; m. ca. 30 d.C.",
+        "descripcion": "Se retira al huerto con sus discípulos, ora con angustia ante su pasión y se entrega a quienes vienen a prenderlo.",
+        "referencias": [
+          "Mt 26:36-46",
+          "Jn 18:1-11"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "get_p2",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Acompaña a Jesús en la oración, no logra mantenerse despierto y, al llegar la guardia, empuña la espada para defenderlo.",
+        "referencias": [
+          "Mt 26:37-41",
+          "Jn 18:10-11"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "get_p3",
+        "nombre": "Judas Iscariote",
+        "rol": "Discípulo traidor",
+        "periodo": "s. I d.C.",
+        "descripcion": "Conocía el lugar porque Jesús se reunía allí con sus discípulos; guía hasta él a la guardia y lo señala con un beso.",
+        "referencias": [
+          "Jn 18:2-5",
+          "Mt 26:47-50"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

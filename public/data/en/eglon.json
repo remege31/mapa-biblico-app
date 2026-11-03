@@ -1,0 +1,154 @@
+{
+  "id": "eglon",
+  "nombre": "Eglon",
+  "tipo": "ciudad",
+  "lat": 31.5,
+  "lng": 34.7667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City of the Amorite coalition, conquest of Joshua"
+    }
+  ],
+  "descripcion_geo": "Canaanite city-state in the western Shephelah of Judah, close to the border with Philistia, governed at the time of the conquest by a local king who joined the coalition of five Amorites kings defeated by Joshua.",
+  "altitud_m": 150,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the western Shephelah near the coast.",
+  "recursos": [
+    "Agricultural lands of the Western Shephelah",
+    "Position on the border with Philistine territory"
+  ],
+  "importancia_estrategica": "Eglon was part of the coalition of southern Amorite city-states of Canaan that, led by the king of Jerusalem, confronted Joshua following Gibeon's alliance with Israel; Its conquest consolidated Israelite control over the western Shephelah after the successive fall of Lachish and the other coalition cities.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_eglon",
+      "nombre": "Canaanites Amorites",
+      "descripcion": "Town ruled by King Debir of Eglon, member of the coalition of five Amorites kings defeated by Joshua in the southern campaign.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "judaitas_eglon",
+      "nombre": "Tribe by Judah",
+      "descripcion": "After the conquest, Eglon is assigned to the territory of Judah within the division of western Shephelah.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rey-eglon-coalicion",
+      "titulo": "The king of Eglon joins the coalition against Gibeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Debir, king of Eglon, joins with Adoni-sedek of Jerusalem and the kings of Hebron, Jarmut, and Lachish to attack Gibeon in retaliation for his pact with Israel, forming the coalition of five Amorites kings that Joshua will decisively defeat.",
+      "referencias": [
+        "Josh 10:3-5"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-rey-eglon",
+      "titulo": "The king of Eglon is executed in the cave of Machedá",
+      "fecha": "c. 1200 BC",
+      "descripcion": "After the defeat of the coalition and the flight of the five kings to the cave of Machedá, the king of Eglon is executed along with the other four kings Amorites by order of Joshua, in the episode that closes the first phase of the southern campaign.",
+      "referencias": [
+        "Josh 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "conquista-eglon-ciudad",
+      "titulo": "Conquest of the city of Eglon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "After the conquest of Lachish, Joshua advances with all Israel towards Eglon, camps against it, conquers it on the same day and puts everything that had life in the city to the sword, repeating the pattern of total destruction applied to the other cities of the coalition.",
+      "referencias": [
+        "Josh 10:34-35"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debir_rey_eglon",
+      "nombre": "Debir, king of Eglon",
+      "rol": "Amorite king of Eglon, member of the southern coalition",
+      "periodo": "bronce_tardio",
+      "descripcion": "He joins the Amorites five-king coalition led by Adoni-sedec of Jerusalem against Gibeon; Defeated in battle, he was executed in the cave of Maquedá along with the other four coalition kings.",
+      "referencias": [
+        "Josh 10:3",
+        "Josh 10:23-26"
+      ],
+      "ruta": [
+        "eglon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "josue_eglon",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the successive conquest of the cities of the southern Amorite coalition, including Eglon, in a lightning campaign that consolidates Israelite control over the Shephelah into a single continuous military movement.",
+      "referencias": [
+        "Josh 10:34-35"
+      ],
+      "ruta": [
+        "lachish",
+        "eglon",
+        "hebron"
+      ]
+    },
+    {
+      "id": "habitantes_eglon",
+      "nombre": "Inhabitants of Eglon",
+      "rol": "Population of the conquered city",
+      "periodo": "c. 1200 BC",
+      "descripcion": "The entire population of Eglon is exterminated on the same day of the conquest, according to the pattern of herem (consecration to destruction) applied by Joshua to the cities of the southern coalition.",
+      "referencias": [
+        "Josh 10:35"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Eglon is part of Canaan's story of conquest of the south framed in the Deuteronomist theology of the herem, presented as the execution of divine judgment on the Canaanites peoples. The speed and exhaustiveness with which Joshua subdues Eglon—on the same day of his arrival—is inscribed in the narrative pattern that emphasizes direct divine assistance in the conquest, in continuity with the previous episodes of the sun stopped in Aijalon and the hail in Beth-horon.",
+    "religiones_presentes": [
+      "Yahwism (biblical story perspective)",
+      "Canaanite-Amorite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "campana-relampago-sur",
+        "nombre": "Canaan's Southern Lightning Campaign",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 10:28-43",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la velocidad de la conquista del sur como evidencia de la asistencia divina directa",
+          "descripcion": "Jewish tradition observes that the speed with which Joshua successively subdues Machedah, Libna, Lachish, Eglon, Hebron and Debir 'on the same day' in each case is read as an unequivocal sign that victory does not depend on Israelite military capacity but on the continued intervention of YHWH initiated with the wonders of Gibeon.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The lightning conquest of the south reinforces the theology that possession of the land is a divine gift, not an exclusively human achievement.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

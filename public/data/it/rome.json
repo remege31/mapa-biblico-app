@@ -1,0 +1,153 @@
+{
+  "id": "rome",
+  "nombre": "Roma",
+  "tipo": "ciudad",
+  "lat": 41.8902,
+  "lng": 12.4922,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Capitale dell'Impero Romano, città di oltre un milione di abitanti, centro del potere mediterraneo.",
+  "altitud_m": 21,
+  "clima": "mediterraneo",
+  "recursos": [
+    "amministrazione",
+    "commercio",
+    "produzione",
+    "arte"
+  ],
+  "importancia_estrategica": "Capo dell'Impero Romano; destinazione finale del viaggio apostolico di Paolo.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "rom_h1",
+        "titulo": "Arrivo di Paolo a Roma",
+        "fecha": "ca. 60-61 d.C.",
+        "descripcion": "Paolo arriva prigioniero a Roma; i fratelli escono per accoglierlo; Trascorre due anni predicando.",
+        "referencias": [
+          "At 28:11-31"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "rom_h2",
+        "titulo": "La lettera ai Romani",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo scrive la sua lettera teologica più sistematica alla comunità di Roma.",
+        "referencias": [
+          "Rm 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "rom_h3",
+        "titulo": "Martirio di Pietro e Paolo",
+        "fecha": "ca. 64-67 d.C.",
+        "descripcion": "La tradizione colloca il martirio di Pietro (crocifisso) e Paolo (decapitato) a Roma sotto Nerone.",
+        "referencias": [
+          "1 Clemente 5",
+          "Tradición patrística"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "rom_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo e martire",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Arrivò prigioniero a Roma e predicò liberamente per due anni; morì martire sotto Nerone.",
+        "referencias": [
+          "At 28:16"
+        ],
+        "ruta": [
+          "rome",
+          "corinth",
+          "ephesus"
+        ]
+      },
+      {
+        "id": "rom_p2",
+        "nombre": "Simone Pietro",
+        "rol": "Apostolo e martire",
+        "periodo": "s. I d.C.",
+        "descripcion": "La tradizione apostolica lo colloca a Roma come vescovo; crocifisso capovolto.",
+        "referencias": [
+          "1 Pt 5:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "rom_p3",
+        "nombre": "Nerone",
+        "rol": "Imperatore romano",
+        "periodo": "54-68 d.C.",
+        "descripcion": "Perseguitò i cristiani, accusandoli dell'incendio di Roma; Pietro e Paolo morirono sotto di lui.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cuore dell'Impero e dei suoi culti; La comunità cristiana di Roma divenne la più influente del mondo.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "imperial_cult",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "rom_m1",
+          "nombre": "Pietro a Roma",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "La tradizione cristiana colloca la tomba di Pietro sotto la Basilica di San Pietro; Roma divenne la sede della Chiesa d'Occidente.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La tradizione cristiana colloca la tomba di Pietro sotto la Basilica di San Pietro; Roma divenne la sede della Chiesa d'Occidente.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

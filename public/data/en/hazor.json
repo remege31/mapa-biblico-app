@@ -1,0 +1,160 @@
+{
+  "id": "hazor",
+  "nombre": "Hazor",
+  "tipo": "ciudad",
+  "lat": 33.01718199667929,
+  "lng": 35.56804856758258,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquered by Joshua, reconquered by Jabin"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomon Fortification"
+    }
+  ],
+  "descripcion_geo": "The most important Canaanite city in the north of Canaan, described in the biblical text as 'head of all these kingdoms', with an extensive tell that archeology confirms as one of the largest and most powerful settlements in the entire region in the Late Bronze Age. Located in a strategic position that controlled the main northern trade routes.",
+  "altitud_m": 200,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the north of Galilee.",
+  "recursos": [
+    "Strategic position on northern trade routes",
+    "Extensive Tell, one of the largest archaeological sites of the biblical Israel",
+    "Regional administrative center since the Middle Bronze Age"
+  ],
+  "importancia_estrategica": "Hazor is the most powerful Canaanite city-state in the north, whose conquest and destruction by Joshua marks the climax of the northern campaign; Centuries later, it reappears under the rule of another king named Jabin during the period of the Judges, defeated by Deborah and Barak, and is finally fortified by Solomon as one of the three great garrison cities of the united kingdom along with Megiddo and Gezer.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_hazor",
+      "nombre": "Northern Canaanites (under Jabin)",
+      "descripcion": "Population ruled successively by two different kings called Jabin, leaders of the northern Canaanite coalition both in the times of Joshua and, generations later, in the times of Deborah.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC and again c. 1150 BC"
+    },
+    {
+      "id": "israelitas_hazor",
+      "nombre": "Tribe of Naphtali",
+      "descripcion": "Israelite population that occupies Hazor after its definitive conquest, integrating it into the northern tribal territory.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-hazor",
+      "titulo": "Joshua conquer and burn Hazor",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Jabin, king of Hazor, organizes a great coalition of northern kings against Israel near the lake of Merom; Joshua decisively defeats them, and Hazor, described as 'head of all these kingdoms', is the only city in the northern campaign that Joshua burns to the ground, unlike the other cities captured but not burned.",
+      "referencias": [
+        "Josh 11:1-13"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "jabin-debora-hazor",
+      "titulo": "Deborah and Barak defeat another Jabin by Hazor",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Generations later, a new king also named Jabin reigns from Hazor and oppresses Israel for twenty years through his general Sisera and nine hundred iron chariots; the prophetess Deborah and general Barak decisively defeat him, freeing Israel from northern Canaanite oppression.",
+      "referencias": [
+        "Judg 4:1-24"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    },
+    {
+      "id": "salomon-fortifica-hazor",
+      "titulo": "Solomon fortifies Hazor",
+      "fecha": "c. 970–960 BC",
+      "descripcion": "Solomon rebuilds and fortifies Hazor alongside Megiddo and Gezer as part of his system of strategic chariot and horse garrison towns, archaeologically confirming the site's continued importance in the administration of the United Kingdom.",
+      "referencias": [
+        "1 Kgs 9:15"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_hazor",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the defeat of the northern Canaanite coalition led by the first Jabin of Hazor, burning the city as an exceptional act within the general pattern of the northern campaign.",
+      "referencias": [
+        "Josh 11:1-13"
+      ],
+      "ruta": [
+        "hazor",
+        "hazor"
+      ]
+    },
+    {
+      "id": "debora_hazor",
+      "nombre": "Deborah",
+      "rol": "Judge and prophetess of Israel",
+      "periodo": "hierro_1",
+      "descripcion": "He summons Barak to confront the army of the second Jabin of Hazor, led by Sisera, in one of the most celebrated victories of the period of the Judges, commemorated in the extensive Song of Deborah.",
+      "referencias": [
+        "Judg 4:1-16",
+        "Judg 5:1-31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "salomon_hazor",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of fortifications",
+      "periodo": "hierro_2",
+      "descripcion": "He includes Hazor among his three major strategic fortification projects, confirmed archaeologically by the characteristic similar construction layers found in Hazor, Megiddo and Gezer.",
+      "referencias": [
+        "1 Kgs 9:15-19"
+      ],
+      "ruta": [
+        "jerusalen",
+        "hazor"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hazor is notable for being conquered and destroyed twice at different times in biblical history, both presented as Israel's providential deliverance from northern Canaanite oppression: first by Joshua in the context of the conquest, and then by Deborah and Barak in the period of the Judges. Its subsequent reconstruction and fortification by Solomon demonstrates the continued strategic value of the site regardless of its recurring destruction, and modern archeology has notably confirmed the layers of destruction corresponding to both biblical episodes.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original population, in two different periods)"
+    ],
+    "mitos": [
+      {
+        "id": "doble-destruccion-hazor",
+        "nombre": "The double destruction of Hazor confirmed archaeologically",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 11:1-13; Jue 4:1-24",
+          "fuente_secundaria": "Hallazgos arqueológicos de las excavaciones de Hazor (Yigael Yadin y posteriores), que documentan capas de destrucción por fuego correspondientes a distintos períodos del Bronce Tardío y la Edad de Hierro",
+          "descripcion": "The modern Jewish academic tradition particularly values ​​that archaeological excavations at Hazor have confirmed layers of mass destruction by fire in periods consistent with biblical accounts of conquest, making Hazor one of the few sites where material evidence notably supports the magnitude of destruction described in the biblical text.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The archaeological confirmation of the destruction of Hazor reinforces the historical credibility of the conquest story presented in the book of Joshua as an execution of divine judgment on the most powerful Canaanite cities.",
+          "posible_relacion_cultural": "Documented convergence between the biblical account of conquest and material archaeological evidence of mass destruction at the Hazor site."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

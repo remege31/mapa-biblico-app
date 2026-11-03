@@ -1,0 +1,182 @@
+{
+  "id": "beth_shemesh",
+  "nombre": "Beth Shemesh",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.7527,
+  "lng": 34.9766,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 20,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city on the coastal route"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Israel-Philistines contact zone"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Border city of Judah with Philistia"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Beth-shemesh (Hebrew: בֵּית שֶׁמֶשׁ, 'House of the Sun') was a city in the valley of Sorec, in the Shephelah (lowlands of Judah), about 25 km west of Jerusalem. The archaeological tell (Tel Beth-shemesh, modern Ain Shems) dominates the entrance to the Sorec valley, the natural corridor between the Philistine plain and the Judah highlands. Excavations from the 20th century revealed a city with Late Bronze walls, Iron I smelting furnaces and a large Iron II grain silo. The city was a transition point between the Philistine world of the plain and the mountainous Judah.",
+  "altitud_m": 270,
+  "clima": "Transitional Mediterranean — more humid than the mountainous interior (550-600 mm annually), temperatures moderated by coastal influence, dry and warm summers, mild rainy winters.",
+  "recursos": [
+    "Rainfed agriculture in the fertile Sorec valley (wheat, barley, grapevine)",
+    "Control of the passage between the coastal plain and the highlands",
+    "Bronze and iron smelting furnaces (archaeologically confirmed)",
+    "Sefela forests for coal and construction",
+    "Trade route that linked Philistia with Judah and Jerusalem"
+  ],
+  "importancia_estrategica": "Beth-shemesh was the 'Judah gate' from the Philistine plain. The valley of Sorec was the natural route of invasion from the west—the same path followed by the oxen carrying the ark back from Philistia. The city was a battlefield between Judah and Israel (2 Kgs 14:11-13) and between Judah and Philistia (2 Chr 28:18). Its border position made it perennially disputed.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-beth-shemesh",
+      "nombre": "Canaanites of the Valley of Sorec",
+      "descripcion": "Beth-shemesh was a Levitical city assigned to the sons of Aaron (Josh 21:16), but the tribe of Judah 'could not expel' the Canaanites from the valley of Sorech (Judg 1:35 LXX). The very name of the city ('House of the Sun') suggests a pre-Canaanite solar sanctuary or Canaanite. The solar god Shemesh was worshiped in the region, and the city may have originally been a center of solar worship before its integration into the Israelite Levitical system.",
+      "religion": "Canaanite polytheism — probable solar cult of Shemesh, with elements of Baal and Asherah",
+      "periodo": "Late Bronze to Iron I, c. 1400-1000 BC"
+    },
+    {
+      "id": "filisteos-zona-sorec",
+      "nombre": "Philistines of the Valley of Sorec",
+      "descripcion": "The Sorec Valley was a zone of permanent friction between Judah and Philistia. The episode of Samson and Delilah takes place in this same valley (Judges 16:4). Ashdod's Philistines, Ashkelon and Gath competed to control access to the Sorec corridor. The Philistine presence in the area up to Timna (Judges 14:1) shows that the ethnic border was fluid and that the relationships of coexistence and conflict were simultaneous.",
+      "religion": "Philistine polytheism — Dagon, Baal-Zebub; progressive syncretism with local Canaanites cults",
+      "periodo": "Iron I-II, c. 1200-700 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca-regresa-beth-shemesh",
+      "titulo": "The Return of the Ark: The Oxen of Beth-shemesh",
+      "fecha": "c. 1050 BC",
+      "descripcion": "After seven months in Philistia causing plagues in every city that hosted it, the Philistines priests advised returning the ark in a new cart drawn by two recently calved cows that had never been yoked, separated from their calves. If the cows went up the road to Beth-shemesh, it would be a sign that Yahweh had caused the evils; If not, it would be a coincidence. The cows took the path of Beth-shemesh directly, lowing without turning to the right or the left. The inhabitants of Beth-shemesh were reaping wheat in the valley when they looked up and saw the ark. They relocated and offered the cows as a burnt offering, using the cart as firewood. But some looked into the ark and died—seventy men according to the text—which reminded us that the sanctity of the ark was dangerous even to Israel. The survivors sent messengers to Kiriath-jearim to collect the ark.",
+      "referencias": [
+        "1 Sam 6:1-21",
+        "1 Sam 6:10-15",
+        "1 Sam 6:19-21"
+      ],
+      "personajes_clave": [
+        "levitas-beth-shemesh"
+      ]
+    },
+    {
+      "id": "batalla-beth-shemesh-amazias",
+      "titulo": "The Battle of Beth-shemesh: Judah defeated by Israel",
+      "fecha": "c. 790 BC",
+      "descripcion": "King Amaziah of Judah, puffed up by his victory over Edom, challenged King Joash of Israel. Joash answered him with a fable: 'The thistle of Lebanon commanded the cedar: Give my son your daughter as a wife.' The warning was not heeded. The armies clashed at Beth-shemesh, in the valley that separates the kingdoms. Judah was completely defeated: Amaziah was captured, Joash marched to Jerusalem, tore down four hundred cubits of the city's northern wall, and took the temple and palace treasures hostage. Beth-shemesh, the city of Judah, was thus the scene of the southern kingdom's greatest humiliation at the hands of its northern brother.",
+      "referencias": [
+        "2 Kgs 14:8-14",
+        "2 Chr 25:17-24"
+      ],
+      "personajes_clave": [
+        "amazias",
+        "joas-israel"
+      ]
+    },
+    {
+      "id": "filisteos-toman-beth-shemesh",
+      "titulo": "Ahaz loses Beth-shemesh to the Philistines",
+      "fecha": "c. 735 BC",
+      "descripcion": "During the reign of Ahaz, one of the most criticized kings of Judah for his syncretism, the Philistines took advantage of the weakness of the kingdom to recover cities of Shephelah: they took Beth-shemesh, Ayalon, Gederoth, Socoh, Timna and Gimzo with their villages. The Chronicler interprets these losses as divine punishment for Ahaz's apostasy. The loss of Beth-shemesh meant ceding control of the western gate of Judah and opening the way to the highlands and Jerusalem. It is the geopolitical context in which Ahaz asked the king of Assyria for help, giving the treasures of the temple as tribute — a decision that the prophets (Isaiah) condemned as a loss of theological and political sovereignty.",
+      "referencias": [
+        "2 Chr 28:18-21",
+        "2 Kgs 16:5-9",
+        "Isa 7:1-17"
+      ],
+      "personajes_clave": [
+        "acaz",
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "acaz",
+      "nombre": "Ahaz",
+      "rol": "King of Judah, paradigm of syncretism and political capitulation",
+      "periodo": "c. 735–715 BC",
+      "descripcion": "Ahaz ben Jotham is the most negatively portrayed Judah king before Manasseh. He made his son pass through the fire (possibly ritual sacrifice), offered on high and under every leafy tree, and in the face of the Syrian-Israelite coalition that threatened Jerusalem, he rejected Isaiah's proposal to trust Yahweh and invoked the help of Tiglathpileser III of Assyria, sending the temple treasures as tribute. In Damascus he saw an Assyrian altar and ordered it to be reproduced in the temple of Jerusalem, displacing the bronze altar of Solomon. The loss of Beth-shemesh to the Philistines is one of the signs of the deterioration of his reign.",
+      "referencias": [
+        "2 Kgs 16:1-20",
+        "2 Chr 28:1-27",
+        "Isa 7:1-25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "amazias",
+      "nombre": "Amaziah",
+      "rol": "King of Judah, victorious against Edom, defeated at Beth-shemesh",
+      "periodo": "hierro_2",
+      "descripcion": "Amaziah started well: he executed his father's murderers (but not his sons, according to the law of Moses) and defeated Edom militarily in the Valley of Salt. His mistake was twofold: he hired and then fired one hundred thousand Israelite soldiers who had received their pay, and he worshiped the gods of Edom that he had defeated. A prophet warned him: 'He who has abandoned them will abandon you.' Puffed up by the victory over Edom, he challenged Israel and was crushed at Beth-shemesh. The biblical text presents his defeat as a direct consequence of his idolatrous apostasy.",
+      "referencias": [
+        "2 Kgs 14:1-14",
+        "2 Chr 25:1-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "levitas-beth-shemesh",
+      "nombre": "Levites of Beth-shemesh",
+      "rol": "Levitical priests who received the ark upon returning from Philistia",
+      "periodo": "c. 1050 BC",
+      "descripcion": "The Levitical inhabitants of Beth-shemesh are the anonymous protagonists of the return of the ark. Their joy at seeing the ark return from Philistia contrasts with the death of those who looked inside. The text (1 Sam 6:15) specifies that 'the Levites took down the ark' and placed it on the great stone, which was left as a memorial in the Joshua field of Beth-shemesh. The episode establishes that even for the Levitical priests the divine presence in the ark is sacred-dangerous: it can be carried but not contemplated without adequate ritual precautions.",
+      "referencias": [
+        "1 Sam 6:13-21",
+        "Num 4:1-20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-shemesh —'House of the Sun'— carries in its own name the tension between the solar cult Canaanite and the Yahwism that turned it into a Levitical city. The episode of the ark, which culminates here, is one of the most theologically dense texts in the OT on divine holiness: the presence of Yahweh cannot be manipulated by any people, not even by Israel. The ark that the Philistines could not retain cannot be looked at with impunity by the Israelites who receive it. Holiness is symmetrical in its danger.",
+    "religiones_presentes": [
+      "Yahwism levitical — city assigned to the Aaronite priests",
+      "Residual Canaanite polytheism — possible solar cult prior to Levitical assignment",
+      "Philistine polytheism — influence of the contact zone"
+    ],
+    "mitos": [
+      {
+        "id": "santidad-arca",
+        "nombre": "The sanctity of the ark and the danger of the sacred",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 6:19-21; Núm 4:15-20; 2 Sam 6:6-7",
+          "fuente_secundaria": "Talmud Bavli, Sotá 35a; Maimonides, Mishné Torá, Hiljot Bet HaBejirá 4:1",
+          "descripcion": "The death of those who looked into the ark at Beth-shemesh adds to the death of Uzzah (who touched it to stabilize it, 2 Sam 6) and to the instructions in Numbers 4 prohibiting non-Coathite Levites from touching or seeing sacred objects under penalty of death. The rabbinic tradition developed a theology of kadosh ('holy, separate'): the sacred is not simply good but radically 'other', and unauthorized contact provokes a reaction that the text describes as death. Maimonides systematized these norms in the context of the temple.",
+          "similitudes": "The notion that the sacred is dangerous to the uninitiated appears in many religious traditions.",
+          "diferencias": "Biblical Yahwism distinguishes between holiness as a non-transferable divine property and ritual purity as a human condition; The encounter without proper mediation is lethal in both senses.",
+          "significado_teologico": "God cannot be domesticated or controlled by any people. The sanctity of the ark protects both from enemies (Philistines) and from irreverent familiarity (Israelites of Beth-shemesh).",
+          "posible_relacion_cultural": "The concept of a sacred object destroying the uninitiated has parallels in the Polynesian taboo and in the Mesopotamian notion of 'melammu' (terrifying divine radiance), although without the covenant component that defines the Israelite ark."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 9:1-7; 1 Cor 11:27-30",
+          "fuente_secundaria": "Juan Crisóstomo, Homilías sobre 1 Corintios, XXVII",
+          "descripcion": "The NT applies the principle of the sanctity of the ark to the Eucharist: Paul in 1 Cor 11:27-30 warns that whoever eats the bread and drinks the cup in an unworthy manner 'is guilty of the body and blood of the Lord', and that for this reason there are sick and dead among them. The analogy is exact: as in Beth-shemesh irreverence before the ark produced death, irreverence before the body of Christ produces spiritual and physical illness. Hebrews 9 compares restricted access to the Holy of Holies with the universal access that Christ makes possible through his blood.",
+          "similitudes": "The sanctity of the divine presence as a principle that demands ritualized respect is identical in both testaments.",
+          "diferencias": "The NT transforms the danger of holiness into a call to dignity: Christ makes access to the Father possible, but that possibility requires a moral response at its height.",
+          "significado_teologico": "The incarnation does not domesticate divine holiness; makes it accessible under the condition of faith and love, not mere physical proximity.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

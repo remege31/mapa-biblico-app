@@ -1,0 +1,179 @@
+{
+  "id": "geba",
+  "nombre": "Geba",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8579,
+  "lng": 35.2598,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Benjaminite city, scene of Jonathan's first victory"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron II — Northern border of the kingdom of Judah"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Geba (Hebrew: גֶּבַע, 'hill') was a Levitical city in the territory of Benjamin, situated about 9 km northeast of Jerusalem, opposite Michmash across the pass of the wadi Suweinit. Identified with modern Jeba, it dominated one of the strategic passes between the highlands of Benjamin and the Jordan Valley. The expression 'from Geba to Beersheba' was used to describe the territory of the kingdom of Judah (2 Kgs 23:8), with Geba being the northern boundary. The Michmash Pass, between Geba and Michmash, was the scene of Jonathan's daring operation that changed the course of the Philistine war.",
+  "altitud_m": 630,
+  "clima": "Mountain Mediterranean — rainfall of 500-550 mm annually, cold winters with the possibility of snow, dry and warm summers. Wadi Suweinit to the south creates a more humid microclimate in the hollow.",
+  "recursos": [
+    "Elevated defensive position with control of the Micmas passage",
+    "Terrace agriculture on hillsides (olive trees, vineyards, fig trees)",
+    "Pastures in the surrounding hills",
+    "Limestone for construction",
+    "Control of the north-south route through the Benjamin highlands"
+  ],
+  "importancia_estrategica": "Geba controlled the Michmash Pass, the natural corridor between northern and central Benjamin. Its function as 'northern border of Judah' (2 Kings 23:8) made it a permanent geographical reference of the southern kingdom. In times of the monarchy, Asa of Judah strengthened it with the stones of Ramah (1 Kings 15:22), confirming its defensive value. The battle of Michmas, with the Philistine garrison on the other side of the pass, made it a symbol of the period of Philistine domination and its rupture.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-geba",
+      "nombre": "Benjaminites of Geba",
+      "descripcion": "Geba was a Levitical city assigned to the tribe of Benjamin (Josh 21:17; 1 Chron 6:45). The Benjaminites of the Geba-Micmash area were known as warriors: the tribe of Benjamin was famous for its left-handed slingers (Judg 20:16) and for producing the first king of Israel (Saul was a Benjaminite from Gibeah, a neighboring city). Saul's family had roots in this area of ​​Benjamin.",
+      "religion": "Yahwism tribal of Benjamin — with tensions between the sanctuary of Bethel to the north and that of Jerusalem to the south",
+      "periodo": "Iron I-II, c. 1200-586 BC"
+    },
+    {
+      "id": "filisteos-guarnicion-micmas",
+      "nombre": "Philistine garrison of Michmas",
+      "descripcion": "In the period of Philistine domination, the Philistines established a military garrison at Michmas, just north of the wadi opposite Geba. This garrison controlled the strategic passage and symbolized the subjugation of Israel: the Philistines even forbade the Israelites from having blacksmiths so that they would not make weapons (1 Sam 13:19-22). The destruction of this garrison by Jonathan was the trigger for the battle that temporarily freed Israel from Philistine pressure.",
+      "religion": "Philistine polytheism — Dagon and Baal-Zebub, with local Canaanite syncretism",
+      "periodo": "Iron I, c. 1050-1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jonatan-micmas",
+      "titulo": "Jonathan at the Micmas Pass: the audacity that saved Israel",
+      "fecha": "c. 1020 BC",
+      "descripcion": "Saul was encamped in Gibeah with six hundred men; the Philistines with an immense army at Micmas, on the other side of the pass. Jonathan, without telling his father, proposed to his armor bearer to cross to the Philistine garrison: 'Perhaps Yahweh will act in our favor, since for Yahweh there is no obstacle in saving with many or with few.' They descended the rocky slope into the wadi and climbed up on the other side on their hands and feet. Twenty Philistines fell dead in a space of half a hectare. Panic spread in the Philistine camp, in the field and among all the troops. The Saul guards at Gibeah saw the Philistine crowd disperse. Saul counted his people and Jonathan was missing. The ark was brought in, then Saul dispensed with it and attacked. Panic spread: the Hebrews serving in the Philistine army turned against them. The Israelites hiding in the mountain of Ephraim went out in pursuit. Yahweh saved Israel that day.",
+      "referencias": [
+        "1 Sam 14:1-23",
+        "1 Sam 14:6",
+        "1 Sam 13:19-22"
+      ],
+      "personajes_clave": [
+        "jonatan",
+        "saul-geba"
+      ]
+    },
+    {
+      "id": "asa-fortalece-geba",
+      "titulo": "Asa strengthens Geba with the stones of Ramah",
+      "fecha": "c. 895 BC",
+      "descripcion": "King Baasha of Israel began building Ramah to block traffic to Judah. Asa of Judah responded with a diplomatic-military move: he sent Ben-hadad of Damascus silver and gold from the temple treasury to break the Syrian-Israelite alliance. When Ben-hadad attacked northern Israel, Baasha abandoned Ramah. Asa summoned all of Judah—no one was exempt—and they took the stones and wood with which Baasá built Ramah; With them Asa built Geba of Benjamin (Geba) and Mispah. The episode establishes Geba as a militarily renewed city in the 9th century, part of the northern defensive system of Judah. Prophet Hanani criticized Asa for having relied on Syria instead of trusting Yahweh.",
+      "referencias": [
+        "1 Kgs 15:17-22",
+        "2 Chr 16:1-10"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    },
+    {
+      "id": "josias-geba-beersheba",
+      "titulo": "Josiah: the reform from Geba to Beersheba",
+      "fecha": "c. 621 BC",
+      "descripcion": "King Josiah's great religious reform included the destruction of all places of worship on the heights 'from Geba to Beersheba' — the biblical formula for the entire territory of the kingdom of Judah. Josiah also desecrated the altar of Bethel, which Jeroboam ben Nabat had built, destroyed the Asherah, and burned the human bones on the altar. Geba, as the northern limit of Judah, marks the northern extent of the Josian reform that sought to centralize the entire Yahwist cult in the temple of Jerusalem. This centralization converted Geba from an autonomous Levitical city to a border point of the religiously unified territory.",
+      "referencias": [
+        "2 Kgs 23:8",
+        "2 Kgs 23:4-20",
+        "2 Chr 34:3-7"
+      ],
+      "personajes_clave": [
+        "josias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonatan",
+      "nombre": "Jonathan",
+      "rol": "Prince of Israel, warrior of faith, friend of David",
+      "periodo": "hierro_1",
+      "descripcion": "Jonathan ben Saul is one of the most admired characters in the OT. Exceptional warrior - his feat at the Micmas Pass in front of Geba is an example of military daring founded on divine trust - and loyal friend of David until death. His friendship with David ('he loved David as himself') brought filial loyalty into conflict with loyalty to Yahweh's anointed one. He repeatedly chose David over the interests of his own dynasty. He died in the battle of Mount Guilboa alongside his father Saul, without having betrayed either his father or his friend. David mourned him with the most beautiful song in the OT: 'Your love to me was admirable, more than the love of women.'",
+      "referencias": [
+        "1 Sam 14:1-15",
+        "1 Sam 18:1-4",
+        "2 Sam 1:19-27"
+      ],
+      "ruta": [
+        "geba",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "asa",
+      "nombre": "Handle",
+      "rol": "Reformer king of Judah, builder of Geba as a border fortress",
+      "periodo": "c. 911–870 BC",
+      "descripcion": "Asa was one of the most positively rated kings of Judah. He destroyed the altars of foreign gods, the sacred steles, cut down the asherahs and ordered Judah to search for Yahweh. He even deposed his own grandmother Macá from her rank of queen mother because she had made an obscene image of Asherah. His decision to fortify Geba with the stones of Ramah was tactically brilliant but theologically questionable: he used the temple treasury to pay Syria instead of trusting Yahweh. The last years of his reign were spent sick in his feet—the text suggests that he sought doctors but not Yahweh—and he died with a bittersweet reputation: faithful in the greatest, careless in the last.",
+      "referencias": [
+        "1 Kgs 15:9-24",
+        "2 Chr 14:1-16:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josias",
+      "nombre": "Josiah",
+      "rol": "Reformer king, the most faithful of all the kings of Judah according to the biblical text",
+      "periodo": "c. 640–609 BC",
+      "descripcion": "Josiah ben Ammon ascended the throne at the age of eight. In the 18th year of his reign, during repair work on the temple, the high priest Hilkiah found 'the book of the law'. When they read it to the king, he tore his clothes and undertook the most radical reform in the history of Judah: systematic destruction of all places of syncretistic worship from Geba to Beersheba, destruction of the altar of Bethel, celebration of the Passover with a solemnity unknown since the judges. The text praises him unreservedly: 'There was no king before him who converted to Yahweh with all his heart, with all his soul and with all his strength, according to the whole law of Moses.' He died in Megiddo facing Pharaoh Neco II, incomprehensibly for his contemporaries.",
+      "referencias": [
+        "2 Kgs 22:1-23:30",
+        "2 Kgs 23:25",
+        "2 Chr 34:1-35:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Geba appears in the OT as a geographical marker of the territory of Judah ('from Geba to Beersheba') and as the scene of two key moments: the first Israelite victory over the Philistine garrison (Jonathan) and the northern limit of the Josian reform. Its condition as a Levitical city in border land places it in the permanent tension between the centralization of worship in Jerusalem and the dispersion of religious practices in peripheral cities.",
+    "religiones_presentes": [
+      "Yahwism Levitical — priestly city assigned to the tribe of Levi in ​​Benjamin",
+      "Popular syncretism — places of worship on heights destroyed by Josiah",
+      "Philistine influence during the period of Iron I domination"
+    ],
+    "mitos": [
+      {
+        "id": "fe-audaz-jonatan",
+        "nombre": "Jonathan's Bold Faith: Saving with Many or Few",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 14:6; 1 Sam 14:12-15",
+          "fuente_secundaria": "Talmud Bavli, Berajot 4a; Midrash Samuel 17",
+          "descripcion": "Jonathan's phrase — 'For Yahweh there is no obstacle in saving with many or with few' (1 Sam 14:6) — became one of the most cited expressions of faith in rabbinic tradition. The Talmud (Brachot 4a) uses it to illustrate that the action of faith does not wait for favorable conditions but rather acts on trust in divine power. The Midrash Samuel compares Jonathan's audacity with that of David against Goliath: both acted alone against a disproportionate force, trusting that Yahweh was the true protagonist of the battle.",
+          "similitudes": "Trust in divine intervention that transforms human weakness into victory is a principle shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism emphasizes human action as a necessary condition (Jonathan ascended before God acted); there is no passive faith.",
+          "significado_teologico": "Biblical faith is not quietism but active boldness: the believer takes the first step and trusts that God will act in response.",
+          "posible_relacion_cultural": "The motif of the small army defeating the large one with divine help appears in royal inscriptions from the Near East (Rameses II in Kadesh, Sargon II), although without the component of personal faith that characterizes the Israelite narrative."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 14:6; 2 Cor 12:9-10; Fil 4:13",
+          "fuente_secundaria": "Juan Crisóstomo, Homilías sobre 1 Samuel 14",
+          "descripcion": "The Pauline theology of strength in weakness ('when I am weak, then I am strong', 2 ​​Cor 12:10) has one of its clearest Old Testament antecedents in Jonathan in Michmas. John Chrysostom used the Jonathan episode in his homilies to illustrate that trust in God does not exclude courageous action but rather grounds it. The expression 'with many or with few' was read as a figure of missionary action: the Church does not need majorities to act, but rather trust that God can work with any instrument.",
+          "similitudes": "The paradox of divine strength manifesting itself in human weakness is identical in both traditions.",
+          "diferencias": "The NT takes the principle to its extreme on the cross: supreme weakness (death) is the instrument of supreme victory (resurrection).",
+          "significado_teologico": "Faith does not calculate probabilities but trusts in divine sovereignty. Jonathan is the OT as a prefiguration of the Pauline principle: 'I can do all things through Him who strengthens me.'",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

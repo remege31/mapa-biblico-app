@@ -1,0 +1,138 @@
+{
+  "id": "salt_valley",
+  "nombre": "Valle de la Sal",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 31.09,
+  "lng": 35.38,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Valle árido al sur del mar Muerto, escenario de victorias israelitas sobre los edomitas.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Campo de batalla entre Israel y Edom.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sal_h1",
+      "titulo": "David derrota a Edom en el valle de la Sal",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "David derrota a dieciocho mil edomitas en el valle de la Sal; pone guarniciones en todo Edom.",
+      "referencias": [
+        "2 Sam 8:13",
+        "1 Cr 18:12"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab",
+        "Abisal"
+      ]
+    },
+    {
+      "id": "sal_h2",
+      "titulo": "Amasías derrota a diez mil edomitas en el valle de la Sal",
+      "fecha": "ca. 800 a.C.",
+      "descripcion": "El rey Amasías de Judá mató a diez mil edomitas en el valle de la Sal y tomó Sela.",
+      "referencias": [
+        "2 Re 14:7",
+        "2 Cr 25:11"
+      ],
+      "personajes_clave": [
+        "Amasías"
+      ]
+    },
+    {
+      "id": "sal_h3",
+      "titulo": "El Salmo 60: ocasión de la batalla en el valle",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "El Salmo 60 fue escrito según el título 'cuando luchó con Aram-Naharaim... y Joab mató doce mil de Edom en el valle de la Sal'.",
+      "referencias": [
+        "Sal 60:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Joab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sal_p1",
+      "nombre": "David",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Ganó la primera gran victoria sobre Edom en el valle de la Sal.",
+      "referencias": [
+        "2 Sam 8:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p2",
+      "nombre": "Amasías",
+      "rol": "Rey de Judá",
+      "periodo": "ca. 796-767 a.C.",
+      "descripcion": "Venció a Edom en el valle de la Sal y tomó Sela (Petra).",
+      "referencias": [
+        "2 Re 14:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sal_p3",
+      "nombre": "Joab",
+      "rol": "General de David",
+      "periodo": "ca. 1010-970 a.C.",
+      "descripcion": "Comandó la victoria israelita en el valle de la Sal.",
+      "referencias": [
+        "1 Cr 18:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Valle de la Sal: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sal_m1",
+        "nombre": "El valle de la victoria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "El valle de la Sal fue escenario de las victorias de Israel sobre Edom; el lugar árido entre los dos reinos hermanos es testigo de su eterno conflicto.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El valle de la Sal fue escenario de las victorias de Israel sobre Edom; el lugar árido entre los dos reinos hermanos es testigo de su eterno conflicto.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

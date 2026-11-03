@@ -1,0 +1,136 @@
+{
+  "id": "philistia",
+  "nombre": "Filistea",
+  "tipo": "territorio",
+  "lat": 31.8,
+  "lng": 34.75,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 294,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -586,
+      "nombre": "Ferro I e II"
+    }
+  ],
+  "descripcion_geo": "Fascia costiera mediterranea a sud-ovest di Canaan; territorio delle cinque città filistee: Gaza, Asdod, Ascalon, Gat e Accaron.",
+  "altitud_m": 50,
+  "clima": "mediterraneo",
+  "recursos": [
+    "agricoltura",
+    "commercio marittimo",
+    "ferro",
+    "pesca"
+  ],
+  "importancia_estrategica": "Controllo della pianura costiera e delle rotte commerciali tra Egitto e Canaan settentrionale.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phi_h1",
+      "titulo": "Sansone e l'Filistei",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Sansone, nazireo del Signore, uccide mille Filistei con la mascella di un asino e muore demolendo il tempio di Dagon in Gaza.",
+      "referencias": [
+        "Gdc 13-16"
+      ],
+      "personajes_clave": [
+        "Sansón",
+        "Dalila"
+      ]
+    },
+    {
+      "id": "phi_h2",
+      "titulo": "L'arca catturata dall'Filistei",
+      "fecha": "ca. 1050 a.C.",
+      "descripcion": "L'Filistei cattura l'Arca dell'Alleanza a Ebenezer; i parassiti li costringono a restituirlo a Israele.",
+      "referencias": [
+        "1 Sam 4-6"
+      ],
+      "personajes_clave": [
+        "Elí",
+        "sacerdotes filisteos"
+      ]
+    },
+    {
+      "id": "phi_h3",
+      "titulo": "Davide e Golia",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "Il giovane Davide uccide con una fionda e una pietra il gigante filisteo Golia; Israele sconfigge l'esercito filisteo.",
+      "referencias": [
+        "1 Sam 17"
+      ],
+      "personajes_clave": [
+        "David",
+        "Goliat"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phi_p1",
+      "nombre": "Golia",
+      "rol": "Campione filisteo",
+      "periodo": "ca. 1010 a.C.",
+      "descripcion": "Guerriero gigante di Gat; ucciso da Davide con una fionda.",
+      "referencias": [
+        "1 Sam 17:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p2",
+      "nombre": "Dalila",
+      "rol": "Donna filistea",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Ha scoperto il segreto della forza di Sansone e lo ha dato a Filistei.",
+      "referencias": [
+        "Gdc 16:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phi_p3",
+      "nombre": "Qui",
+      "rol": "Re Filisteo di Gat",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Ha dato rifugio a Davide mentre stava fuggendo da Saul.",
+      "referencias": [
+        "1 Sam 21:10"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Popolo guerriero con culto di Dagon e Baal-Zebub; nemici per eccellenza di Israele nell'era dei giudici e della monarchia.",
+    "religiones_presentes": [
+      "filisteo_paganesimo"
+    ],
+    "mitos": [
+      {
+        "id": "phi_m1",
+        "nombre": "Dagon e l'arca",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 5:1-4",
+          "fuente_secundaria": "",
+          "descripcion": "Quando l'arca arrivò al tempio di Dagon nel Asdod, la statua del dio fu trovata abbattuta davanti all'arca (1 Sam 5:1-4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Quando l'arca arrivò al tempio di Dagon nel Asdod, la statua del dio fu trovata abbattuta davanti all'arca (1 Sam 5:1-4).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

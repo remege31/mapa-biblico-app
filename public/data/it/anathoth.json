@@ -1,0 +1,190 @@
+{
+  "id": "anathoth",
+  "nombre": "Anatot",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8129,
+  "lng": 35.2635,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Ferro II: Monarchia unita e divisa"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: ritorno e ricostruzione"
+    }
+  ],
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Anathoth (ebraico: עֲנָתוֹת) era una città levitica nel territorio di Beniamino, situata a circa 5 km a nord-est di Gerusalemme, ai piedi orientali della catena montuosa centrale della Giudea. Il luogo viene identificato con l'attuale Ras el-Kharrubeh, vicino alla moderna città di Anata. A circa 700 metri sul livello del mare, la città offriva una posizione elevata con vista verso il deserto della Giudea a est e la pianura di Beniamino a nord. La sua vicinanza a Gerusalemme ne fece un luogo di onorevole esilio per personaggi politici caduti in disgrazia e il luogo di nascita di uno dei più importanti profeti dell'Antico Testamento.",
+  "altitud_m": 700,
+  "clima": "Mediterraneo semi-arido di transizione: la città segna il confine climatico tra l'area mediterranea e il deserto della Giudea. Piogge invernali di 400-500 mm all'anno, estati secche e calde, frequenti venti orientali (scirocco) in primavera e autunno.",
+  "recursos": [
+    "Campi di coltivazione di orzo e grano nella pianura di Benjamin",
+    "Uliveti e vigneti sui pendii",
+    "Pascoli per piccoli allevamenti (pecore e capre)",
+    "Pietra calcarea locale per la costruzione",
+    "Posizione sulla rotta nord-sud attraverso le Benjamin Highlands"
+  ],
+  "importancia_estrategica": "Città levitica assegnata ai figli di Aaronne (Gsè 21:18), Anatot fungeva da centro sacerdotale sussidiario di Gerusalemme. La sua posizione a mezz'ora di cammino dalla capitale ne faceva un luogo ideale per gli esuli politici controllati. La città era anche un punto sulla strada militare nord-sud attraverso le colline di Beniamino, come testimonia la descrizione della marcia assira in Is 10:30.",
+  "otros_habitantes": [
+    {
+      "id": "sacerdotes-levitas",
+      "nombre": "Sacerdoti levitici della famiglia di Abiathar",
+      "descripcion": "Anatot era una città levitica e ospitava una famiglia sacerdotale legata alla linea di Eli di Sciloh. Abiathar, sacerdote di Davide, è stato bandito qui da Salomone per aver sostenuto la candidatura di Adonia al trono. Questa famiglia sacerdotale, spostata dal santuario centrale dagli Zadokiti, potrebbe aver influenzato la formazione della tradizione profetica critica rappresentata da Geremia.",
+      "religion": "Yahvismo Levitico - tradizione sacerdotale di Sciloh, in tensione con il sacerdozio zadokita di Gerusalemme",
+      "periodo": "Dal c. 970 a.C. (esilio di Abiatar) fino al periodo post-esilico"
+    },
+    {
+      "id": "benjaminitas",
+      "nombre": "Abitanti benjaminiti",
+      "descripcion": "La popolazione base di Anatot apparteneva alla tribù di Beniamino. Gli \"uomini di Anatot\" che minacciarono di morte Geremia se avesse continuato a profetizzare (Ger 11:21) rappresentano l'establishment locale che vedeva le profezie contro Gerusalemme e il tempio come un tradimento degli interessi tribali e dell'istituzione sacerdotale locale.",
+      "religion": "Yahvismo popolare — misto di culto ufficiale e pratiche sincretistiche locali",
+      "periodo": "Periodo monarchico, X-VI secolo a.C."
+    }
+  ],
+  "historias": [
+    {
+      "id": "destierro-abiatar",
+      "titulo": "L'esilio di Abiatar: primo esilio ad Anatot",
+      "fecha": "c. 970 a.C.",
+      "descripcion": "Quando Salomone consolidò il suo trono dopo la morte di Davide, uno dei suoi primi atti fu deporre il sacerdote Abiathar, che aveva sostenuto la candidatura rivale di Adonijah. Salomone gli risparmiò la vita per aver portato l'arca a Davide suo padre, ma lo bandì ad Anathoth con il divieto di servire come sacerdote in Gerusalemme. Con questo atto si consumò lo spostamento della linea sacerdotale di Eli - legata all'antico santuario di Sciloh - e il consolidamento del sacerdozio zadokita come linea ufficiale di Gerusalemme. Anathoth fu quindi contrassegnata come una città di esilio sacerdotale e di tradizione yahvista alternativa, un fatto che gli studiosi hanno collegato alla successiva formazione della scuola profetica che produsse il libro di Geremia.",
+      "referencias": [
+        "1 Re 2:26-27",
+        "1 Sam 2:31-35",
+        "1 Re 1:7-8"
+      ],
+      "personajes_clave": [
+        "abiatar",
+        "salomon"
+      ]
+    },
+    {
+      "id": "vocacion-jeremias",
+      "titulo": "Geremia: il profeta di Anatoth",
+      "fecha": "c. 627 a.C.",
+      "descripcion": "Geremia ben Hilkiah è nato ad Anathoth, da una famiglia sacerdotale. La sua vocazione profetica arrivò quando era giovane, nel 13° anno del regno di Giosia. Fin dall'inizio il suo messaggio fu radicale: il tempio non garantiva una protezione automatica, i patti con Egitto furono fatali, Babilonia era lo strumento del giudizio divino. I suoi connazionali di Anatoth complottarono per ucciderlo se non avesse smesso di profetizzare nel nome di Jahvè. Geremia scoprì la cospirazione per rivelazione divina e rivolse a Dio una delle cosiddette \"confessioni\" - preghiere di lamento intimo - uniche nella letteratura profetica. La città in cui nacque divenne la sua prima persecuzione.",
+      "referencias": [
+        "Ger 1:1-3",
+        "Ger 11:21-23",
+        "Ger 1:6-8"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "campo-anathoth",
+      "titulo": "L'acquisto del campo: una profezia di speranza in un tempo di rovina",
+      "fecha": "587 a.C.",
+      "descripcion": "Mentre Geremia era imprigionato nel cortile delle guardie del palazzo reale di Gerusalemme, con la città sotto assedio da parte dei babilonesi, suo cugino Janamel venne a offrirgli un riscatto per un campo di famiglia ad Anathoth. Il profeta che da decenni annunciava la catastrofe compì l'acquisto con tutte le procedure legali: pesò diciassette sicli d'argento, firmò il documento davanti a testimoni, consegnò il documento sigillato al suo segretario Baruch con l'ordine di conservarlo in un contenitore di creta perché durasse a lungo. Il gesto è stato volutamente paradossale: acquistare un terreno in una città che stava per essere rasa al suolo era un atto di fiducia nel futuro promesso da Jahvè. 'In questo paese si compreranno ancora dei campi', dichiarò il profeta.",
+      "referencias": [
+        "Ger 32:6-15",
+        "Ger 32:1-5",
+        "Ger 32:36-44"
+      ],
+      "personajes_clave": [
+        "jeremias",
+        "baruc"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jeremias",
+      "nombre": "Geremia",
+      "rol": "Profeta di Anathoth, annunciatore della caduta di Gerusalemme",
+      "periodo": "hierro_2",
+      "descripcion": "Geremia ben Hilkiah è il profeta biblico vivente più documentato. Originario di Anatot, di famiglia sacerdotale, esercitò il suo ministero per quattro decenni sotto i regni di Giosia, Ioacaz, Joyakim, Ieconia e Sedechia. Predicò la resa a Babilonia come volontà divina, fu accusato di tradimento, imprigionato, gettato in una cisterna, sopravvisse alla caduta di Gerusalemme nel 586 a.C. e finì la sua vita a Egitto, dove fu preso contro la sua volontà dai sopravvissuti che fuggivano dopo l'omicidio di Godolías. Le sue 'Confessioni' (capp. 11-20) sono la testimonianza più intima dell'interiorità spirituale nell'Antico Testamento.",
+      "referencias": [
+        "Ger 1:1-10",
+        "Ger 20:7-18",
+        "Ger 38:1-13"
+      ],
+      "ruta": [
+        "anathoth",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "abiatar",
+      "nombre": "Abiatar",
+      "rol": "Sommo Sacerdote di Davide, bandito ad Anathoth da Salomone",
+      "periodo": "hierro_2",
+      "descripcion": "Abiathar fu l'unico sopravvissuto al massacro dei sacerdoti di Nob ordinato da Saul (1 Sam 22). Fuggì a Davide portando con sé il sacro efod e divenne un fedele sacerdote del re per tutta l'era delle persecuzioni e del regno che seguì. Il suo errore politico è stato sostenere Adonijah nella successione, contro la candidatura Salomone sostenuta da Zadok. L'esilio ad Anatot fece di lui il fondatore involontario di una tradizione sacerdotale emarginata che alcuni studiosi (Croce, Nicholson) mettono in relazione con l'ethos deuteronomico e con l'ambito formativo del libro di Geremia.",
+      "referencias": [
+        "1 Sam 22:20-23",
+        "2 Sam 15:24-29",
+        "1 Re 2:26-27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "baruc",
+      "nombre": "Baruch ben Nerias",
+      "rol": "Segretario e fedele discepolo di Geremia",
+      "periodo": "c. 620–580 a.C.",
+      "descripcion": "Baruch ben Neriah era lo scriba personale di Geremia e custode dei suoi oracoli scritti. Di famiglia nobile - suo fratello Seraia era un alto funzionario reale - scelse la fedeltà al profeta piuttosto che la carriera aulica. Fu Baruch a leggere pubblicamente il rotolo Geremia nel tempio (604 aC) quando al profeta fu proibito l'ingresso; che custodiva i documenti dell'acquisto del campo di Anatot; e chi ha compilato e curato il libro di Geremia secondo il consenso della maggioranza accademica. Il suo libro canonico (incluso nella Bibbia cattolica) conserva preghiere di pentimento e speranza.",
+      "referencias": [
+        "Ger 36:4-8",
+        "Ger 32:12-16",
+        "Ger 45:1-5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Anatot rappresenta nella storia biblica la tensione tra profetismo e istituzione sacerdotale ufficiale. Città levitica assegnata ai sacerdoti aronniti, fu anche luogo di esilio per la stirpe sacerdotale emarginata da Salomone e luogo di nascita del profeta che più radicalmente mise in discussione l'inviolabilità del tempio e di Gerusalemme. Il 'sermone del tempio' di Geremia (Ger 7 e 26), con il suo paragone con la distrutta Sciloh, scandalizzò i sacerdoti e i profeti ufficiali perché minava la teologia della presenza divina incondizionata nel tempio.",
+    "religiones_presentes": [
+      "Yahvismo levitico — tradizione sacerdotale legata a Sciloh",
+      "Yahvismo profetico: attuale critico nei confronti dell'istituzione del tempio",
+      "Yahvismo popolare con elementi sincretistici (culto in alture locali)"
+    ],
+    "mitos": [
+      {
+        "id": "profeta-sin-honra",
+        "nombre": "Il profeta rigettato nella sua terra",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 11:21-23; Jer 12:6",
+          "fuente_secundaria": "Midrash Rabbah, Lamentaciones, Proem 34",
+          "descripcion": "Gli uomini di Anathoth minacciarono di morte Geremia per farlo tacere: \"Non profetizzare in nome di Jahvè o morirai per mano nostra\". Anche la sua stessa famiglia lo ha tradito (Ger 12,6). La tradizione rabbinica legge la persecuzione di Geremia come paradigma del destino dell'autentico profeta in Israele: più vera è la parola, più violenta è la resistenza. Il Midrash paragona la sofferenza di Geremia a quella del giusto che porta i peccati della sua generazione.",
+          "similitudes": "Il motivo del profeta rifiutato dal suo popolo è trasversale a tutte e tre le tradizioni.",
+          "diferencias": "L'ebraismo insiste sulla dimensione collettiva: il rifiuto di Geremia è il rifiuto da parte di Israele della propria vocazione di Alleanza.",
+          "significado_teologico": "La fedeltà profetica si misura proprio con la persecuzione: il vero profeta non dice ciò che la gente vuole sentire, ma ciò che Dio comanda che venga detto.",
+          "posible_relacion_cultural": "Il motivo del messaggero divino perseguitato dal suo stesso popolo compare nei testi di lamento mesopotamici, pur senza la componente di alleanza che lo definisce nel caso israelita."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Lc 4:24; Mt 13:57; Heb 11:36-38",
+          "fuente_secundaria": "Tertuliano, Adversus Marcionem IV,8",
+          "descripcion": "Gesù ha citato esplicitamente il modello di Geremia quando ha dichiarato a Nazareth: \"Nessun profeta è accolto favorevolmente nella sua terra\". I vangeli presentano Geremia come la tipologia profetica che più chiaramente prefigura la passione di Cristo: la persecuzione da parte della classe sacerdotale, l'arresto, la prigionia, l'intercessione per i suoi persecutori. Matteo 16:14 riporta che alcuni identificarono Gesù con lo stesso Geremia risorto. Tertulliano e altri padri svilupparono ampiamente questa tipologia.",
+          "similitudes": "Il rifiuto da parte dei propri connazionali e la persecuzione da parte dell'élite religiosa sono esatti paralleli strutturali tra Geremia e Gesù.",
+          "diferencias": "Geremia è sopravvissuto e ha continuato il suo ministero in Egitto; La tipologia cristiana porta l'archetipo alla morte redentrice.",
+          "significado_teologico": "Geremia è il profeta che più direttamente prefigura Cristo nella sua sofferenza, nella sua intercessione e nel suo annuncio di una nuova alleanza (Ger 31,31-34, citato in Eb 8,8-12).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:61; 3:21; 3:112",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de la Sura Al-Baqarah 2:61",
+          "descripcion": "Il Corano non menziona Geremia per nome, ma il santo patrono del profeta rifiutato e perseguitato dal suo popolo è un tema coranico centrale. I versetti su «quelli che uccisero i profeti senza ragione» (2:61, 3:21) sono interpretati dai commentatori come riferimenti alla persecuzione dei profeti israeliti compreso il periodo pre-esilico. Ibn Kathir nel suo Tafsir identifica 'Armiya' (Geremia) come un profeta inviato agli Israeliti prima della distruzione del tempio da parte di Nabucodonosor.",
+          "similitudes": "La persecuzione del profeta sincero da parte della sua stessa comunità è un motivo identico nella tradizione islamica.",
+          "diferencias": "L'Islam enfatizza la responsabilità collettiva della comunità che rifiuta il profeta piuttosto che la dimensione della sofferenza personale del profeta stesso.",
+          "significado_teologico": "Il rifiuto dei profeti è, nel Corano, il peccato più grave delle comunità storiche e la causa ultima delle loro punizioni storiche.",
+          "posible_relacion_cultural": "La figura di \"Armiya\" nella letteratura islamica medievale combina i tratti di Geremia con quelli di Ezechiele e di altri profeti del periodo."
+        }
+      }
+    ]
+  }
+}

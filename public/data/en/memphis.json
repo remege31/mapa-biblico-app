@@ -1,0 +1,153 @@
+{
+  "id": "memphis",
+  "nombre": "Memphis",
+  "tipo": "ciudad",
+  "lat": 29.849632,
+  "lng": 31.253958,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Egyptian capital, oracles of judgment"
+    }
+  ],
+  "descripcion_geo": "One of the most important and ancient cities of Egypt, traditional capital of Lower Egypt, mentioned in the biblical text under its Hebrew name 'Nof' in the prophetic oracles of judgment against Egypt pronounced during the final period of the kingdom of Judah.",
+  "altitud_m": 20,
+  "clima": "Subtropical desert — extremely hot and dry throughout the year, typical of the Nile Valley in the Lower Egypt.",
+  "recursos": [
+    "Traditional capital of Bajo Egypt",
+    "Administrative and religious center of great prestige",
+    "Temples dedicated to various Egyptian deities, including the god Ptah"
+  ],
+  "importancia_estrategica": "Memphis appears in the late prophetic corpus as a destination of flight for Jewish refugees following the destruction of Jerusalem and, simultaneously, as a target of the divine judgment announced against Egypt, reflecting the ambiguous position of this great neighboring power as both refuge and threat to the survivors of the fall of Judah.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_menfis",
+      "nombre": "Egyptian population of Memphis",
+      "descripcion": "Inhabitants of one of the most prestigious and ancient cities of Egypt, target of the prophetic oracles of judgment pronounced by Isaiah, Jeremiah and Ezekiel.",
+      "religion": "Egyptian polytheism — worship of Ptah and other deities",
+      "periodo": "c. 1000–586 BC"
+    },
+    {
+      "id": "refugiados_judios_menfis",
+      "nombre": "Jewish refugees in Memphis",
+      "descripcion": "Population of Judah that, after the destruction of Jerusalem, flees towards Egypt seeking refuge, including Memphis among the destinations mentioned in the prophecies of Jeremiah.",
+      "religion": "Yahwism (with later syncretism reported by Jeremiah)",
+      "periodo": "c. 586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-menfis",
+      "titulo": "Isaiah prophesies the dismay of the princes of Memphis",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah includes Memphis (Nof) in his oracle of judgment against Egypt, announcing that his princes will be deceived and led into error, part of an extensive passage that questions traditional Egyptian wisdom.",
+      "referencias": [
+        "Isa 19:13"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-juicio-menfis",
+      "titulo": "Jeremiah announces the desolation of Memphis",
+      "fecha": "c. 600–580 BC",
+      "descripcion": "Jeremiah prophesies that Memphis will be devastated, deserted and without inhabitants, in the context of his oracles against Egypt pronounced especially after the flight of Jewish refugees to that country.",
+      "referencias": [
+        "Jer 46:14",
+        "Jer 46:19"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "ezequiel-imagenes-menfis",
+      "titulo": "Ezekiel announces the end of the Memphis idols",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel, in his extensive oracle against Egypt, specifically announces that he will destroy the images and put an end to the idols of Memphis, targeting the very heart of the Egyptian religious system in one of its cities of greatest cultic prestige.",
+      "referencias": [
+        "Ezek 30:13"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_menfis",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He questions the traditional wisdom of the Memphis counselors in their extensive oracle of judgment against Egyptian power.",
+      "referencias": [
+        "Isa 19:1-15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_menfis",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He prophesies the desolation of Memphis in the broader context of his oracles against Egypt, spoken in part during his own forced exile to that country following the fall of Jerusalem.",
+      "referencias": [
+        "Jer 46:1-26"
+      ],
+      "ruta": [
+        "tahpanhes",
+        "memphis"
+      ]
+    },
+    {
+      "id": "ezequiel_menfis",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of exile",
+      "periodo": "hierro_2",
+      "descripcion": "He announces the end of the idols and the cultic system of Memphis in his extensive oracle of judgment against Egypt.",
+      "referencias": [
+        "Ezek 30:1-19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "In the late prophetic corpus, Memphis represents Egyptian power in its dual capacity of apparent refuge and real threat to the survivors of Judah: the oracles coincide in announcing divine judgment on this great capital and its polytheistic religious system, simultaneously warning against the false confidence placed by some Jews in Egyptian protection against the inevitability of the judgment that will also reach this neighboring power.",
+    "religiones_presentes": [
+      "Yahwism (prophetic oracles perspective)",
+      "Egyptian polytheism — worship of Ptah and other deities"
+    ],
+    "mitos": [
+      {
+        "id": "juicio-convergente-tres-profetas-menfis",
+        "nombre": "The converging judgment of three prophets on Memphis",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 19:13; Jer 46:14-19; Ez 30:13",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la convergencia de tres profetas distintos —Isaías, Jeremías y Ezequiel, en períodos separados por más de un siglo— en su anuncio de juicio contra la misma ciudad egipcia",
+          "descripcion": "Jewish tradition observes with interest that three major prophets, active in different historical periods separated by generations, independently converge in their announcement of judgment against Memphis, interpreting this prophetic coincidence sustained over time as confirmation of the inevitability of the destiny announced against the Egyptian power.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The convergence of multiple prophetic voices across different generations in the announcement of the same judgment reinforces the certainty and authority of the prophetic message about the fate of the great pagan powers.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

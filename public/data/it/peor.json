@@ -1,0 +1,165 @@
+{
+  "id": "peor",
+  "nombre": "Peggio",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.767231,
+  "lng": 35.71856575741812,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Comparte coordenadas con Pisgá — son cumbres vecinas de la misma cordillera de Abarim, en Moab, frente a Jericó.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: Monte dell'idolatria associato a Baal-peggiore"
+    }
+  ],
+  "descripcion_geo": "Monte sulla catena montuosa Abarim, in Moab, che dà il nome alla divinità locale Baal-peor, il cui culto contaminerebbe gravemente l'accampamento israelita a Shittim. È anche uno dei momenti più alti da cui Balak prende Balaam nella speranza di ottenere una maledizione contro Israele.",
+  "altitud_m": 700,
+  "clima": "Altopiano semiarido: estati secche e calde, inverni freddi, tipici della catena montuosa Abarim in Moab.",
+  "recursos": [
+    "Punto di culto locale elevato a Baal-peggiore",
+    "Posizione panoramica utilizzata per gli oracoli di Balaam"
+  ],
+  "importancia_estrategica": "Il monte Peor dà il nome al più grave episodio di idolatria del pellegrinaggio nel deserto (Baal-peor in Shittim) ed è anche l'ultimo dei tre punti da cui Balak tenta, senza successo, di far maledire a Balaam Israele, chiudendo il ciclo degli oracoli di Balaam con la benedizione più estesa e messianicamente carica delle tre.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_peor",
+      "nombre": "Popolazione Moab",
+      "descripcion": "Adoratori locali di Baal-peor, la divinità che dà il nome alla montagna e il cui culto diventa fonte dell'apostasia israelita a Shittim.",
+      "religion": "Politeismo moabita: culto di Baal-peggiore",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "balac_seguito_peor",
+      "nombre": "Balak e il suo entourage",
+      "descripcion": "Re di Moab e i suoi principi accompagnano Balaam sulla vetta del Peor nel terzo e ultimo tentativo di ottenere una maledizione contro Israele.",
+      "religion": "Politeismo moabita",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "balac-balaam-peor",
+      "titulo": "Balak porta Balaam sulla vetta del Peor",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo il fallimento dei precedenti tentativi di Bamot-baal e Pisgah, Balak porta Balaam sulla vetta del Peor, che domina il deserto, sperando che un terzo angolo di visuale sull'accampamento israelita possa finalmente produrre la maledizione desiderata.",
+      "referencias": [
+        "Nm 23:28"
+      ],
+      "personajes_clave": [
+        "balaam",
+        "balac"
+      ]
+    },
+    {
+      "id": "cuarto-oraculo-balaam-peor",
+      "titulo": "Gli oracoli finali di Balaam da Peor",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Da Peor, Balaam, senza più ricorrere a presagi, guardando direttamente verso il deserto dove si accampa Israele, pronuncia sotto lo Spirito di Dio l'oracolo più ampio e carico messianicamente dell'intera sequenza, inclusa la famosa profezia di 'una stella sorgerà da Giacobbe', oltre ad oracoli aggiuntivi contro Moab, Edom, Amalek e altri popoli.",
+      "referencias": [
+        "Nm 24:10-24"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "nombre-baal-peor-origen",
+      "titulo": "La montagna dà il nome alla divinità dell'apostasia a Shittim",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Il nome del monte Peor è direttamente associato alla divinità locale 'Baal-peor', il cui culto, praticato a Shittim, innesca la grave apostasia israelita e la successiva pestilenza fermata dall'intervento di Finehas.",
+      "referencias": [
+        "Nm 25:1-3",
+        "Dt 4:3"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "balaam_peor",
+      "nombre": "Balaam",
+      "rol": "Veggente assunto da Balac",
+      "periodo": "bronce_tardio",
+      "descripcion": "Da Peor pronuncia il suo oracolo finale e più esteso, comprendente la profezia messianica della stella di Giacobbe, confermando definitivamente davanti a Balak l'impossibilità di maledire chi YHWH ha benedetto.",
+      "referencias": [
+        "Nm 24:10-24"
+      ],
+      "ruta": [
+        "pisgah",
+        "peor"
+      ]
+    },
+    {
+      "id": "balac_peor",
+      "nombre": "Balak",
+      "rol": "Re di Moab",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo il fallimento definitivo del terzo tentativo di maledizione dopo Peor, si arrabbia con Balaam e lo licenzia, vedendo frustrato il suo intero piano contro Israele.",
+      "referencias": [
+        "Nm 24:10-11",
+        "Nm 24:25"
+      ],
+      "ruta": [
+        "peor"
+      ]
+    },
+    {
+      "id": "finees_peor",
+      "nombre": "Finehas",
+      "rol": "Sacerdote che ferma l'apostasia legato a Baal-peggio",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Sebbene agisca a Sitim, il suo intervento risponde direttamente all'apostasia associata al culto di Baal-peor, fermando la peste e ricevendo l'alleanza sacerdotale perpetua.",
+      "referencias": [
+        "Nm 25:6-13"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il monte Peor incarna un duplice volto teologico: in quanto cornice del più ampio e messianicamente significativo oracolo di Balaam, conferma definitivamente l'inviolabilità della benedizione divina su Israele; come origine del nome della divinità il cui culto contamina Israele a Shittim, rappresenta anche il pericolo costante di assimilazione idolatra ai margini della terra promessa. Entrambi gli episodi – benedizione confermata e apostasia avvertita – si verificano nella stessa regione geografica, sottolineando la tensione tra l’incrollabile elezione divina e la responsabilità umana di mantenere la fedeltà.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo moabita: culto di Baal-peggiore"
+    ],
+    "mitos": [
+      {
+        "id": "estrella-jacob-peor",
+        "nombre": "La profezia delle stelle di Giacobbe",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 24:17",
+          "fuente_secundaria": "Comentario rabínico tradicional que vincula la profecía con figuras mesiánicas o líderes militares posteriores (incluida la aplicación histórica a Bar Kojba en la revuelta del siglo II d.C.)",
+          "descripcion": "La tradizione ebraica interpreta la 'stella che sorgerà da Giacobbe' come riferimento a un futuro liberatore o re messianico di Israele, interpretazione che in alcuni periodi storici venne applicata anche a specifici capi militari che cercarono di legittimare la propria leadership facendo appello a questa profezia pronunciata paradossalmente da un veggente straniero.",
+          "similitudes": "Condivide con il cristianesimo la lettura messianica generale della profezia, anche se con identificazioni storiche diverse.",
+          "diferencias": null,
+          "significado_teologico": "La profezia conferma che anche un veggente pagano, sotto lo Spirito di YHWH, deve proclamare la futura grandezza di Israele e la sua guida unta.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nm 24:17 (recepción tipológica neotestamentaria, vinculada tradicionalmente con la estrella de Belén en Mt 2:1-12)",
+          "fuente_secundaria": "Comentarios patrísticos que conectan la profecía de Balaam con el relato de los magos guiados por una estrella",
+          "descripcion": "La tradizione cristiana legge la profezia della 'stella di Giacobbe' come un annuncio profetico della nascita di Gesù, stabilendo un tradizionale collegamento tipologico con il racconto evangelico della stella che guida i saggi verso Betlemme.",
+          "similitudes": "Condivide con la lettura ebraica la natura messianica della profezia di Balaam.",
+          "diferencias": "L'identificazione specifica con la nascita di Gesù e la stella di Betlemme è una lettura esclusivamente cristiana, assente nell'interpretazione ebraica tradizionale.",
+          "significado_teologico": "La profezia pronunciata da un veggente pagano diventa un'involontaria testimonianza esterna della venuta del Messia, rafforzando l'universalità dell'annuncio messianico.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo di Balaam come testimonianza profetica riconosciuta in entrambe le tradizioni, anche se con identificazioni messianiche diverse."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Montagna"
+}

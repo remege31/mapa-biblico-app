@@ -1,0 +1,163 @@
+{
+  "id": "rephidim",
+  "nombre": "Refidim/Massa",
+  "tipo": "ciudad",
+  "lat": 28.73106102564323,
+  "lng": 33.84169995726504,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Comparte coordenadas con Masá — son el mismo lugar geográfico bajo distintos nombres conmemorativos (Éx 17:1-7).",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I - Acqua dalla roccia, vittoria su Amalek"
+    }
+  ],
+  "descripcion_geo": "Accampamento dell'esodo nel deserto di Sinai, teatro sia della mancanza d'acqua risolta attraverso il miracolo della roccia di Horeb sia, nello stesso luogo, della prima battaglia campale di Israele contro un nemico esterno: gli Amaleciti.",
+  "altitud_m": 600,
+  "clima": "Deserto montano: estremamente secco e caldo durante il giorno, con temperature più fresche di notte, tipiche della regione montuosa Sinai.",
+  "recursos": [
+    "Roccia dell'Horeb, fonte del miracolo dell'acqua",
+    "Posizione elevata utilizzata da Mosè durante la battaglia contro Amalek"
+  ],
+  "importancia_estrategica": "Rephidim è teatro di due episodi consecutivi di grande importanza: la crisi idrica miracolosamente risolta che dà origine ai nomi Massah e Meribah, e la prima significativa battaglia militare di Israele come nazione organizzata, contro gli Amalechiti, vinta grazie alla posizione sostenuta di Mosè con le mani alzate su una collina vicina.",
+  "otros_habitantes": [
+    {
+      "id": "amalecitas_refidim",
+      "nombre": "Amalechiti",
+      "descripcion": "I nomadi del deserto attaccano Israele a Refidim, il primo nemico militare organizzato affrontato dalle popolazioni appena liberate di Egitto.",
+      "religion": "Politeismo amalechita",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "israelitas_refidim",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Persone che sperimentano a Refidim sia la miracolosa fornitura di acqua che la loro prima vittoria militare come nazione, sotto la guida combinata di Mosè e Giosuè.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "agua-roca-refidim",
+      "titulo": "L'acqua sgorga dalla roccia dell'Horeb a Refidim",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Data la mancanza d'acqua a Refidim, Mosè colpisce per ordine divino la roccia di Horeb, dalla quale sgorga acqua sufficiente per l'intero abitato, episodio che dà origine ai nomi commemorativi di Massah e Meribah per il luogo.",
+      "referencias": [
+        "Es 17:1-7"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "batalla-amalec-refidim",
+      "titulo": "Israele sconfigge Amalek a Refidim",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Amalek attacca Israele a Refidim; Mosè ordina a Giosuè di selezionare gli uomini per combattere, mentre lui stesso sale su una collina con Aronne e Hur, tenendo alto il bastone di Dio; mentre Mosè tiene le mani alzate, Israele prevale, ma quando le abbassa per la stanchezza, Amalek guadagna terreno, finché Aronne e Hur si tengono per mano fino al tramonto, assicurandosi la vittoria definitiva.",
+      "referencias": [
+        "Es 17:8-13"
+      ],
+      "personajes_clave": [
+        "moises",
+        "josue"
+      ]
+    },
+    {
+      "id": "altar-yhwh-nisi-refidim",
+      "titulo": "Mosè costruisci un altare chiamato 'YHWH è il mio stendardo'",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo la vittoria su Amalek, YHWH ordina che l'evento venga scritto come memoriale e ordina che venga dichiarata guerra perpetua ad Amalek; Mosè costruisce un altare che chiama \"YHWH-nisi\" (\"YHWH è il mio stendardo\"), per commemorare la prima vittoria militare di Israele come popolo organizzato.",
+      "referencias": [
+        "Es 17:14-16"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_rephidim",
+      "nombre": "Mosè",
+      "rol": "Capo Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Risolve la crisi idrica e guida simbolicamente la battaglia contro Amalek dalla collina, tenendo in alto il bastone di Dio come segno della dipendenza della vittoria dal potere divino piuttosto che dalla forza militare umana.",
+      "referencias": [
+        "Es 17:1-16"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    },
+    {
+      "id": "josue_rephidim",
+      "nombre": "Giosuè",
+      "rol": "Comandante militare, futuro successore di Mosè",
+      "periodo": "bronce_tardio",
+      "descripcion": "Riceve la sua prima menzione biblica proprio a Refidim, dove Mosè lo nomina a selezionare e comandare gli uomini di Israele nella battaglia contro Amalek, prima apparizione del futuro leader della conquista di Canaan.",
+      "referencias": [
+        "Es 17:9-10",
+        "Es 17:13"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    },
+    {
+      "id": "aaron_hur_rephidim",
+      "nombre": "Aronne e Hur",
+      "rol": "Portamani Mosè",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Sostengono fisicamente le mani stanche di Mosè durante la prolungata battaglia contro Amalek, assicurandosi che rimangano sollevate fino alla vittoria finale al tramonto del sole, un esempio di supporto collaborativo decisivo in un momento critico.",
+      "referencias": [
+        "Es 17:12"
+      ],
+      "ruta": [
+        "rephidim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Rephidim collega due episodi fondamentali dell'Esodo sotto lo stesso tetto geografico: la miracolosa fornitura d'acqua che rivela il carattere provvidenziale di YHWH, e la prima vittoria militare di Israele, che stabilisce il modello teologico secondo cui il successo in guerra dipende direttamente dalla postura di dipendenza spirituale (le mani alzate di Mosè) piuttosto che dalla strategia o dalla forza militare convenzionale, un principio rafforzato dalla dichiarazione di guerra perpetua contro Amalek come punizione per aver attaccato un nuovo persone vulnerabili liberate.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo amalechita"
+    ],
+    "mitos": [
+      {
+        "id": "manos-alzadas-moises-amalec",
+        "nombre": "Le mani alzate di Mosè e la vittoria su Amalek",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 17:8-16",
+          "fuente_secundaria": "Mishná, tratado Rosh Hashaná 3:8 (discusión sobre el significado de las manos alzadas de Moisés, aclarando que no era la posición física en sí la causa de la victoria sino la orientación del corazón del pueblo hacia el cielo)",
+          "descripcion": "La tradizione rabbinica classica discute esplicitamente l'episodio per chiarire che non furono le mani stesse di Mosè a determinare la vittoria militare, ma piuttosto la sua postura fungeva da promemoria visivo che indirizzava i cuori di Israele verso la dipendenza di YHWH dal cielo, evitando qualsiasi interpretazione magica o superstiziosa del gesto fisico.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento del valore simbolico della postura di preghiera sostenuta.",
+          "diferencias": null,
+          "significado_teologico": "L'episodio stabilisce che la vera vittoria militare dipende dall'orientamento spirituale del popolo verso YHWH, simboleggiato ma non magicamente causato dal gesto fisico di Mosè.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 17:8-13 (recepción tipológica patrística sobre las manos alzadas de Moisés como figura de la cruz u oración perseverante)",
+          "fuente_secundaria": "Comentarios patrísticos que asocian la postura de Moisés con la oración intercesora constante necesaria para la victoria espiritual",
+          "descripcion": "La tradizione patristica cristiana, in alcune correnti, legge tipologicamente la postura di Mosè con le braccia tese come prefigurante la croce, mentre un'altra linea di interpretazione sottolinea più in generale il valore della preghiera di intercessione sostenuta e del sostegno comunitario (rappresentato da Aronne e Hur) come necessari per sostenere la lotta spirituale nel tempo.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento che la vittoria dipende da una prolungata dipendenza spirituale da Dio.",
+          "diferencias": "Alcune letture cristiane aggiungono una dimensione tipologica esplicita (le mani tese come una figura della croce) assente nell'interpretazione ebraica tradizionale.",
+          "significado_teologico": "L'episodio viene letto come un modello di preghiera perseverante e di sostegno comunitario necessario per sostenere la lotta spirituale fino alla vittoria finale.",
+          "posible_relacion_cultural": "Ricezione cristiana del racconto dell'Esodo riletto in chiave devozionale e, in alcune correnti, tipologica."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "ziklag",
+  "nombre": "Ziklag",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.3776,
+  "lng": 34.8736,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 15,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città cananea nella pianura meridionale"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Hierro I — Città filistea ceduta a Davide come base operativa"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Città del Regno di Giuda"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Ziklag (ebraico: צִקְלַג) era una città nel sud Giuda, nella zona di transizione tra la Shephelah e il Negev settentrionale, a circa 25 km a nord-est di Beersheba. La sua identificazione è dibattuta tra Tell esh-Shari'a (Tel Sera) e Tell el-Khuweilfeh, entrambi nell'area settentrionale del Negev. Originariamente assegnata alla tribù di Giuda (Gs 15:31) e poi a Simeone (Gs 19:5), era una città filistea quando Davide viveva come vassallo di Achis di Gat. La città ha il dubbio onore di essere il luogo in cui Davide ha ricevuto la notizia della morte di Saul e dove ha giustiziato il messaggero che pensava gli avesse portato buone notizie.",
+  "altitud_m": 90,
+  "clima": "Semiarido di transizione verso il Negev: precipitazioni di 200-300 mm all'anno, estati molto calde e secche, inverni freddi. Estesa zona di pascolo e limitata agricoltura nelle zone aride.",
+  "recursos": [
+    "Pascoli per bestiame estensivo",
+    "Controllo delle rotte carovaniere verso il Negev e Sinai",
+    "Agricoltura non piovosa negli anni favorevoli",
+    "Posizione strategica tra Filistea e il Negev israeliano",
+    "Base operativa per le incursioni nel deserto"
+  ],
+  "importancia_estrategica": "Ziklag è stata la base operativa di Davide durante i suoi sedici mesi come vassallo del re filisteo Achis di Gat. Da lì Davide ha simulato raid contro il Negev di Giuda mentre in realtà attaccava i nemici di Israele (Amalekites, Gesurites, Gizrites). La città fu data a Davide come feudo personale — \"è appartenuta ai re di Giuda fino ad oggi\" (1 Sam 27:6) — diventando il primo territorio propriamente davidico prima del suo regno.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-ziklag",
+      "nombre": "Filistei sotto Achis di Gat",
+      "descripcion": "Ziklag apparteneva al territorio della città-stato filistea di Gat quando Davide arrivò come rifugiato politico. Il re Achis lo diede a Davide come feudo, rendendo il futuro re di Israele vassallo di un re filisteo per sedici mesi. L’ambiguità politica di questo periodo – Davide come signore filisteo che di fatto proteggeva Israele – è uno degli episodi più complessi della narrativa davidica.",
+      "religion": "Politeismo filisteo — Dagon e divinità di Gat",
+      "periodo": "Ferro I, c. 1012-1010 a.C"
+    },
+    {
+      "id": "amalecitas-ziklag",
+      "nombre": "Amalechiti del Negev",
+      "descripcion": "Gli Amalechiti che bruciarono Ziklag e presero prigioniere tutte le sue mogli e i suoi figli (comprese le due mogli di Davide) operavano dal Negev e da Sinai. Il loro attacco durante l'assenza di Davide e dei suoi uomini fu un colpo di opportunismo: sapevano che la città era incustodita mentre i guerrieri Filistei marciavano con Achish. La velocità della risposta di Davide - inseguimento di quattrocento chilometri e recupero di tutto il bottino senza vittime tra i prigionieri - è uno degli episodi militari più ammirati della sua carriera.",
+      "religion": "Animismo del deserto: culto di divinità nomadi senza santuari fissi",
+      "periodo": "Ferro I, c. 1010 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-vasallo-aquis",
+      "titulo": "Davide in Ziklag: il re in esilio come vassallo filisteo",
+      "fecha": "c. 1012–1010 a.C.",
+      "descripcion": "In fuga da Saul, Davide con seicento uomini e le loro famiglie si rifugiarono a Gat sotto il re filisteo Achis. Achish gli concesse Ziklag come feudo. Da lì Davide fece incursioni contro i Gesuriti, Gizriti e Amaleciti - nemici del Negev - ma disse ad Achish che stava attaccando il Negev di Giuda. Achish si fidava di Davide: 'Si è reso odioso al suo popolo Israele, e sarà il mio servitore per sempre.' Quando l'Filistei marciò contro Israele prima della battaglia di Guilboa, Aquis voleva che Davide andasse con lui. I signori Filistei rifiutarono: 'Che ci fanno qui questi ebrei? Potrebbe rivoltarsi contro di noi.\" Aquis ha espulso Davide con elogi. La diplomazia di Davide a Ziklag – mantenendo la fiducia di un re straniero mentre serviva effettivamente gli interessi israeliti – è un esempio dell'astuzia politica che avrebbe definito il suo regno.",
+      "referencias": [
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11",
+        "1 Sam 27:6"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "aquis"
+      ]
+    },
+    {
+      "id": "ziklag-incendiada",
+      "titulo": "Ziklag in fiamme: Davide al limite della leadership",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Quando Davide e i suoi uomini tornarono dalla manifestazione filistea, trovarono Ziklag rasa al suolo e tutte le loro donne e bambini fatti prigionieri dagli Amalechiti. Il pianto era così grande che non c'era più la forza di fare di più. La gente parlava di lapidare Davide: ognuno piangeva per i propri figli e figlie. Il testo poi registra: 'Davide si rafforzò in Jahvè il suo Dio.' Consultò il sacerdote Abiathar con l'efod. Jahvè ha risposto: \"Inseguili, li raggiungerai e salverai tutto\". Partirono in quattrocento: duecento furono sfiniti nello uadi di Besor. Li guidava uno schiavo egiziano abbandonato dagli Amalechiti. Trovarono l'esercito amalechita che festeggiava il bottino. Attaccarono dall'alba fino al pomeriggio del giorno successivo. Hanno recuperato tutto – donne, bambini, bestiame – senza perdere nessuno. Quando i quattrocento non vollero spartire il bottino con i duecento rimasti, Davide stabilì uno statuto: 'Colui che andò in battaglia varrà come per colui che custodiva i bagagli; parti uguali.\" Questa regola è diventata legge permanente in Israele.",
+      "referencias": [
+        "1 Sam 30:1-25",
+        "1 Sam 30:6",
+        "1 Sam 30:24-25"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "abiatar-keilah",
+        "esclavo-egipcio"
+      ]
+    },
+    {
+      "id": "muerte-saul-ziklag",
+      "titulo": "La notizia di Guilboa: l'Amalekita che uccise il messaggero",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Il terzo giorno dopo essere tornato dal salvataggio dei prigionieri, un uomo arrivò a Ziklag con i vestiti strappati e la testa sporca, in segno di lutto. Era un Amalekita proveniente dall'accampamento di Israele. Ha detto che Saul e Jonathan erano morti. Raccontò che lui stesso aveva ucciso Saul su richiesta del re stesso, che non poteva più resistere. Ha portato la fascia reale e il braccialetto di Saul da regalare a Davide. Ha sbagliato i calcoli: pensava che Davide avrebbe ricevuto la notizia come una liberazione dal suo inseguitore. Davide si stracciò i vestiti, si lamentò e pianse. Poi chiese al messaggero: 'Come mai non hai avuto paura di stendere la mano per uccidere l'Unto di Jahvè?' E ne ordinò l'esecuzione: \"Il tuo sangue sulla tua testa, perché la tua stessa bocca ha testimoniato contro di te dicendo che ho ucciso l'unto di Jahvè\". Ziklag è quindi il luogo in cui Davide ha dimostrato che la sua lealtà a Saul era genuina – non calcolata – e dove ha pronunciato il lamento più bello dell'Antico Testamento: \"Come sono caduti i potenti!\" Jonathan, nella tua altezza rimani morto.'",
+      "referencias": [
+        "2 Sam 1:1-27",
+        "2 Sam 1:14-16",
+        "2 Sam 1:19-27"
+      ],
+      "personajes_clave": [
+        "david-ziklag",
+        "amalecita-mensajero"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david-ziklag",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, signore di Ziklag come feudo filisteo",
+      "periodo": "hierro_2",
+      "descripcion": "I sedici mesi di Davide a Ziklag rappresentano il periodo più ambiguo della sua vita: vassallo di un re filisteo, finge di attaccare Israele proteggendone i confini, recupera Ziklag bruciato e stabilisce la legge della parità di bottino. A Ziklag Davide raggiunge il suo punto più basso (la gente voleva lapidarlo) e il suo punto più alto di fedeltà (giustiziando il messaggero che uccise l'unto di Jahvè). Il lamento per Saul e Jonathan composto nello Ziklag — il 'Canto dell'Arco' (2 Sam 1,17-27) — è il brano poetico più intenso dell'Antico Testamento storico.",
+      "referencias": [
+        "1 Sam 27:1-30:31",
+        "2 Sam 1:1-27",
+        "2 Sam 2:1-4"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "keilah",
+        "ziklag",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "aquis",
+      "nombre": "Qui da Gat",
+      "rol": "Re filisteo di Gat, signore feudale di Davide a Ziklag",
+      "periodo": "c. 1020–1000 a.C.",
+      "descripcion": "Achish ben Maoch era il re di Gat, la città filistea più vicina all'area operativa di Davide nel sud. La sua fiducia in Davide era assoluta e, in un certo senso, ingenua: credeva sinceramente che Davide fosse diventato il nemico di Israele. Rinunciò a Ziklag come feudo personale, volle portarlo nella battaglia di Guilboa e lo difese contro i signori Filistei che diffidavano di lui. Achish è il re straniero dell'Antico Testamento rappresentato in modo più positivo in relazione a Israele: trattava Davide con lealtà e generosità, ed era ricambiato con un inganno benevolo. Il paradosso dell’alleanza Davide-Achish – il futuro re di Israele al servizio del filisteo che più danneggiò Israele – è una delle ironie più dense della narrativa davidica.",
+      "referencias": [
+        "1 Sam 21:11-16",
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "esclavo-egipcio",
+      "nombre": "Lo schiavo egiziano abbandonato",
+      "rol": "Schiavo abbandonato dagli Amalechiti, guida provvidenziale di Davide",
+      "periodo": "c. 1010 a.C.",
+      "descripcion": "Lo schiavo egiziano senza nome che Davide trovò abbandonato in campagna è uno dei personaggi più inaspettati della narrativa davidica. Era rimasto senza cibo né bevande per tre giorni quando gli uomini di Davide lo trovarono. Davide gli diede del pane, dell'acqua, una fetta di torta di fichi e due mazzi di uva passa. Ristabilitosi, chiese: \"Puoi guidarmi fino a questa truppa?\" Lo schiavo pose una condizione: che Davide giurasse di non ucciderlo né di consegnarlo al suo padrone. Accettato l'accordo, lo guidò direttamente all'accampamento amalechita. Senza di lui, Davide non avrebbe trovato gli Amaleciti nella distesa del deserto. L'episodio illustra il principio narrativo davidico: la divina provvidenza utilizza strumenti inaspettati - uno schiavo pagano affamato - per raggiungere i suoi scopi.",
+      "referencias": [
+        "1 Sam 30:11-16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ziklag è la città in cui Davide ha toccato il fondo ed è risalito. La crisi dell'incendio e del rapimento delle famiglie – con la gente pronta a lapidarlo – fu il momento di maggiore solitudine nella sua carriera prima del regno. La risposta del testo è concisa e potente: 'Davide è stato rafforzato in Jahvè il suo Dio.' Non c'è visione, non c'è angelo, non c'è profeta: solo la decisione personale di cercare Jahvè sul confine. La legge del bottino uguale stabilita da Davide a Ziklag – parti uguali per chi ha combattuto e per chi è rimasto – è diventata uno statuto permanente, trasformando una decisione di leadership in un principio di giustizia.",
+    "religiones_presentes": [
+      "Davidico Yahvismo — consultare l'efod, preghiera personale in crisi",
+      "Politeismo filisteo - contesto della città fornito da Achish da Gat",
+      "Animismo amalechita: nemici del Negev che bruciarono la città"
+    ],
+    "mitos": [
+      {
+        "id": "david-fortalecido-yhwh",
+        "nombre": "Davide rafforzato in Jahvè: fiducia nel limite assoluto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 30:6; Sal 18:1-3; Sal 22:1-5",
+          "fuente_secundaria": "Talmud Bavli, Berajot 10a; Midrash Samuel 23",
+          "descripcion": "Il Talmud (Brachot 10a) utilizza l'esempio di Davide in Ziklag per illustrare il principio secondo cui la fiducia in Dio deve essere mantenuta anche quando tutti sono contrari. Il Midrash Samuele sviluppa che 'Davide è stato rafforzato in Jahvè il suo Dio' significa che ha ricordato a se stesso le sue precedenti esperienze di salvezza divina. I Salmi attribuiti a Davide in periodi di persecuzione (22, 57, 142) riflettono esattamente questo schema: sprofondare nel lamento seguito dal rafforzarsi nella fiducia. L'episodio Ziklag è il prototipo biografico dei Salmi di Lamento.",
+          "similitudes": "La fede che si rafforza al limite della disperazione personale è un principio condiviso dalla tradizione ebraica e da quella cristiana.",
+          "diferencias": "L'ebraismo enfatizza la memoria degli interventi divini passati come fondamento per il rafforzamento; il NT aggiunge la dimensione dello Spirito Santo come presenza interiore.",
+          "significado_teologico": "La leadership autentica inizia con una relazione personale con Dio, non con l’autorità esterna. Davide ha perso la fiducia del suo popolo e ha ritrovato quella di Dio, poi ha riconquistato quella del suo popolo. L'ordine conta.",
+          "posible_relacion_cultural": "Il motivo dell'eroe nel suo punto più basso che trova la forza interiore per riprendersi è universale nella letteratura eroica. La specificità biblica è il contenuto: non è una forza interiore ma un rafforzamento nel rapporto con Dio – un atto di fede, non di volontà."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 30:6; 2 Cor 4:8-9; Fil 4:13",
+          "fuente_secundaria": "Agustín, Confesiones VIII,12; Juan Crisóstomo, Homilías sobre los Salmos",
+          "descripcion": "L'espressione 'Davide si rafforzò in Jahvè il suo Dio' fu usata dai Padri della Chiesa come archetipo della grazia che sostiene il credente nella tribolazione. Paolo in 2 Cor 4,8-9 usa lo stesso schema: 'turbato ma non schiacciato, perplesso ma non disperato, perseguitato ma non abbandonato, abbattuto ma non distrutto.' Giovanni Crisostomo ha utilizzato l'episodio dello Ziklag nelle sue catechesi sulla persecuzione: il cristiano la cui città brucia e i cui cari vengono portati via deve fare ciò che Davide: rafforzare la sua fiducia in Dio prima di agire. Il gesto di Davide di consultare l'efod prima di perseguitare gli Amalechiti è stato letto come figura della preghiera di discernimento.",
+          "similitudes": "Il rafforzamento in Dio come fondamento di un'azione efficace al limite delle forze umane è identico in entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento porta questo principio fino alla morte e alla risurrezione: il limite massimo non è il fuoco di Ziklag ma la croce, e il massimo rafforzamento è la risurrezione.",
+          "significado_teologico": "La fede genuina non anestetizza il dolore – Davide ha pianto fino a non avere più le forze – ma piuttosto fornisce le basi per agire dopo aver pianto. Rafforzarsi in Dio non è una negazione della realtà ma un fondamento per affrontarla.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

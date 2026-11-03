@@ -1,0 +1,151 @@
+{
+  "id": "lystra",
+  "nombre": "Lystra",
+  "tipo": "ciudad",
+  "lat": 37.5833,
+  "lng": 32.3667,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman city in southern Galatia (Lycaonia), military colony established by Augustus.",
+  "altitud_m": 1020,
+  "clima": "continental-dry",
+  "recursos": [
+    "cattle raising",
+    "agriculture",
+    "trade"
+  ],
+  "importancia_estrategica": "Roman military colony on the route into the interior of Anatolia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lys_h1",
+        "titulo": "Healing of the lame and divine confusion",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Paul heals a lame man; the Lycaonians take them for Hermes and Zeus.",
+        "referencias": [
+          "Acts 14:8-18"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "lys_h2",
+        "titulo": "Paul stoned and left for dead",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Jews from Iconium persuade the crowd; Paul is stoned and dragged out of the city.",
+        "referencias": [
+          "Acts 14:19-20"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "lys_h3",
+        "titulo": "Conversion of Timothy",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Timothy, son of a Jewish mother and Greek father, becomes Lystra.",
+        "referencias": [
+          "Acts 16:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Timoteo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lys_p1",
+        "nombre": "Timothy",
+        "rol": "Paul Contributor",
+        "periodo": "s. I AD",
+        "descripcion": "Born in Lystra, son of Eunice; inseparable companion of Paul.",
+        "referencias": [
+          "Acts 16:1"
+        ],
+        "ruta": [
+          "lystra",
+          "ephesus",
+          "corinth"
+        ]
+      },
+      {
+        "id": "lys_p2",
+        "nombre": "Paul of Tarsus",
+        "rol": "Missionary",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "Stoned in Lystra but survived to continue his mission.",
+        "referencias": [
+          "Acts 14:19"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lys_p3",
+        "nombre": "Eunice",
+        "rol": "Timothy's mother",
+        "periodo": "s. I AD",
+        "descripcion": "Believing Jewish woman who raised her son in the faith.",
+        "referencias": [
+          "2 Tim 1:5"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Roman colony where the gospel collided with popular religiosity; Timothy embodies the encounter between Judaism and Hellenism.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "lys_m1",
+          "nombre": "Hermes and Zeus visit Lystra",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The Lycaonians confuse Paul and Barnabas with gods; The episode reveals the contrast between the gospel and polytheism.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Lycaonians confuse Paul and Barnabas with gods; The episode reveals the contrast between the gospel and polytheism.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

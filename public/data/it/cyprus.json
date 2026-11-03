@@ -1,0 +1,212 @@
+{
+  "id": "cyprus",
+  "nombre": "Cipro",
+  "tipo": "territorio",
+  "lat": 35.1264,
+  "lng": 33.4299,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Isola mediterranea a sud dell'Anatolia, ricca di rame. Provincia senatoria romana.",
+  "altitud_m": 340,
+  "clima": "mediterraneo",
+  "recursos": [
+    "rame",
+    "legna",
+    "venni",
+    "ulivi"
+  ],
+  "importancia_estrategica": "Isola strategica che collega l'Asia Minore, la Siria e Egitto.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "bernabe",
+      "nombre": "Barnaba",
+      "rol": "«Figlio della consolazione», missionario di Cipro",
+      "periodo": "apostolico",
+      "descripcion": "Levita cipriota della chiesa primitiva. Presentò Paolo agli apostoli, guidò la chiesa di Antiochia e andò in missione con Paolo fino alla loro separazione, quando tornò a Cipro con Giovanni Marco.",
+      "referencias": [
+        "At 4:36-37",
+        "At 11:22-26",
+        "At 15:36-39"
+      ],
+      "ruta": [
+        "cyprus",
+        "jerusalen",
+        "antioch"
+      ],
+      "viajes": [
+        {
+          "nombre": "Inviato a Antiochia",
+          "ruta": [
+            "jerusalen",
+            "antioch",
+            "tarsus",
+            "antioch"
+          ],
+          "referencias": [
+            "At 11:22-26"
+          ]
+        },
+        {
+          "nombre": "Primo viaggio con Paolo",
+          "ruta": [
+            "antioch",
+            "cyprus",
+            "perge",
+            "antioch_pisidia",
+            "iconium",
+            "lystra",
+            "derbe",
+            "antioch"
+          ],
+          "referencias": [
+            "At 13:1–14:28"
+          ]
+        },
+        {
+          "nombre": "Ritorno a Cipro con Marcos",
+          "ruta": [
+            "antioch",
+            "cyprus"
+          ],
+          "referencias": [
+            "At 15:36-39"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cyp_h1",
+        "titulo": "Primo viaggio missionario: Cipro",
+        "fecha": "ca. 46 d.C.",
+        "descripcion": "Paolo e Barnaba predicano a Salamina e a Pafo; Convertono il proconsole Sergio Paolo.",
+        "referencias": [
+          "At 13:4-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Sergio Paulo",
+          "Elimas"
+        ]
+      },
+      {
+        "id": "cyp_h2",
+        "titulo": "Confronto con il mago Elymas",
+        "fecha": "ca. 46 d.C.",
+        "descripcion": "Paolo acceca il mago Bar-Gesù (Elymas) per essersi opposto al Vangelo.",
+        "referencias": [
+          "At 13:8-11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Elimas"
+        ]
+      },
+      {
+        "id": "cyp_h3",
+        "titulo": "Barnaba ritorna a Cipro",
+        "fecha": "ca. 49 d.C.",
+        "descripcion": "Dopo la separazione con Paolo, Barnabas si reca a Cipro con Marcos.",
+        "referencias": [
+          "At 15:39"
+        ],
+        "personajes_clave": [
+          "Bernabé",
+          "Juan Marcos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cyp_p1",
+        "nombre": "Barnaba",
+        "rol": "Apostolo cipriota",
+        "periodo": "s. I d.C.",
+        "descripcion": "Nato a Cipro; cofondatore della Missione alle Gentili.",
+        "referencias": [
+          "At 4:36"
+        ],
+        "ruta": [
+          "cyprus",
+          "antioch"
+        ]
+      },
+      {
+        "id": "cyp_p2",
+        "nombre": "Paolo di Tarso",
+        "rol": "Missionario",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Evangelizzò Cipro durante il suo primo viaggio missionario.",
+        "referencias": [
+          "At 13:4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cyp_p3",
+        "nombre": "Sergio Paolo",
+        "rol": "Proconsole romano",
+        "periodo": "s. I d.C.",
+        "descripcion": "Governatore che credette al Vangelo dopo aver visto la cecità del mago.",
+        "referencias": [
+          "At 13:12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Isola ellenistica con culto di Afrodite; primo territorio pagano evangelizzato sistematicamente da Paolo.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "cyp_m1",
+          "nombre": "Afrodite e Cipro",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Cipro era famosa per il culto di Afrodite; il Vangelo si scontrò con questo paganesimo quando Paolo convertì il proconsole.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Cipro era famosa per il culto di Afrodite; il Vangelo si scontrò con questo paganesimo quando Paolo convertì il proconsole.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

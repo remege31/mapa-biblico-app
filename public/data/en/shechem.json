@@ -1,0 +1,190 @@
+{
+  "id": "shechem",
+  "nombre": "Shechem",
+  "tipo": "ciudad",
+  "lat": 32.2072,
+  "lng": 35.2786,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 65,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1550,
+      "nombre": "Middle Bronze Age — Patriarchal Period"
+    },
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Canaanite city-state"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Israel Tribal Center"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Short-lived capital of the Northern Kingdom"
+    }
+  ],
+  "descripcion_geo": "Shechem is situated in the geographical heart of Canaan, at the pass between Mount Ebal (940 m) and Mount Gerizim (881 m), the two most prominent peaks of the central mountain range of Samaria. This position between two mountains—the scene of the blessings and curses of the covenant—made it the natural crossroads of the north-south and east-west routes of the entire land. Today it corresponds approximately to the city of Nablus.",
+  "altitud_m": 500,
+  "clima": "Mountain Mediterranean — wetter than Judea. Precipitation of 600-700 mm annually. The passage between Ebal and Guerizim channels the winds from the Mediterranean, generating microclimates favorable for agriculture.",
+  "recursos": [
+    "Water (springs of the pass between Ebal and Gerizim)",
+    "The Jacob Well (the most famous in the region)",
+    "Fertile agricultural land in the valley",
+    "Olive groves and vineyards",
+    "Strategic trade route"
+  ],
+  "importancia_estrategica": "Communications hub of the Canaan center. The city that controlled Shechem controlled access between north and south, and between the Mediterranean and the Jordan. Its position as the first place where Abraham planted an altar, the first place of tribal assembly and the first capital of the northern kingdom reflects its political and religious centrality.",
+  "otros_habitantes": [
+    {
+      "id": "hivitas-siquem",
+      "nombre": "Hivites by Shechem",
+      "descripcion": "The Hivites ruled Shechem when Jacob arrived with his family. Prince Hamor and his son Shechem proposed integration through mixed marriages after the Dinah episode. Simeon and Levi massacred them, taking advantage of the fact that all the men had been circumcised, provoking the wrath of Jacob.",
+      "religion": "Canaanite polytheism — cult of Baal-Berit (Lord of the Covenant), titular god of the temple of Shechem",
+      "periodo": "c. 1800–1200 BC"
+    },
+    {
+      "id": "efraim-manase",
+      "nombre": "Tribes of Ephraim and Manasseh",
+      "descripcion": "Shechem was left in the territory of Ephraim and was assigned as a city of refuge (Josh 20:7; 21:21). Joseph's bones, brought from Egypt, were buried in the field of Hamor near Shechem (Josh 24:32), completing the narrative circle of the patriarchs.",
+      "religion": "Yahwism tribal — covenant assembly in Shechem (Jos 24)",
+      "periodo": "c. 1200–930 BC"
+    },
+    {
+      "id": "samaritanos-guerizim",
+      "nombre": "Samaritans",
+      "descripcion": "After the fall of Samaria (722 BC), the mixed population developed its own Yahwism centered on Mount Gerizim. The Samaritans built a temple at Gerizim destroyed by John Hyrcanus (128 BC). The Samaritan woman in the Gospel of John alludes directly to this controversy.",
+      "religion": "Yahwism Samaritan — temple on Mount Gerizim, Pentateuch as the only Scripture",
+      "periodo": "c. 722 BC onwards"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-primer-altar",
+      "titulo": "The first altar of Abraham in Canaan",
+      "fecha": "c. 1850 BC",
+      "descripcion": "Shechem was the first place where Abraham stopped when reaching Canaan, next to the Moré oak forest. There YHWH appeared to him and said: To your descendants I will give this land. Abraham built an altar—the first mentioned in Canaan—before continuing to Bethel. The oak of Moreh, probably an Canaanite oracle tree, was appropriated by the Yahwist narrative as the first place of revelation in the promised land.",
+      "referencias": [
+        "Gen 12:6-7"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "asamblea-jos24",
+      "titulo": "The great assembly of the covenant: I and my house will serve the LORD",
+      "fecha": "c. 1180 BC",
+      "descripcion": "At the end of his life, Joshua summoned all the tribes of Israel into Shechem to renew the covenant with YHWH. He reviewed the history of salvation from Abraham to the conquest and put before the people a choice: to serve the gods of the fathers or YHWH. The people's response was sealed with a stone raised as a witness under the oak tree of the sanctuary.",
+      "referencias": [
+        "Josh 24:1-28"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "abimelec-rey",
+      "titulo": "Abimelech: the first king of Israel and the fable of the trees",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Abimelech, son of Gideon, killed seventy brothers on the same stone and was proclaimed king next to the oak forest of Shechem. His brother Jotham pronounced the first political fable in the Bible from Mount Gerizim: the trees chose the thorn king because the good trees—olive, fig, vine—preferred their own vocation. Shechem finally destroyed Abimelech, who died when a woman threw a millstone at him.",
+      "referencias": [
+        "Judg 9:1-57"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob-siquem",
+      "nombre": "Jacob",
+      "rol": "Patriarch, owner of the field where Joseph was buried",
+      "periodo": "bronce_medio",
+      "descripcion": "Jacob bought the field near Shechem from the sons of Hamor for a hundred pieces of silver. There he pitched his tent and erected an altar that he called El-Elohe-Israel (God, the God of Israel). The Jacob field in Shechem is where Joseph's bones found their final resting place, bringing the patriarchal saga full circle.",
+      "referencias": [
+        "Gen 33:18-20",
+        "Gen 34:1-31",
+        "Josh 24:32"
+      ],
+      "ruta": [
+        "haran",
+        "shechem",
+        "bethel",
+        "hebron"
+      ]
+    },
+    {
+      "id": "josue-siquem",
+      "nombre": "Joshua",
+      "rol": "Conductor of the covenant assembly",
+      "periodo": "bronce_tardio",
+      "descripcion": "At the end of his life, Joshua chose Shechem for the great covenant renewal assembly. This choice confirms the symbolic weight of the city: first altar of Abraham, field of Jacob, crossing of the mountains of blessing and curse. The stone raised by Joshua as a witness to the pact is one of the last acts of the conquest.",
+      "referencias": [
+        "Josh 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "roboam-siquem",
+      "nombre": "Rehoboam",
+      "rol": "Last king of the united kingdom, first by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "Rehoboam went to Shechem because all of Israel had gone to make him king. When he refused to ease the burdens imposed by Solomon, the ten northern tribes separated under Jeroboam. The split of the United Kingdom occurred precisely in Shechem, the place where Joshua had renewed the unity pact.",
+      "referencias": [
+        "1 Kgs 12:1-19"
+      ],
+      "ruta": [
+        "shechem",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shechem is the geographical and theological center of the territorial promise. It is the first place where YHWH is revealed in Canaan (to Abraham), the place of the great covenant assembly (with Joshua) and the scene of the political breakup of the people (with Rehoboam). The pair of Ebal-Gerizim mountains physically frame the condition of the covenant: the land is a gift and a demand simultaneously. In the New Testament, the Well of Jacob is the site of Jesus's dialogue with the Samaritan woman.",
+    "religiones_presentes": [
+      "Canaanite polytheism (worship of Baal-Berit in the temple of Shechem)",
+      "Yahwism patriarchal and conquest",
+      "Samaritan Yahwism (centered on Mount Gerizim)",
+      "Second Temple Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "guerizim-ebal",
+        "nombre": "Blessings in Gerizim, curses in Ebal",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deuteronomio 11:29-30; 27:11-26; Josué 8:30-35",
+          "fuente_secundaria": "Mishná, Sotá 7:5; Talmud Bavli, Sotá 32a-37b",
+          "descripcion": "Moses ordered that upon entering Canaan, six tribes would stand on Mount Gerizim to pronounce blessings and six on Mount Ebal for cursing. Joshua fulfilled the command: he built an altar in Ebal, offered sacrifices, and read the entire Torah before the people.",
+          "similitudes": "Mountain blessing and cursing ceremonies have parallels in Hittite covenant renewal rituals.",
+          "diferencias": "The Samaritan tradition places the altar in the Gerizim, not in the Ebal; The difference between the Masoretic and Samaritan Pentateuchs on this point is one of the most significant.",
+          "significado_teologico": "The promised land is not unconditional: its possession depends on fidelity to the covenant. The landscape itself proclaims this condition.",
+          "posible_relacion_cultural": "Hittite vassalage treaties of the Late Bronze Age include lists of blessings and curses comparable in structure and function."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

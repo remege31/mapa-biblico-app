@@ -1,0 +1,136 @@
+{
+  "id": "assyria",
+  "nombre": "Assyria",
+  "tipo": "territorio",
+  "lat": 36.36,
+  "lng": 43.15,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 149,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -900,
+      "hasta": -612,
+      "nombre": "Assyrian period"
+    }
+  ],
+  "descripcion_geo": "Mesopotamian empire with capital in Nineveh, in the north of the Tigris. Dominant power of the Ancient East during the 9th-7th centuries BC.",
+  "altitud_m": 200,
+  "clima": "continental-dry",
+  "recursos": [
+    "river agriculture",
+    "trade",
+    "minerals"
+  ],
+  "importancia_estrategica": "Empire that conquered the northern kingdom (Israel) in 722 BC. and deported its inhabitants.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "asi_h1",
+      "titulo": "Fall of the Northern Kingdom: Israel deported",
+      "fecha": "722 BC",
+      "descripcion": "The Assyrian king Shalmaneser V and then Sargon II conquer Samaria and deport the ten northern tribes.",
+      "referencias": [
+        "2 Kgs 17:1-6"
+      ],
+      "personajes_clave": [
+        "Oseas (rey)",
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "asi_h2",
+      "titulo": "Sennacherib threatens Jerusalem",
+      "fecha": "701 BC",
+      "descripcion": "The Assyrian king Sennacherib besieges Jerusalem; The angel of the Lord strikes 185,000 Assyrian soldiers in one night.",
+      "referencias": [
+        "2 Kgs 18-19",
+        "Isa 36-37"
+      ],
+      "personajes_clave": [
+        "Ezequías",
+        "Isaías",
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "asi_h3",
+      "titulo": "Jonah in Nineveh",
+      "fecha": "ca. s. VIII BC",
+      "descripcion": "The prophet Jonah preaches repentance in Nineveh, capital of Assyria; the entire city repents.",
+      "referencias": [
+        "Jonah 3"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asi_p1",
+      "nombre": "Sennacherib",
+      "rol": "King by Assyria",
+      "periodo": "705-681 BC",
+      "descripcion": "He besieged Jerusalem but failed in his conquest; He was murdered by his children.",
+      "referencias": [
+        "2 Kgs 19:36-37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p2",
+      "nombre": "Tiglath-Pileser III",
+      "rol": "King by Assyria",
+      "periodo": "745-727 BC",
+      "descripcion": "He began massive deportations of conquered peoples; subjugated Israel.",
+      "referencias": [
+        "2 Kgs 15:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "asi_p3",
+      "nombre": "Sargon II",
+      "rol": "King by Assyria",
+      "periodo": "722-705 BC",
+      "descripcion": "He conquered Samaria and deported the ten tribes of Israel.",
+      "referencias": [
+        "2 Kgs 17:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Polytheistic empire with worship of Assur; He used exile as a political weapon. Its fall in 612 B.C. It was interpreted as divine judgment by the prophets.",
+    "religiones_presentes": [
+      "Assyrian_paganism"
+    ],
+    "mitos": [
+      {
+        "id": "asi_m1",
+        "nombre": "The Assyria trial",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The prophets Nahun and Isaiah announced the destruction of Nineveh as God's judgment on the oppressor.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The prophets Nahun and Isaiah announced the destruction of Nineveh as God's judgment on the oppressor.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

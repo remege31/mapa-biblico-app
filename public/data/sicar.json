@@ -1,0 +1,122 @@
+{
+  "id": "sicar",
+  "nombre": "Sicar",
+  "tipo": "ciudad",
+  "lat": 32.228,
+  "lng": 35.286,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Aldea samaritana al pie del monte Ebal, junto al pozo de Jacob, cerca de la antigua Siquem.",
+  "altitud_m": 520,
+  "clima": "mediterráneo",
+  "recursos": [
+    "agua de pozo",
+    "trigo",
+    "olivos"
+  ],
+  "importancia_estrategica": "Punto de paso en la ruta entre Judea y Galilea a través de Samaria.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sic_h1",
+        "titulo": "La samaritana junto al pozo",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Jesús conversa con una mujer samaritana junto al pozo de Jacob y se revela como el Mesías; muchos samaritanos creen en él.",
+        "referencias": [
+          "Jn 4:5-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "La samaritana",
+          "Los discípulos"
+        ]
+      },
+      {
+        "id": "sic_h2",
+        "titulo": "Los campos listos para la siega",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Mientras la samaritana regresa a la ciudad, los discípulos vuelven con comida e invitan a Jesús a comer. Él responde que su alimento es hacer la voluntad del Padre y los invita a alzar la vista: los campos están blancos para la siega.",
+        "referencias": [
+          "Jn 4:27-38"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Los discípulos"
+        ]
+      },
+      {
+        "id": "sic_h3",
+        "titulo": "Los samaritanos creen y Jesús se queda dos días",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Muchos samaritanos de la ciudad creen por el testimonio de la mujer y piden a Jesús que se quede; permanece dos días y muchos más creen por sus palabras. Lo reconocen como Salvador del mundo.",
+        "referencias": [
+          "Jn 4:39-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "La samaritana"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sic_p1",
+        "nombre": "La samaritana",
+        "rol": "Primera evangelista de Samaria",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mujer que dialoga con Jesús junto al pozo de Jacob y lleva la noticia a su aldea.",
+        "referencias": [
+          "Jn 4:5-42"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sic_p2",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías",
+        "periodo": "n. ca. 6-4 a.C.; m. ca. 30 d.C.",
+        "descripcion": "Se detiene junto al pozo de Jacob, cansado del camino, y dialoga con la samaritana sobre el agua viva y la adoración «en espíritu y en verdad».",
+        "referencias": [
+          "Jn 4:5-26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "sic_p3",
+        "nombre": "Jacob / Israel",
+        "rol": "Patriarca",
+        "periodo": "ca. 1800 a.C. (tradición)",
+        "descripcion": "El texto vincula el pozo junto a Sicar con Jacob, que dio la parcela a su hijo José; la samaritana lo invoca como «nuestro padre Jacob».",
+        "referencias": [
+          "Jn 4:5-6",
+          "Jn 4:12",
+          "Gn 33:19",
+          "Gn 48:22"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

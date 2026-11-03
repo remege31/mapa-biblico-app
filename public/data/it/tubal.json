@@ -1,0 +1,132 @@
+{
+  "id": "tubal",
+  "nombre": "tubarica",
+  "tipo": "territorio",
+  "lat": 40.91,
+  "lng": 37.8,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città settentrionale menzionata insieme a Meshech e Gog; identificato con popolazioni anatoliche o caucasiche.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "I popoli del Nord negli oracoli escatologici di Ezechiele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tub_h1",
+      "titulo": "Tubal nella tavola delle nazioni",
+      "fecha": "ca. s. V a.C.",
+      "descripcion": "Tubal è figlio di Jafet insieme a Meshech; Rappresentano persone del nord del mondo biblico conosciuto.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "tub_h2",
+      "titulo": "Tubal: commerciante di schiavi in ​​Tiro",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezechiele descrive come Tubal e Meshech commerciavano schiavi e vasi di bronzo con Tiro.",
+      "referencias": [
+        "Ez 27:13"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "tub_h3",
+      "titulo": "Tubal nella coalizione di Gog",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Gog è il principe di Meshech e Tubal nella profezia escatologica di Ezechiele.",
+      "referencias": [
+        "Ez 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tub_p1",
+      "nombre": "Ezechiele",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Menzionò Tubal come parte dell'esercito escatologico di Gog.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p2",
+      "nombre": "Iafet",
+      "rol": "Figlio di Noè",
+      "periodo": "ca. s. V a.C.",
+      "descripcion": "Padre di Tubal nella tavola delle nazioni; progenitore dei popoli del nord.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p3",
+      "nombre": "Isaia",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Ha profetizzato che negli ultimi giorni Dio manderà messaggeri a Tubal per annunciare la sua gloria.",
+      "referencias": [
+        "Is 66:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tubal: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tub_m1",
+        "nombre": "Le città dell'estremo nord",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Tubal e Meshech rappresentano i limiti settentrionali del mondo conosciuto; negli oracoli escatologici attaccano Israele ma vengono distrutti da Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tubal e Meshech rappresentano i limiti settentrionali del mondo conosciuto; negli oracoli escatologici attaccano Israele ma vengono distrutti da Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

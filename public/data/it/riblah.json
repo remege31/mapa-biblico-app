@@ -1,0 +1,153 @@
+{
+  "id": "riblah",
+  "nombre": "Ribla",
+  "tipo": "ciudad",
+  "lat": 34.431703,
+  "lng": 36.545259,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: quartier generale babilonese, processo a Sedechia"
+    }
+  ],
+  "descripcion_geo": "Città della Siria, sul fiume Oronte, in posizione strategica per controllare le rotte tra Egitto e Mesopotamia, utilizzata come quartier generale militare sia dal faraone Necho che, più decisamente, da Nabucodonosor durante le sue campagne contro Giuda.",
+  "altitud_m": 400,
+  "clima": "Mediterraneo continentale: estati calde e secche, inverni freddi con piogge, tipici della Valle dell'Oronte in Siria.",
+  "recursos": [
+    "Posizione strategica sulla rotta tra Egitto e Mesopotamia",
+    "Quartier generale militare delle potenze imperiali",
+    "Abbondanza di acqua ed erba per sostenere grandi eserciti"
+  ],
+  "importancia_estrategica": "Ribla è teatro di due episodi decisivi per il destino finale del regno di Giuda: primo, il faraone Necao vi depone il re Jehoahaz e lo porta prigioniero a Egitto; Poi, più tragicamente, Nabucodonosor stabilisce il suo quartier generale a Riblah durante l'assedio finale di Gerusalemme, ed è lì che il re Sedechia, catturato dopo aver tentato di fuggire, viene portato ad assistere all'esecuzione dei suoi stessi figli prima di essere accecato e deportato a Babilonia.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_riblah",
+      "nombre": "Esercito egiziano sotto Necho",
+      "descripcion": "Forze del faraone Necao che stabiliscono temporaneamente il loro quartier generale a Ribla, da dove depongono il re Jehoahaz di Giuda.",
+      "religion": "Politeismo egiziano",
+      "periodo": "C. 609 a.C"
+    },
+    {
+      "id": "babilonios_riblah",
+      "nombre": "Esercito babilonese sotto Nabucodonosor",
+      "descripcion": "Le forze imperiali babilonesi stabiliscono il loro quartier generale principale a Riblah durante la campagna finale contro Gerusalemme, luogo del giudizio su Sedekia e i nobili di Giuda.",
+      "religion": "Politeismo babilonese – culto di Marduk",
+      "periodo": "C. 587–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "necao-depone-joacaz-riblah",
+      "titulo": "Necao depone Joacaz a Ribla",
+      "fecha": "c. 609 a.C.",
+      "descripcion": "Dopo soli tre mesi di regno, il faraone Necho convoca Jehoahaz, re di Giuda, a Ribla, lo depone e lo porta prigioniero a Egitto, dove infine muore, imponendo al suo posto suo fratello Jehoiakim come re vassallo di Egitto.",
+      "referencias": [
+        "2 Re 23:31-34"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "sedequias-juicio-riblah",
+      "titulo": "Sedekiah viene processato a Ribla dopo la caduta di Gerusalemme",
+      "fecha": "c. 586 a.C.",
+      "descripcion": "Catturato mentre fuggiva attraverso le pianure di Gerico dopo la caduta di Gerusalemme, Sedechia viene portato davanti a Nabucodonosor a Riblah; Lì il re babilonese ordina che i figli di Sedechia vengano giustiziati davanti ai suoi occhi, e infine ordina che venga accecato e legato con catene di bronzo per essere deportato a Babilonia.",
+      "referencias": [
+        "2 Re 25:5-7",
+        "Ger 39:5-7",
+        "Ger 52:9-11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "nobles-juda-ejecutados-riblah",
+      "titulo": "Nobili e sacerdoti di Giuda vengono giustiziati a Riblá",
+      "fecha": "c. 586 a.C.",
+      "descripcion": "Oltre al giudizio su Sedechia, Nabucodonosor ordina che diversi funzionari e capi sacerdoti di Gerusalemme, tra cui il sommo sacerdote Seraiah, siano portati a Riblah, dove vengono giustiziati per ordine diretto del re babilonese, chiudendo tragicamente il destino della leadership religiosa e politica del regno di Giuda.",
+      "referencias": [
+        "2 Re 25:18-21",
+        "Ger 52:24-27"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "necao_riblah",
+      "nombre": "Necao, Faraone di Egitto",
+      "rol": "Faraone egiziano, depostore di Ioacaz",
+      "periodo": "c. 609 a.C.",
+      "descripcion": "Stabilisce la sua autorità su Giuda deponendo Jehoahaz a Riblah e imponendo Jehoiakim come re vassallo, episodio che segna l'inizio del periodo finale e turbolento del regno di Giuda prima della sua distruzione definitiva.",
+      "referencias": [
+        "2 Re 23:31-35"
+      ],
+      "ruta": [
+        "riblah"
+      ]
+    },
+    {
+      "id": "nabucodonosor_riblah",
+      "nombre": "Nabucodonosor",
+      "rol": "Re di Babilonia, cacciatorpediniere di Gerusalemme",
+      "periodo": "c. 605–562 a.C.",
+      "descripcion": "Stabilisce il suo quartier generale a Riblah durante la campagna finale contro Gerusalemme, eseguendo personalmente il giudizio su Sedekiah e sui principali leader di Giuda catturati lì.",
+      "referencias": [
+        "2 Re 25:6-7",
+        "2 Re 25:18-21"
+      ],
+      "ruta": [
+        "riblah"
+      ]
+    },
+    {
+      "id": "sedequias_riblah",
+      "nombre": "Sedechia",
+      "rol": "L'ultimo re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Viene catturato, processato e severamente punito a Ribla: costretto ad assistere all'esecuzione dei suoi stessi figli prima di essere accecato e deportato a Babilonia, chiudendo tragicamente la stirpe dei re davidici sul trono di Giuda.",
+      "referencias": [
+        "2 Re 25:5-7"
+      ],
+      "ruta": [
+        "jericho",
+        "riblah",
+        "babylon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Riblah è lo scenario del momento di massima umiliazione e distruzione del regno di Giuda: il giudizio su Sedechia, testimone della morte dei propri figli prima di essere accecato, rappresenta il compimento letterale e devastante degli avvertimenti profetici reiterati per decenni sulle conseguenze della persistente infedeltà all'alleanza con YHWH, segnando la fine definitiva della monarchia davidica indipendente fino alla restaurazione post-esilica.",
+    "religiones_presentes": [
+      "Yahvismo (prospettiva della storia biblica)",
+      "Politeismo egiziano e babilonese (potenze imperiali successive)"
+    ],
+    "mitos": [
+      {
+        "id": "cumplimiento-juicio-sedequias-riblah",
+        "nombre": "Il compimento del giudizio profetico nella tragedia di Sedechia a Ribla",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 25:5-7; Jer 39:5-7",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el cumplimiento literal de las advertencias proféticas en el castigo de Sedequías, conectado con la profecía paradójica de Ezequiel (Ez 12:13) que anunciaba que el rey sería llevado a Babilonia sin verla, cumplida precisamente por su ceguera",
+          "descripcion": "La tradizione ebraica nota con particolare attenzione come la specifica punizione di Sedekia a Riblah – accecamento prima di essere deportato – realizzi letteralmente e quasi paradossalmente la precedente profezia di Ezechiele secondo cui il re sarebbe stato portato a Babilonia 'senza vederlo', risolvendo così l'apparente contraddizione tra due profezie distinte (quella di Geremia sul destino di Sedekia e quella di Ezechiele sul non vedere Babilonia) dal dettaglio specifico della cecità inflitta a Ribla.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il compimento preciso e perfino paradossale di profezie apparentemente contraddittorie nel destino di Sedechia conferma l'assoluta attendibilità della parola profetica, anche nei suoi dettagli più specifici e apparentemente difficili da armonizzare.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

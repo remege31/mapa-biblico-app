@@ -1,0 +1,85 @@
+{
+  "id": "cana",
+  "nombre": "Cane",
+  "tipo": "ciudad",
+  "lat": 32.7463,
+  "lng": 35.3395,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Galilee village about 12 km north of Nazareth, in the Baja hills Galilee.",
+  "altitud_m": 220,
+  "clima": "Mediterranean",
+  "recursos": [
+    "vineyards",
+    "olive trees",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Scenario of the first miracle of Jesus; home of Nathanael.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "can_h1",
+        "titulo": "The wedding at Cana",
+        "fecha": "ca. 27 AD",
+        "descripcion": "Jesus turns water into wine at a wedding, his first miraculous sign according to John.",
+        "referencias": [
+          "John 2:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "Los discípulos"
+        ]
+      },
+      {
+        "id": "can_h2",
+        "titulo": "Distance healing",
+        "fecha": "ca. 28 AD",
+        "descripcion": "From Cana, Jesus heals the son of a royal official who was dying in Capernaum.",
+        "referencias": [
+          "John 4:46-54"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Oficial real"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "can_p1",
+        "nombre": "Nathanael",
+        "rol": "Disciple of Jesus",
+        "periodo": "s. I AD",
+        "descripcion": "A native of Cana, called by Jesus under the fig tree; traditionally identified with Bartholomew.",
+        "referencias": [
+          "John 1:45-51",
+          "John 21:2"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "sheba",
+  "nombre": "Saba",
+  "tipo": "territorio",
+  "lat": 9.02,
+  "lng": 38.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Regno dell'Arabia meridionale (l'attuale Yemen o Etiopia settentrionale), famoso per il commercio di spezie, incenso e oro.",
+  "altitud_m": 1200,
+  "clima": "tropicale-arido",
+  "recursos": [
+    "incenso",
+    "mirra",
+    "oro",
+    "spezie",
+    "avorio"
+  ],
+  "importancia_estrategica": "Centro del commercio dell'incenso; La Regina di Saba ha visitato Salomone ed è un simbolo di saggezza che cerca la verità.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "La Regina di Saba visita Salomone",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "La regina di Saba si reca a Gerusalemme con cammelli carichi di spezie, oro e pietre preziose per mettere alla prova Salomone con enigmi.",
+      "referencias": [
+        "1 Re 10:1-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "I doni di Saba al Tempio",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "La regina di Saba dona a Salomone centoventi talenti d'oro, molte spezie e pietre preziose; Salomone le ha dato tutto ciò che chiedeva.",
+      "referencias": [
+        "1 Re 10:10-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "Saba nei profeti e nei salmi",
+      "fecha": "ca. 700-500 a.C.",
+      "descripcion": "Il Salmo 72 e i profeti Isaia e Geremia menzionano Saba come una terra lontana che porterà tributo al re messianico.",
+      "referencias": [
+        "Sal 72:10",
+        "Is 60:6"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "La regina di Saba",
+      "rol": "regina del sud",
+      "periodo": "ca. 950 a.C.",
+      "descripcion": "Ha cercato la saggezza di Salomone; Gesù la cita come esempio di chi cerca la verità (Mt 12,42).",
+      "referencias": [
+        "1 Re 10:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "Salomone",
+      "rol": "Re di Israele",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Impressionò la regina di Saba con la sua saggezza, il suo palazzo e il Tempio.",
+      "referencias": [
+        "1 Re 10:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re fenicio in navigazione",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Le navi di Hiram portavano oro, argento, avorio, scimmie e pavoni da Ofir (forse Saba).",
+      "referencias": [
+        "1 Re 10:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Saba: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "La regina del sud",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 10,1",
+          "fuente_secundaria": "",
+          "descripcion": "La regina di Saba venne dalle estremità della terra per ascoltare la saggezza di Salomone (1 Re 10,1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La regina di Saba venne dalle estremità della terra per ascoltare la saggezza di Salomone (1 Re 10,1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12,42",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù dice che la regina del sud si alzerà in giudizio e condannerà coloro che respingono colui che è più grande di Salomone (Mt 12,42).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù dice che la regina del sud si alzerà in giudizio e condannerà coloro che respingono colui che è più grande di Salomone (Mt 12,42).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 27,22-44",
+          "fuente_secundaria": "",
+          "descripcion": "Bilqis (la regina di Saba) è una figura leggendaria nella tradizione islamica; il Corano narra la sua storia in relazione a Salomone (Sulaiman) (Cor 27,22-44).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bilqis (la regina di Saba) è una figura leggendaria nella tradizione islamica; il Corano narra la sua storia in relazione a Salomone (Sulaiman) (Cor 27,22-44).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

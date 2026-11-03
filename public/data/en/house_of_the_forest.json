@@ -1,0 +1,155 @@
+{
+  "id": "house_of_the_forest",
+  "nombre": "Lebanon Forest House",
+  "tipo": "ciudad",
+  "lat": 31.779694,
+  "lng": 35.230435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — edificio del complejo palaciego de Salomón, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomon palace complex building"
+    }
+  ],
+  "descripcion_geo": "Great hall built by Solomon as part of his palace complex at Jerusalem, named for its rows of Lebanese cedar columns that evoked a forest. It measured one hundred cubits long, fifty wide and thirty high, supported by forty-five columns of cedar arranged in three rows.",
+  "altitud_m": "Integrated into the palace complex, Jerusalem, c. 740-760",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Cedar of Lebanon (columns, beams and coffered ceiling)",
+    "Shields and bucklers of beaten gold stored there",
+    "Real reception and warehouse space"
+  ],
+  "importancia_estrategica": "The Lebanon Forest House was part of Solomon's extensive construction program that demonstrated the wealth and commercial reach of the kingdom, dependent on cedar imported via Joppa by agreement with Hiram of Tyre. It functioned as a reception room, a depository for ceremonial weapons (golden shields) and possibly an arsenal, evidencing the Solomonic fusion between ostentation, defense and administration.",
+  "otros_habitantes": [
+    {
+      "id": "artesanos_tirios_casa_bosque",
+      "nombre": "Tyrian craftsmen and builders",
+      "descripcion": "Specialized workers sent by Hiram of Tyre, along with cedar wood, for the construction of the Solomonic works including the Lebanon Forest House.",
+      "religion": "Phoenician polytheism — cult of Baal, Astarte and Melkart",
+      "periodo": "c. 970–960 BC"
+    },
+    {
+      "id": "funcionarios_palacio_casa_bosque",
+      "nombre": "Officials and royal guard",
+      "descripcion": "Israeli administrative and military personnel responsible for the storage of ceremonial weapons and the use of the building as a royal reception space.",
+      "religion": "Yahwism",
+      "periodo": "c. 970–931 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "construccion-casa-bosque",
+      "titulo": "Solomon builds the Lebanon Forest House",
+      "fecha": "c. 970–960 BC",
+      "descripcion": "As part of his post-Temple building program, Solomon builds his own palace, which includes the House of the Lebanon Forest, a great cedar-columned hall that takes thirteen years to complete along with the rest of the royal complex.",
+      "referencias": [
+        "1 Kgs 7:1-12"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "escudos-oro-casa-bosque",
+      "titulo": "The gold shields deposited in the Forest House",
+      "fecha": "c. 960–950 BC",
+      "descripcion": "Solomon orders two hundred large shields and three hundred small shields made of beaten gold and deposits them in the House of the Forest of Lebanon as a sample of the accumulated wealth of the kingdom during its heyday.",
+      "referencias": [
+        "1 Kgs 10:16-17",
+        "2 Chr 9:15-16"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "saqueo-sisac-casa-bosque",
+      "titulo": "Egypt's Sisac plunders the gold shields",
+      "fecha": "c. 925 BC",
+      "descripcion": "During the reign of Rehoboam, the Egyptian pharaoh Shishak invades Judah and takes the treasures of the Temple and the palace, including the gold shields of the House of the Forest, which Rehoboam later replaces with bronze shields, an episode read as a sign of decline after the Solomonic splendor.",
+      "referencias": [
+        "1 Kgs 14:25-28",
+        "2 Chr 12:9-10"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon_casa_bosque",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the palace complex",
+      "periodo": "hierro_2",
+      "descripcion": "He ordered the construction of the House of the Lebanon Forest as part of his palace and deposited there the famous golden shields, a material symbol of the economic splendor of his reign.",
+      "referencias": [
+        "1 Kgs 7:1-12",
+        "1 Kgs 10:16-17"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "hiram_tiro_casa_bosque",
+      "nombre": "Hiram by Tyre",
+      "rol": "King of Tyre, wood supplier and craftsmen",
+      "periodo": "c. 980–947 BC",
+      "descripcion": "It supplies Solomon with the cedar wood from Lebanon and the specialized craftsmen necessary for the construction of the Forest House and the rest of the palace complex, within the framework of the commercial alliance between both kingdoms.",
+      "referencias": [
+        "1 Kgs 5:1-12"
+      ],
+      "ruta": [
+        "joppa"
+      ]
+    },
+    {
+      "id": "roboam_casa_bosque",
+      "nombre": "Rehoboam",
+      "rol": "King of Judah, successor of Solomon",
+      "periodo": "hierro_2",
+      "descripcion": "After the Egyptian sack of Shishak stripped the House of the Forest of its golden shields, Rehoboam ordered bronze shields to be made as a substitute, a gesture that the biblical text presents as an eloquent symbol of the decline from Solomonic splendor.",
+      "referencias": [
+        "1 Kgs 14:25-28"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The House of the Forest of Lebanon is not a space of worship, but its construction—directly linked to that of the Temple in the same narrative of 1 Kings 7—is part of the broader story about the material legitimation of the Davidic-Solomonian monarchy as an expression of the divine favor promised to David. The subsequent plundering of his treasures by Shishak and his replacement with inferior metal functions in Deuteronomist theology as a tangible sign of divine judgment after Solomon's apostasy in his old age.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Phoenician polytheism (Tyrian craftsmen and materials)"
+    ],
+    "mitos": [
+      {
+        "id": "esplendor-declive-casa-bosque",
+        "nombre": "From gold to bronze: Solomonic splendor and decline",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 10:16-17; 1 Re 14:25-28",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la riqueza de Salomón como cumplimiento y, después, advertencia del peligro de la abundancia material",
+          "descripcion": "Jewish tradition reads the contrast between the original gold shields and their replacement with bronze after the sack of Shishak as a paradigmatic example of how material prosperity, without corresponding fidelity, is ephemeral, linking the episode to Deuteronomic warnings about the dangers of royal wealth.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The passage from gold to bronze symbolizes the spiritual and political deterioration that follows the apostasy of Solomon in his old age, anticipating the future division of the kingdom.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

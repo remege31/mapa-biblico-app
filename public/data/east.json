@@ -1,0 +1,142 @@
+{
+  "id": "east",
+  "nombre": "Oriente (el Este bíblico)",
+  "tipo": "territorio",
+  "lat": 31.95,
+  "lng": 35.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Concepto geográfico bíblico que abarca las tierras al este del Jordán: Transjordán, Siria, Mesopotamia.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Símbolo de lo lejano y desconocido; fuente de los 'hijos del oriente' que son pastores y sabios.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eas_h1",
+      "titulo": "Los hijos del oriente y sus rebaños",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Abraham y sus contemporáneos se relacionan con 'los hijos del oriente', nómadas y pastores de las estepas al este del Jordán.",
+      "referencias": [
+        "Gn 29:1",
+        "Jue 6:3"
+      ],
+      "personajes_clave": [
+        "Jacob"
+      ]
+    },
+    {
+      "id": "eas_h2",
+      "titulo": "Los magos de oriente en el NT",
+      "fecha": "ca. 6-4 a.C.",
+      "descripcion": "Magos 'del oriente' siguen la estrella hasta Belén para adorar al recién nacido rey de los judíos.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "personajes_clave": [
+        "magos"
+      ]
+    },
+    {
+      "id": "eas_h3",
+      "titulo": "Ezequiel ve la gloria entrar desde el oriente",
+      "fecha": "ca. 593 a.C.",
+      "descripcion": "Ezequiel visiona la gloria de Dios regresando al Templo desde el oriente.",
+      "referencias": [
+        "Ez 43:2"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eas_p1",
+      "nombre": "magos de oriente",
+      "rol": "Sabios adoradores",
+      "periodo": "ca. 6-4 a.C.",
+      "descripcion": "Los magos del oriente son los primeros gentiles en adorar al Mesías.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p2",
+      "nombre": "Ezequiel",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Visionó a la gloria de Dios entrando al Templo restaurado desde el oriente.",
+      "referencias": [
+        "Ez 43:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p3",
+      "nombre": "Jacob",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Viajó al oriente para encontrar esposa en Padán; su viaje representa el movimiento entre las tierras.",
+      "referencias": [
+        "Gn 29:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Oriente (el Este bíblico): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "eas_m1",
+        "nombre": "La gloria viene del oriente",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11:23",
+          "fuente_secundaria": "",
+          "descripcion": "La gloria de Dios abandonó el Templo por el oriente (Ez 11:23) y regresará por el oriente (Ez 43:2); los magos del oriente adorarán al Mesías.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La gloria de Dios abandonó el Templo por el oriente (Ez 11:23) y regresará por el oriente (Ez 43:2); los magos del oriente adorarán al Mesías.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2:2",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús nació en Belén; su estrella fue vista en el oriente (Mt 2:2): el cosmos oriental anuncia al Mesías de Occidente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús nació en Belén; su estrella fue vista en el oriente (Mt 2:2): el cosmos oriental anuncia al Mesías de Occidente.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

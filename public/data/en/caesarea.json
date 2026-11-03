@@ -1,0 +1,184 @@
+{
+  "id": "caesarea",
+  "nombre": "Caesarea Maritime",
+  "tipo": "ciudad",
+  "lat": 32.5,
+  "lng": 34.9,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Large artificial harbor built by Herod the Great on the Mediterranean coast of Judea.",
+  "altitud_m": 5,
+  "clima": "Mediterranean",
+  "recursos": [
+    "port",
+    "trade",
+    "fishing",
+    "administration"
+  ],
+  "importancia_estrategica": "Administrative capital of the Roman province of Judea.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "felipe_evangelista",
+      "nombre": "Philip the Evangelist",
+      "rol": "Deacon and evangelist of Samaria and the coast",
+      "periodo": "apostolico",
+      "descripcion": "One of the seven deacons of Jerusalem. He evangelized Samaria, baptized the Ethiopian eunuch on the road to Gaza and settled in Caesarea Maritime with his four prophetess daughters.",
+      "referencias": [
+        "Acts 6:5",
+        "Acts 8",
+        "Acts 21:8-9"
+      ],
+      "ruta": [
+        "jerusalen",
+        "samaria",
+        "ashdod",
+        "caesarea"
+      ],
+      "viajes": [
+        {
+          "nombre": "Mission in Samaria and the coast",
+          "ruta": [
+            "jerusalen",
+            "samaria",
+            "ashdod",
+            "caesarea"
+          ],
+          "referencias": [
+            "Acts 8:4-40"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ces_h1",
+        "titulo": "Baptism of Cornelius",
+        "fecha": "ca. 40 AD",
+        "descripcion": "Peter baptizes the centurion Cornelius, the first Gentile confirmed in the New Testament.",
+        "referencias": [
+          "Acts 10:1-48"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Cornelio"
+        ]
+      },
+      {
+        "id": "ces_h2",
+        "titulo": "Paul imprisoned in Caesarea",
+        "fecha": "ca. 57-59 AD",
+        "descripcion": "Paul remains imprisoned in Caesarea for two years under Governor Félix.",
+        "referencias": [
+          "Acts 23:33-26:32"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Félix",
+          "Festo",
+          "Agripa II"
+        ]
+      },
+      {
+        "id": "ces_h3",
+        "titulo": "Departure of Paul towards Rome",
+        "fecha": "ca. 59 AD",
+        "descripcion": "Paul leaves Caesarea for Rome to be judged before Caesar.",
+        "referencias": [
+          "Acts 27:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ces_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "He spent two years imprisoned in Caesarea before appealing to Caesar.",
+        "referencias": [
+          "Acts 23:33"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ces_p2",
+        "nombre": "Cornelius",
+        "rol": "Converted Roman centurion",
+        "periodo": "s. I AD",
+        "descripcion": "First Gentile baptized, symbol of the opening of the gospel.",
+        "referencias": [
+          "Acts 10:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ces_p3",
+        "nombre": "Philip the Evangelist",
+        "rol": "Deacon and evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "It was set to Caesarea; He welcomed Paul into his home.",
+        "referencias": [
+          "Acts 8:40",
+          "Acts 21:8"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Roman capital with strong military and pagan presence; key scene of the expansion of the gospel to the Gentiles.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "ces_m1",
+          "nombre": "Cornelius' vision",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "An angel appears to the Gentile centurion Cornelius, initiating the conversion of the pagans to the gospel.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "An angel appears to the Gentile centurion Cornelius, initiating the conversion of the pagans to the gospel.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

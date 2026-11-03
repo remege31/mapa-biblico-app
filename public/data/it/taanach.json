@@ -1,0 +1,143 @@
+{
+  "id": "taanach",
+  "nombre": "Taanac",
+  "tipo": "ciudad",
+  "lat": 32.51723975501718,
+  "lng": 35.21632508826309,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: città cananea, battaglia di Debora, città levitica"
+    }
+  ],
+  "descripcion_geo": "Importante città cananea nella pianura di Jezreel, vicina a Meghiddo, alla quale appare spesso abbinata nel testo biblico come riferimento geografico comune per la regione. In seguito designata come città levitica nel territorio di Manasse, anche se geograficamente si trovava in Issacar.",
+  "altitud_m": 130,
+  "clima": "Mediterraneo: estati calde e secche, inverni miti con piogge, tipici della fertile pianura di Jezreel.",
+  "recursos": [
+    "Terre fertili della pianura di Jezreel",
+    "Posizione strategica accanto a Meghiddo sulle rotte commerciali della valle",
+    "Città levitica per Manasse"
+  ],
+  "importancia_estrategica": "Taanac, accanto a Meghiddo, segna la regione della battaglia decisiva tra Debora-Barak e Sisera, menzionata esplicitamente nel Cantico di Debora come il luogo 'presso le acque di Meghiddo' dove i re Cananei combatterono e furono sconfitti; Come Meghiddo, Israele non riesce ad espellere completamente la popolazione cananea originaria durante il periodo dei Giudici, sottoponendola invece ai lavori forzati.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_taanach",
+      "nombre": "Cananei di Taanac",
+      "descripcion": "Popolazione originaria della città, che Manasse non riesce ad espellere completamente secondo il verbale dei Giudici, rimanendo sottomessa ai lavori forzati invece che allo sterminio totale.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C. e persistente dopo"
+    },
+    {
+      "id": "levitas_taanach",
+      "nombre": "Abiti della linea cappotto",
+      "descripcion": "Famiglie levitiche assegnate a Taanach come parte del sistema di città sacerdotali distribuite nel territorio di Manasse.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "manases-no-expulsa-taanach",
+      "titulo": "Manasse non riesce ad espellere l'Cananei da Taanac",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Il libro dei Giudici riporta che Manasse non riuscì a espellere gli abitanti di Taanach e dei suoi villaggi, mantenendoli nel territorio sotto il suo dominio soggetto ai lavori forzati invece della prescritta conquista totale.",
+      "referencias": [
+        "Gdc 1:27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "taanach-ciudad-levitica-manases",
+      "titulo": "Taanac designò la città levitica",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Nonostante la sua persistente popolazione cananea, Taanac è ​​formalmente designata come una delle città levitiche all'interno del territorio di Manasse, integrandola nel sistema sacerdotale distribuito di Israele.",
+      "referencias": [
+        "Gs 21:25"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "cantico-debora-taanach-meguido",
+      "titulo": "Taanac nel Cantico di Debora",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "L'ampio Cantico di Debora menziona esplicitamente che «i re vennero e combatterono; poi i re di Canaan combatterono a Taanac, vicino alle acque di Meghiddo', collocando geograficamente in questa regione della pianura la battaglia decisiva contro Sisera.",
+      "referencias": [
+        "Gdc 5:19"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_taanach",
+      "nombre": "Debora",
+      "rol": "Giudice e profetessa, autrice del canto commemorativo",
+      "periodo": "hierro_1",
+      "descripcion": "Commemora la battaglia combattuta vicino a Taanac nel suo ampio canto di vittoria, fissando poeticamente l'esatta geografia dello scontro decisivo contro i re Cananei.",
+      "referencias": [
+        "Gdc 5:1-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cananeos_taanach_personaje",
+      "nombre": "Cananei abitanti di Taanac",
+      "rol": "Popolazione locale non espulsa",
+      "periodo": "c. 1200–1000 a.C.",
+      "descripcion": "Rimangono in città nonostante l'assegnazione tribale a Manasse, sottoposti ai lavori forzati piuttosto che alla completa espulsione, esemplificando il modello di conquista incompleta del libro dei Giudici.",
+      "referencias": [
+        "Gdc 1:27-28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_taanach",
+      "nombre": "Giosuè",
+      "rol": "Organizzatore della distribuzione territoriale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dirige la designazione di Taanach come città levitica nel territorio di Manasse nel sistema di distribuzione su tutto il territorio delle città sacerdotali di Israele.",
+      "referencias": [
+        "Gs 21:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Taanac condivide con Meghiddo lo stesso schema teologico: entrambe sono potenti città cananee che Israele non riesce a conquistare completamente durante il periodo dei Giudici nonostante l'assegnazione tribale formale, servendo come costante promemoria del parziale fallimento della generazione conquistatrice nell'adempiere pienamente al mandato di pieno possesso della terra, finché non vengono finalmente sottomessi dalla provvidenziale vittoria commemorata nel Cantico di Debora.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (popolazione persistente)"
+    ],
+    "mitos": [
+      {
+        "id": "conquista-incompleta-taanach-meguido",
+        "nombre": "La conquista incompleta di Taanac e Meghiddo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 1:27-28; Jue 5:19",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el patrón de conquista incompleta del libro de los Jueces y su relación con la posterior victoria providencial conmemorada en el Cántico de Débora",
+          "descripcion": "La tradizione ebraica collega la menzione della conquista incompleta di Taanac in Giudici 1 con la sua successiva apparizione come scena di vittoria nel Cantico di Debora, notando che il potere Cananeo che Israele inizialmente non poteva sottomettere con la forza viene infine sconfitto generazioni dopo attraverso l'intervento diretto di YHWH, illustrando che l'adempimento delle promesse territoriali opera nei tempi divini, non necessariamente nel momento iniziale previsto dalla generazione della conquista.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il contrasto tra l'iniziale fallita conquista e la successiva provvidenziale vittoria nello stesso luogo dimostra che il compimento delle promesse divine può essere ritardato ma non definitivamente frustrato.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

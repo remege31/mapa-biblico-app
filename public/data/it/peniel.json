@@ -1,0 +1,161 @@
+{
+  "id": "peniel",
+  "nombre": "Penuel",
+  "tipo": "ciudad",
+  "lat": 32.1843727808126,
+  "lng": 35.70287002746794,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Sito del combattimento Giacobbe, distrutto da Gideon"
+    }
+  ],
+  "descripcion_geo": "Luogo accanto allo Jabbok, in Galaad, il cui nome (\"volto di Dio\") commemora direttamente la dichiarazione di Giacobbe dopo il suo combattimento notturno: \"Ho visto Dio faccia a faccia e la mia anima è stata liberata\". Successivamente divenne una città fortificata con una torre difensiva.",
+  "altitud_m": 250,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici della regione Galaad.",
+  "recursos": [
+    "Giacobbe Luogo commemorativo della Teofania",
+    "Torre fortificata (menzionata nell'episodio Gedeone)"
+  ],
+  "importancia_estrategica": "Penuel è soprattutto il luogo dove Giacobbe riceve direttamente la conferma teofanica del suo incontro notturno con il divino; Secoli dopo, il suo rifiuto di sostenere Gedeone durante la persecuzione dei re madianiti – esattamente in parallelo con Sukkot – si traduce nella distruzione della sua torre fortificata come punizione esemplare per la stessa mancanza di solidarietà tribale.",
+  "otros_habitantes": [
+    {
+      "id": "habitantes_peniel_gedeon",
+      "nombre": "Uomini di Penuel",
+      "descripcion": "Popolazione locale che, come quella di Sukkot, rifiuta di fornire aiuto alle truppe di Gedeone durante la persecuzione dei re madianiti, provocando la successiva distruzione della loro torre.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1130 a.C"
+    },
+    {
+      "id": "gaditas_peniel",
+      "nombre": "Tribù di Gad",
+      "descripcion": "Popolazione israelita si stabilì nella regione di Penuel all'interno del territorio assegnato a Gad in Transgiordania.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-nombra-peniel",
+      "titulo": "Giacobbe chiama il luogo Penuel dopo aver visto Dio faccia a faccia",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Immediatamente dopo il suo combattimento notturno e aver ricevuto il nome Israele, Giacobbe nomina il luogo Penuel, dichiarando di aver visto Dio faccia a faccia e di essere sopravvissuto all'esperienza, mentre il sole sorge sopra di lui mentre zoppica attraverso il luogo a causa della ferita alla coscia.",
+      "referencias": [
+        "Gen 32:30-31"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "penuel-rechaza-gedeon",
+      "titulo": "Penuel si rifiuta di aiutare Gideon",
+      "fecha": "c. 1130 a.C.",
+      "descripcion": "Come Sukkot, gli uomini di Penuel si rifiutano di fornire pane alle truppe esauste di Gedeone durante l'inseguimento di Zebah e Zalmunna, rispondendo con lo stesso atteggiamento sprezzante dei loro vicini di Sukkot.",
+      "referencias": [
+        "Gdc 8:8-9"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-destruye-torre-peniel",
+      "titulo": "Gedeone distrugge la torre di Penuel",
+      "fecha": "c. 1130 a.C.",
+      "descripcion": "Dopo la vittoria sui re madianiti, Gedeone ritorna a Penuel e, adempiendo al suo precedente avvertimento, demolisce la torre fortificata della città e uccide gli uomini della popolazione, punizione decisamente più severa di quella inflitta a Sukkot.",
+      "referencias": [
+        "Gdc 8:17"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_peniel",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "Dà il suo nome a Penuel dopo aver dichiarato di aver visto Dio faccia a faccia e di essere sopravvissuto, segnalando il luogo come luogo di teofania diretta nel ciclo patriarcale.",
+      "referencias": [
+        "Gen 32:30-31"
+      ],
+      "ruta": [
+        "jabbok",
+        "peniel",
+        "succoth"
+      ]
+    },
+    {
+      "id": "gedeon_peniel",
+      "nombre": "Gedeone",
+      "rol": "Giudice Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Punisce con eccezionale severità gli uomini di Penuel per il loro rifiuto di sostenere le sue truppe, distruggendo la torre difensiva della città e uccidendone la popolazione, nell'episodio parallelo più estremo alla punizione applicata a Sukkot.",
+      "referencias": [
+        "Gdc 8:8-9",
+        "Gdc 8:17"
+      ],
+      "ruta": [
+        "succoth",
+        "peniel"
+      ]
+    },
+    {
+      "id": "hombres_peniel",
+      "nombre": "Uomini di Penuel",
+      "rol": "Popolazione locale punita da Gedeone",
+      "periodo": "c. 1130 a.C.",
+      "descripcion": "Si rifiutano di aiutare Gedeone seguendo lo stesso schema di Sukkot, ricevendo di conseguenza la punizione più severa della distruzione totale della sua torre fortificata.",
+      "referencias": [
+        "Gdc 8:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Penuel condensa nello stesso luogo due episodi di segno teologico radicalmente opposto: la teofania trasformatrice di Giacobbe, che riceve direttamente la visione del divino e sopravvive per raccontarne la storia, e secoli dopo, la punizione distruttiva su una popolazione che viene meno alla solidarietà fondamentale verso il popolo di Dio in lotta, illustrando che lo stesso luogo può essere luogo sia di un incontro santificante che di giudizio severo a seconda della risposta umana alle circostanze.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "rostro-dios-peniel-mito",
+        "nombre": "Guarda il volto di Dio e sopravvivi a Penuel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:30",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la tensión entre la declaración de Jacob ('he visto a Dios cara a cara') y la afirmación posterior de que 'nadie puede ver a Dios y vivir' (Éx 33:20)",
+          "descripcion": "La tradizione ebraica discute a lungo l'apparente tensione tra l'affermazione di Giacobbe a Penuel e il principio espresso successivamente a Mosè secondo cui nessun essere umano può vedere il volto di Dio e sopravvivere, proponendo varie soluzioni: che Giacobbe vedesse una manifestazione angelica piuttosto che Dio stesso in pienezza, o che l'esperienza di Giacobbe fosse di natura diversa e limitata dalla visione completa negata a Mosè.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il nome Penuel conserva la memoria di un incontro eccezionale con il divino che, nonostante la sua intensità, non portò alla morte di Giacobbe, stabilendo un caso limite nella teologia biblica riguardo alla visibilità di Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 32:30 (recepción patrística sobre las teofanías del Antiguo Testamento como anticipos de la revelación plena en Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos que conectan las apariciones divinas veterotestamentarias con la doctrina de la encarnación",
+          "descripcion": "La tradizione cristiana, in particolare quella patristica, legge le teofanie dell'Antico Testamento come Penuel come un'anticipazione parziale e velata della piena rivelazione di Dio che si completerà nell'incarnazione di Cristo, dove è possibile vedere veramente «il volto di Dio» in modo definitivo.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento dell'eccezionale unicità dell'incontro Giacobbe.",
+          "diferencias": "La lettura cristiana aggiunge una dimensione tipologica che collega l'episodio con la dottrina dell'incarnazione, assente nella tradizionale interpretazione ebraica.",
+          "significado_teologico": "La teofania di Penuel viene letta come parziale anticipazione della rivelazione piena e definitiva di Dio manifestata in Cristo.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Giacobbe come figura fondatrice comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

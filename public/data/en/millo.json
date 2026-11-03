@@ -1,0 +1,158 @@
+{
+  "id": "millo",
+  "nombre": "Millo",
+  "tipo": "ciudad",
+  "lat": 31.781944,
+  "lng": 35.234935,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — Millo es una fortificación interna de la ciudad, no un asentamiento independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — David City Fortification"
+    }
+  ],
+  "descripcion_geo": "Defensive structure of stepped terraces within the City of David, on the eastern slope, which filled and consolidated the gap between the crest of the hill and the Kidron Valley. Its name derives from the Hebrew root 'to fill' (male), describing its function as structural filling of terraces to expand the buildable area of ​​the city.",
+  "altitud_m": "Integrated into the City of David, c. 740-760",
+  "clima": "Mountain Mediterranean — that of Jerusalem, dry summers, cold winters with rain and occasional snow.",
+  "recursos": [
+    "System of stepped terraces for filling and containment",
+    "Expansion of the urbanizable area of ​​the City of David",
+    "Union point between the fortress of Zion and the rest of the city"
+  ],
+  "importancia_estrategica": "The Millo is one of the most significant defensive engineering works in the United Kingdom: David built it after conquering the Jebusite fortress, and Solomon reinforced it as part of its construction program together with the Temple and the palace. It functioned as a structural element that supported and expanded the eastern slope of the hill, allowing the urban growth of Jerusalem towards the north towards the Temple area.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos_millo",
+      "nombre": "Jebusites",
+      "descripcion": "Original population of the fortress of Zion before its conquest by David; The terrace system that would later be known as Millo probably has Jebusites construction antecedents on which David and Solomon build.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1000 BC"
+    },
+    {
+      "id": "trabajadores_forzados_millo",
+      "nombre": "Solomonic forced labor levies",
+      "descripcion": "Labor mobilized by Solomon for its large construction projects, including the reinforcement of the Millo, along with the Temple, the palace and the walls of Jerusalem.",
+      "religion": "Yahwism (Israelite population) and various cults (non-Israelite population subject to levy)",
+      "periodo": "c. 970–931 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-construye-millo",
+      "titulo": "David builds from the Millo inwards",
+      "fecha": "c. 1000 BC",
+      "descripcion": "After conquering the Jebusite stronghold of Zion and establishing it as the City of David, the king built around it from the Millo inland, expanding and consolidating the new capital.",
+      "referencias": [
+        "2 Sam 5:9",
+        "1 Chr 11:8"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "salomon-refuerza-millo",
+      "titulo": "Solomon includes the Millo in its construction program",
+      "fecha": "c. 970–960 BC",
+      "descripcion": "Among the major projects of Solomon—the Temple, his own house, the Millo, and the wall of Jerusalem—is the reinforcement of this defensive structure, supported by forced labor mobilized from the different regions of the kingdom.",
+      "referencias": [
+        "1 Kgs 9:15",
+        "1 Kgs 9:24",
+        "1 Kgs 11:27"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "joas-asesinado-millo",
+      "titulo": "King Joash is assassinated near Millo",
+      "fecha": "c. 796 BC",
+      "descripcion": "King Joash of Judah is murdered by his own servants in the house of Millo (or 'descending to Sulla', according to the reading of the text), in a palace conspiracy that puts an end to his reign after the episode of Zechariah son of Jehoiada.",
+      "referencias": [
+        "2 Kgs 12:20-21",
+        "2 Chr 24:25"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_millo",
+      "nombre": "David",
+      "rol": "King of Israel, founder of the City of David",
+      "periodo": "hierro_2",
+      "descripcion": "He orders the construction of the Millo as part of the consolidation of his new capital after the conquest of the Jebusite fortress, structurally expanding the hill of Zion.",
+      "referencias": [
+        "2 Sam 5:6-10"
+      ],
+      "ruta": [
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "salomon_millo",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the Temple and civil works",
+      "periodo": "hierro_2",
+      "descripcion": "He includes the reinforcement of the Millo among his great architectural projects, along with the Temple and the royal palace, mobilizing forced labor to sustain the expansion of Jerusalem.",
+      "referencias": [
+        "1 Kgs 9:15-24"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joas_milo",
+      "nombre": "Joash by Judah",
+      "rol": "King of Judah, murdered near Millo",
+      "periodo": "c. 835–796 BC",
+      "descripcion": "King who, after a reign initially marked by the restoration of the Temple and then by the abandonment of the Yahwist cult after the death of the priest Joiada, is murdered by his own servants in a conspiracy whose setting the text places near Millo.",
+      "referencias": [
+        "2 Kgs 12:19-21",
+        "2 Chr 24:23-25"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Millo is not in itself a space of worship, but its construction is closely linked to the two great projects of religious legitimation of the Davidic-Solomonian monarchy: the consolidation of Jerusalem as political capital under David and the construction of the Temple under Solomon. Its mention in the assassination of Joash adds an additional layer of meaning, marking the place as the scene of both the consolidation and crisis of royal power in Judah.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (previous Jebusite substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "millo-consolidacion-davidica",
+        "nombre": "The Millo as a symbol of the consolidation of Davidic-Solomonian power",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 5:9; 1 Re 9:15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las obras constructivas de David y Salomón como expresión del establecimiento definitivo de la monarquía en Jerusalén",
+          "descripcion": "Jewish tradition reads the construction and successive reinforcement of the Millo by David and then by Solomon as a continuous material sign of the consolidation of Jerusalem as the political and religious center of Israel, linking the solidity of the physical structure with the stability sought for the Davidic dynasty.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The architectural work is interpreted as a visible expression of the establishment of the Davidic promise about Jerusalem as the chosen city.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

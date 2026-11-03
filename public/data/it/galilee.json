@@ -1,0 +1,156 @@
+{
+  "id": "galilee",
+  "nombre": "Galilea",
+  "tipo": "territorio",
+  "lat": 32.8,
+  "lng": 35.5,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione settentrionale del paese di Israele, tra il monte Hermon e la pianura di Jezreel.",
+  "altitud_m": 500,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "acqua",
+    "agricoltura",
+    "pesca",
+    "commercio"
+  ],
+  "importancia_estrategica": "Cuore del Ministero Gesù; regione crocevia di culture.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gal_h1",
+        "titulo": "Inizio del ministero galileiano",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Dopo il battesimo, Gesù ritorna a Galilea e inizia a predicare il Regno.",
+        "referencias": [
+          "Mt 4:12-17"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gal_h2",
+        "titulo": "Il discorso della montagna",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Gesù impartisce le Beatitudini su una collina di Galilea.",
+        "referencias": [
+          "Mt 5-7"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "doce apóstoles"
+        ]
+      },
+      {
+        "id": "gal_h3",
+        "titulo": "Nozze di Cana",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Il primo miracolo di Gesù: trasforma l'acqua in vino a Cana di Galilea.",
+        "referencias": [
+          "Gv 2:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gal_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia",
+        "periodo": "ca. 6 a.C.–30 d.C.",
+        "descripcion": "Ha svolto gran parte del suo ministero pubblico in Galilea.",
+        "referencias": [
+          "Mt 4:23"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_p2",
+        "nombre": "I Dodici Apostoli",
+        "rol": "Discepoli scelti",
+        "periodo": "s. I d.C.",
+        "descripcion": "La maggioranza erano galilei: pescatori, pubblicani, fanatici.",
+        "referencias": [
+          "Mt 10:1-4"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gal_p3",
+        "nombre": "Erode Antipa",
+        "rol": "Tetrarca di Galilea",
+        "periodo": "4 a.C.–39 d.C.",
+        "descripcion": "Sovrano che giustiziò Giovanni Battista e rifiutò Gesù.",
+        "referencias": [
+          "Lc 23:7-12"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "'Galilea dei Gentili': regione multietnica dove l'ebraismo conviveva con influenze ellenistiche e romane.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "ellenistico_paganesimo",
+        "romano_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "gal_m1",
+          "nombre": "Galilea dei Gentili",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud",
+            "fuente_secundaria": "",
+            "descripcion": "Regione menzionata in Isaia 9:1 come una terra oscura che vedrà una grande luce.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Regione menzionata in Isaia 9:1 come una terra oscura che vedrà una grande luce.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Matteo cita Isaia per presentare il ministero galileiano di Gesù come adempimento profetico.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Matteo cita Isaia per presentare il ministero galileiano di Gesù come adempimento profetico.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

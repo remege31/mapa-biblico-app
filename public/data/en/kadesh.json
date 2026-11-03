@@ -1,0 +1,150 @@
+{
+  "id": "kadesh",
+  "nombre": "Kadesh (Barnea)",
+  "tipo": "ciudad",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 27,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "late bronze"
+    }
+  ],
+  "descripcion_geo": "Oasis in the Zin desert, south of Negev. Israel's main camp during the desert pilgrimage.",
+  "altitud_m": 280,
+  "clima": "arid",
+  "recursos": [
+    "spring water",
+    "grazing"
+  ],
+  "importancia_estrategica": "Israel's base of operations in the desert for almost forty years; starting point of the spies sent to Canaan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kad_h1",
+      "titulo": "The twelve spies sent from Kadesh",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Moses sends twelve spies from Kadesh to reconnoitre Canaan; Ten bring a negative report and the people despair.",
+      "referencias": [
+        "Num 13:17-33"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "kad_h2",
+      "titulo": "The water of Meribah in Kadesh",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "The people murmur for lack of water; Moses hits the rock instead of speaking to it and God forbids him from entering Canaan.",
+      "referencias": [
+        "Num 20:1-13"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón"
+      ]
+    },
+    {
+      "id": "kad_h3",
+      "titulo": "Miriam's death in Kadesh",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "Miriam, the sister of Moses and prophetess of Israel, dies and is buried in Kadesh.",
+      "referencias": [
+        "Num 20:1"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kad_p1",
+      "nombre": "Moses",
+      "rol": "Liberator and legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "In Kadesh he made the mistake that prevented him from entering Canaan; He spent years of pilgrimage here.",
+      "referencias": [
+        "Num 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p2",
+      "nombre": "Miriam",
+      "rol": "Prophetess and sister of Moses",
+      "periodo": "ca. 1320-1250 BC",
+      "descripcion": "She died and was buried in Kadesh; He led the song of victory after crossing the Red Sea.",
+      "referencias": [
+        "Num 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p3",
+      "nombre": "Caleb",
+      "rol": "faithful explorer",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "One of the two spies who trusted God upon returning from exploring Canaan from Kadesh.",
+      "referencias": [
+        "Num 13:30"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Desert oasis where Israel spent most of his forty years of pilgrimage; place of failures and fidelities.",
+    "religiones_presentes": [
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "kad_m1",
+        "nombre": "rock water",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "God makes water flow from the rock in the desert (Ex 17 and Num 20); symbol of divine provision in dryness.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "God makes water flow from the rock in the desert (Ex 17 and Num 20); symbol of divine provision in dryness.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paul interprets the rock in the desert as a figure of Christ: 'the rock was Christ' (1 Cor 10:4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paul interprets the rock in the desert as a figure of Christ: 'the rock was Christ' (1 Cor 10:4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "The miracle of water in the desert also appears in the Islamic tradition about Musa (Moses).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The miracle of water in the desert also appears in the Islamic tradition about Musa (Moses).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

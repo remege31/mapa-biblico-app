@@ -1,0 +1,247 @@
+{
+  "id": "achaia",
+  "nombre": "Acaya",
+  "tipo": "territorio",
+  "lat": 38.23,
+  "lng": 21.73,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -146,
+      "hasta": 100,
+      "nombre": "Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana en el sur de Grecia, con Corinto como capital. Centro intelectual y comercial del mundo helenístico.",
+  "altitud_m": 100,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "mármol",
+    "cerámica",
+    "filosofía"
+  ],
+  "importancia_estrategica": "Provincia donde Pablo fundó la iglesia de Corinto y se relacionó con Atenas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ach_h1",
+      "titulo": "Pablo en Acaya: Atenas y Corinto",
+      "fecha": "ca. 51-52 d.C.",
+      "descripcion": "Pablo predica en el Areópago de Atenas y luego funda la iglesia en Corinto, capital de Acaya, donde permanece 18 meses.",
+      "referencias": [
+        "Hch 17-18"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h2",
+      "titulo": "La colecta para los santos de Jerusalén en Acaya",
+      "fecha": "ca. 57 d.C.",
+      "descripcion": "Pablo elogia la generosidad de Acaya (Corinto) en la colecta para los pobres de Jerusalén.",
+      "referencias": [
+        "2 Co 9:2"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "ach_h3",
+      "titulo": "Galión el procónsul de Acaya",
+      "fecha": "ca. 52 d.C.",
+      "descripcion": "El procónsul Galión rechaza la acusación de los judíos contra Pablo, declarando que es un asunto de su propia ley.",
+      "referencias": [
+        "Hch 18:12-16"
+      ],
+      "personajes_clave": [
+        "Galión",
+        "Pablo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ach_p1",
+      "nombre": "Pablo de Tarso",
+      "rol": "Apóstol",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Fundó la iglesia de Corinto en Acaya; escribió las cartas a los Corintios desde y para esta región.",
+      "referencias": [
+        "Hch 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p2",
+      "nombre": "Galión",
+      "rol": "Procónsul romano de Acaya",
+      "periodo": "ca. 52 d.C.",
+      "descripcion": "Rechazó la acusación contra Pablo; su mandato sirve como anclaje cronológico del NT.",
+      "referencias": [
+        "Hch 18:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ach_p3",
+      "nombre": "Crispo",
+      "rol": "Jefe de la sinagoga de Corinto",
+      "periodo": "s. I d.C.",
+      "descripcion": "Convertido por Pablo en Acaya; su conversión fue señal del poder del evangelio.",
+      "referencias": [
+        "Hch 18:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Centro intelectual y moral del mundo greco-romano; las cartas a los corintios revelan los desafíos del evangelio en una ciudad pagana cosmopolita.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "culto_imperial",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "ach_m1",
+        "nombre": "El Areópago de Atenas",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Pablo presenta el evangelio en el centro filosófico del mundo; el 'Dios desconocido' que los atenienses veneraban es el que Pablo anuncia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Pablo presenta el evangelio en el centro filosófico del mundo; el 'Dios desconocido' que los atenienses veneraban es el que Pablo anuncia.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ach_nt_h1",
+        "titulo": "Pablo en el Areópago de Atenas",
+        "fecha": "ca. 51 d.C.",
+        "descripcion": "Pablo presenta el evangelio a los filósofos estoicos y epicúreos en el Areópago; algunos creen.",
+        "referencias": [
+          "Hch 17:22-34"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ach_nt_h2",
+        "titulo": "La fundación de la iglesia de Corinto",
+        "fecha": "ca. 51-52 d.C.",
+        "descripcion": "Pablo pasa 18 meses en Corinto fundando una comunidad en el corazón de Acaya.",
+        "referencias": [
+          "Hch 18:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Aquila",
+          "Priscila"
+        ]
+      },
+      {
+        "id": "ach_nt_h3",
+        "titulo": "Las epístolas a los Corintios: teología para una iglesia urbana",
+        "fecha": "ca. 54-57 d.C.",
+        "descripcion": "Pablo escribe dos cartas para la iglesia de Corinto abordando la moral, los dones espirituales y la resurrección.",
+        "referencias": [
+          "1 Co 1:1",
+          "2 Co 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ach_nt_p1",
+        "nombre": "Pablo",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Fundó la iglesia de Corinto; sus cartas a los corintios son centrales en el NT.",
+        "referencias": [
+          "Hch 18:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p2",
+        "nombre": "Aquila y Priscila",
+        "rol": "Misioneros",
+        "periodo": "s. I d.C.",
+        "descripcion": "Pareja judeo-cristiana que acogió a Pablo en Corinto.",
+        "referencias": [
+          "Hch 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ach_nt_p3",
+        "nombre": "Dionisos el Areopagita",
+        "rol": "Convertido en Atenas",
+        "periodo": "s. I d.C.",
+        "descripcion": "Uno de los pocos convertidos del discurso del Areópago; tradición lo hace primer obispo de Atenas.",
+        "referencias": [
+          "Hch 17:34"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Acaya fue el primer suelo griego propiamente dicho donde el evangelio echó raíces profundas.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "ach_nt_m1",
+          "nombre": "El Dios desconocido",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El altar al 'Dios desconocido' en Atenas le dio a Pablo el puente para anunciar al Dios Creador al mundo intelectual griego.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El altar al 'Dios desconocido' en Atenas le dio a Pablo el puente para anunciar al Dios Creador al mundo intelectual griego.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

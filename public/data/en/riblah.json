@@ -1,0 +1,153 @@
+{
+  "id": "riblah",
+  "nombre": "Ribla",
+  "tipo": "ciudad",
+  "lat": 34.431703,
+  "lng": 36.545259,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Babylonian Headquarters, Trial of Zedekiah"
+    }
+  ],
+  "descripcion_geo": "City in Syria, on the Orontes River, strategically located to control the routes between Egypt and Mesopotamia, used as a military headquarters by both Pharaoh Necho and, more decisively, by Nebuchadnezzar during his campaigns against Judah.",
+  "altitud_m": 400,
+  "clima": "Continental Mediterranean — hot, dry summers, cold winters with rain, typical of the Orontes Valley in Syria.",
+  "recursos": [
+    "Strategic position on the route between Egypt and Mesopotamia",
+    "Military headquarters of imperial powers",
+    "Abundance of water and grass to sustain large armies"
+  ],
+  "importancia_estrategica": "Ribla is the scene of two decisive episodes in the final destiny of the kingdom of Judah: first, Pharaoh Necao deposes King Jehoahaz there and takes him captive to Egypt; Then, more tragically, Nebuchadnezzar makes his headquarters at Riblah during the final siege of Jerusalem, and it is there that King Zedekiah, captured after attempting to flee, is taken to witness the execution of his own sons before being blinded and deported to Babylon.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_riblah",
+      "nombre": "Egyptian army under Necho",
+      "descripcion": "Forces of Pharaoh Necao who temporarily establish their headquarters in Ribla, from where they depose King Jehoahaz of Judah.",
+      "religion": "Egyptian polytheism",
+      "periodo": "c. 609 BC"
+    },
+    {
+      "id": "babilonios_riblah",
+      "nombre": "Babylonian army under Nebuchadnezzar",
+      "descripcion": "Babylonian imperial forces establishing their main headquarters at Riblah during the final campaign against Jerusalem, site of judgment on Zedekiah and the nobles of Judah.",
+      "religion": "Babylonian polytheism – cult of Marduk",
+      "periodo": "c. 587–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "necao-depone-joacaz-riblah",
+      "titulo": "Necao deposes Joacaz in Ribla",
+      "fecha": "c. 609 BC",
+      "descripcion": "After only three months of reign, Pharaoh Necho summons Jehoahaz, king of Judah, to Ribla, deposes him and takes him captive to Egypt, where he finally dies, imposing in his place his brother Jehoiakim as vassal king of Egypt.",
+      "referencias": [
+        "2 Kgs 23:31-34"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "sedequias-juicio-riblah",
+      "titulo": "Zedekiah is tried in Ribla after the fall of Jerusalem",
+      "fecha": "c. 586 BC",
+      "descripcion": "Captured while fleeing across the plains of Jericho after the fall of Jerusalem, Zedekiah is brought before Nebuchadnezzar at Riblah; There the Babylonian king orders Zedekiah's sons to be executed before his own eyes, and finally orders him to be blinded and bound with bronze chains to be deported to Babylon.",
+      "referencias": [
+        "2 Kgs 25:5-7",
+        "Jer 39:5-7",
+        "Jer 52:9-11"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "nobles-juda-ejecutados-riblah",
+      "titulo": "Nobles and priests of Judah are executed in Riblá",
+      "fecha": "c. 586 BC",
+      "descripcion": "In addition to the judgment on Zedekiah, Nebuchadnezzar orders several officials and chief priests of Jerusalem, including the high priest Seraiah, to be brought to Riblah, where they are executed by direct order of the Babylonian king, tragically closing the fate of the religious and political leadership of the kingdom of Judah.",
+      "referencias": [
+        "2 Kgs 25:18-21",
+        "Jer 52:24-27"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "necao_riblah",
+      "nombre": "Necao, Pharaoh by Egypt",
+      "rol": "Egyptian pharaoh, deposer of Jehoahaz",
+      "periodo": "c. 609 BC",
+      "descripcion": "He establishes his authority over Judah by deposing Jehoahaz in Riblah and imposing Jehoiakim as a vassal king, an episode that marks the beginning of the final and turbulent period of Judah's kingdom before its final destruction.",
+      "referencias": [
+        "2 Kgs 23:31-35"
+      ],
+      "ruta": [
+        "riblah"
+      ]
+    },
+    {
+      "id": "nabucodonosor_riblah",
+      "nombre": "Nebuchadnezzar",
+      "rol": "King by Babylon, destroyer by Jerusalem",
+      "periodo": "c. 605–562 BC",
+      "descripcion": "He establishes his headquarters in Riblah during the final campaign against Jerusalem, personally carrying out the judgment on Zedekiah and the captured top leaders of Judah there.",
+      "referencias": [
+        "2 Kgs 25:6-7",
+        "2 Kgs 25:18-21"
+      ],
+      "ruta": [
+        "riblah"
+      ]
+    },
+    {
+      "id": "sedequias_riblah",
+      "nombre": "Zedekiah",
+      "rol": "Last King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He is captured, tried, and severely punished in Ribla: forced to witness the execution of his own sons before being blinded and deported to Babylon, tragically closing the line of Davidic kings on the throne of Judah.",
+      "referencias": [
+        "2 Kgs 25:5-7"
+      ],
+      "ruta": [
+        "jericho",
+        "riblah",
+        "babylon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Riblah is the scene of the moment of maximum humiliation and destruction of the kingdom of Judah: the judgment on Zedekiah, witnessing the death of his own children before being blinded, represents the literal and devastating fulfillment of the prophetic warnings reiterated for decades about the consequences of persistent infidelity to the alliance with YHWH, marking the definitive end of the independent Davidic monarchy until the post-exilic restoration.",
+    "religiones_presentes": [
+      "Yahwism (biblical story perspective)",
+      "Egyptian and Babylonian polytheism (successive imperial powers)"
+    ],
+    "mitos": [
+      {
+        "id": "cumplimiento-juicio-sedequias-riblah",
+        "nombre": "The fulfillment of the prophetic judgment in the tragedy of Zedekiah in Ribla",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kgs 25:5-7; Jer 39:5-7",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el cumplimiento literal de las advertencias proféticas en el castigo de Sedequías, conectado con la profecía paradójica de Ezequiel (Ez 12:13) que anunciaba que el rey sería llevado a Babilonia sin verla, cumplida precisamente por su ceguera",
+          "descripcion": "Jewish tradition notes with particular attention how Zedekiah's specific punishment at Riblah—blinding before being deported—literally and almost paradoxically fulfills Ezekiel's previous prophecy that the king would be taken to Babylon 'without seeing him', thus resolving the apparent contradiction between two distinct prophecies (Jeremiah's about Zedekiah's fate and Ezekiel's about not seeing Babylon) by the specific detail of the blindness inflicted on Ribla.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The precise and even paradoxical fulfillment of apparently contradictory prophecies in the destiny of Zedekiah confirms the absolute reliability of the prophetic word, even in its most specific and apparently difficult to harmonize details.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

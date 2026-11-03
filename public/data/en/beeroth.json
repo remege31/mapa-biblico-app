@@ -1,0 +1,153 @@
+{
+  "id": "beeroth",
+  "nombre": "Beeroth",
+  "tipo": "ciudad",
+  "lat": 31.90007449127097,
+  "lng": 35.21668800602465,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Hivite city of the Gibeonite League, assigned to Benjamin"
+    }
+  ],
+  "descripcion_geo": "City in the territory of Benjamin, one of the four cities of the Hivite league led by Gibeon that made a pact with Joshua through deception to avoid destruction. Its name ('wells') reflects the presence of important water sources in the region.",
+  "altitud_m": 750,
+  "clima": "Mountain Mediterranean — dry summers, cold winters with rain, typical of the Benjamin Plateau.",
+  "recursos": [
+    "Water wells (origin of name)",
+    "Agricultural land of the Benjamin Plateau",
+    "Position within Gibeon Hivite League"
+  ],
+  "importancia_estrategica": "Beeroth was part of the league of four Hivite cities (along with Gibeon, Kaphira and Kiriath-jearim) that ensured its survival through a pact obtained by deception with Joshua, thus avoiding the destruction applied to other Canaanite cities; Later, its inhabitants were assimilated to the territory of Benjamin, although retaining a certain differentiated identity documented in later episodes of the early monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "hivitas_beerot",
+      "nombre": "Hivites of the Gibeonite League",
+      "descripcion": "Original population of Beeroth, part of the confederation of four Hivite cities that made a pact with Israel through deception, pretending to come from distant lands to avoid the destruction applied to the local Canaanite cities.",
+      "religion": "Canaanite-Hivite polytheism",
+      "periodo": "c. 1200 BC"
+    },
+    {
+      "id": "benjaminitas_beerot",
+      "nombre": "Tribe of Benjamin",
+      "descripcion": "Beeroth is integrated into the territory assigned to the tribe of Benjamin, with the original Hivite population gradually assimilated as servants of the sanctuary under the terms of the Gibeon covenant.",
+      "religion": "Yahwism (with assimilated hivita substrate)",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "beerot-liga-gabaonita",
+      "titulo": "Beeroth in the Hivite League by Gibeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Together with Gibeon, Cafira and Kiriath-jearim, Beeroth is part of the Hivite confederation that achieves a peace pact with Joshua by deceitfully presenting themselves as ambassadors from a distant country, thus avoiding the application of the herem reserved for nearby Canaanite cities.",
+      "referencias": [
+        "Josh 9:3-17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "beerot-asignacion-benjamin",
+      "titulo": "Beeroth assigned to the territory of Benjamin",
+      "fecha": "c. 1200 BC",
+      "descripcion": "In the territorial distribution, Beeroth is included among the cities of the territory assigned to the tribe of Benjamin, completing the administrative integration of the ancient Hivite league into the Israelite tribal system.",
+      "referencias": [
+        "Josh 18:25"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "asesinato-isbaal-beerot",
+      "titulo": "The murderers of Ishbosheth were from Beeroth",
+      "fecha": "c. 1008 BC",
+      "descripcion": "Rechab and Baanah, the two captains who murder Ish-bosheth (son and successor of Saul) while he slept, are explicitly identified as men of Beeroth, of the tribe of Benjamin; David, far from rewarding the act, orders his execution for the murder of a man right in his own home.",
+      "referencias": [
+        "2 Sam 4:1-12"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "embajadores_gabaonitas_beerot",
+      "nombre": "Ambassadors of the Hivite League",
+      "rol": "Delegation negotiating the peace pact with Joshua",
+      "periodo": "bronce_tardio",
+      "descripcion": "Representatives of Beeroth and the other Hivite cities who appear before Joshua disguised as travelers from distant lands, achieving a pact of protection through deception that cannot later be broken because it has been sealed with an oath.",
+      "referencias": [
+        "Josh 9:3-15"
+      ],
+      "ruta": [
+        "beeroth",
+        "gibeon"
+      ]
+    },
+    {
+      "id": "recab_baana",
+      "nombre": "Rechab and Baanah",
+      "rol": "Captains of Beeroth, murderers of Ishbosheth",
+      "periodo": "hierro_1",
+      "descripcion": "Men of Beeroth who murder Ish-bosheth, son of Saul, awaiting reward from David; Instead, they are executed by the king as exemplary punishment for the murder of an innocent man.",
+      "referencias": [
+        "2 Sam 4:2-12"
+      ],
+      "ruta": [
+        "beeroth",
+        "hebron"
+      ]
+    },
+    {
+      "id": "david_beerot",
+      "nombre": "David",
+      "rol": "King of Israel, judge of the murder of Ishbosheth",
+      "periodo": "hierro_2",
+      "descripcion": "He rejects the conduct of Beeroth's murderers even though the crime benefited him politically, ordering their public execution as an affirmation of his moral integrity in front of Saul's house.",
+      "referencias": [
+        "2 Sam 4:9-12"
+      ],
+      "ruta": [
+        "hebron"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beerot embodies two distinct episodes of ethical tension: the legitimacy of a pact obtained by deception but sealed with a divine oath, which Joshua decides to respect despite the discovered trap, and centuries later, David's explicit refusal to benefit from a murder committed by its own inhabitants, reaffirming that not even the elimination of a political rival justifies the shedding of innocent blood.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite-Hivite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "pacto-juramento-gabaonita",
+        "nombre": "The inviolability of the sworn covenant with the Hivites of Beeroth",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 9:3-27",
+          "fuente_secundaria": "Talmud Babilónico, Yebamot 79a (sobre la inviolabilidad del juramento incluso obtenido mediante engaño)",
+          "descripcion": "Rabbinic tradition extensively develops the principle that an oath sworn in the name of YHWH, even if obtained by deception by the other party, retains its binding validity, citing this episode as a precedent for the doctrine on the inviolable sanctity of the divine oath, a theme taken up centuries later in the famine during the reign of David as punishment for the subsequent violation of this covenant by Saul.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The inviolability of the oath sworn in the name of YHWH is maintained even when the other party acted in bad faith, underscoring the absolute sanctity of the divine name invoked in any covenant.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

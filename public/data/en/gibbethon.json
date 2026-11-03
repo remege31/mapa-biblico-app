@@ -1,0 +1,136 @@
+{
+  "id": "gibbethon",
+  "nombre": "Gibbeton",
+  "tipo": "ciudad",
+  "lat": 31.98,
+  "lng": 35.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "City in the Shephelah assigned to Dan and ceded to the Levites; repeatedly disputed between Israel and the Philistines.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "City in constant litigation between Israel and the Philistines.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gib_h1",
+      "titulo": "Israel besieged Gibbeton when the king changed",
+      "fecha": "ca. 885-885 BC",
+      "descripcion": "When Israel was besieging the Philistine Gibbethon, news of Zimri's conspiracy reached the camp; Omri was proclaimed king there.",
+      "referencias": [
+        "1 Kgs 16:15-17"
+      ],
+      "personajes_clave": [
+        "Omri",
+        "Zimri"
+      ]
+    },
+    {
+      "id": "gib_h2",
+      "titulo": "Nadab killed during the siege of Gibbeton",
+      "fecha": "ca. 909 BC",
+      "descripcion": "King Nadab of Israel was killed by Baasha while Israel was besieging Gibbeton.",
+      "referencias": [
+        "1 Kgs 15:27"
+      ],
+      "personajes_clave": [
+        "Baasa",
+        "Nadab"
+      ]
+    },
+    {
+      "id": "gib_h3",
+      "titulo": "Gibbeton assigned to the Levites",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Gibbeton was assigned as a Levitical city of the tribe of Dan.",
+      "referencias": [
+        "Josh 19:44",
+        "Josh 21:23"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gib_p1",
+      "nombre": "Omri",
+      "rol": "King by Israel",
+      "periodo": "885-874 BC",
+      "descripcion": "He was proclaimed king in the camp in front of Gibbeton and later founded Samaria.",
+      "referencias": [
+        "1 Kgs 16:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p2",
+      "nombre": "Baasa",
+      "rol": "usurper of the throne",
+      "periodo": "909-886 BC",
+      "descripcion": "He murdered King Nadab during the siege of Gibbeton and took the throne.",
+      "referencias": [
+        "1 Kgs 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gib_p3",
+      "nombre": "Nadab",
+      "rol": "King by Israel",
+      "periodo": "910-909 BC",
+      "descripcion": "He was killed during the long Israelite siege of Gibbeton.",
+      "referencias": [
+        "1 Kgs 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gibbetón: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "gib_m1",
+        "nombre": "Gibbetón: where kings change",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Two changes of dynasty in Israel occurred while Gibbeton was under siege; the disputed city becomes the accidental setting of history.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Two changes of dynasty in Israel occurred while Gibbeton was under siege; the disputed city becomes the accidental setting of history.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

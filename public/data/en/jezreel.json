@@ -1,0 +1,189 @@
+{
+  "id": "jezreel",
+  "nombre": "Jezreel",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.556,
+  "lng": 35.3308,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 39,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — City of the tribe of Issachar"
+    },
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Iron II — Royal residence of the Omri dynasty"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Jezreel (Hebrew: יִזְרְעֶאל, 'God sows') was a city in the territory of Issachar, at the western end of the valley that bears its name — the Jezreel Valley, the largest agricultural plain in Canaan. Located on a 100-meter basalt hill that dominates the plain, it controlled the routes between the Mediterranean coast, the Jordan and Galilee. Identified with Tel Jezreel, it was the secondary residence of the Omrid kings along with Samaria. The excavations confirmed a royal citadel from the 9th century with walls, moats and a large tower. At his feet the most dramatic stories of Ahab's dynasty unfolded: Naboth's vineyard, the confrontation with Elijah, and the death of Jezebel.",
+  "altitud_m": 100,
+  "clima": "Plain Mediterranean — the Jezreel Valley is the most fertile agricultural area in Canaan, with annual rainfall of 400-500 mm, warm summers, mild winters. The springs of Harod and Jezreel irrigate the plain. Natural battlefield due to its breadth and accessibility.",
+  "recursos": [
+    "Agricultural plain of exceptional fertility — wheat, barley, oil, wine",
+    "Control of the route between the Mediterranean (Megiddo) and the Jordan (Bet-Shean)",
+    "Water from Harod Spring to the south",
+    "Vineyards and orchards — Naboth's vineyard is the narrative example",
+    "Defensive position elevated above the plain"
+  ],
+  "importancia_estrategica": "The Jezreel Valley was the most coveted battlefield in Canaan — all the great armies crossed it: Egyptians, Canaanites, Philistines, Assyrians. The city of Jezreel, dominating the eastern end of the valley, was the ideal command point. The Omrid kings chose it as a secondary residence precisely because of this combination of agricultural fertility and military control. The blood shed at Jezreel — from Gideon to the slaughter of Jehu — made his name a prophetic symbol of judgment.",
+  "otros_habitantes": [
+    {
+      "id": "isacarianos",
+      "nombre": "Israelites from the tribe of Issachar",
+      "descripcion": "Jezreel belonged to the territory of Issachar, a tribe whose heritage was the fertile plain. The Israelite population of Jezreel was a witness and victim of the arbitrariness of the Omrid kings: the story of Naboth the Jezreelite – owner of an inherited vineyard that the king wanted to expropriate – is the most concrete account of the tension between Israelite family property (linked to the alliance) and the arbitrariness of Canaanite-style monarchical power.",
+      "religion": "Yahwism popular of the northern kingdom — with Baalist syncretism encouraged by the Omrid court",
+      "periodo": "Iron I-II, c. 1200-722 BC"
+    },
+    {
+      "id": "corte-omrida",
+      "nombre": "omrida royal court",
+      "descripcion": "The dynasty of Omri (Omri, Ahab, Ahaziah, Joram) established a royal residence in Jezreel that competed with Samaria. The presence of Jezebel—Phoenician princess of Sidon—introduced to the court of Jezreel the cult of Baal of Tyre and Eastern-style government practices that clashed head-on with Israelite traditions of property and justice. The excavated citadel confirms a 9th century royal palace with a moat, towers and warehouses.",
+      "religion": "Baalist-Yahwist syncretism — Jezebel promoted the Baal cult of Tyre; Ahab formally maintained Yahwism",
+      "periodo": "Iron II, c. 880-840 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "nabot-jezreel",
+      "titulo": "Naboth's Vineyard: Property, Power, and Judgment by Elijah",
+      "fecha": "c. 860 BC",
+      "descripcion": "Naboth the Jezreelite had a vineyard next to Ahab's palace in Jezreel. Ahab offered him a better vineyard or its price in money. Naboth replied: 'I kept Yahweh from giving you the inheritance of my fathers.' Ahab returned home in a bad mood. Jezebel intervened: 'Are you king of Israel or not? Arise, eat and be glad; I will give you the vineyard of Naboth.' He wrote letters in the name of Ahab, sealed them with his seal, and sent them to the elders and notables of Jezreel: proclaim a fast, set Naboth at the head of the people, set two wicked men before him to testify: he has cursed God and the king. They took him out of the city, stoned him and he died. When Jezebel told Ahab the news and he came down to take possession, the word of Yahweh reached Elijah: 'Go meet Ahab. In the place where the dogs licked the blood of Naboth, the dogs will also lick your blood.' The episode is the most accurate text in the OT on the clash between Eastern-style monarchy and the Israelite right of inalienable property.",
+      "referencias": [
+        "1 Kgs 21:1-29",
+        "1 Kgs 21:3",
+        "1 Kgs 21:17-19"
+      ],
+      "personajes_clave": [
+        "ajab",
+        "jezabel",
+        "elias-jezreel"
+      ]
+    },
+    {
+      "id": "jehu-matanza-jezreel",
+      "titulo": "Jehu in Jezreel: the end of the Omrid dynasty",
+      "fecha": "c. 841 BC",
+      "descripcion": "Elisha sent a young prophet to anoint Jehu as king over Israel at Ramoth Gilead, with the mission of exterminating the house of Ahab. Jehu marched quickly towards Jezreel - a sentinel warned: 'The messenger reached them but does not return; The driving is like the driving of Jehu ben Nimsi, who drives furiously.' King Joram went out to meet them in the field of Naboth the Jezreelite. Jehu killed him with an arrow that pierced him from one side to the other. Joram's body was thrown into Naboth's field, fulfilling the oracle of Elijah. Jehu also killed King Ahaziah of Judah who was accompanying him. Jezebel, who had painted her eyes and decorated her hair, looked at him from the window: 'Are you well, Zimri, murderer of your lord?' Jehu ordered the eunuchs to throw it away. His blood splattered the wall and the horses. When they went to bury her, they found nothing but the skull, the feet and the palms of the hands — the dogs had devoured her, fulfilling the oracle of Elijah.",
+      "referencias": [
+        "2 Kgs 9:1-37",
+        "2 Kgs 9:20",
+        "2 Kgs 9:30-37"
+      ],
+      "personajes_clave": [
+        "jehu",
+        "jezabel",
+        "jorán"
+      ]
+    },
+    {
+      "id": "oseas-jezreel-nombre",
+      "titulo": "Hosea calls his son Jezreel: the name as an oracle",
+      "fecha": "c. 755 BC",
+      "descripcion": "The prophet Hosea, by divine command, married a woman named Gomer. His first son was named Jezreel: 'Call him Jezreel, for soon I will punish the house of Jehu for the blood of Jezreel and put an end to the kingdom of the house of Israel. On that day I will break the bow of Israel in the valley of Jezreel.' The paradox is theologically dense: Jehu's massacre at Jezreel — which the book of Kings presents as a fulfillment of divine command — is now presented by Hosea as a crime that God will punish. The same place, the same act, read from two angles of prophecy. The name Jezreel ('God sows') was charged by Hosea with the double meaning of judgment and promise: in Hos 2:24-25, the name itself becomes a sign of restoration: 'I will sow Israel for myself in the land.'",
+      "referencias": [
+        "Hos 1:4-5",
+        "Hos 2:24-25",
+        "Hos 1:2-9"
+      ],
+      "personajes_clave": [
+        "oseas",
+        "jezreel-hijo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jezabel",
+      "nombre": "Jezebel",
+      "rol": "Queen of Israel, Phoenician princess, promoter of the cult of Baal",
+      "periodo": "hierro_2",
+      "descripcion": "Jezebel bat Ethbaal, princess of Sidon and wife of Ahab king of Israel, is the most powerful and most negatively portrayed female figure in the books of Kings. He organized the slaughter of Yahweh's prophets, kept four hundred and fifty Baal and four hundred Asherah prophets at his table, plotted the judicial assassination of Naboth, and threatened to kill Elijah after his victory at Carmel. Her death in Jezreel—thrown out of a window by her own eunuchs, devoured by dogs—was read as an exact fulfillment of the oracle of Elijah. His name became synonymous with seduction to evil and corruption of power in all later literature, including the Apocalypse (Rev 2:20).",
+      "referencias": [
+        "1 Kgs 18:4",
+        "1 Kgs 21:7-14",
+        "2 Kgs 9:30-37"
+      ],
+      "ruta": [
+        "sidon",
+        "jezreel",
+        "samaria"
+      ]
+    },
+    {
+      "id": "jehu",
+      "nombre": "Jehu",
+      "rol": "King of Israel, executor of divine judgment on the house of Ahab",
+      "periodo": "hierro_2",
+      "descripcion": "Jehu ben Nimsi was anointed king by an envoy from Elisha with the mission of exterminating the house of Ahab. His furious driving of the chariot became a proverb (2 Kings 9:20). He killed Joram king of Israel, Ahaziah king of Judah, Jezebel, seventy sons of Ahab, forty-two relatives of Ahaziah, and all the prophets of Baal gathered under deception in his temple. The Stele of Tel Dan (9th century BC) possibly mentions Jehu as king of Israel. The blood of Jezreel—which justified his reign to his contemporaries—was condemned by Hosea a generation later as a crime demanding punishment.",
+      "referencias": [
+        "2 Kgs 9:1-10:36",
+        "2 Kgs 9:20",
+        "Hos 1:4"
+      ],
+      "ruta": [
+        "jezreel",
+        "samaria"
+      ]
+    },
+    {
+      "id": "oseas",
+      "nombre": "Hosea",
+      "rol": "Prophet of the northern kingdom, the prophet of God's wounded love",
+      "periodo": "c. 755–725 BC",
+      "descripcion": "Hosea ben Beeri is the only writing prophet originating from the northern kingdom of Israel. His marriage to Gómer – a woman of prostitution – was a biographical experience that became a metaphor for the relationship between Yahweh and Israel: the loved one who is betrayed but cannot stop loving. His book is the most emotionally intense of pre-exilic prophecy. The name Jezreel given to his first son condenses Hosea's double vision: the same place is a symbol of judgment (the blood of Jehu) and hope (God will sow Israel again). No prophet of the OT expresses more strongly the tenderness and pain of God in the face of the infidelity of his people.",
+      "referencias": [
+        "Hos 1:1-3",
+        "Hos 2:16-25",
+        "Hos 11:1-9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jezreel is the scene where the conflict between prophetic Yahwism and Eastern-style monarchy reached its most dramatic point. Naboth's vineyard condenses the clash between two conceptions of power: the Israelite one (the land is the inheritance of Yahweh, inalienable) and the Canaanite-Phoenician one (the king has everything). The slaughter of Jehu was the judgment on that conception. But Hosea, a generation later, saw in the same massacre a crime that demanded a new trial—suggesting that violence, even when executing divine will, leaves a debt.",
+    "religiones_presentes": [
+      "Yahwism Israelite — tradition of inalienable family property",
+      "Phoenician Baalism — introduced by Jezebel from Sidon",
+      "Popular syncretism — mixing of Yahwist and Baalist cults in the northern kingdom"
+    ],
+    "mitos": [
+      {
+        "id": "nabot-justicia-divina",
+        "nombre": "Naboth's vineyard: property, justice and the memory of God",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 21:1-29; Lv 25:23-28",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 48b; Midrash Tanjuma, Emor 24",
+          "descripcion": "The Naboth episode is the central text of the OT on the inalienability of family inheritance. Leviticus 25:23 establishes the theological foundation: 'The land will not be sold in perpetuity, for the land is mine and you are strangers and guests to me.' Naboth's refusal was not obstinacy but obedience to the law. The Talmud (Sanhedrin 48b) discusses the status of the property of an unjustly executed person: they cannot be acquired by the executioner. The Midrash develops that Ahab was forgiven for his penance (1 Kings 21:27-29) but the judgment on his house was not canceled, only postponed.",
+          "similitudes": "The idea that political power cannot trample on the property and dignity of the individual is a principle shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism emphasizes the legal framework (inalienable inheritance, law of the jubilee year); the NT shifts the emphasis toward justice as a personal virtue.",
+          "significado_teologico": "The land belongs to Yahweh, not the king. Political power has limits set by divine law. When the king transgresses them, the prophet has the duty to confront him.",
+          "posible_relacion_cultural": "The protection of family property against royal confiscation appears in the Code of Hammurabi (§§30-31), but without the theological foundation of divine dominion over the land that characterizes the Israelite case."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Kgs 21:1-29; Lc 12:15-21; Sant 5:1-6",
+          "fuente_secundaria": "Ambrosio, De Nabuthae (tratado completo sobre 1 Re 21); Juan Crisóstomo, Sobre la riqueza y la pobreza",
+          "descripcion": "Ambrose of Milan wrote the first Christian treatise on social justice based entirely on the story of Naboth: De Nabuthae. He argued that the greed of the rich who accumulate property at the expense of the poor repeats Ahab-Jezebel's crime against Naboth. John Chrysostom used the same text to preach against the accumulation of wealth in Constantinople. James 5:1-6 seems to echo the episode: 'The wages of the workers who have reaped your fields, held back by you, are crying out, and the cries of the reapers have reached the ears of the Lord Sabaoth.'",
+          "similitudes": "The denunciation of the abuse of economic power over the poor is identical in both traditions.",
+          "diferencias": "The NT universalizes the principle beyond Israel; patristics applied it directly to the economic structure of the Roman Empire.",
+          "significado_teologico": "The blood of the innocent stripped cries out to God. The powerful who abuses the weak will face divine judgment — he will not escape even if he is king.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

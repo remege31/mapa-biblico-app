@@ -1,0 +1,177 @@
+{
+  "id": "heshbon",
+  "nombre": "Heshbon",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8005,
+  "lng": 35.809,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 38,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Amorite-Israelite city east of the Jordan"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — City disputed between Israel and Moab"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Heshbon (Hebrew: חֶשְׁבּוֹן; Moabite: Heshtbon) was the capital of the Amorite kingdom of Sihon, located on the Transjordan plateau (present-day Jordan), about 25 km northeast of the northern end of the Dead Sea and about 9 km south of modern-day Madaba. Identified with Tell Hesban, whose excavations (1968-1978 and 1984-1996) revealed occupation from the Late Bronze to the Islamic period. It controlled the Via Regia, the great north-south route of Transjordan. The city overlooked the fertile Moabite plateau from a 895-metre hill, with sweeping views towards the Dead Sea and the Judean Mountains to the west.",
+  "altitud_m": 895,
+  "clima": "Continental plateau Mediterranean — rainfall of 300-350 mm annually, cold winters with possible snow, hot dry summers. The plateau is suitable for cereal and vineyards. The 'pools of Heshbon' mentioned in Song of Solomon 7:5 reflect the city's hydraulic system.",
+  "recursos": [
+    "Plateau agriculture — wheat, barley, vineyards (famous in the OT)",
+    "Extensive livestock farming in the plains of Moab",
+    "Control of the Via Regia — Transjordan's main trade route",
+    "Ponds and documented water system (Song 7:5)",
+    "Basalt and limestone stone for construction"
+  ],
+  "importancia_estrategica": "Heshbon was the capital of the Transjordan Plateau and the control point of the Via Regia between Damascus and Arabia. His conquest by Moses was the first territory Israel occupied before crossing the Jordan, establishing the precedent that the promise was not limited to the west of the river. The city changed hands multiple times between Israelites, Moabites and Ammonites, always being coveted for its dominant position on the plateau.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos-sehon",
+      "nombre": "Amorites of Sihon",
+      "descripcion": "Sihon, Amorite king of Heshbon, had previously conquered northern Moab including Heshbon, which was originally a Moabite city (Num 21:26-30). The ancient poem cited in Numbers 21:27-30 ('Come to Heshbon, let the city of Sihon be built and restored') celebrates that Amorite conquest of Moab. Israel asked Sihon for peaceful passage; He denied it and went out to fight, being defeated. Their territory between the Arnon and the Jabbok was given to the tribes of Reuben and Gad.",
+      "religion": "Amorite polytheism — cult of Kemosh (adopted Moabite deity) and northern Canaanite deities",
+      "periodo": "Late Bronze-Iron I, to c. 1220 BC"
+    },
+    {
+      "id": "moabitas-heshbon",
+      "nombre": "Moabites",
+      "descripcion": "Heshbon had been a Moabite city before Sihon's conquest. Following the Israelite defeat of Sihon, Moab gradually recovered the territory south of the Arnon. The prophets of the 8th century (Isaiah 15-16, Jeremiah 48) utter laments about Heshbon already as a Moabite city, showing that by the Iron II period the city had returned to the hands of Moab. The Stele of Mesha (9th century BC) documents the Moabite perspective of these same territorial disputes.",
+      "religion": "Moabite polytheism—Kemosh as national god (equivalent to the Israelite Yahweh in his role as god of war and national protector)",
+      "periodo": "Iron II, 9th-6th centuries BC."
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-conquista-sehon",
+      "titulo": "Moses defeats Sihon: the first conquest east of the Jordan",
+      "fecha": "c. 1220 BC",
+      "descripcion": "Israel, on his march through the desert towards Canaan, arrived at the territory of Sihon, Amorite king of Heshbon. Moses sent messengers with a request for peaceful passage: 'Let us pass through your land; We will not stray into the fields or vineyards nor drink the water from the wells; we will go along the royal road until we have crossed your territory.' Sihon denied passage and went out with his entire army into the desert. Israel defeated him at Yahás, took all his cities from the Arnon to the Jabbok, and settled in Heshbon. The poet quoted in Numbers exclaims: 'Heshbon, the city of Sihon, has perished!' The territory was assigned to Reuben and Gad. This first victory east of the Jordan was interpreted theologically as a sign that the promise was beginning to be fulfilled even before crossing the sacred river.",
+      "referencias": [
+        "Num 21:21-31",
+        "Deut 2:24-37",
+        "Num 21:27-30"
+      ],
+      "personajes_clave": [
+        "moises-heshbon",
+        "sehon"
+      ]
+    },
+    {
+      "id": "heshbon-reparto-ruben-gad",
+      "titulo": "Heshbon in the cast: Reuben, Gad and the transjordanian heritage",
+      "fecha": "c. 1200 BC",
+      "descripcion": "The tribes of Reuben and Gad, who had many cattle, saw that the land of Yazer and Gilead was good for cattle and asked Moses not to make them cross the Jordan—that this land be their inheritance. Moses, initially outraged (will you repeat the sin of the spies?), agreed on one condition: that the warriors of Reuben and Gad cross armed with the rest of Israel to conquer Canaan before settling back to the east. The deal agreed, Heshbon and its dependent cities were assigned to Reuben. This decision was theologically controversial: the inheritance east of the Jordan was 'outside the land' in the strict sense, and the text preserves the tension between the original promise (Canaan) and pragmatic accommodation to livestock needs.",
+      "referencias": [
+        "Num 32:1-38",
+        "Josh 13:15-23",
+        "Num 32:33-38"
+      ],
+      "personajes_clave": [
+        "moises-heshbon",
+        "gad-ruben"
+      ]
+    },
+    {
+      "id": "isaias-lamento-heshbon",
+      "titulo": "Heshbon's Lament: Prophets Mourn Moab",
+      "fecha": "c. 715 BC",
+      "descripcion": "Isaiah 15-16 and Jeremiah 48 preserve long laments about the fall of the Moabite cities, including Heshbon. Isaiah: 'Their voices are lifted up over Heshbon and Elaleh, their cry is heard as far as Jahaz.' Jeremiah 48:2: 'In Heshbon they plotted her ruin: come, let us destroy her as a nation.' The Song of Solomon (7:5) uses Heshbon in a completely different context—the eyes of the beloved are 'like the pools of Heshbon by the gate of Bat-Rabbim'—evidencing that the city was known for its beautiful pools of water. Prophetic laments are unusual: Israel does not lament his Moabite enemies out of instinct, but because the prophet sees in the fall of Moab the advance of the same judgment that will come upon Israel.",
+      "referencias": [
+        "Isa 15:4",
+        "Jer 48:2",
+        "Song 7:5"
+      ],
+      "personajes_clave": [
+        "isaias-heshbon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises-heshbon",
+      "nombre": "Moses",
+      "rol": "Liberator of Israel, legislator and conductor to the edge of the promised land",
+      "periodo": "bronce_tardio",
+      "descripcion": "Moses ben Amram is the central figure of the Pentateuch and of the entire Israelite faith. Born in Egypt, raised in the court of Pharaoh, called in the desert (burning bush), led Israel for forty years. In Heshbon he starred in the first military victory of the Israel on the land that would later be his inheritance: the defeat of Sihon. He died on Mount Nebo, on the Moab plateau overlooking the promised land that he was not allowed to cross. Biblical tradition presents him as the greatest of prophets: 'There did not arise again in Israel a prophet like Moses, whom Yahweh knew face to face' (Deut 34:10).",
+      "referencias": [
+        "Num 21:21-25",
+        "Deut 34:1-12",
+        "Exod 3:1-15"
+      ],
+      "ruta": [
+        "egipto",
+        "sinai",
+        "heshbon"
+      ]
+    },
+    {
+      "id": "sehon",
+      "nombre": "Sihon of Heshbon",
+      "rol": "Amorite king of Heshbon, first king defeated by Israel in Transjordan",
+      "periodo": "c. 1220 BC",
+      "descripcion": "Sihon the Amorite is, along with Og of Bashan, the biblical paradigm of the pagan king defeated on the threshold of the promised land. His refusal to Israel's peaceful passage is read theologically as a 'hardening of heart' parallel to that of Pharaoh: Yahweh hardened his spirit to be able to hand over his land to Israel (Deut 2:30). The defeat of Sihon became a recurring liturgical motif — Ps 135:11 and 136:19 mention it among the great divine victories. His city, Heshbon, was the first capital conquered by Israel, making Sihon a symbol of the beginning of the fulfillment of the promise.",
+      "referencias": [
+        "Num 21:23-26",
+        "Deut 2:30-36",
+        "Ps 135:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias-heshbon",
+      "nombre": "Isaiah",
+      "rol": "Prophet of Jerusalem, author of the lament on Moab and Heshbon",
+      "periodo": "c. 760–700 BC",
+      "descripcion": "Isaiah ben Amos delivered the oracle about Moab (Is 15-16) as part of his series of oracles against the nations. His lament over Heshbon and other Moabite cities is unusually empathetic for an Israelite prophet: he does not exult at the enemy's fall but weeps with Moab. This dimension of prophetic compassion—the prophet who feels the pain of the enemy—reveals the universalist theology of Isaiah: Yahweh is God of all nations, and his judgment upon them is also his love that demands response.",
+      "referencias": [
+        "Isa 15:1-16:14",
+        "Isa 1:1",
+        "Isa 6:1-13"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Heshbon is the point where the territorial promise of the OT surpasses the Jordan: the first city conquered by Israel is in Transjordan, 'outside' Canaan in the strict sense. Theologically, this expands the promise beyond its conventional limits. The subsequent history of the city – disputed between Israel and Moab, sung by the Song for its pools, mourned by the prophets – makes it a symbol of the fragility of historical victories and the unique permanence of divine promise.",
+    "religiones_presentes": [
+      "Amorite polytheism — worship of divinities from northern Syria in the time of Sihon",
+      "Yahwism Israelite — city of the tribe of Reuben, with Levitical presence",
+      "Moabite polytheism — Kemosh as national god of Moab upon recovering the city"
+    ],
+    "mitos": [
+      {
+        "id": "sehon-og-paradigma",
+        "nombre": "Sihon and Og: the paradigm of defeated kings",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 21:21-35; Sal 135:10-12; Sal 136:17-22",
+          "fuente_secundaria": "Talmud Bavli, Berajot 54b; Midrash Rabbah Números 19",
+          "descripcion": "The Sihon-Og couple became a fixed liturgical formula in the OT: two psalms (135 and 136) mention them consecutively as an example of the great kings that Yahweh brought down. The Talmud (Brachot 54b) states that whoever sees the place where Sihon and Og fell must recite a specific blessing. The Midrash develops that Sihon was the son of Og himself — haggadic details that underscore the magnitude of the victory by genealogically linking the two defeated enemies. The recurring mention of Sihon in the Israelite cult made Heshbon a reference in the liturgical memory of the people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The victories over Sihon and Og are proof that Yahweh kept his promise to give the land to Israel. Its liturgical mention turns history into an act of praise: remembering God's past victory founds confidence in his future fidelity.",
+          "posible_relacion_cultural": "The mention of victories over specific kings in psalms of praise has parallels in ancient Near Eastern victory literature, including hymns to Enlil and Marduk that celebrate specific victories as manifestations of divine power."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

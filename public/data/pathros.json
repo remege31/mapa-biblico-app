@@ -1,0 +1,133 @@
+{
+  "id": "pathros",
+  "nombre": "Patros",
+  "tipo": "territorio",
+  "lat": 28.32,
+  "lng": 30.69,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Alto Egipto (el sur de Egipto), donde vivían comunidades judías del período postexílico. El nombre significa 'tierra del sur' en egipcio.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Tierra de la diáspora judía en el sur de Egipto.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pat_h1",
+      "titulo": "Judíos exiliados en Patros",
+      "fecha": "ca. 586-400 a.C.",
+      "descripcion": "Tras la caída de Jerusalén, comunidades judías se establecieron en Patros (Alto Egipto); los papiros de Elefantina documentan su vida.",
+      "referencias": [
+        "Jer 44:1,15"
+      ],
+      "personajes_clave": [
+        "Jeremías",
+        "judíos"
+      ]
+    },
+    {
+      "id": "pat_h2",
+      "titulo": "Jeremías advierte a los judíos de Patros",
+      "fecha": "ca. 586 a.C.",
+      "descripcion": "Jeremías advierte a las comunidades judías en Patros de que su sincretismo religioso traerá juicio.",
+      "referencias": [
+        "Jer 44:15-30"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "pat_h3",
+      "titulo": "El retorno de los dispersos de Patros",
+      "fecha": "ca. 700 a.C.",
+      "descripcion": "Isaías profetiza que el Señor reunirá a sus dispersos desde Patros entre otros lugares.",
+      "referencias": [
+        "Is 11:11"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pat_p1",
+      "nombre": "Jeremías",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Viajó a Egipto y advirtió a los judíos de Patros contra el sincretismo.",
+      "referencias": [
+        "Jer 44:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p2",
+      "nombre": "Isaías",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Incluyó Patros en la profecía del retorno de los dispersos a Israel.",
+      "referencias": [
+        "Is 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pat_p3",
+      "nombre": "comunidades judías de Patros",
+      "rol": "Diáspora judía",
+      "periodo": "ca. 586-400 a.C.",
+      "descripcion": "Vivieron en el Alto Egipto; los papiros de Elefantina muestran un templo judío en la región.",
+      "referencias": [
+        "Jer 44:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Patros: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "pat_m1",
+        "nombre": "La diáspora en Patros",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Patros es símbolo de la diáspora judía: Israel dispersado hasta los confines del mundo conocido; pero Isaías promete que Dios lo reunirá desde allí.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Patros es símbolo de la diáspora judía: Israel dispersado hasta los confines del mundo conocido; pero Isaías promete que Dios lo reunirá desde allí.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

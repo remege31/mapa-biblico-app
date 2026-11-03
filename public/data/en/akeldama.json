@@ -1,0 +1,250 @@
+{
+  "id": "akeldama",
+  "nombre": "Aceldama (Field of Blood)",
+  "tipo": "ciudad",
+  "lat": 31.77,
+  "lng": 35.229,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": 30,
+      "hasta": 30,
+      "nombre": "Roman"
+    }
+  ],
+  "descripcion_geo": "Land south of Jerusalem in the Valley of Hinnom, purchased with the thirty silver coins of Judas's betrayal.",
+  "altitud_m": 600,
+  "clima": "Mediterranean",
+  "recursos": [
+    "clay",
+    "pottery"
+  ],
+  "importancia_estrategica": "Burial place for foreigners; symbol of betrayal and blood money in the passionate narrative.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ace_h1",
+      "titulo": "The traitor's price: the field bought with blood",
+      "fecha": "ca. 30 AD",
+      "descripcion": "The priests return Judas' thirty coins and buy the Potter's Field to bury foreigners; It was called 'Field of Blood'.",
+      "referencias": [
+        "Matt 27:3-10"
+      ],
+      "personajes_clave": [
+        "Judas",
+        "sacerdotes"
+      ]
+    },
+    {
+      "id": "ace_h2",
+      "titulo": "The death of Judas at Akeldama",
+      "fecha": "ca. 30 AD",
+      "descripcion": "According to Acts, Judas fell headlong into that field and his intestines spilled out; The place was named Aceldama.",
+      "referencias": [
+        "Acts 1:18-19"
+      ],
+      "personajes_clave": [
+        "Judas"
+      ]
+    },
+    {
+      "id": "ace_h3",
+      "titulo": "The fulfillment of the prophecy of Jeremiah",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Matthew sees in the purchase of the field the fulfillment of the prophet Jeremiah: thirty pieces of silver for the price of the Lord.",
+      "referencias": [
+        "Matt 27:9-10",
+        "Jer 32:9",
+        "Zech 11:12"
+      ],
+      "personajes_clave": [
+        "evangelista Mateo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ace_p1",
+      "nombre": "Judas Iscariot",
+      "rol": "traitor disciple",
+      "periodo": "s. I AD",
+      "descripcion": "He gave Jesus for thirty coins; He returned the money and died in Aceldama.",
+      "referencias": [
+        "Matt 27:3-5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ace_p2",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He narrated the story of Judas and Aceldama before the 120 disciples in the cenacle.",
+      "referencias": [
+        "Acts 1:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ace_p3",
+      "nombre": "Matias",
+      "rol": "Successor of Judas",
+      "periodo": "s. I AD",
+      "descripcion": "He was chosen by lot to fill Judas' vacant place after his death in Aceldama.",
+      "referencias": [
+        "Acts 1:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Field of blood: symbol of betrayal and the death of the traitor; the price of the Savior became the price of a grave.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ace_m1",
+        "nombre": "The price of blood",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The thirty pieces of silver: price of the prophet in Zechariah 11:12-13; price of the traitor in the NT.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The thirty pieces of silver: price of the prophet in Zechariah 11:12-13; price of the traitor in the NT.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Mateo sees in the purchase of the field the fulfillment of Jeremiah and Zechariah: the money of rejection becomes a place of death.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mateo sees in the purchase of the field the fulfillment of Jeremiah and Zechariah: the money of rejection becomes a place of death.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ace_nt_h1",
+        "titulo": "The field bought with blood coins",
+        "fecha": "ca. 30 AD",
+        "descripcion": "The priests use Judas' thirty coins to buy the potter's field.",
+        "referencias": [
+          "Matt 27:6-8"
+        ],
+        "personajes_clave": [
+          "sacerdotes",
+          "Judas"
+        ]
+      },
+      {
+        "id": "ace_nt_h2",
+        "titulo": "The death of Judas at Akeldama",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Judas fell at Akeldama and died; the place is called 'Field of Blood' in Aramaic.",
+        "referencias": [
+          "Acts 1:18-19"
+        ],
+        "personajes_clave": [
+          "Judas"
+        ]
+      },
+      {
+        "id": "ace_nt_h3",
+        "titulo": "Peter announces the election of successor",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Peter tells the story of Judas before the 120 and proposes choosing someone to take up his apostleship.",
+        "referencias": [
+          "Acts 1:15-22"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ace_nt_p1",
+        "nombre": "Judas Iscariot",
+        "rol": "Traitor",
+        "periodo": "s. I AD",
+        "descripcion": "He died in Aceldama after returning the thirty coins.",
+        "referencias": [
+          "Matt 27:5"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ace_nt_p2",
+        "nombre": "Matias",
+        "rol": "Successor of Judas",
+        "periodo": "s. I AD",
+        "descripcion": "Chosen by lot to complete the Twelve.",
+        "referencias": [
+          "Acts 1:26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ace_nt_p3",
+        "nombre": "Peter",
+        "rol": "Apostolic spokesperson",
+        "periodo": "s. I AD",
+        "descripcion": "He gave the speech that led to the election of Matías.",
+        "referencias": [
+          "Acts 1:15"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Aceldama is the memorial of betrayal and the price of blood.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "ace_nt_m1",
+          "nombre": "The thirty coins",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Zech 11:12-13",
+            "fuente_secundaria": "",
+            "descripcion": "The price of betrayal (30 coins) fulfills the prophecy of the rejected shepherd (Zech 11:12-13); blood money buys a field of dead.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The price of betrayal (30 coins) fulfills the prophecy of the rejected shepherd (Zech 11:12-13); blood money buys a field of dead.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

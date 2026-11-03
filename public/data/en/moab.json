@@ -1,0 +1,147 @@
+{
+  "id": "moab",
+  "nombre": "Moab",
+  "tipo": "territorio",
+  "lat": 31.5,
+  "lng": 35.78,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 184,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Kingdom east of the Dead Sea, on the high plateaus of Transjordan between the Arnon and Zéred rivers.",
+  "altitud_m": 900,
+  "clima": "arid-semi-arid",
+  "recursos": [
+    "cereals",
+    "cattle raising",
+    "spring water"
+  ],
+  "importancia_estrategica": "Control of the Transjordan caravan routes and agricultural production on the plateaus.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "moa_h1",
+      "titulo": "Ruth the Moabite",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Ruth, a Moabite widow, returns to Bethlehem with her mother-in-law Naomi and marries Boaz; She is an ancestor of David.",
+      "referencias": [
+        "Ruth 1-4"
+      ],
+      "personajes_clave": [
+        "Rut",
+        "Noemí",
+        "Boaz"
+      ]
+    },
+    {
+      "id": "moa_h2",
+      "titulo": "Israel in Moab fields",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "Israel camps in Moab's fields before crossing the Jordan; There Moses dies and Joshua is designated successor.",
+      "referencias": [
+        "Num 22-36",
+        "Deut 34"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Balaam"
+      ]
+    },
+    {
+      "id": "moa_h3",
+      "titulo": "King table by Moab",
+      "fecha": "ca. 850 BC",
+      "descripcion": "King Mesha of Moab rebels against Israel; The Mesa stele is one of the most important epigraphic testimonies of the OT.",
+      "referencias": [
+        "2 Kgs 3:4-27"
+      ],
+      "personajes_clave": [
+        "Mesa",
+        "Joram"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moa_p1",
+      "nombre": "Ruth",
+      "rol": "Moabite, ancestor of David",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "Her loyalty to Naomi and Israel made her a model of conversion and loyal love.",
+      "referencias": [
+        "Ruth 1:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p2",
+      "nombre": "Balaam",
+      "rol": "Mesopotamian prophet",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "Called to curse Israel in Moab, he ended up blessing the people by divine command.",
+      "referencias": [
+        "Num 22:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "moa_p3",
+      "nombre": "Table",
+      "rol": "King by Moab",
+      "periodo": "ca. 850 BC",
+      "descripcion": "He left the Mesa stele, an inscription that mentions the God of Israel.",
+      "referencias": [
+        "2 Kgs 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Town related to Israel (descendant of Lot); They worshiped Chemosh. Their land was the scene of the death of Moses and the origin of Ruth.",
+    "religiones_presentes": [
+      "Moabite_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "moa_m1",
+        "nombre": "The origin of Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 19:36-37",
+          "fuente_secundaria": "",
+          "descripcion": "Moab was born from incest between Lot and his eldest daughter after the destruction of Sodom (Gen 19:36-37).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moab was born from incest between Lot and his eldest daughter after the destruction of Sodom (Gen 19:36-37).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 1:5",
+          "fuente_secundaria": "",
+          "descripcion": "Matthew includes Ruth the Moabite in the genealogy of Jesus (Mt 1:5).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Matthew includes Ruth the Moabite in the genealogy of Jesus (Mt 1:5).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

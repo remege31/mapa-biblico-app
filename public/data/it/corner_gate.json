@@ -1,0 +1,151 @@
+{
+  "id": "corner_gate",
+  "nombre": "Cancello ad angolo",
+  "tipo": "ciudad",
+  "lat": 31.775194,
+  "lng": 35.239435,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — puerta del muro perimetral de la ciudad, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Porta nel muro nord-ovest di Gerusalemme"
+    }
+  ],
+  "descripcion_geo": "Porta fortificata situata in uno degli angoli del perimetro murato di Gerusalemme, probabilmente nel settore nord-ovest della città, che segna uno degli estremi delle misure di lunghezza delle mura citate nei resoconti di ricostruzione e distruzione.",
+  "altitud_m": "Gerusalemme muro perimetrale, c. 740-760",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "Punto di riferimento fortificato per misurare il perimetro delle mura",
+    "Accesso difensivo nell'angolo nord-ovest della città"
+  ],
+  "importancia_estrategica": "La Porta dell'Angolo funziona nel testo biblico principalmente come punto di riferimento topografico per misurare le distanze dal muro di Gerusalemme, sia nel contesto della sua riparazione da parte di Uzzia, sia in quello della sua distruzione documentata dai profeti, segnando i limiti dell'area urbana fortificata in momenti diversi della storia del regno di Giuda.",
+  "otros_habitantes": [
+    {
+      "id": "guarnicion_puerta_angulo",
+      "nombre": "Guarnigione delle mura",
+      "descripcion": "Personale militare incaricato della difesa del settore di Porta d'Angolo nell'ambito del sistema generale di fortificazione del perimetro Gerusalemme.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "comerciantes_puerta_angulo",
+      "nombre": "Popolazione urbana del settore nordoccidentale",
+      "descripcion": "Abitanti e commercianti della zona della città vicino alla Puerta del Ángulo, zona che si sviluppò urbanisticamente durante la tarda monarchia.",
+      "religion": "Yahvismo",
+      "periodo": "C. 800–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "uzias-fortifica-puerta-angulo",
+      "titulo": "Uzzia fortifica la Porta dell'Angolo",
+      "fecha": "c. 790–740 a.C.",
+      "descripcion": "Re Uzzia di Giuda costruisce torri a Gerusalemme accanto alla Porta dell'Angolo, alla Porta della Valle e al Muro dell'Angolo e le fortifica come parte di un più ampio programma di rafforzamento militare e agricolo del suo regno.",
+      "referencias": [
+        "2 Cr 26:9"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "joas-israel-brecha-puerta-angulo",
+      "titulo": "Joás di Israele sfonda il Cancello dell'Angolo",
+      "fecha": "c. 790 a.C.",
+      "descripcion": "Dopo aver sconfitto Amazia di Giuda in battaglia, Joas, re di Israele, apre una breccia nel muro di Gerusalemme dalla Porta di Efraim alla Porta dell'Angolo, lunga quattrocento cubiti, come punizione e umiliazione dopo la sconfitta dei Giudei.",
+      "referencias": [
+        "2 Re 14:13",
+        "2 Cr 25:23"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "jeremias-reconstruccion-futura-puerta-angulo",
+      "titulo": "L'Angle Gate nella promessa di ricostruzione di Geremia",
+      "fecha": "c. 587 a.C. (oráculo, contexto del exilio)",
+      "descripcion": "Il profeta Geremia annuncia che verrà il giorno in cui Gerusalemme sarà ricostruito per YHWH dalla torre di Hananeel alla Porta dell'Angolo, ampliando l'area consacrata della città, in segno di speranza dopo l'imminente distruzione.",
+      "referencias": [
+        "Ger 31:38"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias_puerta_angulo",
+      "nombre": "Uzzia",
+      "rol": "Re di Giuda, Fortificatore di Gerusalemme",
+      "periodo": "hierro_2",
+      "descripcion": "Costruisce e fortifica torri accanto alla Porta dell'Angolo come parte del suo vasto programma di rafforzamento militare del regno, descritto come uno dei re più prosperi di Giuda fino alla sua successiva caduta nell'orgoglio.",
+      "referencias": [
+        "2 Cr 26:1-15"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joas_israel_puerta_angulo",
+      "nombre": "Joash di Israele",
+      "rol": "Re di Israele (regno del nord)",
+      "periodo": "c. 798–782 a.C.",
+      "descripcion": "Sconfigge Amaziah di Giuda e apre un'umiliante breccia nel muro di Gerusalemme fino alla Porta dell'Angolo, saccheggiando anche il Tempio e il palazzo reale.",
+      "referencias": [
+        "2 Re 14:8-14"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_puerta_angulo",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Egli pronuncia un oracolo di futura restaurazione che assume la Porta dell'Angolo come uno dei punti di riferimento geografici della Gerusalemme ricostruita e consacrata che verrà dopo l'esilio.",
+      "referencias": [
+        "Ger 31:38-40"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La Porta dell'Angolo appare nel testo biblico come un indicatore topografico che abbraccia tre momenti teologicamente carichi nella storia di Gerusalemme: fortificazione sotto un re prospero (Uzzia), umiliazione attraverso una breccia aperta da un re israelita rivale (Ioas), e infine la promessa profetica di futura ricostruzione e consacrazione (Geremia). Questa progressione – forza, distruzione, restaurazione – riflette in miniatura il ciclo teologico deuteronomista applicato alla capitale del regno di Giuda stesso.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "promesa-reconstruccion-puerta-angulo",
+        "nombre": "La promessa di ricostruzione da Gerusalemme all'Angle Gate",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 31:38-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las profecías de consolación de Jeremías 30-33 como anuncio de la restauración post-exílica",
+          "descripcion": "La tradizione ebraica colloca questo oracolo all'interno del 'Libro della Consolazione' di Geremia, leggendo la futura estensione della città consacrata fino alla Porta dell'Angolo come una promessa concreta di restaurazione fisica e spirituale di Gerusalemme dopo l'esilio babilonese.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'annunciata ricostruzione topografica simboleggia il rinnovamento globale del rapporto di alleanza tra YHWH e Israele dopo il giudizio dell'esilio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

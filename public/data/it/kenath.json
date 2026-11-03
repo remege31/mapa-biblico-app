@@ -1,0 +1,142 @@
+{
+  "id": "kenath",
+  "nombre": "Kenat",
+  "tipo": "ciudad",
+  "lat": 32.756919,
+  "lng": 36.6164,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Conquistata da Noba, territorio di Manasse"
+    }
+  ],
+  "descripcion_geo": "Città in Galaad, nel territorio della mezza tribù di Manasse in Transgiordania, conquistata da un leader locale chiamato Noba, che le dà il proprio nome dopo la vittoria, esempio di ridenominazione territoriale post-conquista.",
+  "altitud_m": 1000,
+  "clima": "Montagna mediterranea in transizione verso il semi-arido: estati secche e calde, inverni freddi, tipici della regione orientale Galaad.",
+  "recursos": [
+    "Posizione nel territorio manassita di Galaad",
+    "Terreni agricoli e da pascolo nella regione"
+  ],
+  "importancia_estrategica": "Kenat esemplifica un caso particolare all'interno del sistema di conquista della Transgiordania: a differenza di altre città generalmente assegnate dalla tribù, questa è specificamente conquistata da un individuo chiamato Noba, un discendente di Manasse, che le dà il proprio nome invece di mantenere la designazione cananea originale, mostrando un'azione individuale all'interno del processo collettivo di conquista tribale.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_kenath",
+      "nombre": "Amorrei di Kenath",
+      "descripcion": "Popolazione originaria della città prima della conquista da parte di Noba, integrata nel territorio amorreo-galeadita della regione.",
+      "religion": "Politeismo amorreo",
+      "periodo": "Prima del c. 1400 a.C"
+    },
+    {
+      "id": "manasitas_kenath",
+      "nombre": "Clan di Noba (Manasse)",
+      "descripcion": "Famiglia della mezza tribù di Manasse che conquista e rinomina la città con il proprio nome dopo la vittoria militare.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "noba-conquista-kenath",
+      "titulo": "Noba conquista Kenat e gli dà il suo nome",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Noba, appartenente alla mezza tribù di Manasse, va a prendere Kenath e i suoi villaggi, chiamandoli Noba con il proprio nome, in un atto di conquista individuale che sostituisce l'originaria denominazione cananea con quella di conquistatore.",
+      "referencias": [
+        "Nm 32:42"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "kenath-genealogia-cronista",
+      "titulo": "Kenath nelle genealogie dei cronisti di Manasse",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "Gli elenchi genealogici delle Cronache confermano il possesso di Kenath e dei suoi villaggi all'interno del territorio storico di Manasse, registrandone la persistenza amministrativa per diversi secoli.",
+      "referencias": [
+        "1 Cr 2:23"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "kenath-territorio-galaad-manases",
+      "titulo": "Kenath nel territorio generale di Galaad assegnato a Manasse",
+      "fecha": "c. 1400–1200 a.C. (narrativa)",
+      "descripcion": "Kenat fa parte dell'esteso territorio di Galaad e Basan corrispondente alla mezza tribù di Manasse in Transgiordania, facente parte dell'insieme delle città conquistate in questa regione orientale del territorio israelita.",
+      "referencias": [
+        "Nm 32:39-42"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "noba_kenath",
+      "nombre": "Noba",
+      "rol": "Kenat conquistatore individuale",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Membro della mezza tribù di Manasse che conquista personalmente Kenath e i suoi villaggi, dandogli il proprio nome in sostituzione dell'originale nome cananeo.",
+      "referencias": [
+        "Nm 32:42"
+      ],
+      "ruta": [
+        "kenath"
+      ]
+    },
+    {
+      "id": "manasitas_kenath_personaje",
+      "nombre": "Mezza tribù di Manasse in Galaad",
+      "rol": "Titolari del territorio che comprende Kenat",
+      "periodo": "Desde c. 1400 a.C.",
+      "descripcion": "Tribù che riceve l'esteso territorio di Galaad e Basan, includendo Kenat tra le città conquistate individualmente dai suoi membri.",
+      "referencias": [
+        "Nm 32:39-42"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "amorreos_kenath_personaje",
+      "nombre": "Popolazione amorrei originaria",
+      "rol": "Abitanti prima della conquista di Noba",
+      "periodo": "Anterior a c. 1400 a.C.",
+      "descripcion": "Popolazione sfollata con la conquista di Noba, che dopo la vittoria sostituì il nome originario della città con il proprio.",
+      "referencias": [
+        "Nm 32:42"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kenat manca di una propria narrativa o di uno sviluppo mitico; Il suo valore per il corpus biblico è quello di illustrare il modello di conquista individuale all'interno della struttura collettiva del possesso tribale, dove un membro specifico di Manasse riesce a rinominare il territorio conquistato con il proprio nome, una pratica documentata anche in altri casi simili della Transgiordania che riflettono la combinazione di iniziativa individuale e appartenenza tribale collettiva nel processo generale di possesso della terra promessa.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo amorreo (substrato originale)"
+    ],
+    "mitos": [
+      {
+        "id": "renombramiento-conquista-kenath",
+        "nombre": "La ridenominazione delle città conquistate come pratica di possesso simbolico",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 32:41-42",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la práctica de renombrar ciudades conquistadas como Kenat (renombrada Noba) y otros casos similares en la Transjordania, como acto simbólico de posesión efectiva más allá de la mera asignación tribal formal",
+          "descripcion": "La tradizione ebraica osserva che la pratica di rinominare le città conquistate individualmente, come nel caso di Kenat-Noba, rappresenta un atto simbolico di possesso effettivo che trascende la mera allocazione tribale teorica, dimostrando che la vera appropriazione della terra promessa richiedeva un’azione concreta e impegnata da parte di specifici individui e famiglie all’interno del quadro collettivo più ampio del patrimonio tribale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La ridenominazione dei territori conquistati illustra che il possesso effettivo della terra promessa combina la promessa collettiva alle tribù con la concreta responsabilità individuale e l'azione dei suoi membri particolari.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

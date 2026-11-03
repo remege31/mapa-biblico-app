@@ -1,0 +1,165 @@
+{
+  "id": "makkedah",
+  "nombre": "Makkedah",
+  "tipo": "ciudad",
+  "lat": 31.935117,
+  "lng": 34.781326,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquest and assignment to Judah"
+    }
+  ],
+  "descripcion_geo": "Canaanite city in the Shephelah (Judah lowlands), close to a natural limestone cave that served as a refuge and, later, as an improvised prison in the story of the conquest. Low, gently hilly terrain typical of the transition between the coastal plain and the central mountains.",
+  "altitud_m": 250,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, more temperate than the coast due to the altitude of the Shephelah.",
+  "recursos": [
+    "Natural limestone caves",
+    "Agricultural lands of the Shephelah",
+    "Position on routes between the Philistine coast and the mountains of Judah"
+  ],
+  "importancia_estrategica": "Makkedah was the scene of one of the most cited episodes of the Joshua campaign in southern Canaan: the defeat of the coalition of five Amorites kings and their final refuge in a cave near the city. Its control consolidated the Israelite presence in the Shephelah after the fall of the great Canaanite city-states in the region.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_makkedah",
+      "nombre": "Canaanites Amorites",
+      "descripcion": "Original population ruled by a local king, member of the coalition of five Amorites kings defeated by Joshua after the Gibeon episode.",
+      "religion": "Canaanite-Amorite polytheism — worship of Baal and local divinities",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "israelitas_makkedah",
+      "nombre": "Tribe by Judah",
+      "descripcion": "After the conquest, Makkedah is assigned to the territory of Judah within the division of the Shephelah.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cinco-reyes-cueva",
+      "titulo": "The five kings Amorites shelter in the Makkedah cave",
+      "fecha": "c. 1200 BC",
+      "descripcion": "After being defeated by Joshua in defense of Gibeon, the kings of Jerusalem, Hebron, Jarmut, Lachish and Eglon flee and hide in a cave near Makkedah; Joshua orders the entrance to be sealed with stones until the battle is over.",
+      "referencias": [
+        "Josh 10:16-21"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "ejecucion-cinco-reyes",
+      "titulo": "Execution of the five kings",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Once victory was assured, Joshua had the five kings taken out of the cave, publicly humiliated them before the Israelite leaders, executed them and ordered their bodies to be hung until sunset, later burying them in the same cave that had served as their refuge.",
+      "referencias": [
+        "Josh 10:22-27"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "conquista-makkedah",
+      "titulo": "Taking of the city of Makkedah",
+      "fecha": "c. 1200 BC",
+      "descripcion": "On the same day of the kings' execution, Joshua conquers the city of Makkedah, puts its king and its inhabitants to the edge of the sword and leaves no survivors, repeating the pattern of the southern campaigns.",
+      "referencias": [
+        "Josh 10:28"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "Moses's successor who leads Canaan's southern military campaign; In Makkedah he stars in both the episode of the cave of the five kings and the conquest of the city itself.",
+      "referencias": [
+        "Josh 10:16-28"
+      ],
+      "ruta": [
+        "jericho",
+        "makkedah",
+        "lachish"
+      ]
+    },
+    {
+      "id": "rey_jerusalen_adonisedec",
+      "nombre": "Adoni-sedec",
+      "rol": "Amorite king of Jerusalem, leader of the coalition of five kings",
+      "periodo": "bronce_tardio",
+      "descripcion": "Organizes the coalition of five Amorites kings against Gibeon for having made an agreement with Israel; defeated by Joshua, he is executed after being found in the Makkedah cave.",
+      "referencias": [
+        "Josh 10:1-27"
+      ],
+      "ruta": [
+        "jerusalen",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "rey_hebron_makkedah",
+      "nombre": "Coalition kings of Hebron, Jarmut, Lachish and Eglon",
+      "rol": "Reyes Amorites of the southern coalition",
+      "periodo": "c. 1200 BC",
+      "descripcion": "Together with the king of Jerusalem, they form the coalition of five kings defeated in the battle of Gibeon; the five share the same fate in the cave of Makkedah.",
+      "referencias": [
+        "Josh 10:3-5",
+        "Josh 10:23"
+      ],
+      "ruta": [
+        "makkedah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Makkedah has no cult of its own; Its religious weight is entirely narrative, as the scene of the divine judgment executed through Joshua on the Canaanites kings. The episode is inscribed in the Deuteronomist theology of herem (consecration to destruction) that characterizes the story of the conquest, presenting the defeat and execution of the kings as a manifestation of YHWH's judgment on the people of Canaan.",
+    "religiones_presentes": [
+      "Yahwism (biblical story perspective)",
+      "Canaanite-Amorite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "cueva-cinco-reyes",
+        "nombre": "The cave of the five kings",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 10:16-27",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 10a-b (discusión sobre los reyes derrotados por Josué)",
+          "descripcion": "Rabbinic tradition details the episode as an example of divine control of natural phenomena in favor of Israel (the sun stopped) and as fulfillment of the judgment announced against the Canaanites peoples.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The public execution of the kings symbolizes YHWH's victory over the political and religious powers opposed to Israel; The gesture of stepping on the neck of the kings represents total submission.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josh 10:16-27 (recepción patrística como tipología de victoria sobre el mal)",
+          "fuente_secundaria": "Orígenes, Homilías sobre el libro de Josué, Homilía XI",
+          "descripcion": "Origen allegorically interprets the five kings as a representation of the five senses subject to the dominion of the 'spiritual Joshua' (type of Christ), reading the episode in a moral rather than historical-military key.",
+          "similitudes": "Shares the narrative basis of Joshua's text.",
+          "diferencias": "The patristic reading displaces the military-historical meaning towards a spiritual allegory about the dominion of the passions.",
+          "significado_teologico": "The victory over the five kings prefigures Christ's victory over the powers of evil.",
+          "posible_relacion_cultural": "Christian reception of the conquest cycle of Joshua as a Christological typology, common in ancient patristics."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

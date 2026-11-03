@@ -1,0 +1,158 @@
+{
+  "id": "thyatira",
+  "nombre": "Thyatira",
+  "tipo": "ciudad",
+  "lat": 38.9186,
+  "lng": 27.8386,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City in the Lico valley in Lidia, known for its dyers and craft guilds.",
+  "altitud_m": 110,
+  "clima": "Mediterranean",
+  "recursos": [
+    "dyed wool",
+    "ceramics",
+    "bronze",
+    "trade"
+  ],
+  "importancia_estrategica": "Guild City; crossing of the route between Pergamon and Sardis.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tia_h1",
+        "titulo": "Lydia of Thyatira",
+        "fecha": "ca. 50 AD",
+        "descripcion": "Lydia, a purple seller from Thyatira, is the first European convert baptized by Paul.",
+        "referencias": [
+          "Acts 16:14-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "tia_h2",
+        "titulo": "Letter to the church of Thyatira",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ praises Thyatira's love and faith but condemns 'Jezebel' for teaching fornication.",
+        "referencias": [
+          "Rev 2:18-29"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "tia_h3",
+        "titulo": "Promise to the faithful of Thyatira",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ promises authority over the nations to those who keep his word.",
+        "referencias": [
+          "Rev 2:26-28"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tia_p1",
+        "nombre": "Lydia",
+        "rol": "Europe's first Christian",
+        "periodo": "s. I AD",
+        "descripcion": "Merchant of purple cloth from Thyatira; baptized in Philippi by Paul.",
+        "referencias": [
+          "Acts 16:14"
+        ],
+        "ruta": [
+          "thyatira",
+          "philippi"
+        ]
+      },
+      {
+        "id": "tia_p2",
+        "nombre": "John the Apostle",
+        "rol": "Prophet",
+        "periodo": "s. I AD",
+        "descripcion": "He addresses the longest letter of the seven to the church of Thyatira.",
+        "referencias": [
+          "Rev 2:18"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tia_p3",
+        "nombre": "'Jezebel'",
+        "rol": "false prophetess",
+        "periodo": "s. I AD",
+        "descripcion": "Woman who taught doctrines in Thyatira that the Apocalypse condemns with the name of Jezebel.",
+        "referencias": [
+          "Rev 2:20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City of guilds with its pagan ritual banquets; The church had to decide how to relate to union practices.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tia_m1",
+          "nombre": "The new Jezebel",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "1 Kgs 16:31",
+            "fuente_secundaria": "",
+            "descripcion": "Jezebel, queen who introduced the cult of Baal in Israel (1 Kgs 16:31).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jezebel, queen who introduced the cult of Baal in Israel (1 Kgs 16:31).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The Apocalypse uses the name Jezebel for a prophetess from Thyatira who corrupted the church with syncretism.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Apocalypse uses the name Jezebel for a prophetess from Thyatira who corrupted the church with syncretism.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

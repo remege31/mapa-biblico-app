@@ -1,0 +1,173 @@
+{
+  "id": "pisgah",
+  "nombre": "Pisgah",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.762831,
+  "lng": 35.71856575741812,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Comparte coordenadas con Peor — son cumbres vecinas de la misma cordillera de Abarim, en Moab, frente a Jericó.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Visione finale di Mosè, Oracoli di Balaam"
+    }
+  ],
+  "descripcion_geo": "Catena montuosa in Moab, a est del Giordano, di fronte a Gerico, parte della catena montuosa Abarim. La sua sommità, identificata con il Monte Nebo, offre una vista panoramica dell'intero territorio di Canaan, da Galaad al Mar Mediterraneo e Negev.",
+  "altitud_m": 710,
+  "clima": "Altopiano semi-arido: estati calde e secche, inverni freddi, con vista libera sulla Valle del Giordano e oltre.",
+  "recursos": [
+    "Punto panoramico privilegiato su tutto il territorio di Canaan",
+    "Posizione elevata di valore simbolico e strategico per l'osservazione"
+  ],
+  "importancia_estrategica": "Pisgá è il luogo da cui Mosè contempla la terra promessa su cui non potrà mettere piede, chiudendo narrativamente l'intero ciclo dell'Esodo; È anche uno dei punti da cui Balak conduce Balaam nella speranza che maledica Israele, e da cui Balaam invece pronuncia benedizioni.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_pisgah",
+      "nombre": "Popolazione Moab",
+      "descripcion": "Abitanti del regno di Moab nel cui territorio si trova la catena montuosa del Pisga, sotto il dominio di Balak al tempo degli oracoli di Balaam.",
+      "religion": "Politeismo moabita: culto di Chemosh",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "israelitas_pisgah",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Le persone si accampavano nelle vicinanze, osservate dalla vetta del Pisgah da Balaam durante i tentativi di Balak di ottenere una maledizione contro di loro.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "balac-balaam-pisgah",
+      "titulo": "Balak porta Balaam in cima al Pisgah",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo due tentativi falliti di ottenere una maledizione contro Israele da altri luoghi, Balak porta Balaam sulla vetta del Pisgah, da dove può vedere parte dell'accampamento israelita, sperando che da quell'angolazione Balaam pronunci finalmente una maledizione.",
+      "referencias": [
+        "Nm 23:14-17"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "tercer-oraculo-balaam-pisgah",
+      "titulo": "Il terzo oracolo di benedizione di Balaam",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Da Pisgah, invece della prevista maledizione di Balak, Balaam pronuncia un nuovo oracolo di benedizione su Israele, descrivendo le loro tende come belle \"come ruscelli che si estendono, come giardini in riva al fiume\", confermando che non può annullare la benedizione che YHWH ha pronunciato sul popolo.",
+      "referencias": [
+        "Nm 24:1-9"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "moises-vision-pisgah",
+      "titulo": "Mosè contempla la terra promessa da Pisga",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Su indicazione di YHWH, Mosè sale sulla vetta del Pisgah (identificato con Nebo) per contemplare l'intera estensione della terra promessa che non gli sarà permesso di percorrere a causa della sua mancanza di fede nelle acque di Meribah; Lì muore, e viene sepolto dallo stesso YHWH in un luogo che ancora oggi nessuno conosce.",
+      "referencias": [
+        "Dt 34:1-7"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_pisgah",
+      "nombre": "Mosè",
+      "rol": "Legislatore e liberatore di Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dalla vetta del Pisgah contempla tutta la terra promessa che il suo popolo abiterà, senza potervi entrare lui stesso, chiudendo così la sua missione di liberatore proprio alla soglia del compimento della promessa.",
+      "referencias": [
+        "Dt 34:1-7"
+      ],
+      "ruta": [
+        "shittim",
+        "pisgah"
+      ]
+    },
+    {
+      "id": "balaam_pisgah",
+      "nombre": "Balaam",
+      "rol": "Veggente assunto da Balac",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dalla vetta del Pisgah pronuncia il suo terzo oracolo di benedizione su Israele, invece della maledizione che Balak si aspettava, confermando l'impossibilità di annullare la benedizione divina.",
+      "referencias": [
+        "Nm 23:14-24:9"
+      ],
+      "ruta": [
+        "pisgah",
+        "peor"
+      ]
+    },
+    {
+      "id": "balac_pisgah",
+      "nombre": "Balak",
+      "rol": "Re di Moab",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Porta Balaam successivamente a diversi punti alti, incluso Pisgah, nella speranza di ottenere una maledizione efficace contro Israele da qualche angolazione, senza successo in nessuno dei tentativi.",
+      "referencias": [
+        "Nm 23:13-17"
+      ],
+      "ruta": [
+        "pisgah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Pisgah funziona come una doppia soglia teologica: da un lato, il luogo dove la parola di un veggente straniero incaricato di maledire Israele si trasforma involontariamente in benedizione, confermando l'inviolabilità dell'elezione divina; dall’altro, il luogo dove il liberatore di Israele contempla, senza poterlo raggiungere fisicamente, il compimento della promessa che ha guidato tutta la sua missione, stabilendo un potente motivo biblico sui limiti anche dei più grandi leader di fronte al disegno divino.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo moabita: culto di Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "vision-moises-pisgah-mito",
+        "nombre": "La visione finale di Mosè di Pisgá",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 34:1-7",
+          "fuente_secundaria": "Talmud Babilónico, Sotah 13b-14a (sobre la muerte de Moisés 'por boca de YHWH' y su sepultura desconocida)",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente la morte di Mosè a Pisga-Nebo come unica nel suo genere - \"per bocca di YHWH\" (con un bacio divino, secondo l'interpretazione tradizionale) - e discute il significato della sua sepoltura rimasta sconosciuta, evitando così ogni possibile culto del luogo o della figura dello stesso Mosè.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Mosè come figura profetica suprema la cui vita culmina su questa montagna.",
+          "diferencias": null,
+          "significado_teologico": "La visione senza possesso simboleggia che la fedeltà al disegno divino non sempre comprende il pieno godimento personale della promessa, principio poi applicato ad altre figure di fede della tradizione biblica.",
+          "posible_relacion_cultural": "Tradizione condivisa di Mosè come profeta fondatore in tutte e tre le religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Dt 34:1-7 (recepción tipológica neotestamentaria); Mt 17:1-8 (aparición de Moisés en la Transfiguración)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la limitación de Moisés y la ley frente al cumplimiento pleno en Cristo",
+          "descripcion": "La tradizione cristiana legge l'impossibilità di Mosè di entrare nella terra promessa in chiave tipologica come simbolo dei limiti della legge mosaica, che necessita di essere 'completata' da una figura successiva (Giosuè/Gesù, omonimo in ebraico), motivo ripreso nell'apparizione di Mosè accanto a Elia nella Trasfigurazione di Gesù.",
+          "similitudes": "Condividi l'apprezzamento di Mosè come suprema figura profetica dell'Antico Testamento.",
+          "diferencias": "La lettura tipologica cristiana introduce una dimensione tipologica cristologica (legge vs grazia, Mosè vs Giosuè/Gesù) assente nella lettura ebraica e islamica dell'episodio.",
+          "significado_teologico": "La visione senza entrata viene interpretata come anticipazione della necessità di un successivo e maggiore adempimento della promessa, associata nella lettura cristiana al ministero di Cristo.",
+          "posible_relacion_cultural": "Tradizione condivisa di Mosè come profeta fondatore comune al giudaismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Tradición islámica extracoránica sobre la muerte de Musa (Moisés) cerca de la tierra santa",
+          "fuente_secundaria": "Hadices que narran el relato de la muerte de Musa y su deseo de ser acercado a la tierra santa",
+          "descripcion": "La tradizione islamica conserva racconti sulla morte di Musa in prossimità della terra promessa, senza entrarvi, in linee generali compatibili con il racconto biblico, pur senza sviluppare la topografia specifica del monte Pisga-Nebo con lo stesso dettaglio del testo ebraico.",
+          "similitudes": "Riconoscimento condiviso di Musa come un grande profeta che non riesce ad entrare nella terra promessa.",
+          "diferencias": "La tradizione islamica non sviluppa la scena panoramica specifica del Pisgah con lo stesso dettaglio geografico del racconto biblico del Deuteronomio.",
+          "significado_teologico": "La figura di Musa è integrata nella catena profetica riconosciuta dall'Islam, con enfasi sul suo status di uno dei maggiori profeti (ulu al-azm).",
+          "posible_relacion_cultural": "Riconoscimento condiviso di Musa/Mosè come profeta fondamentale nella comune tradizione abramitica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Altopiano"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "kishon",
+  "nombre": "Cison",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.761948,
+  "lng": 35.064096,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — River of Sisera's Defeat"
+    }
+  ],
+  "descripcion_geo": "River that crosses the plain of Jezreel from its sources near Mount Tabor to empty into the Mediterranean next to Mount Carmel, with seasonal flow but capable of sudden floods that played a decisive role in the defeat of Sisera's army.",
+  "altitud_m": 50,
+  "clima": "Mediterranean — hot, dry summers with reduced riverbed, winters with rain that can produce significant flash floods.",
+  "recursos": [
+    "Seasonal river course passing through the Jezreel Plain",
+    "Decisive factor in the immobilization of Sisera's chariots"
+  ],
+  "importancia_estrategica": "The Kishon River is the decisive geographical element in the victory of Deborah and Barak over Sisera: a sudden flood, possibly caused by a storm, turns the terrain into a quagmire that immobilizes the fearsome Philistines iron chariots, neutralizing the main military advantage of the Canaanite army and allowing the Israelite victory; Centuries later, it is also the place where Elijah executes Baal's prophets after the Carmel confrontation.",
+  "otros_habitantes": [
+    {
+      "id": "ejercito_sisara_kishon",
+      "nombre": "Sisera's Army",
+      "descripcion": "Canaanite forces with nine hundred iron chariots, neutralized by the flooding of the Cison that turns the terrain into a quagmire impassable for their vehicles.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 1150 BC"
+    },
+    {
+      "id": "profetas_baal_kishon",
+      "nombre": "Baal prophets executed",
+      "descripcion": "Baalist priests defeated in the Carmel confrontation, executed by order of Elijah next to the Kishon torrent.",
+      "religion": "Polytheism Canaanite — worship of Baal",
+      "periodo": "c. 860 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cantico-debora-cisón",
+      "titulo": "The Canticle of Deborah celebrates the Kishon River",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Deborah's lengthy memorial poem devotes specific verses to celebrating how 'the torrent Kishon carried them away, the ancient torrent, the torrent Kishon', attributing to the flooding of the river an almost personified role in the providential defeat of Sisera's army.",
+      "referencias": [
+        "Judg 5:21"
+      ],
+      "personajes_clave": [
+        "debora"
+      ]
+    },
+    {
+      "id": "derrota-sisara-cisón",
+      "titulo": "The Kishon immobilizes Sisera's chariots",
+      "fecha": "c. 1150 BC",
+      "descripcion": "During the decisive battle against Sisera's army, a sudden flood of the Kishon turns the field into a quagmire that renders the nine hundred Philistines iron chariots useless, neutralizing the decisive military advantage of the Canaanite army and allowing the outgunned Israel to obtain victory.",
+      "referencias": [
+        "Judg 4:15",
+        "Judg 5:21"
+      ],
+      "personajes_clave": [
+        "barac"
+      ]
+    },
+    {
+      "id": "elias-ejecuta-profetas-kishon",
+      "titulo": "Elijah executes Baal's prophets in Kishon",
+      "fecha": "c. 860 BC",
+      "descripcion": "After the public demonstration of YHWH's power on Mount Carmel, Elijah orders the capture of the four hundred and fifty prophets of Baal and has them personally executed next to the Kishon torrent, completing the judgment on the idolatrous cult institutionalized by Jezebel.",
+      "referencias": [
+        "1 Kgs 18:40"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_kishon",
+      "nombre": "Deborah",
+      "rol": "Judge and prophetess, author of the commemorative song",
+      "periodo": "hierro_1",
+      "descripcion": "He attributes to the Kishon River an almost personified and providential role in the victory over Sisera within his extensive poem commemorating the battle.",
+      "referencias": [
+        "Judg 5:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sisara_kishon",
+      "nombre": "Sisera",
+      "rol": "General of Jabin's army Canaanite",
+      "periodo": "c. 1150 BC",
+      "descripcion": "He sees his main military advantage—the iron chariots—neutralized by the sudden flooding of the Kishon, a decisive factor that precipitates his total defeat and subsequent flight until his death at the hands of Jael.",
+      "referencias": [
+        "Judg 4:15-16"
+      ],
+      "ruta": [
+        "kishon"
+      ]
+    },
+    {
+      "id": "elias_kishon",
+      "nombre": "Elijah",
+      "rol": "Prophet by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "He executes the defeated prophets of Baal alongside the Kishon after the Carmel confrontation, completing the judgment on the idolatrous cult sponsored by Ahab's court.",
+      "referencias": [
+        "1 Kgs 18:40"
+      ],
+      "ruta": [
+        "carmel_mount",
+        "kishon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Kishon River is the scene of two providential victories over the Canaanite cult separated by several centuries: first as a natural instrument of the military defeat of Sisera, poetically presented in the Canticle of Deborah almost as an active agent of divine judgment, and then as a place of execution of the prophets of Baal after the confrontation at Carmel, connecting both episodes in the same geography of Yahwist victory over organized Canaanite power.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (forces defeated in both episodes)"
+    ],
+    "mitos": [
+      {
+        "id": "torrente-providencial-kishon",
+        "nombre": "The Kishon torrent as a providential instrument of victory",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 5:21; 1 Re 18:40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la personificación poética del Cisón en el Cántico de Débora como ejemplo de cómo los elementos naturales pueden convertirse en instrumentos activos del designio providencial de YHWH",
+          "descripcion": "Jewish tradition especially values ​​the poetic personification of the Kishon in the Song of Deborah - 'the torrent swept them away' - as an eloquent example of how nature itself can become an agent of divine judgment, an interpretation reinforced centuries later when the same river reappears as the scene of the final judgment on the prophets of Baal in the times of Elijah.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The Kishon River exemplifies how seemingly neutral natural elements can become active instruments of divine providential design against the enemies of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "River"
+}

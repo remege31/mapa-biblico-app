@@ -1,0 +1,176 @@
+{
+  "id": "mamre",
+  "nombre": "Mamre",
+  "tipo": "ciudad",
+  "lat": 31.54909871686872,
+  "lng": 35.09356062020027,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Età del Bronzo Medio — Residenza patriarcale di Abramo"
+    }
+  ],
+  "descripcion_geo": "Boschetto di lecci o terebinti vicino a Hebron, sulle colline di Giuda, tradizionalmente identificato con un querceto sacro che fungeva da residenza a lungo termine di Abramo. Associato anche al campo e alla grotta di Machpela, acquistato da Abramo come luogo di sepoltura della famiglia.",
+  "altitud_m": 930,
+  "clima": "Montagna mediterranea: estati secche, inverni freddi con piogge, tipici degli altopiani Hebron.",
+  "recursos": [
+    "Boschetto di querce/terebintos (significato del nome 'Elones de Mamre')",
+    "bestiame al pascolo",
+    "Vicinanza alle sorgenti e alla grotta Macpelah"
+  ],
+  "importancia_estrategica": "Mamre non ha rilevanza militare o commerciale; La sua importanza è tutta teologico-narrativa, essendo uno dei principali luoghi di residenza di Abramo in Canaan e teatro di alcune delle più significative teofanie e promesse divine del ciclo patriarcale, tra cui la visita dei tre visitatori e l'annuncio della nascita di Isacco.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_mamre",
+      "nombre": "L'Amorreo Mamre e i suoi fratelli Escol e Aner",
+      "descripcion": "Alleati locali Amorrei di Abramo, da cui prende il nome il luogo; Lo accompagnano all'inseguimento dei re che avevano catturato Lot.",
+      "religion": "Cananeo-Politeismo amorreo",
+      "periodo": "C. 2100–1900 a.C"
+    },
+    {
+      "id": "heteos_mamre",
+      "nombre": "Figli di Heth (Ittiti)",
+      "descripcion": "Popolazione locale dalla quale Abramo acquista il campo e la grotta di Macpela come luogo di sepoltura della famiglia, in una trattativa dettagliata che il testo biblico descrive con ampio protocollo legale.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "C. 2050 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-asentado-mamre",
+      "titulo": "Abramo si afferma nei boschi di querce di Mamre",
+      "fecha": "c. 2090 a.C.",
+      "descripcion": "Dopo essersi separato da Lot, Abramo si sposta e si stabilisce vicino ai boschi di querce di Mamre, vicino a Hebron, dove costruisce un altare a YHWH, trasformando il luogo in una delle sue residenze più stabili e prolungate in Canaan.",
+      "referencias": [
+        "Gen 13:18"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "tres-visitantes-mamre",
+      "titulo": "I tre visitatori e l'annuncio della nascita di Isacco",
+      "fecha": "c. 2067 a.C.",
+      "descripcion": "YHWH appare a Abramo a Mamre sotto forma di tre visitatori che Abramo e Sarah ricevono con ospitalità; Durante la visita viene annunciata la nascita di Isacco, alla quale Sarah, ormai anziana, ride incredula, e viene rivelato anche l'imminente giudizio su Sodoma e Gomorra.",
+      "referencias": [
+        "Gen 18:1-15",
+        "Gen 18:16-33"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "sara"
+      ]
+    },
+    {
+      "id": "compra-macpela-mamre",
+      "titulo": "Abramo acquista il campo e la grotta di Machpelah",
+      "fecha": "c. 2050 a.C.",
+      "descripcion": "Dopo la morte di Sara, Abramo negozia formalmente con Efron l'Ittita l'acquisto del campo di Machpelah, di fronte a Mamre, compresa la grotta, gli alberi e i confini del terreno, come tomba di famiglia permanente, nella prima acquisizione legale di terra registrata nel ciclo patriarcale.",
+      "referencias": [
+        "Gen 23:1-20"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_mamre",
+      "nombre": "Abramo",
+      "rol": "Patriarca, padre della fede israelita",
+      "periodo": "bronce_medio",
+      "descripcion": "Stabilì una delle sue residenze più lunghe a Mamre, vi costruì un altare a YHWH, ricevette le visite dei tre messaggeri divini e negoziò l'acquisto del campo di Machpelah come luogo di sepoltura della famiglia.",
+      "referencias": [
+        "Gen 13:18",
+        "Gen 18:1-33",
+        "Gen 23:1-20"
+      ],
+      "ruta": [
+        "shechem",
+        "bethel",
+        "mamre",
+        "egipto"
+      ]
+    },
+    {
+      "id": "sara_mamre",
+      "nombre": "Sara",
+      "rol": "Moglie di Abramo, matriarca",
+      "periodo": "c. 2156–2029 a.C. (cronología tradicional)",
+      "descripcion": "Presente nel negozio durante la visita dei tre messaggeri a Mamre, ride internamente nel sentire l'annuncio che avrà un figlio in vecchiaia, episodio da cui deriva il nome Isacco (\"ride\").",
+      "referencias": [
+        "Gen 18:9-15"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    },
+    {
+      "id": "efron_heteo",
+      "nombre": "Efron l'ittita",
+      "rol": "Proprietario locale che vende il campo Macpela",
+      "periodo": "c. 2050 a.C.",
+      "descripcion": "Negozia davanti ai figli di Heth la vendita del campo e della grotta di Machpelah a Abramo, in una transazione descritta con minuzia giuridica che conferma la legittimità del possesso patriarcale della prima porzione di terra in Canaan.",
+      "referencias": [
+        "Gen 23:3-18"
+      ],
+      "ruta": [
+        "mamre"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mamre è uno degli ambienti teologici più densi del ciclo patriarcale: luogo dell'altare, della teofania ospitale e della riaffermata promessa della discendenza a una coppia di anziani. La visita dei tre messaggeri è divenuta una delle immagini più reinterpretate dell'intera tradizione biblica, letta in termini di sacra ospitalità, manifestazione trinitaria o semplice teofania angelica a seconda della tradizione ricevente.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo (culto di Abramo)",
+      "Cananeo-Politeismo amorreo (popolazione locale)"
+    ],
+    "mitos": [
+      {
+        "id": "tres-visitantes-mamre-mito",
+        "nombre": "I tre visitatori di Mamre",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 18:1-15",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 48-50 (sobre la identidad de los tres visitantes como ángeles con misiones específicas)",
+          "descripcion": "La tradizione rabbinica identifica i tre visitatori come angeli, ciascuno con una missione specifica - annunciare la nascita di Isacco, distruggere Sodoma, guarire Abramo dopo la circoncisione - e sviluppa ampiamente l'episodio come modello supremo di ospitalità (hachnasat orechim), virtù considerata più grande anche del ricevere la stessa presenza divina.",
+          "similitudes": "Condivide con l'Islam il riconoscimento dei visitatori come messaggeri angelici con la stessa doppia missione (annuncio e imminente distruzione di Sodoma).",
+          "diferencias": null,
+          "significado_teologico": "L'episodio stabilisce l'ospitalità verso lo straniero come una virtù centrale dell'etica biblica, modellata direttamente sul comportamento di Abramo.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo come modello etico universale nelle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 18:1-15 (recepción patrística e iconográfica, notablemente el icono de la Trinidad de Rublev)",
+          "fuente_secundaria": "Padres de la Iglesia oriental (especialmente la tradición que da origen al icono de la 'Hospitalidad de Abraham')",
+          "descripcion": "Una significativa corrente della tradizione cristiana orientale legge i tre visitatori come una prefigurazione o manifestazione velata della Trinità, interpretazione che dà origine a una delle immagini iconografiche più famose dell'arte cristiana orientale, sebbene altre letture patristiche li identifichino semplicemente come angeli.",
+          "similitudes": "Ne condivide la base narrativa e il tema dell'ospitalità come virtù esemplare.",
+          "diferencias": "La lettura trinitaria dei tre visitatori è un'innovazione specificamente cristiana, assente sia nella tradizione ebraica che in quella islamica, che li intendono come angeli senza connotazioni trinitarie.",
+          "significado_teologico": "L'episodio diventa figura visiva e teologica della Trinità per una parte importante della tradizione cristiana, senza perdere il suo senso originario di esemplare ospitalità.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Abramo come figura fondatrice comune alle tre religioni abramitiche."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 11:69-73; 51:24-30",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre los huéspedes honorables de Ibrahim",
+          "descripcion": "Il Corano narra l'episodio degli ospiti di Ibrahim (messaggeri angelici) in modo molto simile al racconto biblico: ricevono ospitalità, annunciano la nascita di un figlio (Isacco) nonostante l'età avanzata di Sara, che anche lei ride o si stupisce, e rivelano la missione di distruggere il popolo di Lot.",
+          "similitudes": "Struttura narrativa praticamente identica al racconto biblico: ospitalità, annuncio della nascita, reazione della moglie e rivelazione dell'imminente distruzione di Sodoma.",
+          "diferencias": "Il Corano non associa il luogo specifico al nome \"Mamre\"; La storia si concentra sulla figura di Ibrahim senza sviluppare la topografia locale del bosco di querce.",
+          "significado_teologico": "L'episodio conferma nella tradizione islamica la veridicità della promessa divina fatta a Ibrahim e il suo ruolo di profeta modello e ospitale per la comunità credente.",
+          "posible_relacion_cultural": "Tradizione condivisa del Patriarca Ibrahim/Abramo come figura profetica fondamentale comune a tutte e tre le religioni abramitiche."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

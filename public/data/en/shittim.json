@@ -1,0 +1,162 @@
+{
+  "id": "shittim",
+  "nombre": "Sitim",
+  "tipo": "ciudad",
+  "lat": 31.85826217905818,
+  "lng": 35.64156652792805,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Last camp before the crossing of the Jordan, idolatry of Baal-worst"
+    }
+  ],
+  "descripcion_geo": "Plain in the steppes of Moab, east of the Jordan River, opposite Jericho, where Israel camps in its last long settlement before crossing into the promised land. Its name ('acacias') describes the characteristic vegetation of the area, trees that also provided the wood for the Tabernacle.",
+  "altitud_m": -250,
+  "clima": "Jordan Valley Desert — extremely hot in summer, mild in winter, with acacia vegetation adapted to aridity.",
+  "recursos": [
+    "Acacia wood (used in the construction of the Tabernacle)",
+    "Last camping point before crossing the Jordan",
+    "Proximity to Moab and its population"
+  ],
+  "importancia_estrategica": "Shittim is the last large Israelite camp before the entry into Canaan, a climactic moment that combines the final preparation for the conquest with one of the most serious episodes of apostasy of the desert pilgrimage: idolatry with Baal-worse and union with Moabite women, which unleashes a devastating plague and demands a drastic response to restore the fidelity of the people before crossing the Jordan.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_sitim",
+      "nombre": "Women and population of Moab",
+      "descripcion": "Moabite and Midianite population inviting the Israelites to participate in sacrifices to their gods, particularly Baal-worse, causing mass apostasy in Shittim.",
+      "religion": "Moabite polytheism — cult of Chemosh and Baal-worse",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "israelitas_sitim",
+      "nombre": "Israel of the exodus",
+      "descripcion": "Israelite people camped in Shittim, preparing for the crossing of the Jordan, which falls massively into idolatry with Baal-worse before the corrective intervention of Phinehas.",
+      "religion": "Yahwism (with apostasy episode)",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "idolatria-baal-peor-sitim",
+      "titulo": "The Apostasy of Baal-Worst in Sitim",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "While Israel camps in Shittim, the people begin to have relationships with Moabite women who invite them to the sacrifices of their gods; Israel joins the cult of Baal-worse, incurring the wrath of YHWH and a plague that kills twenty-four thousand people.",
+      "referencias": [
+        "Num 25:1-9"
+      ],
+      "personajes_clave": [
+        "finees"
+      ]
+    },
+    {
+      "id": "finees-detiene-plaga-sitim",
+      "titulo": "Phinehas stops the plague with his zeal",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Seeing an Israelite openly introduce a Midianite woman before the entire congregation crying at the entrance of the Tabernacle, Phinehas, Aaron's grandson, pierces them both with a spear, stopping the plague; YHWH grants him and his descendants a covenant of perpetual priesthood because of his zeal.",
+      "referencias": [
+        "Num 25:6-13"
+      ],
+      "personajes_clave": [
+        "finees"
+      ]
+    },
+    {
+      "id": "espias-jerico-sitim",
+      "titulo": "Joshua sends spies from Sitim to Jericho",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Before crossing the Jordan, Joshua secretly sends two spies from Shittim to reconnoiter Jericho and the land, who are met and protected by Rahab before returning with a favorable report on the possibilities of conquest.",
+      "referencias": [
+        "Josh 2:1-24"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "finees",
+      "nombre": "Phinehas",
+      "rol": "Priest, grandson of Aaron",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "With his decisive action he stops the plague unleashed by the apostasy of Baal-peor in Shittim, receiving in exchange a covenant of perpetual priesthood for his descendants for his zeal in favor of the holiness of YHWH.",
+      "referencias": [
+        "Num 25:6-13"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    },
+    {
+      "id": "josue_sitim",
+      "nombre": "Joshua",
+      "rol": "Moses's successor, leader of the conquest",
+      "periodo": "bronce_tardio",
+      "descripcion": "Send the two spies from Sitim who will recognize Jericho, preparing the first phase of the conquest of Canaan after crossing the Jordan.",
+      "referencias": [
+        "Josh 2:1"
+      ],
+      "ruta": [
+        "shittim",
+        "jericho"
+      ]
+    },
+    {
+      "id": "moises_sitim",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, executor of the judgment on Baal-worse",
+      "periodo": "bronce_tardio",
+      "descripcion": "Orders the execution of the Israelite leaders who participated in the idolatry of Baal-peor in Shittim, in direct response to the divine command to stop the apostasy before entering the promised land.",
+      "referencias": [
+        "Num 25:4-5"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shittim is the scene of the last great collective failure of the desert generation before entering the promised land, and simultaneously the origin of a perpetual priestly covenant granted to the line of Phinehas for their zeal. The episode of Baal-worse becomes a later biblical paradigmatic reference of apostasy through religious and marital assimilation with neighboring peoples, a warning repeated in later legal and prophetic texts.",
+    "religiones_presentes": [
+      "Yahwism (with severe episode of apostasy)",
+      "Moabite polytheism — cult of Chemosh and Baal-worse"
+    ],
+    "mitos": [
+      {
+        "id": "celo-finees-pacto",
+        "nombre": "The Zeal of Phinehas and the Perpetual Priestly Covenant",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 25:1-13",
+          "fuente_secundaria": "Talmud Babilónico, Sanedrín 82a (discusión sobre la legitimidad del acto de Finees); Sal 106:30-31",
+          "descripcion": "Rabbinic tradition discusses at length the exceptional legitimacy of Phinehas's act—executed without formal trial—as a unique case of zeal justified by the severity of public desecration, citing Psalm 106 where the act 'was credited to him for righteousness'; the covenant of perpetual priesthood granted is interpreted as direct divine recognition of Phinehas' purity of intention.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode establishes the principle that zeal for YHWH's holiness, exercised with purity of intention, can stop collective divine judgment and be rewarded with a lasting covenant.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Num 25:1-13 (recepción patrística sobre el celo religioso); 1 Cor 10:8 (referencia paulina al episodio como advertencia)",
+          "fuente_secundaria": "Comentarios patrísticos sobre el pasaje de 1 Corintios que cita explícitamente la cifra de víctimas del episodio de Baal-peor",
+          "descripcion": "The apostle Paul explicitly cites the Shittim episode as a warning against sexual immorality and idolatry for the early Christian community, integrating the story into a moral catechesis on the consequences of collective apostasy.",
+          "similitudes": "It shares with the Jewish reading the use of the episode as a paradigmatic warning against apostasy through religious assimilation.",
+          "diferencias": "The Christian reading focuses on the moral-pastoral application of the episode as a warning, without developing the discussion on the legal legitimacy of Phinehas' act present in the rabbinic tradition.",
+          "significado_teologico": "The episode becomes a New Testament example cited directly as a warning against repeating the sins of the desert generation.",
+          "posible_relacion_cultural": "Shared reception of the Exodus cycle and the desert as a foundational sacred story common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "dibon",
+  "nombre": "Dibon",
+  "tipo": "ciudad",
+  "lat": 31.49684513710609,
+  "lng": 35.78284105296996,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Conquista di Sihon, assegnata a Gad"
+    }
+  ],
+  "descripcion_geo": "Città principale dell'altopiano moabita, poi capitale del regno di Moab sotto il re Mesha, situata in una posizione elevata che dominava l'altopiano tra il fiume Arnon e il territorio amorreo conquistato da Israele. Una delle città più documentate dal punto di vista archeologico ed epigrafico dell'intera regione della Transgiordania.",
+  "altitud_m": 700,
+  "clima": "Altopiano semiarido: estati secche e calde, inverni freddi, tipici dell'altopiano moabita.",
+  "recursos": [
+    "Terreni agricoli dell'altopiano moabita",
+    "Posizione dominante sulla Valle dell'Arnon",
+    "Capitale amministrativa e religiosa moabita nel suo periodo di massimo splendore"
+  ],
+  "importancia_estrategica": "Dibon è, insieme a Medeba e Baal-meón, una delle città più documentate del conflitto territoriale tra Israele e Moab: inizialmente conquistata da Sihon e assegnata a Gad, secoli dopo divenne la capitale del re Mesha di Moab, autore della famosa Stele di Mesha, rinvenuta proprio in questo luogo nel 1868, una delle testimonianze extrabibliche più importanti della storia di Israele.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_dibon",
+      "nombre": "Amorrei (regno di Sihon)",
+      "descripcion": "Popolazione originaria sotto il dominio di Sihon prima della conquista israelita; Dibon appare nell'antico canto citato in Numeri come una delle città che Sihon aveva precedentemente preso da Moab.",
+      "religion": "Politeismo amorreo",
+      "periodo": "Prima del c. 1400 a.C"
+    },
+    {
+      "id": "moabitas_dibon",
+      "nombre": "Moabiti",
+      "descripcion": "Una città che riconquistò Dibon e ne fece la capitale del regno sotto il re Mesha, che vi fece erigere la stele commemorativa della sua vittoria su Israele.",
+      "religion": "Politeismo moabita: culto di Chemosh",
+      "periodo": "Dal c. 850 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "dibon-conquista-sehon-gad",
+      "titulo": "Dibon conquistato da Sihon e assegnato a Gad",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Dopo aver sconfitto Sihon, il re amorreo che in precedenza aveva preso Dibon di Moab, Israele occupò la città e la ricostruì, assegnandola successivamente alla tribù di Gad all'interno della divisione della Transgiordania.",
+      "referencias": [
+        "Nm 21:25-30",
+        "Nm 32:34",
+        "Gs 13:9"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "mesa-rebelion-dibon",
+      "titulo": "Il tavolo di Moab si ribella ed erige la sua stele a Dibon",
+      "fecha": "c. 850–840 a.C.",
+      "descripcion": "Dopo la morte di Achab, Mesha, re di Moab, si ribella al tributo imposto da Israele; La campagna congiunta di Israele, Giuda e Edom contro Moab è raccontata in 2 Kings 3, e Mesha stesso commemora la sua versione degli eventi, inclusa la ricostruzione di Dibon come sua capitale, sulla famosa Stele di Mesha, trovata nel sito nel 1868.",
+      "referencias": [
+        "2 Re 3:4-27"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-jeremias-oraculo-dibon",
+      "titulo": "Dibon negli oracoli profetici di giudizio contro Moab",
+      "fecha": "c. 740–600 a.C.",
+      "descripcion": "Sia Isaia che Geremia menzionano Dibon nei loro estesi oracoli di giudizio contro Moab, descrivendo il pianto e la distruzione che si abbatteranno su quella che ormai era già la città più importante del regno moabita.",
+      "referencias": [
+        "Is 15:2",
+        "Ger 48:18-22"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_dibon",
+      "nombre": "Mosè",
+      "rol": "Leader di Israele, organizzatore della conquista della Transgiordania",
+      "periodo": "bronce_tardio",
+      "descripcion": "Dirige la conquista del territorio di Sihon che comprende Dibon, città successivamente ricostruita e assegnata alla tribù di Gad.",
+      "referencias": [
+        "Nm 21:21-30",
+        "Nm 32:34"
+      ],
+      "ruta": [
+        "dibon"
+      ]
+    },
+    {
+      "id": "mesa_rey_moab_dibon",
+      "nombre": "Tavolo, re di Moab",
+      "rol": "Re moabita, autore della Stele di Mesa",
+      "periodo": "hierro_2",
+      "descripcion": "Trasformò Dibon nella capitale del suo regno dopo essersi ribellato al tributo israelita, commemorando la sua versione della vittoria in un'iscrizione monumentale che costituisce una delle più ampie testimonianze extrabibliche sul conflitto tra Israele e i suoi vicini.",
+      "referencias": [
+        "2 Re 3:4-27 (contexto histórico)"
+      ],
+      "ruta": [
+        "dibon"
+      ]
+    },
+    {
+      "id": "joram_dibon",
+      "nombre": "Joram di Israele",
+      "rol": "Re di Israele, leader della campagna contro Moab",
+      "periodo": "c. 850 a.C.",
+      "descripcion": "Conduce, insieme a Giosafat di Giuda e al re di Edom, la campagna militare contro la ribellione di Mesha di Moab, episodio narrato in 2 Re 3 che costituisce lo sfondo storico degli eventi commemorati sulla Stele di Mesha rinvenuta a Dibon.",
+      "referencias": [
+        "2 Re 3:6-27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dibon rappresenta uno dei punti di maggiore convergenza tra il racconto biblico e le testimonianze archeologiche extrabibliche dell'intero Antico Testamento: la Stele di Mesha, rinvenuta nel sito stesso, offre una prospettiva moabita indipendente sullo stesso conflitto narrato in 2 Re 3, compresi riferimenti diretti a YHWH come divinità di Israele dalla prospettiva di un nemico. Questa doppia documentazione – biblica ed epigrafica moabita – fa di Dibon un eccezionale testimone materiale della storicità del quadro geopolitico della monarchia divisa.",
+    "religiones_presentes": [
+      "Yahvismo (periodo di controllo gadite)",
+      "Politeismo amorreo (substrato originale)",
+      "Politeismo moabita: culto di Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "estela-mesa-testimonio-dibon",
+        "nombre": "La Stele di Mesa come testimonianza moabita indipendente",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 3:4-27",
+          "fuente_secundaria": "Estela de Mesa (c. 840 a.C., Museo del Louvre), inscripción que menciona explícitamente a YHWH y narra la perspectiva moabita del conflicto con Israel",
+          "descripcion": "La moderna tradizione accademica ebraica considera la Stele di Mesha, rinvenuta a Dibon, uno dei reperti archeologici più significativi per la storia biblica, offrendo una conferma extrabiblica indipendente - dal punto di vista del nemico di Israele - sia dell'esistenza del conflitto narrato in 2 Re 3 sia della prima menzione conosciuta al di fuori della Bibbia del nome divino YHWH.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La testimonianza epigrafica moabita, pur ostile a Israele, conferma indirettamente la centralità storica di YHWH come divinità riconosciuta anche dai nemici di Israele nella documentazione extrabiblica.",
+          "posible_relacion_cultural": "Convergenza documentata tra la tradizione testuale biblica e la documentazione epigrafica moabita indipendente, inclusa la prima menzione extrabiblica conosciuta del nome divino YHWH."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

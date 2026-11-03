@@ -1,0 +1,133 @@
+{
+  "id": "ophel",
+  "nombre": "Ophel",
+  "tipo": "ciudad",
+  "lat": 31.7774,
+  "lng": 35.2349,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Hill between the city of David and the Temple Mount in Jerusalem; elite residential area and guard.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Neighborhood between the city of David and the Temple; residence of the Temple servants.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "oph_h1",
+      "titulo": "Jotham builds in Ophel",
+      "fecha": "ca. 750 BC",
+      "descripcion": "King Jotham of Judah built the upper gate of the Temple and carried out many works on the Ophel wall.",
+      "referencias": [
+        "2 Chr 27:3"
+      ],
+      "personajes_clave": [
+        "Jotam"
+      ]
+    },
+    {
+      "id": "oph_h2",
+      "titulo": "Manasseh reinforces Ophel",
+      "fecha": "ca. 697-642 BC",
+      "descripcion": "King Manasseh, after his conversion, built an outer wall from the City of David to Ophel.",
+      "referencias": [
+        "2 Chr 33:14"
+      ],
+      "personajes_clave": [
+        "Manasés"
+      ]
+    },
+    {
+      "id": "oph_h3",
+      "titulo": "The Temple servants lived in the Ophel",
+      "fecha": "ca. 445 BC",
+      "descripcion": "In Nehemiah's reconstruction, the Temple servants (Nethinites) lived in the Ophel.",
+      "referencias": [
+        "Neh 3:26",
+        "Neh 11:21"
+      ],
+      "personajes_clave": [
+        "Nehemías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "oph_p1",
+      "nombre": "Jotam",
+      "rol": "King by Judah",
+      "periodo": "750-735 BC",
+      "descripcion": "He carried out important constructions in Ofel; He was a faithful king who did not enter the Temple improperly.",
+      "referencias": [
+        "2 Chr 27:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p2",
+      "nombre": "Manasseh",
+      "rol": "King by Judah",
+      "periodo": "697-642 BC",
+      "descripcion": "After his conversion in exile, he reinforced the Ophel.",
+      "referencias": [
+        "2 Chr 33:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "oph_p3",
+      "nombre": "Nehemiah",
+      "rol": "Governor",
+      "periodo": "ca. 445-433 BC",
+      "descripcion": "He assigned the Ophel to the Temple servants in the reconstruction.",
+      "referencias": [
+        "Neh 3:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ophel: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "oph_m1",
+        "nombre": "The Ophel: between the king and the Temple",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The Ophel is the intermediate space between the royal residence (city of David) and the place of worship (Temple); symbol of the gray area between political power and worship.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Ophel is the intermediate space between the royal residence (city of David) and the place of worship (Temple); symbol of the gray area between political power and worship.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

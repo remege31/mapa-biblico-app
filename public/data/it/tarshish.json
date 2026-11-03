@@ -1,0 +1,182 @@
+{
+  "id": "tarshish",
+  "nombre": "Tarsis",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 36.953,
+  "lng": -6.3793,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "nota_coordenadas": "Ubicación incierta — coordenadas basadas en la identificación más extendida con Tartessos en el sur de la península ibérica (zona de Huelva/Cádiz). Otras propuestas: Tarso en Cilicia, Cerdeña, norte de África. El pin aparece en el extremo occidental del mapa.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -722,
+      "nombre": "Hierro I-II - Destino delle flotte di Salomone e Giosafat; Il volo di Giona"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Tarsis (ebraico: תַּרְשִׁישׁ) è il luogo più lontano sull'orizzonte geografico dell'Antico Testamento, l'estremità occidentale del mondo israelita conosciuto. La sua esatta identificazione è dibattuta da secoli: la proposta più accreditata la colloca a Tartessos, civiltà del sud della penisola iberica (l'attuale Huelva/Cadice) nota per le sue ricchezze minerarie di argento, ferro, stagno e piombo. Altre proposte includono Tarso in Cilicia (Türkiye), Sardegna e Nord Africa. Le \"navi di Tarsis\" erano il tipo di nave oceanica più grande e robusta dell'antico mondo mediterraneo, capace di viaggi di mesi. Tarsis funziona nell'Antico Testamento sia come vera destinazione geografica sia come simbolo letterario della \"fine del mondo\".",
+  "altitud_m": 10,
+  "clima": "Mediterraneo atlantico — se l'identificazione con Tartesso è corretta, zona dal clima mite con influenza oceanica, precipitazioni di 500-600 mm annui, estati calde e secche, inverni miti e piovosi.",
+  "recursos": [
+    "Argento, ferro, stagno e piombo: metalli preziosi e industriali (Ez 27:12)",
+    "Commercio marittimo a lunga distanza",
+    "Legname da costruzione navale",
+    "Prodotti del Mediterraneo occidentale sconosciuti nel Levante"
+  ],
+  "importancia_estrategica": "Tarsis non era strategicamente importante per Israele in senso militare ma piuttosto economicamente e simbolicamente. Le flotte di Salomone e Giosafat che partirono da Ezion-Gheber sul Mar Rosso verso Ofir sono anche chiamate \"navi di Tarsis\" - tipo di nave, non necessariamente destinazione. Come simbolo, Tarsis rappresentava il confine occidentale del mondo: il luogo più lontano possibile dalla presenza di Jahvè in Gerusalemme, dove Giona fuggì.",
+  "otros_habitantes": [
+    {
+      "id": "tartesios",
+      "nombre": "Tartessiani: popolo dell'estremità occidentale",
+      "descripcion": "Se Tarsis è Tartesso, i suoi abitanti erano una civiltà del tardo bronzo-ferro I nel sud-ovest della penisola iberica, conosciuta da Erodoto e da altre fonti greche come produttrice di enormi ricchezze minerarie. I Fenici di Tiro e Sidone stabilirono rapporti commerciali con Tartesso prima del IX secolo a.C. — il collegamento fenicio spiega perché Israele conosceva Tarsis: la rotta passava per Tiro. La civiltà tartessiana declinò verso il VI secolo aC, forse assorbita dai Cartaginesi.",
+      "religion": "Politeismo iberico occidentale - divinità locali con influenze fenicie (Melqart, Astarte) dovute a contatti commerciali",
+      "periodo": "Ferro I-II, c. 1000-500 a.C"
+    },
+    {
+      "id": "comerciantes-fenicios-tarshish",
+      "nombre": "Tiro Commercianti fenici",
+      "descripcion": "I Fenici di Tiro erano gli intermediari del commercio tra il Levante e Tarsis. Ezechiele 27:12 descrive il commercio di Tiro con Tarsis: 'Tarsis commerciava con te per l'abbondanza di ogni tipo di ricchezza; con argento, ferro, stagno e piombo pagavano le tue mercanzie». La rotta fenicia verso Tarsis passava attraverso lo Stretto di Gibilterra (le Colonne d'Ercole), ai confini del mondo conosciuto. Le colonie fenicie di Cadice (Gadir) e del Nord Africa facilitarono il viaggio.",
+      "religion": "Politeismo fenicio - Melqart di Tiro come dio protettore della navigazione commerciale",
+      "periodo": "Ferro I-II, c. 1000-600 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "flotas-salomon-tarshish",
+      "titulo": "Le navi di Tarsis di Salomone: il commercio che raggiunse la fine del mondo",
+      "fecha": "c. 950 a.C.",
+      "descripcion": "Salomone costruì una flotta di navi a Ezion-Geber nel Mar Rosso con l'aiuto di esperti marinai fenici inviati da Hiram di Tiro. Le navi facevano il viaggio ad Ofir ogni tre anni e riportavano oro, argento, avorio, scimmie e pavoni. Il testo chiama queste navi \"navi di Tarsis\" - un nome che indica il tipo di grande nave oceanica, non necessariamente la destinazione iberica. Ma l'espressione collega il massimo commercio marittimo di Salomone con il simbolo dell'estremità occidentale del mondo. Il Cronista aggiunge che Giosafat tentò di rinnovare queste flotte ma le sue navi fecero naufragio a Ezion-Gheber, segno che il favore divino che accompagnò Salomone non fu trasferito automaticamente ai suoi successori.",
+      "referencias": [
+        "1 Re 10:22",
+        "1 Re 9:26-28",
+        "2 Cr 20:35-37"
+      ],
+      "personajes_clave": [
+        "salomon-tarshish",
+        "hiram-tiro"
+      ]
+    },
+    {
+      "id": "jonas-huye-tarshish",
+      "titulo": "Giona fugge a Tarsis: il profeta che corse fino ai confini del mondo",
+      "fecha": "c. 760 a.C. (narración; texto del libro probablemente post-exílico)",
+      "descripcion": "Quando Jahvè ordinò a Giona di andare a Ninive per predicare il pentimento, Giona si alzò per fuggire a Tarsis, lontano dalla presenza di Jahvè. Scese a Jafa, trovò una nave diretta a Tarsis, pagò il viaggio e si imbarcò. La scelta di Tarsis non è casuale: era il punto più lontano possibile da Ninive — mentre Ninive era a nord-est, Tarsis era all'estremo sud-ovest. Jonah ha cercato di mettere quanta più geografia possibile tra lui e la sua missione. Jahvè ha rilasciato un forte vento sul mare. I marinai terrorizzati gettarono via i loro bagagli. Jonah dormiva sul fondo della nave. Il capitano lo svegliò: 'Come fai a dormire? Alzati e invoca il tuo Dio». I lotti indicavano Jonah. Ha confessato e ha chiesto di essere gettato in mare. Un grosso pesce lo inghiottì.",
+      "referencias": [
+        "Gio 1:1-17",
+        "Gio 1:3",
+        "Gio 1:9-12"
+      ],
+      "personajes_clave": [
+        "jonas",
+        "marineros-tarshish"
+      ]
+    },
+    {
+      "id": "tarshish-profecias",
+      "titulo": "Tarsis nelle profezie: la fine del mondo che loderà Jahvè",
+      "fecha": "siglos VIII-VI a.C.",
+      "descripcion": "I profeti usarono Tarsis in due registri opposti. Isaia 2:16 lo menziona nel contesto del giudizio: \"Il giorno di Jahvè sarà contro tutte le navi di Tarsis\" - il simbolo della ricchezza e dell'orgoglio commerciale cadrà sotto il giudizio divino. Ma Isaia 66:19 lo include nella visione escatologica della restaurazione: Jahvè invierà i sopravvissuti 'a Tarsis, a Put, a Lud... nelle isole lontane che non hanno udito la mia fama né visto la mia gloria, e proclameranno la mia gloria tra le nazioni.' Il Salmo 72:10 promette: \"I re di Tarsis e delle isole porteranno doni\". Tarsis oscilla tra un simbolo dell'orgoglio umano che verrà giudicato e un simbolo dei confini della terra che riconoscerà finalmente Jahvè.",
+      "referencias": [
+        "Is 2:16",
+        "Is 66:19",
+        "Sal 72:10"
+      ],
+      "personajes_clave": [
+        "isaias-tarshish"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonas",
+      "nombre": "Giona",
+      "rol": "Profeta fuggito a Tarsis, inghiottito dai pesci, inviato a Ninive",
+      "periodo": "c. 760 a.C. (referencia histórica); libro probablemente del siglo V-IV a.C.",
+      "descripcion": "Jonah ben Amitai di Gat-Hefer è il profeta più paradossale dell'Antico Testamento. L'unico profeta che fuggì esplicitamente dalla sua missione, fu inghiottito da un grande pesce, pregò dalle profondità dell'abisso, fu vomitato a terra e compì la sua missione, ma si scontentò quando funzionò. Il suo libro si conclude con Dio che gli chiede: 'E non avrò pietà per Ninive, quella grande città, dove ci sono più di centoventimila persone che non sanno distinguere la loro destra dalla sinistra?' La domanda rimane senza risposta: il libro finisce aperto. Giona è l'antieroe profetico: tutti i profeti hanno sofferto per la loro missione, lui ha sofferto perché funzionava.",
+      "referencias": [
+        "Gio 1:1-4:11",
+        "2 Re 14:25",
+        "Mt 12:39-41"
+      ],
+      "ruta": [
+        "tarshish"
+      ]
+    },
+    {
+      "id": "marineros-tarshish",
+      "nombre": "Marinai sulla nave diretta a Tarsis",
+      "rol": "Marinai pagani che riconobbero Jahvè durante la tempesta",
+      "periodo": "c. 760 a.C. (narración)",
+      "descripcion": "I marinai sulla nave diretta a Tarsis sono uno dei gruppi più ammirevoli del libro di Giona. Pagani di varie nazionalità (\"ciascuno gridava al suo dio\"), mostrarono più umanità e pietà del profeta israelita: cercavano di raggiungere terra prima di gettare Giona, temevano di gettarlo in mare, e quando la tempesta si calmò \"temerono Jahvè con grande timore, offrirono sacrifici e fecero voti\". Il testo presenta un'ironia brutale: i pagani che si recarono a Tarsis riconobbero Jahvè nella tempesta mentre il profeta di Jahvè dormiva nella cantina in fuga dal suo Dio.",
+      "referencias": [
+        "Gio 1:5-16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "hiram-tiro",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re fenicio di Tiro, partner commerciale di Salomone sulle navi di Tarsis",
+      "periodo": "c. 980–947 a.C.",
+      "descripcion": "Hiram I di Tiro fu l'alleato strategico di Salomone nei suoi grandi progetti: fornì legno di cedro e cipresso dal Libano per il tempio, inviò artigiani specializzati per la costruzione e fornì marinai esperti per le flotte di Ezion-Geber. L'alleanza Salomone-Hiram fu il fondamento del periodo di massimo splendore economico del regno salomonico: Israele aveva terre, Fenicia aveva conoscenze marittime e reti commerciali. Senza i marinai fenici di Hiram, le \"navi di Tarsis\" israelite sarebbero state impossibili. Questa cooperazione tra Yahwismo e commercio fenicio fu anche, in prospettiva profetica, il canale attraverso il quale il Baalismo di Tiro raggiunse Israele con Jezebel.",
+      "referencias": [
+        "1 Re 5:15-26",
+        "1 Re 9:26-28",
+        "1 Re 10:11-12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tarsis è il massimo orizzonte geografico dell'Antico Testamento, il punto in cui termina il mondo conosciuto israelita. Teologicamente la sua funzione è duplice: simbolo dell'orgoglio commerciale che cadrà sotto il giudizio divino (le navi di Tarsis distrutte in Is 2,16) e simbolo delle estremità della terra che finalmente riconosceranno Jahvè (Is 66,19; Sal 72,10). La fuga di Giona a Tarsis stabilisce che non c'è posto sulla terra oltre la portata di Jahvè: la distanza geografica massima non è una distanza teologica.",
+    "religiones_presentes": [
+      "Politeismo fenicio - Melqart di Tiro come intermediario commerciale con Tarsis",
+      "Politeismo iberico-tartessiano - se l'identificazione con Tartesso è corretta",
+      "Israelita Yahvismo - presente narrativamente in Giona e nelle flotte di Salomone"
+    ],
+    "mitos": [
+      {
+        "id": "jonas-pez-resurreccion",
+        "nombre": "Giona nel ventre del pesce: tre giorni e tre notti",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gio 1:17-2:10",
+          "fuente_secundaria": "Talmud Bavli, Nedarim 38a; Midrash Jonás (Pirkei de-Rabí Eliezer 10)",
+          "descripcion": "Il Talmud (Nedarim 38a) afferma che Giona era un profeta pienamente capace che ricevette la profezia per Israele e per le nazioni. Il Pirkei Midrash del rabbino Eliezer descrive le viscere del pesce come una sinagoga illuminata da una perla: da lì Giona pregò. La tradizione rabbinica discuteva se il pesce fosse maschio o femmina (prima maschio, poi trasferito in un ventre femminile più stretto che lo motivava a pregare). Il libro di Giona viene letto nella sinagoga la sera dello Yom Kippur – il giorno di massimo pentimento dell'anno ebraico – perché parla del pentimento che salva anche i pagani.",
+          "similitudes": "Tutte e tre le tradizioni preservano Giona/Yunus come un profeta sopravvissuto nel ventre del pesce per misericordia divina.",
+          "diferencias": "L'ebraismo enfatizza il pentimento Ninive come modello universale; L'Islam presenta Yunus come un profeta che non avrebbe dovuto lasciare il suo popolo troppo presto.",
+          "significado_teologico": "Non c'è luogo in cui la presenza di Dio non raggiunga: non il fondo del mare o le viscere di un pesce. Si ascolta la preghiera al limite estremo. Il pentimento genuino, anche da parte di una città pagana, muove la misericordia divina.",
+          "posible_relacion_cultural": "Il motivo dell'eroe inghiottito da un mostro marino e liberato ha paralleli nella mitologia ugaritica (Baal contro Yam) e greca (Eracle e il mostro marino di Troia). La trasformazione biblica fa del mostro uno strumento di salvezza, non di morte."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:39-41; Lc 11:29-32",
+          "fuente_secundaria": "Tertuliano, De Resurrectione Carnis 32; Jerónimo, Comentario sobre Jonás",
+          "descripcion": "Gesù cita esplicitamente Giona come unico segno da dare alla sua generazione: «Come Giona rimase nel ventre del pesce tre giorni e tre notti, così il Figlio dell'uomo resterà tre giorni e tre notti nel seno della terra» (Mt 12,40). Giona divenne così la tipologia biblica più diretta della morte e risurrezione di Cristo. Tertulliano sviluppò la tipologia completa: il pesce è la morte, le viscere sono la tomba, l'uscita è la resurrezione. I murali delle catacombe romane (II-III secolo) mostrano Giona gettato e raccolto come immagine della risurrezione: è uno dei motivi iconografici paleocristiani più frequenti.",
+          "similitudes": "I tre giorni nel ventre del pesce come prefigurazione di morte e resurrezione sono la tipologia più esplicita dell'Antico Testamento citata dallo stesso Gesù.",
+          "diferencias": "L'ebraismo non sviluppa la tipologia della resurrezione di Giona; Nemmeno l’Islam.",
+          "significado_teologico": "Giona è il segno per eccellenza di Cristo: come Giona uscì dal pesce, Cristo uscì dal sepolcro. La missione alle genti (Ninive) prefigura la missione universale della Chiesa.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 10:98; 21:87-88; 37:139-148; 68:48-50",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Yunus 10:98; Al-Tabari, Tafsir de los Profetas",
+          "descripcion": "Il Corano menziona Yunus (Giona) in quattro sure e lo chiama \"Dhul-Nun\" (quello del pesce). Il racconto coranico è più breve di quello biblico ma sottolinea che Yunus se ne andò senza il permesso di Allah — \"se ne andò con rabbia pensando che non avremmo avuto alcun potere su di lui\" (21:87). Dall'oscurità del ventre del pesce gridò: 'Non c'è altro dio all'infuori di Te, gloria a Te! Io ero uno degli ingiusti.' Allah lo ha liberato. Ibn Kathir spiega che la città di Yunus è l'unica città pagana che si pentì prima della punizione divina e fu perdonata, a differenza di altri popoli che rifiutarono i loro profeti. La Sura 10 prende il nome da Yunus.",
+          "similitudes": "Il profeta che si allontana dalla sua missione, viene punito nel pesce e viene liberato dalla misericordia divina dopo il pentimento è identico in tutte e tre le tradizioni.",
+          "diferencias": "L'Islam sottolinea la colpa di Yunus nell'andarsene “senza permesso”; la narrazione è più breve e non include l'episodio finale della zucca o la domanda divina senza risposta.",
+          "significado_teologico": "Yunus è un esempio del fatto che anche un profeta può commettere errori di impazienza. La città di Ninive è l'unico caso nel Corano di persone pagane che si pentirono in massa e furono perdonate.",
+          "posible_relacion_cultural": "La tradizione islamica identifica la tomba di Yunus con il santuario di Nabi Yunus a Mosul, in Iraq, distrutto dall'Isis nel 2014."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "meribah",
+  "nombre": "Meriba",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 30.68771281376111,
+  "lng": 34.49479554246946,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Mosè Disobbedienza, Rock Water"
+    }
+  ],
+  "descripcion_geo": "Luogo nel deserto di Zin, nei pressi di Kades, il cui nome (“contesa” o “litigio”) deriva direttamente dall'episodio di disputa tra la popolazione di Israele e Mosè per la mancanza d'acqua, ripetendo uno schema già avvenuto in precedenza in un altro luogo anch'esso chiamato in modo simile nel deserto di Sin.",
+  "altitud_m": 600,
+  "clima": "Deserto: estremamente secco e caldo, tipico del deserto di Zin all'estremità meridionale della Transgiordania.",
+  "recursos": [
+    "Roccia da cui sgorga l'acqua dopo il gesto di Mosè",
+    "Critica carenza d'acqua che ha portato all'episodio di denuncia"
+  ],
+  "importancia_estrategica": "Meribah non ha alcuna rilevanza strategica militare, ma è uno dei luoghi teologicamente più significativi del pellegrinaggio nel deserto: qui Mosè, colpendo la roccia invece di parlarle come aveva ordinato YHWH, commette l'errore che costerà a lui e ad Aronne l'ingresso nella terra promessa, episodio che diventa un riferimento biblico ricorrente sulle conseguenze della disobbedienza anche nei leader più fedeli.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_meribah",
+      "nombre": "Esodo Israele (generazione Kades)",
+      "descripcion": "Persone che si lamentano aspramente contro Mosè e Aarón per la mancanza d'acqua a Kades, causando la crisi che culmina nell'episodio della roccia colpita.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "miriam_meribah",
+      "nombre": "Miriam (contesto)",
+      "descripcion": "Sorella di Mosè e Aaron, la cui morte e sepoltura in Kades precede immediatamente l'episodio della mancanza d'acqua a Meribah, nella stessa sezione narrativa.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "queja-pueblo-meribah",
+      "titulo": "La città lamenta la mancanza d'acqua a Kades",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Senza acqua a Kades, le persone si radunano contro Mosè e Aaron, lamentandosi amaramente e desiderando di essere morti insieme ai loro fratelli davanti a YHWH piuttosto che affrontare questa privazione in un \"luogo malvagio\" senza grano, fichi, viti o acqua da bere.",
+      "referencias": [
+        "Nm 20:1-5"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    },
+    {
+      "id": "moises-golpea-roca-meribah",
+      "titulo": "Mosè colpisce la roccia invece di parlarle",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "YHWH ordina a Mosè di prendere il bastone e di parlare alla roccia davanti alla congregazione per dare acqua; Invece Mosè, visibilmente frustrato, raduna le persone, le rimprovera chiamandole 'ribelli' e colpisce due volte con il bastone la roccia, dalla quale sgorga abbondante acqua nonostante la disobbedienza al metodo.",
+      "referencias": [
+        "Nm 20:6-11"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    },
+    {
+      "id": "juicio-moises-aaron-meribah",
+      "titulo": "YHWH annuncia che Mosè e Aronne non entreranno nella terra promessa",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Come diretta conseguenza di non aver 'santificato' YHWH agli occhi del popolo nell'episodio della roccia, YHWH annuncia a Mosè e Aronne che non introdurranno la congregazione nella terra loro donata, frase che segna il resto della loro vita e diventa uno dei giudizi più citati sulle conseguenze della disobbedienza anche da parte dei leader più vicini a Dio.",
+      "referencias": [
+        "Nm 20:12"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_meribah",
+      "nombre": "Mosè",
+      "rol": "Capo Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "A Meribah commette l'errore che gli costerà non entrare nella terra promessa: colpire la roccia invece di parlarle come YHWH aveva ordinato, episodio interpretato in molteplici modi lungo tutta la tradizione ma unanimemente riconosciuto come momento decisivo nella sua biografia.",
+      "referencias": [
+        "Nm 20:1-13"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount",
+        "pisgah"
+      ]
+    },
+    {
+      "id": "aaron_meribah",
+      "nombre": "Aronne",
+      "rol": "Sommo Sacerdote di Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Condivide lo stesso giudizio di Mosè per la sua partecipazione all'episodio di Meribah, anche se il testo si concentra principalmente sull'azione diretta di Mosè con la verga e la roccia.",
+      "referencias": [
+        "Nm 20:12",
+        "Nm 20:24"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "pueblo_quejoso_meribah",
+      "nombre": "Congregazione Israele",
+      "rol": "Persone che provocano la crisi con la loro denuncia",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Con la sua amara lamentela per la mancanza d'acqua, provoca la situazione che porta Mosè alla frustrazione che culmina nel suo atto di disobbedienza, ripetendo lo schema ricorrente del mormorio che caratterizza gran parte della storia del pellegrinaggio attraverso il deserto.",
+      "referencias": [
+        "Nm 20:2-5"
+      ],
+      "ruta": [
+        "meribah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meribah è uno degli episodi teologicamente più dibattuti del Pentateuco: la punizione apparentemente sproporzionata di Mosè – escluso dalla terra promessa dopo decenni di fedele leadership per un singolo atto di momentanea frustrazione – genera un'ampia tradizione interpretativa sull'esatta natura del suo fallimento, oscillando tra letture che enfatizzano la disobbedienza letterale al metodo prescritto e letture che vedono in esso un fallimento più profondo nel rappresentare correttamente il carattere di YHWH per le persone in un momento critico.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "falta-moises-meribah-mito",
+        "nombre": "La natura della mancanza di Mosè a Meribah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 20:1-13",
+          "fuente_secundaria": "Numerosas interpretaciones rabínicas y medievales (Rashi, Maimónides, Ramban) sobre la naturaleza exacta del pecado de Moisés en Meribá",
+          "descripcion": "La tradizione ebraica è impegnata in un ampio dibattito esegetico su ciò che ha costituito esattamente il fallimento di Mosè - colpire anziché parlare, la rabbia espressa chiamando il popolo \"ribelle\", la possibile implicazione che lui e Aaron abbiano prodotto l'acqua (\"dobbiamo attingere acqua...?\") - senza raggiungere un consenso definitivo, ma concordando sul fatto che la punizione riflette lo standard eccezionalmente alto richiesto a un leader della sua statura davanti al popolo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio insegna che una maggiore vicinanza a Dio e una maggiore responsabilità nella leadership corrispondono a uno standard di fedeltà più esigente, non più lassista.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nm 20:1-13 (recepción tipológica en 1 Cor 10:4, la roca identificada con Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan la roca de Meribá con Cristo como 'roca espiritual' que seguía a Israel",
+          "descripcion": "L'apostolo Paolo identifica tipologicamente la roccia da cui sgorga l'acqua nel deserto con Cristo stesso, leggendo l'episodio in chiave cristologica come anticipazione del definitivo provvedimento spirituale, mentre la tradizione patristica riflette anche sulla severità del giudizio su Mosè come monito sulla responsabilità della leadership religiosa.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento dell'eccezionale gravità attribuita alla mancanza di un leader della statura di Mosè.",
+          "diferencias": "La lettura cristiana aggiunge una dimensione tipologica esplicita (la roccia come Cristo) assente nella tradizionale interpretazione ebraica del brano.",
+          "significado_teologico": "La roccia di Meribah diventa una figura di Cristo dell'Antico Testamento come fonte di costante rifornimento spirituale per il popolo di Dio nel suo pellegrinaggio.",
+          "posible_relacion_cultural": "Ricezione cristiana del ciclo dell'Esodo riletto tipologicamente in chiave cristologica."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Primavera"
+}

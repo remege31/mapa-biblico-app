@@ -1,0 +1,146 @@
+{
+  "id": "zephath",
+  "nombre": "Sefat (Last)",
+  "tipo": "ciudad",
+  "lat": 30.880918,
+  "lng": 34.63062,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquest by Judah and Simeon, renamed Horma"
+    }
+  ],
+  "descripcion_geo": "Canaanite city in southern Negev, conquered jointly by the tribes of Judah and Simeon and renamed Horma ('destruction' or 'consecration to destruction'), a name that directly commemorates the mode of its conquest through the herem vow.",
+  "altitud_m": 500,
+  "clima": "Semi-arid — very dry and hot summers, mild winters with little rain, typical of the southern Negev.",
+  "recursos": [
+    "Position in the southern Negev, scene of several episodes of conquest",
+    "Geographic reference point for military campaigns in the south"
+  ],
+  "importancia_estrategica": "Sefat-Horma is the scene of two different war episodes in the same place: first an Israeli defeat after the rebellion of the people that provokes the prohibition of entering Canaan from the north, and then, generations later, the successful conquest of the same city by Judah and Simeon, illustrating the contrast between unauthorized presumption and the victory obtained with divine blessing.",
+  "otros_habitantes": [
+    {
+      "id": "amalecitas_cananeos_sefat",
+      "nombre": "Amalekites and Canaanites",
+      "descripcion": "Coalition of towns that defeats Israel in the first failed attempt to enter Canaan from the south after the town's rebellion against the spies' report.",
+      "religion": "Amalekite polytheism-Canaanite",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "rey_arad_sefat",
+      "nombre": "King Canaanite of Arad",
+      "descripcion": "Local ruler who initially attacks Israel on his route south, provoking Israel's vote that culminates in the destruction of his cities, including what would be renamed Horma.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "derrota-horma-rebelion",
+      "titulo": "Israel's first defeat in Horma",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the negative report of the spies and the rebellion of the people, a group of Israelites, contradicting the explicit prohibition of Moses, attempt to enter Canaan on their own without the Ark or the presence of Moses; They are defeated by the Amalekites and Canaanites, who pursue them to Horma.",
+      "referencias": [
+        "Num 14:39-45"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "voto-arad-horma",
+      "titulo": "Israel's vote against the king of Arad",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "When King Canaanite of Arad attacks Israel and takes some prisoners, Israel vows to YHWH to completely destroy his cities if he grants him victory; YHWH hears the request, Israel defeats the Canaanites and destroys their cities, giving rise to the name Horma ('destruction').",
+      "referencias": [
+        "Num 21:1-3"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "conquista-juda-simeon-sefat",
+      "titulo": "Judah and Simeon conquer Sephat and rename it Horma",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "After the death of Joshua, the tribes of Judah and Simeon, acting together in the conquest of the south, wound the Canaanites of Sefat and completely destroy it, confirming the name Horma already established generations before in the episode of the vote against Arad.",
+      "referencias": [
+        "Judg 1:17"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_sefat",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He warns the people about the danger of entering Canaan without the presence of YHWH after the rebellion due to the report of the spies, a warning confirmed by the defeat suffered at Horma when the people act on their own.",
+      "referencias": [
+        "Num 14:41-43"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "rey_arad_sefat_personaje",
+      "nombre": "King Canaanite of Arad",
+      "rol": "Ruler Canaanite defeated in Israel vote",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "His initial attack against Israel triggers the vow of total destruction that gives rise to the name Horma, after the Israelite victory obtained with divine blessing.",
+      "referencias": [
+        "Num 21:1-3"
+      ],
+      "ruta": [
+        "zephath"
+      ]
+    },
+    {
+      "id": "judaitas_simeonitas_sefat",
+      "nombre": "Tribes of Judah and Simeon",
+      "rol": "Allied conquerors of Sefat",
+      "periodo": "c. 1200 BC (narrativa)",
+      "descripcion": "They act in tribal cooperation to conquer and destroy Sefat after the death of Joshua, completing the cycle of destruction that had already given its name to the place generations before.",
+      "referencias": [
+        "Judg 1:17"
+      ],
+      "ruta": [
+        "zephath"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sefat-Horma embodies in one place two opposing theologies of holy war: the initial defeat demonstrates that the presumption of acting without divine authorization and presence leads to failure, while the subsequent victory obtained after a formal vow to YHWH confirms that legitimate military success requires prior consecration and explicit recognition that victory comes from God, not from autonomous human initiative.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite-Amalecite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "contraste-presuncion-voto-horma",
+        "nombre": "The contrast between presumption and the vow enshrined in Horma",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 14:39-45; Núm 21:1-3",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la diferencia entre la acción presuntuosa sin mandato divino y la guerra santa autorizada mediante voto formal",
+          "descripcion": "Jewish tradition explicitly contrasts the two episodes that occurred in the same place: the defeat for acting presumptuously without the presence of Moses or the Ark, versus the victory obtained generations later through a formal vow consecrated to YHWH, establishing a clear principle about the difference between autonomous human initiative and action duly authorized and consecrated to God.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The double Horma episode teaches that success in holy war depends entirely on acting within the framework of divine authorization and presence, not on human audacity or initiative alone.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

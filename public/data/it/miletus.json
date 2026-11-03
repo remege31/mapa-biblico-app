@@ -1,0 +1,147 @@
+{
+  "id": "miletus",
+  "nombre": "Mileto",
+  "tipo": "ciudad",
+  "lat": 37.53,
+  "lng": 27.27,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città portuale alla foce del fiume Meandro, sulla costa egea dell'Asia Minore.",
+  "altitud_m": 10,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "lana"
+  ],
+  "importancia_estrategica": "Importante centro filosofico e commerciale dell'antica Ionia.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mil_h1",
+        "titulo": "Discorso di addio di Paolo",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo convoca gli anziani di Efeso a Mileto e li saluta tra le lacrime.",
+        "referencias": [
+          "At 20:17-38"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "ancianos de Éfeso"
+        ]
+      },
+      {
+        "id": "mil_h2",
+        "titulo": "Previsione della carcerazione",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Paolo annuncia che non rivedranno più il suo volto e affida loro il gregge.",
+        "referencias": [
+          "At 20:25-31"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mil_h3",
+        "titulo": "Trofico malato a Mileto",
+        "fecha": "ca. 65 d.C.",
+        "descripcion": "Paolo lascia Trophimus malato a Mileto durante il quarto viaggio.",
+        "referencias": [
+          "2 Tm 4:20"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Trófimo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mil_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Tenne il suo discorso di addio più commovente agli anziani di Efeso a Mileto.",
+        "referencias": [
+          "At 20:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mil_p2",
+        "nombre": "Anziani di Efeso",
+        "rol": "Leader della Chiesa",
+        "periodo": "s. I d.C.",
+        "descripcion": "Hanno ricevuto le ultime istruzioni pastorali di Paolo a Mileto.",
+        "referencias": [
+          "At 20:17"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mil_p3",
+        "nombre": "Trofimo",
+        "rol": "Paolo Collaboratore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Gentile compagno di Paolo, rimasto malato a Mileto.",
+        "referencias": [
+          "2 Tm 4:20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Antica metropoli ionica nota per i suoi filosofi; nel NT, scena del commiato pastorale di Paolo.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "mil_m1",
+          "nombre": "Il pastore che dice addio",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Il discorso di Paolo a Mileto è il suo unico sermone registrato davanti ai leader cristiani; modello del pastore che custodisce il gregge.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il discorso di Paolo a Mileto è il suo unico sermone registrato davanti ai leader cristiani; modello del pastore che custodisce il gregge.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

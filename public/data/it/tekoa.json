@@ -1,0 +1,162 @@
+{
+  "id": "tekoa",
+  "nombre": "Tekoa",
+  "tipo": "ciudad",
+  "lat": 31.63622127191993,
+  "lng": 35.21407721824517,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Città fortificata di Roboamo, dimora di Amos"
+    }
+  ],
+  "descripcion_geo": "Città ai margini del deserto Giuda, a sud di Betlemme, in posizione elevata che domina la transizione tra i terreni agricoli delle montagne centrali e il deserto che degrada verso il Mar Morto. Il suo ambiente arido e pastorale segna profondamente il linguaggio e le metafore del profeta ad esso maggiormente associato.",
+  "altitud_m": 850,
+  "clima": "Semiarido di transizione: estati molto secche e calde, inverni freddi con poche piogge, sul confine occidentale del deserto Giuda.",
+  "recursos": [
+    "Pecore al pascolo ai margini del deserto",
+    "Coltivazione dei sicomori (menzionata in relazione ad Amos)",
+    "Posizione fortificabile sul confine meridionale di Giuda"
+  ],
+  "importancia_estrategica": "Tekoa unisce nel racconto biblico due diverse funzioni: come città fortificata da Roboamo, fa parte del sistema difensivo del regno di Giuda dopo la divisione del regno unito; In quanto dimora del profeta Amos e scenario della parabola della donna saggia inviata da Joab, diventa il punto di origine di alcuni degli interventi profetici e diplomatici più memorabili dell'Antico Testamento.",
+  "otros_habitantes": [
+    {
+      "id": "pastores_tecoa",
+      "nombre": "Pastori e mandriani di sicomoro",
+      "descripcion": "Popolazione dedita alla pastorizia e alla coltivazione di fichi di sicomoro nell'ambiente semiarido di Tekoa, lavoro esplicitamente attribuito al profeta Amos prima della sua chiamata.",
+      "religion": "Yahvismo",
+      "periodo": "C. 760 a.C"
+    },
+    {
+      "id": "guarnicion_roboam_tecoa",
+      "nombre": "La guarnigione di Roboamo",
+      "descripcion": "Truppe e amministratori assegnati a Tekoa come parte del sistema di quindici città fortificate che Roboamo organizzò per la difesa di Giuda dopo la secessione del regno settentrionale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 925–913 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "mujer-sabia-tecoa",
+      "titulo": "La saggia donna di Tekoa intercede per Assalonne",
+      "fecha": "c. 978 a.C.",
+      "descripcion": "Joab manda a chiamare una donna saggia da Tekoa e la istruisce in un'elaborata parabola su due fratelli in conflitto, con la quale riesce a persuadere Davide a consentire il ritorno di Absalom dall'esilio, in un episodio che unisce diplomazia, retorica e manipolazione politica.",
+      "referencias": [
+        "2 Sam 14:1-20"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "roboam-fortifica-tecoa",
+      "titulo": "Roboamo fortifica Tecoa",
+      "fecha": "c. 925–913 a.C.",
+      "descripcion": "Dopo la divisione del regno, Roboamo fortifica quindici città in Giuda, inclusa Tekoa, come parte di un programma difensivo organizzato per proteggere il territorio ridotto del regno meridionale.",
+      "referencias": [
+        "2 Cr 11:5-6"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    },
+    {
+      "id": "amos-pastor-tecoa",
+      "titulo": "Amos, pastore di Tekoa, è chiamato a profetizzare",
+      "fecha": "c. 760–750 a.C.",
+      "descripcion": "Amos, esplicitamente identificato come uno dei pastori di Tekoa e coltivatore di fichi di sicomoro, riceve la chiamata di YHWH a profetizzare contro il regno del nord, denunciando l'ingiustizia sociale e la corruzione religiosa di Israele da una prospettiva radicalmente estranea all'élite profetica professionale.",
+      "referencias": [
+        "Am 1:1",
+        "Am 7:14-15"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "amos",
+      "nombre": "Amos",
+      "rol": "Profeta Giuda inviato nel regno settentrionale",
+      "periodo": "hierro_2",
+      "descripcion": "Un pastore e coltivatore di sicomoro di Tekoa che, senza formazione professionale profetica o lignaggio sacerdotale, è chiamato da YHWH a denunciare l'ingiustizia sociale, l'oppressione dei poveri e l'ipocrisia settaria del regno di Israele sotto Geroboamo II.",
+      "referencias": [
+        "Am 1:1",
+        "Am 7:10-17"
+      ],
+      "ruta": [
+        "tekoa",
+        "bethel"
+      ]
+    },
+    {
+      "id": "mujer_sabia_tecoa",
+      "nombre": "Donna saggia di Tekoa",
+      "rol": "Intermediario diplomatico inviato da Joab",
+      "periodo": "hierro_2",
+      "descripcion": "Donna di Tekoa nota per la sua abilità retorica, assunta da Joab per presentare a Davide una parabola che riesce ad ammorbidire la sua posizione nei confronti di Absalom, un importante esempio di agenzia femminile nella diplomazia della corte davidica.",
+      "referencias": [
+        "2 Sam 14:1-20"
+      ],
+      "ruta": [
+        "tekoa",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "roboam_tecoa",
+      "nombre": "Roboamo",
+      "rol": "Re di Giuda, fortificatore delle città di confine",
+      "periodo": "hierro_2",
+      "descripcion": "Organizza la fortificazione di Tekoa e di altre quattordici città del Giuda come risposta difensiva dopo la perdita del regno settentrionale nella secessione guidata da Geroboamo.",
+      "referencias": [
+        "2 Cr 11:5-12"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tekoa è soprattutto il luogo d'origine di Amos, una delle voci profetiche più radicali dell'Antico Testamento nella sua denuncia dell'ingiustizia sociale come tradimento dell'alleanza con YHWH. Il fatto che il profeta provenga da un ambiente pastorale e desertico, al di fuori delle élite religiose o politiche, rafforza la teologia biblica secondo la quale la vocazione profetica non dipende dallo status sociale ma dalla chiamata diretta di Dio, indipendentemente dall'umile origine del prescelto.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "vocacion-pastor-amos",
+        "nombre": "La vocazione del pastore di Tekoa diventato profeta",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Am 1:1; Am 7:14-15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la legitimidad profética independiente del linaje o la formación institucional",
+          "descripcion": "La tradizione ebraica evidenzia il deliberato contrasto tra Amos, pastore senza formazione profetica istituzionale, e i «profeti d'ufficio» dai quali egli si distingue esplicitamente («non sono né un profeta né il figlio di un profeta»), interpretandolo come l'affermazione che la vera autorità profetica proviene solo dalla diretta chiamata divina.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Le umili origini di Amos rafforzano la teologia biblica secondo cui Dio sceglie liberamente i suoi messaggeri senza riguardo a criteri di status sociale o appartenenza istituzionale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Am 1:1; Am 7:14-15 (recepción cristiana de Amós como modelo profético)",
+          "fuente_secundaria": "Citas neotestamentarias de Amós en Hch 7:42-43 y Hch 15:16-17, y comentarios patrísticos sobre el profeta",
+          "descripcion": "La tradizione cristiana assume Amos – inclusa la sua origine pastorale a Tekoa – come modello di denuncia profetica dell'ingiustizia sociale, e cita direttamente il suo libro nel Nuovo Testamento come parte dell'argomentazione del discorso di Stefano e del concilio di Gerusalemme.",
+          "similitudes": "Condivide con la lettura ebraica l'apprezzamento delle umili origini come segno di autenticità profetica di fronte al potere costituito.",
+          "diferencias": "L'uso di Amos nel Nuovo Testamento è integrato in specifici argomenti cristologici ed ecclesiologici (l'inclusione dei gentili) assenti nella lettura originale del libro.",
+          "significado_teologico": "Amos diventa un precedente biblico citato per legittimare la critica profetica diretta contro le strutture religiose e sociali corrotte, in continuità con la tradizione profetica dell'Antico Testamento.",
+          "posible_relacion_cultural": "Ricezione condivisa del corpus profetico dell'Antico Testamento come autorità testuale comune per l'ebraismo e il cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

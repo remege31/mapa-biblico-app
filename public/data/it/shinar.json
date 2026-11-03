@@ -1,0 +1,152 @@
+{
+  "id": "shinar",
+  "nombre": "Shinar (Terra di Babele)",
+  "tipo": "territorio",
+  "lat": 32.54,
+  "lng": 44.42,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Nome biblico della regione meridionale Mesopotamia (Babilonia), dove furono costruiti la Torre di Babele e il regno di Nimrod.",
+  "altitud_m": 10,
+  "clima": "continentale-arido",
+  "recursos": [
+    "argilla",
+    "asfalto",
+    "agricoltura fluviale",
+    "commercio"
+  ],
+  "importancia_estrategica": "Culla della civiltà umana secondo l'Antico Testamento; luogo del primo tentativo di unità umana ribelle.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sin_h1",
+      "titulo": "La Torre di Babele a Shinar",
+      "fecha": "ca. mítico",
+      "descripcion": "L'umanità si stabilisce a Shinar e costruisce la torre con la cima nel cielo; Dio confonde le lingue e disperde le persone.",
+      "referencias": [
+        "Gen 11:1-9"
+      ],
+      "personajes_clave": [
+        "Nimrod",
+        "constructores"
+      ]
+    },
+    {
+      "id": "sin_h2",
+      "titulo": "Nimrod: primo impero a Shinar",
+      "fecha": "ca. mítico",
+      "descripcion": "Nimrod, un potente cacciatore davanti al Signore, fondò il primo regno a Babele, Erech, Akkad e Calne, nella terra di Shinar.",
+      "referencias": [
+        "Gen 10:10"
+      ],
+      "personajes_clave": [
+        "Nimrod"
+      ]
+    },
+    {
+      "id": "sin_h3",
+      "titulo": "L'esilio di Israele a Shinar",
+      "fecha": "ca. 605-586 a.C.",
+      "descripcion": "Nabucodonosor porta gli utensili del Tempio «nel paese di Sennaar»; Lì vivevano Daniele e i suoi compagni.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "personajes_clave": [
+        "Nabucodonosor",
+        "Daniel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sin_p1",
+      "nombre": "Nimrod",
+      "rol": "Primo re di Shinar",
+      "periodo": "ca. mítico",
+      "descripcion": "Fondatore del primo regno umano a Shinar; cacciatore e re potente davanti al Signore.",
+      "referencias": [
+        "Gen 10:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p2",
+      "nombre": "Daniele",
+      "rol": "Profeta in esilio",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Portato a Shinar (Babilonia) come esule; Lì ricevette le sue visioni più importanti.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sin_p3",
+      "nombre": "Nabucodonosor",
+      "rol": "Re di Babilonia",
+      "periodo": "605-562 a.C.",
+      "descripcion": "Portò Daniele 'nella terra di Shinar' con gli utensili del Tempio.",
+      "referencias": [
+        "Dn 1:2"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shinar (Terra di Babele): regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sin_m1",
+        "nombre": "La Torre di Babele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "I costruttori di Babele (Shinar) volevano raggiungere il paradiso; Dio li ha dispersi confondendo le lingue: origine mitica della diversità delle lingue.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "I costruttori di Babele (Shinar) volevano raggiungere il paradiso; Dio li ha dispersi confondendo le lingue: origine mitica della diversità delle lingue.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "At 2,6",
+          "fuente_secundaria": "",
+          "descripcion": "La Pentecoste rovescia Babele: dove Dio ha diviso le lingue, lo Spirito le riunisce in un'unica comprensione del vangelo (At 2,6).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Pentecoste rovescia Babele: dove Dio ha diviso le lingue, lo Spirito le riunisce in un'unica comprensione del vangelo (At 2,6).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam racconta la storia di Babele con Namrud (Nimrod) come il re ribelle che sfidò Ibrahim (Abramo).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam racconta la storia di Babele con Namrud (Nimrod) come il re ribelle che sfidò Ibrahim (Abramo).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "post_exilio"
+  ]
+}

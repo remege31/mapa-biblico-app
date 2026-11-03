@@ -1,0 +1,71 @@
+{
+  "id": "sicar",
+  "nombre": "Sicar",
+  "tipo": "ciudad",
+  "lat": 32.228,
+  "lng": 35.286,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Villaggio samaritano ai piedi del monte Ebal, vicino al pozzo di Giacobbe, vicino all'antica Sichem.",
+  "altitud_m": 520,
+  "clima": "mediterraneo",
+  "recursos": [
+    "bene acqua",
+    "grano",
+    "ulivi"
+  ],
+  "importancia_estrategica": "Punto di passaggio sulla rotta tra Giudea e Galilea via Samaria.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "sic_h1",
+        "titulo": "Il Samaritano al pozzo",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Gesù conversa con una donna samaritana al pozzo di Giacobbe e si rivela essere il Messia; molti Samaritani credono in lui.",
+        "referencias": [
+          "Gv 4:5-42"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "La samaritana",
+          "Los discípulos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "sic_p1",
+        "nombre": "Il Samaritano",
+        "rol": "Primo evangelista di Samaria",
+        "periodo": "s. I d.C.",
+        "descripcion": "Donna che parla con Gesù accanto al pozzo di Giacobbe e porta la notizia al suo villaggio.",
+        "referencias": [
+          "Gv 4:5-42"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

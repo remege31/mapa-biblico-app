@@ -1,0 +1,142 @@
+{
+  "id": "topheth",
+  "nombre": "Tofet",
+  "tipo": "ciudad",
+  "lat": 31.77,
+  "lng": 35.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 26,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -800,
+      "hasta": -586,
+      "nombre": "Ferro II"
+    }
+  ],
+  "descripcion_geo": "Luogo nella valle di Hinnom, a sud di Gerusalemme, dove venivano fatti sacrifici di bambini a Molec.",
+  "altitud_m": 620,
+  "clima": "mediterraneo",
+  "recursos": [
+    "argilla"
+  ],
+  "importancia_estrategica": "Abominevole luogo di culto pagano che i profeti identificarono come simbolo del castigo divino.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tof_h1",
+      "titulo": "I re sacrificano i loro figli a Tofet",
+      "fecha": "ca. 735-695 a.C.",
+      "descripcion": "I re Achaz e Manasse misero i loro figli nel fuoco nella valle di Hinnom.",
+      "referencias": [
+        "2 Re 16:3",
+        "2 Re 21:6",
+        "2 Cr 28:3"
+      ],
+      "personajes_clave": [
+        "Acaz",
+        "Manasés"
+      ]
+    },
+    {
+      "id": "tof_h2",
+      "titulo": "Giosia profana Tofet",
+      "fecha": "ca. 621 a.C.",
+      "descripcion": "Nella sua riforma, Giosia profana il Tofet della Valle di Hinnom affinché nessuno possa più sacrificare lì i propri figli.",
+      "referencias": [
+        "2 Re 23:10"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    },
+    {
+      "id": "tof_h3",
+      "titulo": "Geremia: la valle del massacro",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Geremia profetizza che Tofet sarà chiamato \"Valle del massacro\" a causa dell'imminente punizione su Gerusalemme.",
+      "referencias": [
+        "Ger 7:30-34",
+        "Ger 19:6"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tof_p1",
+      "nombre": "Giosia",
+      "rol": "re riformatore",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Distrusse i luoghi di culto pagano, compreso Tofet, nella sua grande riforma religiosa.",
+      "referencias": [
+        "2 Re 23:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p2",
+      "nombre": "Geremia",
+      "rol": "Profeta",
+      "periodo": "ca. 627-586 a.C.",
+      "descripcion": "Ha utilizzato la figura di Tophet per annunciare il giudizio su Gerusalemme.",
+      "referencias": [
+        "Ger 7:31"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tof_p3",
+      "nombre": "Manasse",
+      "rol": "Re idolatra di Giuda",
+      "periodo": "697-642 a.C.",
+      "descripcion": "Fece passare i suoi figli attraverso il fuoco a Tofet; Il suo regno è il più condannato dai profeti.",
+      "referencias": [
+        "2 Re 21:6"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Luogo di orrore religioso; simbolo dell'apostasia Israele. Il suo nome deriva da \"Geenna\" (Gehinnom), usato nel Nuovo Testamento come immagine dell'inferno.",
+    "religiones_presentes": [
+      "paganesimo_Cananeo",
+      "moloch_culto"
+    ],
+    "mitos": [
+      {
+        "id": "tof_m1",
+        "nombre": "Geenna: l'inferno del NT",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Tofet nella valle di Hinnom (Ge-Hinnom) era il luogo dei sacrifici del fuoco; È diventata una discarica in fiamme.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tofet nella valle di Hinnom (Ge-Hinnom) era il luogo dei sacrifici del fuoco; È diventata una discarica in fiamme.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 5:22",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù usa 'Geenna' (Gehinnom) 11 volte nei vangeli come immagine della punizione eterna (Mt 5:22,29,30).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù usa 'Geenna' (Gehinnom) 11 volte nei vangeli come immagine della punizione eterna (Mt 5:22,29,30).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

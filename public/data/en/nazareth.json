@@ -1,0 +1,245 @@
+{
+  "id": "nazareth",
+  "nombre": "Nazareth",
+  "tipo": "ciudad",
+  "lat": 32.6996,
+  "lng": 35.3035,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Village in the low hills of Galilee, in the Jezreel Valley. Modest settlement of a few hundred inhabitants in the 1st century.",
+  "altitud_m": 350,
+  "clima": "Mediterranean",
+  "recursos": [
+    "spring water",
+    "agriculture",
+    "olive trees"
+  ],
+  "importancia_estrategica": "Path between Galilee and Samaria.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "jesus",
+      "nombre": "Jesus",
+      "rol": "The Messiah; His life covers the entire geography of Israel",
+      "periodo": "vida_jesus",
+      "descripcion": "Born in Bethlehem and raised in Nazareth, Jesus developed his itinerant ministry primarily in Galilee, with Capernaum as his base, and culminated in Jerusalem with the Passion and Resurrection.",
+      "referencias": [
+        "Matt 2:1",
+        "Luke 2:39-52",
+        "Mark 1:9"
+      ],
+      "ruta": [
+        "bethlehem",
+        "nazareth",
+        "capernaum",
+        "jerusalen"
+      ],
+      "viajes": [
+        {
+          "nombre": "Childhood: escape to Egypt",
+          "ruta": [
+            "bethlehem",
+            "egipto",
+            "nazareth"
+          ],
+          "referencias": [
+            "Matt 2:13-23"
+          ]
+        },
+        {
+          "nombre": "Baptism and temptation",
+          "ruta": [
+            "nazareth",
+            "jordan",
+            "judea"
+          ],
+          "referencias": [
+            "Matt 3:13-17",
+            "Matt 4:1-11"
+          ]
+        },
+        {
+          "nombre": "Ministry at Galilee",
+          "ruta": [
+            "nazareth",
+            "cana",
+            "capernaum",
+            "bethsaida",
+            "magadan"
+          ],
+          "referencias": [
+            "Mark 1:14-39",
+            "John 2:1-12",
+            "Mark 6:45",
+            "Matt 15:39"
+          ]
+        },
+        {
+          "nombre": "Trip by Samaria",
+          "ruta": [
+            "galilee",
+            "sicar",
+            "jerusalen"
+          ],
+          "referencias": [
+            "John 4:1-42"
+          ]
+        },
+        {
+          "nombre": "The Passion",
+          "ruta": [
+            "jerusalen",
+            "bethany",
+            "gethsemane",
+            "golgotha"
+          ],
+          "referencias": [
+            "Mark 11:1-11",
+            "Mark 14:32-52",
+            "Mark 15:22-41"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "naz_h1",
+        "titulo": "The Annunciation",
+        "fecha": "ca. 6-5 BC",
+        "descripcion": "The angel Gabriel announces to Mary that she will conceive the Messiah.",
+        "referencias": [
+          "Luke 1:26-38"
+        ],
+        "personajes_clave": [
+          "María",
+          "Gabriel"
+        ]
+      },
+      {
+        "id": "naz_h2",
+        "titulo": "Jesus in the synagogue",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Jesus reads Isaiah 61 in the synagogue and declares its fulfillment, being rejected by the Nazarenes.",
+        "referencias": [
+          "Luke 4:16-30"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "naz_h3",
+        "titulo": "Jesus's childhood",
+        "fecha": "ca. 5 BC–26 AD",
+        "descripcion": "Joseph, Mary and Jesus reside in Nazareth; Jesus grows in wisdom.",
+        "referencias": [
+          "Matt 2:23",
+          "Luke 2:39-40"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "José",
+          "María"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "naz_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Christian messiah",
+        "periodo": "ca. 6 BC–30 AD",
+        "descripcion": "Founder of the Christian movement, raised in Nazareth.",
+        "referencias": [
+          "Matt 2:23"
+        ],
+        "ruta": [
+          "nazareth",
+          "capernaum",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "naz_p2",
+        "nombre": "Maria",
+        "rol": "Mother of Jesus",
+        "periodo": "s. I BC",
+        "descripcion": "Young Jewish woman from Nazareth, mother of Jesus.",
+        "referencias": [
+          "Luke 1:26-27"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "naz_p3",
+        "nombre": "José",
+        "rol": "Carpenter, adoptive father of Jesus",
+        "periodo": "s. I BC",
+        "descripcion": "Nazareth artisan of the David line.",
+        "referencias": [
+          "Matt 1:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Pious Jewish village in the 1st century Galilee; local synagogue as a center of religious life.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "naz_m1",
+          "nombre": "The Annunciation",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The archangel Gabriel announces to the virgin Mary in Nazareth the birth of the Son of God.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The archangel Gabriel announces to the virgin Mary in Nazareth the birth of the Son of God.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "In Islamic tradition, the angel Jibril announces to Maryam the birth of Isa (Jesus).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In Islamic tradition, the angel Jibril announces to Maryam the birth of Isa (Jesus).",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

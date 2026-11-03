@@ -1,0 +1,160 @@
+{
+  "id": "aijalon",
+  "nombre": "Aijalon",
+  "tipo": "ciudad",
+  "lat": 31.84117376619545,
+  "lng": 35.02537926743067,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Levitical city in Dan, Joshua miracle valley"
+    }
+  ],
+  "descripcion_geo": "City and valley of the same name that controls one of the natural routes of ascent from the Philistine coastal plain towards the central mountains of Judah and Benjamin, through the Beth-horon pass. The Aijalon Valley is a classic strategic corridor between the coast and the highlands.",
+  "altitud_m": 220,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rainfall; The valley acts as a wind channel between the coast and the mountains.",
+  "recursos": [
+    "Control of the coast-mountain natural corridor via Beth-horón",
+    "Valley agricultural land",
+    "Levitical position within the territory of Dan"
+  ],
+  "importancia_estrategica": "The Aijalon Valley is one of the most important military gateways into the interior of Canaan from the coastal plain, which is why it appears in the account of the pursuit of Joshua after the Battle of Gibeon and, centuries later, it would be the scene of recurring battles between the Israelites and Philistines for control of that same pass.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_aijalon",
+      "nombre": "Amorites",
+      "descripcion": "Canaanite-Amorite population present in the valley before and during the conquest; The valley is the scene of the persecution of the Amorites armies defeated in Gibeon.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "levitas_aijalon",
+      "nombre": "Levites",
+      "descripcion": "Aijalon is assigned as one of the Levitical cities within the territory of Dan, intended for the residence of families of the priestly tribe without their own territorial inheritance.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sol-detenido-aijalon",
+      "titulo": "The sun stops over Aijalon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "During the pursuit of the five-king Amorites coalition armies following the Battle of Gibeon, Joshua asks YHWH to have the sun stand over Gibeon and the moon over the valley of Aijalon, prolonging daylight until Israel completes the defeat of his enemies.",
+      "referencias": [
+        "Josh 10:12-14"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "aijalon-ciudad-levitica",
+      "titulo": "Aijalon as a Levitical city",
+      "fecha": "c. 1200 BC",
+      "descripcion": "In the distribution of the territory after the conquest, Aijalon is assigned to the tribe of Dan and later designated as one of the Levitical cities, destined for priestly families distributed among the different tribes of Israel.",
+      "referencias": [
+        "Josh 19:42",
+        "Josh 21:24"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "filisteos-control-aijalon",
+      "titulo": "Philistine control of the Aijalon Pass",
+      "fecha": "c. 1100–1000 BC",
+      "descripcion": "The Aijalon Valley, as a corridor between the Philistine coast and the central mountains, comes under intermittent Philistine pressure and control during the period of the Judges, forming part of the belt of cities that the Dan tribe fails to control stably, contributing to the subsequent Danite migration northward.",
+      "referencias": [
+        "Judg 1:34-35"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_aijalon",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He pronounces on Aijalon the order for the moon to stand still, in the episode that the biblical text describes as an unprecedented day in which YHWH hears the voice of a man.",
+      "referencias": [
+        "Josh 10:12-14"
+      ],
+      "ruta": [
+        "gibeon",
+        "aijalon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "amorreos_aijalon_personaje",
+      "nombre": "Amorite coalition armies",
+      "rol": "Forces in retreat after the defeat of Gibeon",
+      "periodo": "c. 1200 BC",
+      "descripcion": "Defeated troops fleeing up the rise of Beth-horon towards the valley of Aijalon, pursued by Israel during the episode of the stopped sun.",
+      "referencias": [
+        "Josh 10:10-14"
+      ],
+      "ruta": [
+        "aijalon"
+      ]
+    },
+    {
+      "id": "danitas_aijalon",
+      "nombre": "Dan Tribe (in Aijalon)",
+      "rol": "Israelite population assigned to the territory",
+      "periodo": "c. 1200–1100 BC",
+      "descripcion": "Although Aijalon is formally assigned to them, the Danites fail to completely expel the Amorite population or secure stable control of the valley, a situation that the Book of Judges explicitly points out as a partial failure of the conquest.",
+      "referencias": [
+        "Judg 1:34-35"
+      ],
+      "ruta": [
+        "aijalon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Aijalon is the scene of one of the most cited miracles in the Old Testament—the arrest of the sun and the moon—interpreted in Deuteronomist theology as the ultimate proof that YHWH fights directly on behalf of Israel. Its subsequent designation as a Levitical city symbolically reinforces the place as a point of intersection between military victory and the Yahwist priestly presence in the newly conquered territory.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite-Amorite polytheism (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "sol-luna-detenidos",
+        "nombre": "The sun and the moon stopped over Gibeon and Aijalon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 10:12-14",
+          "fuente_secundaria": "Talmud Babilónico, Avodah Zarah 25a (discusión astronómica y teológica del prodigio)",
+          "descripcion": "Rabbinic tradition discusses at length the nature of the phenomenon—whether it was literal arrest of the stars or perceptual alteration—and cites it as the supreme example of a miracle performed in direct response to the word of a human being, quoting the text: 'there was no day like that, neither before nor after.'",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The prodigy confirms that YHWH actively fights for Israel and that even the cosmic order can be subordinated to the word of his servant.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josh 10:12-14 (recepción patrística como prueba del poder divino sobre la creación)",
+          "fuente_secundaria": "Agustín de Hipona, La Ciudad de Dios, Libro XXI (referencias a prodigios bíblicos como signos del poder de Dios)",
+          "descripcion": "The patristic tradition cites the episode as evidence of God's lordship over natural laws, integrating it into broader apologetic arguments about the veracity of Old Testament miracle accounts.",
+          "similitudes": "It shares with the Jewish reading the emphasis on the unique and unprecedented character of the prodigy.",
+          "diferencias": "The ancient Christian discussion is oriented more towards philosophical apologetics (defense of the possibility of the miracle) than towards the halakhic analysis of the phenomenon.",
+          "significado_teologico": "The episode is used as an argument for God's absolute power over the created order, later applicable to the defense of other biblical miracles.",
+          "posible_relacion_cultural": "Shared reception of Joshua's book as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

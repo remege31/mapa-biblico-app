@@ -1,0 +1,160 @@
+{
+  "id": "gihon",
+  "nombre": "Gihon",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.773116,
+  "lng": 35.237186,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — David City Spring, Solomon Anointing"
+    }
+  ],
+  "descripcion_geo": "Intermittent spring on the eastern slope of the City of David, next to the Kidron Valley, the main and practically only natural source of fresh water in Jerusalem in ancient times. Its name ('the gushing one' or 'the gushing one') describes its characteristic behavior of surging in irregular pulses several times a day.",
+  "altitud_m": "Eastern slope of the City of David, c. 630-640",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Jerusalem's only permanent natural source of fresh water",
+    "Later channeling towards the pool of Shelah/Siloam through the tunnel of Hezekiah",
+    "Original geographical determinant of the city's settlement"
+  ],
+  "importancia_estrategica": "The Gihon Spring is the fundamental geographical reason why David City Hill was chosen as the original settlement of Jerusalem: no ancient city could sustain itself without permanent water, and Gihon was the only source available in the area. Its control and, above all, the ability to access it without exposing oneself to an enemy siege—resolved centuries later with the Hezekiah tunnel—determined a good part of the city's defensive and hydraulic strategy throughout the monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos_gihon",
+      "nombre": "Jebusites",
+      "descripcion": "Original population of the fortress of Zion, whose access to the Gihon spring through a vertical well system (probably the 'canal' mentioned in the conquest of David) was key to the defense of the city before its fall.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1000 BC"
+    },
+    {
+      "id": "sacerdotes_profetas_gihon",
+      "nombre": "Court priests and prophets",
+      "descripcion": "Zadok the priest and Nathan the prophet, along with the royal guard, present at the Gihon spring during the ceremony of anointing Solomon as king.",
+      "religion": "Yahwism",
+      "periodo": "c. 970 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "conquista-david-canal-gihon",
+      "titulo": "The 'canal' as a way to conquer the Jebusite fortress",
+      "fecha": "c. 1000 BC",
+      "descripcion": "In the narrative of the conquest of the fortress of Zion by David, a 'tsinnor' (canal or conduit) is mentioned through which Joab's men managed to penetrate the Jebusite defense, identified by much of modern archeology with the vertical well system that gave access to the Gihon spring from inside the city.",
+      "referencias": [
+        "2 Sam 5:6-8"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "uncion-salomon-gihon",
+      "titulo": "Solomon Anointing in Gihon",
+      "fecha": "c. 970 BC",
+      "descripcion": "Faced with Adonijah's attempt to proclaim himself king, David orders Zadok, Nathan and Benaiah to take Solomon to the spring of Gihon, anoint him there as king of Israel and then bring him up to the city amid the sound of trumpets and public acclamation, ensuring a quick and unequivocal succession.",
+      "referencias": [
+        "1 Kgs 1:32-40"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "david"
+      ]
+    },
+    {
+      "id": "ezequias-tapona-gihon",
+      "titulo": "Hezekiah stops the external waters of Gihon",
+      "fecha": "c. 701 BC",
+      "descripcion": "Faced with the Assyrian threat, Hezekiah orders the waters of the springs that were outside the city, including Gihon, to be blocked and their course diverted through the tunnel to the walled interior, depriving the invading army of an accessible water source.",
+      "referencias": [
+        "2 Chr 32:2-4",
+        "2 Chr 32:30"
+      ],
+      "personajes_clave": [
+        "ezequias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon_gihon",
+      "nombre": "Solomon",
+      "rol": "King of Israel, anointed in Gihon",
+      "periodo": "hierro_2",
+      "descripcion": "He is anointed king of Israel at the spring of Gihon by order of his father David, in a ceremony urgently organized to thwart Adonijah's attempted usurpation.",
+      "referencias": [
+        "1 Kgs 1:32-40"
+      ],
+      "ruta": [
+        "gihon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "natan_profeta_gihon",
+      "nombre": "Nathan",
+      "rol": "Davidic court prophet",
+      "periodo": "hierro_2",
+      "descripcion": "Together with the priest Zadok, he conducts the anointing ceremony of Solomon in Gihon, ensuring the religious legitimacy of the succession in the face of Adonijah's maneuver.",
+      "referencias": [
+        "1 Kgs 1:32-45"
+      ],
+      "ruta": [
+        "gihon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequias_gihon",
+      "nombre": "Hezekiah",
+      "rol": "Judah King, hydraulic tunnel builder",
+      "periodo": "hierro_2",
+      "descripcion": "He orders to cover the external outlets of the Gijón spring and channel its water into the city through an underground tunnel, ensuring supply during the Assyrian siege.",
+      "referencias": [
+        "2 Chr 32:2-4",
+        "2 Kgs 20:20"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gihon is not a place of worship in the strict sense, but its role in the anointing of Solomon makes it the scene of a religious-political act of the first order: the public and priestly legitimation of the Davidic succession. Its vital function as a source of water also connects it symbolically to the biblical themes of divine provision and survival of the chosen city in the face of external threats, particularly in the episode of Hezekiah.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (previous Jebusite substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "uncion-real-gihon-mito",
+        "nombre": "Gijón as a place of legitimate royal anointing",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 1:32-40",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la unción real junto a una fuente de agua viva como símbolo de continuidad dinástica",
+          "descripcion": "Jewish tradition notes that the choice of a spring of living waters as the site of Solomon's anointing—in contrast to Adonijah's more improvised proclamation at Ein-Roguel—symbolically reinforces the idea of ​​a legitimate, fluid, and blessed succession, as opposed to a hasty usurpation.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The living water of Gihon is symbolically associated with the legitimacy and continuity of the Davidic promise transmitted to Solomon.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "subtipo_geo": "Spring"
+}

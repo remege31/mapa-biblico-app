@@ -1,0 +1,177 @@
+{
+  "id": "heshbon",
+  "nombre": "Heshbon",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.8005,
+  "lng": 35.809,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 38,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Città amorreo-israelita a est del Giordano"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Città contesa tra Israele e Moab"
+    }
+  ],
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Heshbon (ebraico: חֶשְׁבּוֹן; moabita: Heshtbon) era la capitale del regno amorreo di Sihon, situato sull'altopiano della Transgiordania (l'attuale Giordania), a circa 25 km a nord-est dell'estremità settentrionale del Mar Morto e a circa 9 km a sud dell'odierna Madaba. Identificato con Tell Hesban, i cui scavi (1968-1978 e 1984-1996) hanno rivelato un'occupazione dal Bronzo Tardo al periodo islamico. Controllava la Via Regia, la grande via nord-sud della Transgiordania. La città dominava il fertile altopiano moabita da una collina alta 895 metri, con ampie vedute verso il Mar Morto e le montagne della Giudea a ovest.",
+  "altitud_m": 895,
+  "clima": "Altopiano continentale Mediterraneo: precipitazioni di 300-350 mm all'anno, inverni freddi con possibili nevicate, estati calde e secche. L'altopiano è adatto alla coltivazione di cereali e vigneti. Le \"piscine di Heshbon\" menzionate nel Cantico dei Cantici 7:5 riflettono il sistema idraulico della città.",
+  "recursos": [
+    "Agricoltura dell'altopiano: grano, orzo, vigneti (famoso nell'Antico Testamento)",
+    "Allevamento estensivo nelle pianure di Moab",
+    "Controllo della Via Regia, la principale via commerciale della Transgiordania",
+    "Stagni e sistema idrico documentato (Cantico 7:5)",
+    "Basalto e pietra calcarea per l'edilizia"
+  ],
+  "importancia_estrategica": "Heshbon era la capitale dell'altopiano della Transgiordania e il punto di controllo della Via Regia tra Damasco e l'Arabia. La sua conquista da parte di Mosè fu il primo territorio occupato da Israele prima di attraversare il Giordano, stabilendo il precedente secondo cui la promessa non era limitata all'ovest del fiume. La città passò di mano più volte tra Israeliti, Moabiti e Ammoniti, essendo sempre ambita per la sua posizione dominante sull'altopiano.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos-sehon",
+      "nombre": "Amorrei di Sihon",
+      "descripcion": "Sihon, re amorreo di Heshbon, aveva precedentemente conquistato il nord Moab compreso Heshbon, che originariamente era una città moabita (Num 21:26-30). L'antico poema citato in Numeri 21:27-30 (\"Vieni a Heshbon, sia costruita e restaurata la città di Sihon\") celebra la conquista amorrea di Moab. Israele ha chiesto a Sihon un passaggio pacifico; Lui negò e andò a combattere, venendo sconfitto. Il loro territorio tra l'Arnon e lo Iabbok fu assegnato alle tribù di Ruben e Gad.",
+      "religion": "Politeismo amorreo - culto di Kemosh (divinità moabita adottata) e divinità cananee settentrionali",
+      "periodo": "Tardo Bronzo-Ferro I, fino a ca. 1220 a.C"
+    },
+    {
+      "id": "moabitas-heshbon",
+      "nombre": "Moabiti",
+      "descripcion": "Heshbon era stata una città moabita prima della conquista di Sihon. In seguito alla sconfitta israelita di Sihon, Moab riconquistò gradualmente il territorio a sud dell'Arnon. I profeti dell'VIII secolo (Isaia 15-16, Geremia 48) esprimono lamentele su Heshbon già come città moabita, dimostrando che nel periodo del Ferro II la città era tornata nelle mani di Moab. La Stele di Mesha (IX secolo a.C.) documenta la prospettiva moabita di queste stesse controversie territoriali.",
+      "religion": "Politeismo moabita: Kemosh come dio nazionale (equivalente all'israelita Jahvè nel suo ruolo di dio della guerra e protettore nazionale)",
+      "periodo": "Ferro II, IX-VI secolo a.C."
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-conquista-sehon",
+      "titulo": "Mosè sconfigge Sihon: la prima conquista a est del Giordano",
+      "fecha": "c. 1220 a.C.",
+      "descripcion": "Israele, nella sua marcia attraverso il deserto verso Canaan, arrivò nel territorio di Sihon, re amorreo di Heshbon. Mosè ha inviato messaggeri con una richiesta di passaggio pacifico: 'Fateci passare attraverso la vostra terra; Non andremo nei campi né nelle vigne né berremo l'acqua dei pozzi; percorreremo la via regia finché non avremo attraversato il tuo territorio». Sihon negò il passaggio e partì con tutto il suo esercito nel deserto. Israele lo sconfisse a Yahás, conquistò tutte le sue città dall'Arnon allo Jabbok e si stabilì a Heshbon. Il poeta citato nei Numeri esclama: 'Heshbon, la città di Sihon, è perita!' Il territorio fu assegnato a Ruben e Gad. Questa prima vittoria a est del Giordano fu interpretata teologicamente come un segno che la promessa cominciava a realizzarsi ancor prima di attraversare il fiume sacro.",
+      "referencias": [
+        "Nm 21:21-31",
+        "Dt 2:24-37",
+        "Nm 21:27-30"
+      ],
+      "personajes_clave": [
+        "moises-heshbon",
+        "sehon"
+      ]
+    },
+    {
+      "id": "heshbon-reparto-ruben-gad",
+      "titulo": "Heshbon nel cast: Reuben, Gad e l'eredità transgiordana",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Le tribù di Ruben e Gad, che avevano molto bestiame, videro che la terra di Yazer e Galaad era buona per il bestiame e chiesero a Mosè di non far loro attraversare il Giordano, che questa terra fosse la loro eredità. Mosè, inizialmente indignato (ripeterai il peccato delle spie?), ha accettato a una condizione: che i guerrieri di Reuben e Gad si incrociassero armati con il resto di Israele per conquistare Canaan prima di ritornare a est. Una volta concordato l'accordo, Heshbon e le sue città dipendenti furono assegnate a Ruben. Questa decisione fu teologicamente controversa: l'eredità a est del Giordano era \"fuori terra\" in senso stretto, e il testo preserva la tensione tra la promessa originale (Canaan) e l'adattamento pragmatico alle esigenze del bestiame.",
+      "referencias": [
+        "Nm 32:1-38",
+        "Gs 13:15-23",
+        "Nm 32:33-38"
+      ],
+      "personajes_clave": [
+        "moises-heshbon",
+        "gad-ruben"
+      ]
+    },
+    {
+      "id": "isaias-lamento-heshbon",
+      "titulo": "Il lamento di Heshbon: i profeti piangono Moab",
+      "fecha": "c. 715 a.C.",
+      "descripcion": "Isaia 15-16 e Geremia 48 conservano lunghi lamenti sulla caduta delle città moabite, inclusa Heshbon. Isaia: 'La loro voce si alza sopra Heshbon ed Elaleh, il loro grido è udito fino a Jahaz.' Geremia 48:2: 'A Heshbon tramavano la sua rovina: venite, distruggiamola come nazione.' Il Cantico dei Cantici (7:5) usa Heshbon in un contesto completamente diverso—gli occhi dell'amato sono 'come le piscine di Heshbon presso la porta di Bat-Rabbim'—a dimostrazione che la città era conosciuta per le sue bellissime piscine d'acqua. I lamenti profetici sono insoliti: Israele non lamenta i suoi nemici moabiti per istinto, ma perché il profeta vede nella caduta di Moab l'avanzare dello stesso giudizio che si abbatterà su Israele.",
+      "referencias": [
+        "Is 15:4",
+        "Ger 48:2",
+        "Ct 7:5"
+      ],
+      "personajes_clave": [
+        "isaias-heshbon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises-heshbon",
+      "nombre": "Mosè",
+      "rol": "Liberatore di Israele, legislatore e conduttore fino ai confini della terra promessa",
+      "periodo": "bronce_tardio",
+      "descripcion": "Mosè ben Amram è la figura centrale del Pentateuco e dell'intera fede israelita. Nato a Egitto, cresciuto alla corte del Faraone, chiamato nel deserto (roveto ardente), guidò Israele per quarant'anni. A Heshbon fu protagonista della prima vittoria militare dell'Israele sulla terra che sarebbe poi stata la sua eredità: la sconfitta di Sihon. Morì sul Monte Nebo, sull'altopiano Moab che domina la terra promessa che non gli era permesso attraversare. La tradizione biblica lo presenta come il più grande dei profeti: «Non è più sorto in Israele un profeta come Mosè, che Jahvè conoscesse faccia a faccia» (Dt 34,10).",
+      "referencias": [
+        "Nm 21:21-25",
+        "Dt 34:1-12",
+        "Es 3:1-15"
+      ],
+      "ruta": [
+        "egipto",
+        "sinai",
+        "heshbon"
+      ]
+    },
+    {
+      "id": "sehon",
+      "nombre": "Sihon di Heshbon",
+      "rol": "Re amorreo di Heshbon, primo re sconfitto da Israele in Transgiordania",
+      "periodo": "c. 1220 a.C.",
+      "descripcion": "Sihon l'Amorreo è, insieme a Og di Basan, il paradigma biblico del re pagano sconfitto sulla soglia della terra promessa. Il suo rifiuto al passaggio pacifico di Israele viene letto teologicamente come un 'indurimento del cuore' parallelo a quello del Faraone: Jahvè indurì il suo spirito per poter consegnare la sua terra a Israele (Dt 2,30). La sconfitta di Sihon divenne un motivo liturgico ricorrente: Sal 135,11 e 136,19 la menzionano tra le grandi vittorie divine. La sua città, Heshbon, fu la prima capitale conquistata da Israele, facendo di Sihon un simbolo dell'inizio dell'adempimento della promessa.",
+      "referencias": [
+        "Nm 21:23-26",
+        "Dt 2:30-36",
+        "Sal 135:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias-heshbon",
+      "nombre": "Isaia",
+      "rol": "Profeta di Gerusalemme, autore del lamento su Moab e Heshbon",
+      "periodo": "c. 760–700 a.C.",
+      "descripcion": "Isaia ben Amos pronunciò l'oracolo su Moab (Is 15-16) come parte della sua serie di oracoli contro le nazioni. Il suo lamento su Heshbon e sulle altre città moabite è insolitamente empatico per un profeta israelita: non esulta per la caduta del nemico ma piange con Moab. Questa dimensione di compassione profetica – il profeta che sente il dolore del nemico – rivela la teologia universalista di Isaia: Jahvè è Dio di tutte le nazioni, e il suo giudizio su di loro è anche il suo amore che esige risposta.",
+      "referencias": [
+        "Is 15:1-16:14",
+        "Is 1:1",
+        "Is 6:1-13"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Heshbon è il punto in cui la promessa territoriale dell'OT supera il Giordano: la prima città conquistata da Israele è in Transgiordania, 'fuori' Canaan in senso stretto. Teologicamente, questo espande la promessa oltre i suoi limiti convenzionali. La storia successiva della città – contesa tra Israele e Moab, cantata dal Cantico per le sue piscine, compianta dai profeti – ne fa un simbolo della fragilità delle vittorie storiche e della permanenza unica della promessa divina.",
+    "religiones_presentes": [
+      "Politeismo amorreo: culto delle divinità della Siria settentrionale al tempo di Sihon",
+      "Yahvismo Israelita — città della tribù di Ruben, con presenza levitica",
+      "Politeismo moabita: Kemosh come dio nazionale di Moab dopo il recupero della città"
+    ],
+    "mitos": [
+      {
+        "id": "sehon-og-paradigma",
+        "nombre": "Sihon e Og: il paradigma dei re sconfitti",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 21:21-35; Sal 135:10-12; Sal 136:17-22",
+          "fuente_secundaria": "Talmud Bavli, Berajot 54b; Midrash Rabbah Números 19",
+          "descripcion": "La coppia Sihon-Og divenne una formula liturgica fissa nell'Antico Testamento: due salmi (135 e 136) la citano consecutivamente come esempio dei grandi re che Jahvè fece cadere. Il Talmud (Brachot 54b) afferma che chiunque veda il luogo dove caddero Sihon e Og deve recitare una benedizione specifica. Il Midrash sviluppa che Sihon era il figlio dello stesso Og: dettagli haggadici che sottolineano l'entità della vittoria collegando genealogicamente i due nemici sconfitti. La menzione ricorrente di Sihon nel culto israelita fece di Heshbon un riferimento nella memoria liturgica del popolo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Le vittorie su Sihon e Og sono la prova che Jahvè ha mantenuto la promessa di cedere la terra a Israele. La sua menzione liturgica trasforma la storia in un atto di lode: la memoria della vittoria passata di Dio fonda la fiducia nella sua fedeltà futura.",
+          "posible_relacion_cultural": "La menzione delle vittorie su re specifici nei salmi di lode ha paralleli nell'antica letteratura sulle vittorie del Vicino Oriente, inclusi gli inni a Enlil e Marduk che celebrano vittorie specifiche come manifestazioni del potere divino."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  }
+}

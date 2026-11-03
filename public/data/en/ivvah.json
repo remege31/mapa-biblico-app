@@ -1,0 +1,135 @@
+{
+  "id": "ivvah",
+  "nombre": "Ivva",
+  "tipo": "ciudad",
+  "lat": 34.47,
+  "lng": 41.97,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Mesopotamian city mentioned along with Hamat and Arfad in the Assyrian arguments before Hezekiah; Their gods could not resist Assyria.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "City used as an argument for Assyrian omnipotence.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ivy_h1",
+      "titulo": "The gods of Ivvá could not resist",
+      "fecha": "701 BC",
+      "descripcion": "The Assyrian messenger argues that the gods of Hamath, Arfad, and Ivva did not free their cities from Assyrian power.",
+      "referencias": [
+        "2 Kgs 18:34",
+        "Isa 36:19"
+      ],
+      "personajes_clave": [
+        "Rabsaqué",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h2",
+      "titulo": "The challenge to Hezekiah with the example of Ivva",
+      "fecha": "701 BC",
+      "descripcion": "Sennacherib sends a letter citing Ivva among the peoples whose gods failed: how would Judah expect to be different?",
+      "referencias": [
+        "2 Kgs 19:13",
+        "Isa 37:13"
+      ],
+      "personajes_clave": [
+        "Senaquerib",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h3",
+      "titulo": "Hezekiah takes the letter to the Temple",
+      "fecha": "701 BC",
+      "descripcion": "Hezekiah spreads Sennacherib's letter (which mentions Ivvah) before the Lord in the Temple and prays.",
+      "referencias": [
+        "2 Kgs 19:14-19"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ivy_p1",
+      "nombre": "Rabsaqué",
+      "rol": "Assyrian general",
+      "periodo": "ca. 701 BC",
+      "descripcion": "He used Ivvá's argument to demoralize the defenders of Jerusalem.",
+      "referencias": [
+        "2 Kgs 18:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p2",
+      "nombre": "Hezekiah",
+      "rol": "King by Judah",
+      "periodo": "715-686 BC",
+      "descripcion": "He took Sennacherib's challenge (with mention of Ivvah) to the Temple in prayer.",
+      "referencias": [
+        "2 Kgs 19:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p3",
+      "nombre": "Isaiah",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "He answered Hezekiah's prayer: the Lord will protect Jerusalem even though the gods of Ivvah and others fell.",
+      "referencias": [
+        "2 Kgs 19:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ivvá: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ivy_m1",
+        "nombre": "The comparative power argument",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kings 19:35",
+          "fuente_secundaria": "",
+          "descripcion": "Ivva and other cities are used as 'proof' that no god can resist Assyria; God responds by destroying the Assyrian army in one night (2 Kings 19:35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ivva and other cities are used as 'proof' that no god can resist Assyria; God responds by destroying the Assyrian army in one night (2 Kings 19:35).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

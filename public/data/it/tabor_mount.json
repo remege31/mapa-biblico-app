@@ -1,0 +1,294 @@
+{
+  "id": "tabor_mount",
+  "nombre": "Monte Tabor",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.68695640243183,
+  "lng": 35.39091304299688,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I — Vittoria di Debora e Barak contro Sisera"
+    }
+  ],
+  "descripcion_geo": "Montagna dalla caratteristica forma conica che si erge bruscamente sopra la piana di Jezreel, al confine tra i territori di Zabulon, Issacar e Neftali, visibile da grande distanza e utilizzata come punto strategico di concentrazione militare per la sua posizione dominante sulla pianura.",
+  "altitud_m": 575,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici della regione inferiore Galilea.",
+  "recursos": [
+    "Posizione elevata e dominante sulla pianura di Jezreel",
+    "Punto di concentrazione militare strategico",
+    "Confine tribale tra Zabulon, Issacar e Neftali"
+  ],
+  "importancia_estrategica": "Il monte Tabor è il punto di raccolta scelto da Debora per radunare l'esercito israelita di diecimila uomini prima di scendere contro le forze di Sisera nella pianura, approfittando della posizione elevata come vantaggio tattico iniziale prima dello scontro decisivo lungo il fiume Kishon.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_tabor",
+      "nombre": "Tribù di Zabulon e Neftali",
+      "descripcion": "Contingenti tribali convocati da Debora e Barak per radunarsi sul monte Tabor prima della battaglia decisiva contro Sisera.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1150 a.C"
+    },
+    {
+      "id": "cananeos_ejercito_tabor",
+      "nombre": "Cananeo Armata di Sisera",
+      "descripcion": "Cazor Forze Jabin al comando del generale Sisera, che si posizionano nella pianura per affrontare le truppe israelite concentrate sul Tabor.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "C. 1150 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "debora-convoca-barac-tabor",
+      "titulo": "Debora convoca Barak sul monte Tabor",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Debora ordina a Barak, per comando di YHWH, di radunare diecimila uomini da Neftali e Zabulon sul monte Tabor, promettendogli che YHWH attirerà Sisera e il suo esercito al fiume Kishon per consegnarli nelle sue mani.",
+      "referencias": [
+        "Gdc 4:6-7"
+      ],
+      "personajes_clave": [
+        "debora",
+        "barac"
+      ]
+    },
+    {
+      "id": "barac-condicion-debora-tabor",
+      "titulo": "Barac condiziona la sua partecipazione alla presenza di Débora",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Barak risponde che salirà sul Tabor solo se Debora lo accompagna; Lei è d'accordo, ma lo avverte che l'onore della vittoria non sarà suo, ma che YHWH consegnerà Sisera nelle mani di una donna, anticipando l'esito successivo con Giaele.",
+      "referencias": [
+        "Gdc 4:8-9"
+      ],
+      "personajes_clave": [
+        "debora",
+        "barac"
+      ]
+    },
+    {
+      "id": "descenso-batalla-tabor",
+      "titulo": "Barak scende dal Tabor per la battaglia decisiva",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Una volta che le truppe si furono radunate sul Tabor e Sisera si fu posizionato con i suoi novecento carri di ferro nella pianura, Barak scese dal monte per ordine di Debora; YHWH sconfigge Sisera e il suo intero esercito prima di Israele, forse attraverso un'improvvisa tempesta che rende inutili i carri nel fango di Kishon.",
+      "referencias": [
+        "Gdc 4:14-16"
+      ],
+      "personajes_clave": [
+        "barac"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_tabor",
+      "nombre": "Debora",
+      "rol": "Giudice e profetessa di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Dirige strategicamente il concentramento delle truppe sul monte Tabor e accompagna personalmente Barak, assicurando l'esecuzione del piano divino di liberazione contro l'oppressione cananea.",
+      "referencias": [
+        "Gdc 4:6-10",
+        "Gdc 4:14"
+      ],
+      "ruta": [
+        "tabor_mount"
+      ]
+    },
+    {
+      "id": "barac_tabor",
+      "nombre": "Barak",
+      "rol": "Generale israelita, originario di Kedesh",
+      "periodo": "hierro_1",
+      "descripcion": "Raduna e dirige le truppe concentrate sul Tabor, condizionandone la partecipazione alla presenza di Debora, e guida la discesa decisiva verso la vittoria su Sisara.",
+      "referencias": [
+        "Gdc 4:6-16"
+      ],
+      "ruta": [
+        "kedesh",
+        "tabor_mount"
+      ]
+    },
+    {
+      "id": "sisara_tabor",
+      "nombre": "Sisera",
+      "rol": "Generale dell'esercito di Jabin Cananeo",
+      "periodo": "c. 1150 a.C.",
+      "descripcion": "Posiziona i suoi novecento carri di ferro nella pianura antistante il Tabor, venendo definitivamente sconfitto quando Israele scende dal monte, episodio che culmina poco dopo con la sua stessa morte per mano di Giaele.",
+      "referencias": [
+        "Gdc 4:13-16"
+      ],
+      "ruta": [
+        "tabor_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Monte Tabor è teatro di uno degli episodi fondativi della teologia militare del Libro dei Giudici: la vittoria di Israele è esplicitamente attribuita all'intervento diretto di YHWH nello smantellare l'esercito di Cananeo, non alla superiorità militare israelita contro i temibili novecento carri di ferro di Sisera, stabilendo lo schema ricorrente di vittoria provvidenziale che caratterizza l'intero ciclo dei giudici-liberatori.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (esercito sconfitto)"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-debora-barac-tabor",
+        "nombre": "La vittoria di Debora e Barak dal monte Tabor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 4:1-16; Jue 5:1-31 (Cántico de Débora)",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el liderazgo profético y militar conjunto de Débora y Barac, y el extenso Cántico de Débora como uno de los poemas más antiguos de la literatura hebrea",
+          "descripcion": "La tradizione ebraica valorizza in particolare la duplice guida di Debora e Barak del Tabor come modello di cooperazione tra autorità profetica femminile e leadership militare maschile, e considera il Cantico di Debora che commemora la vittoria come uno dei testi poetici più antichi conservati nell'intera Bibbia ebraica, una preziosa fonte storica sull'antica organizzazione tribale di Israele.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento di Debora come figura di eccezionale leadership profetica.",
+          "diferencias": null,
+          "significado_teologico": "La vittoria del Tabor conferma che YHWH può utilizzare sia gli uomini che le donne come strumenti di liberazione, senza che il genere determini la capacità di leadership concessa dalla chiamata divina.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gdc 4:1-16 (recepción patrística sobre Débora como modelo de liderazgo profético femenino)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que citan a Débora como precedente de autoridad espiritual femenina legítima",
+          "descripcion": "La tradizione cristiana considera Debora, insieme al suo ruolo decisivo nella vittoria del Tabor, come un significativo precedente biblico di leadership spirituale femminile, citata in vari contesti nel corso della storia dell'interpretazione cristiana per discutere sul ruolo delle donne di autorità religiosa.",
+          "similitudes": "Condivide con la lettura ebraica la valutazione positiva della leadership di Debora come legittimo modello profetico.",
+          "diferencias": "Le successive letture cristiane spesso sviluppano l'episodio nel contesto di specifici dibattiti ecclesiastici sulla leadership femminile, assenti nella lettura ebraica originale.",
+          "significado_teologico": "L'episodio del Tabor diventa un riferimento biblico ricorrente nelle discussioni cristiane sulla legittimità della leadership spirituale e profetica esercitata dalle donne.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo dei Giudici come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tab_nt_h1",
+        "titulo": "La Trasfigurazione di Gesù",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù si trasfigura davanti a Pietro, Santiago e Juan: il suo volto risplende e dialoga con Mosè e Elia.",
+        "referencias": [
+          "Mt 17:1-8",
+          "Mc 9:2-8",
+          "Lc 9:28-36"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "tab_nt_h2",
+        "titulo": "La voce del Padre nella nuvola",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Una nuvola luminosa li circonda e la voce del Padre dice: 'Questo è il mio Figlio prediletto; ascoltalo.",
+        "referencias": [
+          "Mt 17:5"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      },
+      {
+        "id": "tab_nt_h3",
+        "titulo": "La discesa e la cura dell'epilettico",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Scendendo dal Tabor, Gesù guarisce un bambino epilettico che i discepoli non erano riusciti a guarire.",
+        "referencias": [
+          "Mt 17:14-18"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tab_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "messia trasfigurato",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Ha rivelato la sua gloria divina sul monte Tabor davanti a tre testimoni scelti.",
+        "referencias": [
+          "Mt 17:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tab_nt_p2",
+        "nombre": "Pietro",
+        "rol": "Testimone Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha proposto di costruire tre negozi; L'esperienza sul Tabor fonda la sua testimonianza circa la gloria di Cristo.",
+        "referencias": [
+          "Mt 17:4",
+          "2 Pt 1:16-18"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tab_nt_p3",
+        "nombre": "Mosè e Elia",
+        "rol": "Rappresentanti della Legge e dei Profeti",
+        "periodo": "s. I d.C.",
+        "descripcion": "Sono apparsi insieme a Gesù durante la Trasfigurazione, a simboleggiare che la Legge e i Profeti puntano a Cristo.",
+        "referencias": [
+          "Mt 17:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Monte isolato di Galilea che la tradizione identifica come luogo della Trasfigurazione; scena della rivelazione della gloria divina di Gesù.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "tab_nt_m1",
+          "nombre": "La Trasfigurazione",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Sinai era la montagna della rivelazione di Dio a Mosè; il Tabor diventa il suo equivalente del Nuovo Testamento.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sinai era la montagna della rivelazione di Dio a Mosè; il Tabor diventa il suo equivalente del Nuovo Testamento.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Sul Tabor, Gesù rivela la sua gloria divina e riceve la testimonianza celeste di essere il Figlio di Dio, compimento della Legge (Mosè) e dei Profeti (Elia).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sul Tabor, Gesù rivela la sua gloria divina e riceve la testimonianza celeste di essere il Figlio di Dio, compimento della Legge (Mosè) e dei Profeti (Elia).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

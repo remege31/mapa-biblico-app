@@ -1,0 +1,163 @@
+{
+  "id": "jabbok",
+  "nombre": "Jabbok",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.193237,
+  "lng": 35.676305,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Tribal Frontier, River of Struggle di Giacobbe"
+    }
+  ],
+  "descripcion_geo": "Fiume affluente del Giordano che nasce nel Galaad e discende con corso sinuoso fino a confluire nel Giordano, segnando un confine naturale significativo in Transgiordania, sia nel ciclo patriarcale che nella successiva distribuzione tribale tra Gad e il Amorrei.",
+  "altitud_m": 200,
+  "clima": "Montagna mediterranea in transizione verso la Valle del Giordano, che varia a seconda dell'altitudine lungo il suo corso.",
+  "recursos": [
+    "Corso fluviale permanente nella Transgiordania centrale",
+    "Punto di passaggio strategico per Galaad",
+    "Confine naturale tra territori e regni tribali"
+  ],
+  "importancia_estrategica": "Lo Jabbok segna il limite settentrionale dell'antico regno di Sihon conquistato da Israele, confine naturale tra il territorio assegnato a Gad e l'Amorrei; È anche, nel ciclo patriarcale, il luogo dove Giacobbe fa attraversare di notte la sua famiglia e i suoi beni, rimanendo solo per l'episodio decisivo della sua lotta con l'essere divino.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_jaboc",
+      "nombre": "Amorrei (regno di Sihon)",
+      "descripcion": "Popolazione il cui territorio si estendeva fino allo Iabbok come confine settentrionale prima della conquista israelita sotto Mosè.",
+      "religion": "Politeismo amorreo",
+      "periodo": "Prima del c. 1400 a.C"
+    },
+    {
+      "id": "amonitas_jaboc",
+      "nombre": "Ammoniti",
+      "descripcion": "Città il cui territorio confinava anche con l'alto corso dello Iabbok, vicino orientale della regione conquistata da Israele.",
+      "religion": "Politeismo ammonita: culto di Molech",
+      "periodo": "C. 1400–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-cruza-jaboc",
+      "titulo": "Giacobbe manda la sua famiglia ad attraversare lo Jabbok",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "La notte prima del ricongiungimento con Esaù, Giacobbe fa passare le mogli, i servi, gli undici figli e tutti i suoi averi e tutti i suoi averi, lasciandolo solo sulla riva, momento di solitudine che precede immediatamente l'episodio del combattimento notturno.",
+      "referencias": [
+        "Gen 32:22-23"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "lucha-jacob-jaboc",
+      "titulo": "Giacobbe combatte con un uomo accanto al Jabbok",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Rimasto solo sulle rive dello Jabbok, Giacobbe combatte tutta la notte con un uomo che si rivela essere una manifestazione divina; All'alba riceve una benedizione e il nuovo nome 'Israele' ('colui che combatte con Dio'), diventando anche zoppo a causa di una ferita alla coscia, episodio che dà origine anche a un divieto alimentare israeliano.",
+      "referencias": [
+        "Gen 32:24-32"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "jaboc-frontera-sehon",
+      "titulo": "Lo Jabbok come confine del territorio conquistato da Sihon",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Il testo biblico stabilisce ripetutamente Jabbok come limite settentrionale del territorio amorreo di Sihon conquistato da Israele, confine naturale che separa poi il territorio di Gad da quello degli Ammoniti.",
+      "referencias": [
+        "Nm 21:24",
+        "Dt 2:37",
+        "Gs 12:2"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_jaboc",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "Accanto al fiume Jabbok, è protagonista di uno degli episodi più enigmatici e teologicamente carichi dell'intero ciclo patriarcale: il suo combattimento notturno con un essere divino che gli dà il nome Israele.",
+      "referencias": [
+        "Gen 32:22-32"
+      ],
+      "ruta": [
+        "mahanaim",
+        "jabbok",
+        "peniel"
+      ]
+    },
+    {
+      "id": "ser_divino_jaboc",
+      "nombre": "L'uomo/angelo che combatte con Giacobbe",
+      "rol": "manifestazione divina",
+      "periodo": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Figura la cui esatta identità - angelo, manifestazione di YHWH o rappresentazione simbolica - è stata oggetto di un ampio dibattito interpretativo nel corso della storia dell'esegesi biblica, centrale nell'episodio fondativo del nuovo nome di Giacobbe.",
+      "referencias": [
+        "Gen 32:24-30"
+      ],
+      "ruta": [
+        "jabbok"
+      ]
+    },
+    {
+      "id": "moises_jaboc",
+      "nombre": "Mosè",
+      "rol": "Leader di Israele nella conquista della Transgiordania",
+      "periodo": "bronce_tardio",
+      "descripcion": "Stabilisce lo Jabbok come confine settentrionale del territorio conquistato di Sihon, segnando i limiti del possedimento israelita in questa regione della Transgiordania.",
+      "referencias": [
+        "Nm 21:21-24",
+        "Dt 2:36-37"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lo Jabbok è teatro di uno degli episodi più reinterpretati dell'intero corpus patriarcale: il combattimento notturno di Giacobbe, il cui nome cambia proprio in questo luogo per riflettere la sua nuova identità di 'Israele', stabilendo così il fiume come simbolico punto fondativo del nome che tutti i popoli discendenti da Giacobbe porteranno nel corso della successiva storia biblica.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "lucha-jacob-nombre-israel",
+        "nombre": "La lotta di Giacobbe al fianco di Jabbok e l'origine del nome Israele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:22-32",
+          "fuente_secundaria": "Talmud Babilónico, Julin 91a (discusión sobre la identidad del 'hombre' y el origen de la prohibición del nervio ciático); Midrash Bereshit Rabbah 77-78",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente l'identità dell'avversario di Giacobbe – spesso interpretato come l'angelo custode di Esaù – e stabilisce a partire da questo episodio il divieto alimentare di mangiare il nervo sciatico (gid hanasheh), trasformando l'incontro in una base giuridica diretta per una pratica dietetica ancora oggi osservata.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento della centralità teologica del cambio di nome da Giacobbe a Israele.",
+          "diferencias": null,
+          "significado_teologico": "Il nuovo nome 'Israele' (\"colui che combatte con Dio e con gli uomini e vince\") diventa la designazione fondatrice di tutte le persone discendenti da Giacobbe, catturando l'essenza di un rapporto di lotta persistente ma in definitiva benedetta con il divino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 32:22-32 (recepción patrística sobre la lucha de Jacob como figura de la lucha espiritual del creyente)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la persistencia en la oración ejemplificada por Jacob, que no suelta a su oponente hasta recibir bendición",
+          "descripcion": "La tradizione cristiana riprende frequentemente l'episodio dello Jabbok come modello spirituale di perseveranza nella preghiera e di lotta della fede, generalizzando il combattimento fisico di Giacobbe come metafora della lotta spirituale del credente che persiste fino ad ottenere la benedizione divina.",
+          "similitudes": "Condivide con la lettura ebraica l'apprezzamento del cambio di nome come momento di trasformazione fondamentale dell'identità.",
+          "diferencias": "La lettura cristiana tende a spiritualizzare e generalizzare l'episodio come modello di preghiera persistente, mentre la lettura ebraica si concentra maggiormente sulle implicazioni giuridiche e sul fondamento specifico del nome Israele come popolo.",
+          "significado_teologico": "La lotta di Giacobbe diventa una figura generale della perseveranza spirituale del credente che cerca la benedizione divina nonostante la difficoltà dell'incontro.",
+          "posible_relacion_cultural": "Tradizione condivisa del patriarca Giacobbe come figura fondatrice comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Fiume"
+}

@@ -1,0 +1,246 @@
+{
+  "id": "phrygia",
+  "nombre": "Phrygia",
+  "tipo": "territorio",
+  "lat": 38.76,
+  "lng": 31.05,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Ancient region of west-central Asia Minor, divided between the Roman provinces of Asia and Galatia. Colossians and Phrygia are sisters.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Relevant in the NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "phr_h1",
+      "titulo": "Paul passes through Phrygia confirming the churches",
+      "fecha": "ca. 50 AD",
+      "descripcion": "On the second journey, Paul and Silas pass through the Phrygian-Galatian region, confirming the disciples.",
+      "referencias": [
+        "Acts 16:6"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    },
+    {
+      "id": "phr_h2",
+      "titulo": "Paul in Phrygia on the third voyage",
+      "fecha": "ca. 53 AD",
+      "descripcion": "On the third journey, Paul passes through the region of Phrygia and Galatia again, strengthening all the disciples.",
+      "referencias": [
+        "Acts 18:23"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "phr_h3",
+      "titulo": "Colossians and Phrygians",
+      "fecha": "ca. 60 AD",
+      "descripcion": "The letter to the Colossians, written from Rome, goes to a Phrygian church founded by Epaphras.",
+      "referencias": [
+        "Col 1:7",
+        "Col 4:12-13"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Epafras"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "phr_p1",
+      "nombre": "Paul",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He passed through Phrygia twice on his missionary journeys.",
+      "referencias": [
+        "Acts 16:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p2",
+      "nombre": "Epaphras",
+      "rol": "Founder of Colossae",
+      "periodo": "s. I AD",
+      "descripcion": "He planted the church in Colossae (a Phrygian city) and was a faithful teacher of Paul.",
+      "referencias": [
+        "Col 1:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "phr_p3",
+      "nombre": "Philemon",
+      "rol": "Leader of the church of Colossae",
+      "periodo": "s. I AD",
+      "descripcion": "Christian of Phrygia to whom Paul wrote the most personal letter in the NT.",
+      "referencias": [
+        "Phlm 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Phrygia: relevant region in the NT world.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "phr_m1",
+        "nombre": "Phrygia: land of sacred music and heresies",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Phrygia is famous for its religious music (the Phrygian mode) and was later the land of Montanism (2nd century AD); Paul evangelized her on his travels.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Phrygia is famous for its religious music (the Phrygian mode) and was later the land of Montanism (2nd century AD); Paul evangelized her on his travels.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phr_h1",
+        "titulo": "Paul passes through Phrygia confirming the churches",
+        "fecha": "ca. 50 AD",
+        "descripcion": "On the second journey, Paul and Silas pass through the Phrygian-Galatian region, confirming the disciples.",
+        "referencias": [
+          "Acts 16:6"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "phr_h2",
+        "titulo": "Paul in Phrygia on the third voyage",
+        "fecha": "ca. 53 AD",
+        "descripcion": "On the third journey, Paul passes through the region of Phrygia and Galatia again, strengthening all the disciples.",
+        "referencias": [
+          "Acts 18:23"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "phr_h3",
+        "titulo": "Colossians and Phrygians",
+        "fecha": "ca. 60 AD",
+        "descripcion": "The letter to the Colossians, written from Rome, goes to a Phrygian church founded by Epaphras.",
+        "referencias": [
+          "Col 1:7",
+          "Col 4:12-13"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Epafras"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phr_p1",
+        "nombre": "Paul",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He passed through Phrygia twice on his missionary journeys.",
+        "referencias": [
+          "Acts 16:6"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p2",
+        "nombre": "Epaphras",
+        "rol": "Founder of Colossae",
+        "periodo": "s. I AD",
+        "descripcion": "He planted the church in Colossae (a Phrygian city) and was a faithful teacher of Paul.",
+        "referencias": [
+          "Col 1:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phr_p3",
+        "nombre": "Philemon",
+        "rol": "Leader of the church of Colossae",
+        "periodo": "s. I AD",
+        "descripcion": "Christian of Phrygia to whom Paul wrote the most personal letter in the NT.",
+        "referencias": [
+          "Phlm 1:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Phrygia in the New Testament.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "phr_m1",
+          "nombre": "Phrygia: land of sacred music and heresies",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Phrygia is famous for its religious music (the Phrygian mode) and was later the land of Montanism (2nd century AD); Paul evangelized her on his travels.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Phrygia is famous for its religious music (the Phrygian mode) and was later the land of Montanism (2nd century AD); Paul evangelized her on his travels.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

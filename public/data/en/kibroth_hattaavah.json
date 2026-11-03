@@ -1,0 +1,135 @@
+{
+  "id": "kibroth_hattaavah",
+  "nombre": "Kibrot-hataava",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Desert camp whose name means 'graves of desire/greed'; place where Israel was punished for lusting after meat.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Desert camp: the graves of those who desired meat.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kib_h1",
+      "titulo": "The people crave meat in Kibrot-hataavah",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Israel cries for meat; God sends quails in abundance but strikes the people with a great plague while the meat was still between their teeth.",
+      "referencias": [
+        "Num 11:4-35"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "israelitas"
+      ]
+    },
+    {
+      "id": "kib_h2",
+      "titulo": "The Spirit upon the seventy elders at Kibrot-hataavah",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "In the same camp, God extends the Spirit that was upon Moses upon the seventy elders; Eldad and Medad prophesy.",
+      "referencias": [
+        "Num 11:24-30"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué",
+        "Eldad",
+        "Medad"
+      ]
+    },
+    {
+      "id": "kib_h3",
+      "titulo": "The name as a memorial of sin",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "The place was called Kibrot-hataava ('graves of desire') because those they had coveted were buried there.",
+      "referencias": [
+        "Num 11:34"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kib_p1",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He interceded for the people exhausted by the burden and received the promise of the seventy elders of the Spirit.",
+      "referencias": [
+        "Num 11:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p2",
+      "nombre": "Joshua",
+      "rol": "Moses Helper",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "He asked Moses to silence Eldad and Medad; Moses replied: 'If only all of God's people would prophesy!'",
+      "referencias": [
+        "Num 11:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kib_p3",
+      "nombre": "Eldad and Medad",
+      "rol": "Camp Prophets",
+      "periodo": "ca. 1260 BC",
+      "descripcion": "They prophesied in the camp although they had not approached the tent; They received the Spirit just like the seventy.",
+      "referencias": [
+        "Num 11:26"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kibrot-hataava: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "kib_m1",
+        "nombre": "The tombs of desire",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Kibrot-hataava memorializes the danger of greed: Israel received what he asked for but paid a high price; Uncontrolled desire leads to death.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Kibrot-hataava memorializes the danger of greed: Israel received what he asked for but paid a high price; Uncontrolled desire leads to death.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

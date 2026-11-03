@@ -1,0 +1,145 @@
+{
+  "id": "arabah",
+  "nombre": "Arabah",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 32.03,
+  "lng": 35.52,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Late Bronze - Roman"
+    }
+  ],
+  "descripcion_geo": "Tectonic depression that extends from the Galilee Sea to the Gulf of Aqaba, passing through the Dead Sea. Includes the Jordan Valley.",
+  "altitud_m": -400,
+  "clima": "arid-desert",
+  "recursos": [
+    "salt",
+    "copper minerals",
+    "grazing"
+  ],
+  "importancia_estrategica": "Palestine north-south corridor; caravan route and natural border between the West Bank and Transjordan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ara_h1",
+      "titulo": "Israel walks across the Arabah towards the Jordan",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "Israel marches across the Arabah from Sinai to the fields of Moab, where it will wait to cross the Jordan.",
+      "referencias": [
+        "Deut 1:1",
+        "Deut 2:8"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "ara_h2",
+      "titulo": "The last northern Israelites flee to the Arabah",
+      "fecha": "722 BC",
+      "descripcion": "After the fall of Samaria, groups of northern Israelites flee to the Arabah seeking to escape Assyrian deportation.",
+      "referencias": [
+        "2 Kgs 17:6"
+      ],
+      "personajes_clave": [
+        "supervivientes israelitas"
+      ]
+    },
+    {
+      "id": "ara_h3",
+      "titulo": "John the Baptist in Jordanian Arabah",
+      "fecha": "ca. 26-29 AD",
+      "descripcion": "John baptizes in Bethábara/Betania on the other side of the Jordan, in the Arabá area.",
+      "referencias": [
+        "John 1:28",
+        "John 3:23"
+      ],
+      "personajes_clave": [
+        "Juan el Bautista"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ara_p1",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He led Israel through the Arabah; the 'fields of Moab in the Arabah' were his final resting place.",
+      "referencias": [
+        "Deut 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p2",
+      "nombre": "John the Baptist",
+      "rol": "desert prophet",
+      "periodo": "ca. 5 BC–29 AD",
+      "descripcion": "He baptized in the Jordan in the Arabah area.",
+      "referencias": [
+        "John 1:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ara_p3",
+      "nombre": "Joshua",
+      "rol": "Conqueror",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He crossed the Arabá to begin the conquest of Canaan from the fields of Moab.",
+      "referencias": [
+        "Josh 3:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The great geographical corridor of the holy land; scene of the final exodus and the ministry of John the Baptist next to the Jordan.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "ara_m1",
+        "nombre": "The Exodus Corridor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The Arabah was the last leg of the pilgrimage: Israel traveled it before crossing the Jordan towards the promised land.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Arabah was the last leg of the pilgrimage: Israel traveled it before crossing the Jordan towards the promised land.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "John the Baptist baptized in the Jordanian Arabah: the new spiritual exodus of Israel.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "John the Baptist baptized in the Jordanian Arabah: the new spiritual exodus of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

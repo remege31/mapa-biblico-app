@@ -1,0 +1,145 @@
+{
+  "id": "tappuah",
+  "nombre": "Tapúa",
+  "tipo": "ciudad",
+  "lat": 32.11666666666667,
+  "lng": 35.23333333333333,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città al confine tra Efraim e Manasse"
+    }
+  ],
+  "descripcion_geo": "Città cananea della regione centrale Canaan, situata al confine tra i territori di Efraim e Manasse, il cui nome (“mela” o “regione delle mele”) suggerisce la fertilità agricola degli immediati dintorni.",
+  "altitud_m": 450,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici delle colline centrali di Canaan.",
+  "recursos": [
+    "Terre fertili (origine del nome, associato a mele o alberi da frutto)",
+    "Posizione di confine tra Efraim e Manasse"
+  ],
+  "importancia_estrategica": "Tapua esemplifica un caso particolare del sistema di assegnazione tribale: la città stessa appartiene a Manasse, ma il territorio circostante (la \"terra di Tapua\") è assegnato a Efraim, una situazione amministrativa complessa che riflette i necessari aggiustamenti territoriali tra tribù vicine con confini intrecciati nel centro di Canaan.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_tapua",
+      "nombre": "Cananei",
+      "descripcion": "Popolazione originaria di Tapúa, città il cui re figura tra quelli sconfitti da Giosuè nella lista delle conquiste di Canaan.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "efrainitas_manasitas_tapua",
+      "nombre": "Tribù di Efraim e Manasse",
+      "descripcion": "Popolazione israelita che complessivamente condivide il possesso di Tapua e del territorio circostante, con la città assegnata a Manasse ma il territorio adiacente a Efraim.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-derrota-rey-tapua",
+      "titulo": "Giosuè sconfigge il re di Tapúa",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Tapúa appare nell'elenco dei trentuno re Cananei sconfitti da Giosuè durante la conquista di Canaan, confermando il suo status di città-stato indipendente prima dell'occupazione israelita.",
+      "referencias": [
+        "Gs 12:17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "tapua-frontera-efrain-manases",
+      "titulo": "Tapúa al confine tra Efraim e Manasse",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Il libro di Giosuè specifica la particolare situazione di Tapua: la città appartiene a Manasse, ma il territorio di Tapua che la circonda è assegnato ai figli di Efraim, riflettendo i complessi aggiustamenti della distribuzione territoriale tra tribù vicine.",
+      "referencias": [
+        "Gs 16:8",
+        "Gs 17:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "tapua-limite-tribal-confirmado",
+      "titulo": "Tapúa si conferma punto di riferimento frontaliero",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "La città e il suo territorio sono menzionati ripetutamente nella descrizione dettagliata dei confini tribali centrali di Canaan, fungendo da punto di riferimento geografico stabile per definire il confine tra Efraim e Manasse.",
+      "referencias": [
+        "Gs 17:7-8"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_tapua",
+      "nombre": "Giosuè",
+      "rol": "Capo militare e organizzatore della distribuzione territoriale",
+      "periodo": "bronce_tardio",
+      "descripcion": "Sconfigge il re Cananeo di Tapúa e successivamente organizza la complessa ripartizione territoriale della città e dei suoi dintorni tra le tribù di Efraim e Manasse.",
+      "referencias": [
+        "Gs 12:17",
+        "Gs 16:8",
+        "Gs 17:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "efrainitas_tapua_personaje",
+      "nombre": "Tribù di Efraim",
+      "rol": "Proprietari della terra di Tapúa",
+      "periodo": "Desde c. 1200 a.C.",
+      "descripcion": "Riceve il territorio agricolo circostante Tapúa, anche se la città stessa è formalmente assegnata a Manasse, situazione particolare della distribuzione del confine.",
+      "referencias": [
+        "Gs 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "manasitas_tapua_personaje",
+      "nombre": "Tribù di Manasse",
+      "rol": "Proprietari della città di Tapúa",
+      "periodo": "Desde c. 1200 a.C.",
+      "descripcion": "Riceve la stessa città di Tapúa, sebbene i terreni agricoli circostanti appartengano a Efraim, un esempio dell'intreccio territoriale tra le due tribù sorelle.",
+      "referencias": [
+        "Gs 17:7-8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tapúa è priva di una propria narrativa o di uno sviluppo mitico; Il suo valore per il corpus biblico è esclusivamente geografico-amministrativo, illustrando la complessità pratica del sistema di distribuzione tribale in cui una città e il territorio circostante possono appartenere a tribù diverse, riflettendo gli aggiustamenti necessari per accogliere i limiti delle tribù sorelle (Efraim e Manasse, entrambi discendenti di Giuseppe) nella stessa regione geografica del centro di Canaan.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (substrato originale)"
+    ],
+    "mitos": [
+      {
+        "id": "frontera-compleja-tapua-tribus",
+        "nombre": "La complessità del confine di Tapúa tra tribù sorelle",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 16:8; Jos 17:7-8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la división detallada de territorios entre Efraín y Manasés, ambas tribus descendientes de José, como ejemplo de la precisión legal del sistema de reparto territorial mosaico",
+          "descripcion": "La tradizione ebraica osserva che la particolare situazione di Tapua – città di una tribù, territorio di un’altra – esemplifica la meticolosità del sistema legale di distribuzione territoriale stabilito da Giosuè, capace di accogliere complesse situazioni di confine tra tribù strettamente imparentate come Efraim e Manasse senza generare conflitti, attraverso una distribuzione attentamente differenziata del territorio urbano e agricolo.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La precisione amministrativa della distribuzione territoriale, anche in casi di frontiera complessi come Tapúa, riflette l’ordine e la giustizia con cui viene effettuata la distribuzione della terra promessa tra le tribù di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

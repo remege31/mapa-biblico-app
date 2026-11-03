@@ -1,0 +1,132 @@
+{
+  "id": "elim",
+  "nombre": "Delim",
+  "tipo": "ciudad",
+  "lat": 29.31,
+  "lng": 32.98,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Oasi nel deserto Sinai con dodici fontane d'acqua e settanta palme; La prima piacevole tappa di Israele dopo aver attraversato il Mar Rosso.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Oasi di riposo e di provvidenza divina nel deserto.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eli_h1",
+      "titulo": "Israele riposa in Elim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Dopo l'acqua amara di Marah, Israele arriva a Elim dove ci sono dodici fontane e settanta palme; Si accampano vicino alle acque.",
+      "referencias": [
+        "Es 15:27",
+        "Nm 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "eli_h2",
+      "titulo": "Le dodici fontane di Elim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Le dodici fontane di Elim corrispondono simbolicamente alle dodici tribù di Israele; L'oasi è un'anteprima della terra promessa.",
+      "referencias": [
+        "Es 15:27"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "eli_h3",
+      "titulo": "Elim: tappa del viaggio",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Elim era una delle stazioni sull'itinerario dell'esodo tra il Mar Rosso e l'Sinai.",
+      "referencias": [
+        "Nm 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eli_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condusse il popolo dall'amara Mara alla piacevole Elim in segno di provvedimento divino.",
+      "referencias": [
+        "Es 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p2",
+      "nombre": "Israeliti",
+      "rol": "Città dell'esodo",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Si riposarono ad Elim dopo il miracolo delle acque amare di Mara.",
+      "referencias": [
+        "Es 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p3",
+      "nombre": "Aronne",
+      "rol": "Sommo sacerdote",
+      "periodo": "ca. 1280-1220 a.C.",
+      "descripcion": "Ha camminato con Mosè e Israele attraverso il deserto fino a Elim.",
+      "referencias": [
+        "Es 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elim: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "eli_m1",
+        "nombre": "L'oasi del deserto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Elim, con le sue dodici fontane e settanta palme, è un anticipo della terra promessa: la provvidenza di Dio dona riposo lungo il cammino.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Elim, con le sue dodici fontane e settanta palme, è un anticipo della terra promessa: la provvidenza di Dio dona riposo lungo il cammino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

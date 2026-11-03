@@ -1,0 +1,158 @@
+{
+  "id": "succoth",
+  "nombre": "Sukkot",
+  "tipo": "ciudad",
+  "lat": 32.19998298531073,
+  "lng": 35.63331303389634,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Refusal to Gideon, subsequent punishment"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Bronze casting by Solomon"
+    }
+  ],
+  "descripcion_geo": "City in Gilead, east of the Jordan, whose name ('huts' or 'tents') commemorates the place where Jacob built temporary shelters for its livestock after separating from Esau. Later the scene of the rejection of help to Gideon and, centuries later, the bronze casting area for the Temple of Solomon.",
+  "altitud_m": 350,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead highlands.",
+  "recursos": [
+    "Cattle pastures (origin of the name, associated with Jacob shelters)",
+    "Clay soil suitable for bronze casting",
+    "Position in Gad territory"
+  ],
+  "importancia_estrategica": "Sukkot is the scene of one of the most severely punished episodes of lack of tribal solidarity in the entire period of the Judges: the refusal of their leaders to provide bread to Gideon's army during the persecution of the Midianite kings results in an exemplary punishment after the victory; Centuries later, the city regains relevance as a metallurgical foundry center for the objects of the Temple of Solomon.",
+  "otros_habitantes": [
+    {
+      "id": "gaditas_succoth",
+      "nombre": "Tribe of Gad",
+      "descripcion": "Israelite population of Sukkot, whose leaders refuse to provide food for Gideon's exhausted troops during their pursuit of the Midianite kings Zebah and Zalmunna.",
+      "religion": "Yahwism",
+      "periodo": "c. 1150–1130 BC"
+    },
+    {
+      "id": "fundidores_salomon_succoth",
+      "nombre": "Solomon Foundry Craftsmen",
+      "descripcion": "Workers specialized in metallurgy who use the clay soil of the region between Sukkot and Zaretan to cast the large bronze objects of the Temple of Solomon.",
+      "religion": "Yahwism (project) and Phoenician polytheism (technique)",
+      "periodo": "c. 960 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-cabanas-succoth",
+      "titulo": "Jacob builds huts on Sukkot",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "After his reconciliation with Esau, Jacob travels to Sukkot, where he builds a house for himself and shelters for his livestock, giving rise to the name of the place that commemorates these first temporary settlements after his return to Canaan.",
+      "referencias": [
+        "Gen 33:17"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "sucot-rechaza-gedeon",
+      "titulo": "Sukkot leaders refuse to help Gideon",
+      "fecha": "c. 1130 BC",
+      "descripcion": "During the persecution of the Midianite kings Zebah and Zalmunna, Gideon asks for bread for his exhausted men at Sukkot, but the city leaders mockingly refuse, questioning whether he already has the captured kings in his possession; Gideon warns that he will punish his refusal when he returns victorious.",
+      "referencias": [
+        "Judg 8:4-7"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-castiga-sucot",
+      "titulo": "Gideon punishes the men of Sukkot",
+      "fecha": "c. 1130 BC",
+      "descripcion": "After capturing Zebah and Zalmunna, Gideon returns to Sukkot and fulfills his warning: he punishes the seventy-seven elders of the city with thorns and thistles from the desert, a severe example of the consequences of denying solidarity to the troops fighting for the common liberation of Israel.",
+      "referencias": [
+        "Judg 8:13-16"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_succoth",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "bronce_medio",
+      "descripcion": "He builds the first temporary shelters in Sukkot after his reconciliation with Esau, giving its name to the place at the beginning of his gradual settlement back in Canaan.",
+      "referencias": [
+        "Gen 33:17"
+      ],
+      "ruta": [
+        "peniel",
+        "succoth"
+      ]
+    },
+    {
+      "id": "gedeon_succoth",
+      "nombre": "Gideon",
+      "rol": "Israel Judge",
+      "periodo": "hierro_1",
+      "descripcion": "He severely punishes the Sukkot chiefs for refusing to support his troops during the decisive persecution of the Midianite kings, an episode that illustrates the consequences of the lack of tribal solidarity in times of common military need.",
+      "referencias": [
+        "Judg 8:4-7",
+        "Judg 8:13-16"
+      ],
+      "ruta": [
+        "succoth"
+      ]
+    },
+    {
+      "id": "ancianos_sucot",
+      "nombre": "Seventy-seven elders of Sukkot",
+      "rol": "Local leaders punished by Gideon",
+      "periodo": "c. 1130 BC",
+      "descripcion": "They initially refuse to help Gideon's troops, a decision that brings them an exemplary punishment after the judge's victory over the Midianite kings.",
+      "referencias": [
+        "Judg 8:14-16"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sukkot illustrates the theological principle of shared tribal responsibility in the common struggle of Israel: the refusal of its chiefs to provide material support to the troops fighting for the liberation of all the people is punished with exemplary severity, establishing the precedent that intertribal solidarity in holy war is not optional but required, in contrast to the previous peaceful ideal of hospitality established by Jacob in the same place generations before.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "castigo-falta-solidaridad-sucot",
+        "nombre": "Gideon's punishment as a warning about tribal solidarity",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 8:4-7; Jue 8:13-16",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la responsabilidad colectiva de Israel ('kol Israel arevim zeh lazeh', todo Israel es responsable unos de otros) aplicada al episodio de Sucot",
+          "descripcion": "Jewish tradition connects Gideon's severe punishment of the Sukkot chiefs to the broader principle of collective responsibility among the tribes of Israel, interpreting the refusal of aid in a time of shared military need as a grave breach against the fundamental solidarity that should unite all tribes in the common defense of the people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode establishes that the refusal to support the common cause of liberation of Israel constitutes a serious breach against the principle of mutual responsibility between tribes.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

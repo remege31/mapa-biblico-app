@@ -1,0 +1,134 @@
+{
+  "id": "dedan",
+  "nombre": "Dedan",
+  "tipo": "territorio",
+  "lat": 26.63,
+  "lng": 37.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Oasis and caravan city in northwestern Saudi Arabia (present-day Al-'Ula). Center of the incense trade between Arabia and the Mediterranean.",
+  "altitud_m": 800,
+  "clima": "arid",
+  "recursos": [
+    "incense",
+    "caravan trade",
+    "dates"
+  ],
+  "importancia_estrategica": "Key knot of the incense route; The prophets mention it as a commercial power in the south.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ded_h1",
+      "titulo": "The Dedanites: Caravan Traders",
+      "fecha": "ca. 600-550 BC",
+      "descripcion": "Ezekiel mentions the Dedanites as merchants who supply Tyre with chairs and rugs.",
+      "referencias": [
+        "Ezek 27:15,20"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "ded_h2",
+      "titulo": "Jeremiah prophesies against Dedan",
+      "fecha": "ca. 600 BC",
+      "descripcion": "Jeremiah includes Dedan in the oracles against the Arab nations who will drink the cup of divine judgment.",
+      "referencias": [
+        "Jer 25:23",
+        "Jer 49:8"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "ded_h3",
+      "titulo": "Isaiah and the caravans of Dedan",
+      "fecha": "ca. 740-700 BC",
+      "descripcion": "Isaiah mentions the caravans of Dedan that take refuge in the forests of Arabia fleeing from the enemy.",
+      "referencias": [
+        "Isa 21:13"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ded_p1",
+      "nombre": "Ezekiel",
+      "rol": "Prophet",
+      "periodo": "593-571 BC",
+      "descripcion": "He mentioned Dedán products in the Tyre trade description.",
+      "referencias": [
+        "Ezek 27:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p2",
+      "nombre": "Jeremiah",
+      "rol": "Prophet",
+      "periodo": "627-586 BC",
+      "descripcion": "He pronounced an oracle against Dedan in the judgments on the nations.",
+      "referencias": [
+        "Jer 49:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ded_p3",
+      "nombre": "Isaiah",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "He described the fleeing Dedanite caravans as a sign of judgment on Arabia.",
+      "referencias": [
+        "Isa 21:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Dedan: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "ded_m1",
+        "nombre": "The routes of incense",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dedan was the main junction of the incense route in Arabia; the prophets use it as a symbol of luxury and commerce that will also fall under divine judgment.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dedan was the main junction of the incense route in Arabia; the prophets use it as a symbol of luxury and commerce that will also fall under divine judgment.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "berea",
+  "nombre": "Berea",
+  "tipo": "ciudad",
+  "lat": 40.52,
+  "lng": 22.2,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città ai piedi del monte Bermio in Macedonia, a sud della Via Egnatia.",
+  "altitud_m": 70,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "agricoltura",
+    "legna",
+    "marmo"
+  ],
+  "importancia_estrategica": "Tranquilla città della Macedonia, nota per la disponibilità dei suoi abitanti al Vangelo.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ber_h1",
+        "titulo": "I Berean e le Scritture",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "I bereani accolgono il messaggio con entusiasmo ed esaminano quotidianamente le Scritture.",
+        "referencias": [
+          "At 17:10-12"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas"
+        ]
+      },
+      {
+        "id": "ber_h2",
+        "titulo": "Disgregazione degli ebrei da Salonicco",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Gli ebrei di Salonicco arrivano a Berea e agitano il popolo; Paolo viene inviato in mare.",
+        "referencias": [
+          "At 17:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "ber_h3",
+        "titulo": "Sopatro di Berea",
+        "fecha": "ca. 57 d.C.",
+        "descripcion": "Sopatro, figlio di Pirro di Berea, accompagna Paolo nel suo viaggio verso Gerusalemme.",
+        "referencias": [
+          "At 20:4"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Sópater"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ber_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Predicò brevemente a Berea prima di partire per Atene.",
+        "referencias": [
+          "At 17:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ber_p2",
+        "nombre": "silas",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Rimase a Berea mentre Paolo avanzava verso Atene.",
+        "referencias": [
+          "At 17:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ber_p3",
+        "nombre": "Sopater",
+        "rol": "Paolo Collaboratore",
+        "periodo": "s. I d.C.",
+        "descripcion": "Bereano che ha accompagnato Paolo nel suo ultimo viaggio a Gerusalemme.",
+        "referencias": [
+          "At 20:4"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La città più 'nobile' del cammino paolino: i suoi abitanti verificarono gli insegnamenti con le Scritture.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "greco_roman_paganesimo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ber_m1",
+          "nombre": "La biblica nobiltà bereana",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "I bereani sono elogiati per aver esaminato le Scritture per verificare gli insegnamenti di Paolo: Modello di Discernimento Cristiano.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "I bereani sono elogiati per aver esaminato le Scritture per verificare gli insegnamenti di Paolo: Modello di Discernimento Cristiano.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

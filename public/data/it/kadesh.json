@@ -1,0 +1,150 @@
+{
+  "id": "kadesh",
+  "nombre": "Kades (Barnea)",
+  "tipo": "ciudad",
+  "lat": 30.69,
+  "lng": 34.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 27,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -1200,
+      "nombre": "bronzo tardo"
+    }
+  ],
+  "descripcion_geo": "Oasi nel deserto di Zin, a sud di Negev. Il campo principale di Israele durante il pellegrinaggio nel deserto.",
+  "altitud_m": 280,
+  "clima": "arido",
+  "recursos": [
+    "acqua di sorgente",
+    "pascolo"
+  ],
+  "importancia_estrategica": "Base operativa di Israele nel deserto per quasi quarant'anni; punto di partenza delle spie inviate a Canaan.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kad_h1",
+      "titulo": "Le dodici spie inviate da Kades",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Mosè invia dodici spie da Kades in ricognizione Canaan; Dieci portano un resoconto negativo e la gente si dispera.",
+      "referencias": [
+        "Nm 13:17-33"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Caleb",
+        "Josué"
+      ]
+    },
+    {
+      "id": "kad_h2",
+      "titulo": "L'acqua di Meribah in Kades",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Il popolo mormora per la mancanza d'acqua; Mosè colpisce la roccia invece di parlarle e Dio gli proibisce di entrare in Canaan.",
+      "referencias": [
+        "Nm 20:1-13"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón"
+      ]
+    },
+    {
+      "id": "kad_h3",
+      "titulo": "La morte di Miriam in Kades",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Miriam, sorella di Mosè e profetessa di Israele, muore e viene sepolta in Kades.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kad_p1",
+      "nombre": "Mosè",
+      "rol": "Liberatore e legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "In Kades ha commesso l'errore che gli ha impedito di entrare in Canaan; Qui trascorse anni di pellegrinaggio.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p2",
+      "nombre": "Miriam",
+      "rol": "Profetessa e sorella di Mosè",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Morì e fu sepolta a Kades; Ha guidato il canto della vittoria dopo aver attraversato il Mar Rosso.",
+      "referencias": [
+        "Nm 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kad_p3",
+      "nombre": "Caleb",
+      "rol": "fedele esploratore",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Una delle due spie che confidarono in Dio al ritorno dall'esplorazione di Canaan da Kades.",
+      "referencias": [
+        "Nm 13:30"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Oasi nel deserto dove Israele trascorse gran parte dei suoi quarant'anni di pellegrinaggio; luogo di fallimenti e fedeltà.",
+    "religiones_presentes": [
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "kad_m1",
+        "nombre": "acqua di roccia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Dio fa sgorgare l'acqua dalla roccia del deserto (Es 17 e Nm 20); simbolo della provvidenza divina nell'aridità.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dio fa sgorgare l'acqua dalla roccia del deserto (Es 17 e Nm 20); simbolo della provvidenza divina nell'aridità.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Paolo interpreta la roccia nel deserto come figura di Cristo: «la roccia era Cristo» (1 Cor 10,4).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Paolo interpreta la roccia nel deserto come figura di Cristo: «la roccia era Cristo» (1 Cor 10,4).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "Il miracolo dell'acqua nel deserto appare anche nella tradizione islamica su Musa (Mosè).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il miracolo dell'acqua nel deserto appare anche nella tradizione islamica su Musa (Mosè).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

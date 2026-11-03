@@ -1,0 +1,132 @@
+{
+  "id": "elim",
+  "nombre": "Elim",
+  "tipo": "ciudad",
+  "lat": 29.31,
+  "lng": 32.98,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Oasis en el desierto del Sinaí con doce fuentes de agua y setenta palmeras; primera parada grata de Israel tras cruzar el Mar Rojo.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Oasis de descanso y provisión divina en el desierto.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eli_h1",
+      "titulo": "Israel descansa en Elim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Después de la amarga agua de Mara, Israel llega a Elim donde hay doce fuentes y setenta palmeras; acampan junto a las aguas.",
+      "referencias": [
+        "Ex 15:27",
+        "Nm 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "eli_h2",
+      "titulo": "Las doce fuentes de Elim",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Las doce fuentes de Elim corresponden simbólicamente a las doce tribus de Israel; el oasis es un anticipo de la tierra prometida.",
+      "referencias": [
+        "Ex 15:27"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "eli_h3",
+      "titulo": "Elim: escala en la travesía",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Elim fue una de las estaciones del itinerario del éxodo entre el Mar Rojo y el Sinaí.",
+      "referencias": [
+        "Nm 33:9"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eli_p1",
+      "nombre": "Moisés",
+      "rol": "Libertador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Condujo al pueblo del amargo Mara al grato Elim como señal de la provisión divina.",
+      "referencias": [
+        "Ex 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p2",
+      "nombre": "israelitas",
+      "rol": "Pueblo del éxodo",
+      "periodo": "ca. 1260 a.C.",
+      "descripcion": "Descansaron en Elim después del milagro de las aguas amargas de Mara.",
+      "referencias": [
+        "Ex 15:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eli_p3",
+      "nombre": "Aarón",
+      "rol": "Sumo sacerdote",
+      "periodo": "ca. 1280-1220 a.C.",
+      "descripcion": "Caminó con Moisés e Israel por el desierto hasta Elim.",
+      "referencias": [
+        "Ex 15:27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elim: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "eli_m1",
+        "nombre": "El oasis del desierto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Elim, con sus doce fuentes y setenta palmeras, es anticipo de la tierra prometida: la providencia de Dios da descanso en el camino.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Elim, con sus doce fuentes y setenta palmeras, es anticipo de la tierra prometida: la providencia de Dios da descanso en el camino.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

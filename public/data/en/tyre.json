@@ -1,0 +1,319 @@
+{
+  "id": "tyre",
+  "nombre": "Tyre",
+  "tipo": "ciudad",
+  "lat": 33.2705,
+  "lng": 35.1966,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 43,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Phoenician port established"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Commercial metropolis of the Mediterranean"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Resistance to Babylonian rule"
+    }
+  ],
+  "descripcion_geo": "Tyre (today South, Lebanon) was originally an island about 600 meters off the Mediterranean coast of Phoenicia, 35 km south of Sidon. Its natural insularity made it practically impregnable for land armies and allowed it to control maritime trade with complete security. Alexander the Great finally connected it to the mainland in 332 BC. building a causeway, turning the island into the peninsula it is today.",
+  "altitud_m": 2,
+  "clima": "Coastal Mediterranean — soft and humid. Precipitation of 600-800 mm annually. The island position moderated extreme temperatures and guaranteed rainwater for cisterns.",
+  "recursos": [
+    "Island port (the safest in the eastern Mediterranean)",
+    "Murex purple (the most expensive dye in ancient times)",
+    "Cedars of Lebanon (trade and export)",
+    "Glass (Phoenician crafts for export)",
+    "Trading colonies throughout the Mediterranean (Carthage was a colony of Tyre)"
+  ],
+  "importancia_estrategica": "The richest and most powerful city in Phoenicia on Iron II. Its network of colonies reached Carthage (Tunisia), Gades (Cádiz) and Malta. He resisted the siege of Nebuchadnezzar II for thirteen years without surrendering (585-573 BC) and another seven months that of Alexander the Great (332 BC). The prophecy of Ezekiel against Tyre (chs. 26-28) is the most extensive prophetic oracle against a foreign city in the OT.",
+  "otros_habitantes": [
+    {
+      "id": "fenicios-tiro",
+      "nombre": "Tyrian Phoenicians",
+      "descripcion": "The Tyrians were the commercial elite of the ancient world. Their cedar ships with pine keels and oak oars (Ez 27:5-6) reached Tartessos (Spain) and possibly the coasts of West Africa. Carthage, its most famous colony, rivaled Rome for centuries. The Phoenician alphabet they invented was adopted by Greeks, Arabs, and ultimately all Western writing systems.",
+      "religion": "Phoenician polytheism — cult of Melqart (patron god of Tyre, identified with Hercules), Baal and Astarte",
+      "periodo": "c. 1000 BC onwards"
+    },
+    {
+      "id": "hiram-tiro",
+      "nombre": "Court of King Hiram I",
+      "descripcion": "Hiram I of Tyre (c. 980-947 BC) was an ally of both David and Solomon. He provided cedars from Lebanon for the palace of David and for the Temple of Solomon, receiving in return twenty cities in Galilee and wheat and oil for his court. The Bible describes him as a personal friend of both kings. His carpenter-teacher Hiram-Abif cast the bronze elements of the Temple.",
+      "religion": "Phoenician polytheism — cult of Melqart as patron god of the city and navigation",
+      "periodo": "c. 980–947 BC"
+    },
+    {
+      "id": "tiro-resistencia",
+      "nombre": "Tyre under siege",
+      "descripcion": "Tyre resisted the siege of Nebuchadnezzar II for thirteen years (585-573 BC) without completely surrendering. The island city was inaccessible to land armies. Ezekiel prophesied the total destruction of Tyre, which led to later debates when the prophecy was not fulfilled with the expected accuracy (Ez 29:17-20 implicitly revises the oracle). Alexander the Great completed what Nebuchadnezzar could not: he built a causeway and destroyed the city in 332 BC.",
+      "religion": "Phoenician polytheism under pressure — Tyre resistance was also religious resistance to foreign rule",
+      "periodo": "c. 585–573 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "hiram-salomon",
+      "titulo": "Hiram and Solomon: the alliance that built the Temple",
+      "fecha": "c. 970 BC",
+      "descripcion": "The alliance between Solomon and Hiram I of Tyre was the most productive in Israelite history in material terms. Hiram provided cedars and cypresses from Lebanon, specialized craftsmen, and his teacher Hiram-Abif to cast the columns and bronze sea of ​​the Temple. In exchange, Solomon gave up twenty cities in Galilee, delivered 20,000 coros of wheat and 20,000 batos of oil annually. Hiram inspected the cities and was dissatisfied, calling them the land of Cabul (worthless). The relationship, however, was one of lasting friendship.",
+      "referencias": [
+        "1 Kgs 5:1-18",
+        "1 Kgs 7:13-51",
+        "1 Kgs 9:10-14",
+        "2 Chr 2:1-16"
+      ],
+      "personajes_clave": [
+        "salomon",
+        "hiram"
+      ]
+    },
+    {
+      "id": "ezequiel-tiro",
+      "titulo": "The oracle of Ezekiel against Tyre: the king who believed himself to be a god",
+      "fecha": "c. 587 BC",
+      "descripcion": "Ezekiel devoted three entire chapters to the prophecy against Tyre (Ez 26-28), the most extensive prophetic oracle against a foreign nation in the OT. Chapter 27 is a dirge of extraordinary beauty, describing Tyre as a perfect ship built from the finest materials of the ancient world. Chapter 28 directs an oracle against the prince of Tyre who believed himself to be a god: You are a man and not a god, although you believe yourself to be as wise as a god. This text is frequently cited in tradition as a reference to the fall of Satan.",
+      "referencias": [
+        "Ezek 26:1-21",
+        "Ezek 27:1-36",
+        "Ezek 28:1-19"
+      ],
+      "personajes_clave": [
+        "ezequiel-profeta"
+      ]
+    },
+    {
+      "id": "amos-tiro",
+      "titulo": "The judgment of Amos on Tyre: the betrayal of the brother",
+      "fecha": "c. 760 BC",
+      "descripcion": "In his oracles against the nations, Amos accused Tyre of having handed over an entire community of slaves to Edom, without remembering the covenant of brotherhood. This oracle is the first biblical text that condemns the slave trade as an international crime, applying divine justice to nations that are not part of the people of Israel. Tyre was the main slave market in the eastern Mediterranean.",
+      "referencias": [
+        "Amos 1:9-10"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "hiram-i",
+      "nombre": "Hiram I by Tyre",
+      "rol": "Phoenician king allied to David and Solomon",
+      "periodo": "hierro_2",
+      "descripcion": "The most famous king of Tyre, personal ally of David and Solomon. He provided the materials and craftsmen that made the palace of David and the Temple of Solomon possible. The trade alliance was mutually beneficial: Tyre gained wheat, oil, and cities; Israel obtained cedars, copper and craftsmanship. The Bible describes him respectfully, without the usual religious condemnations for foreign kings.",
+      "referencias": [
+        "2 Sam 5:11",
+        "1 Kgs 5:1-18",
+        "1 Kgs 9:10-14"
+      ],
+      "ruta": [
+        "tyre",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ezequiel-profeta",
+      "nombre": "Ezekiel",
+      "rol": "Visionary prophet of exile, author of the oracle against Tyre",
+      "periodo": "hierro_2",
+      "descripcion": "A priest deported to Babylon, Ezekiel dedicated his most literary oracles to Tyre. The dirge of chapter 27—with its list of nations and trading products—is one of the richest documents on ancient Mediterranean trade. His oracle against the prince of Tyre who believed himself to be a god influenced the tradition of the fall of Satan in late Judaism and Christianity.",
+      "referencias": [
+        "Ezek 26:1-28:26",
+        "Ezek 37:1-14",
+        "Ezek 40:1-4"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    },
+    {
+      "id": "amos-tiro-pj",
+      "nombre": "Amos of Tekoa",
+      "rol": "Prophet condemning the slave trade by Tyre",
+      "periodo": "hierro_2",
+      "descripcion": "In his international oracles, Amos accused Tyre of enslaving entire communities in violation of the covenant of brotherhood. This oracle, very brief but devastating, applies Yahwist ethics to international relations and commerce: no nation, even if it does not know YHWH, can break human brotherhood without consequences. It is the first biblical condemnation of human trafficking as an international crime.",
+      "referencias": [
+        "Amos 1:1",
+        "Amos 1:9-10",
+        "Amos 7:10-17"
+      ],
+      "ruta": [
+        "bethel",
+        "samaria"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tyre is the biblical embodiment of wealth, power and human pride that rises to believe it is divine. Chapters 26-28 of Ezekiel are the great biblical poem about the fall of pride: the perfect ship that sinks, the king who believed himself to be god and is thrown into the abyss. At the same time, Tyre was an indispensable ally for the construction of the Temple of Jerusalem, contributing the noblest materials to the house of YHWH. This tension—Tyre as builder and destroyer, as ally and rival—runs through the entire biblical theology of nations.",
+    "religiones_presentes": [
+      "Phoenician polytheism (cult of Melqart, Baal, Astarte)",
+      "Contact with Yahwism (alliance with Israel, Temple materials)"
+    ],
+    "mitos": [
+      {
+        "id": "principe-tiro-dios",
+        "nombre": "The prince of Tyre who thought he was god",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ezequiel 28:1-19",
+          "fuente_secundaria": "Midrash sobre Ezequiel; comentario de Rashi a Ez 28",
+          "descripcion": "The oracle of Ezekiel describes a perfectly wise and beautiful being, covered in precious stones, who dwelt on the holy mountain of God, until the injustice found in him led to his expulsion. Medieval commentators debate whether this is the historical king of Tyre or a primordial mythical figure.",
+          "similitudes": "The perfect being expelled from the divine garden has parallels in the myth of the Babylonian Adapa and in the story of Eden.",
+          "diferencias": "The biblical text applies the myth to a specific historical king, politicizing the mythical language.",
+          "significado_teologico": "No human power, however rich and wise, can take the place of God. Pride that rises to the divine inevitably leads to a fall.",
+          "posible_relacion_cultural": "The garden of God with stones of fire mentioned in Ez 28 has parallels in the mythology of the cosmic mountain (Zaphon) of Ugarit."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ezequiel 28:12-19; Isaías 14:12-15",
+          "fuente_secundaria": "Orígenes, Peri Archon I.5; Agustín, Ciudad de Dios XI.15; Tertuliano, Adversus Marcionem",
+          "descripcion": "The Church Fathers interpreted the oracle against the king of Tyre (Ez 28) and the oracle against the king of Babylon (Is 14, Lucifer/morning star) as descriptions of the fall of Satan before creation. This reading, which is not in the original Hebrew text, became the standard explanation of the origin of evil in the Christian tradition.",
+          "similitudes": "The luminous being expelled from the divine mountain is the shared image.",
+          "diferencias": "Christian exegesis transposes the historical-political text to a pre-temporal cosmic drama; Rabbinic Judaism maintains it on the historical level.",
+          "significado_teologico": "Pride is Satan's original sin and the origin of all evil: wanting to be like God.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio",
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tir_nt_h1",
+        "titulo": "The Syrophoenician Woman",
+        "fecha": "ca. 29 AD",
+        "descripcion": "A Greek woman from the Tyre region insists on asking for her daughter's healing; Jesus praises her for her faith.",
+        "referencias": [
+          "Matt 15:21-28",
+          "Mark 7:24-30"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "mujer sirofeniciana"
+        ]
+      },
+      {
+        "id": "tir_nt_h2",
+        "titulo": "Multitudes of Tyre and Sidon follow Jesus",
+        "fecha": "ca. 28 AD",
+        "descripcion": "Large crowds of Tyre and Sidon come to listen to Jesus and be healed.",
+        "referencias": [
+          "Mark 3:8",
+          "Luke 6:17"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "tir_nt_h3",
+        "titulo": "Paul stops at Tyre",
+        "fecha": "ca. 57 AD",
+        "descripcion": "Paul and his companions stay seven days in Tyre; The disciples warn him by the Spirit not to go up to Jerusalem.",
+        "referencias": [
+          "Acts 21:3-6"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tir_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah extending grace to Gentiles",
+        "periodo": "ca. 29 AD",
+        "descripcion": "He traveled to the region of Tyre, Gentile territory, where he healed the daughter of the Syrophoenician woman.",
+        "referencias": [
+          "Matt 15:21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tir_nt_p2",
+        "nombre": "The Syrophoenician Woman",
+        "rol": "Gentile of great faith",
+        "periodo": "s. I AD",
+        "descripcion": "His persistence caused Jesus to extend the healing beyond Israel.",
+        "referencias": [
+          "Mark 7:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tir_nt_p3",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "You visited Tyre on your last trip to Jerusalem; He found a Christian community there.",
+        "referencias": [
+          "Acts 21:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Phoenician city with a long commercial history; in the NT, Gentile land where the gospel crossed the borders of Israel.",
+      "religiones_presentes": [
+        "Roman_Phoenician_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tir_nt_m1",
+          "nombre": "The Faith of the Gentile",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Tyre was condemned by the AT prophets (Ez 26-28; Is 23) for her pride.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Tyre was condemned by the AT prophets (Ez 26-28; Is 23) for her pride.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus visits the region of Tyre and finds there the greatest faith among the Gentiles, reversing the prophetic judgment.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus visits the region of Tyre and finds there the greatest faith among the Gentiles, reversing the prophetic judgment.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

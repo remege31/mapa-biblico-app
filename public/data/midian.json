@@ -1,0 +1,153 @@
+{
+  "id": "midian",
+  "nombre": "Madián",
+  "tipo": "territorio",
+  "lat": 28.93,
+  "lng": 34.91,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 64,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -900,
+      "nombre": "Bronce tardío - Hierro I"
+    }
+  ],
+  "descripcion_geo": "Región al este del golfo de Aqaba, en la actual Arabia Saudita. Tierra de los descendientes de Madián, hijo de Abraham y Quetura.",
+  "altitud_m": 800,
+  "clima": "árido-desértico",
+  "recursos": [
+    "comercio caravanero",
+    "ganadería"
+  ],
+  "importancia_estrategica": "Tierra de paso de caravanas entre Arabia y Egipto; lugar del llamado de Moisés.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mad_h1",
+      "titulo": "Moisés en Madián y la zarza ardiente",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "Moisés huye de Egipto a Madián, se casa con Séfora hija de Jetró y recibe la revelación de Dios en la zarza ardiente.",
+      "referencias": [
+        "Ex 2:15-3:15"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jetró",
+        "Séfora"
+      ]
+    },
+    {
+      "id": "mad_h2",
+      "titulo": "Las siete hijas de Jetró",
+      "fecha": "ca. 1280 a.C.",
+      "descripcion": "Moisés ayuda a las hijas del sacerdote de Madián en el pozo y es invitado a quedarse; toma a Séfora por esposa.",
+      "referencias": [
+        "Ex 2:16-22"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Séfora",
+        "Jetró"
+      ]
+    },
+    {
+      "id": "mad_h3",
+      "titulo": "La opresión madianita y Gedeón",
+      "fecha": "ca. 1150 a.C.",
+      "descripcion": "Los madianitas oprimen a Israel durante siete años; Gedeón con 300 hombres derrota al ejército madianita.",
+      "referencias": [
+        "Jue 6-8"
+      ],
+      "personajes_clave": [
+        "Gedeón",
+        "ángel del Señor"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mad_p1",
+      "nombre": "Jetró",
+      "rol": "Sacerdote de Madián",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Suegro de Moisés; enseñó a Moisés a delegar el juicio sobre el pueblo.",
+      "referencias": [
+        "Ex 18:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p2",
+      "nombre": "Séfora",
+      "rol": "Esposa de Moisés",
+      "periodo": "ca. 1280 a.C.",
+      "descripcion": "Hija de Jetró; esposa de Moisés y madre de sus hijos.",
+      "referencias": [
+        "Ex 2:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mad_p3",
+      "nombre": "Gedeón",
+      "rol": "Juez de Israel",
+      "periodo": "ca. 1150 a.C.",
+      "descripcion": "Liberó a Israel de la opresión madianita con 300 hombres y antorchas en cántaros.",
+      "referencias": [
+        "Jue 6:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tierra de pastores y caravanas donde Moisés encontró a Dios en la zarza ardiente; el sacerdote Jetró adoraba al Dios Altísimo.",
+    "religiones_presentes": [
+      "paganismo_madianita",
+      "culto_preisraelita"
+    ],
+    "mitos": [
+      {
+        "id": "mad_m1",
+        "nombre": "La zarza que arde sin consumirse",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Ex 3:14",
+          "fuente_secundaria": "",
+          "descripcion": "Moisés ve la zarza ardiente en Madián: Dios se revela como el 'Yo soy el que soy' (Ex 3:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moisés ve la zarza ardiente en Madián: Dios se revela como el 'Yo soy el que soy' (Ex 3:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La zarza ardiente es símbolo de la presencia de Dios que se revela sin consumir lo que toca.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La zarza ardiente es símbolo de la presencia de Dios que se revela sin consumir lo que toca.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 28:29-35",
+          "fuente_secundaria": "",
+          "descripcion": "Moisés (Musa) es profeta mayor en el Islam; su llamado en el Sinaí/Madián es mencionado en el Corán (Cor 28:29-35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Moisés (Musa) es profeta mayor en el Islam; su llamado en el Sinaí/Madián es mencionado en el Corán (Cor 28:29-35).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

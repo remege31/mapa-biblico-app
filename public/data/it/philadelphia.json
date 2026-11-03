@@ -1,0 +1,145 @@
+{
+  "id": "philadelphia",
+  "nombre": "Filadelfia",
+  "tipo": "ciudad",
+  "lat": 38.3552,
+  "lng": 28.5178,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città fondata da Attalo II di Pergamo al confine tra Lidia e Frigia, ai margini dell'altopiano.",
+  "altitud_m": 290,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "viticoltura",
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Porta dell'altopiano frigio; città dai frequenti terremoti.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phi_h1",
+        "titulo": "Lettera alla chiesa di Filadelfia",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo si congratula con la chiesa di Filadelfia senza rimprovero; Promette una porta aperta.",
+        "referencias": [
+          "Ap 3:7-13"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "phi_h2",
+        "titulo": "La porta che nessuno può chiudere",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo ha la chiave di Davide e apre le porte; Promette di far prostrare gli avversari.",
+        "referencias": [
+          "Ap 3:7-9"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "phi_h3",
+        "titulo": "Salvato nel test",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo promette di salvare i fedeli di Filadelfia nell'ora della prova universale.",
+        "referencias": [
+          "Ap 3:10"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phi_p1",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta dell'Apocalisse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Trasmette a Filadelfia l'unico messaggio irreprensibile del Cristo glorioso.",
+        "referencias": [
+          "Ap 3:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi_p2",
+        "nombre": "Attalo II Filadelfo",
+        "rol": "Re di Pergamo, fondatore",
+        "periodo": "159-138 a.C.",
+        "descripcion": "Fondò la città e le diede il suo nome (\"amore fraterno\").",
+        "referencias": [
+          "Historia helenística"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi_p3",
+        "nombre": "Ignazio di Antiochia",
+        "rol": "Vescovo e martire",
+        "periodo": "ca. 35-110 d.C.",
+        "descripcion": "Scrisse una lettera alla chiesa di Filadelfia mentre veniva trasferito a Roma.",
+        "referencias": [
+          "Cartas de Ignacio"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città missionaria presso la porta frigia; la sua chiesa ricevette l'elogio irreprensibile dell'Apocalisse.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "phi_m1",
+          "nombre": "La porta aperta",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Cristo promette a Filadelfia una \"porta aperta\" che nessuno può chiudere, simbolo di opportunità missionaria e protezione divina.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Cristo promette a Filadelfia una \"porta aperta\" che nessuno può chiudere, simbolo di opportunità missionaria e protezione divina.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

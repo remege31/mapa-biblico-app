@@ -1,0 +1,132 @@
+{
+  "id": "tubal",
+  "nombre": "tubal",
+  "tipo": "territorio",
+  "lat": 40.91,
+  "lng": 37.8,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Northern town mentioned alongside Meshech and Gog; identified with Anatolian or Caucasus populations.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Northern people in the eschatological oracles of Ezekiel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tub_h1",
+      "titulo": "Tubal in the table of nations",
+      "fecha": "ca. s. V BC",
+      "descripcion": "Tubal is the son of Japheth along with Meshech; They represent people from the north of the known biblical world.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "tub_h2",
+      "titulo": "Tubal: slave trader in Tyre",
+      "fecha": "ca. 593-571 BC",
+      "descripcion": "Ezekiel describes how Tubal and Meshech traded slaves and bronze vessels with Tyre.",
+      "referencias": [
+        "Ezek 27:13"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "tub_h3",
+      "titulo": "Tubal in Gog's coalition",
+      "fecha": "ca. 593-571 BC",
+      "descripcion": "Gog is prince of Meshech and Tubal in the eschatological prophecy of Ezekiel.",
+      "referencias": [
+        "Ezek 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tub_p1",
+      "nombre": "Ezekiel",
+      "rol": "Prophet",
+      "periodo": "593-571 BC",
+      "descripcion": "He mentioned Tubal as part of Gog's eschatological army.",
+      "referencias": [
+        "Ezek 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p2",
+      "nombre": "Japheth",
+      "rol": "Son of Noah",
+      "periodo": "ca. s. V BC",
+      "descripcion": "Father of Tubal in the table of nations; progenitor of the northern peoples.",
+      "referencias": [
+        "Gen 10:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p3",
+      "nombre": "Isaiah",
+      "rol": "Prophet",
+      "periodo": "ca. 740-700 BC",
+      "descripcion": "He prophesied that in the last days God will send messengers to Tubal to announce his glory.",
+      "referencias": [
+        "Isa 66:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tubal: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "tub_m1",
+        "nombre": "The towns of the extreme north",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Tubal and Meshech represent the northern limits of the known world; in the eschatological oracles, they attack Israel but are destroyed by God.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tubal and Meshech represent the northern limits of the known world; in the eschatological oracles, they attack Israel but are destroyed by God.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

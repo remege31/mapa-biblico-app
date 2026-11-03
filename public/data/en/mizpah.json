@@ -1,0 +1,187 @@
+{
+  "id": "mizpah",
+  "nombre": "Mizpah",
+  "tipo": "ciudad",
+  "lat": 31.8327,
+  "lng": 35.1802,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 47,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I—Benjamin Tribal Center"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Judah Kingdom Fortress"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Capital of the province of Judah after the destruction of Jerusalem"
+    }
+  ],
+  "descripcion_geo": "Mizpah of Benjamin (identified with Tell en-Nasbeh, about 12 km north of Jerusalem) was a watchtower city in the tribe of Benjamin. Its name means watchtower or place of watch. Situated on an elevated point with visibility over the main routes to Jerusalem from the north, the city was of continuing strategic importance. Following the destruction of Jerusalem in 586 BC, it was the only major Benjaminite city to survive relatively intact.",
+  "altitud_m": 895,
+  "clima": "Mountain Mediterranean — similar to Jerusalem, with annual rainfall of 500-600 mm. Elevated position with good strategic visibility in all directions.",
+  "recursos": [
+    "Water (tanks)",
+    "Terraced agricultural land",
+    "Strategic position (watchtower over the main routes)",
+    "Limestone (construction)"
+  ],
+  "importancia_estrategica": "Tribal meeting center before the monarchy, border fortress between Israel and Judah during the divided kingdom, and only functional administrative capital after the destruction of Jerusalem in 586 BC. It was in Mizpah that Gedaliah, governor appointed by Babylon, attempted to reconstitute the Jewish community before being assassinated.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas-mizpa",
+      "nombre": "Benjaminites of Mizpah",
+      "descripcion": "Mizpah was a Benjaminite city of tribal importance. It was the site of the great Israelite assembly that decided war against Benjamin for the crime of Gibeah (Judg 20:1), the place where Samuel summoned the people for the renewal of the covenant and the anointing of Saul (1 Sam 10:17-24), and the place where King Asa of Judah built a fortress to mark the border with Israel.",
+      "religion": "Yahwism tribal of Benjamin — sacred assembly place",
+      "periodo": "c. 1150–900 BC"
+    },
+    {
+      "id": "gedalias-comunidad",
+      "nombre": "Community of Gedalías",
+      "descripcion": "Following the destruction of Jerusalem in 586 BC, Nebuchadnezzar appointed Gedaliah ben Ahikam as governor of the survivors in Mizpah. He was joined by scattered Israelite soldiers, the prophet Jeremiah (forced to stay), farmers who had not been deported, and returning refugees from Moab, Ammon, and Edom. Gedaliah promised to normalize life if they obeyed Babylon. He was killed by Ishmael ben Nethaniah, of royal lineage, who then fled to Ammon. The fast of Gedaliah (3 Tishri) is still observed by Judaism.",
+      "religion": "Yahwism post-destruction — community reorganizing religious life without Temple",
+      "periodo": "c. 586–582 BC"
+    },
+    {
+      "id": "pueblo-tierra-mizpa",
+      "nombre": "People of the earth (that remained)",
+      "descripcion": "The Babylonians left the poorest, those who had nothing, in the land and gave them vineyards and fields (2 Kings 25:12; Jr 39:10). These am-ha-aretz (people of the land) who continued in Judah during the exile maintained agricultural and religious life with limited resources. Mizpah, which was not destroyed, became its administrative center and possibly a place of ritual lamentation.",
+      "religion": "Yahwism of the common people — possibly ritual lamentation at the site of the destroyed Temple",
+      "periodo": "c. 586–538 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "samuel-mizpa",
+      "titulo": "Samuel in Mizpah: the renewal of the covenant and the anointing of Saul",
+      "fecha": "c. 1025 BC",
+      "descripcion": "Samuel summoned all Israel in Mizpah for a covenant renewal ceremony: the people confessed to having served the Baals and the Astartes. Samuel judged them there. When the Philistines heard that Israel had gathered in Mizpah, they went up to attack. The cry to the LORD during the sacrifice was answered with thunder that confused the Philistines. Israel pursued them and defeated them. Samuel erected a stone between Mizpah and Shen and called it Eben-Ezer (stone of help). Later, when the people asked for a king, Samuel summoned them again to Mizpah and it was there where Saul, found hidden among the luggage, was presented to the people as Israel's first king.",
+      "referencias": [
+        "1 Sam 7:5-17",
+        "1 Sam 10:17-27"
+      ],
+      "personajes_clave": [
+        "samuel",
+        "saul"
+      ]
+    },
+    {
+      "id": "asa-fortaleza",
+      "titulo": "Asa fortifies Mizpah: the border of the divided kingdom",
+      "fecha": "c. 895 BC",
+      "descripcion": "When King Baasha of Israel began building Ramah to block the approaches to Judah, King Asa of Judah used the silver and gold of the Temple to hire the Aramean King Ben-Hadad of Damascus, who attacked the northern cities of Israel. With the danger of Baasha averted, Asa dismantled the works of Ramah and used the material to build Geba and Mizpah as fortress cities on the northern border of Judah. Mizpah thus became the most advanced defensive position of the kingdom of Judah to the north.",
+      "referencias": [
+        "1 Kgs 15:16-22",
+        "2 Chr 16:1-6"
+      ],
+      "personajes_clave": [
+        "samuel"
+      ]
+    },
+    {
+      "id": "gedalias-asesinato",
+      "titulo": "The murder of Gedalías: the end of the post-destruction community",
+      "fecha": "c. 582 BC",
+      "descripcion": "Gedaliah ben Ahikam, Babylonian governor of Judah based in Mizpah, was warned that Ishmael ben Nethaniah planned to assassinate him on behalf of the king of Ammon. Gedalías did not believe the warning. Ishmael arrived at Mizpah with ten men, was invited to eat, and murdered Gedaliah and the Jews and Babylonians present. The next day, eighty pilgrims coming from Shechem, Shiloh and Samaria with offerings for the Temple were massacred at the pit by Ishmael, who escaped to Ammon. The rest of the community, fearing Babylonian retaliation, fled to Egypt taking the prophet Jeremiah with them against his will.",
+      "referencias": [
+        "2 Kgs 25:22-26",
+        "Jer 40:1-41:18"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "samuel-mizpa-pj",
+      "nombre": "Samuel",
+      "rol": "Judge-prophet who summoned Israel in Mizpah",
+      "periodo": "hierro_1",
+      "descripcion": "Samuel used Mizpah as its itinerant court and as the site of great national assemblies. The renewal of the covenant, the victory over the Philistines, and the presentation of Saul as the first king all take place in Mizpah. For Samuel, Mizpah represented the ideal Israel: a people gathered before YHWH without a human king, led only by the prophetic word.",
+      "referencias": [
+        "1 Sam 7:5-17",
+        "1 Sam 10:17-27"
+      ],
+      "ruta": [
+        "mizpah",
+        "gibeah",
+        "hebron"
+      ]
+    },
+    {
+      "id": "gedalias",
+      "nombre": "Gedaliah ben Ahikam",
+      "rol": "Last governor of Judah, assassinated in Mizpah",
+      "periodo": "post_exilio",
+      "descripcion": "Appointed governor by Nebuchadnezzar, Gedaliah belonged to a pro-Babylonian family that had attempted to prevent futile resistance against Babylon (his father Ahikam protected Jeremiah, Jr 26:24). His project to rebuild the Jewish community in Mizpah was the most hopeful of the post-destruction attempts. His murder was a catastrophe with irreversible consequences: it dispersed the last organized community on earth. The fast in his memory (3 Tishri) recognizes that his death was the true end of the first Temple period.",
+      "referencias": [
+        "2 Kgs 25:22-26",
+        "Jer 40:1-41:18",
+        "Jer 41:1-18"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mizpah"
+      ]
+    },
+    {
+      "id": "jeremias-mizpa",
+      "nombre": "Jeremiah",
+      "rol": "Prophet who remained in Judah, witness of the final collapse",
+      "periodo": "hierro_2",
+      "descripcion": "Jeremiah, who had advised surrender to Babylon as YHWH's will, was freed by the Babylonians and could choose between going to Babylon or staying at Judah. He chose to stay with Gedaliah in Mizpah, convinced that it was still possible to rebuild the community. After the murder of Gedaliah, he was forcibly taken to Egypt by refugees fleeing Babylonian retaliation, against his explicit protest (Jer 42-44). His presence in Mizpah is the final chapter of his ministry in the land of Israel.",
+      "referencias": [
+        "Jer 38:1-28",
+        "Jer 40:1-6",
+        "Jer 42:1-43:7"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mizpah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mizpah is the city that survived when everything else fell. Tribal center before the monarchy, fortified border during the divided kingdom, capital of the province of Judah after the destruction of Jerusalem—Mizpah is the place of beginnings and endings. The murder of Gedaliah in Mizpah closed the last chapter of the organized community in the land before the total exile. The fast of Gedaliah, observed to this day, is the only Jewish fast commemorating the death of an individual—recognition that more than one man died on it.",
+    "religiones_presentes": [
+      "Yahwism pre-monarchical tribal (place of national assembly)",
+      "Institutional Yahwism (Judah Border Fortress)",
+      "Yahwism post-destruction (Gedaliah community without Temple)"
+    ],
+    "mitos": [
+      {
+        "id": "mizpa-eben-ezer",
+        "nombre": "Eben-Ezer: the stone of help in Mizpah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 7:5-17",
+          "fuente_secundaria": "Midrash Shmuel 14; Talmud Bavli, Rosh HaShaná 25a",
+          "descripcion": "The Eben-Ezer stone (stone of relief) erected by Samuel between Mizpah and Shen commemorated the victory over the Philistines obtained through prayer and sacrifice, not battle. It is a monument to the effectiveness of prophetic intercession. The same expression Eben-Ezer appears earlier as the site of an Israelite defeat (1 Sam 4:1), making the new stone a symbolic reversal of that failure.",
+          "similitudes": "Commemorative stones erected after victories have parallels throughout the tradition of the ancient East (victory steles).",
+          "diferencias": "Unlike royal victory steles that glorify the warrior-king, the stone of Samuel glorifies YHWH as the sole agent of victory.",
+          "significado_teologico": "The LORD helped us up to this point: the story of Israel is the story of divine help, not of human heroism.",
+          "posible_relacion_cultural": "Massebot (standing stones) as monuments of pact or sacred event are ubiquitous in the Bronze and Iron Levant."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

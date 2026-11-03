@@ -1,0 +1,143 @@
+{
+  "id": "gilead",
+  "nombre": "Galaad",
+  "tipo": "territorio",
+  "lat": 32.04,
+  "lng": 35.72,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 99,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -722,
+      "nombre": "Ferro I e II"
+    }
+  ],
+  "descripcion_geo": "Regione montuosa a est del Giordano, tra il fiume Yarmouk e l'Arnon. Territorio delle tribù di Ruben, Gad e della metà della tribù di Manasse.",
+  "altitud_m": 900,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "balsamo",
+    "allevamento del bestiame",
+    "legna",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Zona cuscinetto tra Israele e i regni della Transgiordania; famoso per il suo balsamo medicinale.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gil_h1",
+      "titulo": "Iefte e il voto avventato",
+      "fecha": "ca. 1100 a.C.",
+      "descripcion": "Iefte il Galaadita sconfigge gli Ammoniti ma fa un voto imprudente che costa la vita a sua figlia.",
+      "referencias": [
+        "Gdc 11"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "gil_h2",
+      "titulo": "Il balsamo di Galaad",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Geremia lamenta la mancanza di balsamo per curare Israele, usando la resina medicinale di Galaad come metafora.",
+      "referencias": [
+        "Ger 8:22"
+      ],
+      "personajes_clave": [
+        "Jeremías"
+      ]
+    },
+    {
+      "id": "gil_h3",
+      "titulo": "Elia il Tishbite di Galaad",
+      "fecha": "ca. 870 a.C.",
+      "descripcion": "Elia, profeta di Galaad, annuncia la siccità ad Achab e fugge nel torrente Cherith dove viene nutrito dai corvi.",
+      "referencias": [
+        "1 Re 17:1-7"
+      ],
+      "personajes_clave": [
+        "Elías",
+        "Acab"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gil_p1",
+      "nombre": "Elia",
+      "rol": "Profeta",
+      "periodo": "ca. 875-850 a.C.",
+      "descripcion": "Il grande profeta dell'Antico Testamento era 'il Tishbita, degli abitanti di Galaad'.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p2",
+      "nombre": "Iefte",
+      "rol": "Giudice Israele",
+      "periodo": "ca. 1100 a.C.",
+      "descripcion": "Capo militare di Galaad che liberò Israele dagli Ammoniti con un tragico voto.",
+      "referencias": [
+        "Gdc 11:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gil_p3",
+      "nombre": "Machir figlio di Manasse",
+      "rol": "Galaad Conquistatore",
+      "periodo": "ca. 1250 a.C.",
+      "descripcion": "Conquistò Galaad e ricevette quella terra in eredità per il suo clan.",
+      "referencias": [
+        "Nm 32:39"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terra fertile e rifugio a est del Giordano; luogo di nascita di Elia e palcoscenico di giudici e guerrieri. Il suo balsamo divenne un simbolo di guarigione.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "ammonite_paganesimo"
+    ],
+    "mitos": [
+      {
+        "id": "gil_m1",
+        "nombre": "Il balsamo di Galaad",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 8,22",
+          "fuente_secundaria": "",
+          "descripcion": "\"Niente balsamo in Galaad?\" (Ger 8,22): immagine di un rimedio che dovrebbe esistere ma che il peccato di Israele ha reso inaccessibile.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "\"Niente balsamo in Galaad?\" (Ger 8,22): immagine di un rimedio che dovrebbe esistere ma che il peccato di Israele ha reso inaccessibile.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "L'espressione \"balsamo di Galaad\" sopravvive come simbolo di guarigione spirituale nella tradizione cristiana.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'espressione \"balsamo di Galaad\" sopravvive come simbolo di guarigione spirituale nella tradizione cristiana.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

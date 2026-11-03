@@ -1,0 +1,261 @@
+{
+  "id": "golgotha",
+  "nombre": "Gólgota (Calvario)",
+  "tipo": "ciudad",
+  "lat": 31.7783,
+  "lng": 35.2296,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": 30,
+      "hasta": 30,
+      "nombre": "Romano"
+    }
+  ],
+  "descripcion_geo": "Lugar de la crucifixión de Jesús, fuera de las murallas de Jerusalén. 'Gólgota' en hebreo y 'Calvario' en latín significan 'lugar del cráneo'.",
+  "altitud_m": 740,
+  "clima": "mediterráneo",
+  "recursos": [
+    "piedra caliza"
+  ],
+  "importancia_estrategica": "El punto más sagrado del cristianismo: lugar de la crucifixión y posible sepultura de Jesús.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gol_h1",
+      "titulo": "La crucifixión de Jesús en el Gólgota",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Jesús es crucificado en el Gólgota con dos ladrones; las palabras desde la cruz y los prodigios que lo acompañan son narrados por los cuatro evangelios.",
+      "referencias": [
+        "Mt 27:33-56",
+        "Jn 19:17-37"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "María",
+        "Juan",
+        "María Magdalena"
+      ]
+    },
+    {
+      "id": "gol_h2",
+      "titulo": "El Gólgota y el sepulcro de José de Arimatea",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Cerca del Gólgota había un jardín con un sepulcro nuevo donde José de Arimatea y Nicodemo depositaron el cuerpo de Jesús.",
+      "referencias": [
+        "Jn 19:41-42"
+      ],
+      "personajes_clave": [
+        "José de Arimatea",
+        "Nicodemo"
+      ]
+    },
+    {
+      "id": "gol_h3",
+      "titulo": "La Iglesia del Santo Sepulcro sobre el Gólgota",
+      "fecha": "ca. 335 d.C.",
+      "descripcion": "Constantino construye la Basílica del Santo Sepulcro sobre el probable emplazamiento del Gólgota y la tumba de Jesús.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Constantino",
+        "Helena"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gol_p1",
+      "nombre": "Jesús de Nazaret",
+      "rol": "Mesías crucificado",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Fue crucificado en el Gólgota; su muerte es el evento central de la fe cristiana.",
+      "referencias": [
+        "Mt 27:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p2",
+      "nombre": "José de Arimatea",
+      "rol": "Miembro del Sanedrín",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Discípulo secreto de Jesús; solicitó el cuerpo y lo sepultó en su tumba nueva cerca del Gólgota.",
+      "referencias": [
+        "Jn 19:38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p3",
+      "nombre": "María Magdalena",
+      "rol": "Testigo de la crucifixión",
+      "periodo": "s. I d.C.",
+      "descripcion": "Permaneció junto a la cruz hasta el final; luego fue la primera testigo de la resurrección.",
+      "referencias": [
+        "Jn 19:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "El punto más sagrado del cristianismo; lugar de la muerte redentora de Jesús y, según la tradición, del sepulcro vacío.",
+    "religiones_presentes": [
+      "judaismo",
+      "cristianismo",
+      "islam"
+    ],
+    "mitos": [
+      {
+        "id": "gol_m1",
+        "nombre": "La muerte del Justo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La tipología bíblica prefigura la muerte de Jesús en el Gólgota: el siervo sufriente (Is 53), el cordero pascual (Ex 12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La tipología bíblica prefigura la muerte de Jesús en el Gólgota: el siervo sufriente (Is 53), el cordero pascual (Ex 12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Jn 3:16",
+          "fuente_secundaria": "",
+          "descripcion": "La cruz en el Gólgota es el centro de la teología cristiana: 'Porque de tal manera amó Dios al mundo...' (Jn 3:16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La cruz en el Gólgota es el centro de la teología cristiana: 'Porque de tal manera amó Dios al mundo...' (Jn 3:16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 4:157-158",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam no acepta que Jesús muriera en la cruz (Cor 4:157-158); para el Islam, Jesús fue llevado al cielo sin morir.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam no acepta que Jesús muriera en la cruz (Cor 4:157-158); para el Islam, Jesús fue llevado al cielo sin morir.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gol_nt_h1",
+        "titulo": "La crucifixión",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "'Y llevaron a Jesús al lugar llamado Gólgota... y lo crucificaron' (Mr 15:22-24): el evento fundacional del cristianismo.",
+        "referencias": [
+          "Mt 27:33-50"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h2",
+        "titulo": "Las siete palabras desde la cruz",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Jesús pronuncia siete frases desde la cruz; la última: 'Padre, en tus manos encomiendo mi espíritu'.",
+        "referencias": [
+          "Lc 23:46"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h3",
+        "titulo": "El velo rasgado y el centurión",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Al morir Jesús el velo del Templo se rasga; el centurión romano exclama: '¡Verdaderamente este era el Hijo de Dios!'.",
+        "referencias": [
+          "Mt 27:51-54"
+        ],
+        "personajes_clave": [
+          "centurión romano",
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gol_nt_p1",
+        "nombre": "Jesús de Nazaret",
+        "rol": "Mesías crucificado y resucitado",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Su muerte en el Gólgota es el corazón de la proclamación cristiana.",
+        "referencias": [
+          "Mt 27:35"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p2",
+        "nombre": "María, madre de Jesús",
+        "rol": "Madre del crucificado",
+        "periodo": "s. I d.C.",
+        "descripcion": "Presenció la crucifixión junto a la cruz; Juan la acogió como madre.",
+        "referencias": [
+          "Jn 19:25-27"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p3",
+        "nombre": "El centurión romano",
+        "rol": "Testigo gentil",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Confesó la filiación divina de Jesús ante la muerte: primer proclamador gentil del evangelio.",
+        "referencias": [
+          "Mc 15:39"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "El Gólgota es el centro geográfico y teológico del NT: lugar de la redención.",
+      "religiones_presentes": [
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "gol_nt_m1",
+          "nombre": "El Cordero de Dios",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "El Gólgota cumple toda la tipología sacrificial del AT: el cordero pascual, el siervo sufriente, el justo que muere por los culpables.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "El Gólgota cumple toda la tipología sacrificial del AT: el cordero pascual, el siervo sufriente, el justo que muere por los culpables.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus"
+    ]
+  }
+}

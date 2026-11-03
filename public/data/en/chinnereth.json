@@ -1,0 +1,147 @@
+{
+  "id": "chinnereth",
+  "nombre": "Cinéret",
+  "tipo": "ciudad",
+  "lat": 32.80677585520321,
+  "lng": 35.58936052679091,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Nombre veterotestamentario del lago conocido en el NT como 'mar de Galilea' o 'lago de Genesaret'; este registro cubre su rol y mención en el AT (frontera tribal, ciudad fortificada). Su función en el ministerio de Jesús pertenece a FASE_NT.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City and lake as tribal boundary of Naphtali"
+    }
+  ],
+  "descripcion_geo": "Harp-shaped freshwater lake (probable origin of the name, from 'kinnor', harp) in the north of Israel, and walled city on its western coast, which gives its name to both the body of water and the adjacent fertile plain. It is the main source of fresh water for the entire region and a constant geographical reference point in the tribal distribution.",
+  "altitud_m": -210,
+  "clima": "Jordan Valley Mediterranean — hot, dry summers, mild winters with moderate rainfall, climate favored by the low altitude of the lake.",
+  "recursos": [
+    "Abundant fresh water (main lake of Israel)",
+    "Fishing",
+    "Adjacent fertile plain (Plain of Gennesaret)"
+  ],
+  "importancia_estrategica": "Cinéret functions as a constant geographical reference point in Israel's description of the northern tribal boundaries, particularly for Naphtali; The walled city on its coast, mentioned among the fortified cities of this tribe, guards access to one of the most valuable sources of fresh water and fertile land in the entire northern region.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_chinnereth",
+      "nombre": "Northern Canaanites",
+      "descripcion": "Original population of the lake region before the Israelite conquest, part of the extensive northern Canaanite territory that also included Hazor.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "neftalitas_chinnereth",
+      "nombre": "Tribe of Naphtali",
+      "descripcion": "Beneficiary of the territorial allocation that includes Cinéret and its adjacent plain, a city mentioned among the fortifications of this northern tribe.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "chinnereth-frontera-numeros",
+      "titulo": "Lake Cinéret as the eastern limit of the territorial promise",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "In the description of the borders of the promised land given to Moses, Lake Cinéreth is mentioned as a reference point for the eastern limit of the territory that Israel will possess when crossing the Jordan.",
+      "referencias": [
+        "Num 34:11"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "chinnereth-ciudad-neftali",
+      "titulo": "Cinéret among the fortified cities of Naphtali",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "In the territorial distribution of Joshua, Cinéret is explicitly included among the walled cities assigned to the tribe of Naphtali, confirming its status as a relevant fortified settlement in northern Israel.",
+      "referencias": [
+        "Josh 19:35"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "deuteronomio-mar-chinnereth",
+      "titulo": "The 'Sea of ​​Cinéreth' in the geographical description of Deuteronomy",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Deuteronomy repeatedly uses the appellation 'sea of ​​Cinéreth' to describe the geography of conquered territory in Transjordan and the north, establishing this name as the standard designation of the lake throughout the Old Testament period.",
+      "referencias": [
+        "Deut 3:17",
+        "Josh 12:3",
+        "Josh 13:27"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_chinnereth",
+      "nombre": "Moses",
+      "rol": "Leader of Israel, recipient of territorial description",
+      "periodo": "bronce_tardio",
+      "descripcion": "Receives the description of the borders of the promised land that includes the Sea of ​​Cinéret as a geographical reference point of the eastern limit.",
+      "referencias": [
+        "Num 34:1-12",
+        "Deut 3:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_chinnereth",
+      "nombre": "Joshua",
+      "rol": "Leader of the conquest, organizer of the territorial distribution",
+      "periodo": "bronce_tardio",
+      "descripcion": "Directs the assignment of the city of Cinéret to the tribe of Naphtali within the distribution of the northern territory of Israel.",
+      "referencias": [
+        "Josh 19:32-39"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "neftalitas_chinnereth_personaje",
+      "nombre": "Clans of Naphtali",
+      "rol": "Lake Coast Tribal Population",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Inhabitants of the tribe of Naphtalí settled in the fertile region of Lake Cinéret and its adjacent plain, beneficiaries of the fishing and agricultural resources of the area.",
+      "referencias": [
+        "Josh 19:32-39"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cinéret in the Old Testament functions mainly as an element of the descriptive geography of tribal borders and the promised land, without its own narrative development beyond its repeated mention as a spatial reference point. Its later, much greater religious significance corresponds to the period of the New Testament, when under the name 'sea of ​​Galilee' it becomes the central stage of the public ministry of Jesus - a development that belongs to the NT phase of the project, not to this record focused on its Old Testament function.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original substrate)"
+    ],
+    "mitos": [
+      {
+        "id": "frontera-prometida-chinnereth",
+        "nombre": "The Cinéret Sea as a constant reference to the promised land",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 34:11; Deut 3:17; Jos 12:3",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el uso constante de accidentes geográficos naturales (mares, ríos, montes) como marcadores estables de las fronteras de la tierra prometida",
+          "descripcion": "Jewish tradition notes that the repeated use of Lake Cinéret as a fixed point of reference in multiple territorial descriptions throughout the Pentateuch and the early prophets reflects the importance of establishing clear and verifiable boundaries for the territorial promise, using natural and permanent landforms rather than artificial markers subject to dispute.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The use of stable natural borders such as Lake Cinéret reinforces the concreteness and historical verifiability of the territorial promise given to Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

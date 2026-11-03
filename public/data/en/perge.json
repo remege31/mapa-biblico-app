@@ -1,0 +1,71 @@
+{
+  "id": "perge",
+  "nombre": "Perge",
+  "tipo": "ciudad",
+  "lat": 36.9613,
+  "lng": 30.8536,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City of Pamphylia about 12 km from the southern coast of Asia Minor, next to the Cestro River.",
+  "altitud_m": 60,
+  "clima": "Mediterranean",
+  "recursos": [
+    "river trade",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Gateway from the Pamphylian coast to the Pisidia plateau.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "per_h1",
+        "titulo": "Juan Marcos abandons the mission",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Arriving in Perge from Cyprus, John Mark separates from Paul and Barnabas and returns to Jerusalem.",
+        "referencias": [
+          "Acts 13:13-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé",
+          "Juan Marcos"
+        ]
+      },
+      {
+        "id": "per_h2",
+        "titulo": "Preaching upon return",
+        "fecha": "ca. 48 AD",
+        "descripcion": "Back toward the coast, Paul and Barnabas announce the word in Perga before boarding Atalia.",
+        "referencias": [
+          "Acts 14:24-26"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

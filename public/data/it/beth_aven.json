@@ -1,0 +1,138 @@
+{
+  "id": "beth_aven",
+  "nombre": "Bet-Aven",
+  "tipo": "ciudad",
+  "lat": 31.9,
+  "lng": 35.25,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Toponimo ironico (“casa del male”) usato dai profeti per riferirsi a Betel (“casa di Dio”) dopo che Geroboamo vi installò un vitello d'oro.",
+  "altitud_m": 800,
+  "clima": "mediterraneo",
+  "recursos": [
+    "agricoltura",
+    "mestiere"
+  ],
+  "importancia_estrategica": "Betel Degradato: Il nome profetico descrive ironicamente il santuario del vitello d'oro.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bav_h1",
+      "titulo": "Osea chiama Betel 'Bet-Aven'",
+      "fecha": "ca. 750 a.C.",
+      "descripcion": "Il profeta Osea usa 'Bet-Aven' (casa della malvagità) invece di 'Betel' (casa di Dio) per il santuario con il vitello d'oro.",
+      "referencias": [
+        "Os 4:15",
+        "Os 5:8",
+        "Os 10:5"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    },
+    {
+      "id": "bav_h2",
+      "titulo": "La battaglia di Israele contro Filistei vicino a Beth-Aven",
+      "fecha": "ca. 1010 a.C.",
+      "descripcion": "L'esercito filisteo si accampa tra Micmas e Beth-Aven; Saul e Jonathan lanciano l'offensiva.",
+      "referencias": [
+        "1 Sam 13:5",
+        "1 Sam 14:23"
+      ],
+      "personajes_clave": [
+        "Saúl",
+        "Jonatán"
+      ]
+    },
+    {
+      "id": "bav_h3",
+      "titulo": "Amos e il santuario di Betel/Bet-Aven",
+      "fecha": "ca. 760 a.C.",
+      "descripcion": "Amos denuncia il santuario di Betel come luogo di peccato; Osea la chiama Bet-Aven a causa del vitello d'oro.",
+      "referencias": [
+        "Am 4:4",
+        "Am 5:5"
+      ],
+      "personajes_clave": [
+        "Amós",
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bav_p1",
+      "nombre": "Osea",
+      "rol": "Profeta",
+      "periodo": "ca. 750-720 a.C.",
+      "descripcion": "Ha usato il nome \"Bet-Aven\" come condanna sarcastica del santuario del vitello d'oro in Betel.",
+      "referencias": [
+        "Os 4:15"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p2",
+      "nombre": "Amos",
+      "rol": "Profeta",
+      "periodo": "ca. 760 a.C.",
+      "descripcion": "Ha denunciato il santuario di Betel/Bet-Aven come sede del culto idolatrico del regno settentrionale.",
+      "referencias": [
+        "Am 4:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bav_p3",
+      "nombre": "Geroboamo I",
+      "rol": "re del nord",
+      "periodo": "931-910 a.C.",
+      "descripcion": "Ha installato il vitello d'oro in Betel, trasformando la \"casa di Dio\" nella \"casa della malvagità\".",
+      "referencias": [
+        "1 Re 12:29"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bet-Aven: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bav_m1",
+        "nombre": "La casa di Dio si è trasformata in una casa del male",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 28,17",
+          "fuente_secundaria": "",
+          "descripcion": "Betel, dove Dio si è rivelato a Giacobbe (Gen 28,17), diventa Bet-Aven per il peccato del vitello d'oro: la degradazione del luogo sacro è il paradigma del sincretismo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Betel, dove Dio si è rivelato a Giacobbe (Gen 28,17), diventa Bet-Aven per il peccato del vitello d'oro: la degradazione del luogo sacro è il paradigma del sincretismo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

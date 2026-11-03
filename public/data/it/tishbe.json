@@ -1,0 +1,165 @@
+{
+  "id": "tishbe",
+  "nombre": "Tisbe",
+  "tipo": "ciudad",
+  "lat": 32.193237,
+  "lng": 35.75,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Ubicación exacta incierta; coordenada aproximada que sitúa a Tisbe en la región central de Galaad, conforme a la identificación tradicional, distinta de la zona de Hazor (Galilea, al oeste del Jordán). Corregido el 21 jun 2026 — antes compartía coordenada con Hazor por error.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II: città natale di Elia"
+    }
+  ],
+  "descripcion_geo": "Città o villaggio di origine incerta e controversa, tradizionalmente situato nella regione di Galaad, a est del Giordano, nota esclusivamente per essere il luogo di origine del profeta Elia, senza altro sviluppo narrativo proprio nel testo biblico.",
+  "altitud_m": "Incerto (regione Galaad)",
+  "clima": "Mediterraneo montano: tipico della regione Galaad, con estati secche e inverni freddi.",
+  "recursos": [
+    "Nessuna risorsa specificamente documentata nel testo biblico"
+  ],
+  "importancia_estrategica": "Tisbe non ha alcuna rilevanza strategica, militare o amministrativa nel racconto biblico; La sua unica funzione è quella di identificare l'origine geografica di Elia, uno dei profeti più significativi dell'intero Antico Testamento, il cui ministero si svolse principalmente nel regno settentrionale durante il regno di Achab.",
+  "otros_habitantes": [
+    {
+      "id": "galaaditas_tishbe",
+      "nombre": "Popolazione Galaad",
+      "descripcion": "Abitanti della regione Galaad da cui ha origine Elia, territorio della Transgiordania con una forte identità tribale e una certa distanza culturale dal centro politico di Israele e Giuda.",
+      "religion": "Yahvismo",
+      "periodo": "C. 870–850 a.C"
+    },
+    {
+      "id": "familia_elias_tishbe",
+      "nombre": "Famiglia Elia",
+      "descripcion": "Nucleo familiare del profeta nel luogo di origine, senza ulteriori precisazioni fornite dal testo biblico oltre l'identificazione geografica 'Tishbita'.",
+      "religion": "Yahvismo",
+      "periodo": "C. 900–870 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elias-presentado-tishbe",
+      "titulo": "Elia si presenta come 'Tishbite, degli abitanti di Galaad'",
+      "fecha": "c. 870 a.C.",
+      "descripcion": "Il profeta Elia appare per la prima volta nel testo biblico esplicitamente identificato con la sua origine geografica, annunciando direttamente ad Achab una siccità come punizione divina, senza che fosse fornita alcuna narrazione preventiva della sua chiamata o formazione, in netto contrasto con le ampie narrazioni vocazionali di altri profeti.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    },
+    {
+      "id": "tishbe-origen-ambiguo",
+      "titulo": "L'ambiguità testuale riguardante l'esatta origine di Tisbe",
+      "fecha": "Contexto textual, c. 870 a.C.",
+      "descripcion": "Il testo ebraico di 1 Re 17,1 presenta alcune ambiguità grammaticali riguardo al fatto se 'Tishbite' si riferisca a un demonimo derivato da una città chiamata Tisbe o ad un'altra possibile lettura del testo originale, generando un dibattito esegetico fin dall'antichità sull'esatta ubicazione della patria di Elia.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "elias-ministerio-posterior-tishbe",
+      "titulo": "Il successivo ministero di Elia dopo la sua origine a Tisbe",
+      "fecha": "c. 870–850 a.C.",
+      "descripcion": "Dopo la breve identificazione della sua origine in Tisbe, Elia sviluppa tutto il suo vasto ministero in altri luoghi del regno settentrionale e dintorni, senza che il testo biblico menzioni nuovamente la sua città natale in nessun episodio successivo della sua carriera profetica.",
+      "referencias": [
+        "1 Re 17:1-19:21",
+        "2 Re 1:1-2:11"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elias_tishbe",
+      "nombre": "Elia",
+      "rol": "Profeta di Israele, originario di Tisbe",
+      "periodo": "hierro_2",
+      "descripcion": "Uno dei profeti più significativi dell'Antico Testamento, identificato nella sua prima apparizione testuale attraverso la sua origine a Tisbe, di Galaad, senza che vengano fornite ulteriori informazioni biografiche prima della sua apparizione pubblica alla corte di Achab.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "ruta": [
+        "tishbe",
+        "jabbok",
+        "sidon",
+        "carmel"
+      ]
+    },
+    {
+      "id": "acab_tishbe_contexto",
+      "nombre": "Achab",
+      "rol": "Re di Israele, destinatario dell'annuncio profetico di Elia",
+      "periodo": "c. 874–853 a.C.",
+      "descripcion": "Riceve il primo annuncio profetico da parte di Elia dell'imminente siccità, dando inizio al vasto ciclo di confronto tra il re e il profeta tisbita che caratterizza gran parte della narrazione di 1 Re.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "galaaditas_tishbe_personaje",
+      "nombre": "Residenti di Galaad",
+      "rol": "Comunità d'origine del profeta",
+      "periodo": "c. 900–870 a.C.",
+      "descripcion": "Popolazione della regione della Transgiordania dove il testo biblico colloca l'origine di Elia, senza ulteriori sviluppi narrativi specifici al di là dell'identificazione geografica del profeta.",
+      "referencias": [
+        "1 Re 17:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tisbe è priva di uno sviluppo narrativo, mitico o cultuale proprio nel testo biblico; La sua unica funzione è quella di identificare l'origine di uno dei profeti più trascendentali dell'Antico Testamento, la cui improvvisa comparsa nella narrazione - senza genealogia dettagliata o resoconto della vocazione, a differenza di Isaia, Geremia o Ezechiele - rafforza il carattere improvviso e quasi soprannaturale con cui Elia appare nella storia biblica, come strumento diretto del giudizio divino sull'apostasia di Achab e Jezebel.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "elias-aparicion-abrupta-tishbe",
+        "nombre": "L'apparizione improvvisa di Elia senza una storia di vocazione",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 17:1",
+          "fuente_secundaria": "Comentario rabínico y tradición posterior sobre la identidad y origen misteriosos de Elías, incluyendo especulaciones sobre su posible identificación con otras figuras bíblicas",
+          "descripcion": "La tradizione ebraica sviluppa un'ampia letteratura speculativa sulle origini e sulla natura di Elia, motivata in parte dall'assenza di informazioni genealogiche dettagliate sulla sua prima apparizione, che contribuisce alla successiva elevazione di Elia a figura quasi soprannaturale nel folklore e nella liturgia ebraica, compreso il suo ruolo escatologico come precursore del Messia.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento di Elia come figura profetica di status eccezionale.",
+          "diferencias": null,
+          "significado_teologico": "L’apparizione senza precedenti di Elia rafforza il suo carattere di strumento profetico diretto di YHWH, non dipendente da credenziali genealogiche o istituzionali convenzionali.",
+          "posible_relacion_cultural": "Tradizione condivisa di Elia come figura profetica di rilevanza escatologica nelle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Re 17:1 (recepción neotestamentaria de Elías en Mt 17:1-13, la Transfiguración; Lc 1:17, el paralelo con Juan el Bautista)",
+          "fuente_secundaria": "Comentarios patrísticos sobre Elías como figura precursora y tipológica",
+          "descripcion": "La tradizione cristiana assume Elia come figura centrale dell'attesa escatologica, presente accanto a Mosè nella Trasfigurazione di Gesù, e come modello tipologico applicato a Giovanni Battista, conferendo al profeta di origine oscura di Tisbe una rilevanza teologica che trascende di gran lunga la sua breve presentazione iniziale nel testo.",
+          "similitudes": "Condivide con la lettura ebraica la valutazione di Elia come figura di eccezionale rilevanza escatologica.",
+          "diferencias": "La lettura cristiana sviluppa specificatamente la tipologia tra Elia e Giovanni Battista, assente nelle letture ebraiche e islamiche.",
+          "significado_teologico": "Elia diventa una figura tipologica centrale che collega l'Antico e il Nuovo Testamento nell'attesa messianica cristiana.",
+          "posible_relacion_cultural": "Tradizione condivisa di Elia come profeta di rilevanza escatologica comune al giudaismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 6:85; 37:123-132 (referencias a Ilyas)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre Ilyas como profeta enviado a un pueblo idólatra",
+          "descripcion": "Il Corano riconosce Ilyas (Elia) tra i profeti giusti, inviato per mettere in guardia il suo popolo dall'idolatria del dio Baal, in parallelo tematico con il conflitto biblico di Elia contro i profeti di Baal sul Monte Carmelo, pur senza dettagliare la sua specifica origine geografica a Tisbe.",
+          "similitudes": "Riconoscimento condiviso di Elia/Ilyas come profeta inviato specificatamente contro l'idolatria a Baal.",
+          "diferencias": "Il Corano non sviluppa la specifica identificazione geografica dell'origine di Ilyas a Tisbe né l'ampio ciclo narrativo presente nel testo biblico.",
+          "significado_teologico": "Ilyas fa parte della catena dei profeti riconosciuti dall'Islam inviati a contrastare l'idolatria dei rispettivi popoli.",
+          "posible_relacion_cultural": "Riconoscimento condiviso di Elia/Ilyas come profeta fondamentale nella comune tradizione abramitica."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

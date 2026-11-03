@@ -1,0 +1,161 @@
+{
+  "id": "mareshah",
+  "nombre": "Maresa",
+  "tipo": "ciudad",
+  "lat": 31.60393321295081,
+  "lng": 34.90237777777779,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Fortified city of Rehoboam, battle against the Ethiopians"
+    }
+  ],
+  "descripcion_geo": "City in the southern Shephelah of Judah, fortified by Rehoboam as part of the kingdom's defensive system after the division of the united kingdom. Close to the southern plains where the invasion routes from Egypt and the desert passed.",
+  "altitud_m": 370,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rain, typical of the southern Shephelah.",
+  "recursos": [
+    "Fortifiable position in southern Shephelah",
+    "Control of access routes from the south and southwest"
+  ],
+  "importancia_estrategica": "Maresah was one of the fifteen cities fortified by Rehoboam for the defense of the newly divided kingdom of Judah, and later the scene of the great battle of the Shephathah Valley near Maresah, where King Asa faces and defeats a massive invading Ethiopian (Cushite) army, an episode presented as a paradigmatic example of victory through trust in YHWH in the face of a numerically overwhelming force.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_maresa",
+      "nombre": "Tribe by Judah",
+      "descripcion": "Jewish population of Maresá, a city included in the system of fortifications organized by Rehoboam after the secession of the northern kingdom.",
+      "religion": "Yahwism",
+      "periodo": "c. 925–586 BC"
+    },
+    {
+      "id": "ejercito_zera_maresa",
+      "nombre": "Ethiopian (Cushite) Army of Zera",
+      "descripcion": "Massive invading force from Ethiopia/Cush advances to Maresah and is decisively defeated by Asa's army in the Shephata Valley.",
+      "religion": "Cushite religion (ancient African polytheism)",
+      "periodo": "c. 897 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "roboam-fortifica-maresa",
+      "titulo": "Rehoboam fortifies Mareshah",
+      "fecha": "c. 925–913 BC",
+      "descripcion": "Mareshah is included among the fifteen cities that Rehoboam fortifies in Judah after the division of the United Kingdom, forming part of the southern defensive belt of the kingdom.",
+      "referencias": [
+        "2 Chr 11:8"
+      ],
+      "personajes_clave": [
+        "roboam"
+      ]
+    },
+    {
+      "id": "asa-derrota-zera-maresa",
+      "titulo": "Asa defeats the Ethiopian army of Zerah in the valley of Shephathah",
+      "fecha": "c. 897 BC",
+      "descripcion": "Faced with the invasion of a million men and three hundred chariots under the command of Zerah the Ethiopian, King Asa cries out to YHWH before the battle, declaring to trust him alone in the face of the invading multitude; Israel decisively defeats the Cushite army in the valley of Shephathah, near Mareshah, and pursues them to Gerar, taking enormous booty.",
+      "referencias": [
+        "2 Chr 14:9-15"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    },
+    {
+      "id": "azarias-profecia-maresa",
+      "titulo": "The prophet Azariah receives Asa after the victory",
+      "fecha": "c. 897 BC",
+      "descripcion": "After the victory over Zerah, the prophet Azariah son of Oded goes out to meet Asa with an oracle that encourages him to persevere in religious reform, also warning him about the dangers of apostasy, an episode that prompts an additional purification of the cult in Judah.",
+      "referencias": [
+        "2 Chr 15:1-8"
+      ],
+      "personajes_clave": [
+        "asa"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "asa_maresa",
+      "nombre": "Handle",
+      "rol": "King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He leads the defense of Judah against the massive Ethiopian invasion of Zera, decisively defeating it in the Shefata valley near Maresá after invoking the help of YHWH, an episode that the chronicler text presents as a model of religious trust in the face of an overwhelming military threat.",
+      "referencias": [
+        "2 Chr 14:9-15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "mareshah"
+      ]
+    },
+    {
+      "id": "zera_etiope",
+      "nombre": "Zera the Ethiopian",
+      "rol": "Commander of the invading Cushite army",
+      "periodo": "c. 897 BC",
+      "descripcion": "He leads a massive invasion force of one million men and three hundred chariots against Judah, decisively defeated by Asa in the valley of Shephathah, an episode remembered as one of the greatest defensive victories of the kingdom of Judah.",
+      "referencias": [
+        "2 Chr 14:9-13"
+      ],
+      "ruta": [
+        "mareshah"
+      ]
+    },
+    {
+      "id": "azarias_oded",
+      "nombre": "Azariah son of Oded",
+      "rol": "Prophet who receives Asa after victory",
+      "periodo": "c. 897 BC",
+      "descripcion": "He delivers an oracle of encouragement and warning to Asa after the victory over Zerah, prompting a new phase of religious reform in the kingdom of Judah.",
+      "referencias": [
+        "2 Chr 15:1-7"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Maresah is the setting for one of the chronicler's most theologically charged war narratives: Asa's victory over a vastly numerically superior army is explicitly presented as a result of declared trust in YHWH before the battle, not Israelite military superiority. The episode is framed in the chronicler's pattern of direct causality between real religious fidelity and military success, later reinforced by the prophetic intervention of Azariah.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Cushite religion (invading army)"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-confianza-yhwh-maresa",
+        "nombre": "Asa's victory as a model of confidence in the face of overwhelming force",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Chr 14:9-15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la oración de Asá como modelo de plegaria en momentos de amenaza existencial nacional",
+          "descripcion": "Jewish tradition values ​​Asa's prayer before battle—'there is no difference for you between helping the powerful or the powerless'—as a paradigmatic formula of trust in divine providence in the face of a disproportionate threat, cited in later liturgical contexts of national supplication.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Victory over a numerically overwhelming enemy demonstrates that the outcome of the war depends on YHWH and not on the magnitude of the opposing forces.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Chr 14:9-15 (recepción patrística como ejemplo de oración confiada ante la adversidad)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre la oración de Asá como modelo de fe aplicable a toda situación de debilidad humana frente a fuerzas superiores",
+          "descripcion": "Christian tradition takes up the episode as a general illustration of the principle that divine strength is fully manifested in recognized human weakness, generalizing the lesson beyond the specific military context of Judah.",
+          "similitudes": "Share with the Jewish reading the value of Asa's prayer as a model of confidence in the face of adversity.",
+          "diferencias": "The Christian reading tends to universalize the principle by applying it to any form of weakness or adversity, not just to national war contexts.",
+          "significado_teologico": "The episode is integrated as an Old Testament precedent for the principle that divine power is perfected in human recognition of one's own weakness.",
+          "posible_relacion_cultural": "Shared reception of the stories of the kings of Judah as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

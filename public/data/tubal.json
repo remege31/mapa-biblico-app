@@ -1,0 +1,132 @@
+{
+  "id": "tubal",
+  "nombre": "Tubal",
+  "tipo": "territorio",
+  "lat": 40.91,
+  "lng": 37.8,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Pueblo del norte mencionado junto a Mesec y Gog; identificado con poblaciones anatolias o del Cáucaso.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Pueblo septentrional en los oráculos escatológicos de Ezequiel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tub_h1",
+      "titulo": "Tubal en la tabla de las naciones",
+      "fecha": "ca. s. V a.C.",
+      "descripcion": "Tubal es hijo de Jafet junto a Mesec; representan pueblos del norte del mundo conocido bíblico.",
+      "referencias": [
+        "Gn 10:2"
+      ],
+      "personajes_clave": [
+        "descendientes de Noé"
+      ]
+    },
+    {
+      "id": "tub_h2",
+      "titulo": "Tubal: comerciante de esclavos en Tiro",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Ezequiel describe cómo Tubal y Mesec comerciaban esclavos y vasos de bronce con Tiro.",
+      "referencias": [
+        "Ez 27:13"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "tub_h3",
+      "titulo": "Tubal en la coalición de Gog",
+      "fecha": "ca. 593-571 a.C.",
+      "descripcion": "Gog es príncipe de Mesec y Tubal en la profecía escatológica de Ezequiel.",
+      "referencias": [
+        "Ez 38:2-3"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tub_p1",
+      "nombre": "Ezequiel",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Mencionó a Tubal como parte del ejército escatológico de Gog.",
+      "referencias": [
+        "Ez 38:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p2",
+      "nombre": "Jafet",
+      "rol": "Hijo de Noé",
+      "periodo": "ca. s. V a.C.",
+      "descripcion": "Padre de Tubal en la tabla de las naciones; progenitor de los pueblos del norte.",
+      "referencias": [
+        "Gn 10:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tub_p3",
+      "nombre": "Isaías",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Profetizó que en los últimos días Dios enviará mensajeros a Tubal para anunciar su gloria.",
+      "referencias": [
+        "Is 66:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tubal: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tub_m1",
+        "nombre": "Los pueblos del extremo norte",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Tubal y Mesec representan los límites septentrionales del mundo conocido; en los oráculos escatológicos, atacan a Israel pero son destruidos por Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Tubal y Mesec representan los límites septentrionales del mundo conocido; en los oráculos escatológicos, atacan a Israel pero son destruidos por Dios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

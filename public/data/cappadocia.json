@@ -1,0 +1,244 @@
+{
+  "id": "cappadocia",
+  "nombre": "Capadocia",
+  "tipo": "territorio",
+  "lat": 38.64,
+  "lng": 35.49,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Región montañosa del centro de Asia Menor, famosa por sus formaciones rocosas. Pedro le escribió a los creyentes allí.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Relevante en el NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cap_h1",
+      "titulo": "Capadocios en Pentecostés",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Entre los peregrinos en Pentecostés hay hombres de Capadocia que escuchan el evangelio.",
+      "referencias": [
+        "Hch 2:9"
+      ],
+      "personajes_clave": [
+        "capadocios"
+      ]
+    },
+    {
+      "id": "cap_h2",
+      "titulo": "Pedro dirige su carta a los creyentes de Capadocia",
+      "fecha": "ca. 64 d.C.",
+      "descripcion": "Pedro escribe a los elegidos peregrinos dispersos por Capadocia entre otras provincias.",
+      "referencias": [
+        "1 Pe 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "cap_h3",
+      "titulo": "Los grandes Capadocios: teólogos del s. IV",
+      "fecha": "ca. 329-394 d.C.",
+      "descripcion": "Basilio Magno, Gregorio de Nisa y Gregorio de Nacianzo, los 'tres grandes Capadocios', desarrollaron la teología trinitaria.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Basilio",
+        "Gregorio de Nisa",
+        "Gregorio de Nacianzo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cap_p1",
+      "nombre": "Pedro",
+      "rol": "Apóstol",
+      "periodo": "s. I d.C.",
+      "descripcion": "Dirigió su primera carta a las comunidades de Capadocia.",
+      "referencias": [
+        "1 Pe 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p2",
+      "nombre": "Basilio de Cesarea",
+      "rol": "Padre de la Iglesia",
+      "periodo": "329-379 d.C.",
+      "descripcion": "Gran teólogo capadocio que sistematizó la teología del Espíritu Santo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cap_p3",
+      "nombre": "Gregorio de Nisa",
+      "rol": "Teólogo",
+      "periodo": "335-395 d.C.",
+      "descripcion": "Desarrolló la teología mística; hermano de Basilio y compañero de Gregorio de Nacianzo.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Capadocia: región relevante en el mundo del NT.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "cap_m1",
+        "nombre": "Los Capadocios y la Trinidad",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Los Padres Capadocios del siglo IV (Basilio, Gregorio de Nisa, Gregorio de Nacianzo) dieron forma definitiva al dogma trinitario surgido en el concilio de Nicea.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los Padres Capadocios del siglo IV (Basilio, Gregorio de Nisa, Gregorio de Nacianzo) dieron forma definitiva al dogma trinitario surgido en el concilio de Nicea.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cap_h1",
+        "titulo": "Capadocios en Pentecostés",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Entre los peregrinos en Pentecostés hay hombres de Capadocia que escuchan el evangelio.",
+        "referencias": [
+          "Hch 2:9"
+        ],
+        "personajes_clave": [
+          "capadocios"
+        ]
+      },
+      {
+        "id": "cap_h2",
+        "titulo": "Pedro dirige su carta a los creyentes de Capadocia",
+        "fecha": "ca. 64 d.C.",
+        "descripcion": "Pedro escribe a los elegidos peregrinos dispersos por Capadocia entre otras provincias.",
+        "referencias": [
+          "1 Pe 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "cap_h3",
+        "titulo": "Los grandes Capadocios: teólogos del s. IV",
+        "fecha": "ca. 329-394 d.C.",
+        "descripcion": "Basilio Magno, Gregorio de Nisa y Gregorio de Nacianzo, los 'tres grandes Capadocios', desarrollaron la teología trinitaria.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Basilio",
+          "Gregorio de Nisa",
+          "Gregorio de Nacianzo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cap_p1",
+        "nombre": "Pedro",
+        "rol": "Apóstol",
+        "periodo": "s. I d.C.",
+        "descripcion": "Dirigió su primera carta a las comunidades de Capadocia.",
+        "referencias": [
+          "1 Pe 1:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p2",
+        "nombre": "Basilio de Cesarea",
+        "rol": "Padre de la Iglesia",
+        "periodo": "329-379 d.C.",
+        "descripcion": "Gran teólogo capadocio que sistematizó la teología del Espíritu Santo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cap_p3",
+        "nombre": "Gregorio de Nisa",
+        "rol": "Teólogo",
+        "periodo": "335-395 d.C.",
+        "descripcion": "Desarrolló la teología mística; hermano de Basilio y compañero de Gregorio de Nacianzo.",
+        "referencias": [
+          "Historia"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Capadocia en el Nuevo Testamento.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "cap_m1",
+          "nombre": "Los Capadocios y la Trinidad",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Los Padres Capadocios del siglo IV (Basilio, Gregorio de Nisa, Gregorio de Nacianzo) dieron forma definitiva al dogma trinitario surgido en el concilio de Nicea.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Los Padres Capadocios del siglo IV (Basilio, Gregorio de Nisa, Gregorio de Nacianzo) dieron forma definitiva al dogma trinitario surgido en el concilio de Nicea.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

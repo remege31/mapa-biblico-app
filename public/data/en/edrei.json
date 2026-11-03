@@ -1,0 +1,155 @@
+{
+  "id": "edrei",
+  "nombre": "Edrei",
+  "tipo": "ciudad",
+  "lat": 32.62413707696097,
+  "lng": 36.09899663593119,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Defeat of Og, King of Bashan"
+    }
+  ],
+  "descripcion_geo": "One of the two capital cities of the kingdom of Og, king of Bashan, located in a fertile region north of Gilead, scene of the decisive battle in which Israel defeats the last of the great kings Amorites before crossing the Jordan into Canaan proper.",
+  "altitud_m": 550,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Bashan region.",
+  "recursos": [
+    "Fertile lands by Bashan",
+    "Administrative capital of the kingdom of Og",
+    "Defensible position in northern Transjordan"
+  ],
+  "importancia_estrategica": "Edrei is the scene of the final battle of the conquest of Transjordan: the defeat of Og, described as the last survivor of the Rephaim (giants), whose nine-cubit iron bed is preserved as testimony to his legendary stature; This victory completes the conquest of the Transjordanian territory before the definitive crossing of the Jordan towards Canaan.",
+  "otros_habitantes": [
+    {
+      "id": "refaitas_edrei",
+      "nombre": "Og and the Rephaim by Bashan",
+      "descripcion": "Og, king of Bashan, described as the last survivor of the Rephaim, a people of great stature whose iron bed was preserved as proof of its exceptional size.",
+      "religion": "Early Canaanite-Transjordan religion",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "amorreos_edrei",
+      "nombre": "Amorites by Bashan",
+      "descripcion": "Population of the kingdom of Og defeated along with their king in the decisive battle of Edrei, completing the Israelite conquest of northern Transjordan.",
+      "religion": "Amorite polytheism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "og-sale-edrei",
+      "titulo": "Bashan's Og comes out to face Israel in Edrei",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the victory over Sihon, Og, king of Bashan, goes out with all his people to face Israel in battle near Edrei; YHWH encourages Moses by telling him not to fear him, for he has delivered him into his hand along with all his people and his land.",
+      "referencias": [
+        "Num 21:33",
+        "Deut 3:1"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "derrota-og-edrei",
+      "titulo": "Israel completely defeats Og in Edrei",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Israel wounds Og, his sons and all his people until he leaves no survivors, conquering the sixty cities of his kingdom, including the region of Argob, thus completing the total conquest of Transjordan before crossing the Jordan towards Canaan.",
+      "referencias": [
+        "Num 21:34-35",
+        "Deut 3:3-4"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "cama-hierro-og-recuerdo",
+      "titulo": "The memory of Og's iron bed",
+      "fecha": "Referencia retrospectiva, Deuteronomio",
+      "descripcion": "Deuteronomy preserves the fact that the iron bed of Og, nine cubits long and four cubits wide, was displayed in Rabbah of the sons of Ammon as a verifiable physical testimony of the legendary stature of the last defeated Rephaite king.",
+      "referencias": [
+        "Deut 3:11"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "og_rey_basan",
+      "nombre": "Og, king by Bashan",
+      "rol": "Last king of the Rephaim",
+      "periodo": "bronce_tardio",
+      "descripcion": "Ruler of great stature, described as the last survivor of the Rephaites, completely defeated by Israel in the Battle of Edrei along with all his people and kingdom.",
+      "referencias": [
+        "Num 21:33-35",
+        "Deut 3:11"
+      ],
+      "ruta": [
+        "edrei"
+      ]
+    },
+    {
+      "id": "moises_edrei",
+      "nombre": "Moses",
+      "rol": "Leader of Israel in the conquest of Transjordan",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the last major battle of the Transjordan conquest against Og at Edrei, completing full possession of the territory east of the Jordan before the final crossing into Canaan.",
+      "referencias": [
+        "Num 21:33-35",
+        "Deut 3:1-7"
+      ],
+      "ruta": [
+        "jahaz",
+        "edrei"
+      ]
+    },
+    {
+      "id": "pueblo_basan_edrei",
+      "nombre": "Bashan Town",
+      "rol": "Defeated population with Og",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "Complete population of the kingdom of Og, exterminated according to the pattern of the herem applied to this last great Amorite kingdom of Transjordan before the entry into Canaan.",
+      "referencias": [
+        "Num 21:35",
+        "Deut 3:3-7"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Edrei marks the decisive conclusion of the conquest of all of Transjordan, presented by Deuteronomist theology as a progressive demonstration of YHWH's power to deliver increasingly formidable kingdoms—from Sihon to the legendary Og of the Rephaim—into the hands of Israel before even crossing the Jordan into the Promised Land proper, thus establishing an ascending pattern of confidence for the conquest of Canaan that will follow.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Early Canaanite-Transjordan religion (Rephaites)"
+    ],
+    "mitos": [
+      {
+        "id": "og-ultimo-refaita-edrei",
+        "nombre": "Og as last survivor of the Rephaim",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Deut 3:11",
+          "fuente_secundaria": "Comentario rabínico y tradiciones aggádicas extensas sobre la estatura legendaria de Og y su supervivencia desde tiempos del diluvio en algunas tradiciones midráshicas posteriores",
+          "descripcion": "Jewish tradition develops an extensive aggadic literature on the figure of Og, including traditions that link him to the generation before the flood and elaborate narratives about the extraordinary dimensions necessary for his defeat, making him a paradigmatic figure of the last great gigantic obstacle overcome by Israel through divine power before the conquest of Canaan.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The defeat of the legendary Og, the most formidable opponent of the entire Transjordan conquest, demonstrates that no power, no matter how imposing it may seem, can resist the divine design of handing over the land to Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

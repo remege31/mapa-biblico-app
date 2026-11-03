@@ -1,0 +1,316 @@
+{
+  "id": "joppa",
+  "nombre": "Joppa",
+  "tipo": "ciudad",
+  "lat": 32.05351968494696,
+  "lng": 34.75042606009946,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 14,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Port under Egyptian rule"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Port by Jerusalem"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Reconstruction of the Temple"
+    }
+  ],
+  "descripcion_geo": "Former seaport on the Mediterranean coast, the only usable natural port between Egypt and Carmelo thanks to a sandstone reef that protected an anchorage. Located on a rocky promontory about 35 m above sea level, it dominated the coastal plain of Sharon. Although it never belonged stably to Israelite territory—it was assigned to Dan but rarely under effective control—it functioned as a de facto sea gate for Jerusalem for centuries.",
+  "altitud_m": 35,
+  "clima": "Coastal Mediterranean — hot and humid summers, mild winters with rain, constant sea breezes that moderate the temperature.",
+  "recursos": [
+    "Natural port (only protected anchorage between Egypt and Carmelo)",
+    "Sea fishing",
+    "International trade (wood, luxury products)",
+    "Coastal sandstone for construction"
+  ],
+  "importancia_estrategica": "Joppa was Jerusalem's outlet to the sea despite being outside stable Israeli political control. Materials that did not exist in the highlands of Judah entered its port—notably cedar wood from Lebanon for the Temple of Solomon and, centuries later, for the Second Temple. Its position on the Via Maris (coastal route between Egypt and Mesopotamia) made it a point disputed by Egyptians, Philistines, Phoenicians and Israelites successively.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_joppa",
+      "nombre": "Canaanites",
+      "descripcion": "Original population of the port before the stable Israelite presence; Canaanite city-state already documented in Egyptian sources from the Late Bronze Age.",
+      "religion": "Canaanite polytheism — worship of Baal and Dagon, maritime deities",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "egipcios_joppa",
+      "nombre": "Egyptian garrison",
+      "descripcion": "Joppa appears in the Egyptian papyrus account of the 'Taking of Joppa' (18th dynasty) and in the Amarna letters as a place under Egyptian control or influence.",
+      "religion": "Egyptian polytheism — cult of Ammon-Ra and gods of the pharaonic pantheon",
+      "periodo": "c. 1450–1200 BC"
+    },
+    {
+      "id": "fenicios_joppa",
+      "nombre": "Phoenicians",
+      "descripcion": "Phoenician merchants and sailors operated from or through Joppa, especially transporting timber from Lebanon to Jerusalem under agreements with Hiram of Tyre.",
+      "religion": "Phoenician polytheism — cult of Baal, Astarte and Melkart",
+      "periodo": "c. 1000–586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "madera-templo-salomon",
+      "titulo": "Arrival of cedar wood for the Temple",
+      "fecha": "c. 960 BC",
+      "descripcion": "Hiram of Tyre ships cedar and cypress logs from Lebanon by sea to Joppa, from where they are transported by land to Jerusalem for the construction of the Temple of Solomon.",
+      "referencias": [
+        "2 Chr 2:16",
+        "1 Kgs 5:9"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "madera-segundo-templo",
+      "titulo": "Wood for the Second Temple",
+      "fecha": "c. 537–516 BC",
+      "descripcion": "After the return from the Babylonian exile, the repatriates repeat the Solomonic pattern: they pay Sidonians and Tyrians to transport cedar wood from Lebanon by sea to Joppa, destined for the reconstruction of the Temple under Zerubbabel.",
+      "referencias": [
+        "Ezra 3:7"
+      ],
+      "personajes_clave": [
+        "zorobabel"
+      ]
+    },
+    {
+      "id": "huida-jonas",
+      "titulo": "Jonah sets sail for Tarshish",
+      "fecha": "Narrativa, s. VIII BC (contexto)",
+      "descripcion": "Jonah descends to Joppa and there takes a ship to flee to Tarshish, contrary to the divine order to preach in Nineveh, an episode that opens the prophetic story.",
+      "referencias": [
+        "Jonah 1:3"
+      ],
+      "personajes_clave": [
+        "jonas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the Temple",
+      "periodo": "hierro_2",
+      "descripcion": "Son of David who organizes the import of construction materials—including wood received in Joppa—to erect the Temple of Jerusalem through his business alliance with Hiram of Tyre.",
+      "referencias": [
+        "1 Kgs 5:1-18",
+        "2 Chr 2:1-16"
+      ],
+      "ruta": [
+        "jerusalen",
+        "joppa"
+      ]
+    },
+    {
+      "id": "zorobabel",
+      "nombre": "Zerubbabel",
+      "rol": "Governor of Judah after exile",
+      "periodo": "post_exilio",
+      "descripcion": "Leader of the first wave of returnees who organize the reconstruction of the Temple, repeating the timber import route through Joppa that Solomon had used a century before.",
+      "referencias": [
+        "Ezra 3:1-13",
+        "Hag 1:1-15"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen",
+        "joppa"
+      ]
+    },
+    {
+      "id": "jonas",
+      "nombre": "Jonah",
+      "rol": "Prophet",
+      "periodo": "Narrativa, s. VIII BC",
+      "descripcion": "Prophet sent to announce judgment on Nineveh who, instead of obeying, descends to Joppa to embark in the opposite direction, towards Tarshish, beginning the story of the escape and the episode of the great fish.",
+      "referencias": [
+        "Jonah 1:1-17"
+      ],
+      "ruta": [
+        "joppa"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Joppa was never a center of Israelite worship, but its function as the port of Jerusalem symbolically connects it with the sanctity of the Temple: the wood that arrives there is, in both reconstructions, material destined for the house of YHWH. Its character as a cosmopolitan coastal city, exposed to Canaanites, Egyptian and Phoenician cults, contrasts with its narrative role in Jonah as the starting point of an escape that inverts the meaning of the prophetic vocation: instead of going to the east (Nineveh), the prophet seeks the west (Tarshish) across the sea.",
+    "religiones_presentes": [
+      "Yahwism (via its logistics function for the Temple)",
+      "Polytheism Canaanite (Baal, Dagon)",
+      "Phoenician polytheism (Baal, Astarte, Melkart)",
+      "Egyptian polytheism (presence documented in extra-biblical sources)"
+    ],
+    "mitos": [
+      {
+        "id": "huida-jonas-joppa",
+        "nombre": "Joppa as Jonah's escape point",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Jonah 1:1-3",
+          "fuente_secundaria": "Talmud Babilónico, Nedarim 38a (sobre la profecía y la huida)",
+          "descripcion": "Rabbinic tradition discusses Jonah's flight as a theologically impossible but narratively significant attempt to escape the presence of God, and Joppa marks the boundary between the land of Israel and the outside world represented by the sea.",
+          "similitudes": "Same geographical starting point in all three traditions.",
+          "diferencias": null,
+          "significado_teologico": "Joppa functions as a threshold between the divine vocation and the human will to evade; The open sea represents what is not controlled by the alliance.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Matt 12:39-41 (referencia retrospectiva de Jesús al 'signo de Jonás')",
+          "fuente_secundaria": "Orígenes, Homilías sobre Jonás (lectura tipológica)",
+          "descripcion": "Patristics reads the flight from Joppa and the three days in the fish as a typology of the death and resurrection of Christ, without the place itself receiving its own geographical development beyond being the starting point of the story.",
+          "similitudes": "Shares the base episode of the sea escape from Joppa.",
+          "diferencias": "The Christian emphasis shifts from place to the typological meaning of time (three days).",
+          "significado_teologico": "Joppa, as the starting point of disobedience, indirectly becomes the narrative origin of a resurrection figure.",
+          "posible_relacion_cultural": "Shared tradition of the story of Jonah as a prophetic figure common to the three Abrahamic religions."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 37:139-148 (Dhu'l-Nun / Yunus)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre Sura As-Saffat",
+          "descripcion": "The Quran narrates the flight of Yunus and his throwing into the sea without explicitly naming Joppa, but traditional Islamic exegesis identifies the port of departure with Joppa following inherited biblical geography.",
+          "similitudes": "Same episode of maritime flight and punishment for failing to fulfill the prophetic order.",
+          "diferencias": "The Koran omits the name of the port; the identification with Joppa comes from later exegetical tradition, not from the Qur'anic text itself.",
+          "significado_teologico": "Yunus is a model of repentance (tawba) after disobedience, and his invocation in the belly of the fish is cited as an example of supplication accepted by God.",
+          "posible_relacion_cultural": "Shared tradition of the prophet who flees by sea, with common roots in the narrative cycle of Jonah/Yunus."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jop_nt_h1",
+        "titulo": "Peter resurrects Tabita",
+        "fecha": "ca. 40 AD",
+        "descripcion": "Peter resurrects the disciple Tabitha (Dorcas) in Joppa; The news spreads and many believe.",
+        "referencias": [
+          "Acts 9:36-43"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Tabita"
+        ]
+      },
+      {
+        "id": "jop_nt_h2",
+        "titulo": "The vision of the canvas in Joppa",
+        "fecha": "ca. 40 AD",
+        "descripcion": "Peter has a vision of impure animals on a canvas; God teaches him not to call impure what he has purified.",
+        "referencias": [
+          "Acts 10:9-16"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "jop_nt_h3",
+        "titulo": "Peter leaves for Caesarea from Joppa",
+        "fecha": "ca. 40 AD",
+        "descripcion": "Cornelius' envoys arrive in Joppa and Peter accompanies them to Caesarea to baptize the first Gentiles.",
+        "referencias": [
+          "Acts 10:17-23"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Cornelio"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jop_nt_p1",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He lived in Joppa in the house of Simon the tanner; There he had the vision that opened the gospel to the Gentiles.",
+        "referencias": [
+          "Acts 9:43"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jop_nt_p2",
+        "nombre": "Tabitha (Dorcas)",
+        "rol": "Disciple and benefactor",
+        "periodo": "s. I AD",
+        "descripcion": "Known for her charitable works; resurrected by Peter in Joppa.",
+        "referencias": [
+          "Acts 9:36"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jop_nt_p3",
+        "nombre": "Simon the Tanner",
+        "rol": "Peter Host",
+        "periodo": "s. I AD",
+        "descripcion": "Peter stayed at his seaside house in Joppa; His trade (tanner) was considered impure.",
+        "referencias": [
+          "Acts 9:43"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Mediterranean port from where Jonah fled from God; now Peter receives the vision that opens the mission to the Gentiles.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "jop_nt_m1",
+          "nombre": "The canvas and the impure",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "The distinction between pure and impure animals is central to the Torah (Lev 11).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The distinction between pure and impure animals is central to the Torah (Lev 11).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The vision of the linen at Joppa symbolically abolished the ritual distinction, opening the gospel to all peoples.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The vision of the linen at Joppa symbolically abolished the ritual distinction, opening the gospel to all peoples.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

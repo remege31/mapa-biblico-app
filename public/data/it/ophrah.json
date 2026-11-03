@@ -1,0 +1,154 @@
+{
+  "id": "ophrah",
+  "nombre": "Ofra",
+  "tipo": "ciudad",
+  "lat": 32.60868269540592,
+  "lng": 35.28826433084549,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Casa di Gedeone, Chiamata all'altare e Giudizio di Baal"
+    }
+  ],
+  "descripcion_geo": "Città della tribù di Manasse, nella regione montuosa settentrionale di Israele, dimora di Gedeone e teatro della chiamata angelica che lo invita a liberare Israele dall'oppressione madianita, oltre al successivo episodio dell'efod che Gedeone realizza con le spoglie della sua vittoria.",
+  "altitud_m": 380,
+  "clima": "Montagna mediterranea: estati secche e calde, inverni freddi con piogge, tipici delle colline di Manasse.",
+  "recursos": [
+    "Torchio della famiglia di Gedeone (luogo della chiamata angelica)",
+    "Altare di Baal e immagine di Asera distrutti da Gideon",
+    "Terreni agricoli della regione montuosa di Manasse"
+  ],
+  "importancia_estrategica": "Ofra è il punto di origine di uno dei cicli di liberazione più lunghi del libro dei Giudici: la vocazione di Gedeone avviene nel torchio di famiglia mentre trebbia il grano nascosto per paura dei Madianiti, e la città è anche teatro del primo atto di obbedienza richiesto a Gedeone - la distruzione dell'altare Baal di suo padre - prima di qualsiasi campagna militare contro l'oppressore esterno.",
+  "otros_habitantes": [
+    {
+      "id": "abiezeritas_ofra",
+      "nombre": "Clan di Abiezer (famiglia di Gideon)",
+      "descripcion": "Famiglia della tribù di Manasse a cui appartiene Gedeone, residente a Ofra, che mantenne un altare a Baal e un'immagine di Asera sotto l'autorità di Joas, padre di Gedeone.",
+      "religion": "Sincretismo yahwista-baalista (prima della riforma di Gedeone)",
+      "periodo": "C. 1150 a.C"
+    },
+    {
+      "id": "madianitas_amenaza_ofra",
+      "nombre": "Madianiti e Amalechiti",
+      "descripcion": "Popoli invasori che opprimono duramente Israele con devastanti incursioni sui raccolti e sul bestiame, motivo per nascondere il grano che Gedeone trebbiava nel torchio di Ofra.",
+      "religion": "Politeismo madianita",
+      "periodo": "C. 1150 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "llamado-gedeon-ofra",
+      "titulo": "L'angelo di YHWH chiama Gedeone nel torchio di Ofra",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Mentre Gedeone trebbia il grano nascosto in un torchio per proteggerlo dai Madianiti, gli appare l'angelo di YHWH che lo saluta come 'uomo potente e valoroso', affidandogli la liberazione di Israele; Gedeone dubita delle sue capacità perché appartiene alla famiglia più povera di Manasse, ma riceve la promessa della presenza divina e un segno di conferma attraverso il fuoco che consuma la sua offerta.",
+      "referencias": [
+        "Gdc 6:11-24"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-destruye-altar-baal-ofra",
+      "titulo": "Gideon distrugge l'altare Baal di suo padre",
+      "fecha": "c. 1150 a.C.",
+      "descripcion": "Prima di qualsiasi azione militare, YHWH ordina a Gedeone di abbattere l'altare di Baal e di tagliare l'immagine di Asera che suo padre custodiva a Ofra; Gideon lo fa di notte per paura della sua famiglia e degli uomini della città, che scoprendolo il giorno dopo ne chiedono la morte, ma Joash difende suo figlio, sostenendo che se Baal è dio, dovrebbe difendersi da solo.",
+      "referencias": [
+        "Gdc 6:25-32"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-efod-ofra",
+      "titulo": "Gedeone fa un efod a Ofra che diventa una trappola idolatra",
+      "fecha": "c. 1130 a.C.",
+      "descripcion": "Dopo il successo della sua campagna militare, Gedeone richiede gli orecchini d'oro dal bottino e fa un efod che colloca a Ofrah, la sua città; il testo biblico riporta che \"tutti gli Israele si prostituirono lì dopo di lui\", diventando un ostacolo per Gedeone e la sua famiglia, in una svolta ironica che contrasta con la precedente distruzione del culto idolatrico della famiglia.",
+      "referencias": [
+        "Gdc 8:24-27"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gedeon",
+      "nombre": "Gedeone",
+      "rol": "Giudice Israele, liberatore dall'oppressione madianita",
+      "periodo": "hierro_1",
+      "descripcion": "Riceve in Ofra la chiamata angelica che lo rende giudice-liberatore di Israele, a cominciare dalla distruzione del culto idolatrico della sua stessa famiglia prima di condurre la famosa campagna dei trecento uomini contro Madian.",
+      "referencias": [
+        "Gdc 6:11-32",
+        "Gdc 7:1-25"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    },
+    {
+      "id": "joas_padre_gedeon",
+      "nombre": "Ioas, padre di Gedeone",
+      "rol": "Il padre di Gideon, inaspettato difensore di suo figlio",
+      "periodo": "c. 1150 a.C.",
+      "descripcion": "Sebbene originariamente conservasse l'altare di Baal distrutto da Gideon, difende suo figlio davanti alla folla inferocita con un argomento retorico che lascia a Baal stesso la responsabilità di difendersi, dando origine al soprannome di \"Jerobaal\" per Gideon.",
+      "referencias": [
+        "Gdc 6:28-32"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    },
+    {
+      "id": "angel_yhwh_ofra",
+      "nombre": "L'angelo di YHWH",
+      "rol": "Messaggero divino che chiama Gedeone",
+      "periodo": "c. 1150 a.C.",
+      "descripcion": "Appare a Gedeone presso il torchio di Ofra, confermando la sua chiamata attraverso un segno di fuoco che consuma miracolosamente l'offerta di carne e di pani azzimi presentata da Gedeone.",
+      "referencias": [
+        "Gdc 6:11-22"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ophra incapsula la tensione teologica centrale del ciclo di Gedeone: la necessità di purificare prima la famiglia e il culto immediato (l'altare Baal del proprio padre) prima che possa essere uno strumento di liberazione nazionale contro l'oppressione esterna, ironicamente seguito dalla ricaduta di Gedeone in una diversa forma di idolatria (l'efod) alla fine del suo ministero, illustrando che anche i liberatori di maggior successo non sono esenti dalle tentazioni che hanno combattuto in altri.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Sincretismo yahwista-baalista (culto della famiglia prima della riforma di Gedeone)"
+    ],
+    "mitos": [
+      {
+        "id": "jerobaal-baal-defienda-ofra",
+        "nombre": "L'origine del nome Jerobaal: 'lascia che Baal contenda'",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 6:32",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el argumento retórico de Joás como demostración temprana de la impotencia de los ídolos frente al poder real de YHWH",
+          "descripcion": "La tradizione ebraica valorizza l'argomentazione di Joas in difesa di Gedeone - lasciando che sia Baal stesso a difendere se sia veramente dio - come un primo ed efficace esempio di pratica polemica antiidolatrica, che dà origine anche al soprannome di 'Jerobaal' con cui Gedeone sarà conosciuto nei passaggi successivi, legando indelebilmente la sua identità a questo momento fondativo di rottura con il culto familiare di Baal.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio dimostra attraverso la pratica, e non solo la dottrina, l'incapacità degli idoli di difendersi o di agire, contrastando implicitamente con la potenza attiva di YHWH manifestata nella chiamata a Gedeone.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "id": "susa",
+  "nombre": "Susa",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 32.1892,
+  "lng": 48.2579,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Administrative capital of the Persian Empire, located on the Khuzistan plain at the foot of the Zagros Mountains (present-day Iran). One of the oldest cities in the world, inhabited since the 4th millennium BC. Seat of the winter palace of the Achaemenid kings, where embassies were received and the vast Persian Empire from Egypt to India was administered.",
+  "altitud_m": 23,
+  "clima": "Arid continental; extremely hot summers (up to 50°C), mild winters.",
+  "recursos": [
+    "Irrigated agriculture on the Karún and Shavur rivers",
+    "Persian royal trade routes",
+    "Building materials from across the empire (cedar, gold, stone)",
+    "Textile and craft production of the court"
+  ],
+  "importancia_estrategica": "Seat of the Persian throne where the fate of the peoples subject to the empire was decided, including the Jews in exile. The books of Esther and Nehemiah were developed in Susa, and the prophet Daniel received apocalyptic visions there. The city symbolizes the encounter between imperial power and Jewish loyalty in the diaspora.",
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ],
+  "periodos": [
+    {
+      "desde": -539,
+      "hasta": -330,
+      "nombre": "Capital of the Persian Achaemenid Empire"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "persas_aqueménidas",
+      "nombre": "Achaemenid Persians",
+      "descripcion": "Iranian town that made Susa one of its four capitals (along with Persepolis, Ecbatana and Babylon). Under Cyrus, Darius and Xerxes built the Apadana, the great audience hall of the palace.",
+      "religion": "Zoroastrianism",
+      "periodo": "post_exile"
+    },
+    {
+      "id": "elamitas",
+      "nombre": "Elamites",
+      "descripcion": "People who inhabited Susa for millennia before the Persian conquest. Their civilization was one of the oldest in the Middle East and left its mark on the city's architecture and culture.",
+      "religion": "Elamite polytheism — cult of Inshushinak",
+      "periodo": "iron_2"
+    },
+    {
+      "id": "judios_exiliados",
+      "nombre": "Jewish community in exile",
+      "descripcion": "Jews deported by Babylon who remained in the diaspora after Cyrus' edict. In Susa there was an active Jewish community in which the stories of Esther, Mordecai and the mission of Nehemiah are set.",
+      "religion": "Diaspora Judaism",
+      "periodo": "post_exile"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ester_en_susa",
+      "titulo": "Esther and Mordecai at the court of Susa",
+      "fecha": "c. 480 BC",
+      "descripcion": "During the reign of Ahasuerus (Xerxes I), the young Jewish girl Esther is chosen queen after the deposition of Vashti. His cousin Mordecai discovers a conspiracy by Vizier Haman to exterminate all the Jews in the empire. Esther, risking her life by appearing before the king without being called, manages to reverse the decree. Haman is executed on the gallows he had prepared for Mordecai and the Jews gain the right to defend themselves. The holiday of Purim commemorates his liberation.",
+      "referencias": [
+        "Esth 1:1-2",
+        "Esth 2:5-17",
+        "Esth 7:1-10",
+        "Esth 9:20-28"
+      ],
+      "personajes_clave": [
+        "ester",
+        "mardoqueo"
+      ]
+    },
+    {
+      "id": "nehemias_en_susa",
+      "titulo": "Nehemiah: cupbearer to the king in Susa",
+      "fecha": "c. 445 BC",
+      "descripcion": "Nehemiah, cupbearer to King Artaxerxes in the palace of Susa, receives news that the walls of Jerusalem remain in ruins. His grief before the king opens the door for him to request permission to return to Judah as governor and rebuild the city. The king agrees and provides him with letters and materials. Nehemiah sets out on the journey, inspects the walls at night and organizes the reconstruction in 52 days despite the opposition of Samballat and Tobiah.",
+      "referencias": [
+        "Neh 1:1-11",
+        "Neh 2:1-8",
+        "Neh 6:15"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    },
+    {
+      "id": "daniel_en_susa",
+      "titulo": "Daniel's visions in Susa",
+      "fecha": "c. 550–539 BC",
+      "descripcion": "The prophet Daniel receives in Susa, next to the Ulai River, the vision of the ram and the goat that symbolize the empires of Persia and Greece. The angel Gabriel explains the vision to him in the same place. Later, by the Tigris River, he receives the final vision that includes the promise of resurrection. The visions of Susa turn the city into the scene of the oldest biblical apocalyptic.",
+      "referencias": [
+        "Dan 8:2-27",
+        "Dan 10:1-21"
+      ],
+      "personajes_clave": [
+        "daniel",
+        "gabriel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ester",
+      "nombre": "Ester",
+      "rol": "Jewish queen at the court of Susa",
+      "periodo": "c. 480 BC",
+      "descripcion": "Young Jewish woman with the Hebrew name Hadassá, adopted by her cousin Mordecai after the death of her parents. Chosen queen of the Persian Empire, she initially hid her Jewish identity. Her intervention before King Ahasuerus to save his people made her the most powerful symbol of Jewish fidelity and courage in the diaspora. His story does not mention God explicitly, a unique feature in the Hebrew Bible.",
+      "referencias": [
+        "Esth 2:7-17",
+        "Esth 4:15-16",
+        "Esth 7:3-6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nehemias",
+      "nombre": "Nehemiah",
+      "rol": "Royal cupbearer — rebuilding governor by Jerusalem",
+      "periodo": "post_exilio",
+      "descripcion": "Highly trusted Jewish official in the court of Artaxerxes I. His position as royal cupbearer gave him direct access to the king, allowing him to obtain permission and resources to rebuild the walls of Jerusalem. His personal memoirs, preserved in the book of Nehemiah, are one of the most direct historical sources of the post-exilic period.",
+      "referencias": [
+        "Neh 1:1-3",
+        "Neh 2:1-9",
+        "Neh 13:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniel",
+      "rol": "Visionary prophet at the imperial court",
+      "periodo": "hierro_2",
+      "descripcion": "Young Jew deported to Babylon who rose to the highest positions in the Babylonian and Persian imperial administration. In Susa he received angelic visions of apocalyptic content that announced the end of the pagan empires and the establishment of the kingdom of God. His book inaugurates the apocalyptic genre in Jewish literature.",
+      "referencias": [
+        "Dan 8:2",
+        "Dan 10:4-12",
+        "Dan 12:1-3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Susa is the quintessential biblical setting for Judaism in the Diaspora: the place where the Jewish people learned to survive and flourish under imperial power without giving up their identity. The stories of Esther, Nehemiah, and Daniel share the tension between integration into imperial culture and fidelity to ancestral tradition, a dilemma that would define postbiblical Judaism.",
+    "religiones_presentes": [
+      "Judaism",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "ester_salva_a_su_pueblo",
+        "nombre": "Esther saves the Jewish people in Susa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Esth 4:14 — 9:28",
+          "fuente_secundaria": "Talmud Bavli, Meguilá 7a — debate sobre si el libro de Ester es sagrado; Raba afirma que fue compuesta con inspiración del Espíritu Santo; discusión sobre la ausencia del nombre de Dios",
+          "descripcion": "Esther fasts three days before presenting herself to the king, an action that Jewish tradition interprets as collective prayer even though the text does not mention God. His intervention saves the Jews from Haman's edict of extermination. The festival of Purim, celebrated in Adar, commemorates these events.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The book of Esther shows that divine providence operates even in spaces where God is not mentioned. Jewish identity is preserved not by obvious miracles but by community courage and solidarity.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2 (Al-Baqara): 49 — referencia general a la liberación de Israel",
+          "fuente_secundaria": "Ibn Kathir, Al-Bidaya wa-l-Nihaya, vol. 2 — menciona a los reyes persas y su relación con los israelitas en el exilio",
+          "descripcion": "Islamic tradition recognizes the Persian period as a time of favor towards the Israelites after the Babylonian exile. Although Esther does not appear nominally in the Quran, the historical framework of the return and divine protection over Israel in the diaspora is consistent with the Quranic narrative of the prophets.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Islam interprets Israel cycles of exile and return as signs of divine justice that punishes disobedience and rewards repentance.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  }
+}

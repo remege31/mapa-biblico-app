@@ -1,0 +1,118 @@
+{
+  "id": "antioch_pisidia",
+  "nombre": "Antioquía de Pisidia",
+  "tipo": "ciudad",
+  "lat": 38.3062,
+  "lng": 31.1892,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Colonia romana en el altiplano de Asia Menor, en la frontera entre Frigia y Pisidia, sobre la Vía Sebaste.",
+  "altitud_m": 1200,
+  "clima": "continental seco",
+  "recursos": [
+    "rutas comerciales",
+    "colonia militar"
+  ],
+  "importancia_estrategica": "Centro romano del interior de Anatolia; primer gran púlpito de Pablo.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "anp_h1",
+        "titulo": "El sermón en la sinagoga",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Pablo pronuncia su primer gran discurso registrado: la historia de Israel culmina en Jesús resucitado. Muchos creen; los opositores expulsan a los misioneros.",
+        "referencias": [
+          "Hch 13:14-52"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "anp_h2",
+        "titulo": "Regreso para fortalecer",
+        "fecha": "ca. 48 d.C.",
+        "descripcion": "Pese a la persecución sufrida, Pablo y Bernabé vuelven a confirmar a los discípulos y nombrar ancianos.",
+        "referencias": [
+          "Hch 14:21-23",
+          "2 Ti 3:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "anp_h3",
+        "titulo": "Persecución y expulsión de Pablo y Bernabé",
+        "fecha": "ca. 47 d.C.",
+        "descripcion": "Los judíos incitan a mujeres piadosas de la alta sociedad y a los notables de la ciudad contra Pablo y Bernabé, y los expulsan de su territorio. Ellos sacuden el polvo de sus pies y siguen hacia Iconio, llenos de gozo y del Espíritu Santo.",
+        "referencias": [
+          "Hch 13:50-52"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "anp_p1",
+        "nombre": "Pablo de Tarso",
+        "rol": "Apóstol",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Pronuncia en la sinagoga de Antioquía de Pisidia el primer gran discurso misionero que recoge Hechos y, ante el rechazo, anuncia que se vuelve a los gentiles.",
+        "referencias": [
+          "Hch 13:14-52"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "anp_p2",
+        "nombre": "Bernabé",
+        "rol": "Líder misionero",
+        "periodo": "s. I d.C.",
+        "descripcion": "Acompaña a Pablo en la predicación a judíos y gentiles y comparte con él la expulsión de la ciudad.",
+        "referencias": [
+          "Hch 13:43-50"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "anp_p3",
+        "nombre": "Los notables de la ciudad y las mujeres piadosas",
+        "rol": "Opositores",
+        "periodo": "s. I d.C.",
+        "descripcion": "Los judíos incitan a mujeres piadosas de alto rango y a los principales de la ciudad, que persiguen a Pablo y Bernabé y los expulsan de su territorio.",
+        "referencias": [
+          "Hch 13:50"
+        ],
+        "ruta": []
+      }
+    ],
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "caphtor",
+  "nombre": "Caftor (Creta)",
+  "tipo": "territorio",
+  "lat": 35.17,
+  "lng": 25.01,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Isla del Mediterráneo oriental, identificada con la Creta minoica. Tierra de origen de los filisteos según el AT.",
+  "altitud_m": 400,
+  "clima": "mediterráneo",
+  "recursos": [
+    "comercio marítimo",
+    "cerámica",
+    "agricultura",
+    "vid"
+  ],
+  "importancia_estrategica": "Origen de los filisteos; los caftoríes desplazaron a los aveos de la llanura costera cananea.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "caf_h1",
+      "titulo": "Los filisteos vinieron de Caftor",
+      "fecha": "ca. 1200-1150 a.C.",
+      "descripcion": "El AT afirma que los filisteos (quereteos) vinieron de Caftor, identificada con Creta; llegaron con la migración de los Pueblos del Mar.",
+      "referencias": [
+        "Dt 2:23",
+        "Am 9:7",
+        "Jer 47:4"
+      ],
+      "personajes_clave": [
+        "filisteos"
+      ]
+    },
+    {
+      "id": "caf_h2",
+      "titulo": "Los caftoríes desplazaron a los aveos",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "Los caftoríes vinieron de Caftor y destruyeron a los aveos que habitaban aldeas en la franja costera de Gaza.",
+      "referencias": [
+        "Dt 2:23"
+      ],
+      "personajes_clave": [
+        "caftoríes",
+        "aveos"
+      ]
+    },
+    {
+      "id": "caf_h3",
+      "titulo": "Amós y el origen de los filisteos",
+      "fecha": "ca. 760 a.C.",
+      "descripcion": "El profeta Amós confirma que Dios trajo a los filisteos de Caftor, igual que sacó a Israel de Egipto.",
+      "referencias": [
+        "Am 9:7"
+      ],
+      "personajes_clave": [
+        "Amós"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "caf_p1",
+      "nombre": "Amós",
+      "rol": "Profeta",
+      "periodo": "ca. 760 a.C.",
+      "descripcion": "Citó el origen filisteo en Caftor para demostrar que Dios guía los movimientos de todos los pueblos.",
+      "referencias": [
+        "Am 9:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caf_p2",
+      "nombre": "Quereteos",
+      "rol": "Guardia real de David",
+      "periodo": "ca. 1000 a.C.",
+      "descripcion": "Los quereteos, emparentados con los filisteos de Caftor, formaban parte de la guardia personal de David.",
+      "referencias": [
+        "2 Sam 8:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "caf_p3",
+      "nombre": "Filisteos",
+      "rol": "Pueblo de Caftor",
+      "periodo": "ca. 1200-600 a.C.",
+      "descripcion": "El pueblo más mencionado como adversario de Israel en el AT provenía de Caftor/Creta.",
+      "referencias": [
+        "Am 9:7"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Caftor (Creta): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "caf_m1",
+        "nombre": "El origen filisteo en Caftor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Am 9:7",
+          "fuente_secundaria": "",
+          "descripcion": "Dios sacó a los filisteos de Caftor así como sacó a Israel de Egipto (Am 9:7): todos los pueblos son dirigidos por la providencia divina.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dios sacó a los filisteos de Caftor así como sacó a Israel de Egipto (Am 9:7): todos los pueblos son dirigidos por la providencia divina.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

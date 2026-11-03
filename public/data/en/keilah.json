@@ -1,0 +1,189 @@
+{
+  "id": "keilah",
+  "nombre": "Keilah",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.6142,
+  "lng": 35.0028,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 18,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Canaanite city in the Shephelah of Judah"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Levitical city of Judah, rescued by David"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Border city of the kingdom of Judah"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Keilah (Hebrew: קְעִילָה) was a city in the Shephelah (lowlands) of Judah, identified with Tell Qila, in the western hills of Judah about 18 km northwest of Hebron and 8 km east of Lachish. It controlled a route between the Philistine Plain and the highlands of Judah. Mentioned in the Amarna letters (14th century BC) as a city under Egyptian influence, evidencing its importance in the Late Bronze Age. Levitical city according to Jos 15:44 and the list of cities from Judah. The David Keilah episode is notable for its use of the ephod to consult Yahweh—one of the few scenes in the OT to show oracular consultation in detail.",
+  "altitud_m": 450,
+  "clima": "Transitional Mediterranean — rainfall of 400-500 mm annually, dry and hot summers, rainy winters. Sefela soils suitable for olive groves and dryland crops.",
+  "recursos": [
+    "Threshing floors — explicitly mentioned in the David narrative (1 Sam 23:1)",
+    "Olive groves and vineyards on the slopes",
+    "Rainfed agriculture (wheat, barley)",
+    "Position on the route between the Philistine Plain and Hebron",
+    "Defensive walls that made it a refuge city (1 Sam 23:7)"
+  ],
+  "importancia_estrategica": "Keilah was a walled city in the corridor between Philistia and southern Judah. Its position on the route to Hebron made it strategically valuable to both Philistines and David. The episode of David in Keilah reveals the political dynamics of the period: a threatened Israelite city that the future king rescues, but whose inhabitants do not hesitate to hand him over to Saul if it guaranteed their safety.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-keilah",
+      "nombre": "Philistines who attacked Keilah",
+      "descripcion": "The Philistines attacked Keilah during David's time as an outlaw, plundering the threshing floors at harvest time—the time of greatest vulnerability for an agricultural city. This attack was not territorial conquest but systematic plunder: the Philistines used their military superiority to strip Israelite border cities of their agricultural production, keeping them economically dependent without the need for permanent occupation.",
+      "religion": "Philistine polytheism — Dagon and Baal-Zebub",
+      "periodo": "Iron I, c. 1000 BC"
+    },
+    {
+      "id": "habitantes-keilah",
+      "nombre": "Citizens of Keilah",
+      "descripcion": "The inhabitants of Keilah represent in the biblical narrative the ambiguity of political loyalty: rescued by David at the cost of the lives of their men, they were willing to hand it over to Saul to preserve their own safety. David's query of the ephod reveals that Yahweh himself confirmed this probability ('They will hand you over'). The episode establishes that political gratitude has limits when survival is at stake — and that David learned from this calculation that it couldn't trust walled cities.",
+      "religion": "Popular southern Judah Judah with possible Levitical influence (Levitical city)",
+      "periodo": "Iron I-II, c. 1200-586 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-libera-keilah",
+      "titulo": "David liberates Keilah: the outlaw king's first victory",
+      "fecha": "c. 1010 BC",
+      "descripcion": "While David was an outlaw in the desert with his six hundred men, he was told that the Philistines were plundering the threshing floors of Keilah. David consulted Yahweh via ephod: 'Should I attack the Philistines?' Yahweh replied: 'Go, attack the Philistines and save Keilah.' His men were hesitant—they had enough dangers in Judah—but David consulted again and Yahweh confirmed. They attacked the Philistines, took their livestock and defeated them with great slaughter, and saved the inhabitants of Keilah. David was established in the city. When Saul learned that David was in Keilah — a walled city with only one entrance — he believed that God had delivered it into his hands and mobilized his entire army.",
+      "referencias": [
+        "1 Sam 23:1-5",
+        "1 Sam 23:7-8"
+      ],
+      "personajes_clave": [
+        "david-keilah",
+        "abiatar-keilah"
+      ]
+    },
+    {
+      "id": "david-escapa-keilah",
+      "titulo": "The ephod of Abiathar: David asks and flees before the trap",
+      "fecha": "c. 1010 BC",
+      "descripcion": "When David learned that Saul was plotting his capture, he asked Abiathar the priest to bring the ephod. He consulted Yahweh: 'Will Saul come to Keilah? Will the citizens of Keilah hand me and my men over to Saul?' Yahweh responded twice: yes, Saul will come; yes, they will deliver you. David and his six hundred men left Keilah and dispersed. Saul gave up the expedition when he learned that David had escaped. The episode is theologically remarkable: Yahweh reveals not only what will happen but what would have happened if David had remained. Consulting the ephod functions as access to divine providence that allows the fugitive to anticipate betrayal and avoid it.",
+      "referencias": [
+        "1 Sam 23:6-13",
+        "1 Sam 23:9-12"
+      ],
+      "personajes_clave": [
+        "david-keilah",
+        "abiatar-keilah",
+        "saul-keilah"
+      ]
+    },
+    {
+      "id": "keilah-nehemias",
+      "titulo": "Keilah in Reconstruction: Loyalty to Nehemiah",
+      "fecha": "c. 445 BC",
+      "descripcion": "In Nehemiah's record of those who rebuilt the wall of Jerusalem, two governors of Keilah appear: Hasbiah and Bavai ben Henadad, governors of half of the district of Keilah, each repaired their section of the wall. This late data confirms that Keilah continued as an administrative center in the post-exilic period, with a system of districts under Persian authority. The mention in Nehemiah connects the city to the project of reconstructing post-exilic Jewish identity — the same city that David rescued participated in the reconstruction of Jerusalem five centuries later.",
+      "referencias": [
+        "Neh 3:17-18",
+        "Neh 11:30"
+      ],
+      "personajes_clave": [
+        "hasbias-keilah"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david-keilah",
+      "nombre": "David",
+      "rol": "Future king of Israel, outlaw who rescued Keilah while being chased by Saul",
+      "periodo": "hierro_2",
+      "descripcion": "David ben Jesse of Bethlehem is the most central king of the biblical narrative. Keilah's episode belongs to the darkest period of her life: pursued by Saul, living in the desert with six hundred men, without a fixed base. His decision to risk saving Keilah — against the advice of his own men, consulting Yahweh twice — shows the leadership profile that defines him: brave, pious, prudent. His escape from Keilah before being handed over also shows his political intelligence: he did not die out of loyalty to those who would not return it to him.",
+      "referencias": [
+        "1 Sam 16:1-13",
+        "1 Sam 23:1-13",
+        "2 Sam 5:1-5"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "keilah",
+        "ziklag",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "abiatar-keilah",
+      "nombre": "Abiathar",
+      "rol": "Fugitive priest, bearer of the ephod who consulted Yahweh",
+      "periodo": "hierro_2",
+      "descripcion": "Abiathar was the only survivor of the massacre of the priests of Nob ordered by Saul. He escaped to David carrying the ephod—the oracular instrument of consultation to Yahweh. At Keilah, Abiathar's ephod allowed David to consult God directly about the approaching danger. The union of David with Abiathar is the alliance between the anointed king and the legitimate priesthood (Eli's line) that survived the persecution of Saul. Abiathar accompanied David throughout his flight, reign, and old age, until he was deposed by Solomon for supporting Adonijah.",
+      "referencias": [
+        "1 Sam 22:20-23",
+        "1 Sam 23:6-12",
+        "1 Kgs 2:26-27"
+      ],
+      "ruta": [
+        "keilah",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "hasbias-keilah",
+      "nombre": "Keilah Beans",
+      "rol": "Post-exilic governor of Keilah, builder of the wall by Jerusalem",
+      "periodo": "c. 445 BC",
+      "descripcion": "Hasbiah ben Azrikam, governor of half the district of Keilah, is one of the many local administrators of the Persian period whom Nehemiah summoned to rebuild the wall of Jerusalem. Although it appears only briefly in the list of builders (Neh 3:17), its presence confirms that Keilah was still an important administrative center five centuries after the Davidic episodes. The continuity of Keilah as an administrative entity from the period of David to that of Nehemiah—through the Assyrian conquest, the Babylonian destruction, and the Persian return—is an example of the resilience of the urban centers of the Shephelah.",
+      "referencias": [
+        "Neh 3:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Keilah is the place where the ephod — an instrument of oracular consultation — appears in most detail throughout the OT. The double query of David (will Saul come? Will those from Keilah hand me over?) and the two affirmative divine responses reveal a theology of active providence: God not only knows the future but reveals it to allow the faithful to act prudently. Keilah is also where David learned that the gratitude of those rescued has limits — a lesson that would shape his later leadership.",
+    "religiones_presentes": [
+      "Yahwism with oracular consultation through ephod — Levitical priestly practice",
+      "Philistine influence in the border area — polytheism in neighboring communities"
+    ],
+    "mitos": [
+      {
+        "id": "efod-consulta-divina",
+        "nombre": "The ephod and consulting God: knowing before acting",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 23:6-12; Ex 28:15-30; Núm 27:21",
+          "fuente_secundaria": "Maimonides, Mishné Torá, Hiljot Klei HaMikdash 9:1-10; Talmud Bavli, Yomá 73a-b",
+          "descripcion": "The ephod with the Urim and Thummim was the official instrument of consulting God for state decisions. The Talmud (Yomah 73a-b) discusses how it worked: the letters on the high priest's breastplate lit up to give answers. Maimonides codified that only the king or high priest could consult the Urim and Thummim, and only for decisions that affected the entire community. The Keilah episode shows David—not yet king—using this instrument through Abiathar, implying that Samuel's prophetic anointing granted him royal prerogatives before the formal coronation.",
+          "similitudes": "Seeking divine will before acting on important decisions is a principle shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism codified the Urim and Thummim as a formal institution of the priesthood; the NT replaces it with prayer in the Holy Spirit.",
+          "significado_teologico": "The faithful do not act on their own impulse but by consulting the divine will. David's decision to ask God before taking a risk—and to ask again when in doubt—is the model of informed obedience.",
+          "posible_relacion_cultural": "Oracular consultation using sacred objects (lots, arrows, livers) was a universal practice in the ancient Near East. The Israelite ephod shares the formal structure of Mesopotamian oraculism but transforms it: there is no magic or manipulation, only personal question and response between the faithful and their God."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 23:2-4; Jn 16:13; Hch 1:24-26",
+          "fuente_secundaria": "Orígenes, Homilías sobre 1 Samuel; Agustín, Confesiones X,26",
+          "descripcion": "The Fathers of the Church read David's queries to the ephod as a type of the Christian prayer of discernment. The promise of the Spirit as guide ('he will guide you into all truth', Jn 16:13) was interpreted as the new ephod—the personal, inner access to divine will that replaces the external priestly instrument. Augustine in the Confessions uses the Davidic principle of consulting God before acting as the foundation of his theology of the restlessness of the soul: the heart does not rest until it consults and finds God.",
+          "similitudes": "The priority of divine will over human calculation before acting is identical in both traditions.",
+          "diferencias": "The NT internalizes divine access (prayer, Spirit) vs. the external priestly instrument of the OT.",
+          "significado_teologico": "God wants to be consulted. Action without prior divine consultation is arrogance; action after faithful consultation is obedience.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

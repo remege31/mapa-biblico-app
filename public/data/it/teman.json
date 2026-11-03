@@ -1,0 +1,137 @@
+{
+  "id": "teman",
+  "nombre": "Teman",
+  "tipo": "territorio",
+  "lat": 30.2,
+  "lng": 35.73,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Città o regione nel nord di Edom, famosa per i suoi saggi. Negli oracoli dei profeti è sinonimo di Edom.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Capitale spirituale di Edom; sede della sapienza edomita citata nei profeti.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tem_h1",
+      "titulo": "Elifaz il Temanita: amico di Giobbe",
+      "fecha": "ca. s. X a.C.",
+      "descripcion": "Elifaz il Temanita è il più importante dei tre amici che fanno visita a Giobbe; Viene dal saggio Temán.",
+      "referencias": [
+        "Gb 2:11",
+        "Gb 4:1"
+      ],
+      "personajes_clave": [
+        "Elifaz",
+        "Job"
+      ]
+    },
+    {
+      "id": "tem_h2",
+      "titulo": "I profeti contro Teman",
+      "fecha": "ca. 600-590 a.C.",
+      "descripcion": "Geremia, Ezechiele e Obadiah hanno profetizzato contro Teman come simbolo di Edom: la sua saggezza e il suo orgoglio saranno distrutti.",
+      "referencias": [
+        "Ger 49:7",
+        "Ez 25:13",
+        "Abd 1:9"
+      ],
+      "personajes_clave": [
+        "Jeremías",
+        "Abdías"
+      ]
+    },
+    {
+      "id": "tem_h3",
+      "titulo": "Abacuc: Dio viene da Temán",
+      "fecha": "ca. 600 a.C.",
+      "descripcion": "Il profeta Abacuc descrive la teofania di Dio che marcia da Teman e dal monte Paran con una gloria che copre i cieli.",
+      "referencias": [
+        "Ab 3:3"
+      ],
+      "personajes_clave": [
+        "Habacuc"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tem_p1",
+      "nombre": "Elifaz il Temanita",
+      "rol": "L'amico di Giobbe",
+      "periodo": "ca. s. X a.C.",
+      "descripcion": "Il più saggio degli amici di Giobbe; la sua teologia corretta ma inapplicabile viene corretta da Dio alla fine.",
+      "referencias": [
+        "Gb 2:11"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tem_p2",
+      "nombre": "Abacuc",
+      "rol": "Profeta",
+      "periodo": "ca. 600 a.C.",
+      "descripcion": "Ha descritto Dio in marcia da Teman come un'immagine del suo potere irresistibile.",
+      "referencias": [
+        "Ab 3:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tem_p3",
+      "nombre": "Geremia",
+      "rol": "Profeta",
+      "periodo": "627-586 a.C.",
+      "descripcion": "Chiese sarcasticamente: \"Non c'è più saggezza a Temán?\" quando profetizza contro Edom.",
+      "referencias": [
+        "Ger 49:7"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Teman: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "tem_m1",
+        "nombre": "La saggezza di Temán",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ger 49:7",
+          "fuente_secundaria": "",
+          "descripcion": "Teman era famosa per i suoi saggi (Ger 49:7); Elifaz il Temanita rappresenta la migliore saggezza umana che ancora fallisce di fronte al mistero della sofferenza di Giobbe.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Teman era famosa per i suoi saggi (Ger 49:7); Elifaz il Temanita rappresenta la migliore saggezza umana che ancora fallisce di fronte al mistero della sofferenza di Giobbe.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

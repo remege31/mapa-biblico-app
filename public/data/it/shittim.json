@@ -1,0 +1,162 @@
+{
+  "id": "shittim",
+  "nombre": "Sitim",
+  "tipo": "ciudad",
+  "lat": 31.85826217905818,
+  "lng": 35.64156652792805,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del Ferro I - Ultimo accampamento prima dell'attraversamento del Giordano, idolatria di Baal-peggiore"
+    }
+  ],
+  "descripcion_geo": "Pianura nelle steppe di Moab, a est del fiume Giordano, di fronte a Gerico, dove Israele si accampa nel suo ultimo lungo insediamento prima di entrare nella terra promessa. Il suo nome (“acacie”) descrive la vegetazione caratteristica della zona, alberi che fornivano anche il legno per il Tabernacolo.",
+  "altitud_m": -250,
+  "clima": "Deserto della Valle del Giordano: estremamente caldo d'estate, mite d'inverno, con vegetazione di acacia adattata all'aridità.",
+  "recursos": [
+    "Legno di acacia (utilizzato nella costruzione del Tabernacolo)",
+    "Ultimo punto di campeggio prima di attraversare il Giordano",
+    "Vicinanza a Moab e alla sua popolazione"
+  ],
+  "importancia_estrategica": "Shittim è l’ultimo grande accampamento israelita prima dell’ingresso nel Canaan, un momento culminante che unisce la preparazione finale alla conquista con uno degli episodi più gravi di apostasia del pellegrinaggio nel deserto: l’idolatria con Baal-peggiore e l’unione con le donne moabite, che scatena una pestilenza devastante e richiede una risposta drastica per ripristinare la fedeltà del popolo prima di attraversare il Giordano.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_sitim",
+      "nombre": "Donne e popolazione di Moab",
+      "descripcion": "La popolazione moabita e madianita invita gli israeliti a partecipare ai sacrifici ai loro dei, in particolare Baal-peggiori, provocando l'apostasia di massa a Shittim.",
+      "religion": "Politeismo moabita: culto di Chemosh e Baal-peggio",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    },
+    {
+      "id": "israelitas_sitim",
+      "nombre": "Israele dell'esodo",
+      "descripcion": "Il popolo israelita si accampa a Shittim, preparandosi alla traversata del Giordano, che cade massicciamente nell'idolatria con Baal-peggio prima dell'intervento correttivo di Fineas.",
+      "religion": "Yahvismo (con episodio di apostasia)",
+      "periodo": "C. 1400 a.C. (narrativa)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "idolatria-baal-peor-sitim",
+      "titulo": "L'apostasia di Baal-peggiore a Sitim",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Mentre Israele si accampa a Shittim, la gente comincia ad avere rapporti con donne moabite che li invitano ai sacrifici dei loro dei; Israele si unisce al culto di Baal-peggiore, incorrendo nell'ira di YHWH e in una piaga che uccide ventiquattromila persone.",
+      "referencias": [
+        "Nm 25:1-9"
+      ],
+      "personajes_clave": [
+        "finees"
+      ]
+    },
+    {
+      "id": "finees-detiene-plaga-sitim",
+      "titulo": "Fineas ferma la peste con il suo zelo",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Vedendo un israelita presentare apertamente una donna madianita davanti all'intera congregazione che piange all'ingresso del Tabernacolo, Fineas, nipote di Aronne, li trafigge entrambi con una lancia, fermando la peste; YHWH concede a lui e ai suoi discendenti un patto di sacerdozio perpetuo a causa del suo zelo.",
+      "referencias": [
+        "Nm 25:6-13"
+      ],
+      "personajes_clave": [
+        "finees"
+      ]
+    },
+    {
+      "id": "espias-jerico-sitim",
+      "titulo": "Giosuè invia spie da Sitim a Gerico",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Prima di attraversare il Giordano, Giosuè invia segretamente due spie da Shittim in ricognizione a Gerico e al territorio, che vengono accolte e protette da Rahab prima di tornare con un rapporto favorevole sulle possibilità di conquista.",
+      "referencias": [
+        "Gs 2:1-24"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "finees",
+      "nombre": "Finehas",
+      "rol": "Sacerdote, nipote di Aronne",
+      "periodo": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Con la sua azione decisiva ferma la piaga scatenata dall'apostasia di Baal-peor a Shittim, ricevendo in cambio un patto di sacerdozio perpetuo per i suoi discendenti per il suo zelo in favore della santità di YHWH.",
+      "referencias": [
+        "Nm 25:6-13"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    },
+    {
+      "id": "josue_sitim",
+      "nombre": "Giosuè",
+      "rol": "Successore di Mosè, leader della conquista",
+      "periodo": "bronce_tardio",
+      "descripcion": "Inviate le due spie da Sitim che riconosceranno Gerico, preparando la prima fase della conquista di Canaan dopo aver attraversato il Giordano.",
+      "referencias": [
+        "Gs 2:1"
+      ],
+      "ruta": [
+        "shittim",
+        "jericho"
+      ]
+    },
+    {
+      "id": "moises_sitim",
+      "nombre": "Mosè",
+      "rol": "Leader di Israele, esecutore della sentenza su Baal-peggiore",
+      "periodo": "bronce_tardio",
+      "descripcion": "Ordina l'esecuzione dei leader israeliti che hanno partecipato all'idolatria di Baal-peor a Shittim, in risposta diretta al comando divino di fermare l'apostasia prima di entrare nella terra promessa.",
+      "referencias": [
+        "Nm 25:4-5"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shittim è la scena dell'ultimo grande fallimento collettivo della generazione del deserto prima di entrare nella terra promessa, e contemporaneamente l'origine di un patto sacerdotale perpetuo concesso alla stirpe di Finehas per il loro zelo. L'episodio di Baal-worse diventa un successivo riferimento biblico paradigmatico dell'apostasia attraverso l'assimilazione religiosa e coniugale con i popoli vicini, un avvertimento ripetuto in successivi testi giuridici e profetici.",
+    "religiones_presentes": [
+      "Yahvismo (con grave episodio di apostasia)",
+      "Politeismo moabita: culto di Chemosh e Baal-peggio"
+    ],
+    "mitos": [
+      {
+        "id": "celo-finees-pacto",
+        "nombre": "Lo zelo di Fineas e il patto sacerdotale perpetuo",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nm 25:1-13",
+          "fuente_secundaria": "Talmud Babilónico, Sanedrín 82a (discusión sobre la legitimidad del acto de Finees); Sal 106:30-31",
+          "descripcion": "La tradizione rabbinica discute a lungo l'eccezionale legittimità dell'atto di Finehas - eseguito senza processo formale - come un caso unico di zelo giustificato dalla gravità della pubblica profanazione, citando il Salmo 106 dove l'atto \"gli fu attribuito come giustizia\"; l'alleanza del sacerdozio perpetuo concessa è interpretata come un diretto riconoscimento divino della purezza delle intenzioni di Finehas.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio stabilisce il principio che lo zelo per la santità di YHWH, esercitato con purezza di intenzione, può fermare il giudizio divino collettivo ed essere ricompensato con un'alleanza duratura.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nm 25:1-13 (recepción patrística sobre el celo religioso); 1 Cor 10:8 (referencia paulina al episodio como advertencia)",
+          "fuente_secundaria": "Comentarios patrísticos sobre el pasaje de 1 Corintios que cita explícitamente la cifra de víctimas del episodio de Baal-peor",
+          "descripcion": "L'apostolo Paolo cita esplicitamente l'episodio di Shittim come monito contro l'immoralità sessuale e l'idolatria per la comunità cristiana primitiva, integrando il racconto in una catechesi morale sulle conseguenze dell'apostasia collettiva.",
+          "similitudes": "Condivide con la lettura ebraica l'uso dell'episodio come monito paradigmatico contro l'apostasia per assimilazione religiosa.",
+          "diferencias": "La lettura cristiana si concentra sull'applicazione morale-pastorale dell'episodio come monito, senza sviluppare la discussione sulla legittimità giuridica dell'atto di Finehas presente nella tradizione rabbinica.",
+          "significado_teologico": "L'episodio diventa un esempio neotestamentario citato direttamente come monito contro la ripetizione dei peccati della generazione del deserto.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo dell'Esodo e del deserto come storia sacra fondamentale comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

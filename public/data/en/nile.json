@@ -1,0 +1,156 @@
+{
+  "id": "nile",
+  "nombre": "Nile River",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 30.09,
+  "lng": 31.23,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 51,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1800,
+      "hasta": -400,
+      "nombre": "Medium bronze - Post-exile"
+    }
+  ],
+  "descripcion_geo": "The longest river in the world (6,650 km), fertilizes the narrow strip of Egypt. Its annual floods made Egyptian civilization possible.",
+  "altitud_m": 5,
+  "clima": "arid-subtropical",
+  "recursos": [
+    "water",
+    "agriculture",
+    "papyrus",
+    "fishing"
+  ],
+  "importancia_estrategica": "Backbone of Egyptian civilization; scene of the exodus and childhood of Moses.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "nil_h1",
+      "titulo": "The baby Moses in the Nile",
+      "fecha": "ca. 1280 BC",
+      "descripcion": "Moses's mother puts him in a papyrus basket in the Nile to save him from the decree of death; The pharaoh's daughter finds him and adopts him.",
+      "referencias": [
+        "Exod 2:1-10"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Jocabed",
+        "hija del faraón"
+      ]
+    },
+    {
+      "id": "nil_h2",
+      "titulo": "The first plague: the Nile turns to blood",
+      "fecha": "ca. 1260 BC",
+      "descripcion": "Moses strikes the Nile with his staff and the water turns to blood; all the fish die.",
+      "referencias": [
+        "Exod 7:14-24"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Aarón",
+        "Faraón"
+      ]
+    },
+    {
+      "id": "nil_h3",
+      "titulo": "Joseph and the dream of the Nile",
+      "fecha": "ca. 1700 BC",
+      "descripcion": "Pharaoh dreams of seven fat cows and seven thin ones coming out of the Nile; Joseph interprets it as seven years of plenty and seven of famine.",
+      "referencias": [
+        "Gen 41:1-36"
+      ],
+      "personajes_clave": [
+        "José",
+        "Faraón"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nil_p1",
+      "nombre": "Moses",
+      "rol": "Liberator by Israel",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "Saved from the waters of the Nile as a baby; Then he turned those waters into blood as a sign before Pharaoh.",
+      "referencias": [
+        "Exod 2:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p2",
+      "nombre": "José",
+      "rol": "Statesman and dreamer",
+      "periodo": "ca. 1700 BC",
+      "descripcion": "His interpretation of the Nile dream brought him to power in Egypt and saved two nations from famine.",
+      "referencias": [
+        "Gen 41:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nil_p3",
+      "nombre": "Pharaoh's daughter",
+      "rol": "Egyptian princess",
+      "periodo": "ca. 1280 BC",
+      "descripcion": "He rescued the baby Moses from the Nile and adopted him as his son.",
+      "referencias": [
+        "Exod 2:5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Nile was divinity in Egypt (Hapi); His conversion into blood was a direct blow to the heart of Egyptian religiosity.",
+    "religiones_presentes": [
+      "egyptian_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "nil_m1",
+        "nombre": "The Nile as god",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The first plague turned the sacred Nile into blood, declaring that the God of Israel surpasses the Egyptian river-god.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The first plague turned the sacred Nile into blood, declaring that the God of Israel surpasses the Egyptian river-god.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2:13-16",
+          "fuente_secundaria": "",
+          "descripcion": "The baby Moses saved from the waters is seen as a prefiguration of Jesus saved from Herod's slaughter (Mt 2:13-16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The baby Moses saved from the waters is seen as a prefiguration of Jesus saved from Herod's slaughter (Mt 2:13-16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 20:37-40",
+          "fuente_secundaria": "",
+          "descripcion": "Musa (Moses) appears in the Quran; His story on the Nile is told in Cor 20:37-40.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Musa (Moses) appears in the Quran; His story on the Nile is told in Cor 20:37-40.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

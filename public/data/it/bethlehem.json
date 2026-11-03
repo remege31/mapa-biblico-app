@@ -1,0 +1,324 @@
+{
+  "id": "bethlehem",
+  "nombre": "Betlemme",
+  "tipo": "ciudad",
+  "lat": 31.7054,
+  "lng": 35.2024,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 44,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Insediamento tribale Giuda"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II: città natale di Davide"
+    }
+  ],
+  "descripcion_geo": "Betlemme si trova negli altopiani di Giuda, a circa 8 km a sud di Gerusalemme, ad un'altitudine di 765 metri. Il suo nome probabilmente significa Casa del Pane o Casa della Carne, in riferimento alla sua fertilità agricola. Situato sulla strada principale da Gerusalemme a Hebron, ai margini dello spartiacque tra il Mediterraneo e il Mar Morto, Betlemme domina una regione di terrazzamenti agricoli produttivi.",
+  "altitud_m": 765,
+  "clima": "Montagna mediterranea: inverni freddi con precipitazioni moderate (500-600 mm all'anno), estati secche e calde. I terrazzamenti sulle sue colline sono ideali per la coltivazione di ulivi, viti e cereali.",
+  "recursos": [
+    "Terreni agricoli terrazzati (cereali, ulivi, viti)",
+    "Pascoli per bovini (contesto pastore Davide)",
+    "Acqua (sorgenti locali)",
+    "Calcare (costruzione)"
+  ],
+  "importancia_estrategica": "Città piccola ma dall'enorme peso simbolico in quanto città natale di Davide, il re modello di Israele. La sua posizione sulla rotta Gerusalemme-Hebron gli ha conferito una certa importanza commerciale. La profezia di Michea lo ha trasformato in un luogo di attesa messianica: da Betlemme uscirà colui che governerà Israele.",
+  "otros_habitantes": [
+    {
+      "id": "efrateos",
+      "nombre": "Efraite di Betlemme",
+      "descripcion": "Betlemme era conosciuta anche come Efrata o Betlemme di Efrata (Mic 5:2), distinguendola da un'altra Betlemme a Zabulon. Gli Efratei erano il clan dominante nella città. A questo lignaggio appartenevano la famiglia di Elimelech, padre di Ruth, e quella di Jesse, padre di Davide. L'identificazione Betlemme-Efrata appare già nel racconto della morte di Rachele (Gen 35,19).",
+      "religion": "Yahvismo della tribù Giuda",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "moabitas-rut",
+      "nombre": "Ruth la Moabita",
+      "descripcion": "Ruth, la nuora di Naomi, era una moabita, appartenente a un popolo considerato straniero e ritualmente problematico per Israele (Dt 23:3). La sua adesione a Israele e YHWH — Dove vai tu, andrò anch'io — e la sua integrazione in Betlemme attraverso il matrimonio con Boaz sono il tema del libro di Ruth. Diventa la bisnonna di Davide e un'antenata del lignaggio messianico.",
+      "religion": "Conversione allo Yahwismo: dal politeismo moabita al Dio di Israele",
+      "periodo": "C. 1100–1050 a.C"
+    },
+    {
+      "id": "filisteos-belen",
+      "nombre": "Guarnigione filistea",
+      "descripcion": "Durante il regno di Saul e l'inizio di quello di Davide, Betlemme era sotto il controllo filisteo intermittente. Il famoso episodio dei tre uomini potenti che ruppero le linee filistee per portare l'acqua Davide dal pozzo di Betlemme (2 Sam 23:13-17) riflette che a quel tempo Betlemme aveva una guarnigione filistea. Davide ha rifiutato l'acqua, considerandola il sangue di coloro che hanno rischiato la vita.",
+      "religion": "Politeismo filisteo – culto di Dagon e delle divinità egee",
+      "periodo": "C. 1050–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rut-belen",
+      "titulo": "Ruth in Betlemme: la straniera che fondò la stirpe di Davide",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Ruth la Moabita arrivò a Betlemme con sua suocera Naomi dopo la morte dei suoi mariti a Moab. Nei campi d'orzo di Betlemme, durante la mietitura, Rut raccolse i resti che i mietitori lasciavano ai poveri. Il proprietario Boaz, parente di Naomi, riconobbe la sua lealtà e la protesse. In seguito all'istituzione del go'el (redentore della famiglia), Boaz sposò Ruth, riscattando il nome e l'eredità della famiglia di Elimelech. Suo figlio Obed era il padre di Jesse e nonno di Davide. Il libro di Ruth è la più bella storia di lealtà (hesed) dell'Antico Testamento.",
+      "referencias": [
+        "Rt 1:1-22",
+        "Rt 2:1-23",
+        "Rt 3:1-18",
+        "Rt 4:1-22"
+      ],
+      "personajes_clave": [
+        "rut",
+        "david"
+      ]
+    },
+    {
+      "id": "samuel-unge-david",
+      "titulo": "Samuele unge Davide in Betlemme: il pastore che sarà re",
+      "fecha": "c. 1025 a.C.",
+      "descripcion": "Dopo aver rifiutato Saul, YHWH inviò il profeta Samuele a Betlemme, a casa di Iesse, per ungere il nuovo re. Samuele ha esaminato i sette figli maggiori di Jesse, impressionato dal loro aspetto. YHWH gli disse: Gli uomini guardano le apparenze, ma io guardo il cuore. L'ottavo figlio, il più giovane, si prendeva cura del gregge. Quando lo condussero, YHWH disse: Alzati e ungilo; è questo. Samuele prese il corno dell'olio e unse Davide alla presenza dei suoi fratelli. Da quel giorno in poi lo Spirito di YHWH prese possesso di Davide.",
+      "referencias": [
+        "1 Sam 16:1-13"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel"
+      ]
+    },
+    {
+      "id": "miqueas-mesias",
+      "titulo": "La profezia di Michea: il sovrano emergerà da Betlemme",
+      "fecha": "c. 700 a.C.",
+      "descripcion": "Il profeta Michea di Moresheth, contemporaneo di Isaia, pronunciò l'oracolo che fece di Betlemme una città messianica per sempre: E tu, Betlemme Efrata, sebbene tu sia il più piccolo tra i clan di Giuda, da te uscirà colui che governerà Israele; Le sue origini risalgono ai tempi antichi, ai giorni eterni (Mic 5,2). Il contrasto tra la piccolezza di Betlemme e la grandezza di colui che nascerà da lei è il nucleo teologico dell'oracolo. Gli scribi citarono questo testo davanti a Erode quando i magi interrogarono il luogo di nascita del re dei Giudei (Mt 2,5-6).",
+      "referencias": [
+        "Mic 5:2-5",
+        "Mt 2:1-6",
+        "Gv 7:42"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rut",
+      "nombre": "Ruth",
+      "rol": "Moabita, bisnonna di Davide, modello di fedeltà",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Ruth è il paradigma biblico del fedele convertito e dello straniero integrato. La sua dichiarazione di lealtà a Naomi: dove vai tu, andrò anch'io; Il tuo popolo sarà il mio popolo e il tuo Dio sarà il mio Dio: è uno dei testi più citati nella letteratura religiosa universale. Essendo bisnonna di Davide e antenata della stirpe messianica, la sua presenza nella genealogia di Gesù (Mt 1:5) sottolinea che la promessa trascende i confini etnici.",
+      "referencias": [
+        "Rt 1:1-22",
+        "Rt 2:1-23",
+        "Rt 4:13-22",
+        "Mt 1:5"
+      ],
+      "ruta": [
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "david-belen",
+      "nombre": "Davide di Jesse",
+      "rol": "Pastore unto re in Betlemme",
+      "periodo": "hierro_1",
+      "descripcion": "Il più giovane degli otto figli di Jesse, Davide ha trascorso l'infanzia e la giovinezza nei campi di Betlemme come pastore. Fu lì che sviluppò le abilità - la fionda, la lira, il coraggio di fronte all'orso e al leone - che in seguito avrebbe manifestato come guerriero e re. L'unzione di Samuele in Betlemme segnò l'inizio di un percorso che avrebbe portato il pastore a diventare il re più ricordato di Israele e il modello dell'atteso Messia.",
+      "referencias": [
+        "1 Sam 16:1-13",
+        "1 Sam 17:12-15",
+        "2 Sam 5:1-5"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "samuel-belen",
+      "nombre": "Samuele",
+      "rol": "Ultimo giudice, primo creatore del re di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Nazareno fin dal grembo materno, Samuele fu la figura di transizione tra l'epoca dei giudici e quella della monarchia. Unse Saul come primo re e, dopo il suo rifiuto da parte di YHWH, fu inviato a Betlemme per ungere Davide. Il suo viaggio verso Betlemme era segreto: temeva che Saul lo avrebbe ucciso dopo aver appreso di aver consacrato un successore. La scena dell'unzione di Davide è il culmine del suo ministero profetico e del gesto che plasma il futuro di Israele.",
+      "referencias": [
+        "1 Sam 1:1-28",
+        "1 Sam 3:1-21",
+        "1 Sam 16:1-13",
+        "1 Sam 25:1"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Betlemme è la città di Davide e, per estensione, la città della speranza messianica. Piccola e periferica politicamente, è stata scelta come luogo d'origine del re ideale proprio per la sua umiltà: YHWH non sceglie secondo criteri umani di grandezza. Il libro di Ruth situa nei campi di Betlemme l'incontro tra l'ebreo e lo straniero che produrrà la stirpe davidica – un messaggio universalista al cuore della tradizione particolare. La profezia di Michea ha trasformato Betlemme in un luogo di attesa attiva: da questa piccola città emergerà il sovrano la cui origine è eterna.",
+    "religiones_presentes": [
+      "Yahvismo di Giuda (tribù di Giuda, stirpe di Efrata)",
+      "Contatto con lo Yahwismo dal paganesimo (conversione di Ruth)"
+    ],
+    "mitos": [
+      {
+        "id": "belen-mesias",
+        "nombre": "Betlemme come culla del Messia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Miqueas 5:2; 1 Samuel 16:1-13",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 98b; Midrash Eija Rabbati; Zohar III, 272a",
+          "descripcion": "La tradizione talmudica collega la profezia di Michea con l'attesa del Messia figlio di Davide. Lo Zohar sviluppa l'idea che il Messia sia nato a Betlemme lo stesso giorno della distruzione del Tempio. Alcuni testi menzionano un Messia in attesa alle porte di Roma tra poveri e lebbrosi.",
+          "similitudes": "Betlemme come origine del re unto è condivisa dalle tradizioni ebraica e cristiana.",
+          "diferencias": "L'ebraismo attende il Messia che deve ancora venire; Il cristianesimo afferma di essere già venuto nella persona di Gesù di Nazareth nato a Betlemme.",
+          "significado_teologico": "La piccolezza di Betlemme contro la grandezza del Messia: YHWH inverte i valori umani, scegliendo il piccolo per manifestare il grande.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mateo 2:1-12; Lucas 2:1-20; Miqueas 5:2",
+          "fuente_secundaria": "Justino Mártir, Diálogo con Trifón 78; Orígenes, Contra Celso I.51",
+          "descripcion": "Il Vangelo di Matteo presenta la nascita di Gesù in Betlemme come esplicito adempimento di Michea 5:2. Luca colloca la nascita in una mangiatoia durante il censimento di Quirino. I pastori dei campi vicini e i saggi dell'Oriente sono i primi adoratori. Betlemme divenne luogo di pellegrinaggio a partire dal II secolo; La Basilica della Natività, costruita da Costantino (330 d.C.), è uno degli edifici religiosi più antichi al mondo in uso continuativo.",
+          "similitudes": "La nascita in Betlemme come adempimento della profezia di Michea è il punto focale della narrativa dell'infanzia di Gesù.",
+          "diferencias": "Matteo e Luca hanno narrazioni infantili diverse; La tradizione cristiana li ha armonizzati ma i dettagli divergono.",
+          "significado_teologico": "Il Figlio di Dio nasce nel luogo più umile – una mangiatoia nella più piccola città – come un totale capovolgimento dei valori del potere.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bel_nt_h1",
+        "titulo": "La nascita di Gesù",
+        "fecha": "ca. 6-4 a.C.",
+        "descripcion": "Gesù nasce in Betlemme durante il censimento di Quirino; gli angeli annunciano la notizia ai pastori.",
+        "referencias": [
+          "Lc 2:1-20",
+          "Mt 2:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "José",
+          "pastores",
+          "magos"
+        ]
+      },
+      {
+        "id": "bel_nt_h2",
+        "titulo": "L'adorazione dei Magi",
+        "fecha": "ca. 6-4 a.C.",
+        "descripcion": "I maghi dell'Est seguono la stella fino a Betlemme e offrono oro, incenso e mirra al bambino Gesù.",
+        "referencias": [
+          "Mt 2:1-12"
+        ],
+        "personajes_clave": [
+          "magos",
+          "Herodes el Grande"
+        ]
+      },
+      {
+        "id": "bel_nt_h3",
+        "titulo": "La strage degli innocenti",
+        "fecha": "ca. 4 a.C.",
+        "descripcion": "Erode ordina l'uccisione di tutti i bambini sotto i due anni in Betlemme dopo aver appreso della nascita del re.",
+        "referencias": [
+          "Mt 2:16-18"
+        ],
+        "personajes_clave": [
+          "Herodes el Grande"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bel_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia nato nel Betlemme",
+        "periodo": "ca. 6-4 a.C.",
+        "descripcion": "La sua nascita in Betlemme soddisfa la profezia di Michea 5:2 sull'origine del Messia.",
+        "referencias": [
+          "Lc 2:4-7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bel_nt_p2",
+        "nombre": "Maria",
+        "rol": "Madre di Gesù",
+        "periodo": "s. I a.C.",
+        "descripcion": "Ha dato alla luce Gesù in Betlemme; Depose il bambino in una mangiatoia.",
+        "referencias": [
+          "Lc 2:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bel_nt_p3",
+        "nombre": "Erode il Grande",
+        "rol": "Re della Giudea",
+        "periodo": "37-4 a.C.",
+        "descripcion": "Ha tentato di uccidere il ragazzo Gesù ordinando il massacro di innocenti in Betlemme.",
+        "referencias": [
+          "Mt 2:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città di Davide e luogo di nascita di Gesù; Luogo di pellegrinaggio cristiano dal II secolo.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "Islam"
+      ],
+      "mitos": [
+        {
+          "id": "bel_nt_m1",
+          "nombre": "La nascita del Messia",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Michea 5:2 profetizza che il sovrano di Israele uscirà da Betlemme; I rabbini lo identificano con il Messia.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Michea 5:2 profetizza che il sovrano di Israele uscirà da Betlemme; I rabbini lo identificano con il Messia.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Gesù nasce in Betlemme, adempiendo la profezia; angeli, pastori e magi assistono all'evento.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Gesù nasce in Betlemme, adempiendo la profezia; angeli, pastori e magi assistono all'evento.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Il Corano collega la nascita miracolosa di Isa (Gesù) alla vergine Maryam, sebbene non menzioni esplicitamente Betlemme.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il Corano collega la nascita miracolosa di Isa (Gesù) alla vergine Maryam, sebbene non menzioni esplicitamente Betlemme.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

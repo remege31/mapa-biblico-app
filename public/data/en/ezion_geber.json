@@ -1,0 +1,160 @@
+{
+  "id": "ezion_geber",
+  "nombre": "Ezion-geber",
+  "tipo": "ciudad",
+  "lat": 29.75804307645581,
+  "lng": 35.0306017443078,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Exodus Camp"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomon trading port on the Red Sea"
+    }
+  ],
+  "descripcion_geo": "Port city at the northern end of the Gulf of Aqaba on the Red Sea, one of Israel's few maritime access points to the south, used both as a camp during the exodus and, centuries later, as a trading port for Solomon's merchant fleet.",
+  "altitud_m": 0,
+  "clima": "Tropical desert — extremely hot throughout the year, with very little precipitation, typical of the coast of the Gulf of Aqaba.",
+  "recursos": [
+    "Natural harbor on the Red Sea",
+    "Access to maritime trade routes to Ofir and southern Arabia",
+    "Shipyards for the construction of the merchant fleet"
+  ],
+  "importancia_estrategica": "Ezion-geber is Israel's only significant seaport to the south, used by Solomon to build a fleet that, in collaboration with Phoenician sailors from Hiram of Tyre, sailed to Ophir bringing gold and exotic goods; Its control represents the only Israeli access route to maritime trade in the Red Sea and the Indian Ocean.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_ezion_geber",
+      "nombre": "Edomites",
+      "descripcion": "Local population of the coastal region of the Gulf of Aqaba, territory under Edomite influence or control at different periods, direct neighbor of the port of Ezion-geber.",
+      "religion": "Edomite polytheism – cult of Qos",
+      "periodo": "c. 1200–586 BC"
+    },
+    {
+      "id": "fenicios_ezion_geber",
+      "nombre": "Hiram's Phoenician Sailors",
+      "descripcion": "Experienced crews sent by Hiram of Tyre to sail alongside Solomon's servants on trading expeditions from Ezion-geber to Ophir.",
+      "religion": "Phoenician polytheism — cult of Baal, Astarte and Melkart",
+      "periodo": "c. 960–930 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "campamento-exodo-ezion-geber",
+      "titulo": "Ezion-geber as an exodus camp",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "Ezion-geber appears in the list of Israel's camping places during his pilgrimage through the desert, recorded between the stages prior to arriving in the desert of Zin (Kadesh).",
+      "referencias": [
+        "Num 33:35-36"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "flota-salomon-ezion-geber",
+      "titulo": "Solomon builds its merchant fleet in Ezion-geber",
+      "fecha": "c. 960–950 BC",
+      "descripcion": "Solomon builds ships in Ezion-geber, by the Red Sea in the land of Edom; Hiram of Tyre sends his servants, experienced sailors, to sail with Solomon's men to Ophir, where they bring approximately four hundred and twenty talents of gold for the king.",
+      "referencias": [
+        "1 Kgs 9:26-28"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "josafat-flota-naufragio-ezion-geber",
+      "titulo": "Jehoshaphat tries to revive the fleet and fails",
+      "fecha": "c. 870 BC",
+      "descripcion": "King Jehoshaphat of Judah builds ships at Ezion-geber to sail to Ophir in search of gold, allying himself with Ahaziah of Israel for the project; The prophet Eliezer announces the failure of the plan due to the unholy alliance with Israel, and indeed the ships break up and never set sail.",
+      "referencias": [
+        "1 Kgs 22:48-49",
+        "2 Chr 20:35-37"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "salomon_ezion_geber",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the merchant fleet",
+      "periodo": "hierro_2",
+      "descripcion": "He established the base port of his commercial fleet in Ezion-geber, in collaboration with Hiram of Tyre, obtaining through these maritime expeditions the gold of Ophir that contributes significantly to the legendary wealth of his reign.",
+      "referencias": [
+        "1 Kgs 9:26-28"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ezion_geber"
+      ]
+    },
+    {
+      "id": "hiram_ezion_geber",
+      "nombre": "Hiram by Tyre",
+      "rol": "King of Tyre, supplier of experienced sailors",
+      "periodo": "c. 980–947 BC",
+      "descripcion": "He sends his Phoenician sailors, experts in maritime navigation of which Israel lacked its own tradition, to make commercial expeditions from Ezion-geber to Ophir possible.",
+      "referencias": [
+        "1 Kgs 9:27"
+      ],
+      "ruta": [
+        "ezion_geber"
+      ]
+    },
+    {
+      "id": "josafat_ezion_geber",
+      "nombre": "Jehoshaphat",
+      "rol": "King by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He attempts to revive maritime trade from Ezion-geber in alliance with Ahaziah of Israel, a project that fails with the shipwreck before setting sail, an episode interpreted prophetically as a consequence of a religiously inappropriate alliance.",
+      "referencias": [
+        "1 Kgs 22:48-49",
+        "2 Chr 20:35-37"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ezion_geber"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ezion-geber represents the period of greatest commercial openness and material prosperity of Israel under Solomon, where cooperation with Phoenician Tyre allows access to distant trade routes; The subsequent failure of Jehoshaphat's similar initiative, prophetically attributed to an inappropriate alliance with the northern kingdom, illustrates the Deuteronomist theology according to which the success of royal endeavors depends on the religious and political correctness of the alliances established, not only on the technical feasibility of the project.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Edomite polytheism (surrounding territory)",
+      "Phoenician polytheism (allied sailors)"
+    ],
+    "mitos": [
+      {
+        "id": "naufragio-profetico-josafat",
+        "nombre": "The prophetic shipwreck of Jehoshaphat's fleet",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Kgs 22:48-49; 2 Cr 20:35-37",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la profecía de Eliezer contra la alianza de Josafat con la casa de Acab",
+          "descripcion": "Jewish tradition interprets the failure of Jehoshaphat's fleet as a paradigmatic example of how even a generally pious king can have his legitimate projects thwarted when he pursues them through inappropriate alliances with idolatrous kings, reinforcing the principle that material success depends on the purity of political associations, not just the technical viability of the undertaking.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The failure of Jehoshaphat's fleet teaches that alliances with those who practice idolatry compromise even the materially sensible projects of a just king.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

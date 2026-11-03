@@ -1,0 +1,162 @@
+{
+  "id": "bozrah",
+  "nombre": "Bosra",
+  "tipo": "ciudad",
+  "lat": 30.734691,
+  "lng": 35.60625,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II - Capitale di Edom, Oracoli del Giudizio"
+    }
+  ],
+  "descripcion_geo": "Capitale del regno di Edom, situata a sud del Mar Salato, nella regione montuosa che occuparono i discendenti di Esaù secondo la tradizione genealogica biblica. La sua posizione fortificata su un'altura ne fece il centro amministrativo e simbolico del potere edomita.",
+  "altitud_m": 1000,
+  "clima": "Montagna semiarida: estati calde e secche, inverni freddi, tipici degli altopiani Edom.",
+  "recursos": [
+    "Posizione fortificata come capitale amministrativa di Edom",
+    "Altopiani edomiti"
+  ],
+  "importancia_estrategica": "Bozra è la capitale simbolica di Edom negli oracoli profetici di giudizio, più volte menzionata come bersaglio principale della punizione divina a causa dell'ostilità storica di Edom nei confronti di Israele, in particolare per la sua condotta durante la caduta di Gerusalemme davanti a Babilonia, motivo che intensifica notevolmente il tono degli oracoli contro questa città rispetto ad altri capoluoghi regionali.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_bosra",
+      "nombre": "Edomiti (discendenti di Esaù)",
+      "descripcion": "Popolazione di Bosra, capitale del regno di Edom, genealogicamente identificata come discendente di Esaù, fratello di Giacobbe, secondo la tradizione biblica.",
+      "religion": "Politeismo edomita – culto di Qos",
+      "periodo": "Dal c. 1200 a.C"
+    },
+    {
+      "id": "rezagados_juicio_bosra",
+      "nombre": "Popolazione sottoposta al giudizio profetico",
+      "descripcion": "Abitanti di Bozra descritti negli oracoli di Isaia e Geremia come destinatari della punizione divina annunciata contro Edom per la loro ostilità nei confronti di Israele.",
+      "religion": "Politeismo edomita",
+      "periodo": "C. 740–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-oraculo-bosra",
+      "titulo": "Isaia profetizza il giorno della vendetta di YHWH su Bozra",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Il profeta Isaia include un ampio oracolo che descrive YHWH che arriva da Edom e Bozrah in vesti tinte di rosso, in un'immagine di giudizio violento descritto come \"giorno della vendetta\" e \"anno del mio redento\", utilizzando esplicitamente il torchio come metafora della punizione divina sulle nazioni ostili.",
+      "referencias": [
+        "Is 34:6",
+        "Is 63:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-oraculo-bosra",
+      "titulo": "Geremia profetizza la distruzione di Bozra",
+      "fecha": "c. 600 a.C.",
+      "descripcion": "Geremia include Bozra nel suo ampio oracolo contro Edom, annunciando che diventerà motivo di paura e che nessuno vi abiterà più, paragonando l'entità della distruzione a quella di Sodoma e Gomorra.",
+      "referencias": [
+        "Ger 49:13",
+        "Ger 49:22"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "amos-oraculo-bosra",
+      "titulo": "Amos profetizza il fuoco su Bozra",
+      "fecha": "c. 760–750 a.C.",
+      "descripcion": "Il profeta Amos, nella sua serie di oracoli contro le nazioni vicine a Israele, annuncia che manderà contro Teman un fuoco che consumerà i palazzi di Bozra, accusando Edom di aver inseguito suo fratello con la spada senza mostrare pietà.",
+      "referencias": [
+        "Am 1:11-12"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_bosra",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Compone una delle immagini più violente e vivide dell'intero corpus profetico quando descrive YHWH che arriva da Bozra con vesti macchiate di sangue dopo aver pigiato il torchio dell'ira divina sulle nazioni.",
+      "referencias": [
+        "Is 34:1-17",
+        "Is 63:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_bosra",
+      "nombre": "Geremia",
+      "rol": "Profeta di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Include Bozrah nel suo ampio oracolo di giudizio contro Edom, intensificato dall'ostilità edomita documentata durante la caduta finale di Gerusalemme.",
+      "referencias": [
+        "Ger 49:7-22"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "amos_bosra",
+      "nombre": "Amos",
+      "rol": "Profeta Giuda inviato alle nazioni vicine",
+      "periodo": "hierro_2",
+      "descripcion": "Denuncia Edom per la sua implacabile persecuzione di Israele (\"suo fratello\") senza pietà, annunciando il fuoco divino sui palazzi fortificati di Bozrah.",
+      "referencias": [
+        "Am 1:11-12"
+      ],
+      "ruta": [
+        "tekoa"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bozra riceve un trattamento particolarmente duro nel corpus profetico rispetto ad altre capitali regionali, motivato dalla condizione di Edom come città sorella di Israele, un discendente di Esaù, la cui ostilità è interpretata come un tradimento familiare aggravato, non una semplice inimicizia tra nazioni straniere. L'immagine del 'torchio' di Isaia, dove lo stesso YHWH appare macchiato del sangue del giudizio eseguito contro Edom, diventa una delle metafore più intense del giudizio divino in tutta la letteratura profetica biblica.",
+    "religiones_presentes": [
+      "Politeismo edomita – culto di Qos"
+    ],
+    "mitos": [
+      {
+        "id": "lagar-ira-divina-bosra",
+        "nombre": "Il torchio dell'ira divina su Bozrah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Is 34:1-17; Is 63:1-6",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la severidad especial del juicio contra Edom debido al parentesco fraterno con Israel a través de Esaú",
+          "descripcion": "La tradizione ebraica spiega la particolare intensità del linguaggio profetico contro Bozra e Edom facendo appello all'aggravante della parentela: a differenza di altre nazioni, Edom discende direttamente da Esaù, fratello di Giacobbe, che trasforma la sua storica ostilità verso Israele – soprattutto durante la caduta di Gerusalemme – in un tradimento familiare che merita un giudizio proporzionalmente più duro di quello diretto contro le nazioni prive di quel sangue. collegamento.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'eccezionale severità della sentenza contro Bosra illustra il principio secondo cui il tradimento tra popoli imparentati costituisce una colpa morale aggravata dall'ordinaria ostilità tra nazioni straniere.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Is 63:1-6 (recepción tipológica en Ap 19:13-15, la imagen del lagar de la ira de Dios)",
+          "fuente_secundaria": "Comentarios patrísticos y apocalípticos que retoman la imagen del lagar de Isaías para describir el juicio escatológico final",
+          "descripcion": "La tradizione cristiana, in particolare nell'Apocalisse, riprende direttamente l'immagine Isaia del torchio e delle vesti insanguinate, applicandola in chiave cristologica ed escatologica al giudizio finale esercitato da Cristo sulle nazioni ribelli, generalizzando verso un orizzonte universale di giudizio finale un'immagine originariamente diretta specificatamente contro Edom e Bozra.",
+          "similitudes": "Condivide l'immagine centrale del torchio come metafora del giudizio divino violento e inevitabile.",
+          "diferencias": "La lettura cristiana universalizza ed escatologizza l'immagine, originariamente diretta specificatamente contro Edom, applicandola al giudizio finale universale esercitato da Cristo.",
+          "significado_teologico": "L'immagine del torchio di Bosra diventa una figura veterotestamentaria del giudizio finale escatologico pienamente sviluppato nella letteratura apocalittica cristiana.",
+          "posible_relacion_cultural": "Ricezione cristiana dell'immaginario profetico dell'Antico Testamento reinterpretato in chiave escatologica cristiana."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

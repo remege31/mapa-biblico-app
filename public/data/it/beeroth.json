@@ -1,0 +1,153 @@
+{
+  "id": "beeroth",
+  "nombre": "Beerot",
+  "tipo": "ciudad",
+  "lat": 31.90007449127097,
+  "lng": 35.21668800602465,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Città hivita della Lega gabaonita, assegnata a Beniamino"
+    }
+  ],
+  "descripcion_geo": "Città nel territorio di Beniamino, una delle quattro città della lega ivita guidata da Gabaon che strinse un patto con Giosuè con l'inganno per evitare la distruzione. Il suo nome (“pozzi”) riflette la presenza di importanti fonti d'acqua nella regione.",
+  "altitud_m": 750,
+  "clima": "Montagna mediterranea: estati secche, inverni freddi con piogge, tipici dell'altopiano di Benjamin.",
+  "recursos": [
+    "Pozzi d'acqua (origine del nome)",
+    "Terreni agricoli dell'Altopiano Benjamin",
+    "Posizione all'interno della Gabaon Hivite League"
+  ],
+  "importancia_estrategica": "Beeroth faceva parte della lega delle quattro città hiviti (insieme a Gabaon, Kaphira e Kiriath-jearim) che ne assicurarono la sopravvivenza attraverso un patto ottenuto con l'inganno con Giosuè, evitando così la distruzione applicata ad altre città cananee; Successivamente i suoi abitanti furono assimilati al territorio di Beniamino, pur conservando una certa identità differenziata documentata negli episodi successivi della prima monarchia.",
+  "otros_habitantes": [
+    {
+      "id": "hivitas_beerot",
+      "nombre": "Hivvei della lega gabaonita",
+      "descripcion": "Popolazione originaria di Beeroth, parte della confederazione di quattro città iviti che strinsero un patto con Israele con l'inganno, fingendosi di provenire da terre lontane per evitare la distruzione applicata alle locali città cananee.",
+      "religion": "Cananeo-Politeismo hivita",
+      "periodo": "C. 1200 a.C"
+    },
+    {
+      "id": "benjaminitas_beerot",
+      "nombre": "Tribù di Beniamino",
+      "descripcion": "Beeroth viene integrata nel territorio assegnato alla tribù di Beniamino, con la popolazione originaria Hivita gradualmente assimilata come servitrice del santuario secondo i termini del patto Gabaon.",
+      "religion": "Yahvismo (con substrato hivita assimilato)",
+      "periodo": "Dal c. 1200 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "beerot-liga-gabaonita",
+      "titulo": "Beeroth nella Lega Hivita di Gabaon",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Insieme a Gabaon, Cafira e Kiriath-jearim, Beeroth fa parte della confederazione hivita che stringe un patto di pace con Giosuè presentandosi ingannevolmente come ambasciatori di un paese lontano, evitando così l'applicazione dell'herem riservato alle vicine città cananee.",
+      "referencias": [
+        "Gs 9:3-17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "beerot-asignacion-benjamin",
+      "titulo": "Beerot fu assegnata al territorio di Beniamino",
+      "fecha": "c. 1200 a.C.",
+      "descripcion": "Nella distribuzione territoriale Beerot è compresa tra le città del territorio assegnato alla tribù di Beniamino, completando l'integrazione amministrativa dell'antica lega iveta nel sistema tribale israelita.",
+      "referencias": [
+        "Gs 18:25"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "asesinato-isbaal-beerot",
+      "titulo": "Gli assassini di Ishbosheth erano di Beeroth",
+      "fecha": "c. 1008 a.C.",
+      "descripcion": "Rechab e Baanah, i due capitani che assassinano Ish-Bosheth (figlio e successore di Saul) mentre dormiva, sono esplicitamente identificati come uomini di Beeroth, della tribù di Beniamino; Davide, lungi dal ricompensare l'atto, ne ordina l'esecuzione per l'omicidio di un uomo avvenuto proprio in casa sua.",
+      "referencias": [
+        "2 Sam 4:1-12"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "embajadores_gabaonitas_beerot",
+      "nombre": "Ambasciatori della Lega Hivita",
+      "rol": "Delegazione che negozia il patto di pace con Giosuè",
+      "periodo": "bronce_tardio",
+      "descripcion": "Rappresentanti di Beeroth e delle altre città hiviti che si presentano davanti a Giosuè travestiti da viaggiatori provenienti da terre lontane, stringendo un patto di protezione attraverso l'inganno che non può essere infranto in seguito perché sigillato con un giuramento.",
+      "referencias": [
+        "Gs 9:3-15"
+      ],
+      "ruta": [
+        "beeroth",
+        "gibeon"
+      ]
+    },
+    {
+      "id": "recab_baana",
+      "nombre": "Rechab e Baanah",
+      "rol": "Capitani di Beeroth, assassini di Ishbosheth",
+      "periodo": "hierro_1",
+      "descripcion": "Uomini di Beeroth che uccidono Ish-Bosheth, figlio di Saul, in attesa di ricompensa da Davide; Vengono invece giustiziati dal re come punizione esemplare per l'omicidio di un uomo innocente.",
+      "referencias": [
+        "2 Sam 4:2-12"
+      ],
+      "ruta": [
+        "beeroth",
+        "hebron"
+      ]
+    },
+    {
+      "id": "david_beerot",
+      "nombre": "Davide",
+      "rol": "Re di Israele, giudice dell'assassinio di Ishbosheth",
+      "periodo": "hierro_2",
+      "descripcion": "Rifiuta la condotta degli assassini di Beeroth anche se il crimine gli ha avvantaggiato politicamente, ordinandone l'esecuzione pubblica come affermazione della sua integrità morale davanti alla casa di Saul.",
+      "referencias": [
+        "2 Sam 4:9-12"
+      ],
+      "ruta": [
+        "hebron"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beerot incarna due distinti episodi di tensione etica: la legittimità di un patto ottenuto con l'inganno ma sigillato con un giuramento divino, che Giosuè decide di rispettare nonostante la trappola scoperta, e, secoli dopo, l'esplicito rifiuto di Davide di beneficiare di un omicidio commesso dai suoi stessi abitanti, ribadendo che nemmeno l'eliminazione di un rivale politico giustifica lo spargimento di sangue innocente.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo-Hivita (popolazione originaria)"
+    ],
+    "mitos": [
+      {
+        "id": "pacto-juramento-gabaonita",
+        "nombre": "L'inviolabilità del patto giurato con gli Hivvei di Beeroth",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gs 9:3-27",
+          "fuente_secundaria": "Talmud Babilónico, Yebamot 79a (sobre la inviolabilidad del juramento incluso obtenido mediante engaño)",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente il principio secondo cui un giuramento prestato in nome di YHWH, anche se ottenuto con l'inganno della controparte, conserva la sua validità vincolante, citando tale episodio come precedente della dottrina sulla sacralità inviolabile del giuramento divino, tema ripreso secoli dopo nella carestia durante il regno di Davide come punizione per la successiva violazione di tale patto da parte di Saul.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'inviolabilità del giuramento prestato in nome di YHWH viene mantenuta anche quando la controparte ha agito in malafede, sottolineando l'assoluta santità del nome divino invocato in qualsiasi alleanza.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

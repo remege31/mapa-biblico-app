@@ -1,0 +1,214 @@
+{
+  "id": "babylon",
+  "nombre": "Babilonia",
+  "tipo": "ciudad",
+  "lat": 32.5364,
+  "lng": 44.4208,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 287,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo — Piccola città"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: ascesa dell'impero neo-babilonese"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio — Capitale dell'esilio israelita"
+    }
+  ],
+  "descripcion_geo": "Babilonia si estendeva su entrambe le sponde del fiume Eufrate, nella pianura alluvionale di Mesopotamia (l'attuale Iraq), a circa 85 km a sud di Baghdad. Al suo apice sotto Nabucodonosor II (605-562 a.C.), era probabilmente la città più grande del mondo, con doppie mura che circondavano un'area di circa 10 km², giardini pensili e la ziggurat Etemenanki, il modello più probabile della biblica Torre di Babele.",
+  "altitud_m": 32,
+  "clima": "Continentale arido: estati estremamente calde (fino a 50°C), inverni miti. Scarse precipitazioni (150 mm all'anno). L'agricoltura dipendeva completamente dal sistema di irrigazione dell'Eufrate, uno dei più sofisticati del mondo antico.",
+  "recursos": [
+    "Acqua (canali di irrigazione dell'Eufrate)",
+    "Argilla (materia prima dell'architettura e della scrittura cuneiforme)",
+    "Cereali (frumento e orzo nella pianura irrigua)",
+    "Commercio (nodo delle rotte tra Persia, Arabia e Mediterraneo)",
+    "Bitume naturale (impermeabilizzazione e costruzione)"
+  ],
+  "importancia_estrategica": "Capitale dell'impero neobabilonese e più grande metropoli del mondo antico nel VI secolo a.C. La sua distruzione del Tempio di Gerusalemme (586 a.C.) e la deportazione dell'élite ebraica determinarono la forma definitiva dell'ebraismo: fu nell'esilio babilonese che gran parte dei testi dell'Antico Testamento furono compilati e modificati.",
+  "otros_habitantes": [
+    {
+      "id": "babilonios-caldeos",
+      "nombre": "Caldei (Babilonesi)",
+      "descripcion": "I Caldei, un popolo semitico che dominò Babilonia dal VII secolo a.C., crearono l'impero neobabilonese sotto Nabopolassar e suo figlio Nabucodonosor II. La loro cultura combinava l'eredità sumera e accadica con le proprie innovazioni in astronomia, matematica e letteratura. L’élite ebraica deportata convisse con questa civiltà per settant’anni.",
+      "religion": "Politeismo mesopotamico: culto di Marduk (dio principale), Ishtar, Nabu e pantheon babilonese",
+      "periodo": "C. 626–539 a.C"
+    },
+    {
+      "id": "judios-exilio",
+      "nombre": "Comunità ebraica in esilio",
+      "descripcion": "La deportazione del 597 e 586 a.C. ha portato a Babilonia l'élite intellettuale, sacerdotale e politica di Giuda. Queste comunità furono stabilite in luoghi come Tel Aviv (Ez 3:15) e lungo il fiume Chebar. Lontano dal Tempio, svilupparono nuove forme di culto (sinagoghe, studio della Torah) che trasformarono per sempre l'ebraismo. Figure come Ezechiele, Daniele e gli autori di Deutero-Isaia hanno prodotto testi fondamentali su Babilonia.",
+      "religion": "Yahvismo in trasformazione — liturgia senza tempio, compilazione della Torah, apocalittica nascente",
+      "periodo": "C. 597–538 a.C"
+    },
+    {
+      "id": "persas-babilonia",
+      "nombre": "Impero Persiano (conquistatori)",
+      "descripcion": "Ciro II di Persia conquistò Babilonia nel 539 a.C. senza combattimenti significativi, presentandosi come un liberatore. Il suo decreto di rimpatrio (Esdra 1:1-4) permise il ritorno degli ebrei a Giuda e la ricostruzione del Tempio. La Bibbia presenta Ciro come l'unto di YHWH (Is 45:1), l'unico sovrano non israelita a cui si applica questo titolo.",
+      "religion": "Zoroastrismo (Mazdeismo) — culto di Ahura Mazda, dualismo bene-male",
+      "periodo": "C. 539–332 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "nabucodonosor-destruccion",
+      "titulo": "Nabucodonosor distrugge Gerusalemme: il trauma fondante",
+      "fecha": "586 a.C.",
+      "descripcion": "Dopo due precedenti deportazioni (605 e 597 a.C.), Nabucodonosor II assediò Gerusalemme per 18 mesi. Il 9 Av dell'anno 586 a.C. —data che l'ebraismo continua a commemorare con il digiuno— il Tempio di Salomone fu bruciato, le mura demolite e la maggior parte della popolazione deportata. Il re Sedechia guardò i suoi figli morire prima di essere accecati e portati in catene a Babilonia. Il Libro delle Lamentazioni esprime il lutto per questa catastrofe con un'intensità poetica senza pari.",
+      "referencias": [
+        "2 Re 25:1-21",
+        "Ger 39:1-10",
+        "Lam 1:1-22",
+        "2 Cr 36:15-21"
+      ],
+      "personajes_clave": [
+        "nabucodonosor",
+        "jeremias"
+      ]
+    },
+    {
+      "id": "exilio-babilonia",
+      "titulo": "Lungo i fiumi di Babilonia: l'esilio che forgiò l'ebraismo",
+      "fecha": "597–538 a.C.",
+      "descripcion": "Le comunità ebraiche deportate a Babilonia si stabilirono in colonie agricole lungo i canali dell'Eufrate. Lontano dal Tempio, svilupparono la sinagoga come luogo di incontro e studio, compilarono e curarono tradizioni scritte e produssero testi profetici e legali che plasmarono il successivo giudaismo rabbinico. Il Salmo 137 — Presso i fiumi di Babilonia, là sedevamo e piangevamo — è il documento poetico più intenso di questo periodo.",
+      "referencias": [
+        "Sal 137:1-9",
+        "Ez 1:1-3",
+        "Ez 3:15",
+        "Is 40:1-11"
+      ],
+      "personajes_clave": [
+        "ezequiel",
+        "daniel"
+      ]
+    },
+    {
+      "id": "ciro-decreto",
+      "titulo": "Il decreto di Ciro: la fine dell'esilio",
+      "fecha": "538 a.C.",
+      "descripcion": "Nel primo anno del suo regno su Babilonia, Ciro II di Persia emanò un decreto che consentiva agli ebrei di tornare a Giuda e ricostruire il Tempio. La Bibbia interpreta quest'azione come un adempimento della profezia di Geremia (70 anni di esilio, Jr 29:10) e Deutero-Isaia chiama Ciro unto da YHWH. Non tutti gli ebrei tornarono: molti avevano prosperato nel Babilonia e preferirono restare, formando la diaspora babilonese che sarebbe durata secoli.",
+      "referencias": [
+        "Esd 1:1-4",
+        "Is 44:28",
+        "Is 45:1-7",
+        "Ger 29:10"
+      ],
+      "personajes_clave": [
+        "ciro"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nabucodonosor",
+      "nombre": "Nabucodonosor II",
+      "rol": "Re di Babilonia, distruttore del Tempio di Gerusalemme",
+      "periodo": "hierro_2",
+      "descripcion": "Il più grande monarca dell'Impero neo-babilonese, costruttore dei giardini pensili e di Etemenanki. Per Israele è lo strumento del giudizio divino sulle persone infedeli. Il libro di Daniele lo descrive affetto da una temporanea follia che paradossalmente lo trasforma in un credente nel Dio di Israele. Le loro iscrizioni confermano le tre campagne contro Giuda descritte nei libri dei Re e Geremia.",
+      "referencias": [
+        "2 Re 24:1-17",
+        "Ger 27:6",
+        "Dn 1:1-2",
+        "Dn 4:1-37"
+      ],
+      "ruta": [
+        "babylon",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "daniel",
+      "nombre": "Daniele",
+      "rol": "Saggio ebreo alla corte babilonese",
+      "periodo": "hierro_2",
+      "descripcion": "Giovane deportato della famiglia reale di Giuda, Daniele fu educato alla corte babilonese e divenne un alto funzionario sotto Nabucodonosor, Baldassarre e Ciro. La sua fedeltà alle leggi ebraiche (dieta, preghiera) in mezzo alla corte pagana fa di lui un modello di vita ebraica nella diaspora. Le sue visioni apocalittiche - i quattro regni, il figlio dell'uomo - influenzarono profondamente l'escatologia ebraica e cristiana.",
+      "referencias": [
+        "Dn 1:1-21",
+        "Dn 2:1-49",
+        "Dn 6:1-28",
+        "Dn 7:1-28"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    },
+    {
+      "id": "ezequiel",
+      "nombre": "Ezechiele ben Buzi",
+      "rol": "Profeta dell'esilio, sacerdote visionario",
+      "periodo": "hierro_2",
+      "descripcion": "Sacerdote deportato nel 597 aC, Ezechiele profetizzò tra gli esuli presso il canale di Chebar. Le sue visioni - il carro di Dio (merkaba), la valle delle ossa secche, il nuovo Tempio - sono le più complesse ed enigmatiche di tutte le profezie bibliche. Introdusse la responsabilità individuale (ognuno muore per il proprio peccato) in contrasto con la precedente solidarietà collettiva, e la sua visione del futuro Tempio ispirò secoli di messianismo.",
+      "referencias": [
+        "Ez 1:1-28",
+        "Ez 3:15",
+        "Ez 37:1-14",
+        "Ez 40:1-4"
+      ],
+      "ruta": [
+        "jerusalen",
+        "babylon"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Babilonia è l'orizzonte minaccioso dell'Antico Testamento, la forza che distrugge ciò che Israele amava di più. Ma è anche il crogiolo dove l'ebraismo ha preso la sua forma definitiva. Lontano dal Tempio, gli esuli svilupparono una religione non sacrificale, centrata sulla Parola scritta, sulla preghiera e sulla comunità. L'esilio babilonese produsse l'edizione finale del Pentateuco, i grandi profeti della consolazione (Deutero-Isaia), la letteratura apocalittica (Daniele, Ezechiele) e il salterio nella sua forma attuale. Nel Nuovo Testamento, Babilonia diventa il codice di Roma (Ap 14:8; 1 Pt 5:13), simbolo di ogni potere imperiale oppressivo.",
+    "religiones_presentes": [
+      "Politeismo mesopotamico (culto di Marduk, Ishtar, Nabu)",
+      "Yahvismo in esilio: sinagoga, Torah, preghiera senza tempio",
+      "Zoroastrismo persiano (influenza sul dualismo e sull'angelologia ebraica)"
+    ],
+    "mitos": [
+      {
+        "id": "torre-babel",
+        "nombre": "La Torre di Babele/Etemenanki",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Génesis 11:1-9",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 38; Josefo, Antigüedades I.4",
+          "descripcion": "La Torre di Babele è interpretata come il paradigma dell'orgoglio umano che sfida Dio. Il Midrash identifica Nimrod come l'istigatore e sviluppa la storia con dettagli sulle dimensioni della torre e sulle punizioni individuali. La confusione delle lingue spiega la diversità linguistica dell’umanità.",
+          "similitudes": "La ziggurat mesopotamica Etemenanki di Babilonia (alta 90 m, dedicata a Marduk) è il modello architettonico più probabile del racconto biblico.",
+          "diferencias": "Il testo biblico inverte lo scopo della ziggurat: mentre la ziggurat è la casa dove il dio discende nel mondo, la torre biblica è il tentativo umano di ascendere al cielo.",
+          "significado_teologico": "La dispersione dei popoli non è un incidente storico, ma piuttosto la risposta divina al centralismo idolatrico. La diversità delle lingue è allo stesso tempo castigo e dono.",
+          "posible_relacion_cultural": "L'Enuma Elish babilonese e gli inni a Marduk descrivono Babilonia come il centro del cosmo e l'umbilicus mundi; Il testo biblico è una polemica contro questa affermazione."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Génesis 11:1-9; Hechos 2:1-11; Apocalipsis 17-18",
+          "fuente_secundaria": "Agustín, Ciudad de Dios XVI.4; Orígenes, Contra Celso V.30",
+          "descripcion": "La confusione di Babele si inverte nella Pentecoste (At 2): lo Spirito Santo permette a ciascuno di ascoltare nella propria lingua, riunendo ciò che Babele aveva disperso. L'Apocalisse utilizza Babilonia come simbolo di Roma e di ogni potere imperiale oppressivo, annunciandone la caduta definitiva.",
+          "similitudes": "Babele come simbolo dell'orgoglio umano contrario a Dio è condiviso da entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento aggiunge la dimensione escatologica: la nuova Babilonia (Roma) cadrà come cadde l'antica.",
+          "significado_teologico": "Pentecoste come anti-Babele: dove l'orgoglio divide, lo Spirito unisce. La Chiesa universale è la risposta di Dio alla dispersione di Babele.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2:102 (mención de Harut y Marut en Babilonia)",
+          "fuente_secundaria": "Tafsir de Ibn Kathir sobre la Sura 2:102; Qisas al-Anbiya",
+          "descripcion": "Il Corano menziona Babilonia in relazione a due angeli, Harut e Marut, inviati per insegnare la magia agli uomini come prova. La tradizione esegetica islamica sviluppa la storia della Torre con simili elementi ebraici e associa Nimrod alla persecuzione di Ibrahim.",
+          "similitudes": "Babilonia come luogo di prova spirituale e Nimrod come tiranno empio sono condivisi.",
+          "diferencias": "Il Corano non sviluppa la confusione delle lingue; l'enfasi cade sulla magia e sulla disobbedienza.",
+          "significado_teologico": "Babilonia nell'Islam è un simbolo del mondo corrotto dalla magia e che si allontana da Dio.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

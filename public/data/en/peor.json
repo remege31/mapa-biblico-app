@@ -1,0 +1,165 @@
+{
+  "id": "peor",
+  "nombre": "Worse",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 31.767231,
+  "lng": 35.71856575741812,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "monte",
+  "nota_coordenadas": "Comparte coordenadas con Pisgá — son cumbres vecinas de la misma cordillera de Abarim, en Moab, frente a Jericó.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Mount of Idolatry associated with Baal-worse"
+    }
+  ],
+  "descripcion_geo": "Mount on the Abarim mountain range, in Moab, which gives its name to the local deity Baal-peor, whose worship would seriously contaminate the Israelite camp in Shittim. It is also one of the high points from which Balak takes Balaam in hopes of obtaining a curse against Israel.",
+  "altitud_m": 700,
+  "clima": "Semi-arid highland — dry and hot summers, cold winters, typical of the Abarim mountain range in Moab.",
+  "recursos": [
+    "Elevated local cult point to Baal-worse",
+    "Panoramic position used for Balaam's oracles"
+  ],
+  "importancia_estrategica": "Mount Peor gives its name to the most serious episode of idolatry of the desert pilgrimage (Baal-peor in Shittim) and is also the last of the three points from which Balak tries, unsuccessfully, to have Balaam curse Israel, closing the cycle of Balaam's oracles with the most extensive and messianically charged blessing of the three.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_peor",
+      "nombre": "Moab Population",
+      "descripcion": "Local worshipers of Baal-peor, the deity that gives its name to the mountain and whose cult becomes a source of the Israelite apostasy in Shittim.",
+      "religion": "Moabite polytheism — worship of Baal-worse",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "balac_seguito_peor",
+      "nombre": "Balak and his entourage",
+      "descripcion": "King of Moab and his princes accompanying Balaam to the summit of Peor in the third and final attempt to obtain a curse against Israel.",
+      "religion": "Moabite polytheism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "balac-balaam-peor",
+      "titulo": "Balak takes Balaam to the summit of Peor",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the failure of previous attempts from Bamot-baal and Pisgah, Balak takes Balaam to the summit of Peor, which overlooks the desert, hoping that a third angle of view on the Israelite camp will finally produce the desired curse.",
+      "referencias": [
+        "Num 23:28"
+      ],
+      "personajes_clave": [
+        "balaam",
+        "balac"
+      ]
+    },
+    {
+      "id": "cuarto-oraculo-balaam-peor",
+      "titulo": "Balaam's final oracles from Peor",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "From Peor, Balaam, no longer resorting to omens, looking directly towards the desert where Israel camps, pronounces under the Spirit of God the most extensive and messianically charged oracle of the entire sequence, including the famous prophecy of 'a star will rise from Jacob', in addition to additional oracles against Moab, Edom, Amalek and other peoples.",
+      "referencias": [
+        "Num 24:10-24"
+      ],
+      "personajes_clave": [
+        "balaam"
+      ]
+    },
+    {
+      "id": "nombre-baal-peor-origen",
+      "titulo": "The mountain gives its name to the deity of apostasy in Shittim",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "The name of Mount Peor is directly associated with the local deity 'Baal-peor', whose cult, practiced in Shittim, triggers the serious Israelite apostasy and the subsequent plague stopped by the intervention of Phinehas.",
+      "referencias": [
+        "Num 25:1-3",
+        "Deut 4:3"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "balaam_peor",
+      "nombre": "Balaam",
+      "rol": "Seer hired by Balac",
+      "periodo": "bronce_tardio",
+      "descripcion": "From Peor he pronounces his final and most extensive oracle, including the messianic prophecy of the star of Jacob, definitively confirming before Balak the impossibility of cursing whom YHWH has blessed.",
+      "referencias": [
+        "Num 24:10-24"
+      ],
+      "ruta": [
+        "pisgah",
+        "peor"
+      ]
+    },
+    {
+      "id": "balac_peor",
+      "nombre": "Balak",
+      "rol": "King by Moab",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "After the definitive failure of the third curse attempt since Peor, he becomes angry with Balaam and fires him, seeing his entire plan against Israel frustrated.",
+      "referencias": [
+        "Num 24:10-11",
+        "Num 24:25"
+      ],
+      "ruta": [
+        "peor"
+      ]
+    },
+    {
+      "id": "finees_peor",
+      "nombre": "Phinehas",
+      "rol": "Priest stopping apostasy linked to Baal-worse",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "Although he acts in Sitim, his intervention responds directly to the apostasy associated with the cult of Baal-peor, stopping the plague and receiving the perpetual priestly covenant.",
+      "referencias": [
+        "Num 25:6-13"
+      ],
+      "ruta": [
+        "shittim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Peor embodies a double theological face: as the setting for the most extensive and messianically significant oracle of Balaam, it definitively confirms the inviolability of the divine blessing on Israel; as the origin of the name of the deity whose cult contaminates Israel in Shittim, it also represents the constant danger of idolatrous assimilation on the margins of the promised land. Both episodes—blessing confirmed and apostasy warned—occur in the same geographic region, underscoring the tension between unwavering divine election and the human responsibility to maintain fidelity.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Moabite polytheism — worship of Baal-worse"
+    ],
+    "mitos": [
+      {
+        "id": "estrella-jacob-peor",
+        "nombre": "The Star Prophecy by Jacob",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 24:17",
+          "fuente_secundaria": "Comentario rabínico tradicional que vincula la profecía con figuras mesiánicas o líderes militares posteriores (incluida la aplicación histórica a Bar Kojba en la revuelta del siglo II d.C.)",
+          "descripcion": "Jewish tradition interprets the 'star that will rise from Jacob' as a reference to a future liberator or messianic king of Israel, an interpretation that in some historical periods was even applied to specific military leaders who sought to legitimize their leadership by appealing to this prophecy pronounced paradoxically by a foreign seer.",
+          "similitudes": "It shares with Christianity the general messianic reading of prophecy, although with different historical identifications.",
+          "diferencias": null,
+          "significado_teologico": "Prophecy confirms that even a pagan seer, under the Spirit of YHWH, must proclaim the future greatness of Israel and his anointed leadership.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Num 24:17 (recepción tipológica neotestamentaria, vinculada tradicionalmente con la estrella de Belén en Mt 2:1-12)",
+          "fuente_secundaria": "Comentarios patrísticos que conectan la profecía de Balaam con el relato de los magos guiados por una estrella",
+          "descripcion": "Christian tradition reads the prophecy of the 'star of Jacob' as a prophetic announcement of the birth of Jesus, establishing a traditional typological connection with the evangelical account of the star that guides the wise men to Bethlehem.",
+          "similitudes": "It shares with the Jewish reading the messianic nature of Balaam's prophecy.",
+          "diferencias": "The specific identification with the birth of Jesus and the star of Bethlehem is an exclusively Christian reading, absent in traditional Jewish interpretation.",
+          "significado_teologico": "The prophecy pronounced by a pagan seer becomes an involuntary external testimony of the coming of the Messiah, reinforcing the universality of the messianic announcement.",
+          "posible_relacion_cultural": "Shared reception of the Balaam cycle as a prophetic testimony recognized in both traditions, although with different messianic identifications."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Mountain"
+}

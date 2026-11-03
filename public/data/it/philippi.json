@@ -1,0 +1,157 @@
+{
+  "id": "philippi",
+  "nombre": "Filippi",
+  "tipo": "ciudad",
+  "lat": 41.0134,
+  "lng": 24.2879,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Colonia romana nella Macedonia orientale, nella pianura tra il Mar Egeo e i Monti Pangei.",
+  "altitud_m": 45,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "oro",
+    "argento",
+    "agricoltura",
+    "commercio"
+  ],
+  "importancia_estrategica": "Prima città europea evangelizzata da Paolo; Colonia romana con veterani militari.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "phi2_h1",
+        "titulo": "Prima chiesa europea",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Paolo, Silas e Lucas fondano la prima chiesa d'Europa vicino al fiume.",
+        "referencias": [
+          "At 16:11-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "Lucas",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "phi2_h2",
+        "titulo": "Paolo e Silas in prigione",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Dopo aver esorcizzato uno schiavo, Paolo e Silas vengono imprigionati; un terremoto apre le porte.",
+        "referencias": [
+          "At 16:16-34"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Silas",
+          "carcelero"
+        ]
+      },
+      {
+        "id": "phi2_h3",
+        "titulo": "Lettera ai Filippesi",
+        "fecha": "ca. 61 d.C.",
+        "descripcion": "Dal carcere, Paolo scrive la sua lettera più gioiosa alla comunità filippina.",
+        "referencias": [
+          "Fil 1-4"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "phi2_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Fondò la prima chiesa europea a Filippi; È stato imprigionato lì.",
+        "referencias": [
+          "At 16:12"
+        ],
+        "ruta": [
+          "philippi",
+          "thessalonica",
+          "corinth",
+          "rome"
+        ]
+      },
+      {
+        "id": "phi2_p2",
+        "nombre": "Lidia",
+        "rol": "Primo convertito europeo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mercante di Tiatira; battezzata a Filippi con tutta la sua casa.",
+        "referencias": [
+          "At 16:14"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "phi2_p3",
+        "nombre": "silas",
+        "rol": "Compagno missionario di Paolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha accompagnato Paolo nel secondo viaggio; imprigionato con lui a Filippi.",
+        "referencias": [
+          "At 16:25"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Colonia romana con culto imperiale; la prima testa di ponte del Vangelo in Europa.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "Ebraismo",
+        "imperial_cult",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "phi2_m1",
+          "nombre": "Il terremoto liberatore",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Un terremoto apre le porte della prigione di Filippi mentre Paolo e Silas cantano inni; il carceriere si converte.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Un terremoto apre le porte della prigione di Filippi mentre Paolo e Silas cantano inni; il carceriere si converte.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

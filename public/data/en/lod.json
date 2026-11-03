@@ -1,0 +1,246 @@
+{
+  "id": "lod",
+  "nombre": "Lod (Lida)",
+  "tipo": "ciudad",
+  "lat": 31.953,
+  "lng": 34.894,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": 100,
+      "nombre": "Iron I - Roman"
+    }
+  ],
+  "descripcion_geo": "City on the coastal plain of Sefela, between Jaffa and Jerusalem. Called Lida in the NT.",
+  "altitud_m": 50,
+  "clima": "Mediterranean",
+  "recursos": [
+    "cereals",
+    "craft",
+    "trade"
+  ],
+  "importancia_estrategica": "Transit city between the port of Jaffa and Jerusalem; scene of the healing of Aeneas by Peter.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "lod_h1",
+      "titulo": "The sons of Benjamin found Lod",
+      "fecha": "ca. 1200 BC",
+      "descripcion": "The city of Lod was founded by the sons of Elpaal of the tribe of Benjamin.",
+      "referencias": [
+        "1 Chr 8:12"
+      ],
+      "personajes_clave": [
+        "Elpaál"
+      ]
+    },
+    {
+      "id": "lod_h2",
+      "titulo": "The return of exiles to Lod",
+      "fecha": "ca. 520 BC",
+      "descripcion": "Among the exiles returning from Babylon are 725 inhabitants of Lod, Hadid and Ono.",
+      "referencias": [
+        "Ezra 2:33",
+        "Neh 7:37"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "lod_h3",
+      "titulo": "Peter heals Aeneas in Lydda",
+      "fecha": "ca. 35 AD",
+      "descripcion": "In Lydda (Lod), Peter visits the believers and heals Aeneas, paralyzed for eight years.",
+      "referencias": [
+        "Acts 9:32-35"
+      ],
+      "personajes_clave": [
+        "Pedro",
+        "Eneas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "lod_p1",
+      "nombre": "Peter",
+      "rol": "Apostle",
+      "periodo": "s. I AD",
+      "descripcion": "He healed Aeneas in Lydda; His ministry on the coastal plain prepared the way for Cornelius' conversion.",
+      "referencias": [
+        "Acts 9:32"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p2",
+      "nombre": "Aeneas",
+      "rol": "Paralytic cured",
+      "periodo": "ca. 35 AD",
+      "descripcion": "Paralyzed for eight years who was healed by Peter in Lida; His healing converted the entire plain.",
+      "referencias": [
+        "Acts 9:33"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "lod_p3",
+      "nombre": "Elpaál",
+      "rol": "Benjaminite founder of Lod",
+      "periodo": "ca. 1200 BC",
+      "descripcion": "His sons founded Lod, Ono and Guéber.",
+      "referencias": [
+        "1 Chr 8:12"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Benjaminite city converted into a scene of apostolic miracles; Aeneas' healing paved the way for Peter's ministry in Caesarea.",
+    "religiones_presentes": [
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "lod_m1",
+        "nombre": "The Healing of Aeneas",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "Peter heals the paralytic Aeneas in Lydda with the words 'Jesus the Messiah heals you'; all the inhabitants of the plain are converted.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Peter heals the paralytic Aeneas in Lydda with the words 'Jesus the Messiah heals you'; all the inhabitants of the plain are converted.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "lod_nt_h1",
+        "titulo": "Peter in Lydda: the healing of Aeneas",
+        "fecha": "ca. 35 AD",
+        "descripcion": "Peter visits the disciples in Lydda and heals Aeneas, paralyzed for eight years; all those from Sharon and Lydda are converted.",
+        "referencias": [
+          "Acts 9:32-35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Eneas"
+        ]
+      },
+      {
+        "id": "lod_nt_h2",
+        "titulo": "Lida: stopover between Jaffa and Caesarea",
+        "fecha": "ca. 35 AD",
+        "descripcion": "Peter passed through Lydda on his way to Caesarea where he would baptize Cornelius, the first Gentile.",
+        "referencias": [
+          "Acts 9:32",
+          "Acts 10:24"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "lod_nt_h3",
+        "titulo": "The early church on the coastal plain",
+        "fecha": "ca. 35 AD",
+        "descripcion": "The healing of Aeneas in Lydda was the catalyst for the evangelization of the entire plain of Sharon.",
+        "referencias": [
+          "Acts 9:35"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "comunidad cristiana"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "lod_nt_p1",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He performed the miracle that opened the entire coastal plain to the gospel.",
+        "referencias": [
+          "Acts 9:32"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p2",
+        "nombre": "Aeneas",
+        "rol": "Paralytic cured",
+        "periodo": "ca. 35 AD",
+        "descripcion": "His healing was the sign that converted the entire region.",
+        "referencias": [
+          "Acts 9:33"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "lod_nt_p3",
+        "nombre": "Tabitha (Dorcas)",
+        "rol": "Resurrected disciple in Jaffa",
+        "periodo": "s. I AD",
+        "descripcion": "In Jaffa, near Lydda, Peter resurrected Tabita; Both miracles prepared his meeting with Cornelius.",
+        "referencias": [
+          "Acts 9:36"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Lida was the bridge between the Galilean-Jewish ministry of Peter and its opening to the Gentiles in Caesarea.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "lod_nt_m1",
+          "nombre": "The way to the Gentiles",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Peter's miracles in Lydda and Jaffa prepared his meeting with Cornelius: the gospel advances from city to city towards the Gentiles.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Peter's miracles in Lydda and Jaffa prepared his meeting with Cornelius: the gospel advances from city to city towards the Gentiles.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

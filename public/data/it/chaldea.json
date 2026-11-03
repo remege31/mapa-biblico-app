@@ -1,0 +1,145 @@
+{
+  "id": "chaldea",
+  "nombre": "Caldea",
+  "tipo": "territorio",
+  "lat": 30.96,
+  "lng": 46.1,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 91,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -625,
+      "hasta": -539,
+      "nombre": "Impero neobabilonese"
+    }
+  ],
+  "descripcion_geo": "Regione meridionale di Mesopotamia, alla foce del Tigri e dell'Eufrate. Sede dell'impero neo-babilonese.",
+  "altitud_m": 10,
+  "clima": "continentale arido",
+  "recursos": [
+    "agricoltura fluviale",
+    "commercio",
+    "astrologia"
+  ],
+  "importancia_estrategica": "Capitale del potere mondiale nel VII-VI secolo aC; conquistò Gerusalemme e deportò Giuda.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cal_h1",
+      "titulo": "Nabucodonosor distrugge Gerusalemme",
+      "fecha": "586 a.C.",
+      "descripcion": "Il re caldeo Nabucodonosor saccheggia il Tempio, demolisce le mura di Gerusalemme e deporta le persone a Babilonia.",
+      "referencias": [
+        "2 Re 25",
+        "Ger 52"
+      ],
+      "personajes_clave": [
+        "Nabucodonosor",
+        "Sedecías"
+      ]
+    },
+    {
+      "id": "cal_h2",
+      "titulo": "Daniele alla corte caldea",
+      "fecha": "ca. 605-535 a.C.",
+      "descripcion": "Daniele e i suoi compagni vengono portati a Babilonia; Daniele interpreta i sogni del re e sopravvive alla fornace ardente.",
+      "referencias": [
+        "Dn 1-6"
+      ],
+      "personajes_clave": [
+        "Daniel",
+        "Nabucodonosor"
+      ]
+    },
+    {
+      "id": "cal_h3",
+      "titulo": "La caduta del persiano Babilonia",
+      "fecha": "539 a.C.",
+      "descripcion": "Ciro il Grande conquista Babilonia senza combattere; Gli ebrei in esilio vengono liberi di ritornare nella loro terra.",
+      "referencias": [
+        "Dn 5",
+        "Is 45"
+      ],
+      "personajes_clave": [
+        "Ciro",
+        "Belsasar"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cal_p1",
+      "nombre": "Nabucodonosor II",
+      "rol": "Re di Babilonia",
+      "periodo": "605-562 a.C.",
+      "descripcion": "Conquistò Gerusalemme, distrusse il Tempio e deportò la gente di Giuda.",
+      "referencias": [
+        "2 Re 24:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cal_p2",
+      "nombre": "Daniele",
+      "rol": "Profeta in esilio",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Studioso ebreo alla corte caldea; Le sue visioni abbracciano gli imperi fino alla fine dei tempi.",
+      "referencias": [
+        "Dn 1:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cal_p3",
+      "nombre": "Baldassarre",
+      "rol": "L'ultimo re di Babilonia",
+      "periodo": "ca. 553-539 a.C.",
+      "descripcion": "Durante il loro banchetto apparve la mano che scriveva sul muro; Babilonia è caduto quella notte.",
+      "referencias": [
+        "Dn 5:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Culla dell'astrologia e della magia; L'esilio babilonese trasformò l'ebraismo: emersero la sinagoga, la codificazione della Torah e il monoteismo esclusivo.",
+    "religiones_presentes": [
+      "paganesimo_babilonese",
+      "Ebraismo"
+    ],
+    "mitos": [
+      {
+        "id": "cal_m1",
+        "nombre": "La scritta sul muro",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Mene, Tekel, Parigi: Daniele interpreta i segni che annunciano la fine del regno caldeo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Mene, Tekel, Parigi: Daniele interpreta i segni che annunciano la fine del regno caldeo.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 2,102",
+          "fuente_secundaria": "",
+          "descripcion": "Babilonia appare nel Corano come luogo di punizione per coloro che praticavano la magia (Cor 2,102).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Babilonia appare nel Corano come luogo di punizione per coloro che praticavano la magia (Cor 2,102).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

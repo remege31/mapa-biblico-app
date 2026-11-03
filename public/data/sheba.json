@@ -1,0 +1,154 @@
+{
+  "id": "sheba",
+  "nombre": "Sabá",
+  "tipo": "territorio",
+  "lat": 9.02,
+  "lng": 38.75,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Reino en Arabia del sur (actual Yemen o norte de Etiopía), famoso por su comercio de especias, incienso y oro.",
+  "altitud_m": 1200,
+  "clima": "tropical-árido",
+  "recursos": [
+    "incienso",
+    "mirra",
+    "oro",
+    "especias",
+    "marfil"
+  ],
+  "importancia_estrategica": "Centro del comercio de incienso; la reina de Sabá visitó a Salomón y es símbolo de la sabiduría que busca la verdad.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "she_h1",
+      "titulo": "La reina de Sabá visita a Salomón",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "La reina de Sabá viaja a Jerusalén con camellos cargados de especias, oro y piedras preciosas para poner a prueba a Salomón con enigmas.",
+      "referencias": [
+        "1 Re 10:1-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h2",
+      "titulo": "Los regalos de Sabá al Templo",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "La reina de Sabá da a Salomón ciento veinte talentos de oro, especias en gran cantidad y piedras preciosas; Salomón le dio cuanto ella pidió.",
+      "referencias": [
+        "1 Re 10:10-13"
+      ],
+      "personajes_clave": [
+        "Salomón",
+        "reina de Sabá"
+      ]
+    },
+    {
+      "id": "she_h3",
+      "titulo": "Sabá en los profetas y salmos",
+      "fecha": "ca. 700-500 a.C.",
+      "descripcion": "El Salmo 72 y los profetas Isaías y Jeremías mencionan a Sabá como tierra lejana que traerá tributo al rey mesiánico.",
+      "referencias": [
+        "Sal 72:10",
+        "Is 60:6"
+      ],
+      "personajes_clave": [
+        "Isaías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "she_p1",
+      "nombre": "La reina de Sabá",
+      "rol": "Reina del sur",
+      "periodo": "ca. 950 a.C.",
+      "descripcion": "Buscó la sabiduría de Salomón; Jesús la cita como ejemplo del que busca la verdad (Mt 12:42).",
+      "referencias": [
+        "1 Re 10:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p2",
+      "nombre": "Salomón",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Impresionó a la reina de Sabá con su sabiduría, su palacio y el Templo.",
+      "referencias": [
+        "1 Re 10:4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "she_p3",
+      "nombre": "Hiram de Tiro",
+      "rol": "Rey fenicio navegante",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "Los barcos de Hiram traían de Ofir (posiblemente Sabá) oro, plata, marfil, monos y pavos reales.",
+      "referencias": [
+        "1 Re 10:22"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Sabá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "she_m1",
+        "nombre": "La reina del sur",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Re 10:1",
+          "fuente_secundaria": "",
+          "descripcion": "La reina de Sabá vino desde los confines de la tierra para escuchar la sabiduría de Salomón (1 Re 10:1).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La reina de Sabá vino desde los confines de la tierra para escuchar la sabiduría de Salomón (1 Re 10:1).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12:42",
+          "fuente_secundaria": "",
+          "descripcion": "Jesús dice que la reina del sur se levantará en el juicio y condenará a los que rechazan al que es mayor que Salomón (Mt 12:42).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesús dice que la reina del sur se levantará en el juicio y condenará a los que rechazan al que es mayor que Salomón (Mt 12:42).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 27:22-44",
+          "fuente_secundaria": "",
+          "descripcion": "Bilqis (la reina de Sabá) es figura legendaria en la tradición islámica; el Corán narra su historia en relación con Salomón (Sulaiman) (Cor 27:22-44).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Bilqis (la reina de Sabá) es figura legendaria en la tradición islámica; el Corán narra su historia en relación con Salomón (Sulaiman) (Cor 27:22-44).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

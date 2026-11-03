@@ -1,0 +1,244 @@
+{
+  "id": "pontus",
+  "nombre": "Ponto",
+  "tipo": "territorio",
+  "lat": 41.29,
+  "lng": 37.16,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 4,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Provincia romana lungo la costa meridionale del Mar Nero (l'attuale Turchia settentrionale). Patria del missionario Aquilano.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "pon_h1",
+      "titulo": "Aquila del Ponto: ebreo espulso da Roma",
+      "fecha": "ca. 49-50 d.C.",
+      "descripcion": "Aquila, originario del Ponto, e sua moglie Priscilla vengono espulsi da Roma per editto di Claudio e si stabiliscono a Corinto dove incontrano Paolo.",
+      "referencias": [
+        "At 18:2"
+      ],
+      "personajes_clave": [
+        "Aquila",
+        "Priscila",
+        "Pablo"
+      ]
+    },
+    {
+      "id": "pon_h2",
+      "titulo": "Pietro scrive ai credenti del Ponto",
+      "fecha": "ca. 64 d.C.",
+      "descripcion": "Pietro indirizza la sua prima lettera agli 'eletti' del Ponto, della Galazia, della Cappadocia, dell'Asia e della Bitinia.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "personajes_clave": [
+        "Pedro"
+      ]
+    },
+    {
+      "id": "pon_h3",
+      "titulo": "Marcione di Sinope nel Ponto",
+      "fecha": "ca. 85-160 d.C.",
+      "descripcion": "L'eretico Marcione del Ponto propose di rifiutare l'Antico Testamento; La sua controversia ha portato la Chiesa a definire il canone.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Marción"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "pon_p1",
+      "nombre": "L'Aquila",
+      "rol": "Missionario del Ponto",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ebreo del Ponto che con la moglie Priscilla collaborò con Paolo a Corinto ed Efeso.",
+      "referencias": [
+        "At 18:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pon_p2",
+      "nombre": "Priscilla",
+      "rol": "Missionario",
+      "periodo": "s. I d.C.",
+      "descripcion": "Moglie dell'Aquila; Istruì Apollo sulla via di Dio in modo più accurato.",
+      "referencias": [
+        "At 18:26"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "pon_p3",
+      "nombre": "Pietro",
+      "rol": "Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Ha scritto la sua lettera alle comunità della diaspora del Ponto.",
+      "referencias": [
+        "1 Pt 1:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ponto: regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "pon_m1",
+        "nombre": "Aquila e Priscilla del Ponto",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La coppia missionaria del Ponto, Aquila e Priscilla, rappresenta il modello apostolico del matrimonio al servizio del vangelo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La coppia missionaria del Ponto, Aquila e Priscilla, rappresenta il modello apostolico del matrimonio al servizio del vangelo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pon_h1",
+        "titulo": "Aquila del Ponto: ebreo espulso da Roma",
+        "fecha": "ca. 49-50 d.C.",
+        "descripcion": "Aquila, originario del Ponto, e sua moglie Priscilla vengono espulsi da Roma per editto di Claudio e si stabiliscono a Corinto dove incontrano Paolo.",
+        "referencias": [
+          "At 18:2"
+        ],
+        "personajes_clave": [
+          "Aquila",
+          "Priscila",
+          "Pablo"
+        ]
+      },
+      {
+        "id": "pon_h2",
+        "titulo": "Pietro scrive ai credenti del Ponto",
+        "fecha": "ca. 64 d.C.",
+        "descripcion": "Pietro indirizza la sua prima lettera agli 'eletti' del Ponto, della Galazia, della Cappadocia, dell'Asia e della Bitinia.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "personajes_clave": [
+          "Pedro"
+        ]
+      },
+      {
+        "id": "pon_h3",
+        "titulo": "Marcione di Sinope nel Ponto",
+        "fecha": "ca. 85-160 d.C.",
+        "descripcion": "L'eretico Marcione del Ponto propose di rifiutare l'Antico Testamento; La sua controversia ha portato la Chiesa a definire il canone.",
+        "referencias": [
+          "Historia eclesiástica"
+        ],
+        "personajes_clave": [
+          "Marción"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pon_p1",
+        "nombre": "L'Aquila",
+        "rol": "Missionario del Ponto",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ebreo del Ponto che con la moglie Priscilla collaborò con Paolo a Corinto ed Efeso.",
+        "referencias": [
+          "At 18:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pon_p2",
+        "nombre": "Priscilla",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Moglie dell'Aquila; Istruì Apollo sulla via di Dio in modo più accurato.",
+        "referencias": [
+          "At 18:26"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pon_p3",
+        "nombre": "Pietro",
+        "rol": "Apostolo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha scritto la sua lettera alle comunità della diaspora del Ponto.",
+        "referencias": [
+          "1 Pt 1:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Ponto nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "pon_m1",
+          "nombre": "Aquila e Priscilla del Ponto",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La coppia missionaria del Ponto, Aquila e Priscilla, rappresenta il modello apostolico del matrimonio al servizio del vangelo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La coppia missionaria del Ponto, Aquila e Priscilla, rappresenta il modello apostolico del matrimonio al servizio del vangelo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

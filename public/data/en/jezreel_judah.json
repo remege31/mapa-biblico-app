@@ -1,0 +1,158 @@
+{
+  "id": "jezreel_judah",
+  "nombre": "Jezreel (Judah)",
+  "tipo": "ciudad",
+  "lat": 31.53577362133176,
+  "lng": 35.09409986578734,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "No confundir con Jezreel del valle de Isacar (asociada a Acab y Jezabel); este es un pueblo distinto en el territorio de Judá, cerca de Hebrón.",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Tribal assignment to Judah, runaway David cycle"
+    }
+  ],
+  "descripcion_geo": "Small town in the mountainous region of Judah, on the list of cities in Negev and southern Shephelah assigned to the tribe of Judah, close to Hebron, Ziph and Maon, in the area where David moves during his period as a fugitive from Saul.",
+  "altitud_m": 800,
+  "clima": "Mountain Mediterranean in transition to semi-arid — dry and hot summers, cold winters with moderate rainfall.",
+  "recursos": [
+    "Judah Mountain Grazing and Agricultural Land",
+    "Position within the village network of the runaway David cycle"
+  ],
+  "importancia_estrategica": "This Judah Jezreel has no military relevance; Its only narrative value is genealogical-family, as the place of origin of Ahinoam, one of the wives of David taken during the period of his escape from Saul, in the same region where he also married Abigail of Maon.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_jezreel_sur",
+      "nombre": "Judah Clans",
+      "descripcion": "Jewish families settled in this southern town, integrated into the list of cities of the Judah tribe according to the distribution of Joshua.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "familia_ahinoam_jezreel",
+      "nombre": "Ahinoam's family",
+      "descripcion": "Family nucleus of Ahinoam, future wife of David, originally from this town in the south of Judah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1015–1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jezreel-ciudad-juda-lista",
+      "titulo": "Jezreel in Judah list of southern cities",
+      "fecha": "c. 1200 BC",
+      "descripcion": "The town is recorded in the list of cities in the extreme south of the territory assigned to the tribe of Judah, in the mountainous region near Hebron, Ziph and Maon.",
+      "referencias": [
+        "Josh 15:56"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-desposa-ahinoam",
+      "titulo": "David takes Ahinoam of Jezreel as his wife",
+      "fecha": "c. 1015 BC",
+      "descripcion": "During his period as a fugitive from Saul in the desert of Judah, David takes Ahinoam of Jezreel as his wife, almost in the same episode in which he also marries Abigail, widow of Nabal of Maon.",
+      "referencias": [
+        "1 Sam 25:43"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "ahinoam-cautiva-siclag",
+      "titulo": "Ahinoam is captured in the Amalekite sack of Ziklag",
+      "fecha": "c. 1010 BC",
+      "descripcion": "Along with Abigail and other families, Ahinoam of Jezreel is captured by the Amalekites during the sack of Ziklag while David and his men are away; David rescues her after chasing and defeating the kidnappers.",
+      "referencias": [
+        "1 Sam 30:5",
+        "1 Sam 30:18"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ahinoam_jezreel",
+      "nombre": "Ahinoam of Jezreel",
+      "rol": "David's wife",
+      "periodo": "hierro_2",
+      "descripcion": "One of David's first wives, taken during his period as a fugitive; mother of Amnon, the firstborn of David, whose subsequent conflict with Tamar and Absalom will trigger succession crises in the Davidic court.",
+      "referencias": [
+        "1 Sam 25:43",
+        "2 Sam 3:2"
+      ],
+      "ruta": [
+        "jezreel",
+        "ziklag",
+        "hebron"
+      ]
+    },
+    {
+      "id": "david_jezreel_sur",
+      "nombre": "David",
+      "rol": "Future king of Israel, fugitive of Saul",
+      "periodo": "hierro_2",
+      "descripcion": "He takes Ahinoam of Jezreel as his wife during his period of flight in the wilderness of Judah, forming family ties to the region that would later form the basis of his own kingdom in Hebron.",
+      "referencias": [
+        "1 Sam 25:43"
+      ],
+      "ruta": [
+        "ziph",
+        "maon",
+        "jezreel"
+      ]
+    },
+    {
+      "id": "amnon_hijo_ahinoam",
+      "nombre": "Amnon",
+      "rol": "Firstborn of David and son of Ahinoam",
+      "periodo": "hierro_2",
+      "descripcion": "David's first-born son, born from his union with Ahinoam of Jezreel, whose subsequent behavior towards his half-sister Tamar will trigger Absalom's rebellion years later.",
+      "referencias": [
+        "2 Sam 3:2",
+        "2 Sam 13:1-29"
+      ],
+      "ruta": [
+        "hebron",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "This Jezreel of Judah lacks any mythical or cultic tradition of its own; Its relevance is exclusively genealogical-narrative, as the place of origin of one of David's first wives. The episode is part of the phase of consolidation of David's marital alliances in the south of Judah, prior to his anointing as king, which contributes to cementing his regional support base before the final confrontation with the house of Saul.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "alianzas-matrimoniales-david-sur",
+        "nombre": "David's marriage alliances in the south of Judah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 25:43; 1 Sam 30:5",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el papel de las alianzas matrimoniales en la consolidación del liderazgo de David antes de la monarquía",
+          "descripcion": "Jewish tradition observes that David's marriages with women from different localities in southern Judah during his period as a fugitive—Ahinoam of Jezreel, Abigail of Maon—are part of the gradual construction of a base of legitimacy and regional support that precedes and facilitates his subsequent coronation in Hebron.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The marriage alliances of David are read as part of the providential design that prepares, step by step, his ascension to the throne of Israel.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

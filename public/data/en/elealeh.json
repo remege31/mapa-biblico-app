@@ -1,0 +1,150 @@
+{
+  "id": "elealeh",
+  "nombre": "Elale",
+  "tipo": "ciudad",
+  "lat": 31.813796,
+  "lng": 35.824275,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — City rebuilt by Rubén"
+    }
+  ],
+  "descripcion_geo": "City on the Moab plateau, very close to Heshbon, with which it appears frequently linked in the biblical text as a geographical pair. Rebuilt by the Reubenites after the conquest of the Amorite territory, it was later recovered by Moab.",
+  "altitud_m": 880,
+  "clima": "Semi-arid highland — dry, hot summers, cold winters, typical of the northern Moabite plateau.",
+  "recursos": [
+    "Agricultural land of the Moabite plateau",
+    "Position closely linked to Heshbon"
+  ],
+  "importancia_estrategica": "Elalé follows the same pattern as the other cities on this border strip: conquered and rebuilt by Israel after the defeat of Sihon, it is formally assigned to Reuben, but later prophetic oracles confirm that for the 8th-6th centuries BC. It had once again been part of the territory under Moabite control or dispute, forming with Heshbon a pair of cities mentioned repeatedly in the songs of prophetic lament.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_elealeh",
+      "nombre": "Amorites (kingdom of Sihon)",
+      "descripcion": "Original population under the rule of Sihon before the Israelite conquest of the territory.",
+      "religion": "Amorite polytheism",
+      "periodo": "Prior to c. 1400 BC"
+    },
+    {
+      "id": "moabitas_elealeh",
+      "nombre": "Moabites",
+      "descripcion": "A population that Elalé recovered in later periods, the reason for the prophetic oracles of lament that closely link it with Heshbon.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "Since c. 850 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "elealeh-reconstruida-ruben",
+      "titulo": "Rubén rebuilds Elalé",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "After the conquest of Sihon's territory, the Reubenites rebuilt Elalé along with Heshbon and other nearby cities, establishing their presence there within the territorial division of Transjordan.",
+      "referencias": [
+        "Num 32:3",
+        "Num 32:37"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "isaias-lamento-elealeh",
+      "titulo": "Isaiah describes the joint cry of Heshbon and Elalah",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah, in his extensive oracle against Moab, describes the united cry of Heshbon and Elalah, whose voice is heard as far as Jahas, in an image of collective lament that runs through the entire geography of the Moabite kingdom in judgment.",
+      "referencias": [
+        "Isa 15:4"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-llanto-elealeh",
+      "titulo": "Jeremiah prophesies weeping over the fields of Elalé",
+      "fecha": "c. 600 BC",
+      "descripcion": "Jeremiah takes up and expands on the oracle of Isaiah, describing how the cry of the men of Heshbon and Elalah reaches Jahas, and how the joy of the harvest will disappear from the fertile fields that once produced abundance for Moab.",
+      "referencias": [
+        "Jer 48:34"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rubenitas_elealeh",
+      "nombre": "Clans of Ruben",
+      "rol": "Reconstructors of Elalé after the conquest",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "Tribe responsible for rebuilding Elaleh along with Heshbon as part of their settlement in Transjordan after the defeat of Sihon.",
+      "referencias": [
+        "Num 32:3",
+        "Num 32:37"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_elealeh",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "It describes the joint lament of Heshbon and Elalé in their oracle of judgment against Moab, an image later taken up at greater length by Jeremiah.",
+      "referencias": [
+        "Isa 15:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_elealeh",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He expands on Isaiah's oracle about Elalah, adding the specific image of the loss of the joy of the harvest in the once fertile Moabite fields.",
+      "referencias": [
+        "Jer 48:32-34"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elalé always appears in the biblical text in an inseparable pair with Heshbon, forming a geographical and poetic unit that the prophets use to represent the collective cry of the entire northern Moabite region before the announced judgment. The loss of 'harvest joy' in its fertile fields, mentioned by Jeremiah, contrasts with the agricultural prosperity that the region's very name suggested, reinforcing the theological contrast between material abundance and imminent divine judgment.",
+    "religiones_presentes": [
+      "Yahwism (rubenite control period)",
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "lamento-hesbon-elealeh",
+        "nombre": "The joint lament of Heshbon and Elalé in the prophetic oracles",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 15:4; Jer 48:34",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el uso poético de pares geográficos en los oráculos de juicio profético contra las naciones",
+          "descripcion": "Jewish tradition observes the recurring rhetorical pattern of prophetic oracles that link geographically close cities such as Heshbon and Elalé in a joint lament, a literary technique that intensifies the effect of the announced judgment by simultaneously covering an entire region through the mention of its main population centers.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The joint lament of neighboring cities reinforces the totality and inevitability of divine judgment on the entire region, not just isolated centers.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

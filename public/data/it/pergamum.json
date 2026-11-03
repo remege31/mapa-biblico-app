@@ -1,0 +1,147 @@
+{
+  "id": "pergamum",
+  "nombre": "Pergamo",
+  "tipo": "ciudad",
+  "lat": 39.1333,
+  "lng": 27.1833,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città sulla cresta di un colle a 335 m, capitale della provincia romana dell'Asia; famosa per la sua biblioteca e l'altare di Zeus.",
+  "altitud_m": 335,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pergamena",
+    "mestiere",
+    "argento",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Capitale del regno di Pergamo e sede del culto imperiale.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "per_h1",
+        "titulo": "Lettera alla chiesa di Pergamo",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo loda la fedeltà di Pergamo ma condanna gli insegnamenti di Balaam e dei Nicolaiti.",
+        "referencias": [
+          "Ap 2:12-17"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "per_h2",
+        "titulo": "Il trono di Satana",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Cristo chiama Pergamo “dove è il trono di Satana”, in riferimento all'altare di Zeus o al culto imperiale.",
+        "referencias": [
+          "Ap 2:13"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "per_h3",
+        "titulo": "Antipa, il testimone fedele",
+        "fecha": "ca. 90 d.C.",
+        "descripcion": "Antipa viene martirizzato a Pergamo per la sua fede; Viene definito un \"testimone fedele\".",
+        "referencias": [
+          "Ap 2:13"
+        ],
+        "personajes_clave": [
+          "Antipas"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "per_p1",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta dell'Apocalisse",
+        "periodo": "s. I d.C.",
+        "descripcion": "Indirizzò la lettera di Cristo alla chiesa di Pergamo.",
+        "referencias": [
+          "Ap 2:12"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p2",
+        "nombre": "Antipa",
+        "rol": "Martire di Pergamo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Testimone fedele che fu martirizzato a Pergamo; nome menzionato solo nell'Apocalisse.",
+        "referencias": [
+          "Ap 2:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p3",
+        "nombre": "Attalo I di Pergamo",
+        "rol": "Re ellenistico",
+        "periodo": "241-197 a.C.",
+        "descripcion": "Fondatore della grandezza di Pergamo; I suoi successori lasciarono in eredità il regno a Roma.",
+        "referencias": [
+          "Historia helenística"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Città dell'altare di Zeus e del culto imperiale; sede del primo tempio di Augusto in Asia; scena di martiri cristiani.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "imperial_cult",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "per_m1",
+          "nombre": "Il trono di Satana",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "L'Apocalisse chiama Pergamo “trono di Satana”, interpretato come riferimento all'altare di Zeus o al tempio del culto imperiale.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'Apocalisse chiama Pergamo “trono di Satana”, interpretato come riferimento all'altare di Zeus o al tempio del culto imperiale.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

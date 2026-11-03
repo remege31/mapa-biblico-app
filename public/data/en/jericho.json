@@ -1,0 +1,319 @@
+{
+  "id": "jericho",
+  "nombre": "Jericho",
+  "tipo": "ciudad",
+  "lat": 31.8667,
+  "lng": 35.4447,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 57,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1550,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Canaanite city"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Conquest and abandonment"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Reconstruction and occupation"
+    }
+  ],
+  "descripcion_geo": "Jericho sits in the Jordan Valley, about 10 km north of the Dead Sea and 258 meters below sea level, making it one of the lowest inhabited cities on the planet. The Elisha Spring (Ein es-Sultan) has fed a permanent oasis since the Neolithic, making Jericho one of the oldest continuous human settlements in the world. The ferocity of the oasis contrasts dramatically with the surrounding Judean Desert.",
+  "altitud_m": -258,
+  "clima": "Tropical desert — mild, dry winters, extremely hot summers (up to 45°C). Precipitation does not exceed 150 mm annually. The Ein es-Sultan oasis allows intensive irrigation agriculture.",
+  "recursos": [
+    "Water (permanent spring of Ein es-Sultan)",
+    "Date palms (the OT calls it the city of palm trees)",
+    "Jericho balsam (resinous tree of high commercial value)",
+    "Irrigated crops (wheat, barley, figs)",
+    "Salt from the Dead Sea"
+  ],
+  "importancia_estrategica": "Eastern gateway to Canaan from the Transjordan Desert. Whoever controlled Jericho controlled the passage of the Jordan and access to the highlands of Judah and Benjamin. Its position on the Dead Sea trade route made it an exchange node for salt, balm and oasis products.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-jerico",
+      "nombre": "Canaanites by Jericho",
+      "descripcion": "The walled city that Israel found was a Canaanite city-state ruled by a local king. Rahab, the prostitute who hid the Israelite spies, belonged to this population. Biblical tradition presents her as the only inhabitant who recognized the power of YHWH. His family was the only one preserved when the city was destroyed.",
+      "religion": "Canaanite polytheism — worship of Baal, Asherah and local divinities",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "reconstruccion-hiel",
+      "nombre": "Inhabitants of the iron period",
+      "descripcion": "After the anathema imposed by Joshua, Hiel of Bethel rebuilt Jericho in the time of Ahab, paying the announced price: his first and last sons died during the construction (1 Kings 16:34), fulfilling the curse of Joshua (Jos 6:26). The rebuilt city housed a community of children of the prophets disciples of Elisha.",
+      "religion": "Yahwism — prophetic communities under Elisha",
+      "periodo": "c. 870–800 BC"
+    },
+    {
+      "id": "jerico-exilio",
+      "nombre": "Post-exilic community",
+      "descripcion": "The book of Nehemiah records that 345 men of Jericho returned from the Babylonian exile (Ezra 2:34; Neh 7:36) and that the men of Jericho participated in rebuilding the wall of Jerusalem (Neh 3:2).",
+      "religion": "Yahwism post-exilic — Torah observance after the return of Babylon",
+      "periodo": "c. 538–400 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "caida-murallas",
+      "titulo": "The Fall of the Walls: The First Battle of Canaan",
+      "fecha": "c. 1200 BC",
+      "descripcion": "Joshua sent two spies to Jericho who took refuge in Rahab's house, who hid them in exchange for protection for her family. The LORD ordered Israel to surround the city in silence for six days. On the seventh day, they surrounded the city seven times; When the trumpets sounded, the people shouted and the walls collapsed. The entire city was consecrated to the anathema (herem), except for Rahab and her family.",
+      "referencias": [
+        "Josh 2:1-24",
+        "Josh 6:1-27"
+      ],
+      "personajes_clave": [
+        "josue",
+        "rahab"
+      ]
+    },
+    {
+      "id": "eliseo-manantial",
+      "titulo": "Elisha heals the waters of Jericho",
+      "fecha": "c. 850 BC",
+      "descripcion": "When Elisha arrived at Jericho, the inhabitants told him that the waters were bad and the land was barren. Elisha asked for a new vessel of salt, poured it into the spring and declared: Thus says the LORD: I healed these waters; there will be no more death or sterility. Since then the spring—today called Ein es-Sultan or Elisha's Fountain—gave pure water.",
+      "referencias": [
+        "2 Kgs 2:19-22"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    },
+    {
+      "id": "zaqueo-jerico",
+      "titulo": "Zacchaeus and the passage of Jesus: the city as a threshold of transformation",
+      "fecha": "c. 29 AD",
+      "descripcion": "The Gospel of Luke places in Jericho the meeting of Jesus with Zacchaeus, chief of the publicans who climbed a sycamore tree to watch him pass. Jesus called him by name and announced that he would be staying at his house. The conversion of Zacchaeus—who promised to return what was stolen fourfold and give half of his property to the poor—became a symbol of the mercy that reaches the excluded.",
+      "referencias": [
+        "Luke 19:1-10",
+        "Mark 10:46-52",
+        "Luke 18:35-43"
+      ],
+      "personajes_clave": [
+        "eliseo"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue",
+      "nombre": "Joshua",
+      "rol": "Successor of Moses, driver of the conquest of Canaan",
+      "periodo": "bronce_tardio",
+      "descripcion": "Originally from the tribe of Ephraim, Joshua was Moses's personal assistant during the wilderness and one of two spies trusted with Canaan's conquest. He led the entry of Israel across the Jordan and led the campaign that began with the capture of Jericho. The fall of the city without conventional battle established the theological pattern: victory belongs to YHWH.",
+      "referencias": [
+        "Josh 1:1-9",
+        "Josh 3:1-17",
+        "Josh 6:1-27",
+        "Josh 24:1-28"
+      ],
+      "ruta": [
+        "jericho",
+        "shechem",
+        "hebron"
+      ]
+    },
+    {
+      "id": "rahab",
+      "nombre": "Rahab",
+      "rol": "Jericho prostitute, protector of Israeli spies",
+      "periodo": "c. 1200 BC",
+      "descripcion": "Rahab is one of the most surprising characters in the OT: a Canaanite woman, a prostitute, who recognized the power of YHWH before many Israelites. His confession of faith is theologically comparable to the great professions of faith of the OT. A scarlet cord tied to her window identified her as a survivor. Her mention in Jesus's genealogy makes her a symbol of inclusion.",
+      "referencias": [
+        "Josh 2:1-24",
+        "Josh 6:22-25",
+        "Heb 11:31",
+        "Matt 1:5"
+      ],
+      "ruta": [
+        "jericho"
+      ]
+    },
+    {
+      "id": "eliseo",
+      "nombre": "Elisha ben Safat",
+      "rol": "Successor Prophet of Elijah",
+      "periodo": "hierro_2",
+      "descripcion": "Abel-Mehola farmer called by Elijah while plowing with twelve yoke of oxen. He received a double portion of Elijah's spirit upon witnessing his ascension in the chariot of fire. In Jericho he heals the spring with salt—turning the symbol of anathema into a symbol of life—and forms disciples in the community of children of the prophets.",
+      "referencias": [
+        "1 Kgs 19:19-21",
+        "2 Kgs 2:1-22",
+        "2 Kgs 4:1-44",
+        "2 Kgs 6:1-7"
+      ],
+      "ruta": [
+        "jericho",
+        "samaria",
+        "carmel_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Jericho is the threshold of the Promised Land—the first place conquered, the first anathema pronounced, the first miracle of Elisha. The conquest does not begin with military strategy but with liturgical obedience (seven priests, seven trumpets, seven days). The curse of Joshua and its subsequent lifting by Elisha create a narrative arc that turns Jericho into a space of death and life. In the New Testament, it is the last city before Jerusalem, the scene of the conversion of Zacchaeus and the healing of the blind man.",
+    "religiones_presentes": [
+      "Polytheism Canaanite (pre-conquest period)",
+      "Yahwism (conquest period and later)",
+      "Yahwist prophetism (Elisha communities)",
+      "Second Temple Judaism (post-exilic community)"
+    ],
+    "mitos": [
+      {
+        "id": "murallas-jerico",
+        "nombre": "The Fall of the Walls by Jericho",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josué 6:1-27",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 44a; Midrash Tanjuma, Kedoshim",
+          "descripcion": "The fall of Jericho is the paradigm of holy war (herem) in rabbinic literature. The maintenance of the herem signals that the earth belongs to God and that conquest is not a right but a mission.",
+          "similitudes": "The idea of ​​a city destroyed by direct divine intervention has parallels in anathema texts from the Middle Bronze Age.",
+          "diferencias": "Unlike other holy wars of the ancient East, in Jericho there is no loot: the entirety is consecrated to God.",
+          "significado_teologico": "Conquest without a Sword of One's Own establishes that YHWH is the true warrior of Israel; liturgical obedience precedes military victory.",
+          "posible_relacion_cultural": "The practice of herem has parallels in Moabite inscriptions (Stele of Mesha, c. 840 BC)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hebreos 11:30",
+          "fuente_secundaria": "Orígenes, Homilías sobre Josué; Agustín, Cuestiones sobre el Heptateuco",
+          "descripcion": "The Letter to the Hebrews cites the fall of Jericho as an example of faith. Origen interpreted the conquest allegorically: Jericho is the world, Joshua (Yeshua = Jesus) is the one who conquers it, and Rahab's scarlet cord prefigures the blood of Christ.",
+          "similitudes": "Faith and obedience as conditions of victory are shared by both traditions.",
+          "diferencias": "Christian exegesis tends to allegorize the conquest; Jewish tradition interprets it more literally as sacred history.",
+          "significado_teologico": "Joshua as a typological figure of Jesus who conquers the spiritual world with the sword of the Word.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jer2_nt_h1",
+        "titulo": "Zacchaeus climbs the sycamore tree",
+        "fecha": "ca. 29-30 AD",
+        "descripcion": "The chief tax collector Zacchaeus climbs a tree to see Jesus; Jesus stays at his house and Zacchaeus promises to make restitution.",
+        "referencias": [
+          "Luke 19:1-10"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Zaqueo"
+        ]
+      },
+      {
+        "id": "jer2_nt_h2",
+        "titulo": "Healing of blind Bartimaeus",
+        "fecha": "ca. 29-30 AD",
+        "descripcion": "A blind beggar at the exit of Jericho shouts 'Son of David, have mercy!' and is curated by Jesus.",
+        "referencias": [
+          "Mark 10:46-52"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Bartimeo"
+        ]
+      },
+      {
+        "id": "jer2_nt_h3",
+        "titulo": "The parable of the good Samaritan: the path Jericho-Jerusalem",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Jesus places the parable of the Good Samaritan on the dangerous path from Jerusalem to Jericho.",
+        "referencias": [
+          "Luke 10:25-37"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jer2_nt_p1",
+        "nombre": "Zacchaeus",
+        "rol": "converted publican",
+        "periodo": "s. I AD",
+        "descripcion": "Chief tax collector at Jericho; His meeting with Jesus transformed him.",
+        "referencias": [
+          "Luke 19:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer2_nt_p2",
+        "nombre": "Bartimaeus",
+        "rol": "Blind man cured by Jesus",
+        "periodo": "s. I AD",
+        "descripcion": "Blind beggar who proclaimed the messiahship of Jesus and received sight.",
+        "referencias": [
+          "Mark 10:46"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "jer2_nt_p3",
+        "nombre": "Jesus of Nazareth",
+        "rol": "healing messiah",
+        "periodo": "ca. 29-30 AD",
+        "descripcion": "He passed through Jericho on his last trip to Jerusalem, performing miracles.",
+        "referencias": [
+          "Luke 19:1"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Oasis city on the route from Galilee to Jerusalem; scene of transformative encounters in the final ministry of Jesus.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "jer2_nt_m1",
+          "nombre": "The fall of Jericho and the new Jericho",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Jericho's walls fell to Joshua in the AT as Canaan's first triumph.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jericho's walls fell to Joshua in the AT as Canaan's first triumph.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "In the NT, Jericho is the scene of spiritual victories: a blind man regains his sight and a sinner regains his dignity.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In the NT, Jericho is the scene of spiritual victories: a blind man regains his sight and a sinner regains his dignity.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

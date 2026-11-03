@@ -1,0 +1,157 @@
+{
+  "id": "great_sea",
+  "nombre": "Mar Grande (Mediterraneo)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 34.0,
+  "lng": 29.0,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 16,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronzo medio - Romano"
+    }
+  ],
+  "descripcion_geo": "Il 'Grande Mare' della Bibbia, chiamato anche 'Mare d'Occidente'. Frontiera occidentale della terra promessa e arteria di antichi commerci.",
+  "altitud_m": 0,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pesca",
+    "commercio marittimo",
+    "sale",
+    "percorso di navigazione"
+  ],
+  "importancia_estrategica": "Confine occidentale di Israele e asse commerciale tra Canaan, Fenicia, Grecia e Roma.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "grs_h1",
+      "titulo": "Il mare come confine occidentale della terra promessa",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dio indica il Mar Grande come il confine occidentale dell'eredità di Israele: \"dal deserto a questo mare\".",
+      "referencias": [
+        "Nm 34:6",
+        "Gs 1:4"
+      ],
+      "personajes_clave": [
+        "Moisés",
+        "Josué"
+      ]
+    },
+    {
+      "id": "grs_h2",
+      "titulo": "Giona si getta in mare durante una tempesta",
+      "fecha": "ca. s. VIII a.C.",
+      "descripcion": "Giona, in fuga a Tarsis attraverso il Mediterraneo, viene gettato in mare dai marinai durante una tempesta; un grosso pesce lo ingoia.",
+      "referencias": [
+        "Gio 1:15"
+      ],
+      "personajes_clave": [
+        "Jonás"
+      ]
+    },
+    {
+      "id": "grs_h3",
+      "titulo": "Paolo naufragato nel Mediterraneo",
+      "fecha": "ca. 60 d.C.",
+      "descripcion": "Paolo naufragato sulla rotta per Roma nel Mediterraneo; La nave si incaglia a Malta ma tutti si salvano.",
+      "referencias": [
+        "At 27:27-44"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Julio"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "grs_p1",
+      "nombre": "Giona",
+      "rol": "profeta fuggitivo",
+      "periodo": "ca. s. VIII a.C.",
+      "descripcion": "Tentò di fuggire a Tarsis attraverso il Mediterraneo; Fu salvato dal fondo del mare da un grosso pesce.",
+      "referencias": [
+        "Gio 1:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p2",
+      "nombre": "Hiram di Tiro",
+      "rol": "Re fenicio",
+      "periodo": "ca. 980-947 a.C.",
+      "descripcion": "I Fenici dominavano il commercio mediterraneo; Hiram ha fornito legname a Salomone via mare.",
+      "referencias": [
+        "1 Re 5:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "grs_p3",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Compì tre viaggi missionari attraverso il Mediterraneo e fece naufragio sulla strada per Roma.",
+      "referencias": [
+        "At 27:41"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il mare era per Israele il confine del mondo conosciuto e il teatro della fuga di Giona; nel NT, la strada della missione paolina.",
+    "religiones_presentes": [
+      "Fenicio_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "grs_m1",
+        "nombre": "Giona e il pesce grosso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Giona nel ventre del pesce sul fondo del Mediterraneo: simbolo di morte e resurrezione, preghiera dall'abisso.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Giona nel ventre del pesce sul fondo del Mediterraneo: simbolo di morte e resurrezione, preghiera dall'abisso.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 12,40",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù cita il 'segno di Giona' come annuncio della sua morte e risurrezione (Mt 12,40).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù cita il 'segno di Giona' come annuncio della sua morte e risurrezione (Mt 12,40).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 37,139-148",
+          "fuente_secundaria": "",
+          "descripcion": "Yunus (Giona) è un profeta dell'Islam; il Corano racconta la sua storia in mare (Cor 37,139-148).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Yunus (Giona) è un profeta dell'Islam; il Corano racconta la sua storia in mare (Cor 37,139-148).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2",
+    "apostolico"
+  ]
+}

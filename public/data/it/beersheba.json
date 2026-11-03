@@ -1,0 +1,204 @@
+{
+  "id": "beersheba",
+  "nombre": "Beersheba",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.245,
+  "lng": 34.8409,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 36,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -1500,
+      "nombre": "Bronzo Medio-Tardo — Epoca Patriarcale"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Tribù di Simeone e Giuda"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Città di confine del regno di Giuda"
+    }
+  ],
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Beersheba (ebraico: בְּאֵר שֶׁבַע, 'pozzo del giuramento' o 'pozzo dei sette') è la città più meridionale del territorio biblico di Israele, all'estremità settentrionale del Negev. Situato alla confluenza del nahal di Beersheba e del nahal di Hebron, controlla l'unica via praticabile verso l'Sinai e l'Arabia attraverso l'interno. L'espressione \"da Dan a Beersheba\" (Giudici 20:1; 1 Sam 3:20) era l'equivalente biblico di \"da nord a sud\", gli estremi del territorio israelita. Il racconto archeologico (Tel Be'er Sheva) è un sito patrimonio mondiale dell'UNESCO e ha rivelato una città con sistema idrico sotterraneo, granai reali e porta a sei camere del periodo del Ferro II.",
+  "altitud_m": 280,
+  "clima": "Semiarido di transizione: precipitazioni di appena 200 mm all'anno, concentrate in inverno. Estati molto calde (fino a 40°C), inverni freschi con notti fredde. La sopravvivenza dipende da pozzi e cisterne. L'ecosistema secco della steppa lascia il posto al deserto del Negev pochi chilometri a sud.",
+  "recursos": [
+    "Pozzi d'acqua profonda: risorsa critica nelle aree aride",
+    "Pascoli stagionali per greggi transumanti",
+    "Controllo della rotta carovaniera verso Sinai, Arabia e Egitto",
+    "Coltivare l'orzo negli anni piovosi",
+    "Commercio di prodotti del deserto: spezie, incenso, pellicce"
+  ],
+  "importancia_estrategica": "Beersheba era il limite meridionale del territorio abitato di Israele, \"l'ultima città prima del deserto\". Controllava l'accesso al Negev e le rotte commerciali con l'Arabia e l'Sinai. I re di Giuda stabilirono qui guarnigioni e granai reali per controllare il commercio delle carovane. Il suo carattere di confine ne fece anche un santuario della tradizione patriarcale, un luogo dove patti e giuramenti avevano particolare validità data l'aridità del deserto circostante.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-beersheba",
+      "nombre": "Filistei e popoli del Negev",
+      "descripcion": "Gli accordi di Abramo e Isacco con Abimelech, re filisteo di Gerar, a Beersheba riflettono la realtà storica della convivenza tra pastori semi-nomadi e popolazioni insediate nella zona di transizione deserto-piana costiera. I patti sui pozzi d'acqua erano accordi vitali nella zona arida: l'accesso all'acqua determinava la sopravvivenza delle greggi e delle famiglie.",
+      "religion": "Cananeo-Politeismo filisteo della pianura costiera meridionale",
+      "periodo": "Bronzo Tardo - epoca patriarcale, ca. 2000-1500 a.C"
+    },
+    {
+      "id": "amorreos-neguev",
+      "nombre": "Popoli del Negev e degli Amalechiti",
+      "descripcion": "Il territorio intorno a Beersheba nel periodo del Ferro I era un'area di transito per gruppi semi-nomadi, inclusi gli Amalechiti, con i quali Israele aveva conflitti ricorrenti. La tribù di Simeone ricevette città dal Negev tra cui Beersheba (Gs 19,1-2), ma la presenza nomade nella zona semiarida non fu mai sradicata, generando un mix culturale che spiega le 'altezze' sincretistiche denunciate dai profeti.",
+      "religion": "Animismo del deserto: culto delle divinità delle fontane, dei venti e delle stelle",
+      "periodo": "Ferro I-II, c. 1200-600 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "pacto-abraham-abimelec",
+      "titulo": "L'Alleanza al Pozzo: Abramo e Abimelech a Beersheba",
+      "fecha": "c. 1900 a.C. (tradición patriarcal)",
+      "descripcion": "Abramo e Abimelec, re di Gerar, raggiunsero un accordo su un pozzo d'acqua che i servi di Abimelec avevano usurpato. Abramo separò sette agnelli come testimonianza che aveva scavato il pozzo. L'accordo fu chiamato Beersheba: 'pozzo del giuramento' (shevuá) o 'pozzo dei sette' (sheva). Abramo piantò lì un albero di tamerice e proclamò il nome Jahvè \"L'Eterno\". Il racconto sancisce il doppio significato del toponimo e presenta la città come luogo dove il patto tra il popolo eletto e i centri vicini si fonda sulla fedeltà all'unico Dio. Una versione parallela pone lo stesso patto con Isacco (Gen 26:26-33).",
+      "referencias": [
+        "Gen 21:25-33",
+        "Gen 26:26-33",
+        "Gen 21:14-21"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "isaac"
+      ]
+    },
+    {
+      "id": "vision-isaac-beersheba",
+      "titulo": "La visione di Isacco e l'altare di Beersheba",
+      "fecha": "c. 1800 a.C. (tradición patriarcal)",
+      "descripcion": "Quando Isacco era a Beersheba, Jahvè gli apparve di notte e gli confermò la promessa patriarcale: 'Io sono il Dio di tuo padre Abramo. Non temere, perché io sono con te e ti benedirò». Isacco costruì un altare, invocò il nome di Jahvè e lì piantò la sua tenda. Il pozzo scavato dai suoi servi produceva acqua in abbondanza. Beersheba fu così sancita come luogo teofanico – luogo in cui Dio si manifesta – e come legittimo santuario della tradizione patriarcale, anche quando i profeti successivi criticheranno il pellegrinaggio ad esso (Am 5,5; 8,14) a causa del sincretismo che si era instaurato.",
+      "referencias": [
+        "Gen 26:23-25",
+        "Am 5:5",
+        "Am 8:14"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    },
+    {
+      "id": "elias-beersheba",
+      "titulo": "Elia a Beersheba: il profeta al limite",
+      "fecha": "c. 850 a.C.",
+      "descripcion": "Dopo la vittoria sui profeti di Baal sul Monte Carmelo, Elia fuggì verso sud di fronte alla minaccia di morte di Jezebel. Arrivò a Beersheba, il confine meridionale di Israele, e lasciò lì il suo servitore. Poi fece una giornata di cammino nel deserto, si sedette sotto una ginestra e chiese la morte: 'Basta, Jahvè; prendimi la vita.\" Esausto e disperato, si addormentò. Un angelo lo svegliò due volte con del pane cotto su pietre calde e una brocca d'acqua: \"Alzati e mangia, perché la strada è troppo lunga per te\". Forte di quel pasto, Elia camminò quaranta giorni e quaranta notti fino all'Oreb, il monte di Dio, ripetendo all'inverso l'itinerario dell'Esodo. Beersheba segna la svolta e l'inizio del rinnovamento profetico.",
+      "referencias": [
+        "1 Re 19:1-8",
+        "1 Re 19:9-18"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abramo",
+      "rol": "Patriarca fondatore, padre delle tre tradizioni monoteistiche",
+      "periodo": "bronce_medio",
+      "descripcion": "Abramo (originariamente Abramo di Ur dei Caldei) è il padre fondatore del monoteismo biblico. Il suo arrivo a Beersheba per stringere un patto con Abimelec e piantare le tamerici in nome dell'Eterno, fissa questa città nella memoria patriarcale come luogo di alleanza e di culto. L'episodio dell'esilio di Agar e di Ismaele nel deserto si svolge anche a Beersheba (Gen 21,14), che per la tradizione islamica è il fondamento della Mecca. La figura di Abramo è unica nella storia delle religioni per essere stato contemporaneamente il padre fondatore dell'ebraismo, la prefigurazione cristiana della fede, e il primo profeta (hanif) dell'Islam.",
+      "referencias": [
+        "Gen 21:14-33",
+        "Gen 12:1-9",
+        "Gen 22:1-19"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "egipto",
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "isaac",
+      "nombre": "Isacco",
+      "rol": "Secondo patriarca, figlio dell'alleanza e del miracolo",
+      "periodo": "bronce_medio",
+      "descripcion": "Isacco è il patriarca la cui vita è definita quasi interamente da Beersheba. Nato da un miracolo (padre centenario, madre novantenne), quasi sacrificato sul monte Moriah, trascorse la sua vita adulta soprattutto nel Negev tra Gerar e Beersheba. Rinnovò il patto di suo padre con Filistei, scavò nuovamente i pozzi che Abramo aveva aperto, ricevette la visione divina della confermazione e morì in Hebron. La sua figura, meno dinamica di quella di Abramo o Giacobbe, rappresenta la fedele continuità della promessa sulla terra stessa, senza grandi spostamenti.",
+      "referencias": [
+        "Gen 26:1-33",
+        "Gen 22:1-19",
+        "Gen 35:27-29"
+      ],
+      "ruta": [
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "elias",
+      "nombre": "Elia",
+      "rol": "Profeta del fuoco, difensore dello Yahwismo contro il Baalismo",
+      "periodo": "hierro_2",
+      "descripcion": "Elia il Tishbita è la figura profetica più drammatica del periodo della monarchia divisa. Il suo ministero si sviluppò nel regno settentrionale sotto i regni di Achab e Achazia, in permanente conflitto con il culto di Baal promosso dalla regina Jezebel. L'episodio di Beersheba – dove raggiunge il limite umano della sua resistenza – è il punto di svolta del suo ministero: di lì parte per l'Oreb per ricevere la chiamata a ungere Hazael, Jehu e Eliseo, suoi successori. Elia è l'unico personaggio OT (insieme a Mosè) che appare con Gesù nella Trasfigurazione (Mt 17,3).",
+      "referencias": [
+        "1 Re 17:1",
+        "1 Re 18:20-40",
+        "1 Re 19:1-21"
+      ],
+      "ruta": [
+        "carmel",
+        "beersheba"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beersheba è uno dei santuari patriarcali più antichi dell'Antico Testamento, dove Abramo e Isacco invocavano il nome divino e costruivano altari. La sua posizione ai margini del territorio abitato ne fece un simbolo dei limiti della terra promessa. Paradossalmente, i profeti dell'VIII secolo (Amos) condannarono il pellegrinaggio a Beersheba come espressione di uno Yahvismo degenerato nel sincretismo e nel vuoto ritualismo, il che dimostra che il santuario era ancora attivo ma corrotto.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo - culto di El Olam (\"Dio eterno\") e del Dio dei padri",
+      "Yahvismo Giuda ufficiale del regno",
+      "Sincretismo popolare: pratiche di culto in alto denunciate da Amos"
+    ],
+    "mitos": [
+      {
+        "id": "agar-ismael-beersheba",
+        "nombre": "Agar e Ismaele nel deserto di Beersheba",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 21:8-21",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 53:13-15",
+          "descripcion": "Sarah ha chiesto a Abramo di espellere Agar e suo figlio Ismaele in modo che il figlio della schiava non ereditasse con Isacco. Abramo lo fece con dolore, fornendo loro pane e un otre d'acqua. Quando nel deserto di Beer-Sceba finì l'acqua, Agar lasciò il bambino sotto un cespuglio e si allontanò per non vederlo morire. L'angelo di Dio chiamò Agar dal cielo, le promise che da Ismaele sarebbe nata una grande nazione e le mostrò un pozzo d'acqua. Il Midrash interpreta che Agar vide il pozzo grazie al merito delle future preghiere dei suoi discendenti.",
+          "similitudes": "Tutte e tre le tradizioni conservano la cacciata di Agar e il miracolo dell'acqua nel deserto.",
+          "diferencias": "L'ebraismo sottolinea la legittimità di Isacco come figlio dell'alleanza; lo sfratto di Ismaele è necessario per preservare la linea promessa.",
+          "significado_teologico": "Dio non abbandona nemmeno chi è fuori dalla linea principale della promessa. La misericordia divina si estende oltre i confini dell’elezione.",
+          "posible_relacion_cultural": "Il motivo della madre che lascia il figlio per non vederne la morte appare nella letteratura lamentosa mesopotamica, pur senza la componente di rivelazione divina che lo trasforma."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gal 4:21-31; Heb 11:17-19",
+          "fuente_secundaria": "Agustín, Contra Faustum 22,33",
+          "descripcion": "Paolo in Galati 4 elabora un'allegoria: Agar rappresenta l'alleanza del Sinai (schiavitù, legge), Sara rappresenta l'alleanza della promessa (libertà, grazia). La cacciata di Agar prefigura il superamento della Legge da parte del Vangelo. I figli della promessa (cristiani) non sono figli della schiava ma della donna libera. Questa interpretazione allegoristica fu sviluppata ampiamente da Origene e Agostino, essendo uno dei testi paolini più citati nella controversia antiebraica dei primi secoli.",
+          "similitudes": "Il contrasto Isacco/Ismaele come figura di due tipi di relazione con Dio è centrale nell'argomentazione paolina.",
+          "diferencias": "Paolo inverte il significato: quella che nell'Antico Testamento era distinzione etnica diventa distinzione spirituale tra legge e grazia.",
+          "significado_teologico": "L'eredità della promessa è spirituale, non biologica. I Gentili credenti sono 'figli di Abramo' piuttosto che discendenti fisici sotto la Legge.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:124-129; 14:35-41",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Al-Baqarah 2:125; Hadith de Bujari, Libro de los Profetas",
+          "descripcion": "L'Islam identifica la storia di Hagar (Hajar) e Ismaele come il fondamento dei rituali della Mecca. Secondo la tradizione islamica, Ibrahim (Abramo) condusse Hajar e Ismaele nella valle della Mecca (non nel deserto di Beersheba) per ordine divino. Quando l'acqua finì, Hajar corse sette volte tra le montagne di Safa e Marwa in cerca di acqua - un gesto commemorato sul Sa'y durante l'Haj. Il pozzo di Zamzam scaturì sotto i piedi del ragazzo Ismaele. Ibrahim e Ismaele insieme costruirono la Kaaba (Cor 2:127). Ismaele è il figlio del sacrificio nella tradizione islamica tradizionale.",
+          "similitudes": "Sono comuni il miracolo dell'acqua nel deserto, la figura di Hazar/Agar come madre eroica e la continuità della discendenza.",
+          "diferencias": "L'Islam colloca gli eventi alla Mecca, non a Beersheba; Ismaele è figlio del sacrificio, non Isacco; Ismaele è un profeta fondatore di una linea di rivelazione arabo-islamica.",
+          "significado_teologico": "Ismaele è l'antenato del profeta Maometto e il costruttore della prima casa di Dio (Kaaba). La storia di Hajar fonda i rituali centrali dell'Haj.",
+          "posible_relacion_cultural": "Le tradizioni islamica e biblica condividono un substrato narrativo semitico occidentale sul patriarca Ibrahim/Abramo, divergente nella geografia e nell'identità del figlio sacrificale."
+        }
+      }
+    ]
+  }
+}

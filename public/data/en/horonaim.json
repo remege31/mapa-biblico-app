@@ -1,0 +1,149 @@
+{
+  "id": "horonaim",
+  "nombre": "Horonaim",
+  "tipo": "ciudad",
+  "lat": 31.288056,
+  "lng": 35.515,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Southern Moabite city, oracles of judgment"
+    }
+  ],
+  "descripcion_geo": "City at the southern end of Moab, mentioned exclusively in contexts of prophetic oracles of judgment. Its name ('two caverns' or 'double cavern') suggests terrain with characteristic rock formations or caves.",
+  "altitud_m": 500,
+  "clima": "Semi-arid — hot, dry summers, cold winters, typical of the southern end of Moab.",
+  "recursos": [
+    "Rock formations or caves (probable origin of the name)",
+    "Position at the southern end of Moabite territory"
+  ],
+  "importancia_estrategica": "Horonaim has no narrative relevance beyond its repeated mention in the prophetic oracles of judgment against Moab, where it appears as one of the cities of the 'path of Horonaim' through which the cry of destruction described by both Isaiah and Jeremiah spreads, confirming that also the cities of the extreme south of the kingdom are included in the full scope of the announced judgment.",
+  "otros_habitantes": [
+    {
+      "id": "moabitas_horonaim",
+      "nombre": "Moabites",
+      "descripcion": "Original and only documented population of Horonaim, a city located at the southern end of the kingdom of Moab.",
+      "religion": "Moabite polytheism — cult of Chemosh",
+      "periodo": "c. 1000–586 BC"
+    },
+    {
+      "id": "fugitivos_horonaim",
+      "nombre": "Fugitives from the prophesied judgment",
+      "descripcion": "Moabite population that, according to prophetic oracles, flees along the road to Horonaim, shouting destruction and destruction before the announced judgment.",
+      "religion": "Moabite polytheism",
+      "periodo": "c. 600 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "isaias-clamor-horonaim",
+      "titulo": "Isaiah describes the cry of destruction on the path of Horonaim",
+      "fecha": "c. 740–700 BC",
+      "descripcion": "The prophet Isaiah includes the road to Horonaim among the places where the cry of destruction is raised in his extensive oracle of judgment against Moab, describing the desperate flight of the population from the announced devastation.",
+      "referencias": [
+        "Isa 15:5"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    },
+    {
+      "id": "jeremias-llanto-horonaim",
+      "titulo": "Jeremiah prophesies the cry of destruction from Horonaim",
+      "fecha": "c. 600 BC",
+      "descripcion": "Jeremiah takes up and expands the image of Isaiah, describing how from Horonaim a cry of destruction and great brokenness rises, in one of the most extensive and detailed passages of the oracle of judgment against the entirety of the Moabite cities.",
+      "referencias": [
+        "Jer 48:3",
+        "Jer 48:5",
+        "Jer 48:34"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    },
+    {
+      "id": "horonaim-geografia-completa-moab",
+      "titulo": "Horonaim as part of the total geography of the Moab trial",
+      "fecha": "c. 600 BC",
+      "descripcion": "The repeated mention of Horonaim along with other Moabite cities in the oracles of Isaiah and Jeremiah confirms the prophetic intention to document the geographical entirety of the territory under judgment, from the northern cities such as Nebo to the extreme south represented by Horonaim.",
+      "referencias": [
+        "Jer 48:1-46"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "isaias_horonaim",
+      "nombre": "Isaiah",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 740–700 BC",
+      "descripcion": "He mentions Horonaim in his oracle of judgment against Moab, establishing the pattern that Jeremiah would pick up and considerably expand upon generations later.",
+      "referencias": [
+        "Isa 15:1-9"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "jeremias_horonaim",
+      "nombre": "Jeremiah",
+      "rol": "Prophet by Judah",
+      "periodo": "hierro_2",
+      "descripcion": "He develops the lament over Horonaim in greater detail, integrating it into the extensive catalog of Moabite cities affected by the announced divine judgment.",
+      "referencias": [
+        "Jer 48:1-46"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "moabitas_horonaim_personaje",
+      "nombre": "Moabite population of Horonaim",
+      "rol": "Inhabitants fleeing the announced judgment",
+      "periodo": "c. 600 BC",
+      "descripcion": "Described in the prophetic oracles fleeing along the road that bears the city's name, crying out cries of destruction at the coming devastation upon the Moabite kingdom.",
+      "referencias": [
+        "Jer 48:3-5"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Horonaim lacks narrative development of its own outside of the prophetic oracles of judgment; Its function in the biblical text is purely geographical-poetic, serving as one of the points of the 'prophetic map' that documents the total extension of the Moabite territory subjected to divine judgment, from the cities of the northern highlands to this southern tip, reinforcing the idea that no region of the kingdom will escape the announced destruction.",
+    "religiones_presentes": [
+      "Moabite polytheism — cult of Chemosh"
+    ],
+    "mitos": [
+      {
+        "id": "mapa-profetico-horonaim",
+        "nombre": "Horonaim in the prophetic map of the judgment on Moab",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Isa 15:5; Jer 48:3-5, 34",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función geográfica de las listas de ciudades en los oráculos de juicio profético contra las naciones",
+          "descripcion": "Jewish tradition observes that the systematic and detailed mention of specific cities such as Horonaim in the prophetic oracles against Moab functions as a rhetorical device to underline the completeness and certainty of the announced judgment, methodically covering the entire geography of the kingdom from north to south without exception.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The careful inclusion of minor cities like Horonaim reinforces the idea that divine judgment on nations is exhaustive and leaves no place beyond its reach.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

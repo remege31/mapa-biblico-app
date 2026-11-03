@@ -1,0 +1,204 @@
+{
+  "id": "beersheba",
+  "nombre": "Beersheba",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.245,
+  "lng": 34.8409,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 36,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -1500,
+      "nombre": "Middle-Late Bronze — Patriarchal Era"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron I — Tribe of Simeon and Judah"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Border city of the kingdom of Judah"
+    }
+  ],
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Beersheba (Hebrew: בְּאֵר שֶׁבַע, 'well of the oath' or 'well of the seven') is the southernmost city in the biblical territory of Israel, at the northern end of the Negev. Located at the confluence of the Beersheba nahal and the Hebron nahal, it controls the only viable route to the Sinai and Arabia through the interior. The expression 'from Dan to Beersheba' (Judg 20:1; 1 Sam 3:20) was the biblical equivalent of 'from north to south'—the extremes of Israelite territory. The archaeological tell (Tel Be'er Sheva) is a UNESCO World Heritage Site and revealed a city with underground water system, royal granaries and six-chambered gate from the Iron II period.",
+  "altitud_m": 280,
+  "clima": "Transitional semi-arid — rainfall of barely 200 mm per year, concentrated in winter. Very hot summers (up to 40°C), cool winters with cold nights. Survival depends on wells and cisterns. The dry steppe ecosystem gives way to the Negev Desert a few kilometers to the south.",
+  "recursos": [
+    "Deep water wells — critical resource in arid areas",
+    "Seasonal pastures for transhumant herds",
+    "Control of the caravan route towards Sinai, Arabia and Egypt",
+    "Growing barley in rainy years",
+    "Trade in desert products: spices, incense, furs"
+  ],
+  "importancia_estrategica": "Beersheba was the southern limit of the inhabited land of Israel, 'the last city before the desert'. It controlled access to the Negev and trade routes with Arabia and the Sinai. The kings of Judah established garrisons and royal granaries here to control the caravan trade. Its border character also made it a sanctuary of patriarchal tradition, a place where pacts and oaths had special validity due to the aridity of the surrounding desert.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-beersheba",
+      "nombre": "Philistines and peoples of the Negev",
+      "descripcion": "The agreements of Abraham and Isaac with Abimelech, Philistine king of Gerar, in Beersheba reflect the historical reality of coexistence between semi-nomadic pastoralists and populations established in the desert-coastal plain transition zone. The pacts on water wells were vital agreements in the arid zone: access to water determined the survival of flocks and families.",
+      "religion": "Canaanite-Philistine Polytheism of the Southern Coastal Plain",
+      "periodo": "Late Bronze — patriarchal era, c. 2000-1500 BC"
+    },
+    {
+      "id": "amorreos-neguev",
+      "nombre": "Peoples of the Negev and Amalekites",
+      "descripcion": "The territory around Beersheba in the Iron I period was a transit area for semi-nomadic groups, including the Amalekites, with whom Israel had recurring conflicts. Simeon's tribe received cities from the Negev including Beersheba (Josh 19:1-2), but the nomadic presence in the semi-arid zone was never eradicated, generating a cultural mix that explains the syncretistic 'heights' that the prophets denounced.",
+      "religion": "Desert animism — cult of deities of fountains, winds and stars",
+      "periodo": "Iron I-II, c. 1200-600 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "pacto-abraham-abimelec",
+      "titulo": "The Covenant at the Well: Abraham and Abimelech in Beersheba",
+      "fecha": "c. 1900 BC (tradición patriarcal)",
+      "descripcion": "Abraham and Abimelech, king of Gerar, reached an agreement over a water well that Abimelech's servants had usurped. Abraham separated seven ewe lambs as testimony that he had dug the well. The agreement was named Beersheba: 'well of oath' (shevuá) or 'well of seven' (sheva). Abraham planted a tamarisk tree there and proclaimed the name Yahweh 'The Eternal One'. The story establishes the double meaning of the toponym and presents the city as a place where the pact between the chosen people and neighboring towns is based on fidelity to the only God. A parallel version places the same covenant with Isaac (Gen 26:26-33).",
+      "referencias": [
+        "Gen 21:25-33",
+        "Gen 26:26-33",
+        "Gen 21:14-21"
+      ],
+      "personajes_clave": [
+        "abraham",
+        "isaac"
+      ]
+    },
+    {
+      "id": "vision-isaac-beersheba",
+      "titulo": "The Vision of Isaac and the Beersheba Altar",
+      "fecha": "c. 1800 BC (tradición patriarcal)",
+      "descripcion": "When Isaac was in Beersheba, Yahweh appeared to him in the night and confirmed the patriarchal promise: 'I am the God of your father Abraham. Do not be afraid, for I am with you and will bless you.' Isaac built an altar, invoked the name of Yahweh, and pitched his tent there. The well his servants dug produced abundant water. Beersheba was thus sanctioned as a theophanic place—a site where God manifests himself—and as a legitimate sanctuary of the patriarchal tradition, even when later prophets would criticize the pilgrimage to it (Am 5:5; 8:14) due to the syncretism that had been established.",
+      "referencias": [
+        "Gen 26:23-25",
+        "Amos 5:5",
+        "Amos 8:14"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    },
+    {
+      "id": "elias-beersheba",
+      "titulo": "Elijah in Beersheba: the prophet on the limit",
+      "fecha": "c. 850 BC",
+      "descripcion": "Following her victory over Baal's prophets on Mount Carmel, Elijah fled southwards in the face of Jezebel's death threat. He arrived at Beersheba—the southern border of Israel—and left his servant there. Then he went a day's journey into the desert, sat down under a broom tree and asked for death: 'Enough, Yahweh; take my life.' Exhausted and desperate, he fell asleep. An angel woke him up twice with bread baked on hot stones and a jug of water: 'Get up and eat, for the road is too long for you.' Strengthened by that meal, Elijah walked forty days and forty nights to Horeb, the mountain of God, repeating the itinerary of the Exodus in reverse. Beersheba marks the turning point and the beginning of prophetic renewal.",
+      "referencias": [
+        "1 Kgs 19:1-8",
+        "1 Kgs 19:9-18"
+      ],
+      "personajes_clave": [
+        "elias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham",
+      "nombre": "Abraham",
+      "rol": "Founding patriarch, father of the three monotheistic traditions",
+      "periodo": "bronce_medio",
+      "descripcion": "Abraham (originally Abram of Ur of the Chaldeans) is the founding father of biblical monotheism. His arrival in Beersheba to make a pact with Abimelech and plant the tamarisk in the name of 'The Eternal' fixes this city in patriarchal memory as a place of alliance and worship. The episode of Hagar and Ishmael's exile to the desert also takes place in Beersheba (Gen 21:14), which for Islamic tradition is the foundation of Mecca. The figure of Abraham is unique in the history of religions for being simultaneously the founding father of Judaism, the Christian prefiguration of the faith, and the first prophet (hanif) of Islam.",
+      "referencias": [
+        "Gen 21:14-33",
+        "Gen 12:1-9",
+        "Gen 22:1-19"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "canaan",
+        "egipto",
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "isaac",
+      "nombre": "Isaac",
+      "rol": "Second patriarch, son of the covenant and miracle",
+      "periodo": "bronce_medio",
+      "descripcion": "Isaac is the patriarch whose life is most entirely defined by Beersheba. Born of a miracle (centenarian father, nonagenarian mother), almost sacrificed on Mount Moriah, his adult life was spent primarily in the Negev between Gerar and Beersheba. He renewed his father's pact with the Philistines, dug again the wells that Abraham had opened, received the divine vision of confirmation, and died in Hebron. Its figure, less dynamic than that of Abraham or Jacob, represents the faithful continuity of the promise on the earth itself, without major displacements.",
+      "referencias": [
+        "Gen 26:1-33",
+        "Gen 22:1-19",
+        "Gen 35:27-29"
+      ],
+      "ruta": [
+        "beersheba",
+        "hebron"
+      ]
+    },
+    {
+      "id": "elias",
+      "nombre": "Elijah",
+      "rol": "Prophet of fire, defender of Yahwism against Baalism",
+      "periodo": "hierro_2",
+      "descripcion": "Elijah the Tishbite is the most dramatic prophetic figure of the period of the divided monarchy. His ministry developed in the northern kingdom under the reigns of Ahab and Ahaziah, in permanent conflict with the cult of Baal fostered by Queen Jezebel. The episode of Beersheba—where he reaches the human limit of his resistance—is the turning point of his ministry: from there he leaves for Horeb to receive the call to anoint Hazael, Jehu and Elisha, his successors. Elijah is the only OT character (along with Moses) who appears with Jesus in the Transfiguration (Mt 17:3).",
+      "referencias": [
+        "1 Kgs 17:1",
+        "1 Kgs 18:20-40",
+        "1 Kgs 19:1-21"
+      ],
+      "ruta": [
+        "carmel",
+        "beersheba"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beersheba is one of the oldest patriarchal sanctuaries in the OT, where Abraham and Isaac invoked the divine name and built altars. Its position at the edge of the inhabited territory made it a symbol of the limits of the promised land. Paradoxically, the prophets of the 8th century (Amos) condemned the pilgrimage to Beersheba as an expression of a Yahvism degenerated into syncretism and empty ritualism, which shows that the sanctuary was still active but corrupted.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism — worship of El Olam ('Eternal God') and the God of the fathers",
+      "Yahwism Judah kingdom official",
+      "Popular syncretism — cult practices in heights denounced by Amos"
+    ],
+    "mitos": [
+      {
+        "id": "agar-ismael-beersheba",
+        "nombre": "Agar e Ishmael in the Beersheba desert",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 21:8-21",
+          "fuente_secundaria": "Midrash Rabbah, Génesis 53:13-15",
+          "descripcion": "Sarah asked Abraham to expel Hagar and her son Ishmael so that the slave girl's son would not inherit with Isaac. Abraham did it with sorrow, providing them with bread and a skin of water. When the water ran out in the desert of Beersheba, Hagar left the child under a bush and walked away so as not to see him die. The angel of God called Hagar from heaven, promised her that a great nation would be born from Ishmael and showed her a well of water. The Midrash interprets that Hagar saw the well thanks to the merit of the future prayers of her descendants.",
+          "similitudes": "All three traditions preserve the expulsion of Hagar and the miracle of water in the desert.",
+          "diferencias": "Judaism emphasizes the legitimacy of Isaac as a son of the covenant; eviction of Ishmael is necessary to preserve the promise line.",
+          "significado_teologico": "God does not abandon even those who are outside the main line of the promise. Divine mercy extends beyond the boundaries of election.",
+          "posible_relacion_cultural": "The motif of the mother who leaves her son so as not to see his death appears in Mesopotamian lament literature, although without the component of divine revelation that transforms it."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gal 4:21-31; Heb 11:17-19",
+          "fuente_secundaria": "Agustín, Contra Faustum 22,33",
+          "descripcion": "Paul in Galatians 4 elaborated an allegory: Hagar represents the Sinaitic covenant (bondage, law), Sarah represents the covenant of promise (freedom, grace). The expulsion of Hagar prefigures the overcoming of the Law by the Gospel. The children of the promise (Christians) are not children of the slave but of the free woman. This allegoristic interpretation was developed extensively by Origen and Augustine, being one of the most cited Pauline texts in the anti-Jewish controversy of the first centuries.",
+          "similitudes": "The contrast Isaac/Ishmael as a figure of two types of relationship with God is central to the Pauline argument.",
+          "diferencias": "Paul inverts the meaning: what in the OT was ethnic distinction becomes a spiritual distinction between law and grace.",
+          "significado_teologico": "The inheritance of the promise is spiritual, not biological. The believing Gentiles are 'children of Abraham' rather than the physical descendants under the Law.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:124-129; 14:35-41",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Al-Baqarah 2:125; Hadith de Bujari, Libro de los Profetas",
+          "descripcion": "Islam identifies the story of Hagar (Hajar) and Ishmael as the foundation of the rituals of Mecca. According to Islamic tradition, Ibrahim (Abraham) led Hajar and Ishmael to the valley of Mecca (not the Beersheba desert) by divine order. When the water ran out, Hajar ran seven times between the mountains of Safa and Marwa in search of water — a gesture commemorated on the Sa'y during the Haj. The well of Zamzam sprang up under the feet of the boy Ishmael. Ibrahim and Ishmael together built the Kaaba (Cor 2:127). Ishmael is the son of sacrifice in the mainstream Islamic tradition.",
+          "similitudes": "The miracle of water in the desert, the figure of Hazar/Hagar as a heroic mother, and the continuity of descendants are common.",
+          "diferencias": "Islam places the events in Mecca, not Beersheba; Ishmael is the son of sacrifice, not Isaac; Ishmael is a founding prophet of an Arab-Islamic line of revelation.",
+          "significado_teologico": "Ishmael is the ancestor of Prophet Muhammad and the builder of the first house of God (Kaaba). The story of Hajar founds the central rituals of the Haj.",
+          "posible_relacion_cultural": "The Islamic and biblical traditions share a Western Semitic narrative substratum about the patriarch Ibrahim/Abraham, diverging in geography and in the identity of the sacrificial son."
+        }
+      }
+    ]
+  }
+}

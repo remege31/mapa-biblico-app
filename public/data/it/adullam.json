@@ -1,0 +1,168 @@
+{
+  "id": "adullam",
+  "nombre": "Adulam",
+  "tipo": "ciudad",
+  "lat": 31.65,
+  "lng": 35.0,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I – Rifugio Davide nella grotta di Adulam"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II: fortificazione di Roboamo"
+    }
+  ],
+  "descripcion_geo": "Città cananea nella Sefela di Giuda, accanto a una grotta o un complesso di grotte naturali nell'area calcarea, che servì da rifugio a Davide durante il suo periodo di fuga da Saul. La sua posizione al passaggio tra le montagne di Giuda e la pianura costiera lo rendeva strategicamente rilevante.",
+  "altitud_m": 380,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale.",
+  "recursos": [
+    "Grotte rifugio naturale",
+    "Terreni agricoli della Shephelah",
+    "Posizione fortificabile tra Giuda e Filistea"
+  ],
+  "importancia_estrategica": "La Grotta di Adulam è uno dei luoghi più significativi del periodo di formazione di Davide come leader: lì si incontra il nucleo originario dei suoi seicento uomini - familiari, indebitati e disamorati - che costituiranno la base del suo futuro esercito personale. Secoli dopo, Roboamo fortifica la città come parte del sistema difensivo di Giuda.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_adulam",
+      "nombre": "Cananei",
+      "descripcion": "Popolazione originaria della città di Adullam, già citata nel ciclo Giuda della Genesi come luogo di residenza dell'amico Hira l'adullamita.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1200 a.C"
+    },
+    {
+      "id": "seguidores_david_adulam",
+      "nombre": "I seicento uomini di Davide",
+      "descripcion": "Un gruppo eterogeneo di familiari, indebitati, afflitti e scontenti, che si incontrano con Davide nella grotta di Adulam, formando il nucleo di quello che sarà poi il suo esercito personale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "juda-hira-adulam",
+      "titulo": "Giuda e il suo amico Hira l'Adullamita",
+      "fecha": "c. 1700 a.C. (cronología tradicional, ciclo patriarcal)",
+      "descripcion": "Nel ciclo di Giuseppe, Giuda è associato a Hira, un uomo di Adulam, un episodio che inquadra la narrativa di Giuda e Tamar e collega presto il nome della città con la genealogia della tribù di Giuda.",
+      "referencias": [
+        "Gen 38:1-2",
+        "Gen 38:12"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-cueva-adulam",
+      "titulo": "Davide si rifugia nella grotta di Adulam",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Dopo essere fuggito da Gat, Davide si rifugia nella grotta di Adulam, dove viene raggiunto dai suoi fratelli e dall'intera casa di suo padre; Lì si riuniscono anche tutti coloro che erano in difficoltà, in debito o amareggiati nello spirito, formando un gruppo di circa quattrocento uomini guidati da Davide.",
+      "referencias": [
+        "1 Sam 22:1-2"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "valientes-agua-belen-adulam",
+      "titulo": "I tre uomini coraggiosi portano l'acqua Betlemme dalla fortezza di Adulam",
+      "fecha": "c. 1010 a.C.",
+      "descripcion": "Mentre Davide è fortificato vicino alla Grotta di Adulam con Filistei accampato nella Valle di Rephaim, esprime il desiderio di bere l'acqua dal pozzo di Betlemme; tre dei suoi valorosi sfondano le linee filistee per portargli dell'acqua, gesto che Davide rifiuta di bere e versa in offerta a YHWH per rispetto del rischio assunto.",
+      "referencias": [
+        "2 Sam 23:13-17"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_adulam",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Nella grotta di Adulam raccoglie il nucleo di seguaci che costituiranno la base del suo futuro potere militare e politico, momento fondante del suo passaggio da fuggitivo solitario a leader di una forza organizzata.",
+      "referencias": [
+        "1 Sam 22:1-2",
+        "2 Sam 23:13-17"
+      ],
+      "ruta": [
+        "gath",
+        "adullam"
+      ]
+    },
+    {
+      "id": "tres_valientes_adulam",
+      "nombre": "Tre dei coraggiosi di Davide",
+      "rol": "Davide Guerrieri d'élite della cerchia interna",
+      "periodo": "hierro_2",
+      "descripcion": "Rischiano la vita attraversando le linee filistee per soddisfare il desiderio espresso da Davide di bere l'acqua dal pozzo di Betlemme, un gesto di estrema lealtà che Davide onora versando l'acqua come offerta a YHWH invece di berla.",
+      "referencias": [
+        "2 Sam 23:13-17"
+      ],
+      "ruta": [
+        "adullam",
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "hira_adulamita",
+      "nombre": "Hira l'adullamita",
+      "rol": "Amico di Giuda nel ciclo patriarcale",
+      "periodo": "c. 1700 a.C. (cronología tradicional)",
+      "descripcion": "Compagno e amico di Giuda, figlio di Giacobbe, menzionato nell'episodio che inquadra la narrazione di Giuda e Tamar, antico legame genealogico tra la tribù di Giuda e la regione di Adulam.",
+      "referencias": [
+        "Gen 38:1-20"
+      ],
+      "ruta": [
+        "adullam"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "La Grotta di Adulam è il luogo di fondazione della leadership militare e politica di Davide: il gruppo eterogeneo di persone emarginate che si riuniscono lì - debitori, afflitti, disamorati - sarà trasformato nel nucleo di un esercito leale, anticipando la ricorrente teologia biblica secondo cui Dio sceglie e nobilita gli sfollati e rifiutati per scopi più grandi. Il successivo episodio acquatico di Betlemme rafforza il motivo dell'estrema lealtà ricambiata con un gesto di devozione che trascende l'immediato desiderio personale.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "cueva-adulam-formacion-liderazgo",
+        "nombre": "La Grotta di Adulam come luogo di fondazione della leadership di Davide",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 22:1-2",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre Adulam como modelo de liderazgo que reúne y dignifica a los marginados",
+          "descripcion": "La tradizione ebraica valorizza l’episodio di Adulam come un esempio di come Davide, prima di diventare re, abbia dimostrato capacità di leadership proprio riunendo e organizzando coloro che la società aveva spodestato – indebitati, afflitti, amareggiati – trasformandoli in una forza disciplinata e leale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio illustra il principio biblico secondo cui Dio eleva e dà uno scopo agli emarginati, anticipando il carattere del futuro regno di Davide.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 22:1-2 (recepción patrística sobre Adulam como figura de la congregación de los necesitados)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que comparan la congregación de Adulam con la comunidad reunida en torno a Cristo",
+          "descripcion": "Alcuni Padri della Chiesa leggono l'episodio di Adulam in un parallelo tipologico con la formazione della comunità dei seguaci di Gesù, sottolineando che entrambi i leader - Davide e, figurativamente, Cristo - inizialmente riuniscono persone emarginate o in difficoltà come nucleo di un movimento più ampio.",
+          "similitudes": "Condivide con la lettura ebraica l’apprezzamento della leadership che nobilita gli emarginati.",
+          "diferencias": "La lettura cristiana aggiunge un'esplicita dimensione tipologica che collega Davide a Cristo, assente nella lettura ebraica originale del brano.",
+          "significado_teologico": "L'episodio è integrato come prefigurazione della chiamata divina agli umili e ai bisognosi come base di una comunità di scopo più grande.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

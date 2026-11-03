@@ -1,0 +1,133 @@
+{
+  "id": "zeboiim",
+  "nombre": "Zeboim",
+  "tipo": "ciudad",
+  "lat": 31.12,
+  "lng": 35.41,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "One of the five cities of the plain (pentapolis) destroyed along with Sodom and Gomorrah; Its exact location is uncertain.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "City of the valley of Siddim destroyed next to Sodom.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "zeb_h1",
+      "titulo": "Zeboim in the battle of the four kings against five",
+      "fecha": "ca. 1800 BC",
+      "descripcion": "The king of Zeboim participated in the coalition of the five kings of the valley against the four kings of the east.",
+      "referencias": [
+        "Gen 14:2,8"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot"
+      ]
+    },
+    {
+      "id": "zeb_h2",
+      "titulo": "God destroys Zeboim along with Sodom",
+      "fecha": "ca. mítico",
+      "descripcion": "Zeboim is destroyed along with Sodom, Gomorrah, Adma and Zoar by God's judgment.",
+      "referencias": [
+        "Gen 19:24",
+        "Deut 29:23"
+      ],
+      "personajes_clave": [
+        "israelitas"
+      ]
+    },
+    {
+      "id": "zeb_h3",
+      "titulo": "Hosea: Adma and Zeboim as a warning",
+      "fecha": "ca. 750 BC",
+      "descripcion": "Hosea cites the destruction of Adma and Zeboim as a warning to Israel: the same judgment could fall upon him.",
+      "referencias": [
+        "Hos 11:8"
+      ],
+      "personajes_clave": [
+        "Oseas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "zeb_p1",
+      "nombre": "king of Zeboim",
+      "rol": "King of destroyed city",
+      "periodo": "ca. 1800 BC",
+      "descripcion": "One of the five kings who first allied themselves against the east and were then defeated.",
+      "referencias": [
+        "Gen 14:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p2",
+      "nombre": "Abraham",
+      "rol": "Patriarch",
+      "periodo": "ca. 1800 BC",
+      "descripcion": "He rescued Lot who was captured in the battle of the four kings against the five that included Zeboim.",
+      "referencias": [
+        "Gen 14:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "zeb_p3",
+      "nombre": "Hosea",
+      "rol": "Prophet",
+      "periodo": "ca. 750-720 BC",
+      "descripcion": "He cited the destruction of Zeboim as a paradigm of divine judgment to warn the Israel of the north.",
+      "referencias": [
+        "Hos 11:8"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zeboim: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "zeb_m1",
+        "nombre": "The cities of judgment",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Sodom, Gomorrah, Adma and Zeboim are the biblical paradigm of total judgment; its destruction is cited by several prophets as a warning.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Sodom, Gomorrah, Adma and Zeboim are the biblical paradigm of total judgment; its destruction is cited by several prophets as a warning.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

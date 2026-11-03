@@ -1,0 +1,134 @@
+{
+  "id": "seir_mount",
+  "nombre": "Monte Seír",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 30.73,
+  "lng": 35.61,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Las montañas de Seír son el macizo montañoso al este del Arabá habitado por los edomitas; Seír es un nombre alternativo de Edom.",
+  "altitud_m": 1500,
+  "clima": "árido",
+  "recursos": [
+    "cobre",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Tierra montañosa de Esaú; lugar de la victoria de Josafat según 2 Crónicas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "sei_h1",
+      "titulo": "La visión de Ezequiel contra el monte Seír",
+      "fecha": "ca. 590 a.C.",
+      "descripcion": "Ezequiel profetiza contra el monte Seír porque se regocijó cuando Israel cayó; será desolado.",
+      "referencias": [
+        "Ez 35"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    },
+    {
+      "id": "sei_h2",
+      "titulo": "Josafat: el monte Seír destruye a sus propios aliados",
+      "fecha": "ca. 850 a.C.",
+      "descripcion": "Los invasores de Moab y Amón atacan a los del monte Seír; luego se vuelven unos contra otros y se destruyen mutuamente.",
+      "referencias": [
+        "2 Cr 20:22-23"
+      ],
+      "personajes_clave": [
+        "Josafat"
+      ]
+    },
+    {
+      "id": "sei_h3",
+      "titulo": "El Señor marchó desde Seír",
+      "fecha": "ca. 1200 a.C.",
+      "descripcion": "El cántico de Débora evoca al Señor que marchó desde el campo de Edom/Seír en el pasado.",
+      "referencias": [
+        "Jue 5:4"
+      ],
+      "personajes_clave": [
+        "Débora"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sei_m_p1",
+      "nombre": "Ezequiel",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Pronunció un oráculo total contra el monte Seír por su hostilidad a Israel.",
+      "referencias": [
+        "Ez 35:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p2",
+      "nombre": "Josafat",
+      "rol": "Rey de Judá",
+      "periodo": "873-849 a.C.",
+      "descripcion": "Sus enemigos del monte Seír se destruyeron entre sí; su victoria fue sin combate.",
+      "referencias": [
+        "2 Cr 20:23"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "sei_m_p3",
+      "nombre": "Débora",
+      "rol": "Profetisa y juez",
+      "periodo": "ca. 1125 a.C.",
+      "descripcion": "Su cántico evoca la antigua marcha de Dios desde Seír como imagen de su poder.",
+      "referencias": [
+        "Jue 5:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Monte Seír: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "sei_m1",
+        "nombre": "Dios marcha desde Seír",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Jue 5:4",
+          "fuente_secundaria": "",
+          "descripcion": "Dios marchó desde Seír para salvar a su pueblo: el monte del enemigo se convierte en escenario de la acción divina (Jue 5:4; Dt 33:2).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dios marchó desde Seír para salvar a su pueblo: el monte del enemigo se convierte en escenario de la acción divina (Jue 5:4; Dt 33:2).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "brook_of_egypt",
+  "nombre": "Arroyo de Egipto (Nahal Mitzraim)",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.03,
+  "lng": 33.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Cauce estacional (wadi) en el Sinaí septentrional que marcaba la frontera sur de la tierra prometida entre Canaán y Egipto.",
+  "altitud_m": 0,
+  "clima": "árido",
+  "recursos": [
+    "agua estacional",
+    "pastoreo"
+  ],
+  "importancia_estrategica": "Frontera sur de la tierra prometida; límite entre Israel y Egipto desde Josué hasta los profetas.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "bro_h1",
+      "titulo": "El arroyo de Egipto como frontera sur",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dios fija el arroyo de Egipto como frontera sur de la tierra prometida a Abraham y a Israel.",
+      "referencias": [
+        "Gn 15:18",
+        "Nm 34:5"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "bro_h2",
+      "titulo": "La frontera del reino de Salomón",
+      "fecha": "ca. 950 a.C.",
+      "descripcion": "El reino de Salomón se extendía desde el arroyo de Egipto hasta el Éufrates, cumpliendo la promesa a Abraham.",
+      "referencias": [
+        "1 Re 8:65",
+        "2 Cr 7:8"
+      ],
+      "personajes_clave": [
+        "Salomón"
+      ]
+    },
+    {
+      "id": "bro_h3",
+      "titulo": "Josías y el arroyo de Egipto",
+      "fecha": "609 a.C.",
+      "descripcion": "La reforma de Josías se extendió hasta el arroyo de Egipto, que era el límite sur de lo que quedaba de Israel.",
+      "referencias": [
+        "2 Cr 35:20"
+      ],
+      "personajes_clave": [
+        "Josías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "bro_p1",
+      "nombre": "Moisés",
+      "rol": "Legislador",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Recibió la indicación del arroyo de Egipto como frontera sur de la herencia de Israel.",
+      "referencias": [
+        "Nm 34:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p2",
+      "nombre": "Salomón",
+      "rol": "Rey de Israel",
+      "periodo": "ca. 970-931 a.C.",
+      "descripcion": "Su reino alcanzó el arroyo de Egipto como frontera sur, el máximo territorial de Israel.",
+      "referencias": [
+        "1 Re 8:65"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "bro_p3",
+      "nombre": "Josías",
+      "rol": "Rey reformador",
+      "periodo": "640-609 a.C.",
+      "descripcion": "Su reforma llegó hasta el arroyo de Egipto.",
+      "referencias": [
+        "2 Cr 35:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Arroyo de Egipto (Nahal Mitzraim): región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "bro_m1",
+        "nombre": "La frontera prometida",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 15:18",
+          "fuente_secundaria": "",
+          "descripcion": "El arroyo de Egipto es el límite sur de la tierra prometida a Abraham (Gn 15:18); la extensión máxima del reino de Salomón alcanzó ese límite.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El arroyo de Egipto es el límite sur de la tierra prometida a Abraham (Gn 15:18); la extensión máxima del reino de Salomón alcanzó ese límite.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

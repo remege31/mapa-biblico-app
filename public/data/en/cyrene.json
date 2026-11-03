@@ -1,0 +1,247 @@
+{
+  "id": "cyrene",
+  "nombre": "Cyrene",
+  "tipo": "ciudad",
+  "lat": 32.82,
+  "lng": 21.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -632,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Greek city on the coast of Libya (North Africa), with a significant Jewish community in the NT period.",
+  "altitud_m": 622,
+  "clima": "mediterranean-dry",
+  "recursos": [
+    "olive trees",
+    "cereals",
+    "silphium",
+    "trade"
+  ],
+  "importancia_estrategica": "Greek city in North Africa; cradle of Simon who carried the cross of Jesus.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cir_h1",
+      "titulo": "Simon of Cyrene carries the cross by Jesus",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Simon of Cyrene, who was coming from the countryside, is forced to carry the cross of Jesus on the way to Calvary.",
+      "referencias": [
+        "Matt 27:32",
+        "Mark 15:21"
+      ],
+      "personajes_clave": [
+        "Simón de Cirene",
+        "Jesús"
+      ]
+    },
+    {
+      "id": "cir_h2",
+      "titulo": "The Cyreneans at Pentecost",
+      "fecha": "ca. 30 AD",
+      "descripcion": "Among the Jews who have arrived at Jerusalem for Pentecost are men from Cyrene who hear the gospel.",
+      "referencias": [
+        "Acts 2:10"
+      ],
+      "personajes_clave": [
+        "cireneos"
+      ]
+    },
+    {
+      "id": "cir_h3",
+      "titulo": "The Cyreneans evangelize Antioch",
+      "fecha": "ca. 40-44 AD",
+      "descripcion": "Men from Cyprus and Cyrene are the first to preach the gospel to the Greeks in Antioch.",
+      "referencias": [
+        "Acts 11:20"
+      ],
+      "personajes_clave": [
+        "misioneros cireneos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cir_p1",
+      "nombre": "Simon of Cyrene",
+      "rol": "cross bearer",
+      "periodo": "ca. 30 AD",
+      "descripcion": "Forced to carry the cross of Jesus; Mark mentions that he was the father of Alexander and Rufus.",
+      "referencias": [
+        "Mark 15:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p2",
+      "nombre": "Cyrene pike",
+      "rol": "Prophet in Antioch",
+      "periodo": "s. I AD",
+      "descripcion": "Among the prophets and teachers of the church of Antioch was a Lucius of Cyrene.",
+      "referencias": [
+        "Acts 13:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p3",
+      "nombre": "Rufous",
+      "rol": "Son of Simon of Cyrene",
+      "periodo": "s. I AD",
+      "descripcion": "Paul greets a Rufus in Rome, possibly the son of the Cyrenian who carried the cross.",
+      "referencias": [
+        "Rom 16:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "African city with active Jewish community; Simon of Cyrene is the best-known figure in the NT; Its citizens are among the first evangelizers.",
+    "religiones_presentes": [
+      "greco_roman_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "cir_m1",
+        "nombre": "The bearer of the cross",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Lk 9:23",
+          "fuente_secundaria": "",
+          "descripcion": "Simon of Cyrene, a Gentile from Africa, carried the cross of Jesus; figure of the disciple who 'takes up his cross' (Lk 9:23).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Simon of Cyrene, a Gentile from Africa, carried the cross of Jesus; figure of the disciple who 'takes up his cross' (Lk 9:23).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cir_nt_h1",
+        "titulo": "Simon of Cyrene and the cross",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Simon, arriving from the countryside for Easter, is forced to carry Jesus's cross.",
+        "referencias": [
+          "Matt 27:32"
+        ],
+        "personajes_clave": [
+          "Simón de Cirene",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "cir_nt_h2",
+        "titulo": "Cyreneans at Pentecost",
+        "fecha": "ca. 30 AD",
+        "descripcion": "Jews from Cyrene were in Jerusalem on the day of Pentecost and heard the gospel.",
+        "referencias": [
+          "Acts 2:10"
+        ],
+        "personajes_clave": [
+          "cireneos"
+        ]
+      },
+      {
+        "id": "cir_nt_h3",
+        "titulo": "Cyreneans evangelize the Greeks",
+        "fecha": "ca. 40-44 AD",
+        "descripcion": "Men from Cyrene were the pioneers in preaching to the Greeks in Antioch.",
+        "referencias": [
+          "Acts 11:20"
+        ],
+        "personajes_clave": [
+          "misioneros cireneos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cir_nt_p1",
+        "nombre": "Simon of Cyrene",
+        "rol": "cross bearer",
+        "periodo": "ca. 30 AD",
+        "descripcion": "He carried the cross of Christ; symbol of discipleship.",
+        "referencias": [
+          "Mark 15:21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p2",
+        "nombre": "Cyrene pike",
+        "rol": "Prophet",
+        "periodo": "s. I AD",
+        "descripcion": "Member of Antioch church leadership.",
+        "referencias": [
+          "Acts 13:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p3",
+        "nombre": "Rufous",
+        "rol": "Possible son of Simon",
+        "periodo": "s. I AD",
+        "descripcion": "Greeted by Paul in Rome as 'chosen in the Lord'.",
+        "referencias": [
+          "Rom 16:13"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cyrene contributed to the gospel with Simon (bearer of the cross) and with pioneer evangelizers.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "cir_nt_m1",
+          "nombre": "The bearer of the cross",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Simon of Cyrene, from Africa, is the image of forced discipleship that becomes grace.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Simon of Cyrene, from Africa, is the image of forced discipleship that becomes grace.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus",
+      "apostolic"
+    ]
+  }
+}

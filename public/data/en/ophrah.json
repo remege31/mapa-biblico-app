@@ -1,0 +1,154 @@
+{
+  "id": "ophrah",
+  "nombre": "Ofra",
+  "tipo": "ciudad",
+  "lat": 32.60868269540592,
+  "lng": 35.28826433084549,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Home of Gideon, Altar Calling and Judgment by Baal"
+    }
+  ],
+  "descripcion_geo": "City of the tribe of Manasseh, in the northern mountainous region of Israel, home of Gideon and scene of the angelic call that summons him to free Israel from Midianite oppression, in addition to the subsequent episode of the ephod that Gideon makes with the spoils of his victory.",
+  "altitud_m": 380,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the hills of Manasseh.",
+  "recursos": [
+    "Gideon's family winepress (place of the angelic call)",
+    "Altar of Baal and image of Asherah destroyed by Gideon",
+    "Agricultural lands of the mountainous region of Manasseh"
+  ],
+  "importancia_estrategica": "Ophra is the point of origin of one of the longest cycles of deliverance in the book of Judges: Gideon's calling occurs in his own family winepress while he threshes wheat hidden for fear of the Midianites, and the city is also the scene of the first act of obedience required of Gideon—the destruction of his own father's Baal altar—before any military campaign against the external oppressor.",
+  "otros_habitantes": [
+    {
+      "id": "abiezeritas_ofra",
+      "nombre": "Clan of Abiezer (Gideon's family)",
+      "descripcion": "Family from the tribe of Manasseh to which Gideon belongs, residing in Ophrah, who maintained an altar to Baal and an image of Asherah under the authority of Joash, Gideon's father.",
+      "religion": "Yahwist-Baalist syncretism (prior to Gideon's reform)",
+      "periodo": "c. 1150 BC"
+    },
+    {
+      "id": "madianitas_amenaza_ofra",
+      "nombre": "Midianites and Amalekites",
+      "descripcion": "Invading peoples who severely oppress Israel through devastating raids on their crops and livestock, the reason for hiding the grain that Gideon threshed in the winepress of Ofra.",
+      "religion": "Midianite polytheism",
+      "periodo": "c. 1150 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "llamado-gedeon-ofra",
+      "titulo": "The angel of YHWH calls Gideon in the winepress of Ophra",
+      "fecha": "c. 1150 BC",
+      "descripcion": "While Gideon threshes wheat hidden in a winepress to protect it from the Midianites, the angel of YHWH appears to him and greets him as a 'mighty and valiant man', entrusting him to free Israel; Gideon doubts his ability because he is from the poorest family in Manasseh, but he receives the promise of divine presence and a confirming sign through fire that consumes his offering.",
+      "referencias": [
+        "Judg 6:11-24"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-destruye-altar-baal-ofra",
+      "titulo": "Gideon destroys his father's Baal altar",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Before any military action, YHWH orders Gideon to tear down the altar of Baal and cut down the image of Asherah that his own father kept in Ophra; Gideon does it at night for fear of his family and the men of the city, who upon discovering him the next day demand his death, but Joash defends his son, arguing that if Baal is god, he should defend himself.",
+      "referencias": [
+        "Judg 6:25-32"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-efod-ofra",
+      "titulo": "Gideon makes an ephod in Ophrah that becomes an idolatrous trap",
+      "fecha": "c. 1130 BC",
+      "descripcion": "After his successful military campaign, Gideon requests the gold earrings from the loot and makes an ephod that he places in Ofrah, his city; the biblical text records that 'all Israel prostituted themselves after him there', becoming a stumbling block for Gideon and his household, in an ironic twist that contrasts with his earlier destruction of the family's idolatrous cult.",
+      "referencias": [
+        "Judg 8:24-27"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gedeon",
+      "nombre": "Gideon",
+      "rol": "Israel judge, liberator from Midianite oppression",
+      "periodo": "hierro_1",
+      "descripcion": "He receives the angelic call in Ophra that makes him the judge-deliverer of Israel, beginning with the destruction of the idolatrous cult of his own family before leading the famous campaign of the three hundred men against Midian.",
+      "referencias": [
+        "Judg 6:11-32",
+        "Judg 7:1-25"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    },
+    {
+      "id": "joas_padre_gedeon",
+      "nombre": "Joash, father of Gideon",
+      "rol": "Gideon's father, unexpected defender of his son",
+      "periodo": "c. 1150 BC",
+      "descripcion": "Although he originally kept the altar of Baal destroyed by Gideon, he defends his son before the angry crowd with a rhetorical argument that leaves Baal himself the responsibility of defending himself, giving rise to the nickname 'Jerobaal' for Gideon.",
+      "referencias": [
+        "Judg 6:28-32"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    },
+    {
+      "id": "angel_yhwh_ofra",
+      "nombre": "The angel of YHWH",
+      "rol": "Divine messenger calling Gideon",
+      "periodo": "c. 1150 BC",
+      "descripcion": "He appears to Gideon at the winepress at Ophra, confirming his call through a sign of fire that miraculously consumes the offering of meat and unleavened bread presented by Gideon.",
+      "referencias": [
+        "Judg 6:11-22"
+      ],
+      "ruta": [
+        "ophrah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ophra encapsulates the central theological tension of the Gideon cycle: the need to first purify the family and immediate cult (the Baal altar of one's father) before it can be an instrument of national liberation against external oppression, ironically followed by Gideon's own relapse into a different form of idolatry (the ephod) at the end of his ministry, illustrating that even the most successful liberators are not exempt from the temptations they combated in others.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Yahwist-Baalist syncretism (family cult prior to Gideon's reform)"
+    ],
+    "mitos": [
+      {
+        "id": "jerobaal-baal-defienda-ofra",
+        "nombre": "The origin of the name Jerobaal: 'let Baal contend'",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 6:32",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el argumento retórico de Joás como demostración temprana de la impotencia de los ídolos frente al poder real de YHWH",
+          "descripcion": "Jewish tradition values ​​Joash's argument in defense of Gideon—letting Baal himself defend whether he truly is god—as an early and effective example of practical anti-idolatrous polemic, which also gives rise to the nickname 'Jerobaal' by which Gideon is known in later passages, indelibly linking his identity to this founding moment of break with the family cult of Baal.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode demonstrates through practice, not just doctrine, the inability of idols to defend themselves or act, implicitly contrasting with the active power of YHWH manifested in the call to Gideon.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

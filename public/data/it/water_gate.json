@@ -1,0 +1,155 @@
+{
+  "id": "water_gate",
+  "nombre": "Porta delle Acque",
+  "tipo": "ciudad",
+  "lat": 31.772944,
+  "lng": 35.234935,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — puerta del muro de la Ciudad de David, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: ricostruzione del muro, lettura pubblica della Torah"
+    }
+  ],
+  "descripcion_geo": "Porta situata nel settore orientale delle mura della città di Davide, vicino alla sorgente del Guijón, che dava accesso al sistema di approvvigionamento idrico di Gerusalemme. La sua piazza interna, abbastanza grande da raccogliere una folla, divenne teatro di uno degli eventi pubblici più significativi della restaurazione post-esilica.",
+  "altitud_m": "Settore orientale della città di Davide, c. 630-650",
+  "clima": "Montagna Mediterranea — quella di Gerusalemme.",
+  "recursos": [
+    "Accesso alla sorgente del Guijón e al sistema idraulico della città",
+    "Ampia piazza adatta per assemblee pubbliche"
+  ],
+  "importancia_estrategica": "La Porta delle Acque è strategica non tanto in senso militare quanto in senso civico-religioso: la sua piazza diventa il palcoscenico centrale per la ricostituzione dell'identità religiosa della comunità post-esilica, essendo il luogo prescelto per la lettura pubblica e solenne della Legge di Esdra, evento fondativo dell'ebraismo del Secondo Tempio.",
+  "otros_habitantes": [
+    {
+      "id": "comunidad_retorno_puerta_aguas",
+      "nombre": "Comunità di rimpatriati",
+      "descripcion": "Uomini, donne e tutti coloro che potevano comprendere ciò che udivano, si riunirono come un sol uomo nella Plaza de la Puerta de las Aguas per ascoltare la lettura pubblica della Legge.",
+      "religion": "Yahvismo post-esilico",
+      "periodo": "C. 445 a.C"
+    },
+    {
+      "id": "levitas_puerta_aguas",
+      "nombre": "Interpretare i leviti",
+      "descripcion": "Gruppo di leviti che, insieme ad Esdra, aiutano il popolo a comprendere la Legge, leggono ad alta voce, traducendo o spiegando il significato del testo nell'assemblea davanti alla Porta delle Acque.",
+      "religion": "Yahvismo post-esilico",
+      "periodo": "C. 445 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "reconstruccion-muro-puerta-aguas",
+      "titulo": "Riparazione del muro vicino alla Puerta de las Aguas",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Nell'elenco dei costruttori di mura sotto Neemia, la sezione vicino alla Porta dell'Acqua viene riparata dagli abitanti di Tekoa, nell'ampio progetto collettivo che completa il muro Gerusalemme in cinquantadue giorni.",
+      "referencias": [
+        "Ne 3:26"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    },
+    {
+      "id": "esdras-lectura-ley-puerta-aguas",
+      "titulo": "Esdra legge pubblicamente la Legge alla Porta dell'Acqua",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Tutto il popolo si raduna come un sol uomo nella piazza antistante la Porta delle Acque e chiede a Esdra di portare il libro della Legge di Mosè; Esdra legge dall'alba fino a mezzogiorno davanti agli uomini, alle donne e a tutti coloro che possono capire, mentre i leviti aiutano a spiegare il significato del testo.",
+      "referencias": [
+        "Ne 8:1-8"
+      ],
+      "personajes_clave": [
+        "esdras",
+        "nehemias"
+      ]
+    },
+    {
+      "id": "fiesta-tabernaculos-puerta-aguas",
+      "titulo": "Pianto, gioia e Festa dei Tabernacoli",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "All'ascolto della Legge, il popolo piange, ma Neemia, Esdra e i leviti esortano a non piangere ma a festeggiare, perché «la gioia del Signore è la vostra forza»; Pochi giorni dopo l'assemblea celebra la Festa dei Tabernacoli con una gioia che il testo descrive come non si vedeva dai tempi di Giosuè.",
+      "referencias": [
+        "Ne 8:9-18"
+      ],
+      "personajes_clave": [
+        "esdras",
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "esdras_puerta_aguas",
+      "nombre": "Esdra",
+      "rol": "Scriba e sacerdote, restauratore della Legge",
+      "periodo": "post_exilio",
+      "descripcion": "Legge pubblicamente la Torah davanti all'intera comunità riunita nella Plaza de la Puerta de las Aguas, episodio considerato fondamentale per la successiva centralità della lettura pubblica della Legge nella vita religiosa ebraica.",
+      "referencias": [
+        "Ne 8:1-12"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nehemias_puerta_aguas",
+      "nombre": "Neemia",
+      "rol": "Governatore di Giuda, ricostruttore delle mura",
+      "periodo": "post_exilio",
+      "descripcion": "Insieme ad Esdra guida l'assemblea presso la Porta delle Acque, incoraggiando il popolo a trasformare il pianto iniziale sul contenuto della Legge in festa gioiosa.",
+      "referencias": [
+        "Ne 8:9-12"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "levitas_interpretes_puerta_aguas",
+      "nombre": "Leviti interpreti della Legge",
+      "rol": "Assistenti nella spiegazione pubblica del testo",
+      "periodo": "c. 445 a.C.",
+      "descripcion": "Gruppo di leviti menzionati per nome che aiutano il popolo a comprendere il significato della Legge letta da Esdra, precursore della pratica successiva di spiegazione e interpretazione pubblica del testo sacro.",
+      "referencias": [
+        "Ne 8:7-8"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il piazzale della Porta delle Acque è, all'interno del corpus dell'Antico Testamento, il teatro dell'atto fondativo della solenne lettura pubblica della Torah davanti all'intera comunità, momento che le successive tradizioni ebraiche considerano simbolico punto d'origine di pratiche centrali del Secondo Tempio e dell'ebraismo rabbinico: la lettura sinagogale della Legge e la sua spiegazione pubblica alla congregazione.",
+    "religiones_presentes": [
+      "Yahvismo post-esilico"
+    ],
+    "mitos": [
+      {
+        "id": "lectura-publica-ley-puerta-aguas",
+        "nombre": "L'origine della lettura pubblica della Torah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ne 8:1-18",
+          "fuente_secundaria": "Talmud Babilónico, Meguilá 30a-31a (sobre el origen de la lectura pública de la Torá atribuido a Esdras)",
+          "descripcion": "La tradizione rabbinica individua in questo episodio il momento fondativo dell'istituzione della lettura pubblica regolare della Torah, attribuendo ad Esdra un ruolo paragonabile a quello di un 'secondo Mosè' nella restaurazione della pratica della Legge dopo l'esilio, costituendo precedenti che la tradizione successiva svilupperà nella liturgia sinagogale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio segna l'inizio simbolico della centralità del testo scritto e della sua esposizione pubblica come asse della vita religiosa ebraica post-esilica, sostituendosi parzialmente al culto incentrato esclusivamente sul sacrificio del Tempio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

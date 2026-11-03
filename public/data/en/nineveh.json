@@ -1,0 +1,180 @@
+{
+  "id": "nineveh",
+  "nombre": "Nineveh",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 36.3594,
+  "lng": 43.1529,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Capital of the Neo-Assyrian Empire, located on the eastern bank of the Tigris River opposite modern-day Mosul (Iraq). Its walls covered more than 12 km in perimeter, with monumental palaces decorated with stone reliefs and the famous Ashurbanipal Library, which gathered more than 30,000 cuneiform tablets. It controlled the routes between Mesopotamia and Anatolia.",
+  "altitud_m": 223,
+  "clima": "Continental semi-arid; dry and hot summers, cold winters with little rain.",
+  "recursos": [
+    "Irrigated agriculture in the Tigris",
+    "Long distance trade",
+    "Limestone for construction",
+    "Wood imported from Lebanon"
+  ],
+  "importancia_estrategica": "Political and military center of the Neo-Assyrian Empire at its peak. Its fall in 612 B.C. Before the Babylonian-Meda alliance, it reconfigured the entire Near East and opened the way for Babylonian domination over Judah.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -900,
+      "hasta": -612,
+      "nombre": "Rise and fall of the Neo-Assyrian Empire"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "asirios",
+      "nombre": "Assyrians",
+      "descripcion": "Semitic town that converted Nineveh into imperial capital c. 700 BC under Sennacherib. Known for their military machinery and their grandiose palace reliefs that narrate campaigns of conquest.",
+      "religion": "Mesopotamian polytheism — worship of Assur, Ishtar and Inanna",
+      "periodo": "iron_2"
+    },
+    {
+      "id": "caldeos",
+      "nombre": "Chaldeans",
+      "descripcion": "They participated in the coalition that destroyed Nineveh in 612 BC. along with the Medes. They represented the transfer of power in the Fertile Crescent.",
+      "religion": "Babylonian polytheism — cult of Marduk and Nabu",
+      "periodo": "iron_2"
+    },
+    {
+      "id": "medos",
+      "nombre": "Medes",
+      "descripcion": "Iranian people allied with Babylon in the destruction of Nineveh. Its emergence from the Zagros marked the end of Assyrian rule over the Near East.",
+      "religion": "Proto-Zoroastrianism",
+      "periodo": "iron_2"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jonas_en_ninive",
+      "titulo": "Jonah and the conversion of Nineveh",
+      "fecha": "c. 760 BC",
+      "descripcion": "The prophet Jonah, sent by God to proclaim judgment on Nineveh, flees in the opposite direction, embarking in Joppa. After being swallowed by a large fish and returned to land on the third day, he obeys and tours the city announcing its destruction in forty days. Before his preaching, the king of Nineveh and all the people cover themselves with sackcloth and ashes. God withdraws the punishment, provoking Jonah's indignation, revealing the tension between divine justice and mercy.",
+      "referencias": [
+        "Jonah 1:1-2",
+        "Jonah 3:1-10",
+        "Jonah 4:1-11"
+      ],
+      "personajes_clave": [
+        "jonas",
+        "rey_de_ninive"
+      ]
+    },
+    {
+      "id": "senaquerib_contra_juda",
+      "titulo": "Sennacherib threatens Jerusalem",
+      "fecha": "c. 701 BC",
+      "descripcion": "The Assyrian king Sennacherib launches his military campaign against the kingdom of Judah from Nineveh. His general Rabshakeh besieges Jerusalem and demands King Hezekiah's surrender in Hebrew, in front of the people, to cause panic. The prophet Isaiah announces that God will defend the city without arrows entering it. That night an angel of the Lord strikes down the Assyrian army. Sennacherib returns to Nineveh, where he is murdered by his own sons Adramelech and Sareser.",
+      "referencias": [
+        "2 Kgs 18:13-19:37",
+        "Isa 36:1-37:38",
+        "2 Chr 32:1-23"
+      ],
+      "personajes_clave": [
+        "senaquerib",
+        "ezequias",
+        "isaias"
+      ]
+    },
+    {
+      "id": "caida_de_ninive",
+      "titulo": "The fall of Nineveh and the oracle of Nahum",
+      "fecha": "612 BC",
+      "descripcion": "The prophet Nahum dedicates his entire book to announcing the end of Nineveh, describing in poetic detail its destruction as an act of divine justice on the city that oppressed the people. In 612 B.C. The Babylonian-Meda alliance overflows its walls. The city is looted and burned and remains depopulated for centuries, literally sinking under the sand until 19th century excavations rediscovered it.",
+      "referencias": [
+        "Nah 1:1",
+        "Nah 2:1-14",
+        "Nah 3:1-19"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonas",
+      "nombre": "Jonah",
+      "rol": "Prophet sent to Nineveh",
+      "periodo": "c. 760 BC",
+      "descripcion": "Israelite prophet son of Amitai, native of Gath-Héfer in Galilee. His mission is unique in prophetic literature: sent to a pagan foreign power, not Israel. Their resistance, flight, and final obedience articulate a theology of divine mercy that transcends Israel's national borders.",
+      "referencias": [
+        "Jonah 1:1-3",
+        "Jonah 3:3-4",
+        "2 Kgs 14:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "senaquerib",
+      "nombre": "Sennacherib",
+      "rol": "King by Assyria",
+      "periodo": "c. 705–681 BC",
+      "descripcion": "King of the Neo-Assyrian Empire who made Nineveh the greatest capital of his time by building the Unrivaled Palace. His campaign against Judah in 701 B.C. It is documented both in biblical sources and in its own Annals. He was murdered in the temple of Nineveh by his sons Adramelech and Sareser.",
+      "referencias": [
+        "2 Kgs 19:36-37",
+        "Isa 37:37-38",
+        "2 Chr 32:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nahum",
+      "nombre": "Nahum",
+      "rol": "Prophet of Judgment on Nineveh",
+      "periodo": "c. 650–612 BC",
+      "descripcion": "Prophet of Elcos whose only topic is the oracle against Nineveh. His book, written before the city's fall, describes with poetic precision its impending destruction as divine vengeance for Assyrian cruelty. It represents the theological voice that interprets imperial collapse as God's justice on the oppressor.",
+      "referencias": [
+        "Nah 1:1",
+        "Nah 2:8-10",
+        "Nah 3:18-19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Nineveh housed the main temple of Ishtar, Assyrian goddess of war and love. In biblical tradition, the city represents the paradigm of arrogant pagan power that God can both forgive (Jonah) and destroy (Nahum), depending on his moral response. This tension between mercy and judgment makes Nineveh a central theological reference.",
+    "religiones_presentes": [
+      "Judaism",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "arrepentimiento_de_ninive",
+        "nombre": "Repentance by Nineveh",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Jonah 3:5-10",
+          "fuente_secundaria": "Talmud Bavli, Taanit 16a — el ayuno de Nínive como modelo de teshuvá colectiva; debate sobre si su arrepentimiento fue sincero o meramente externo",
+          "descripcion": "The people of Nineveh, from the king to the last citizen, proclaim a fast and wear sackcloth when listening to Jonah's preaching. God observes his works and renounces the punishment he had announced.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "It demonstrates that divine mercy reaches pagan nations and that genuine repentance can reverse judgment. It challenges Israeli national exclusivism.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Corán, Sura 37 (As-Saffat): 139-148",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Sura 37:147 — describe a los habitantes como 'cien mil o más' que creyeron y fueron prosperados por Dios",
+          "descripcion": "The Quran tells the story of Yunus (Jonah) as a prophet sent to his people. When he left without divine permission he was swallowed by a large fish, but his constant glorification of God saved him. His people believed and were freed from punishment.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Yunus is one of the prophets of Islam. His story illustrates the need for perseverance in the prophetic mission and God's mercy toward those who collectively repent.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  }
+}

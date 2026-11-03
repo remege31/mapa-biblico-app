@@ -1,0 +1,153 @@
+{
+  "id": "gilboa_mount",
+  "nombre": "Mount Gilboa",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.50984080716704,
+  "lng": 35.40843470396692,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Death of Saul and his children"
+    }
+  ],
+  "descripcion_geo": "Mountain range on the southern edge of the Jezreel plain, scene of the decisive battle where Israel is defeated by the Philistines and where both king Saul and three of his sons, including Jonathan, die, marking the tragic end of Israel's first reign.",
+  "altitud_m": 500,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the southern limit of the Jezreel plain.",
+  "recursos": [
+    "Elevated position of control over the Jezreel plain",
+    "Scenario of the decisive battle between Israel and Philistia"
+  ],
+  "importancia_estrategica": "Mount Gilboa is the site of the most catastrophic defeat of Saul's reign: Israel is decisively defeated by the Philistines, Saul and three of his sons die—including Jonathan—and the king's corpse is subsequently humiliatedly displayed on the wall of Bethshean, marking the final collapse of the first Israelite monarchy and opening the way to the consolidation of David's reign.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_gilboa",
+      "nombre": "Army by Saul",
+      "descripcion": "Israeli forces decisively defeated by the Philistines at the Battle of Mount Gilboa, with numerous casualties among the people and the royal family.",
+      "religion": "Yahwism",
+      "periodo": "c. 1010 BC"
+    },
+    {
+      "id": "filisteos_gilboa",
+      "nombre": "Philistine army",
+      "descripcion": "Forces that achieve their most decisive victory over Israel in the entire biblical narrative, completely defeating Saul's army and then exposing his body as a war trophy.",
+      "religion": "Philistine polytheism — cult of Dagon",
+      "periodo": "c. 1010 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "muerte-saul-jonatan-gilboa",
+      "titulo": "Saul and his children die on Mount Gilboa",
+      "fecha": "c. 1010 BC",
+      "descripcion": "The Philistines decisively defeat Israel at Mount Gilboa, killing Jonathan, Abinadab and Malchishua, sons of Saul; Seriously wounded by the archers, Saul asks his squire to kill him to avoid falling humiliated into enemy hands, and when he refuses, he throws himself on his own sword.",
+      "referencias": [
+        "1 Sam 31:1-6"
+      ],
+      "personajes_clave": [
+        "saul",
+        "jonatan"
+      ]
+    },
+    {
+      "id": "exposicion-cuerpos-bethsean-gilboa",
+      "titulo": "The bodies are exposed on the wall of Beth-shean",
+      "fecha": "c. 1010 BC",
+      "descripcion": "The next day, the Philistines find the bodies of Saul and his sons on Mount Gilboa, cut off Saul's head, display his armor in the temple of Astarte, and nail the bodies to the wall of Beth-shean as a public trophy of their victory over Israel's first king.",
+      "referencias": [
+        "1 Sam 31:8-10"
+      ],
+      "personajes_clave": [
+        "saul"
+      ]
+    },
+    {
+      "id": "lamento-david-gilboa",
+      "titulo": "David's Lament: 'How the brave have fallen!'",
+      "fecha": "c. 1010 BC",
+      "descripcion": "Upon receiving the news of the deaths of Saul and Jonathan, David composes a formal elegy known as 'the Song of the Bow', where he curses Mount Gilboa asking that dew and rain never fall upon it again, and deeply mourns the loss of Jonathan with words of exceptional brotherly love.",
+      "referencias": [
+        "2 Sam 1:17-27"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "saul_gilboa",
+      "nombre": "Saul",
+      "rol": "First king by Israel",
+      "periodo": "hierro_1",
+      "descripcion": "He dies by his own hand on Mount Gilboa after being seriously wounded by Philistines archers, tragically closing his reign marked by the progressive deterioration of his relationship with YHWH and with David.",
+      "referencias": [
+        "1 Sam 31:1-6"
+      ],
+      "ruta": [
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "jonatan_gilboa",
+      "nombre": "Jonathan",
+      "rol": "Son of Saul, friend of David",
+      "periodo": "hierro_1",
+      "descripcion": "He dies with his father on Mount Gilboa, a loss that David laments with words of deep brotherly affection in his eulogy, remembering a friendship that transcended the dynastic tensions between both families.",
+      "referencias": [
+        "1 Sam 31:2",
+        "2 Sam 1:25-26"
+      ],
+      "ruta": [
+        "gilboa_mount"
+      ]
+    },
+    {
+      "id": "david_gilboa",
+      "nombre": "David",
+      "rol": "Future king by Israel",
+      "periodo": "hierro_2",
+      "descripcion": "He composes one of the most moving elegies in all of biblical literature upon receiving the news of the death of Saul and Jonathan in Gilboa, demonstrating genuine pain despite the previous persecution suffered by Saul.",
+      "referencias": [
+        "2 Sam 1:1-27"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Gilboa marks the tragic climax of Israel's first reign, presented by the biblical narrator as a direct consequence of YHWH's progressive abandonment of Saul following his repeated acts of disobedience; David's elegy, far from celebrating the fall of its persecutor, expresses genuine mourning that illustrates the biblical ideal of honoring even the fallen adversary when he held the position of YHWH's anointed.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Philistine polytheism – cult of Dagon and Astarte"
+    ],
+    "mitos": [
+      {
+        "id": "maldicion-david-gilboa",
+        "nombre": "The curse of David on the mountains of Gilboa",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 1:21",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la maldición poética de David como expresión de duelo nacional, no de venganza personal",
+          "descripcion": "Jewish tradition interprets David's curse on Mount Gilboa—asking that it never again receive dew or rain—not as an act of revenge against his former persecutor, but as a poetic expression of national mourning for the loss of Israel's first anointed king and his friend Jonathan, transforming the site of defeat into a permanent symbol of collective mourning.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "David's lament over Gilboa demonstrates that respect for YHWH's anointed and genuine mourning for his loss transcend even the previous personal conflict between persecutor and persecuted.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

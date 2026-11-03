@@ -1,0 +1,246 @@
+{
+  "id": "gadarene",
+  "nombre": "Gadara (Decapoli)",
+  "tipo": "ciudad",
+  "lat": 32.654,
+  "lng": 35.685,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 3,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -100,
+      "hasta": 100,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Città della Decapoli a est del lago Galilea. Regione ellenistica con forte presenza gentile; scena dell'esorcismo dei due indemoniati.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "commercio",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Rilevante nel NT.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gad_h1",
+      "titulo": "Gesù guarisce l'uomo posseduto dal demone di Gadara",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "Gesù attraversa il lago e nella regione dei Gadareni/Geraseni guarisce un uomo con una legione di demoni; i maiali corrono al lago.",
+      "referencias": [
+        "Mt 8:28-34",
+        "Mc 5:1-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "endemoniado"
+      ]
+    },
+    {
+      "id": "gad_h2",
+      "titulo": "L'indemoniato di Gadara evangelizza la Decapoli",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "Guarito, l'uomo chiede di seguire Gesù; Gesù gli ordina di tornare e raccontare cosa gli ha fatto; lo proclama in tutta la Decapoli.",
+      "referencias": [
+        "Mc 5:19-20"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "exendemoniado"
+      ]
+    },
+    {
+      "id": "gad_h3",
+      "titulo": "I maiali come segno di terra gentile",
+      "fecha": "ca. 28-30 d.C.",
+      "descripcion": "La presenza di una grande mandria di maiali a Gadara indica che era territorio dei Gentili; Gesù esercita lì il suo ministero estendendo la sua missione oltre Israele.",
+      "referencias": [
+        "Mc 5:11"
+      ],
+      "personajes_clave": [
+        "Jesús"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gad_p1",
+      "nombre": "Gesù",
+      "rol": "Messia",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Attraversò il lago per guarire l'indemoniato in una terra gentile; segno dell'universalità del suo ministero.",
+      "referencias": [
+        "Mt 8:28"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p2",
+      "nombre": "Il demoniaco di Gadara",
+      "rol": "Primo missionario della Decapoli",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Guarito da Gesù, annunciò il vangelo in dieci città della Decapoli.",
+      "referencias": [
+        "Mc 5:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gad_p3",
+      "nombre": "I Gadareni",
+      "rol": "Comunità gentile",
+      "periodo": "ca. 28-30 d.C.",
+      "descripcion": "Hanno chiesto a Gesù di lasciare la loro regione dopo aver perso la mandria di maiali.",
+      "referencias": [
+        "Mc 5:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gadara (Decapoli): regione rilevante nel mondo del NT.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "gad_m1",
+        "nombre": "Legione e libertà",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "NT / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La guarigione dell'indemoniato di Gadara mostra che il potere di Cristo sulla \"legione\" (metafora del potere romano e demoniaco) raggiunge anche la terra dei Gentili.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La guarigione dell'indemoniato di Gadara mostra che il potere di Cristo sulla \"legione\" (metafora del potere romano e demoniaco) raggiunge anche la terra dei Gentili.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gad_h1",
+        "titulo": "Gesù guarisce l'uomo posseduto dal demone di Gadara",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "Gesù attraversa il lago e nella regione dei Gadareni/Geraseni guarisce un uomo con una legione di demoni; i maiali corrono al lago.",
+        "referencias": [
+          "Mt 8:28-34",
+          "Mc 5:1-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "endemoniado"
+        ]
+      },
+      {
+        "id": "gad_h2",
+        "titulo": "L'indemoniato di Gadara evangelizza la Decapoli",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "Guarito, l'uomo chiede di seguire Gesù; Gesù gli ordina di tornare e raccontare cosa gli ha fatto; lo proclama in tutta la Decapoli.",
+        "referencias": [
+          "Mc 5:19-20"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "exendemoniado"
+        ]
+      },
+      {
+        "id": "gad_h3",
+        "titulo": "I maiali come segno di terra gentile",
+        "fecha": "ca. 28-30 d.C.",
+        "descripcion": "La presenza di una grande mandria di maiali a Gadara indica che era territorio dei Gentili; Gesù esercita lì il suo ministero estendendo la sua missione oltre Israele.",
+        "referencias": [
+          "Mc 5:11"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gad_p1",
+        "nombre": "Gesù",
+        "rol": "Messia",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Attraversò il lago per guarire l'indemoniato in una terra gentile; segno dell'universalità del suo ministero.",
+        "referencias": [
+          "Mt 8:28"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p2",
+        "nombre": "Il demoniaco di Gadara",
+        "rol": "Primo missionario della Decapoli",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Guarito da Gesù, annunciò il vangelo in dieci città della Decapoli.",
+        "referencias": [
+          "Mc 5:20"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gad_p3",
+        "nombre": "I Gadareni",
+        "rol": "Comunità gentile",
+        "periodo": "ca. 28-30 d.C.",
+        "descripcion": "Hanno chiesto a Gesù di lasciare la loro regione dopo aver perso la mandria di maiali.",
+        "referencias": [
+          "Mc 5:17"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Gadara (Decapoli) nel Nuovo Testamento.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "gad_m1",
+          "nombre": "Legione e libertà",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "La guarigione dell'indemoniato di Gadara mostra che il potere di Cristo sulla \"legione\" (metafora del potere romano e demoniaco) raggiunge anche la terra dei Gentili.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "La guarigione dell'indemoniato di Gadara mostra che il potere di Cristo sulla \"legione\" (metafora del potere romano e demoniaco) raggiunge anche la terra dei Gentili.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

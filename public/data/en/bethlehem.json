@@ -1,0 +1,324 @@
+{
+  "id": "bethlehem",
+  "nombre": "Bethlehem",
+  "tipo": "ciudad",
+  "lat": 31.7054,
+  "lng": 35.2024,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 44,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Judah Tribal Settlement"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — David's Hometown"
+    }
+  ],
+  "descripcion_geo": "Bethlehem is located in the highlands of Judah, about 8 km south of Jerusalem, at an altitude of 765 meters. Its name probably means House of Bread or House of Meat, references to its agricultural fertility. Located on the main route from Jerusalem to Hebron, on the edge of the watershed between the Mediterranean and the Dead Sea, Bethlehem dominates a region of productive agricultural terraces.",
+  "altitud_m": 765,
+  "clima": "Mountain Mediterranean — cool winters with moderate rainfall (500-600 mm annually), dry and warm summers. The terraces on its hills are ideal for growing olive trees, vines and cereals.",
+  "recursos": [
+    "Terraced agricultural land (cereals, olive trees, vines)",
+    "Cattle pastures (herder context David)",
+    "Water (local springs)",
+    "Limestone (construction)"
+  ],
+  "importancia_estrategica": "Small city but with enormous symbolic weight as the hometown of David, the model king of Israel. Its position on the Jerusalem-Hebron route gave it some commercial importance. Micah's prophecy turned it into a place of messianic waiting: from Bethlehem will come the one who will govern Israel.",
+  "otros_habitantes": [
+    {
+      "id": "efrateos",
+      "nombre": "Ephraites by Bethlehem",
+      "descripcion": "Bethlehem was also known as Ephrathah or Bethlehem of Ephrathah (Mic 5:2), distinguishing her from another Bethlehem in Zebulun. The Ephrathites were the dominant clan in the city. The family of Elimelech—father of Ruth—and that of Jesse—father of David—belonged to this lineage. The identification Bethlehem-Ephrata already appears in the account of Rachel's death (Gen 35:19).",
+      "religion": "Yahwism from Judah tribe",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "moabitas-rut",
+      "nombre": "Ruth the Moabite",
+      "descripcion": "Ruth, Naomi's daughter-in-law, was a Moabite—from a people considered foreign and ritually problematic to Israel (Deut 23:3). Her adherence to Israel and YHWH—Where you go, I will go—and her integration into Bethlehem through marriage to Boaz are the theme of the book of Ruth. She becomes the great-grandmother of David and an ancestor of the messianic lineage.",
+      "religion": "Conversion to Yahwism — from Moabite polytheism to the God of Israel",
+      "periodo": "c. 1100–1050 BC"
+    },
+    {
+      "id": "filisteos-belen",
+      "nombre": "Philistine garrison",
+      "descripcion": "During the reign of Saul and the beginning of that of David, Bethlehem was under intermittent Philistine control. The famous episode of the three mighty men who broke the Philistine lines to bring David water from the well of Bethlehem (2 Sam 23:13-17) reflects that at that time Bethlehem had a Philistine garrison. David rejected the water, considering it the blood of those who risked their lives.",
+      "religion": "Philistine polytheism – cult of Dagon and Aegean divinities",
+      "periodo": "c. 1050–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "rut-belen",
+      "titulo": "Ruth in Bethlehem: the foreigner who founded the lineage of David",
+      "fecha": "c. 1100 BC",
+      "descripcion": "Ruth the Moabite arrived in Bethlehem with her mother-in-law Naomi after the death of her husbands in Moab. In the barley fields of Bethlehem, during the harvest, Ruth gleaned the remains that the reapers left for the poor. The owner Boaz, a relative of Naomi, recognized her loyalty and protected her. Following the institution of the go'el (family redeemer), Boaz married Ruth, redeeming the name and inheritance of Elimelech's family. His son Obed was the father of Jesse and grandfather of David. The book of Ruth is the most beautiful story of loyalty (hesed) in the OT.",
+      "referencias": [
+        "Ruth 1:1-22",
+        "Ruth 2:1-23",
+        "Ruth 3:1-18",
+        "Ruth 4:1-22"
+      ],
+      "personajes_clave": [
+        "rut",
+        "david"
+      ]
+    },
+    {
+      "id": "samuel-unge-david",
+      "titulo": "Samuel anoints David in Bethlehem: the shepherd who will be king",
+      "fecha": "c. 1025 BC",
+      "descripcion": "After rejecting Saul, YHWH sent the prophet Samuel to Bethlehem, to Jesse's house, to anoint the new king. Samuel examined Jesse's seven eldest sons, impressed by their appearance. YHWH said to him: Men look at appearances, but I look at the heart. The eighth son, the youngest, was tending the flock. When they brought him, YHWH said, Arise and anoint him; is this. Samuel took the horn of oil and anointed David in the presence of his brothers. The Spirit of YHWH took possession of David from that day forward.",
+      "referencias": [
+        "1 Sam 16:1-13"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel"
+      ]
+    },
+    {
+      "id": "miqueas-mesias",
+      "titulo": "Micah's prophecy: the ruler will emerge from Bethlehem",
+      "fecha": "c. 700 BC",
+      "descripcion": "The prophet Micah of Moresheth, a contemporary of Isaiah, pronounced the oracle that made Bethlehem a messianic city forever: And you, Bethlehem Ephrathah, although you are the least among the clans of Judah, from you will come one who will rule Israel; Its origins go back to ancient times, to eternal days (Mic 5:2). The contrast between the smallness of Bethlehem and the greatness of the one who will be born from her is the theological core of the oracle. The scribes cited this text before Herod when the wise men asked about the birthplace of the king of the Jews (Mt 2:5-6).",
+      "referencias": [
+        "Mic 5:2-5",
+        "Matt 2:1-6",
+        "John 7:42"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "rut",
+      "nombre": "Ruth",
+      "rol": "Moabita, great-grandmother of David, model of loyalty",
+      "periodo": "c. 1100 BC",
+      "descripcion": "Ruth is the biblical paradigm of the faithful convert and the integrated foreigner. His declaration of loyalty to Naomi —Where you go, I will go; Your people will be my people and your God will be my God—is one of the most cited texts in universal religious literature. As the great-grandmother of David and an ancestor of the messianic lineage, her presence in the genealogy of Jesus (Mt 1:5) underscores that the promise transcends ethnic boundaries.",
+      "referencias": [
+        "Ruth 1:1-22",
+        "Ruth 2:1-23",
+        "Ruth 4:13-22",
+        "Matt 1:5"
+      ],
+      "ruta": [
+        "bethlehem"
+      ]
+    },
+    {
+      "id": "david-belen",
+      "nombre": "David ben Jesse",
+      "rol": "Pastor anointed king in Bethlehem",
+      "periodo": "hierro_1",
+      "descripcion": "The youngest of Jesse's eight children, David spent his childhood and youth in the fields of Bethlehem as a shepherd. It was there that he developed the skills—the sling, the lyre, courage in the face of the bear and the lion—that he would later manifest as a warrior and king. The anointing of Samuel in Bethlehem marked the beginning of a path that would lead the shepherd to become the most remembered king of Israel and the model of the expected Messiah.",
+      "referencias": [
+        "1 Sam 16:1-13",
+        "1 Sam 17:12-15",
+        "2 Sam 5:1-5"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "samuel-belen",
+      "nombre": "Samuel",
+      "rol": "Last judge, first king-maker of Israel",
+      "periodo": "hierro_1",
+      "descripcion": "A Nazarite from the womb, Samuel was the transitional figure between the time of the judges and the monarchy. He anointed Saul as the first king and, after his rejection by YHWH, was sent to Bethlehem to anoint David. His journey to Bethlehem was secret—he feared that Saul would kill him upon learning that he had anointed a successor. David's anointing scene is the climax of his prophetic ministry and the gesture that shapes Israel's future.",
+      "referencias": [
+        "1 Sam 1:1-28",
+        "1 Sam 3:1-21",
+        "1 Sam 16:1-13",
+        "1 Sam 25:1"
+      ],
+      "ruta": [
+        "bethlehem",
+        "hebron"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bethlehem is the city of David and, by extension, the city of messianic hope. Small and peripheral in political terms, it was chosen as the place of origin of the ideal king precisely because of its humility: YHWH does not choose according to human criteria of greatness. The book of Ruth locates in the fields of Bethlehem the encounter between the Jewish and the foreign that will produce the Davidic lineage—a universalist message at the heart of the particular tradition. Micah's prophecy turned Bethlehem into a place of active waiting: from this small city will emerge the ruler whose origin is eternal.",
+    "religiones_presentes": [
+      "Yahwism of Judah (tribe of Judah, lineage of Ephrathah)",
+      "Contact with Yahwism from paganism (conversion of Ruth)"
+    ],
+    "mitos": [
+      {
+        "id": "belen-mesias",
+        "nombre": "Bethlehem as the cradle of the Messiah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Miqueas 5:2; 1 Samuel 16:1-13",
+          "fuente_secundaria": "Talmud Bavli, Sanhedrin 98b; Midrash Eija Rabbati; Zohar III, 272a",
+          "descripcion": "Talmudic tradition links Micah's prophecy with the expectation of the Messiah son of David. The Zohar develops the idea that the Messiah was born in Bethlehem on the same day as the destruction of the Temple. Some texts mention a Messiah waiting at the gates of Rome among the poor and lepers.",
+          "similitudes": "Bethlehem as the origin of the anointed king is shared by Jewish and Christian traditions.",
+          "diferencias": "Judaism awaits the Messiah yet to come; Christianity affirms that it already came in the person of Jesus of Nazareth born in Bethlehem.",
+          "significado_teologico": "The smallness of Bethlehem against the greatness of the Messiah: YHWH inverts human values, choosing the small to manifest the great.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mateo 2:1-12; Lucas 2:1-20; Miqueas 5:2",
+          "fuente_secundaria": "Justino Mártir, Diálogo con Trifón 78; Orígenes, Contra Celso I.51",
+          "descripcion": "The Gospel of Matthew presents the birth of Jesus in Bethlehem as an explicit fulfillment of Micah 5:2. Luke places the birth in a manger during the Quirinus census. The shepherds from the nearby fields and the wise men from the East are the first worshipers. Bethlehem became a place of pilgrimage since the 2nd century; The Basilica of the Nativity, built by Constantine (330 AD), is one of the oldest continuously used religious buildings in the world.",
+          "similitudes": "The birth in Bethlehem as a fulfillment of Micah's prophecy is the focal point of Jesus's childhood narrative.",
+          "diferencias": "Matthew and Luke have different childhood narratives; Christian tradition harmonized them but the details diverge.",
+          "significado_teologico": "The Son of God is born in the most humble place—a manger in the smallest city—as a total reversal of the values ​​of power.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "bel_nt_h1",
+        "titulo": "The birth of Jesus",
+        "fecha": "ca. 6-4 BC",
+        "descripcion": "Jesus is born in Bethlehem during the Quirinus census; angels announce the news to shepherds.",
+        "referencias": [
+          "Luke 2:1-20",
+          "Matt 2:1-12"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "María",
+          "José",
+          "pastores",
+          "magos"
+        ]
+      },
+      {
+        "id": "bel_nt_h2",
+        "titulo": "The adoration of the Magi",
+        "fecha": "ca. 6-4 BC",
+        "descripcion": "Wizards from the East follow the star to Bethlehem and offer gold, frankincense and myrrh to the child Jesus.",
+        "referencias": [
+          "Matt 2:1-12"
+        ],
+        "personajes_clave": [
+          "magos",
+          "Herodes el Grande"
+        ]
+      },
+      {
+        "id": "bel_nt_h3",
+        "titulo": "The slaughter of the innocent",
+        "fecha": "ca. 4 BC",
+        "descripcion": "Herod orders the killing of all children under two years of age in Bethlehem upon learning of the king's birth.",
+        "referencias": [
+          "Matt 2:16-18"
+        ],
+        "personajes_clave": [
+          "Herodes el Grande"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "bel_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Messiah born in Bethlehem",
+        "periodo": "ca. 6-4 BC",
+        "descripcion": "His birth in Bethlehem fulfills the prophecy of Micah 5:2 about the origin of the Messiah.",
+        "referencias": [
+          "Luke 2:4-7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bel_nt_p2",
+        "nombre": "Maria",
+        "rol": "Mother of Jesus",
+        "periodo": "s. I BC",
+        "descripcion": "She gave birth to Jesus in Bethlehem; He placed the child in a manger.",
+        "referencias": [
+          "Luke 2:7"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "bel_nt_p3",
+        "nombre": "Herod the Great",
+        "rol": "King of Judea",
+        "periodo": "37-4 BC",
+        "descripcion": "He attempted to kill the boy Jesus by ordering the slaughter of innocents in Bethlehem.",
+        "referencias": [
+          "Matt 2:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City of David and place of birth of Jesus; Christian pilgrimage site since the 2nd century.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "Islam"
+      ],
+      "mitos": [
+        {
+          "id": "bel_nt_m1",
+          "nombre": "The birth of the Messiah",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Micah 5:2 prophesies that the ruler of Israel will come out of Bethlehem; The rabbis identify him with the Messiah.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Micah 5:2 prophesies that the ruler of Israel will come out of Bethlehem; The rabbis identify him with the Messiah.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Jesus is born in Bethlehem, fulfilling the prophecy; angels, shepherds and wise men witness the event.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Jesus is born in Bethlehem, fulfilling the prophecy; angels, shepherds and wise men witness the event.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "The Quran relates the miraculous birth of Isa (Jesus) to the virgin Maryam, although it does not mention Bethlehem explicitly.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Quran relates the miraculous birth of Isa (Jesus) to the virgin Maryam, although it does not mention Bethlehem explicitly.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "naioth",
+  "nombre": "Naioth",
+  "tipo": "ciudad",
+  "lat": 31.8354,
+  "lng": 35.1829,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Rifugio profetico di Davide"
+    }
+  ],
+  "descripcion_geo": "Località o area comunale vicino a Rama, nel territorio di Beniamino, associata a una comunità di profeti sotto la direzione di Samuele. Il nome (\"abitazioni\" o \"dimore\") suggerisce un insediamento di tipo comunitario piuttosto che una città murata convenzionale.",
+  "altitud_m": 790,
+  "clima": "Montagna mediterranea: estati secche e miti, inverni freddi con piogge, tipici dell'altopiano centrale di Benjamin.",
+  "recursos": [
+    "Comunità profetica organizzata attorno a Samuele",
+    "Vicinanza a Ramah, residenza e centro di attività di Samuele",
+    "Ripararsi relativamente fuori dalla portata diretta di Saul"
+  ],
+  "importancia_estrategica": "Naioth non ha rilevanza militare o commerciale; La sua importanza è esclusivamente narrativo-religiosa in quanto sede di una comunità di profeti sotto Samuele e come rifugio di Davide durante la persecuzione di Saul, episodio che illustra il conflitto tra l'autorità profetica e la nascente autorità reale.",
+  "otros_habitantes": [
+    {
+      "id": "profetas_naioth",
+      "nombre": "Comunità dei profeti (benei ha-nebiim)",
+      "descripcion": "Gruppo di discepoli profetici organizzati attorno a Samuele a Naioth, antecedente delle successive 'scuole di profeti' che appariranno nei cicli di Elia e Eliseo.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1020–1000 a.C"
+    },
+    {
+      "id": "mensajeros_saul_naioth",
+      "nombre": "Messaggeri Saul",
+      "descripcion": "Gruppi successivi inviati da Saul per catturare Davide a Naioth, che finiscono per profetizzare se stessi entrando in contatto con la comunità profetica, includendo infine lo stesso Saul.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-huye-naioth",
+      "titulo": "Davide si rifugia presso Samuele a Naioth",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Dopo essere sfuggito al tentativo di Saul di ucciderlo nella sua stessa casa, Davide fugge a Ramah, si riunisce con Samuele e insieme si stabiliscono a Naioth, dove Davide racconta tutto ciò che Saul gli ha fatto.",
+      "referencias": [
+        "1 Sam 19:18"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel"
+      ]
+    },
+    {
+      "id": "mensajeros-saul-profetizan",
+      "titulo": "Messaggeri Saul profetizzano a Naioth",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Saul invia tre gruppi successivi di messaggeri per catturare Davide; Ogni gruppo, arrivando a Naioth e vedendo la compagnia dei profeti profetizzare sotto Samuele, viene sopraffatto dallo Spirito di Dio e profetizza anche lui, fallendo nella propria missione.",
+      "referencias": [
+        "1 Sam 19:19-21"
+      ],
+      "personajes_clave": [
+        "david",
+        "samuel",
+        "saul"
+      ]
+    },
+    {
+      "id": "saul-profetiza-naioth",
+      "titulo": "Lo stesso Saul profetizza nudo a Naioth",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Dopo il fallimento di tre gruppi di messaggeri, Saul si reca personalmente a Naioth; Anche lui viene vinto dallo Spirito di Dio, profetizza durante il viaggio e rimane nudo a profetizzare davanti a Samuele tutto il giorno e la notte successiva, dando origine al detto 'Saul anche tra i profeti?'.",
+      "referencias": [
+        "1 Sam 19:22-24"
+      ],
+      "personajes_clave": [
+        "saul",
+        "samuel",
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_naioth",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Dopo essere sfuggito a un tentativo di omicidio diretto nella sua stessa casa, cerca rifugio presso Samuele a Naioth, in uno dei primi episodi della sua prolungata fuga dall'inseguimento di Saul.",
+      "referencias": [
+        "1 Sam 19:18-24"
+      ],
+      "ruta": [
+        "gibeah",
+        "ramah",
+        "naioth"
+      ]
+    },
+    {
+      "id": "samuel_naioth",
+      "nombre": "Samuele",
+      "rol": "Profeta e giudice, leader della comunità profetica di Naioth",
+      "periodo": "hierro_1",
+      "descripcion": "Guida la comunità dei profeti di Naioth e accoglie il fuggitivo Davide, presiedendo l'episodio in cui sia i messaggeri di Saul che il re stesso vengono sopraffatti dallo Spirito profetico.",
+      "referencias": [
+        "1 Sam 19:18-24"
+      ],
+      "ruta": [
+        "ramah",
+        "naioth"
+      ]
+    },
+    {
+      "id": "saul_naioth",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele",
+      "periodo": "hierro_1",
+      "descripcion": "Insegue personalmente Davide a Naioth dopo il fallimento di tre gruppi di messaggeri; È sopraffatto dallo Spirito di Dio e profetizza nudo, episodio che segna il culmine del suo deterioramento come figura reale di fronte all'autorità profetica di Samuele.",
+      "referencias": [
+        "1 Sam 19:22-24"
+      ],
+      "ruta": [
+        "gibeah",
+        "ramah",
+        "naioth"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Naioth rappresenta lo spazio dell'autorità profetica jahvista in diretta tensione con il potere istituzionale regale: lo Spirito di Dio che si manifesta sui messaggeri e sullo stesso Saul sottolinea che nemmeno il re consacrato sfugge al dominio di YHWH di fronte alla sfera profetica. L'episodio funziona come un'anteprima narrativa del progressivo abbandono divino di Saul e dell'implicita legittimazione di Davide come successore protetto dalla stessa forza spirituale che umilia il re regnante.",
+    "religiones_presentes": [
+      "Yahvismo (inclusa la prima istituzione profetica)"
+    ],
+    "mitos": [
+      {
+        "id": "saul-entre-profetas",
+        "nombre": "Anche Saul tra i profeti?",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 19:18-24",
+          "fuente_secundaria": "Targum y comentario rabínico tradicional sobre el dicho proverbial repetido también en 1 Sam 10:11-12",
+          "descripcion": "La tradizione ebraica considera l'episodio come la seconda apparizione del proverbiale detto 'Saul anche tra i profeti?', interpretando l'estasi profetica di Saul a Naioth come un segno del progressivo ritiro del favore divino, ironicamente in contrasto con la sua apparenza esteriore di pietà profetica.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L’episodio illustra che il carisma profetico momentaneo non equivale a una fedeltà sostenuta o a una continua legittimità della leadership di Saul.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 19:18-24 (recepción patrística sobre la soberanía del Espíritu)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre la libertad del Espíritu de Dios para actuar incluso sobre quienes se oponen a su designio",
+          "descripcion": "Alcuni Padri della Chiesa leggono l'episodio come un esempio del fatto che lo Spirito di Dio può manifestarsi in modo transitorio anche in persone spiritualmente deviate, distinguendo tra esperienza carismatica puntuale e santità di vita sostenuta.",
+          "similitudes": "Condivide con la lettura ebraica l'accento sul contrasto tra manifestazione carismatica e fedeltà reale.",
+          "diferencias": "La lettura patristica tende a generalizzare l'episodio come principio circa la natura del dono profetico, al di là del caso specifico di Saul.",
+          "significado_teologico": "L'episodio rafforza l'idea della libertà sovrana dello Spirito di Dio di agire su qualsiasi persona, indipendentemente dal suo merito morale.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo Samuele-Saul-Davide come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ],
+  "nota_coordenadas": "Coordenada ajustada el 21 jun 2026 — antes compartía punto casi idéntico con Mizpah (6m de distancia). Ahora separada ~115m, manteniendo la cercanía geográfica real de Naioth respecto a Ramá/Mizpah que describe el texto bíblico (1 Sam 19:18-23)."
+}

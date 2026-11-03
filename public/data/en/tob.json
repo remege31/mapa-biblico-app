@@ -1,0 +1,133 @@
+{
+  "id": "tob",
+  "nombre": "Tob",
+  "tipo": "territorio",
+  "lat": 32.56,
+  "lng": 36.24,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Territory east of the Jordan, in present-day southern Syria. Jephthah's refuge when he was expelled by his brothers.",
+  "altitud_m": 600,
+  "clima": "arid-mediterranean",
+  "recursos": [
+    "grazing",
+    "trade"
+  ],
+  "importancia_estrategica": "Land of refuge and rebellion; base of operations of Jephthah the leader.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "tob_h1",
+      "titulo": "Jephthah flees to Tob",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Expelled by his brothers for being the son of a prostitute, Jephthah flees to the land of Tob where he gathers adventurous men.",
+      "referencias": [
+        "Judg 11:3"
+      ],
+      "personajes_clave": [
+        "Jefté"
+      ]
+    },
+    {
+      "id": "tob_h2",
+      "titulo": "Ammonites hire warriors from Tob",
+      "fecha": "ca. 1000 BC",
+      "descripcion": "The Ammonites hire soldiers from Tob to confront David in the war against Joab.",
+      "referencias": [
+        "2 Sam 10:6-8"
+      ],
+      "personajes_clave": [
+        "ammonitas",
+        "Joab"
+      ]
+    },
+    {
+      "id": "tob_h3",
+      "titulo": "Gilead Elders Bring Jephthah of Tob",
+      "fecha": "ca. 1100 BC",
+      "descripcion": "Faced with the Ammonite threat, the elders of Gilead go to Tob to find Jephthah and appoint him chief.",
+      "referencias": [
+        "Judg 11:4-11"
+      ],
+      "personajes_clave": [
+        "Jefté",
+        "ancianos de Galaad"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "tob_p1",
+      "nombre": "Jephthah",
+      "rol": "Gilead Judge",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "Taking refuge in Tob, he gathered a band of men; He returned as leader when Israel needed him.",
+      "referencias": [
+        "Judg 11:3"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p2",
+      "nombre": "elders by Gilead",
+      "rol": "Tribal leaders",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "They traveled to Tob to convince Jephthah to return as military leader.",
+      "referencias": [
+        "Judg 11:5"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "tob_p3",
+      "nombre": "adventurous men",
+      "rol": "Jephthah's Band",
+      "periodo": "ca. 1100 BC",
+      "descripcion": "They joined Jephthah in Tob; army base that liberated Gilead.",
+      "referencias": [
+        "Judg 11:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Tob: relevant geographical region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "tob_m1",
+        "nombre": "The rejected who becomes a savior",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Jephthah, rejected because of his origin, becomes the savior of those who rejected him; biblical pattern of the despised chosen one.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jephthah, rejected because of his origin, becomes the savior of those who rejected him; biblical pattern of the despised chosen one.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "east",
+  "nombre": "Oriente (l'Oriente biblico)",
+  "tipo": "territorio",
+  "lat": 31.95,
+  "lng": 35.92,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Concetto geografico biblico che copre le terre a est del Giordano: Transgiordania, Siria, Mesopotamia.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Simbolo del lontano e dell'ignoto; fonte dei 'figli dell'oriente' che sono pastori e saggi.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "eas_h1",
+      "titulo": "I figli dell'est e i loro greggi",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Abramo e i suoi contemporanei sono imparentati con i \"figli dell'est\", nomadi e pastori delle steppe a est del Giordano.",
+      "referencias": [
+        "Gen 29:1",
+        "Gdc 6:3"
+      ],
+      "personajes_clave": [
+        "Jacob"
+      ]
+    },
+    {
+      "id": "eas_h2",
+      "titulo": "I saggi dell'Oriente nel NT",
+      "fecha": "ca. 6-4 a.C.",
+      "descripcion": "I Magi 'da est' seguono la stella verso Betlemme per adorare il neonato re dei Giudei.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "personajes_clave": [
+        "magos"
+      ]
+    },
+    {
+      "id": "eas_h3",
+      "titulo": "Ezechiele vede la gloria entrare da est",
+      "fecha": "ca. 593 a.C.",
+      "descripcion": "Ezechiele immagina la gloria di Dio che ritorna al Tempio da est.",
+      "referencias": [
+        "Ez 43:2"
+      ],
+      "personajes_clave": [
+        "Ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eas_p1",
+      "nombre": "maghi dell'est",
+      "rol": "adoratori saggi",
+      "periodo": "ca. 6-4 a.C.",
+      "descripcion": "I saggi dell'Oriente sono i primi gentili ad adorare il Messia.",
+      "referencias": [
+        "Mt 2:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p2",
+      "nombre": "Ezechiele",
+      "rol": "Profeta",
+      "periodo": "593-571 a.C.",
+      "descripcion": "Immaginava la gloria di Dio che entrava nel Tempio restaurato da est.",
+      "referencias": [
+        "Ez 43:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "eas_p3",
+      "nombre": "Giacobbe",
+      "rol": "Patriarca",
+      "periodo": "ca. 1800-1700 a.C.",
+      "descripcion": "Ha viaggiato verso est per trovare moglie a Paddan; Il suo viaggio rappresenta il movimento tra le terre.",
+      "referencias": [
+        "Gen 29:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Oriente (l'Oriente biblico): regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "eas_m1",
+        "nombre": "La gloria viene da est",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 11,23",
+          "fuente_secundaria": "",
+          "descripcion": "La gloria di Dio ha lasciato il Tempio in oriente (Ez 11,23) e ritornerà in oriente (Ez 43,2); I saggi dell'oriente adoreranno il Messia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La gloria di Dio ha lasciato il Tempio in oriente (Ez 11,23) e ritornerà in oriente (Ez 43,2); I saggi dell'oriente adoreranno il Messia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Mt 2,2",
+          "fuente_secundaria": "",
+          "descripcion": "Gesù è nato a Betlemme; La sua stella è stata vista in Oriente (Mt 2,2): il cosmo orientale annuncia il Messia dell'Occidente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gesù è nato a Betlemme; La sua stella è stata vista in Oriente (Mt 2,2): il cosmo orientale annuncia il Messia dell'Occidente.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

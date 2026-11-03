@@ -1,0 +1,168 @@
+{
+  "id": "maon",
+  "nombre": "Maon",
+  "tipo": "ciudad",
+  "lat": 31.41666666666668,
+  "lng": 35.1166666666667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: dimora di Nabal e Abigail, rifugio di Davide"
+    }
+  ],
+  "descripcion_geo": "Città all'estremità meridionale della regione montuosa di Giuda, a sud di Hebron, ai margini dell'omonimo deserto che si estende a sud-est. Vicino al Carmelo, dove Nabal aveva i suoi estesi greggi, in una zona di transizione tra terra arabile e deserto adatta al pascolo estensivo.",
+  "altitud_m": 850,
+  "clima": "Semiarido: estati molto secche e calde, inverni freddi con poche piogge, sul confine meridionale del deserto Giuda.",
+  "recursos": [
+    "Pascoli estensivi di pecore e capre (greggi di Nabal nel Carmelo)",
+    "Terreno desertico adatto all'occultamento",
+    "Posizione di confine all'estremità meridionale di Giuda"
+  ],
+  "importancia_estrategica": "Maon è rilevante principalmente per il suo legame con l'episodio Nabal e Abigail, che segna un punto di svolta nello sviluppo del personaggio di Davide come futuro re: la sua disposizione iniziale verso la vendetta violenta viene deviata dall'intervento diplomatico di Abigail, che in seguito diventerà sua moglie. Il deserto di Maon figura anche tra i rifugi di Davide durante la sua fuga da Saul.",
+  "otros_habitantes": [
+    {
+      "id": "calebitas_maon",
+      "nombre": "Clan di Caleb (linea di Nabal)",
+      "descripcion": "Famiglia calebita che possiede estesi greggi nella regione del Carmelo, vicino a Maon; Nabal, descritto come duro e di cattive abitudini, appartiene a questo lignaggio.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    },
+    {
+      "id": "pastores_maon",
+      "nombre": "Pastori e servi di Nabal",
+      "descripcion": "Numerosi servi e pastori al servizio di Nabal che custodivano i suoi greggi nel deserto di Maon e nei dintorni del Carmelo.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-protege-rebanos-nabal",
+      "titulo": "Davide e i suoi uomini proteggono le greggi di Nabal",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Mentre si nascondono nel vicino deserto, Davide e i suoi uomini forniscono protezione informale ai pastori e ai greggi di Nabal a Carmel, senza causare loro alcun danno né rubare loro nulla, un'implicita aspettativa di reciproca ospitalità secondo le usanze del deserto.",
+      "referencias": [
+        "1 Sam 25:4-8",
+        "1 Sam 25:14-16"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "negativa-nabal-ira-david",
+      "titulo": "Nabal rifiuta i messaggeri di Davide",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Quando Davide invia messaggeri per chiedere disposizioni in riconoscimento della protezione fornita, Nabal li insulta e rifiuta, paragonando Davide a uno schiavo fuggitivo; Furioso, Davide si arma per distruggere Nabal e tutta la sua casa.",
+      "referencias": [
+        "1 Sam 25:9-13"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "abigail-intercede-david",
+      "titulo": "Abigail intercede presso Davide e impedisce il massacro",
+      "fecha": "c. 1015 a.C.",
+      "descripcion": "Informata da una serva, Abigail, moglie di Nabal, va incontro a Davide con abbondanti provviste e un discorso tranquillizzante che lo convince a non spargere sangue innocente; Al ritorno, Nabal crolla dopo aver appreso cosa è successo e muore dieci giorni dopo, dopodiché Davide prende Abigail come sua moglie.",
+      "referencias": [
+        "1 Sam 25:18-42"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nabal",
+      "nombre": "Nabal",
+      "rol": "Ricco allevatore calebita di Maón-Carmel",
+      "periodo": "c. 1015 a.C.",
+      "descripcion": "Uomo ricco ma volitivo ('nabal' significa 'folle') che rifiuta la richiesta di provviste di Davide, provocando quasi un massacro scongiurato solo dall'intervento della moglie Abigail; Muore poco dopo essere crollato dopo aver appreso cosa è successo.",
+      "referencias": [
+        "1 Sam 25:2-3",
+        "1 Sam 25:36-38"
+      ],
+      "ruta": [
+        "maon"
+      ]
+    },
+    {
+      "id": "abigail",
+      "nombre": "Abigail",
+      "rol": "Moglie di Nabal, poi moglie di Davide",
+      "periodo": "hierro_2",
+      "descripcion": "Donna descritta come sensibile e bella che impedisce il massacro della sua casa con il suo intervento diplomatico, gesto che Davide riconosce esplicitamente come provvidenziale; Dopo la morte di Nabal, diventa una delle mogli di Davide.",
+      "referencias": [
+        "1 Sam 25:3",
+        "1 Sam 25:18-35",
+        "1 Sam 25:39-42"
+      ],
+      "ruta": [
+        "maon",
+        "hebron"
+      ]
+    },
+    {
+      "id": "david_maon",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "Inizialmente deciso a vendicarsi violentemente contro Nabal, viene distolto da tale corso dall'intervento di Abigail, episodio che lo stesso Davide riconosce come provvidenziale evitamento di un atto che avrebbe compromesso la sua integrità morale.",
+      "referencias": [
+        "1 Sam 25:21-22",
+        "1 Sam 25:32-34"
+      ],
+      "ruta": [
+        "ziph",
+        "maon",
+        "engedi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Maon è teatro di uno degli episodi di maggiore sviluppo caratteriale del ciclo Davide precedente al suo regno: la tentazione di una violenta vendetta personale, contenuta non dal proprio autocontrollo ma dalla provvidenziale mediazione di Abigail. La storia rafforza l'idea teologica secondo cui il futuro re di Israele deve imparare a confidare che YHWH farà giustizia ai suoi tempi, senza bisogno di spargere sangue innocente per difendere il suo onore.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "abigail-intercesion-mito",
+        "nombre": "L'intercessione di Abigail come contenimento provvidenziale della vendetta",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 25:1-42",
+          "fuente_secundaria": "Talmud Babilónico, Meguilá 14a (Abigail contada entre las siete profetisas de Israel)",
+          "descripcion": "La tradizione rabbinica eleva Abigail allo status di una delle sette profetesse di Israele, valutando il suo discorso a Davide non solo come abile diplomazia ma come genuina intuizione profetica che anticipa il futuro regno di Davide e lo protegge dalla colpa di sangue che avrebbe compromesso la sua legittimità.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'intervento di Abigail viene interpretato come uno strumento provvidenziale che preserva la purezza morale del futuro consacrato da YHWH di fronte a un atto di vendetta personale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 25:1-42 (recepción patrística de Abigail como modelo de prudencia y paz)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que presentan a Abigail como ejemplo de sabiduría femenina que previene el derramamiento de sangre",
+          "descripcion": "L'antica tradizione cristiana valorizza Abigail come figura di prudenza e di mediazione pacificatrice, talvolta letta tipologicamente in relazione all'intercessione che allontana il giudizio o l'ira, pur senza sviluppare l'esplicito statuto profetico attribuitole dalla tradizione rabbinica.",
+          "similitudes": "Condivide la valutazione positiva del ruolo di Abigail come agente morale decisivo che impedisce un atto di violenza ingiustificata.",
+          "diferencias": "La tradizione cristiana di solito non gli attribuisce uno status profetico formale come fa la tradizione rabbinica.",
+          "significado_teologico": "L'episodio viene letto come un esempio di come la prudenza e la parola opportuna possano deviare la giusta rabbia verso una condotta più in linea con la volontà di Dio.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

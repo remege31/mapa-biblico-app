@@ -1,0 +1,189 @@
+{
+  "id": "madian",
+  "nombre": "Madian",
+  "tipo": "ciudad",
+  "lat": 27.93,
+  "lng": 35.69,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 38,
+  "jerarquia_pin": "terciario",
+  "nota_coordenadas": "Al-Bad' (antigua Madyan), noroeste de Arabia Saudita — sitio más ampliamente aceptado por la arqueología bíblica para la región de Madián. Algunos estudiosos sitúan Madián en el Sinaí o el sur de Transjordania.",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Esilio e vocazione di Mosè"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I: oppressione madianita e vittoria di Gedeone"
+    }
+  ],
+  "descripcion_geo": "Regione e città dell'Arabia nordoccidentale, a est del Golfo di Aqaba (l'attuale Arabia Saudita). Il territorio madianita si estendeva tra la Transgiordania meridionale, l'Arabia settentrionale e la penisola Sinai, in zone desertiche e steppiche aride. Popolo seminomade di pastori e mercanti di carovane, discendente di Madian, figlio di Abramo e Keturah (Gen 25,2). La sua capitale o città principale si identifica con l'antica Madyan, oggi Al-Bad'. Al tempo di Mosè, i Madianiti abitavano la regione del monte Horeb/Sinai, teatro del richiamo di Mosè dal roveto ardente.",
+  "altitud_m": 750,
+  "clima": "Deserto da arido a semi-arido: estati molto calde, inverni freddi, con precipitazioni leggermente superiori rispetto al Sinai centrale (100-200 mm all'anno). Terreno montuoso con valli dove è possibile il pascolo.",
+  "recursos": [
+    "Pascoli estensivi di pecore e capre nelle steppe e sulle colline dell'Arabia nordoccidentale",
+    "Controllo delle rotte carovaniere che collegavano l'Arabia, l'Sinai e il corridoio levantino",
+    "Sfruttamento del rame nella regione di Arabá (con contatti con i Keniti)",
+    "Commercio di spezie, incenso e metalli preziosi dall'Arabia meridionale"
+  ],
+  "importancia_estrategica": "Midian è l'ambientazione del periodo formativo più significativo di Mosè: quarant'anni di esilio, matrimonio, pastorizia e incontro diretto con Dio. È qui che il fuggitivo principe egiziano si trasforma in profeta e liberatore. Il monte Horeb – identificato con Sinai – che custodisce questa regione sarà lo stesso luogo dove successivamente riceverà la Legge. Il rapporto di Israele con Madian è ambivalente: nell'Esodo è rifugio e luogo di rivelazione; Nel periodo dei Giudici, i Madianiti diventano oppressori di Israele fino alla vittoria di Gedeone (Giudici 6-8).",
+  "otros_habitantes": [
+    {
+      "id": "madianitas_tribu",
+      "nombre": "Madianiti",
+      "descripcion": "Popoli semi-nomadi imparentati con Israele fino a Abramo (Gen 25:2). Ai tempi di Mosè vivevano con la famiglia di Jethro, sacerdote di Madian. Secoli dopo, durante il periodo dei Giudici, si allearono con gli Amaleciti e gli Ismaeliti per opprimere Israele per sette anni, finché Gedeone li sconfisse con trecento guerrieri (Giudici 6-8).",
+      "religion": "Politeismo semitico, con forse elementi monoteistici in alcuni clan (Ietro riconosce YHWH in Es 18:11). I Keniti, imparentati con i Madianiti, avevano uno stretto rapporto con il primo Yahwismo.",
+      "periodo": "C. 1500-900 a.C"
+    },
+    {
+      "id": "quenitas_madian",
+      "nombre": "Quenites",
+      "descripcion": "Clan imparentato con i Madianiti, legato alla famiglia di Jethro. Jethro è chiamato sia \"Midianite\" che \"Kenite\" in diversi testi. I Keniti seguirono da Israele a Canaan (Giudici 1:16) e alcuni si stabilirono a sud di Giuda. Erano artigiani del metallo nella regione dell'Araba e secondo alcuni studiosi avevano un rapporto speciale con il culto di YHWH.",
+      "religion": "Tradizione yahwista primitiva, secondo l'ipotesi kenita che colloca l'origine dello yahwismo nel culto del 'Dio della Montagna' del Sinai/Horeb",
+      "periodo": "C. 1500-900 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-huye-madian",
+      "titulo": "Mosè fugge a Midian e mette su famiglia",
+      "fecha": "c. 1446 a.C. (cronología tradicional)",
+      "descripcion": "Dopo aver ucciso una guardia egiziana che picchiava un israelita, Mosè fugge da Egitto e arriva a Madian. Lì difende le sette figlie del sacerdote Jethro (Reuel) dai pastori violenti presso un pozzo. In segno di gratitudine, Jethro gli dà in moglie sua figlia Zipporah, dalla quale Mosè avrà due figli: Gershon ed Eliezer. Per quarant'anni Mosè lavora come pastore del gregge del suocero, imparando a sopravvivere nel deserto che presto dovrà attraversare con un intero popolo.",
+      "referencias": [
+        "Es 2:15-22",
+        "Es 18:3-4",
+        "At 7:29-30"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "zarza-ardiente-madian",
+      "titulo": "Il roveto ardente: chiamata di Mosè da Midian",
+      "fecha": "c. 1446 a.C. (cronología tradicional)",
+      "descripcion": "Mentre guida il gregge di Jethro oltre il deserto e raggiunge il monte Horeb, Mosè vede un cespuglio che brucia senza essere consumato. Dio gli parla dal roveto, si identifica come il Dio di Abramo, Isacco e Giacobbe e gli affida il compito di liberare Israele da Egitto. Di fronte alla resistenza di Mosè, Dio gli concede dei segni (la verga che si trasforma in serpente, la mano lebbrosa) e assegna come portavoce suo fratello Aronne. L'incontro fonda il nome divino YHWH (“Io sono colui che sono”) e stabilisce Madian e Horeb come luoghi della rivelazione fondatrice della fede israelita.",
+      "referencias": [
+        "Es 3:1-4:17",
+        "At 7:30-34"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "jetro-consejo-madian",
+      "titulo": "Jethro visita Mosè e stabilisce il sistema dei giudici",
+      "fecha": "c. 1446 a.C. (cronología tradicional)",
+      "descripcion": "Dopo l'Esodo e l'attraversamento del Mar Rosso, il suocero di Mosè, Jethro, porta Zipporah e i due figli di Mosè nel deserto. Dopo aver ascoltato il racconto delle meraviglie di YHWH, Ietro dichiara che YHWH è più grande di tutti gli dei (Es 18,11). Di fronte all'esaurimento di Mosè dovuto al fatto di giudicare le persone da solo tutto il giorno, Jethro propone di creare un sistema di leader delegati per affrontare i casi minori. Mosè accetta il consiglio. Questo episodio è notevole: il sistema giudiziario di Israele trae ispirazione da un saggio madianita, non israelita, che riconosce YHWH come il Dio supremo.",
+      "referencias": [
+        "Es 18:1-27"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_madian",
+      "nombre": "Mosè",
+      "rol": "Profeta e liberatore di Israele",
+      "periodo": "bronce_tardio",
+      "descripcion": "Trascorre quarant'anni a Madian: arriva come fuggitivo egiziano, si afferma pastore e genero del sacerdote Ietro, e qui riceve la chiamata che lo trasformerà nel più importante profeta dell'Antico Testamento. Il roveto ardente sul monte Horeb – durante il suo pascolo nel territorio madianita – è il punto di svolta dell'intera storia di Israele.",
+      "referencias": [
+        "Es 2:15-3:1",
+        "Es 3:1-4:17",
+        "Es 18:1-27"
+      ],
+      "ruta": [
+        "egipto",
+        "madian",
+        "sinai"
+      ]
+    },
+    {
+      "id": "jetro_madian",
+      "nombre": "Jethro (Reuel)",
+      "rol": "Sacerdote di Madian, suocero di Mosè",
+      "periodo": "bronce_tardio",
+      "descripcion": "Sacerdote e capo di una tribù madianita. Riceve il fuggitivo Mosè, gli dà in moglie sua figlia Sefora e le affida il compito di pascere i suoi greggi. Visita Mosè nel deserto dopo l'Esodo, riconosce la grandezza di YHWH e propone il sistema di delega giudiziaria che Mosè adotta. È l'unico personaggio non israelita a riconoscere espressamente YHWH come Dio supremo nella storia dell'Esodo.",
+      "referencias": [
+        "Es 2:16-21",
+        "Es 18:1-27"
+      ],
+      "ruta": [
+        "madian",
+        "sinai"
+      ]
+    },
+    {
+      "id": "sefora_madian",
+      "nombre": "Zippora",
+      "rol": "Moglie di Mosè, figlia di Jethro",
+      "periodo": "bronce_tardio",
+      "descripcion": "Figlia maggiore del sacerdote Jethro, incontra Mosè al pozzo dove difende le sue sette sorelle dai pastori. Diventa sua moglie e madre di Gershom ed Eliezer. Nell'episodio più enigmatico del Pentateuco (Es 4,24-26) agisce con decisione, circoncidendo il figlio e salvando la vita di Mosè. Viene restituita al padre durante l'Esodo e si riunisce con Mosè nel deserto (Es 18,2-5).",
+      "referencias": [
+        "Es 2:21-22",
+        "Es 4:24-26",
+        "Es 18:2-5"
+      ],
+      "ruta": [
+        "madian",
+        "sinai"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Madian occupa un posto unico nella geografia religiosa dell'Antico Testamento: è la terra straniera dove Dio si rivela per la prima volta con il suo nome definitivo (YHWH), dove sceglie il suo profeta, e dove il sistema organizzativo di Israele riceve la sua prima forma grazie al consiglio di un non israelita. Questo paradosso - la rivelazione centrale della fede di Israele avviene nel territorio madianita, attraverso i legami con un sacerdote madianita - ha generato secoli di riflessione teologica. L'\"ipotesi kenita\" suggerisce che il primo Yahwismo potrebbe aver avuto origine o avere profondi legami con le tradizioni religiose dei keniti e dei madianiti dell'Arabia nordoccidentale, nella regione del monte Sinai/Horeb.",
+    "religiones_presentes": [
+      "Inizio Yahvismo (rivelazione del nome YHWH dall'Horeb, in territorio madianita)",
+      "Politeismo arabo semitico (tradizione madianita generale)",
+      "Tradizione kenita (probabile proto-Yahvismo legato al 'Dio della Montagna' del Sinai)"
+    ],
+    "mitos": [
+      {
+        "id": "zarza-ardiente-mito",
+        "nombre": "Il roveto ardente e il nome divino YHWH",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Es 3:1-15",
+          "fuente_secundaria": "Midrash Shemot Rabbah 2 (sobre el significado de la zarza que arde sin consumirse como símbolo de Israel entre las naciones)",
+          "descripcion": "L'episodio del roveto ardente è considerato la rivelazione teofanica più importante dell'Antico Testamento insieme a Sinai. Il cespuglio che arde senza consumarsi viene letto nel Midrash come simbolo del popolo di Israele: perseguitato e in fiamme ma mai distrutto. La rivelazione del nome divino 'Ehyeh asher ehyeh' (io sono che sono / sarò che sarò) è il fondamento filosofico e teologico del monoteismo ebraico: un Dio senza immagine, senza nome pronunciabile nella sua pienezza, radicalmente trascendente e allo stesso tempo impegnato nella storia del suo popolo.",
+          "similitudes": "Tutte e tre le tradizioni riconoscono l'incontro di Mosè con Dio sulla montagna sacra come momento fondante.",
+          "diferencias": "L'ebraismo pone l'accento sulla rivelazione del Nome divino e sull'elezione del popolo di Israele come elementi centrali; L'Islam enfatizza la dimensione profetica di Musa come messaggero di Allah.",
+          "significado_teologico": "Il Roveto Ardente stabilisce il modello per la teologia biblica: Dio si rivela nel piccolo (un cespuglio del deserto), sceglie il debole (un fuggitivo balbettante) e agisce nella storia per liberare gli oppressi.",
+          "posible_relacion_cultural": "Il motivo del dio della montagna che parla dal fuoco appare nelle tradizioni religiose semitiche dell'Arabia nordoccidentale, suggerendo collegamenti con le tradizioni religiose madianite/kenite."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Es 3:1-15 (recepción en Hch 7:30-34; Jn 8:58; Heb 11:27)",
+          "fuente_secundaria": "Gregorio de Nisa, La vida de Moisés II (la zarza como símbolo de la Encarnación: la divinidad que habita sin destruir la humanidad)",
+          "descripcion": "Il Nuovo Testamento e i Padri della Chiesa leggono il roveto ardente come prefigurazione di Cristo: come il roveto contiene il fuoco divino senza consumarsi, così l'umanità di Cristo contiene la divinità senza essere distrutta. Il discorso di Stefano negli Atti 7 colloca l'incontro sul 'monte Sinai' e applica a Mosè il titolo di 'redentore' (lytrōtēs) come tipo di Cristo. San Giovanni identifica l'“io sono” del roveto con le affermazioni di Gesù del quarto Vangelo.",
+          "similitudes": "Condivide con l'ebraismo il riconoscimento del roveto come rivelazione del nome e della natura divini.",
+          "diferencias": "La teologia cristiana legge l'“Io sono” del roveto come rivelazione anticipata della natura del Logos eterno, identificato con Gesù nel Vangelo di Giovanni.",
+          "significado_teologico": "Il roveto ardente diventa la tipologia veterotestamentaria per eccellenza dell'Incarnazione: Dio che dimora nella materia senza distruggerla, tema centrale della cristologia patristica.",
+          "posible_relacion_cultural": "La lettura tipologica del cespuglio è un esempio paradigmatico del metodo ermeneutico cristiano di leggere l'Antico Testamento come prefigurazione del Nuovo Testamento."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 20:9-36; 27:7-9; 28:29-35; 79:15-19",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Corán 20:9-14 (sobre el encuentro de Musa con Allah en el valle sagrado de Tuwa)",
+          "descripcion": "Il Corano narra quattro volte l'incontro di Musa (Mosè) con Allah sulla montagna sacra, identificata come la “valle sacra di Tuwa”. Allah parla dal fuoco (o accanto ad esso) e ordina a Musa di togliersi i sandali perché è su terra santa. Rivela la sua identità di unico vero Dio e gli affida di andare dal Faraone. L'episodio è narrato ponendo l'accento sull'assoluta trascendenza di Allah e sulla dimensione profetica di Musa come rasul (messaggero).",
+          "similitudes": "La montagna sacra, il fuoco, la missione al Faraone e la rivelazione divina sono elementi comuni alla tradizione biblica e coranica.",
+          "diferencias": "Il Corano non menziona il nome YHWH o il concetto di 'Io sono colui che sono'; l'enfasi è sulla missione profetica e sul tawhid (unicità di Dio) piuttosto che sulla rivelazione del Nome.",
+          "significado_teologico": "L'incontro di Musa con Allah sulla montagna sacra stabilisce il suo status di kalim Allah (\"colui che parla con Allah\"), l'unico profeta che ha ricevuto la rivelazione direttamente, senza intermediari angelici, elevandolo a un rango speciale nella gerarchia profetica islamica.",
+          "posible_relacion_cultural": "L'identificazione islamica della montagna sacra con la \"Valle di Tuwa\" può riflettere tradizioni orali arabe preislamiche sui luoghi sacri nell'Arabia nordoccidentale (regione di Midian/Hijaz)."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "netophah",
+  "nombre": "Netofa",
+  "tipo": "ciudad",
+  "lat": 31.735465,
+  "lng": 35.220503,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Insediamento di guerrieri davidici e leviti"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: ripopolamento dopo il ritorno dall'esilio"
+    }
+  ],
+  "descripcion_geo": "Piccolo comune nella zona montuosa di Giuda, a sud di Betlemme, in una regione collinare adatta al pascolo e all'agricoltura arida. Dà il nome al demonimo 'netofatite', utilizzato per identificare diverse figure importanti in diversi periodi della storia biblica.",
+  "altitud_m": 740,
+  "clima": "Montagna mediterranea: estati secche, inverni freddi con piogge, tipici degli altopiani Giuda.",
+  "recursos": [
+    "Pecore e capre al pascolo",
+    "Coltivazione secca su terrazzamenti",
+    "Cava di musicisti e guerrieri che prestarono servizio alla corte davidica"
+  ],
+  "importancia_estrategica": "Netofa non ha alcuna rilevanza militare propria, ma funziona come un pool ricorrente di personale qualificato per la corte e il culto: fornisce guerrieri d'élite alla cerchia di Davide, cantori leviti al servizio del Tempio sotto Asaf e governatori locali nel periodo post-esilico, evidenziando la persistenza di una certa importanza amministrativa della regione per diversi secoli.",
+  "otros_habitantes": [
+    {
+      "id": "judaitas_netofa",
+      "nombre": "Giuda Clan",
+      "descripcion": "A Netofa si stabilirono famiglie ebree, genealogicamente legate negli elenchi dei cronisti alla stirpe di Caleb e alla tribù di Giuda in generale.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "levitas_cantores_netofa",
+      "nombre": "Leviti cantanti",
+      "descripcion": "Famiglie di Netofatiti si integrarono nelle corporazioni dei cantori del Tempio Levitico organizzate sotto Asaf, responsabili della musica liturgica del culto.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1000–586 a.C. e periodo post-esilico"
+    }
+  ],
+  "historias": [
+    {
+      "id": "valientes-david-netofa",
+      "titulo": "Guerrieri Netofatiti tra i coraggiosi di Davide",
+      "fecha": "c. 1010–970 a.C.",
+      "descripcion": "Molti degli \"uomini coraggiosi\" (gibborim) di Davide, tra cui Maharai e Heled o Heleb, sono identificati come Netophatiti negli elenchi di 2 Samuele e 1 Cronache, integrando gli uomini di questa piccola città nella cerchia militare più vicina al re.",
+      "referencias": [
+        "2 Sam 23:28-29",
+        "1 Cr 11:30",
+        "1 Cr 27:13"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "gedalias-netofatitas",
+      "titulo": "I leader netofatiti compaiono davanti a Ghedalia",
+      "fecha": "c. 586 a.C.",
+      "descripcion": "Dopo la caduta di Gerusalemme e l'assassinio del re, i capi militari dell'accampamento, tra cui il netofatita Seraia figlio di Tanhumet e i figli di Efai, si presentano davanti a Ghedalia, governatore nominato da Babilonia, episodio che precede il successivo assassinio di Ghedalia e la fuga verso Egitto.",
+      "referencias": [
+        "2 Re 25:23",
+        "Ger 40:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "netofatitas-retorno-exilio",
+      "titulo": "Ripopolamento di Netofa dopo l'esilio",
+      "fecha": "c. 538 a.C.",
+      "descripcion": "Gli uomini di Betlemme e Netofa, insieme ad altre località della regione, sono registrati tra i discendenti degli esuli di ritorno di Babilonia, nel censimento della comunità restaurata sotto Zorobabele.",
+      "referencias": [
+        "Esd 2:21-22",
+        "Ne 7:26"
+      ],
+      "personajes_clave": [
+        "zorobabel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "maharai_netofatita",
+      "nombre": "Maharai il Netofatita",
+      "rol": "Uno degli uomini coraggiosi di Davide, comandante del turno mensile",
+      "periodo": "c. 1010–970 a.C.",
+      "descripcion": "Guerriero originario di Netofa incluso tra i trenta valorosi uomini di Davide, e successivamente nominato responsabile di uno dei dodici turni mensili dell'esercito organizzato da Davide.",
+      "referencias": [
+        "2 Sam 23:28",
+        "1 Cr 27:13"
+      ],
+      "ruta": [
+        "netophah"
+      ]
+    },
+    {
+      "id": "heled_netofatita",
+      "nombre": "Heled (Heleb) il Netofatita",
+      "rol": "Uno dei coraggiosi di Davide",
+      "periodo": "c. 1010–970 a.C.",
+      "descripcion": "Il secondo guerriero netofatita menzionato tra gli uomini coraggiosi di Davide, evidenzia il contributo sproporzionato di questa piccola città al circolo militare d'élite reale.",
+      "referencias": [
+        "2 Sam 23:29",
+        "1 Cr 11:30"
+      ],
+      "ruta": [
+        "netophah"
+      ]
+    },
+    {
+      "id": "seraias_netofatita",
+      "nombre": "Seraia, figlio di Tanhumeth, il Netofatita",
+      "rol": "Leader militare dopo la caduta di Gerusalemme",
+      "periodo": "post_exilio",
+      "descripcion": "Uno dei capi delle truppe rimaste in campo dopo la distruzione di Gerusalemme, che si presenta davanti al governatore Ghedalia nominato dai babilonesi, in un episodio che precede la fine violenta del breve governo di Ghedalia.",
+      "referencias": [
+        "2 Re 25:23",
+        "Ger 40:8"
+      ],
+      "ruta": [
+        "netophah",
+        "mizpah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Netofa è priva di una propria tradizione mitica; Il suo significato religioso deriva dal contributo persistente dei suoi abitanti alle istituzioni centrali di Israele nel corso di diversi secoli: l'esercito di Davide, il culto musicale levitico del Tempio e l'amministrazione locale dopo la caduta di Gerusalemme. Questa continuità rende Netofa un esempio del tessuto di località minori che hanno sostenuto, generazione dopo generazione, le istituzioni centrali della fede jahvista.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "netofatitas-continuidad",
+        "nombre": "I Netofatiti come stirpe di servizio continuo a Israele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 23:28-29; 1 Cr 9:16; Esd 2:21-22",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las genealogías cronistas como registro de la fidelidad continuada de familias y clanes a través de las generaciones",
+          "descripcion": "La tradizione ebraica valorizza gli elenchi genealogici che registrano la ripetuta presenza di Netofatiti in diversi momenti della storia di Israele – dai guerrieri di Davide a quelli tornati dall'esilio – come testimonianza della continuità di alcune famiglie al servizio della comunità, al di là della fama individuale dei loro membri.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La persistenza generazionale di famiglie come quelle di Netofa nel servizio militare, culturale e amministrativo è interpretata come espressione concreta della fedeltà collettiva di Israele attraverso le diverse fasi della sua storia.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

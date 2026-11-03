@@ -1,0 +1,175 @@
+{
+  "id": "socoh",
+  "nombre": "Soko",
+  "tipo": "ciudad",
+  "lat": 31.68123465358001,
+  "lng": 34.97639817516712,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: accampamento filisteo, battaglia tra Davide e Golia"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Distretto amministrativo salomonico"
+    }
+  ],
+  "descripcion_geo": "Città della Sefela occidentale di Giuda, nella valle dell'Ela, vicino ad Azeka, nella posizione in cui l'esercito filisteo si accampò contro le forze israelite nell'episodio dello scontro tra Davide e Golia.",
+  "altitud_m": 360,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, tipiche della Shephelah occidentale.",
+  "recursos": [
+    "Terreni agricoli della Valle di Elah",
+    "Posizione strategica nella valle contesa tra Israele e Filistea",
+    "Integrato nel sistema amministrativo salomonico"
+  ],
+  "importancia_estrategica": "Soco segna, insieme ad Azeka, i limiti dell'accampamento filisteo nell'episodio di Davide e Golia, una delle storie più famose dell'Antico Testamento; Secoli dopo, sotto Salomone, la città fu integrata come parte di un distretto amministrativo del regno, riflettendo il successivo consolidamento territoriale della monarchia unita su un'area che ai tempi di Saul era ancora terra contesa con Filistei.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_socoh",
+      "nombre": "Esercito filisteo",
+      "descripcion": "Forze filistee accampate tra Soco e Azekah per affrontare l'esercito israelita nella Valle di Elah, incluso il campione di Gat Goliath.",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1020 a.C"
+    },
+    {
+      "id": "judaitas_socoh",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Popolazione ebraica di Soco, città successivamente integrata nel sistema distrettuale amministrativo di Salomone.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "campamento-filisteo-socoh",
+      "titulo": "L'esercito filisteo si accampa a Soco",
+      "fecha": "c. 1020 a.C.",
+      "descripcion": "Gli Filistei radunano i loro eserciti per la battaglia a Soco, appartenente a Giuda, e si accampano tra Soco e Azekah, a Efesh-damim, mentre Saul e gli uomini di Israele si accampano nella valle di Elah di fronte a loro.",
+      "referencias": [
+        "1 Sam 17:1-3"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "goliat-desafio-socoh",
+      "titulo": "Golia lancia la sua sfida dal campo Soco",
+      "fecha": "c. 1020 a.C.",
+      "descripcion": "Per quaranta giorni, il campione filisteo Goliath di Gat lascia l'accampamento situato a Soco per sfidare un combattente israelita in un duello unico, sfida che nessun soldato di Saul osa accettare fino all'arrivo di Davide.",
+      "referencias": [
+        "1 Sam 17:4-11",
+        "1 Sam 17:16"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "socoh-distrito-salomon",
+      "titulo": "Soco nel distretto amministrativo di Ben-Heser",
+      "fecha": "c. 970–931 a.C.",
+      "descripcion": "Salomone organizza il regno in dodici distretti amministrativi; Soco è integrata in uno di essi sotto la responsabilità di Ben-Heser, responsabile del rifornimento mensile della corte reale.",
+      "referencias": [
+        "1 Re 4:10"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goliat_socoh",
+      "nombre": "Golia di Gat",
+      "rol": "Campione dell'esercito filisteo",
+      "periodo": "c. 1020 a.C.",
+      "descripcion": "Gigantesco guerriero filisteo che sfida l'esercito israelita per quaranta giorni dall'accampamento situato tra Soco e Azekah, finché non viene sconfitto da Davide con una fionda.",
+      "referencias": [
+        "1 Sam 17:4-51"
+      ],
+      "ruta": [
+        "socoh"
+      ]
+    },
+    {
+      "id": "david_socoh",
+      "nombre": "Davide",
+      "rol": "Giovane pastore, futuro re di Israele",
+      "periodo": "hierro_2",
+      "descripcion": "Arriva all'accampamento israelita davanti a Soco, inviato dal padre Iesse a portare provviste ai fratelli, e lì accetta la sfida di Golia che nessun altro ha osato affrontare.",
+      "referencias": [
+        "1 Sam 17:12-51"
+      ],
+      "ruta": [
+        "bethlehem",
+        "socoh"
+      ]
+    },
+    {
+      "id": "ben_heser_socoh",
+      "nombre": "Ben-Heser",
+      "rol": "Funzionario amministrativo del distretto di Soco",
+      "periodo": "c. 970–931 a.C.",
+      "descripcion": "Responsabile del distretto amministrativo salomonico che comprendeva Soco, incaricato di organizzare il rifornimento mensile della corte reale.",
+      "referencias": [
+        "1 Re 4:10"
+      ],
+      "ruta": [
+        "socoh"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Soco fa da sfondo a una delle storie più note dell'Antico Testamento, in cui Davide, prima di essere pubblicamente unto come successore di Saul, dimostra che la vittoria dipende dalla fiducia in YHWH e non nelle armi convenzionali: affronta Golia dichiarando esplicitamente che la battaglia appartiene a YHWH. L'episodio funziona come un'anteprima narrativa di tutta la successiva teologia davidica sulla forza che deriva dalla fede e non dal bruto potere militare.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo filisteo: culto di Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "david-goliat-mito",
+        "nombre": "Davide e Golia: fede contro forza bruta",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 17:1-58",
+          "fuente_secundaria": "Midrash y comentario rabínico tradicional sobre la declaración de David ('Tú vienes a mí con espada... mas yo vengo a ti en el nombre de YHWH') como fórmula paradigmática de confianza",
+          "descripcion": "La tradizione rabbinica sviluppa ampiamente l'episodio come dimostrazione che la vera forza di Israele sta nella fedeltà a YHWH e non nelle armi o nella statura fisica, trasformando Davide in un modello eterno del 'piccolo' che sconfigge i 'grandi' attraverso la fede e l'astuzia poste al servizio della fiducia divina.",
+          "similitudes": "Condivide con il Cristianesimo e l'Islam il riconoscimento dell'episodio come dimostrazione del potere divino sulle forze umane.",
+          "diferencias": null,
+          "significado_teologico": "La vittoria di Davide conferma che YHWH salva non con la spada o con la lancia, ma secondo la sua volontà, indipendentemente dalla disparità delle forze.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo di Davide come figura centrale della storia sacra nelle tre religioni abramitiche."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 17:1-58 (recepción patrística y popular como arquetipo del débil que vence al fuerte mediante la fe)",
+          "fuente_secundaria": "Comentarios patrísticos y tradición iconográfica cristiana que retoman a David como tipo de Cristo venciendo al poder del mal",
+          "descripcion": "La tradizione popolare e patristica cristiana fa dell'episodio un archetipo universale della fede che vince la forza bruta, e in alcune letture tipologiche vede in Davide un'anticipazione di Cristo che sconfigge il potere del peccato e della morte simbolicamente rappresentato da Golia.",
+          "similitudes": "Condividete la lettura centrale dell'episodio come trionfo della fede sulla forza materiale.",
+          "diferencias": "La lettura tipologica cristologica di Davide come prefigurazione di Cristo è un'aggiunta specificamente cristiana assente nella lettura ebraica e islamica.",
+          "significado_teologico": "La storia diventa una figura generale della vittoria della fede e dell'umiltà sul potere e sull'orgoglio, applicabile sia storicamente che tipologicamente.",
+          "posible_relacion_cultural": "Ricezione condivisa del ciclo Davide come storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": {
+          "fuente_primaria": "Corán 2:249-251 (relato de Talut/Saúl y Jalut/Goliat)",
+          "fuente_secundaria": "Tafsir Ibn Kathir sobre la batalla de Talut contra Jalut y la victoria de Dawud (David)",
+          "descripcion": "Il Corano narra una versione parallela dell'episodio nel contesto dell'esercito di Talut (identificato con Saul): dopo la prova del fiume, un piccolo gruppo di fedeli affronta l'esercito di Jalut (Golia), ed è Dawud che infine lo uccide, vittoria esplicitamente attribuita al permesso e alla volontà di Dio sul numero dei combattenti.",
+          "similitudes": "Condivide la struttura essenziale della storia: un esercito numericamente inferiore ma fedele sconfigge una forza superiore grazie all'intervento divino, con Dawud come strumento della vittoria finale.",
+          "diferencias": "Il racconto coranico inquadra l'episodio all'interno della narrazione più ampia del calvario sul fiume con Talut, assente nel racconto biblico, e omette la topografia specifica di Soco e della Valle dell'Elah.",
+          "significado_teologico": "Il Corano usa l'episodio per insegnare che la vittoria dipende dal permesso divino e non dal numero dei combattenti, citando esplicitamente \"Quante volte, per volontà di Dio, una piccola truppa ne ha sconfitto una grande!\"",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo di Dawud/Davide come figura profetica e guerriera comune all'Ebraismo, al Cristianesimo e all'Islam."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

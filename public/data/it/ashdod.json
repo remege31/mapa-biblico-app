@@ -1,0 +1,192 @@
+{
+  "id": "ashdod",
+  "nombre": "Ashdod",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.803,
+  "lng": 34.6351,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 23,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I: Pentapoli filistea"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Ferro II - Città-stato filistea sotto la pressione israelita e assira"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: sotto il dominio persiano"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2",
+    "post_exilio"
+  ],
+  "descripcion_geo": "Ashdod (ebraico: אַשְׁדּוֹד; filisteo: Asdudu) era la più grande delle cinque città della Pentapoli filistea, situata sulla pianura costiera di Canaan a circa 5 km dal Mediterraneo e 35 km a nord di Gaza. Controllava la rotta costiera (Via Maris) tra Egitto e nord di Canaan. Il tell archeologico (Tel Ashdod) mostra un'occupazione ininterrotta dal Bronzo Medio al periodo ellenistico. La città bassa (“Ashdod-yam”, il porto) completava il sistema urbano. Con una superficie di 60 ettari al suo apice, era una delle città più grandi di Canaan durante Iron I-II.",
+  "altitud_m": 35,
+  "clima": "Mediterraneo costiero: estati calde e secche, moderate dalle brezze marine, inverni miti con precipitazioni di 400-500 mm. Suoli di fertile terra rossa (hamra) adatti all'agricoltura intensiva.",
+  "recursos": [
+    "Porto marittimo e accesso al commercio mediterraneo",
+    "Pianura costiera ad alta produttività agricola (grano, orzo, vite, olivo)",
+    "Controllo della Via Maris: principale via commerciale e militare",
+    "Industria tessile e della tintura viola",
+    "Artigianato del bronzo e del ferro: la metallurgia del ferro controllata Filistei"
+  ],
+  "importancia_estrategica": "Ashdod era la chiave settentrionale della Pentapoli filistea e il controllo della Via Maris la rendeva una città indispensabile per qualsiasi potenza volesse dominare il corridoio tra Egitto e Mesopotamia. La sua caduta davanti a Uzzia di Giuda (760 aC circa) e successivamente davanti agli Assiri di Sargon II (712 aC) segnano due momenti decisivi nell'espansione dei grandi imperi sulla costa cananea.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos",
+      "nombre": "Filistei",
+      "descripcion": "Gli Filistei, arrivati ​​come \"Popoli del Mare\" intorno al 1200 a.C., si stabilirono nella pianura costiera e fondarono la Pentapoli (Gaza, Ascalon, Ashdod, Accaron, Gat). Ad Ashdod fondarono il tempio principale di Dagon, il loro dio dell'agricoltura e del grano. Tecnologicamente avanzati nella metallurgia del ferro, mantennero la superiorità militare su Israele durante l'XI-X secolo a.C. La città ospitò anche una classe mercantile cosmopolita con contatti a Cipro, nell'Egeo e Egitto, come testimoniano ritrovamenti archeologici di ceramiche micenee e cipriote.",
+      "religion": "Politeismo filisteo - culto di Dagon (dio principale), Baal-Zebub (Accaron), Astarte. Sincretismo progressivo con i culti Cananei.",
+      "periodo": "C. 1200–600 a.C"
+    },
+    {
+      "id": "cananeos-ashdod",
+      "nombre": "Popolazione cananea prefilistea",
+      "descripcion": "Prima dell'arrivo dell'Filistei, Ashdod era una città cananea del tardo bronzo con collegamenti commerciali con Ugarit e Egitto. Gli scavi archeologici hanno rivelato che l'Filistei non ha sradicato la popolazione cananea ma piuttosto si è gradualmente fusa con essa. Nel IX secolo a.C., la distinzione culturale tra Filistei e Cananei ad Ashdod era già tenue, evidenziata dall'adozione filistea di nomi teoforici semitici e pratiche religiose cananee.",
+      "religion": "Politeismo Cananeo — Baal, Asera, Il",
+      "periodo": "Tardo Bronzo al c. 1100 a.C., con successiva graduale assimilazione"
+    },
+    {
+      "id": "judios-ashdod-postexilio",
+      "nombre": "Popolazione mista post-esilio",
+      "descripcion": "Neemia menziona che i figli dei matrimoni misti tra israeliti ritornati e donne di Ashdod non sapevano più parlare ebraico, ma solo \"la lingua di Ashdod\" (Neemia 13:24). Questi dati archeologico-linguistici rivelano che Ashdod post-esilio era una città multiculturale dove l’identità israelita rischiava di dissolversi, essendo uno dei problemi che Neemia affrontò con maggiore urgenza nella sua riforma.",
+      "religion": "Sincretismo: misto di Yahwismo e culti locali Cananei e Filistei",
+      "periodo": "Post-esilio, V-IV secolo a.C."
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca-dagon",
+      "titulo": "L'arca nel tempio di Dagon",
+      "fecha": "c. 1050 a.C.",
+      "descripcion": "Dopo la battaglia di Eben-ezer, gli Filistei catturarono l'Arca dell'Alleanza e la portarono ad Ashdod come trofeo di guerra, collocandola nel tempio di Dagon accanto alla statua del dio. La mattina dopo, trovarono Dagon caduto con la faccia a terra davanti all'arca. Lo sostituirono, ma il giorno dopo lo trovarono di nuovo caduto, questa volta con la testa e le mani mozzate sulla soglia. Contemporaneamente, una pestilenza devastante (emorragie, forse peste bubbonica trasmessa dai topi) colpì la città. Gli Ashdoditi inviarono l'arca a Gat, e da lì a Accaron, con identici risultati catastrofici. Dopo sette mesi, i signori Filistei accettarono di restituire l'arca a Israele con un'offerta di cinque tumori d'oro e cinque topi d'oro, uno per ciascuna città della Pentapoli.",
+      "referencias": [
+        "1 Sam 5:1-7",
+        "1 Sam 5:6-12",
+        "1 Sam 6:1-12"
+      ],
+      "personajes_clave": [
+        "dagon-sacerdotes"
+      ]
+    },
+    {
+      "id": "uzias-ashdod",
+      "titulo": "Uzzia abbatte le mura di Ashdod",
+      "fecha": "c. 760 a.C.",
+      "descripcion": "Re Uzzia di Giuda (chiamato anche Azariah) intraprese un'espansione militare sistematica verso ovest. Le sue truppe attaccarono Gat, Jabneh e Ashdod, abbatterono le loro mura e costruirono città nel territorio di Ashdod e tra gli Filistei. Questa campagna rappresentò l'apice del potere del regno di Giuda prima della minaccia assira. Lo scavo archeologico a Tell Ashdod ha confermato un livello di distruzione dell'VIII secolo che potrebbe corrispondere a questa campagna. La vittoria di Uzzia fa da sfondo anche al suo successivo orgoglio: volle offrire incenso nel tempio come sacerdote, fu colpito dalla lebbra e visse isolato fino alla morte.",
+      "referencias": [
+        "2 Cr 26:6-8",
+        "2 Re 15:1-7",
+        "Is 20:1"
+      ],
+      "personajes_clave": [
+        "uzias"
+      ]
+    },
+    {
+      "id": "sargon-ashdod",
+      "titulo": "La ribellione di Ashdod e la campagna di Sargon II",
+      "fecha": "712 a.C.",
+      "descripcion": "Il re Yamani di Ashdod guidò una coalizione anti-assira in cerca del sostegno di Egitto, Etiopia e Giuda. Sargon II di Assiria inviò il suo tartan (capo generale) per sedare la ribellione. Yamani fuggì a Egitto (o Etiopia), dove alla fine fu consegnato in catene agli Assiri. Ashdod fu trasformata in una provincia assira. Il profeta Isaia ha quindi agito come un segno profetico: ha camminato a piedi nudi e in mutande per tre anni per le strade di Gerusalemme per avvertire che questo è il modo in cui i prigionieri di Egitto e dell'Etiopia avrebbero marciato quando fossero caduti sotto Assiria: l'avvertimento era che Giuda non si fidasse di quei poteri. Le cronache di Sargon II, scoperte a Khorsabad, menzionano esplicitamente questa campagna.",
+      "referencias": [
+        "Is 20:1-6",
+        "2 Re 18:8"
+      ],
+      "personajes_clave": [
+        "isaias",
+        "yamani"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "uzias",
+      "nombre": "Uzzia (Azaria)",
+      "rol": "Re di Giuda nella sua massima espansione territoriale",
+      "periodo": "c. 792–740 a.C.",
+      "descripcion": "Uzzia era il re di Giuda che portò il regno alla sua più ampia estensione territoriale dai tempi di Salomone. Oltre alla sua campagna contro Ashdod, riorganizzò l'esercito con attrezzature metalliche avanzate, rafforzò le difese di Gerusalemme con torri e macchine da guerra e sviluppò l'agricoltura del Negev con cisterne e torri. Il suo lungo e prospero regno finì in tragedia: tentò di assumere funzioni sacerdotali nel tempio, fu colpito dalla lebbra e visse il resto della sua vita in una \"casa di isolamento\", mentre suo figlio Jotham governò come co-reggente. L'anno della sua morte segna l'inizio del ministero profetico di Isaia (Is 6,1).",
+      "referencias": [
+        "2 Cr 26:1-23",
+        "2 Re 15:1-7",
+        "Is 6:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias",
+      "nombre": "Isaia",
+      "rol": "Profeta di Gerusalemme, consigliere dei re durante la crisi assira",
+      "periodo": "c. 760–700 a.C.",
+      "descripcion": "Isaia ben Amos era il profeta di corte di Gerusalemme durante il periodo più critico dell'espansione assira. La sua azione nella crisi di Ashdod – camminare per tre anni in mutande come segno profetico – è uno dei gesti profetici più sorprendenti dell'Antico Testamento. Profeta dalla visione cosmica e storica, combinò l'annuncio del giudizio su Israele e sui suoi vicini con le più alte promesse messianiche dell'Antico Testamento. Il suo libro, il più lungo dei profeti, influenzò in modo decisivo la successiva teologia biblica ed è il più citato nel Nuovo Testamento.",
+      "referencias": [
+        "Is 1:1",
+        "Is 6:1-13",
+        "Is 20:1-6"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "yamani",
+      "nombre": "Yamani di Ashdod",
+      "rol": "Re ribelle di Ashdod che sfidò Assiria",
+      "periodo": "c. 713–712 a.C.",
+      "descripcion": "Yamani (\"il greco\" o \"lo ionico\", forse a indicare l'origine egea o mercenaria) fu un usurpatore che salì al trono di Ashdod e organizzò la più significativa ribellione anti-assira sulla costa cananea del suo tempo. Ha cercato la coalizione con Egitto, Etiopia, Moab, Edom e forse Giuda. Sono storicamente verificabili il suo nome nelle cronache assire (Ia-ma-ni) e la menzione della sua fuga nelle «lontane regioni dell'Etiopia» che lo consegnò in catene a Sargon. Il suo fallimento ha dimostrato che nessuna coalizione regionale potrebbe resistere al potere militare di Assiria al suo apice.",
+      "referencias": [
+        "Is 20:1",
+        "Inscripciones de Sargón II en Khorsabad"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ashdod è la scena dello scontro più diretto tra il Dio di Israele e una divinità rivale dell'intero OT: il crollo di Dagon davanti all'Arca dell'Alleanza. L'episodio funziona narrativamente come una processione anti-trionfante: il trofeo di guerra diventa il distruttore del santuario del vincitore. Teologicamente, il testo afferma che la cattura dell'arca non significò la sconfitta di Jahvè ma piuttosto il suo spostamento temporaneo in territorio nemico, dove continuò ad operare con piena sovranità.",
+    "religiones_presentes": [
+      "Politeismo filisteo – culto di Dagon come divinità principale",
+      "Yahvismo Israelita — presenza dell'arca come simbolo della presenza divina",
+      "Politeismo sincretizzato Cananeo — Baal, Astarte"
+    ],
+    "mitos": [
+      {
+        "id": "dagon-vs-yhwh",
+        "nombre": "La caduta di Dagon davanti all'arca",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 5:1-5",
+          "fuente_secundaria": "Talmud Bavli, Avodá Zará 44a; Midrash Samuel 13",
+          "descripcion": "L'episodio dell'arca ad Ashdod viene letto nella tradizione rabbinica come una dimostrazione della superiorità di Jahvè su tutti gli dei. Il Midrash Samuele sviluppa che il Filistei trovò Dagon \"prostrato davanti all'arca\" come servitore davanti al suo padrone. Il Talmud (Avodah Zara 44a) utilizza il passaggio per illustrare l'impotenza degli idoli: lo stesso Dagon fu il primo a \"riconoscere\" la sovranità di Jahvè. La peste che seguì fu interpretata come la conferma che la sovranità divina non poteva essere fermata dai confini geopolitici.",
+          "similitudes": "Tutte e tre le tradizioni condividono l'idea che gli idoli sono impotenti davanti al vero Dio.",
+          "diferencias": "L'ebraismo sottolinea l'assoluta sovranità territoriale di Jahvè; L'Islam porterebbe questo principio al tawhid assoluto (unità divina).",
+          "significado_teologico": "Jahvè non può essere \"catturato\" o confinato. La presenza divina opera anche in terre nemiche. L'arca è un segno della sovranità incontrollabile di Dio.",
+          "posible_relacion_cultural": "Dagon (דָּגוֹן) è una divinità semitica occidentale con radici nella Siria dell'età del bronzo medio (Ebla, Mari). Il suo nome potrebbe essere correlato a \"grano\" (dagan) o \"nuvola/pioggia\". I testi di Ugarit lo presentano come il padre di Baal."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 5:1-5; 1 Cor 8:4-6",
+          "fuente_secundaria": "Agustín, La Ciudad de Dios, I,1",
+          "descripcion": "I Padri della Chiesa utilizzarono l'episodio di Dagon come dimostrazione della falsità degli idoli, argomento apologetico centrale nel contesto del mondo politeistico greco-romano. Agostino ne La Città di Dio paragona la presenza dell'arca ad Ashdod alla situazione della Chiesa nell'impero romano: Dio opera in territorio ostile e finisce per trionfare senza bisogno della protezione umana. L'episodio prefigura anche, in una lettura tipologica, Cristo che entra nel regno della morte e lo sconfigge dal di dentro.",
+          "similitudes": "La sovranità divina che trascende i confini è identica in entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento reinterpreta il potere divino in termini di apparente debolezza e risurrezione, non di caduta fisica degli idoli.",
+          "significado_teologico": "L'apparente sconfitta (la cattura dell'arca) nasconde una vittoria più grande. Teologia della croce prima della lettera.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

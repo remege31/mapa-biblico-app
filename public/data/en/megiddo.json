@@ -1,0 +1,145 @@
+{
+  "id": "megiddo",
+  "nombre": "Megiddo",
+  "tipo": "ciudad",
+  "lat": 32.58,
+  "lng": 35.18,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 13,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "Strategic city at the Wadi Ara pass that connects the Sharon plain with the Jezreel valley; one of the most important archaeological sites in the world.",
+  "altitud_m": 60,
+  "clima": "Mediterranean",
+  "recursos": [
+    "agriculture",
+    "trade",
+    "strategic position",
+    "water"
+  ],
+  "importancia_estrategica": "Crossroads of the armies of the ancient world; In the Apocalypse its Greek name (Armageddon) is the scene of the final battle.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "meg_h1",
+      "titulo": "The Battle of Megiddo: Pharaoh Thutmose III",
+      "fecha": "ca. 1457 BC",
+      "descripcion": "Pharaoh Thutmose III defeats the Canaanite coalition at Megiddo; first detailed documented battle in history.",
+      "referencias": [
+        "Historia secular"
+      ],
+      "personajes_clave": [
+        "Tutmosis III"
+      ]
+    },
+    {
+      "id": "meg_h2",
+      "titulo": "The death of King Josiah in Megiddo",
+      "fecha": "609 BC",
+      "descripcion": "The reformer king Josiah goes out to meet Pharaoh Necho in Megiddo and is mortally wounded by an archer.",
+      "referencias": [
+        "2 Kgs 23:29-30",
+        "2 Chr 35:20-24"
+      ],
+      "personajes_clave": [
+        "Josías",
+        "Necao"
+      ]
+    },
+    {
+      "id": "meg_h3",
+      "titulo": "Megiddo in the prophecies and the Apocalypse",
+      "fecha": "ca. 95 AD",
+      "descripcion": "The Apocalypse uses the Greek name of Megiddo ('Armageddon') as the location of the final eschatological battle.",
+      "referencias": [
+        "Rev 16:16"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "meg_p1",
+      "nombre": "Josiah",
+      "rol": "Reformer King by Judah",
+      "periodo": "640-609 BC",
+      "descripcion": "Died in Megiddo; His death was mourned like that of no other king: he became a paradigm of the suffering of the just.",
+      "referencias": [
+        "2 Kgs 23:29"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p2",
+      "nombre": "Barak",
+      "rol": "Israel Judge",
+      "periodo": "ca. 1125 BC",
+      "descripcion": "With Deborah, he defeated Sisera's army in the waters of Megiddo.",
+      "referencias": [
+        "Judg 5:19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "meg_p3",
+      "nombre": "Deborah",
+      "rol": "prophetess and judge",
+      "periodo": "ca. 1125 BC",
+      "descripcion": "The song of Deborah mentions the kings of Canaan who fought in Megiddo.",
+      "referencias": [
+        "Judg 5:19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Megiddo: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "meg_m1",
+        "nombre": "Armageddon: the battle of the ages",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Megiddo was the scene of so many decisive battles that its name became a symbol of the place of the definitive confrontation between good and evil.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Megiddo was the scene of so many decisive battles that its name became a symbol of the place of the definitive confrontation between good and evil.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Rev 16:16",
+          "fuente_secundaria": "",
+          "descripcion": "The Apocalypse calls 'Armageddon' (mountain Megiddo) the place of the final battle between God and the forces of evil (Rev 16:16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The Apocalypse calls 'Armageddon' (mountain Megiddo) the place of the final battle between God and the forces of evil (Rev 16:16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "tabor_mount",
+  "nombre": "Mount Tabor",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 32.68695640243183,
+  "lng": 35.39091304299688,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "monte",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Victory of Deborah and Barak against Sisera"
+    }
+  ],
+  "descripcion_geo": "Mountain with a distinctive conical shape that rises abruptly above the plain of Jezreel, on the border between the territories of Zebulun, Issachar and Naphtali, visible from a great distance and used as a strategic military concentration point due to its dominant position over the plain.",
+  "altitud_m": 575,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the lower Galilee region.",
+  "recursos": [
+    "Dominant elevated position over the Jezreel plain",
+    "Strategic military concentration point",
+    "Tribal boundary between Zebulun, Issachar and Naphtali"
+  ],
+  "importancia_estrategica": "Mount Tabor is the rallying point chosen by Deborah to gather the Israelite army of ten thousand men before descending against Sisera's forces on the plain, taking advantage of the elevated position as an initial tactical advantage before the decisive confrontation along the Kishon River.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_tabor",
+      "nombre": "Tribes of Zebulun and Naphtali",
+      "descripcion": "Tribal contingents summoned by Deborah and Barak to gather on Mount Tabor before the decisive battle against Sisera.",
+      "religion": "Yahwism",
+      "periodo": "c. 1150 BC"
+    },
+    {
+      "id": "cananeos_ejercito_tabor",
+      "nombre": "Canaanite Army of Sisera",
+      "descripcion": "Hazor Jabin forces under the command of General Sisera, who position themselves on the plain to confront the Israelite troops concentrated on the Tabor.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 1150 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "debora-convoca-barac-tabor",
+      "titulo": "Deborah summons Barak to Mount Tabor",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Deborah orders Barak, by YHWH's command, to gather ten thousand men from Naphtali and Zebulun on Mount Tabor, promising him that YHWH will draw Sisera and his army to the River Kishon to deliver them into his hands.",
+      "referencias": [
+        "Judg 4:6-7"
+      ],
+      "personajes_clave": [
+        "debora",
+        "barac"
+      ]
+    },
+    {
+      "id": "barac-condicion-debora-tabor",
+      "titulo": "Barac conditions his participation to the presence of Débora",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Barak responds that he will only go up Tabor if Deborah accompanies him; She agrees, but warns him that the honor of victory will not be his, but that YHWH will deliver Sisera into the hand of a woman, anticipating the subsequent outcome with Jael.",
+      "referencias": [
+        "Judg 4:8-9"
+      ],
+      "personajes_clave": [
+        "debora",
+        "barac"
+      ]
+    },
+    {
+      "id": "descenso-batalla-tabor",
+      "titulo": "Barak descends from Tabor for the decisive battle",
+      "fecha": "c. 1150 BC",
+      "descripcion": "Once the troops had gathered on the Tabor and Sisera had positioned himself with his nine hundred iron chariots on the plain, Barak descended from the mountain by order of Deborah; YHWH defeats Sisera and his entire army before Israel, possibly through a sudden storm that renders the chariots useless in the mud of Kishon.",
+      "referencias": [
+        "Judg 4:14-16"
+      ],
+      "personajes_clave": [
+        "barac"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "debora_tabor",
+      "nombre": "Deborah",
+      "rol": "Judge and prophetess of Israel",
+      "periodo": "hierro_1",
+      "descripcion": "He strategically directs the concentration of troops on Mount Tabor and personally accompanies Barak, ensuring the execution of the divine plan of liberation against Canaanite oppression.",
+      "referencias": [
+        "Judg 4:6-10",
+        "Judg 4:14"
+      ],
+      "ruta": [
+        "tabor_mount"
+      ]
+    },
+    {
+      "id": "barac_tabor",
+      "nombre": "Barak",
+      "rol": "Israelite general, originally from Kedesh",
+      "periodo": "hierro_1",
+      "descripcion": "He gathers and directs the troops concentrated on the Tabor, conditioning their participation on the presence of Deborah, and leads the decisive descent towards victory over Sisera.",
+      "referencias": [
+        "Judg 4:6-16"
+      ],
+      "ruta": [
+        "kedesh",
+        "tabor_mount"
+      ]
+    },
+    {
+      "id": "sisara_tabor",
+      "nombre": "Sisera",
+      "rol": "General of Jabin's army Canaanite",
+      "periodo": "c. 1150 BC",
+      "descripcion": "He positions his nine hundred iron chariots on the plain in front of the Tabor, being decisively defeated when Israel descends from the mountain, an episode that culminates shortly after in his own death at the hands of Jael.",
+      "referencias": [
+        "Judg 4:13-16"
+      ],
+      "ruta": [
+        "tabor_mount"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Mount Tabor is the scene of one of the founding episodes of the military theology of the Book of Judges: the victory of Israel is explicitly attributed to YHWH's direct intervention in disrupting the Canaanite army, not to Israelite military superiority against the fearsome nine hundred iron chariots of Sisera, establishing the recurring pattern of providential victory that characterizes the entire cycle of the judge-liberators.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (defeated army)"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-debora-barac-tabor",
+        "nombre": "The victory of Deborah and Barak from Mount Tabor",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 4:1-16; Jue 5:1-31 (Cántico de Débora)",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el liderazgo profético y militar conjunto de Débora y Barac, y el extenso Cántico de Débora como uno de los poemas más antiguos de la literatura hebrea",
+          "descripcion": "Jewish tradition especially values ​​the dual leadership of Deborah and Barak from Tabor as a model of cooperation between female prophetic authority and male military leadership, and considers the Song of Deborah commemorating the victory as one of the oldest poetic texts preserved in the entire Hebrew Bible, a valuable historical source on the early tribal organization of Israel.",
+          "similitudes": "It shares with Christianity the recognition of Deborah as a figure of exceptional prophetic leadership.",
+          "diferencias": null,
+          "significado_teologico": "The victory from Tabor confirms that YHWH can use both men and women as instruments of liberation, without gender determining the leadership capacity granted by the divine call.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Judg 4:1-16 (recepción patrística sobre Débora como modelo de liderazgo profético femenino)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que citan a Débora como precedente de autoridad espiritual femenina legítima",
+          "descripcion": "Christian tradition takes up Deborah, along with her decisive role in the victory of Tabor, as a significant biblical precedent of female spiritual leadership, cited in various contexts throughout the history of Christian interpretation to argue about women's roles of religious authority.",
+          "similitudes": "It shares with Jewish reading the positive assessment of Deborah's leadership as a legitimate prophetic model.",
+          "diferencias": "Later Christian readings often develop the episode in the context of specific ecclesiastical debates about female leadership, absent in the original Jewish reading.",
+          "significado_teologico": "The Tabor episode becomes a recurring biblical reference in Christian discussions about the legitimacy of spiritual and prophetic leadership exercised by women.",
+          "posible_relacion_cultural": "Shared reception of the cycle of Judges as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "tab_nt_h1",
+        "titulo": "The Transfiguration of Jesus",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Jesus is transfigured before Peter, Santiago and Juan: his face shines and he converses with Moses and Elijah.",
+        "referencias": [
+          "Matt 17:1-8",
+          "Mark 9:2-8",
+          "Luke 9:28-36"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "tab_nt_h2",
+        "titulo": "The Father's voice in the cloud",
+        "fecha": "ca. 29 AD",
+        "descripcion": "A luminous cloud surrounds them and the Father's voice says: 'This is my beloved Son; listen to him.",
+        "referencias": [
+          "Matt 17:5"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      },
+      {
+        "id": "tab_nt_h3",
+        "titulo": "The descent and cure of the epileptic",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Upon descending from Tabor, Jesus heals an epileptic child that the disciples had not been able to heal.",
+        "referencias": [
+          "Matt 17:14-18"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "tab_nt_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "transfigured messiah",
+        "periodo": "ca. 29 AD",
+        "descripcion": "He revealed his divine glory on Mount Tabor before three select witnesses.",
+        "referencias": [
+          "Matt 17:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tab_nt_p2",
+        "nombre": "Peter",
+        "rol": "Witness Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "He proposed building three stores; His experience on Tabor founded his testimony about the glory of Christ.",
+        "referencias": [
+          "Matt 17:4",
+          "2 Pet 1:16-18"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "tab_nt_p3",
+        "nombre": "Moses and Elijah",
+        "rol": "Representatives of the Law and the Prophets",
+        "periodo": "s. I AD",
+        "descripcion": "They appeared alongside Jesus at the Transfiguration, symbolizing that the Law and the Prophets point to Christ.",
+        "referencias": [
+          "Matt 17:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Isolated mountain of Galilee that tradition identifies as the place of the Transfiguration; scene of the revelation of divine glory by Jesus.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "tab_nt_m1",
+          "nombre": "The Transfiguration",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": {
+            "fuente_primaria": "Talmud / Tradición judía",
+            "fuente_secundaria": "",
+            "descripcion": "Sinai was the mountain of God's revelation to Moses; the Tabor becomes its New Testament equivalent.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Sinai was the mountain of God's revelation to Moses; the Tabor becomes its New Testament equivalent.",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "On Tabor, Jesus reveals his divine glory and receives the heavenly testimony of being the Son of God, fulfillment of the Law (Moses) and the Prophets (Elijah).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "On Tabor, Jesus reveals his divine glory and receives the heavenly testimony of being the Son of God, fulfillment of the Law (Moses) and the Prophets (Elijah).",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

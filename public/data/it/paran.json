@@ -1,0 +1,144 @@
+{
+  "id": "paran",
+  "nombre": "Deserto del Paran",
+  "tipo": "region_natural",
+  "subtipo_natural": "desierto",
+  "lat": 29.15,
+  "lng": 33.54,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 9,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Vasto deserto a sud di Canaan e a nord di Sinai; scena del pellegrinaggio di Hagar alle spie di Ismaele e Mosè.",
+  "altitud_m": 500,
+  "clima": "arido",
+  "recursos": [
+    "pascolo",
+    "caccia"
+  ],
+  "importancia_estrategica": "Territorio di transito tra Sinai e Canaan; sede di Ismaele e percorso di pellegrinaggio israelita.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "par_h1",
+      "titulo": "Agar e Ismaele nel deserto del Paran",
+      "fecha": "ca. 1900-1800 a.C.",
+      "descripcion": "Espulsa da Sara, Agar vaga per il deserto di Bersabea e Paran; Ismaele si stabilisce lì e Hagar cerca la moglie di Egitto.",
+      "referencias": [
+        "Gen 21:14-21"
+      ],
+      "personajes_clave": [
+        "Agar",
+        "Ismael"
+      ]
+    },
+    {
+      "id": "par_h2",
+      "titulo": "Il campo Israele a Paran",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Gli Israeliti si accampano nel deserto di Paran prima di inviare le spie; lì ricevono il rapporto negativo.",
+      "referencias": [
+        "Nm 12:16",
+        "Nm 13:3"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "par_h3",
+      "titulo": "Davide nel deserto del Paran",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Quando Samuele muore, Davide scende nel deserto di Paran dove vive Nabal il ricco.",
+      "referencias": [
+        "1 Sam 25:1"
+      ],
+      "personajes_clave": [
+        "David",
+        "Nabal"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "par_p1",
+      "nombre": "Ismaele",
+      "rol": "Padre degli arabi",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Si stabilì nel deserto di Paran; Dio ascoltò il suo grido e promise di farne una grande nazione.",
+      "referencias": [
+        "Gen 21:20"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p2",
+      "nombre": "Agar",
+      "rol": "Madre di Ismaele",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Trovò l'angelo del Signore nel deserto; Dio ascoltò il grido di suo figlio a Paran.",
+      "referencias": [
+        "Gen 21:17"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "par_p3",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Mandò le dodici spie dal deserto di Paran in ricognizione Canaan.",
+      "referencias": [
+        "Nm 13:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Deserto del Paran: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "par_m1",
+        "nombre": "Il Dio che ascolta nel deserto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 21,17",
+          "fuente_secundaria": "",
+          "descripcion": "Dio udì il grido di Ismaele nel deserto di Paran (Gen 21,17); Il deserto è il luogo dove Dio ascolta colui che nessun altro sente.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Dio udì il grido di Ismaele nel deserto di Paran (Gen 21,17); Il deserto è il luogo dove Dio ascolta colui che nessun altro sente.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Cor 2,125",
+          "fuente_secundaria": "",
+          "descripcion": "Il Corano narra che Dio ascoltò Ismaele (Ismail) nel deserto e gli promise di renderlo padre di una grande nazione (Cor 2,125).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Il Corano narra che Dio ascoltò Ismaele (Ismail) nel deserto e gli promise di renderlo padre di una grande nazione (Cor 2,125).",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio"
+  ]
+}

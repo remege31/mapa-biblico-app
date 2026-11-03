@@ -1,0 +1,170 @@
+{
+  "id": "beth_horon_lower",
+  "nombre": "Bethhoron Lower",
+  "tipo": "ciudad",
+  "lat": 31.87892595986906,
+  "lng": 35.12356744466153,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Battle of Gibeon, Ephraimite city on the border with Benjamin"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomonic Fortification"
+    }
+  ],
+  "descripcion_geo": "City at the lower end of the famous Beth-horon pass, an ascent route of about 600 meters of elevation between the valley of Aijalon and the central plateau of Benjamin/Ephraim, one of the most important and disputed communication routes between the coastal plain and Jerusalem. It forms a pair with Bet-horón la Alta (located higher up in the same step).",
+  "altitud_m": 400,
+  "clima": "Transitional Mediterranean — dry summers, rainy winters, intermediate climate between the coast and the mountains due to the position on the slope of the pass.",
+  "recursos": [
+    "Control of the strategic passage of Bet-horón",
+    "Terraced agricultural land",
+    "Fortifiable position on the coastal route-Jerusalem"
+  ],
+  "importancia_estrategica": "The Beth-horon Pass is the most used military route in biblical history to access Jerusalem from the coastal plain, which is why it appears repeatedly in war stories: the pursuit of Joshua after Gibeon, the Solomonic fortification of the kingdom's defensive system, and centuries later episodes of the Maccabean War. Whoever controls Beth-horon controls the most direct military access to the mountainous heart of Judah-Israel.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_bethoron",
+      "nombre": "Canaanites",
+      "descripcion": "Original population of the pass before the Israelite conquest, controlling a naturally valuable transit point between the coast and the mountains.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "Prior to c. 1200 BC"
+    },
+    {
+      "id": "efraimitas_bethoron",
+      "nombre": "Tribe of Ephraim",
+      "descripcion": "Lower Beth-horon is assigned to the territory of Ephraim, on the border with Benjamin, forming part of the system of cities that secured the western flank of the central tribes.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "persecucion-bethoron-gabaon",
+      "titulo": "The rise of Bet-horón in the pursuit of Gibeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "After the defeat of the coalition of five Amorites kings in Gibeon, Israel pursues the fleeing armies along the path of the climb from Beth-horon to Azekah and Makkedah, while YHWH throws large hailstones on the fugitives, killing more enemies with the hail than with the Israelite sword.",
+      "referencias": [
+        "Josh 10:10-11"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "fortificacion-salomon-bethoron",
+      "titulo": "Solomon fortifies Lower Beth-horon",
+      "fecha": "c. 970–931 BC",
+      "descripcion": "Solomon rebuilds and fortifies Upper and Lower Beth-horon as part of the system of storage cities, chariots, and horsemen that secure the kingdom's strategic routes, along with Baalat and Tadmor.",
+      "referencias": [
+        "2 Chr 8:5",
+        "1 Kgs 9:17"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "construccion-asignacion-bethoron",
+      "titulo": "Allocation and reconstruction of Beth-horon",
+      "fecha": "c. 1400–1200 BC (genealogía), c. 1200 BC (asignación)",
+      "descripcion": "The chronicler genealogies attribute the founding or reconstruction of the two Beth-horon to Seerah, daughter of Ephraim, linking the origin of the city to the tribe that would receive the territory after the conquest.",
+      "referencias": [
+        "1 Chr 7:24",
+        "Josh 16:3-5"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_bethoron",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Military Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the pursuit of the Amorites armies up the slope of Beth-horon after the victory of Gibeon, an episode accompanied by the prodigy of hail and, immediately afterwards, the sun standing still over the neighboring valley of Aijalon.",
+      "referencias": [
+        "Josh 10:10-14"
+      ],
+      "ruta": [
+        "gibeon",
+        "beth_horon_lower",
+        "aijalon",
+        "makkedah"
+      ]
+    },
+    {
+      "id": "salomon_bethoron",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of fortifications",
+      "periodo": "hierro_2",
+      "descripcion": "He ordered the fortification of Lower Beth-horon as part of the defensive system of garrison cities that protected the access routes to the kingdom.",
+      "referencias": [
+        "2 Chr 8:1-6",
+        "1 Kgs 9:15-19"
+      ],
+      "ruta": [
+        "jerusalen",
+        "beth_horon_lower"
+      ]
+    },
+    {
+      "id": "seera",
+      "nombre": "It will be",
+      "rol": "Daughter of Ephraim, builder according to chronicler genealogy",
+      "periodo": "Genealógico, anterior a la conquista",
+      "descripcion": "Mentioned in the genealogical lists of 1 Chronicles as the builder of Lower and Upper Bethhoron, one of the few women to whom the biblical text explicitly attributes the founding of cities.",
+      "referencias": [
+        "1 Chr 7:24"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beth-horon the Lower is religiously associated with the same episode of the divine hail that accompanies the persecution of Joshua, presented by Deuteronomist theology as direct intervention of YHWH in combat alongside Israel, in immediate parallel with the miracle of the sun stopped in Aijalon. Its later fortification under Solomon further reflects the consolidation of Yahwist-Davidic control over the strategic routes of the United Kingdom.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Polytheism Canaanite (original population)"
+    ],
+    "mitos": [
+      {
+        "id": "granizo-bethoron",
+        "nombre": "The divine hail on the rise of Beth-horon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 10:10-11",
+          "fuente_secundaria": "Comentario rabínico tradicional que vincula el granizo de Bet-horón con el granizo de la plaga de Egipto como segunda manifestación del mismo tipo de juicio divino",
+          "descripcion": "Jewish tradition connects this hail with that of the plagues of Egypt, reading both episodes as manifestations of the same divine resource of judgment reserved especially for the enemies of Israel at decisive moments in its history.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The prodigy reinforces the idea that Israel's military victory does not depend solely on human strength but on the direct intervention of YHWH as a divine warrior.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josh 10:10-11 (recepción patrística como ejemplo de juicio divino mediante fenómenos naturales)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos sobre el paralelismo entre el granizo de Egipto y el de Bet-horón",
+          "descripcion": "The ancient Christian tradition takes up the episode within the catalog of Old Testament prodigies that demonstrate divine lordship over nature in the service of the salvation of his people.",
+          "similitudes": "It shares with the Jewish reading the typological connection with the hail of the plagues of Egypt.",
+          "diferencias": "The Christian reading usually integrates the episode into a broader typological chain of liberation, eventually linking it to themes of eschatological judgment.",
+          "significado_teologico": "Hail is interpreted as a sign of the divine power that accompanies and precedes human action in the history of salvation.",
+          "posible_relacion_cultural": "Shared reception of the book of Joshua and the cycle of plagues of Egypt as sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

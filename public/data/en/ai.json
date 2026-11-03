@@ -1,0 +1,178 @@
+{
+  "id": "ai",
+  "nombre": "Ai",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.917,
+  "lng": 35.2612,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 39,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Late Bronze — Conquest of Canaan"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio"
+  ],
+  "descripcion_geo": "Ai (Hebrew: הָעַי, 'the ruin') was a Canaanite city located in the Benjamin Highlands, east of Bethel, about 15 km north of Jerusalem. Located on a hill approximately 900 meters above sea level, it controlled a strategic passage into the heart of Canaan from the Jordan Valley. The site identified with Ai (et-Tell) was excavated in the 20th century, revealing a city that was already in ruins during the Late Bronze period, which has generated continued archaeological debate over its exact identification.",
+  "altitud_m": 900,
+  "clima": "High Mediterranean — cold winters with occasional snow showers, dry and hot summers. Westerly winds bring humidity from the Mediterranean.",
+  "recursos": [
+    "Limestone for construction",
+    "Cattle pastures in the surrounding hills",
+    "Elevated defensive position with wide visibility",
+    "Access to trade routes to Bethel and the interior of Canaan"
+  ],
+  "importancia_estrategica": "Ai controlled the ascent route from Adam's Ford on the Jordan into the central highlands of Canaan. His fall opened the way to Bethel and the heart of the Canaanite territory. It was the second city attacked by Israel after Jericho, and its initial defeat revealed the fragility of Israelite morality in the face of disobedience.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-ai",
+      "nombre": "Canaanites by Ai",
+      "descripcion": "Canaanite population that inhabited the city-state of Ai and its dependent villages. Under the leadership of their king, they inflicted Israel its first military defeat on Canaan, killing 36 Israelite soldiers in the initial ambush. Their temporary victory turned into definitive defeat when Israel, purified of Achan's sin, applied an ambush tactic that lured Ai's army outside its walls.",
+      "religion": "Canaanite polytheism — worship of Baal, Asherah and local deities of the heights",
+      "periodo": "Late Bronze, before c. 1220 BC"
+    },
+    {
+      "id": "habitantes-betel-ai",
+      "nombre": "Bethel Allies",
+      "descripcion": "In the second attack on Ai, the king of Bethel sent troops in support of Ai (Josh 8:17), indicating a political-military alliance between the two neighboring cities. This regional coalition was characteristic of the Canaanite city-states of the Late Bronze Age, which cooperated in the face of external threats.",
+      "religion": "Polytheism Canaanite — Bethel ('House of God') had special relevance as a place of worship in the heights",
+      "periodo": "Late Bronze, c. 1220 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "primera-derrota-ai",
+      "titulo": "The first defeat: the sin of Achan",
+      "fecha": "c. 1220 BC",
+      "descripcion": "After the fall of Jericho, Joshua sent spies to Ai who returned with an optimistic report: two or three thousand men were enough to take it. The initial attack was a disaster: Ai's defenders chased the Israelites down the hill and killed thirty-six men. The heart of the town melted like water. The defeat was not military but spiritual: Achan, of the tribe of Judah, had secretly taken a Babylonian cloak, two hundred shekels of silver and a gold ingot from the loot of Jericho, which was consecrated to the divine anathema. Divination by lots pointed to Achan, who confessed and was stoned with his family in the Valley of Achor. A large pile of stones was built over his body and remained as a memorial.",
+      "referencias": [
+        "Josh 7:1-26",
+        "Josh 7:2-5",
+        "Josh 7:19-25"
+      ],
+      "personajes_clave": [
+        "josue",
+        "acan"
+      ]
+    },
+    {
+      "id": "conquista-ai",
+      "titulo": "The ambush and the fall of Ai",
+      "fecha": "c. 1220 BC",
+      "descripcion": "With the camp purified, Yahweh ordered Joshua a double movement strategy. At night, Joshua posted thirty thousand chosen warriors west of the city, hidden. At dawn, Joshua advanced frontally with the bulk of the army. The defenders of Ai, confident from their previous victory, set out in pursuit, leaving the city without a garrison. Then the signal: Joshua extended his spear towards Ai and the ambush emerged, took the city and set it on fire. Those of Ai, caught between two Israelite groups, were annihilated. The king of Ai was captured alive, hanged at dusk, and buried under a pile of stones at the entrance to the city. Ai remained forever 'a tell, a desolation', fulfilling the meaning of its name.",
+      "referencias": [
+        "Josh 8:1-29",
+        "Josh 8:18-19",
+        "Josh 8:28-29"
+      ],
+      "personajes_clave": [
+        "josue",
+        "rey-ai"
+      ]
+    },
+    {
+      "id": "renovacion-alianza-ebal",
+      "titulo": "Covenant Renewal on Mount Ebal",
+      "fecha": "c. 1220 BC",
+      "descripcion": "Immediately after the conquest of Ai, Joshua led all Israel—men, women, children, and resident foreigners—to the north, between Mounts Ebal and Gerizin, near Shechem. There he built an altar of unhewn stones, offered burnt offerings and communion sacrifices, and inscribed on whitewashed stones a copy of the law of Moses. The ark of the covenant occupied the center while the Levitical priests remained at its side. Joshua read aloud all the words of the law—blessings and curses—before the entire assembly. This act, direct fulfillment of the instruction of Moses (Dt 27), turned military victory into renewal of identity: Israel was not only a conquering army but an alliance community with its God.",
+      "referencias": [
+        "Josh 8:30-35",
+        "Deut 27:2-8",
+        "Deut 11:29"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue",
+      "nombre": "Joshua",
+      "rol": "Moses's successor, Israel's military commander",
+      "periodo": "bronce_tardio",
+      "descripcion": "Joshua ben Nun, of the tribe of Ephraim, was the leader who led Israel from the desert to the promised land. Moses's personal servant and one of the two spies (along with Caleb) who gave a faith report on Canaan, he was appointed Moses's successor before his death. In Ai, Joshua experienced both the humiliation of initial defeat and the triumph of the ambush strategy. The gesture of extending his spear towards the city—keeping his arm extended until total destruction, like Moses in Rephidim—presents him as a mediator between divine and military action.",
+      "referencias": [
+        "Josh 1:1-9",
+        "Josh 7:6-9",
+        "Josh 8:18-26"
+      ],
+      "ruta": [
+        "jericho",
+        "ai",
+        "shechem",
+        "gibeon",
+        "jerusalen",
+        "hebron"
+      ]
+    },
+    {
+      "id": "acan",
+      "nombre": "Achan",
+      "rol": "Israelite warrior by Judah, protagonist of the sin of anathema",
+      "periodo": "c. 1220 BC",
+      "descripcion": "Achan ben Carmi, of the family of Zeraj, tribe of Judah, is the tragic figure of the Ai campaign. His transgression—taking objects from the anathema (herem) of Jericho—was not an individual act without collective consequences: his secret sin caused the death of 36 Israelites and the first military defeat of the conquest. When he confessed before Joshua, he named exactly what he took: a robe from Shinar (Babylonian), two hundred shekels of silver, and a fifty-shekel ingot of gold. Their story is the founding story of the principle of corporate solidarity in Israel: individual loyalty makes or breaks the entire community.",
+      "referencias": [
+        "Josh 7:1",
+        "Josh 7:18-25",
+        "1 Chr 2:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "rey-ai",
+      "nombre": "King by Ai",
+      "rol": "Monarch of the city-state of Ai",
+      "periodo": "c. 1220 BC",
+      "descripcion": "The biblical text does not preserve the name of the king of Ai, which was customary for kings of minor city-states in the narrative of Joshua. His initial victory over the first Israelite expedition made him a symbol of Israel's vulnerability to disobedience. Captured alive during the ambush while his troops were trapped between two Israelite forces, he was executed at dusk—as the texts of Deuteronomy prescribed—and buried under a pile of stones at the entrance of the city, a mirror of the fate of Achan in the Valley of Achor.",
+      "referencias": [
+        "Josh 8:23",
+        "Josh 8:29",
+        "Josh 12:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ai represents in the biblical narrative the theological principle of herem (anathema): the total consecration of the victory to God, with complete destruction of the spoils. The transgression of Achan introduces the notion that the holiness of the camp—and thus divine favor in battle—is collective: the sin of one defiles all. The subsequent renewal of the alliance at Mount Ebal, carried out immediately after the conquest of Ai, underscores that the conquest of Canaan was not a military campaign but a sacred mission of establishing the Yahweh alliance on earth.",
+    "religiones_presentes": [
+      "Israelite Yahwism — Herem system and the Sinaitic alliance",
+      "Canaanite polytheism — worship of Baal and deities of the heights"
+    ],
+    "mitos": [
+      {
+        "id": "herem-ai",
+        "nombre": "The anathema (herem) and the sanctity of the conquest",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 7:1-26; Dt 7:1-6",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 44a — 'Toda Israel son responsables unos por otros'",
+          "descripcion": "The concept of herem (חֵרֶם) designates total consecration to God through destruction. In Jericho, all living things and precious metal were under anathema; Achan by taking anathematized objects for himself transferred the impurity to all of Israel. The Talmud (Sanhedrin 44a) uses this episode to establish the principle of corporate solidarity (kol Israel arevim ze baze). Achan's voluntary confession before his execution was rabbinically interpreted as an act that assured him portion in the world to come.",
+          "similitudes": "The idea that individual transgression affects the community appears in all three Abrahamic traditions.",
+          "diferencias": "The herem as God-ordained mass destruction is specific to the context of biblical conquest; It has no direct equivalent in Islam.",
+          "significado_teologico": "Military victory depends on the moral purity of the camp. The alliance with Yahweh is collective: the fidelity or infidelity of an individual determines the destiny of the group.",
+          "posible_relacion_cultural": "The concept of holy war with total destruction of loot has parallels in Moabite inscriptions (Stele of Mesha) where King Mesha applies the herem in the name of Kemosh, his national god."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Heb 11:30-31; 1 Cor 5:6-7",
+          "fuente_secundaria": "Orígenes, Homilías sobre Josué, VIII",
+          "descripcion": "The patristic tradition read the story of Ai in an allegorical key: Achan represents the hidden sin that weakens the entire Church. Paul in 1 Cor 5:6-7 applies exactly this principle—'a little yeast leavens the whole dough'—to a case of sin in the Corinthian community. Origen interpreted the conquest of Canaan as an image of the spiritual battle of the soul against vices, and Joshua (whose name in Greek is Jesus) as a prefiguration of Christ who guides the people to the true promised land.",
+          "similitudes": "Collective responsibility for individual sin appears in Pauline ecclesiology with the same intensity as in the Joshua text.",
+          "diferencias": "Christianity rejects the literal violence of the herem; He reinterprets it as spiritual combat and moral purification of the community.",
+          "significado_teologico": "Joshua as a type of Christ: the identical name (Yeshua/Jesus) was for the Fathers a sign that the conquest of Canaan prefigured the spiritual redemption of humanity.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

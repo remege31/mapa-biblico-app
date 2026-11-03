@@ -1,0 +1,165 @@
+{
+  "id": "engedi",
+  "nombre": "Engadi",
+  "tipo": "ciudad",
+  "lat": 31.46152536164766,
+  "lng": 35.39241108242345,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2100,
+      "hasta": -1500,
+      "nombre": "Età del Bronzo Medio: Vittoria di Chedorlaomer"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: rifugio Davide, oasi nel deserto Giuda"
+    }
+  ],
+  "descripcion_geo": "Oasi fertile sulla costa occidentale del Mar Salato, alimentata da sorgenti di acqua dolce che scendono dalle scogliere desertiche di Giuda, creando un vivido contrasto tra l'aridità circostante e la lussureggiante vegetazione tropicale dell'oasi stessa, comprese le grotte naturali nelle vicine scogliere.",
+  "altitud_m": -200,
+  "clima": "Deserto con oasi - estremamente caldo e arido nell'ambiente generale, ma con microclima umido e fitta vegetazione nella zona irrigata dalle sorgenti.",
+  "recursos": [
+    "Sorgenti d'acqua dolce permanenti",
+    "Vegetazione tropicale e subtropicale (palme, piante balsamiche)",
+    "Grotte rifugio naturale nelle vicine scogliere"
+  ],
+  "importancia_estrategica": "Engadi è uno dei rifugi più significativi di Davide durante la fuga da Saul grazie alla sua combinazione unica di acqua abbondante, vegetazione che consente l'occultamento e un sistema di grotte difendibile in terreni desertici estremi; secoli prima, appare anche come un punto nella campagna militare di Chedorlaomer nel ciclo Abramo.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_engadi",
+      "nombre": "Amorrei (abitanti di Hazezon-tamar)",
+      "descripcion": "Popolazione amorrea della regione identificata con l'antico nome di Engedi (“Hazezon-tamar”), sconfitta dalla coalizione Chedorlaomer nel ciclo di Abramo.",
+      "religion": "Politeismo amorreo",
+      "periodo": "C. 2050 a.C. (narrativa, era Abramo)"
+    },
+    {
+      "id": "judaitas_engadi",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Popolazione ebraica della regione desertica nei pressi di Engedi, territorio che Davide percorre durante il suo periodo da latitante.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1015 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "quedorlaomer-hazezon-tamar",
+      "titulo": "Chedorlaomer sconfigge l'Amorrei a Hazezon-tamar",
+      "fecha": "c. 2050 a.C. (narrativa, época de Abraham)",
+      "descripcion": "Nella loro campagna attraverso la Transgiordania e il sud di Canaan, la coalizione di quattro re orientali guidati da Chedorlaomer sconfigge il Amorrei di Hazezon-tamar, identificato dalla tradizione biblica con Engedi, un episodio precedente alla cattura di Lot a Sodoma.",
+      "referencias": [
+        "Gen 14:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "david-cueva-engadi-saul",
+      "titulo": "Davide perdona Saul in una grotta a Engedi",
+      "fecha": "c. 1014 a.C.",
+      "descripcion": "Mentre Saul insegue Davide attraverso le scogliere delle capre di montagna vicino a Engedi, entra da solo per riposare proprio nella grotta più profonda dove si nascondevano Davide e i suoi uomini; Davide taglia furtivamente il bordo del mantello di Saul ma si rifiuta di attentare alla sua vita, mostrandogli poi la prova che avrebbe potuto ucciderlo senza farlo.",
+      "referencias": [
+        "1 Sam 24:1-22"
+      ],
+      "personajes_clave": [
+        "david",
+        "saul"
+      ]
+    },
+    {
+      "id": "cantar-cantares-engadi",
+      "titulo": "Engedi nel Cantico dei Cantici",
+      "fecha": "Atribución salomónica tradicional",
+      "descripcion": "L'amata del Cantico dei Cantici paragona il suo amante a \"un grappolo di fiori di henné nelle vigne di Engedi\", utilizzando l'eccezionale fertilità dell'oasi come metafora della bellezza e del desiderio in uno dei passaggi poetici più famosi della letteratura sapienziale biblica.",
+      "referencias": [
+        "Ct 1:14"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_engadi",
+      "nombre": "Davide",
+      "rol": "Futuro re di Israele, fuggitivo di Saul",
+      "periodo": "hierro_2",
+      "descripcion": "In una grotta a Engedi, ha la più vicina opportunità di eliminare Saul durante l'intero inseguimento, e opta invece per un gesto simbolico di rispetto che provoca un momentaneo riconoscimento della sua rettitudine da parte del re stesso.",
+      "referencias": [
+        "1 Sam 24:1-22"
+      ],
+      "ruta": [
+        "maon",
+        "engedi"
+      ]
+    },
+    {
+      "id": "saul_engadi",
+      "nombre": "Saul",
+      "rol": "Primo re di Israele, inseguitore di Davide",
+      "periodo": "hierro_1",
+      "descripcion": "Entra impreparato nella grotta dove si nasconde Davide a Engedi; Dopo aver scoperto in seguito il gesto di misericordia di Davide, piange e riconosce pubblicamente che Davide è più giusto di lui e che regnerà su Israele.",
+      "referencias": [
+        "1 Sam 24:8-22"
+      ],
+      "ruta": [
+        "engedi"
+      ]
+    },
+    {
+      "id": "quedorlaomer_engadi",
+      "nombre": "Quedorlaomer",
+      "rol": "Re di Elam, leader della coalizione orientale",
+      "periodo": "c. 2050 a.C. (narrativa)",
+      "descripcion": "Sconfigge gli Amorrei di Hazezon-tamar (Engedi) nella loro campagna militare prima della cattura di Lot, un primo episodio che documenta l'antichità della presenza umana organizzata nella regione.",
+      "referencias": [
+        "Gen 14:7"
+      ],
+      "ruta": [
+        "engedi"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "L'Engadi condensa nello stesso spazio il contrasto teologico tra giudizio e grazia: scena di antica conquista militare nel ciclo di Abramo, rifugio provvidenziale per l'Unto perseguitato nel ciclo di Davide, e infine metafora di fertilità e bellezza nella letteratura sapienziale del Cantico dei Cantici. L'oasi funziona come un simbolo ricorrente dell'inaspettata fornitura di vita e protezione nel mezzo del deserto più arido, riflettendo un motivo centrale della teologia biblica sul sostegno della grazia nei luoghi più ostili.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo amorreo (substrato originale)"
+    ],
+    "mitos": [
+      {
+        "id": "clemencia-david-cueva-engadi",
+        "nombre": "La clemenza di Davide nella grotta di Engedi",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 24:1-22",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre el reconocimiento de Saúl ('tú eres más justo que yo') como momento de lucidez profética sobre el destino real de David",
+          "descripcion": "La tradizione ebraica valorizza l'episodio di Engedi come esempio supremo di autocontrollo morale di fronte all'opportunità di una legittima vendetta, evidenziando che anche Saul, nel suo momento di massima lucidità, riconosce esplicitamente la giustizia di Davide e l'inevitabilità del suo regno futuro, anticipando profeticamente ciò che Saul stesso si rifiuta di accettare in altri momenti.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio conferma che la legittimità del futuro re di Israele si basa sulla rettitudine morale dimostrata anche di fronte alla più forte tentazione di vendetta personale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Sam 24:1-22 (recepción patrística sobre el perdón y la paciencia ante la persecución injusta)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que vinculan la conducta de David en Engadi con la enseñanza neotestamentaria sobre amar a los enemigos",
+          "descripcion": "La tradizione cristiana riprende l'episodio di Engedi, insieme al successivo parallelo di Zif, come antecedente veterotestamentario del principio di non rendere male per male, presentando Davide come modello di attiva mitezza di fronte alle ingiuste persecuzioni.",
+          "similitudes": "Condivide con la lettura ebraica il valore esemplare della moderazione morale di fronte all'opportunità di vendetta.",
+          "diferencias": "La lettura cristiana tende a generalizzare il principio come antecedente all'etica universale del perdono insegnata da Gesù.",
+          "significado_teologico": "L'episodio si integra come prefigurazione veterotestamentaria dell'etica cristiana della non ritorsione e del perdono attivo nei confronti del persecutore.",
+          "posible_relacion_cultural": "Accoglienza condivisa del ciclo Davide come figura centrale nella storia sacra comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_1"
+  ]
+}

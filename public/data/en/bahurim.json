@@ -1,0 +1,163 @@
+{
+  "id": "bahurim",
+  "nombre": "Bahurim",
+  "tipo": "ciudad",
+  "lat": 31.824736,
+  "lng": 35.388486,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Curse of Shimei, escape from David"
+    }
+  ],
+  "descripcion_geo": "Small village in the territory of Benjamin, on the route that descends from Jerusalem towards the Jordan Valley, located on the path that David takes during his flight from Absalom. Close to the eastern limit of the Benjaminite territory, also linked to the Saul family.",
+  "altitud_m": 600,
+  "clima": "Mountain Mediterranean transitioning to the Judean Desert — dry summers, cold winters with moderate rainfall.",
+  "recursos": [
+    "Position on the descent route to the Jordan",
+    "Territory linked to the family of Saul (place of origin of Shimeí)"
+  ],
+  "importancia_estrategica": "Bahurim has no military relevance of its own, but is the scene of two significant episodes during Absalom's rebellion: Shimei's public curse against David as a fallen representative of the house of Saul, and the hiding of Hushai's messengers in a well in the village to evade Absalom's pursuers, an episode crucial for David's survival.",
+  "otros_habitantes": [
+    {
+      "id": "benjaminitas_bahurim",
+      "nombre": "Clan of Saul (line of Shimei)",
+      "descripcion": "Benjaminite family from Bahurim linked to the house of Saul; Shimei, a relative of Saul, is originally from this village and openly expressed his hostility towards David during Absalom's rebellion.",
+      "religion": "Yahwism",
+      "periodo": "c. 975 BC"
+    },
+    {
+      "id": "mujer_bahurim",
+      "nombre": "Family hiding the messengers by David",
+      "descripcion": "Residents of Bahurim who help hide Jonathan and Ahimaaz, messengers of David, in a pit covered with grain, evading Absalom's pursuers.",
+      "religion": "Yahwism",
+      "periodo": "c. 975 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "simei-maldice-david-bahurim",
+      "titulo": "Shimei curses David in Bahurim",
+      "fecha": "c. 975 BC",
+      "descripcion": "While David flees from Jerusalem in the face of Absalom's rebellion, Shimei, a relative of Saul originally from Bahurim, stands in his way, throwing stones at him and publicly cursing him as a 'bloodthirsty man', accusing him of usurping the kingdom of the house of Saul; David rejects Abishai's proposal to kill him, accepting the curse as a possible design of YHWH.",
+      "referencias": [
+        "2 Sam 16:5-14"
+      ],
+      "personajes_clave": [
+        "david",
+        "simei"
+      ]
+    },
+    {
+      "id": "mensajeros-ocultos-pozo-bahurim",
+      "titulo": "Jonathan and Ahimaaz hide in the well of Bahurim",
+      "fecha": "c. 975 BC",
+      "descripcion": "After receiving secret information from advisor Hushai about Absalom's plans, the messengers Jonathan and Ahimaaz are discovered by a servant of Absalom near Bahurim, but a local woman hides them in a well covered with ground grain, later allowing them to continue their mission to David with information vital to their survival.",
+      "referencias": [
+        "2 Sam 17:17-21"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "simei-perdon-bahurim",
+      "titulo": "Shimeí apologizes to David after Absalom's defeat",
+      "fecha": "c. 975 BC",
+      "descripcion": "After Absalom's defeat, Shimei of Bahurim rushes out to meet David on his return to Jerusalem, prostrating himself and asking forgiveness for his previous curse; David, despite Abishai's insistence on executing him, spares his life at that moment, although the issue remains pending until the end of the reign.",
+      "referencias": [
+        "2 Sam 19:16-23"
+      ],
+      "personajes_clave": [
+        "david",
+        "simei"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "simei",
+      "nombre": "Shimei",
+      "rol": "Relative of Saul, originally from Bahurim",
+      "periodo": "c. 975 BC",
+      "descripcion": "He publicly curses David during his flight from Absalom, accusing him of usurping the throne of the house of Saul; He later asks for forgiveness and receives it from David, although the matter will be resolved differently under Solomon's reign.",
+      "referencias": [
+        "2 Sam 16:5-13",
+        "2 Sam 19:16-23"
+      ],
+      "ruta": [
+        "bahurim"
+      ]
+    },
+    {
+      "id": "david_bahurim",
+      "nombre": "David",
+      "rol": "King of Israel, fugitive during Absalom's rebellion",
+      "periodo": "hierro_2",
+      "descripcion": "He endures with theological resignation Shimei's public curse in Bahurim, interpreting it as a possible divine design, and subsequently forgives the same man who had humiliated him during his moment of greatest vulnerability.",
+      "referencias": [
+        "2 Sam 16:10-12",
+        "2 Sam 19:23"
+      ],
+      "ruta": [
+        "jerusalen",
+        "bahurim"
+      ]
+    },
+    {
+      "id": "jonatan_ahimaas_bahurim",
+      "nombre": "Jonathan and Ahimaaz",
+      "rol": "Priestly messengers escaping at Bahurim",
+      "periodo": "hierro_2",
+      "descripcion": "They escape from Absalom's pursuers thanks to a Bahurim woman who hides them in a well, finally managing to deliver critical information about Absalom's military plans to David.",
+      "referencias": [
+        "2 Sam 17:17-21"
+      ],
+      "ruta": [
+        "jerusalen",
+        "bahurim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Bahurim condenses two episodes that explore the theology of divine providence in moments of humiliation and extreme danger: David's decision not to take revenge on Shimei, accepting the possibility that the curse comes from YHWH's design, and the providential protection of the messengers through the anonymous help of a local family. Both episodes reinforce the theme of trust in divine justice and protection over immediate violent reaction.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "maldicion-simei-providencia",
+        "nombre": "The Curse of Shimei as a Possible Divine Design",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 16:5-14",
+          "fuente_secundaria": "Talmud Babilónico, Shabat 105b y Sanedrín 21a (discusión sobre la conducta de David frente a Simeí)",
+          "descripcion": "Rabbinic tradition extensively discusses David's response to Shimei's curse—'perhaps YHWH has seen my affliction and will repay me well for his curse today'—as an example of humility and acceptance of divine discipline even when it comes through a hostile and unjust human instrument.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode teaches that even insult and humiliation can be instruments of YHWH's purifying design, and that the appropriate reaction is humble acceptance, not immediate revenge.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 16:5-14 (recepción patrística sobre la paciencia de David ante la injuria)",
+          "fuente_secundaria": "Comentarios homiléticos antiguos que vinculan la respuesta de David con la enseñanza neotestamentaria de no devolver mal por mal",
+          "descripcion": "The ancient Christian tradition takes up David's response to Shimei as an Old Testament antecedent of Christian patience in the face of insult and slander, generalizing the episode as a model of meekness applicable to the life of the believer.",
+          "similitudes": "It shares with the Jewish reading the value of the humble acceptance of humiliation as a possible divine discipline.",
+          "diferencias": "The Christian reading tends to universalize the principle as a general ethic of meekness, beyond the specific context of royal legitimacy.",
+          "significado_teologico": "The episode is integrated as an Old Testament prefiguration of the Christian ethics of non-resistance to evil and trust in divine judgment.",
+          "posible_relacion_cultural": "Shared reception of the David cycle as a central figure in the sacred history common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

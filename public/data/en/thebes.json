@@ -1,0 +1,147 @@
+{
+  "id": "thebes",
+  "nombre": "Thebes (No-Ammon)",
+  "tipo": "ciudad",
+  "lat": 25.700025,
+  "lng": 32.639441,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Upper Capital Egypt, prophesied destruction"
+    }
+  ],
+  "descripcion_geo": "Ancient and prestigious capital of the Upper Egypt, known in Hebrew as 'No' or 'No-Ammon' (for its great temple dedicated to the god Ammon), one of the richest and most powerful cities of the ancient world, mentioned in prophetic oracles as an example of the already accomplished destruction of a great power.",
+  "altitud_m": 80,
+  "clima": "Subtropical desert — extremely hot and dry year-round, typical of the Upper Egypt along the Nile.",
+  "recursos": [
+    "Great temple dedicated to the god Ammon",
+    "Capital of great religious and political prestige of Alto Egypt",
+    "Legendary wealth as one of the most prosperous cities of the ancient world"
+  ],
+  "importancia_estrategica": "Thebes functions in the biblical text, especially in Nahum's oracle against Nineveh, as an already accomplished historical example of the destruction of a seemingly invincible great capital: its actual fall to the Assyrians (663 BC) is used rhetorically as a warning that the same fate awaits Nineveh despite its current power, demonstrating that no city, no matter how prestigious or fortified, escapes divine judgment.",
+  "otros_habitantes": [
+    {
+      "id": "egipcios_tebas",
+      "nombre": "Egyptian population of Thebes",
+      "descripcion": "Inhabitants of one of the most prestigious and ancient cities of Egypt, whose historical destruction by the Assyrians is cited as a warning precedent in biblical prophetic oracles.",
+      "religion": "Egyptian polytheism — cult of Ammon",
+      "periodo": "c. 1000–663 BC"
+    },
+    {
+      "id": "aliados_tebas",
+      "nombre": "Allies of Thebes (Cush, Put, Lubim)",
+      "descripcion": "Allied towns mentioned by Nahum as military support for Thebes that, despite their combined strength, did not prevent its final destruction by the Assyrians.",
+      "religion": "Diverse African polytheistic religions",
+      "periodo": "c. 663 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "nahum-recuerda-destruccion-tebas",
+      "titulo": "Nahum remembers the destruction of Thebes as a warning to Nineveh",
+      "fecha": "c. 663–612 BC",
+      "descripcion": "The prophet Nahum, in his oracle against Nineveh, explicitly recalls the already accomplished destruction of Thebes (No-Ammon) despite having the river as a natural defense and powerful military allies such as Cush, Egypt, Put and the Libyans, using this historical precedent as a warning that Nineveh will suffer a similar fate despite its apparent power.",
+      "referencias": [
+        "Nah 3:8-10"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    },
+    {
+      "id": "ezequiel-oraculo-tebas",
+      "titulo": "Ezekiel includes Thebes in his oracle against Egypt",
+      "fecha": "c. 587 BC",
+      "descripcion": "The prophet Ezekiel explicitly mentions Noah (Thebes) in his extensive oracle of judgment against Egypt, announcing that this city will be destroyed along with Sin, Memphis and other cities in Egyptian territory.",
+      "referencias": [
+        "Ezek 30:14-16"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "jeremias-mencion-no-tebas",
+      "titulo": "Jeremiah includes No among the cities of Egyptian judgment",
+      "fecha": "c. 587 BC",
+      "descripcion": "Jeremiah also mentions Noah within his catalog of Egyptian cities under judgment, citing Ammon of Noah, the city's main divinity, as a specific object of divine punishment along with Pharaoh.",
+      "referencias": [
+        "Jer 46:25"
+      ],
+      "personajes_clave": [
+        "jeremias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nahum_tebas",
+      "nombre": "Nahum",
+      "rol": "Prophet by Judah",
+      "periodo": "Activo c. 663–612 BC",
+      "descripcion": "He uses the historical precedent of the destruction of Thebes as the central rhetorical argument of his oracle of judgment against Nineveh, demonstrating that no capital, no matter how defended and allied it may be, escapes divine judgment.",
+      "referencias": [
+        "Nah 3:8-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ezequiel_tebas",
+      "nombre": "Ezekiel",
+      "rol": "Prophet of exile",
+      "periodo": "hierro_2",
+      "descripcion": "He includes Thebes among the Egyptian cities destined for destruction in his extensive oracle of judgment against the entire Nile territory.",
+      "referencias": [
+        "Ezek 30:14-16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "amon_dios_tebas",
+      "nombre": "Ammon of No (deity)",
+      "rol": "Main deity of Thebes, object of the trial",
+      "periodo": "c. 1000–587 BC",
+      "descripcion": "Egyptian god whose great temple gave the city its Hebrew name ('No-Ammon'), explicitly mentioned by Jeremiah as a direct object of divine punishment along with the political power of Pharaoh.",
+      "referencias": [
+        "Jer 46:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Thebes functions in the prophetic corpus as a verifiable historical case study of the inevitability of divine judgment against the most established of human power: its royal destruction by the Assyrians in 663 BC. —a historically documented event outside the biblical record—becomes a rhetorical argument of maximum persuasive force for Nahum, who uses it precisely because his audience knew the accomplished historical fact, not as a future prophecy but as a fulfilled precedent that guarantees the veracity of the judgment announced against Nineveh.",
+    "religiones_presentes": [
+      "Egyptian polytheism — cult of Ammon",
+      "Yahwism (prophetic oracles perspective)"
+    ],
+    "mitos": [
+      {
+        "id": "precedente-historico-tebas-ninive",
+        "nombre": "Thebes as a verifiable historical precedent for the trial of Nineveh",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Nah 3:8-10",
+          "fuente_secundaria": "Comentario académico y rabínico tradicional sobre el valor retórico excepcional de Nahúm al citar un evento históricamente verificable (la destrucción de Tebas, confirmada por registros asirios extrabíblicos) como argumento para un juicio futuro",
+          "descripcion": "Jewish tradition and subsequent academic exegesis especially value Nahum's rhetorical strategy in basing his announcement of future judgment against Nineveh on a historical fact already accomplished and verifiable by his own audience, a technique that gives special persuasive force to the oracle by appealing to recent tangible evidence instead of purely prophetic statements without verifiable support.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The use of a verifiable historical precedent reinforces the credibility of the prophetic judgment, demonstrating that the same pattern of destruction that fell on Thebes, a great capital with powerful allies, will inevitably reach Nineveh as well.",
+          "posible_relacion_cultural": "Documented convergence between the biblical prophetic text and extrabiblical historical records regarding the Assyrian destruction of Thebes in 663 BC."
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

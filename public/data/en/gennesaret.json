@@ -1,0 +1,146 @@
+{
+  "id": "gennesaret",
+  "nombre": "Gennesaret",
+  "tipo": "region_natural",
+  "subtipo_natural": "valle",
+  "lat": 32.8627,
+  "lng": 35.5261,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Fertile coastal plain west of the Galilee Sea, about 5 km long.",
+  "altitud_m": -200,
+  "clima": "mediterranean-warm",
+  "recursos": [
+    "intensive agriculture",
+    "fishing",
+    "water"
+  ],
+  "importancia_estrategica": "Land of high agricultural productivity next to the sea of ​​Galilee.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gen_h1",
+        "titulo": "Landing after walking on water",
+        "fecha": "ca. 29 AD",
+        "descripcion": "The boat arrives at Gennesaret after Jesus walks on the water.",
+        "referencias": [
+          "Matt 14:34-36"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "discípulos"
+        ]
+      },
+      {
+        "id": "gen_h2",
+        "titulo": "Healings on the plain",
+        "fecha": "ca. 29 AD",
+        "descripcion": "Multitudes bring sick people to Jesus on the plain of Gennesaret.",
+        "referencias": [
+          "Mark 6:53-56"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gen_h3",
+        "titulo": "miraculous fishing",
+        "fecha": "ca. 27 AD",
+        "descripcion": "From the shore of Gennesaret, Jesus instructs Peter to cast the nets.",
+        "referencias": [
+          "Luke 5:1-11"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gen_p1",
+        "nombre": "Jesus of Nazareth",
+        "rol": "Healer and teacher",
+        "periodo": "ca. 27-30 AD",
+        "descripcion": "He preached from the banks of Lake Gennesaret.",
+        "referencias": [
+          "Luke 5:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gen_p2",
+        "nombre": "Simon Peter",
+        "rol": "Fisherman and apostle",
+        "periodo": "s. I AD",
+        "descripcion": "His boat was used as a floating pulpit by Jesus.",
+        "referencias": [
+          "Luke 5:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gen_p3",
+        "nombre": "James son of Zebedee",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Lake fisherman with his brother Juan.",
+        "referencias": [
+          "Mark 1:19-20"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "The fertile shore of the lake was the scene of the apostolic vocation and multiple healings.",
+      "religiones_presentes": [
+        "Judaism"
+      ],
+      "mitos": [
+        {
+          "id": "gen_m1",
+          "nombre": "The miraculous catch",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Peter obeys Jesus and fishes abundantly; The miracle inaugurates his apostolic mission.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Peter obeys Jesus and fishes abundantly; The miracle inaugurates his apostolic mission.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "life_jesus"
+    ]
+  }
+}

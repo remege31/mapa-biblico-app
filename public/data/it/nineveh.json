@@ -1,0 +1,180 @@
+{
+  "id": "nineveh",
+  "nombre": "Ninive",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 36.3594,
+  "lng": 43.1529,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 22,
+  "jerarquia_pin": "secundario",
+  "descripcion_geo": "Capitale dell'Impero neo-assiro, situata sulla sponda orientale del fiume Tigri, di fronte all'odierna Mosul (Iraq). Le sue mura coprivano più di 12 km di perimetro, con palazzi monumentali decorati con rilievi in ​​pietra e la famosa Biblioteca Assurbanipal, che raccoglieva più di 30.000 tavolette cuneiformi. Controllava le rotte tra Mesopotamia e l'Anatolia.",
+  "altitud_m": 223,
+  "clima": "Semiarido continentale; estati secche e calde, inverni freddi con poche piogge.",
+  "recursos": [
+    "Agricoltura irrigua nel Tigri",
+    "Commercio a lunga distanza",
+    "Calcare per l'edilizia",
+    "Legno importato dal Libano"
+  ],
+  "importancia_estrategica": "Centro politico e militare dell'impero neo-assiro al suo apice. La sua caduta nel 612 a.C. Prima dell'alleanza Babilonese-Meda, riconfigurava l'intero Vicino Oriente e apriva la strada alla dominazione babilonese su Giuda.",
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ],
+  "periodos": [
+    {
+      "desde": -900,
+      "hasta": -612,
+      "nombre": "Ascesa e caduta dell'impero neo-assiro"
+    }
+  ],
+  "otros_habitantes": [
+    {
+      "id": "asirios",
+      "nombre": "Assiri",
+      "descripcion": "Città semitica che convertì Ninive in capitale imperiale c. 700 a.C. sotto Sennacherib. Conosciuti per i loro macchinari militari e i grandiosi rilievi del palazzo che raccontano campagne di conquista.",
+      "religion": "Politeismo mesopotamico: culto di Assur, Ishtar e Inanna",
+      "periodo": "ferro_2"
+    },
+    {
+      "id": "caldeos",
+      "nombre": "Caldei",
+      "descripcion": "Parteciparono alla coalizione che distrusse Ninive nel 612 a.C. insieme ai Medi. Rappresentavano il trasferimento del potere nella Mezzaluna Fertile.",
+      "religion": "Politeismo babilonese: culto di Marduk e Nabu",
+      "periodo": "ferro_2"
+    },
+    {
+      "id": "medos",
+      "nombre": "Medi",
+      "descripcion": "Il popolo iraniano si è alleato con Babilonia nella distruzione di Ninive. La sua emersione dagli Zagros segnò la fine del dominio assiro sul Vicino Oriente.",
+      "religion": "Protozoroastrismo",
+      "periodo": "ferro_2"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jonas_en_ninive",
+      "titulo": "Jonah e la conversione di Ninive",
+      "fecha": "c. 760 a.C.",
+      "descripcion": "Il profeta Giona, inviato da Dio per proclamare il giudizio su Ninive, fugge nella direzione opposta, imbarcandosi a Giaffa. Dopo essere stato inghiottito da un grosso pesce ed essere tornato a terra il terzo giorno, obbedisce e gira per la città annunciandone la distruzione entro quaranta giorni. Prima della sua predicazione, il re di Ninive e tutto il popolo si coprono di sacco e di cenere. Dio ritira il castigo, provocando l'indignazione di Giona, rivelando la tensione tra giustizia divina e misericordia.",
+      "referencias": [
+        "Gio 1:1-2",
+        "Gio 3:1-10",
+        "Gio 4:1-11"
+      ],
+      "personajes_clave": [
+        "jonas",
+        "rey_de_ninive"
+      ]
+    },
+    {
+      "id": "senaquerib_contra_juda",
+      "titulo": "Sennacherib minaccia Gerusalemme",
+      "fecha": "c. 701 a.C.",
+      "descripcion": "Il re assiro Sennacherib lancia la sua campagna militare contro il regno di Giuda da Ninive. Il suo generale Rabshakeh assedia Gerusalemme e chiede la resa del re Ezechia in ebraico, davanti al popolo, per provocare il panico. Il profeta Isaia annuncia che Dio difenderà la città senza che vi entrino frecce. Quella notte un angelo del Signore abbatte l'esercito assiro. Sennacherib ritorna a Ninive, dove viene assassinato dai suoi stessi figli Adramelech e Sareser.",
+      "referencias": [
+        "2 Re 18:13-19:37",
+        "Is 36:1-37:38",
+        "2 Cr 32:1-23"
+      ],
+      "personajes_clave": [
+        "senaquerib",
+        "ezequias",
+        "isaias"
+      ]
+    },
+    {
+      "id": "caida_de_ninive",
+      "titulo": "La caduta di Ninive e l'oracolo di Nahum",
+      "fecha": "612 a.C.",
+      "descripcion": "Il profeta Nahum dedica l'intero suo libro all'annuncio della fine di Ninive, descrivendo con dettagli poetici la sua distruzione come atto di giustizia divina sulla città che opprimeva il popolo. Nel 612 a.C. L’alleanza Babilonese-Meda trabocca dalle sue mura. La città viene saccheggiata e bruciata e rimane spopolata per secoli, sprofondando letteralmente sotto la sabbia finché gli scavi del XIX secolo la riscoprirono.",
+      "referencias": [
+        "Na 1:1",
+        "Na 2:1-14",
+        "Na 3:1-19"
+      ],
+      "personajes_clave": [
+        "nahum"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jonas",
+      "nombre": "Giona",
+      "rol": "Profeta inviato a Ninive",
+      "periodo": "c. 760 a.C.",
+      "descripcion": "Profeta israelita figlio di Amitai, originario di Gat-Héfer in Galilea. La sua missione è unica nella letteratura profetica: inviata a una potenza straniera pagana, non a Israele. La loro resistenza, fuga e obbedienza finale articolano una teologia della misericordia divina che trascende i confini nazionali di Israele.",
+      "referencias": [
+        "Gio 1:1-3",
+        "Gio 3:3-4",
+        "2 Re 14:25"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "senaquerib",
+      "nombre": "Sennacherib",
+      "rol": "Re di Assiria",
+      "periodo": "c. 705–681 a.C.",
+      "descripcion": "Re dell'Impero neo-assiro che fece di Ninive la più grande capitale del suo tempo costruendo il Palazzo senza rivali. La sua campagna contro Giuda nel 701 a.C. È documentato sia nelle fonti bibliche che nei suoi stessi Annali. Fu assassinato nel tempio di Ninive dai suoi figli Adramelech e Sareser.",
+      "referencias": [
+        "2 Re 19:36-37",
+        "Is 37:37-38",
+        "2 Cr 32:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "nahum",
+      "nombre": "Nahum",
+      "rol": "Profeta del Giudizio su Ninive",
+      "periodo": "c. 650–612 a.C.",
+      "descripcion": "Profeta di Elcos il cui unico argomento è l'oracolo contro Ninive. Il suo libro, scritto prima della caduta della città, descrive con precisione poetica la sua imminente distruzione come vendetta divina per la crudeltà assira. Rappresenta la voce teologica che interpreta il collasso imperiale come la giustizia di Dio sull'oppressore.",
+      "referencias": [
+        "Na 1:1",
+        "Na 2:8-10",
+        "Na 3:18-19"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ninive ospitava il tempio principale di Ishtar, dea assira della guerra e dell'amore. Nella tradizione biblica, la città rappresenta il paradigma dell'arrogante potere pagano che Dio può sia perdonare (Giona) sia distruggere (Nahum), a seconda della sua risposta morale. Questa tensione tra misericordia e giudizio rende Ninive un riferimento teologico centrale.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "arrepentimiento_de_ninive",
+        "nombre": "Pentimento di Ninive",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gio 3:5-10",
+          "fuente_secundaria": "Talmud Bavli, Taanit 16a — el ayuno de Nínive como modelo de teshuvá colectiva; debate sobre si su arrepentimiento fue sincero o meramente externo",
+          "descripcion": "Gli abitanti di Ninive, dal re fino all'ultimo cittadino, proclamano il digiuno e indossano il sacco quando ascoltano la predicazione di Giona. Dio osserva le sue opere e rinuncia al castigo che aveva annunciato.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Dimostra che la misericordia divina raggiunge le nazioni pagane e che il pentimento genuino può invertire il giudizio. Sfida l’esclusivismo nazionale israeliano.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": {
+          "fuente_primaria": "Corán, Sura 37 (As-Saffat): 139-148",
+          "fuente_secundaria": "Ibn Kathir, Tafsir de Sura 37:147 — describe a los habitantes como 'cien mil o más' que creyeron y fueron prosperados por Dios",
+          "descripcion": "Il Corano racconta la storia di Yunus (Giona) come profeta inviato al suo popolo. Quando se ne andò senza il permesso divino fu inghiottito da un grosso pesce, ma la sua costante glorificazione di Dio lo salvò. Il suo popolo credette e fu liberato dalla punizione.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Yunus è uno dei profeti dell'Islam. La sua storia illustra la necessità di perseveranza nella missione profetica e la misericordia di Dio verso coloro che si pentono collettivamente.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "millo",
+  "nombre": "Millo",
+  "tipo": "ciudad",
+  "lat": 31.781944,
+  "lng": 35.234935,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — Millo es una fortificación interna de la ciudad, no un asentamiento independiente.",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Fortificazione della città Davide"
+    }
+  ],
+  "descripcion_geo": "Struttura difensiva di terrazzamenti a gradoni all'interno della città di Davide, sul versante orientale, che colmava e consolidava il divario tra la cresta della collina e la valle del Kidron. Il suo nome deriva dalla radice ebraica 'riempire' (maschio), descrivendo la sua funzione di riempimento strutturale di terrazzamenti per ampliare l'area edificabile della città.",
+  "altitud_m": "Integrato nella città di Davide, c. 740-760",
+  "clima": "Montagna mediterranea: quella di Gerusalemme, estati secche, inverni freddi con pioggia e neve occasionale.",
+  "recursos": [
+    "Sistema di terrazze a gradini per il riempimento e il contenimento",
+    "Ampliamento dell'area urbanizzabile del Comune di Davide",
+    "Punto di unione tra la fortezza di Sion e il resto della città"
+  ],
+  "importancia_estrategica": "Il Millo è una delle opere di ingegneria difensiva più significative del Regno Unito: Davide lo costruì dopo aver conquistato la fortezza dei Gebusiti, e Salomone lo rinforzò nell'ambito del suo programma di costruzione insieme al Tempio e al palazzo. Fungeva da elemento strutturale che sosteneva ed espandeva il versante orientale della collina, consentendo la crescita urbana di Gerusalemme verso nord verso l'area del Tempio.",
+  "otros_habitantes": [
+    {
+      "id": "jebuseos_millo",
+      "nombre": "Gebusei",
+      "descripcion": "Popolazione originaria della fortezza di Sion prima della sua conquista da parte di Davide; Il sistema di terrazze che in seguito sarebbe stato conosciuto come Millo ha probabilmente antecedenti costruttivi Gebusei su cui si basano Davide e Salomone.",
+      "religion": "Politeismo Cananeo",
+      "periodo": "Prima del c. 1000 a.C"
+    },
+    {
+      "id": "trabajadores_forzados_millo",
+      "nombre": "Prelievi salomonici sul lavoro forzato",
+      "descripcion": "Manodopera mobilitata da Salomone per i suoi grandi progetti di costruzione, compreso il rafforzamento del Millo, insieme al Tempio, al palazzo e alle mura di Gerusalemme.",
+      "religion": "Yahvismo (popolazione israelita) e culti vari (popolazione non israelita soggetta a prelievo)",
+      "periodo": "C. 970–931 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-construye-millo",
+      "titulo": "Davide si costruisce dal Millo verso l'interno",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Dopo aver conquistato la roccaforte gebusita di Sion e averla fondata come Città di Davide, il re costruì attorno ad essa dall'entroterra Millo, espandendo e consolidando la nuova capitale.",
+      "referencias": [
+        "2 Sam 5:9",
+        "1 Cr 11:8"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "salomon-refuerza-millo",
+      "titulo": "Salomone include il Millo nel suo programma di costruzione",
+      "fecha": "c. 970–960 a.C.",
+      "descripcion": "Tra i principali progetti di Salomone – il Tempio, la sua casa, il Millo e il muro di Gerusalemme – c'è il rafforzamento di questa struttura difensiva, sostenuto dal lavoro forzato mobilitato dalle diverse regioni del regno.",
+      "referencias": [
+        "1 Re 9:15",
+        "1 Re 9:24",
+        "1 Re 11:27"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "joas-asesinado-millo",
+      "titulo": "Il re Joash viene assassinato vicino a Millo",
+      "fecha": "c. 796 a.C.",
+      "descripcion": "Re Ioas di Giuda viene assassinato dai suoi stessi servi nella casa di Millo (o 'discendente a Silla', secondo la lettura del testo), in una congiura di palazzo che pone fine al suo regno dopo l'episodio di Zaccaria figlio di Ioiada.",
+      "referencias": [
+        "2 Re 12:20-21",
+        "2 Cr 24:25"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "david_millo",
+      "nombre": "Davide",
+      "rol": "Re di Israele, fondatore della città di Davide",
+      "periodo": "hierro_2",
+      "descripcion": "Ordina la costruzione del Millo come parte del consolidamento della sua nuova capitale dopo la conquista della fortezza gebusita, ampliando strutturalmente la collina di Sion.",
+      "referencias": [
+        "2 Sam 5:6-10"
+      ],
+      "ruta": [
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "salomon_millo",
+      "nombre": "Salomone",
+      "rol": "Re di Israele, costruttore del Tempio e delle opere civili",
+      "periodo": "hierro_2",
+      "descripcion": "Tra i suoi grandi progetti architettonici annovera il rafforzamento del Millo, insieme al Tempio e al palazzo reale, mobilitando il lavoro forzato per sostenere l'espansione di Gerusalemme.",
+      "referencias": [
+        "1 Re 9:15-24"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "joas_milo",
+      "nombre": "Joash di Giuda",
+      "rol": "Re di Giuda, assassinato vicino a Millo",
+      "periodo": "c. 835–796 a.C.",
+      "descripcion": "Re che, dopo un regno segnato inizialmente dalla restaurazione del Tempio e poi dall'abbandono del culto jahvista dopo la morte del sacerdote Joiada, viene assassinato dai suoi stessi servi in ​​una congiura la cui ambientazione il testo colloca nei pressi di Millo.",
+      "referencias": [
+        "2 Re 12:19-21",
+        "2 Cr 24:23-25"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il Millo non è di per sé uno spazio di culto, ma la sua costruzione è strettamente legata ai due grandi progetti di legittimazione religiosa della monarchia davidico-salomone: il consolidamento di Gerusalemme come capitale politica sotto Davide e la costruzione del Tempio sotto Salomone. La sua menzione nell'assassinio di Joash aggiunge un ulteriore livello di significato, contrassegnando il luogo come teatro sia del consolidamento che della crisi del potere reale in Giuda.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo Cananeo (precedente substrato di Jebusite)"
+    ],
+    "mitos": [
+      {
+        "id": "millo-consolidacion-davidica",
+        "nombre": "Il Millo come simbolo del consolidamento del potere davidico-salomone",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Sam 5:9; 1 Re 9:15",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las obras constructivas de David y Salomón como expresión del establecimiento definitivo de la monarquía en Jerusalén",
+          "descripcion": "La tradizione ebraica legge la costruzione e il successivo rafforzamento del Millo da parte di Davide e poi di Salomone come un segno materiale continuo del consolidamento di Gerusalemme come centro politico e religioso di Israele, collegando la solidità della struttura fisica con la stabilità ricercata per la dinastia davidica.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'opera architettonica è interpretata come un'espressione visibile dell'affermazione della promessa davidica su Gerusalemme come città prescelta.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

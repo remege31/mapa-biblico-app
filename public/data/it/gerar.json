@@ -1,0 +1,164 @@
+{
+  "id": "gerar",
+  "nombre": "Gerar",
+  "tipo": "ciudad",
+  "lat": 31.39129109635703,
+  "lng": 34.56057015639144,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Tarda età del bronzo — Residenza patriarcale di Abramo e Isacco"
+    }
+  ],
+  "descripcion_geo": "Città-stato filistea all'estremità meridionale della pianura costiera, al confine con Canaan e Egitto, governata in epoca patriarcale da un re intitolato \"Abimelech\". Scenario di due episodi quasi paralleli rispettivamente nei cicli Abramo e Isacco.",
+  "altitud_m": 100,
+  "clima": "Mediterraneo arido di transizione: estati calde e secche, inverni miti, tipici dell'estremità meridionale della costa filistea.",
+  "recursos": [
+    "Pozzi d'acqua (motivo centrale dei conflitti narrati)",
+    "Terreni agricoli della fascia costiera meridionale",
+    "Posizione di confine tra Canaan e Egitto"
+  ],
+  "importancia_estrategica": "Gerar è teatro di due episodi strutturalmente paralleli - quello di Abramo con Sara e quello di Isacco con Rebecca - in cui il patriarca presenta la moglie come una sorella per paura di essere assassinato, e dei successivi conflitti per i pozzi d'acqua tra i pastori patriarcali e quelli di Gerar, stabilendo uno schema narrativo ricorrente sulla convivenza tesa ma alla fine concordata tra i patriarchi ebrei e la popolazione filistea locale.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_gerar",
+      "nombre": "Filistei di Gherar (sotto Abimelech)",
+      "descripcion": "Popolazione locale governata dal re Abimelech, con il quale sia Abramo che Isacco stringono patti formali dopo episodi di tensione iniziale legati alle mogli e all'accesso all'acqua.",
+      "religion": "Il primo politeismo filisteo",
+      "periodo": "C. 2050–1850 a.C. (cronologia tradizionale)"
+    },
+    {
+      "id": "pastores_isaac_gerar",
+      "nombre": "Pastori di Isacco",
+      "descripcion": "Servi di Isacco che riaprono i pozzi originariamente scavati da Abramo e ne scavano di nuovi, generando successive controversie con i pastori di Gerar per il possesso dell'acqua.",
+      "religion": "Patriarcale Yahvismo",
+      "periodo": "C. 1900 a.C. (cronologia tradizionale)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "abraham-sara-abimelec-gerar",
+      "titulo": "Abramo presenta Sarah come sua sorella ad Abimelech",
+      "fecha": "c. 2050 a.C. (narrativa)",
+      "descripcion": "Risiede temporaneamente a Gerar, Abramo, temendo di essere ucciso a causa della bellezza di Sara, la presenta come sua sorella; Abimelech la prende per sé, ma Dio lo avverte in sogno della verità, e il re, dopo aver rimproverato Abramo, gli restituisce Sara insieme ai doni e le permette di stabilirsi nella sua terra.",
+      "referencias": [
+        "Gen 20:1-18"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "isaac-rebeca-abimelec-gerar",
+      "titulo": "Isacco ripete lo schema con Rebeca a Gerar",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "Generazioni dopo, Isacco si stabilisce a Gerar durante una carestia e presenta anche Rebekah come sua sorella; Abimelech scopre la verità osservandoli e rimprovera Isacco, ma ordina ai suoi di non toccarli pena la morte, ripetendo quasi esattamente lo schema narrativo dell'episodio di Abramo.",
+      "referencias": [
+        "Gen 26:1-11"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    },
+    {
+      "id": "pacto-pozos-beerseba-gerar",
+      "titulo": "Conflitto e patto sui pozzi tra Isacco e Gerar",
+      "fecha": "c. 1900 a.C. (narrativa)",
+      "descripcion": "I pastori di Gerar litigano ripetutamente con quelli di Isacco per i pozzi che lui riapre e scava, finché finalmente, in Bersabea, Abimelech si rivolge a Isacco per stabilire un patto formale di pace, riconoscendo che YHWH è con lui, in un episodio che chiude il ciclo di tensione con un accordo stabile.",
+      "referencias": [
+        "Gen 26:12-33"
+      ],
+      "personajes_clave": [
+        "isaac"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_gerar",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "bronce_medio",
+      "descripcion": "Risiede temporaneamente a Gerar, dove presenta Sara come sua sorella per paura, episodio che si risolve con l'intervento divino e un patto di pacifica convivenza con Abimelech.",
+      "referencias": [
+        "Gen 20:1-18"
+      ],
+      "ruta": [
+        "mamre",
+        "gerar"
+      ]
+    },
+    {
+      "id": "isaac_gerar",
+      "nombre": "Isacco",
+      "rol": "Patriarca, figlio di Abramo",
+      "periodo": "bronce_medio",
+      "descripcion": "Ripete lo schema di suo padre con Rebecca a Gerar, ed è anche protagonista dell'ampio ciclo di dispute e patti sui pozzi d'acqua che culmina in un accordo di pace formale con Abimelech in Bersabea.",
+      "referencias": [
+        "Gen 26:1-33"
+      ],
+      "ruta": [
+        "gerar",
+        "beersheba"
+      ]
+    },
+    {
+      "id": "abimelec_gerar",
+      "nombre": "Abimelech, re di Gherar",
+      "rol": "Re filisteo di Gherar",
+      "periodo": "c. 2050–1900 a.C. (cronología tradicional, posiblemente título dinástico)",
+      "descripcion": "Protagonista dei patti formali con entrambi i patriarchi, presentata in entrambi gli episodi come una figura integerrima che agisce correttamente quando scopre la verità sulle mogli presentate come sorelle, e che cerca attivamente una pace duratura con i discendenti di Abramo.",
+      "referencias": [
+        "Gen 20:1-18",
+        "Gen 26:1-33"
+      ],
+      "ruta": [
+        "gerar"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gherar è teatro di due episodi praticamente paralleli che stabiliscono uno schema teologico ricorrente nel ciclo patriarcale: la vulnerabilità umana dei patriarchi (la paura che li porta a ingannare) si risolve sempre attraverso l'intervento protettivo diretto di YHWH e la sorprendente integrità morale di un re straniero, suggerendo che il timore di Dio non è esclusivo del popolo eletto e che la divina provvidenza protegge la promessa patriarcale anche attraverso la rettitudine di figure esterne all'alleanza.",
+    "religiones_presentes": [
+      "Patriarcale Yahvismo",
+      "Il primo politeismo filisteo"
+    ],
+    "mitos": [
+      {
+        "id": "esposa-hermana-gerar-mito",
+        "nombre": "Lo schema narrativo della moglie presentata come una sorella",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 20:1-18; Gén 26:1-11",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 52, 64 (comparación entre los episodios de Abraham/Sara y Egipto, y de Isaac/Rebeca en Gerar)",
+          "descripcion": "La tradizione rabbinica confronta ampiamente i tre episodi simili della Genesi (Abramo in Egitto, Abramo in Gerar, Isacco in Gerar), notando le sottili differenze tra ciascuna versione - in particolare che Isacco, a differenza di suo padre, non arriva mai al punto di presentare formalmente Rebecca come sua sorella al re, ma viene invece sorpreso ad osservarli - come indicazione di una crescita morale generazionale nell'onestà del patriarchi.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento dello schema narrativo ripetuto come elemento letterario significativo del ciclo patriarcale.",
+          "diferencias": null,
+          "significado_teologico": "La ripetizione dello schema con sottili variazioni insegna che la divina provvidenza protegge la promessa patriarcale di generazione in generazione, anche attraverso le ricorrenti debolezze umane dei suoi portatori.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 20:1-18; Gén 26:1-11 (recepción patrística sobre la fidelidad divina pese a la debilidad humana de los patriarcas)",
+          "fuente_secundaria": "Comentarios patrísticos que leen los episodios de Gerar como ejemplo de la gracia divina que opera pese a las imperfecciones morales de quienes llevan la promesa",
+          "descripcion": "La tradizione patristica cristiana legge questi episodi paralleli come evidenza che l'elezione e la promessa divina non dipendono dalla perfezione morale dei patriarchi, ma dalla fedeltà di Dio stesso alla sua parola, tema che si collega con la più ampia teologia paolina della grazia operante indipendentemente dal merito umano.",
+          "similitudes": "Condivide con la lettura ebraica l'osservazione dello schema narrativo ripetuto come elemento strutturante della storia patriarcale.",
+          "diferencias": "La lettura cristiana tende a generalizzare l'episodio verso il principio teologico più ampio della grazia gratuita, mentre la lettura ebraica si concentra maggiormente sul progressivo sviluppo morale degli stessi patriarchi.",
+          "significado_teologico": "Gli episodi di Gerar illustrano che la fedeltà della promessa divina non dipende dalla completa integrità morale dei suoi portatori umani.",
+          "posible_relacion_cultural": "Tradizione condivisa del ciclo patriarcale di Abramo e Isacco come storia comune fondatrice del giudaismo e del cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

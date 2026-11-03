@@ -1,0 +1,155 @@
+{
+  "id": "water_gate",
+  "nombre": "Gate of the Waters",
+  "tipo": "ciudad",
+  "lat": 31.772944,
+  "lng": 35.234935,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "sublugar",
+  "nota_coordenadas": "Coordenadas genéricas de Jerusalén — puerta del muro de la Ciudad de David, no una ubicación geográfica independiente.",
+  "periodos": [
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-Exile — Reconstruction of the wall, public reading of the Torah"
+    }
+  ],
+  "descripcion_geo": "Gate located in the eastern sector of the wall of the City of David, close to the Guijón spring, which gave access to the water supply system of Jerusalem. Its interior plaza, large enough to gather a crowd, became the scene of one of the most significant public events of the post-exilic restoration.",
+  "altitud_m": "Eastern sector of the City of David, c. 630-650",
+  "clima": "Mountain Mediterranean — that of Jerusalem.",
+  "recursos": [
+    "Access to the Guijón spring and the city's hydraulic system",
+    "Large plaza suitable for public assemblies"
+  ],
+  "importancia_estrategica": "The Gate of the Waters is not strategic in a military sense as much as in a civic-religious sense: its square becomes the central stage for the reconstitution of the religious identity of the post-exilic community, being the place chosen for the public and solemn reading of the Law by Ezra, a founding event for Second Temple Judaism.",
+  "otros_habitantes": [
+    {
+      "id": "comunidad_retorno_puerta_aguas",
+      "nombre": "Community of returnees",
+      "descripcion": "Men, women and all those who could understand what they heard, gathered as one man in the Plaza de la Puerta de las Aguas to listen to the public reading of the Law.",
+      "religion": "Yahwism post-exilic",
+      "periodo": "c. 445 BC"
+    },
+    {
+      "id": "levitas_puerta_aguas",
+      "nombre": "Interpreting Levites",
+      "descripcion": "Group of Levites who, together with Ezra, help the people understand the Law read aloud, translating or explaining the meaning of the text in the assembly at the Gate of the Waters.",
+      "religion": "Yahwism post-exilic",
+      "periodo": "c. 445 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "reconstruccion-muro-puerta-aguas",
+      "titulo": "Repair of the wall next to the Puerta de las Aguas",
+      "fecha": "c. 445 BC",
+      "descripcion": "In the list of wall builders under Nehemiah, the section near the Water Gate is repaired by the inhabitants of Tekoa, in the extensive collective project that completes the Jerusalem wall in fifty-two days.",
+      "referencias": [
+        "Neh 3:26"
+      ],
+      "personajes_clave": [
+        "nehemias"
+      ]
+    },
+    {
+      "id": "esdras-lectura-ley-puerta-aguas",
+      "titulo": "Ezra publicly reads the Law at the Water Gate",
+      "fecha": "c. 445 BC",
+      "descripcion": "All the people gather as one man in the square in front of the Water Gate and ask Ezra to bring the book of the Law of Moses; Ezra reads from dawn until noon before men, women, and all who could understand, while the Levites help explain the meaning of the text.",
+      "referencias": [
+        "Neh 8:1-8"
+      ],
+      "personajes_clave": [
+        "esdras",
+        "nehemias"
+      ]
+    },
+    {
+      "id": "fiesta-tabernaculos-puerta-aguas",
+      "titulo": "Weeping, joy and the Feast of Tabernacles",
+      "fecha": "c. 445 BC",
+      "descripcion": "Upon hearing the Law, the people cry, but Nehemiah, Ezra and the Levites urge them not to grieve but to celebrate, because 'the joy of YHWH is your strength'; A few days later the assembly celebrates the Feast of Tabernacles with a joy that the text describes as not seen since the days of Joshua.",
+      "referencias": [
+        "Neh 8:9-18"
+      ],
+      "personajes_clave": [
+        "esdras",
+        "nehemias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "esdras_puerta_aguas",
+      "nombre": "Ezra",
+      "rol": "Scribe and priest, restorer of the Law",
+      "periodo": "post_exilio",
+      "descripcion": "He publicly reads the Torah before the entire community gathered in the Plaza de la Puerta de las Aguas, an episode considered foundational for the later centrality of the public reading of the Law in Jewish religious life.",
+      "referencias": [
+        "Neh 8:1-12"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "nehemias_puerta_aguas",
+      "nombre": "Nehemiah",
+      "rol": "Governor of Judah, rebuilder of the walls",
+      "periodo": "post_exilio",
+      "descripcion": "Together with Ezra, he leads the assembly at the Gate of the Waters, encouraging the people to transform the initial crying over the content of the Law into joyful celebration.",
+      "referencias": [
+        "Neh 8:9-12"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "levitas_interpretes_puerta_aguas",
+      "nombre": "Levites interpreters of the Law",
+      "rol": "Assistants in the public explanation of the text",
+      "periodo": "c. 445 BC",
+      "descripcion": "Group of Levites mentioned by name who help the people understand the meaning of the Law read by Ezra, a precursor to the later practice of public explanation and interpretation of the sacred text.",
+      "referencias": [
+        "Neh 8:7-8"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The square of the Water Gate is, within the corpus of the Old Testament, the scene of the founding act of the solemn public reading of the Torah before the entire community, a moment that later Jewish traditions consider the symbolic point of origin of central practices of Second Temple and rabbinic Judaism: the synagogal reading of the Law and its public explanation to the congregation.",
+    "religiones_presentes": [
+      "Yahwism post-exilic"
+    ],
+    "mitos": [
+      {
+        "id": "lectura-publica-ley-puerta-aguas",
+        "nombre": "The origin of the public reading of the Torah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Neh 8:1-18",
+          "fuente_secundaria": "Talmud Babilónico, Meguilá 30a-31a (sobre el origen de la lectura pública de la Torá atribuido a Esdras)",
+          "descripcion": "Rabbinic tradition identifies this episode as the founding moment of the institution of regular public reading of the Torah, attributing to Ezra a role comparable to that of a 'second Moses' in the restoration of the practice of the Law after the exile, establishing precedents that later tradition will develop in the synagogal liturgy.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode marks the symbolic beginning of the centrality of the written text and its public exhibition as the axis of post-exilic Jewish religious life, partially replacing the cult focused exclusively on the Temple sacrifice.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "post_exilio"
+  ]
+}

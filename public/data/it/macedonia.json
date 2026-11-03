@@ -1,0 +1,246 @@
+{
+  "id": "macedonia",
+  "nombre": "Macedonia",
+  "tipo": "territorio",
+  "lat": 40.63,
+  "lng": 22.93,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 30,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Regione nel nord della Grecia, tra i monti Olimpo e Pindo e la costa dell'Egeo. Patria di Alessandro Magno e prima regione europea evangelizzata da Paolo.",
+  "altitud_m": 200,
+  "clima": "Mediterraneo-continentale",
+  "recursos": [
+    "oro",
+    "argento",
+    "legna",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Regno ellenistico che espanse la cultura greca in tutto il mondo conosciuto; nel NT, il primo suolo europeo del Vangelo.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "mac_h1",
+      "titulo": "La visione macedone di Paolo",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "In Troad Paolo ha la visione di un macedone che dice \"Vieni in Macedonia e aiutaci\"; il Vangelo attraversa l'Europa.",
+      "referencias": [
+        "At 16:9-10"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Lucas"
+      ]
+    },
+    {
+      "id": "mac_h2",
+      "titulo": "Le chiese macedoni e la loro generosità",
+      "fecha": "ca. 55-57 d.C.",
+      "descripcion": "Paolo elogia la generosità dei macedoni (Filippine e Salonicco) che hanno donato ai poveri di Gerusalemme nonostante la loro stessa povertà.",
+      "referencias": [
+        "2 Cor 8:1-5"
+      ],
+      "personajes_clave": [
+        "Pablo"
+      ]
+    },
+    {
+      "id": "mac_h3",
+      "titulo": "Paolo nella prigione filippina",
+      "fecha": "ca. 50 d.C.",
+      "descripcion": "Imprigionati a Filippi, Paolo e Sila cantano inni; Un terremoto apre le porte e il carceriere si converte.",
+      "referencias": [
+        "At 16:23-34"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Silas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "mac_p1",
+      "nombre": "Paolo di Tarso",
+      "rol": "Apostolo",
+      "periodo": "ca. 5-67 d.C.",
+      "descripcion": "Portò il Vangelo in Macedonia in risposta alla visione; Fondò chiese a Filippi, Salonicco e Berea.",
+      "referencias": [
+        "At 16:10"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mac_p2",
+      "nombre": "Alessandro Magno",
+      "rol": "Re di Macedonia",
+      "periodo": "356-323 a.C.",
+      "descripcion": "Conquistò il mondo conosciuto e diffuse il greco come lingua franca, preparando il terreno per il Nuovo Testamento.",
+      "referencias": [
+        "Historia"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "mac_p3",
+      "nombre": "Lidia",
+      "rol": "Mercante, primo convertito europeo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Nato a Tiatira, stabilito a Filippi (Macedonia); battezzato per la prima volta sul suolo europeo.",
+      "referencias": [
+        "At 16:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Terra dell'ellenismo; nel NT, il terreno dove il Vangelo ha compiuto il salto dall'Asia all'Europa, realizzando la visione del Macedone.",
+    "religiones_presentes": [
+      "greco_roman_paganesimo",
+      "imperial_cult",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "mac_m1",
+        "nombre": "Il trasferimento in Europa",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La visione del Macedone a Troade riorientò la missione paolina dall'Asia all'Europa; La Chiesa occidentale è nata in Macedonia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La visione del Macedone a Troade riorientò la missione paolina dall'Asia all'Europa; La Chiesa occidentale è nata in Macedonia.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "mac_nt_h1",
+        "titulo": "Paolo fonda la prima chiesa europea a Filippi",
+        "fecha": "ca. 50 d.C.",
+        "descripcion": "Presso il fiume a Filippi, Paolo predica a Lidia e alla sua famiglia; Nasce la prima comunità cristiana in Europa.",
+        "referencias": [
+          "At 16:12-15"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Lidia"
+        ]
+      },
+      {
+        "id": "mac_nt_h2",
+        "titulo": "Le lettere ai Tessalonicesi: prime epistole del Nuovo Testamento",
+        "fecha": "ca. 51 d.C.",
+        "descripcion": "Paolo scrive da Corinto alla chiesa di Tessalonica: le lettere più antiche del NT.",
+        "referencias": [
+          "1 Ts 1:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "mac_nt_h3",
+        "titulo": "Generosità macedone",
+        "fecha": "ca. 56 d.C.",
+        "descripcion": "Le chiese povere della Macedonia donano generosamente ai santi di Gerusalemme, essendo un modello di liberalità.",
+        "referencias": [
+          "2 Cor 8:1-5"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "mac_nt_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Macedonia evangelizzata; Fondò le chiese di Filippi, Tessalonica e Berea.",
+        "referencias": [
+          "At 16:10"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mac_nt_p2",
+        "nombre": "silas",
+        "rol": "Missionario",
+        "periodo": "s. I d.C.",
+        "descripcion": "Partner di Paolo nell'evangelizzazione della Macedonia.",
+        "referencias": [
+          "At 16:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "mac_nt_p3",
+        "nombre": "Lidia",
+        "rol": "Primo convertito europeo",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mercante di Tiatira battezzato a Filippi di Macedonia.",
+        "referencias": [
+          "At 16:14"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "La Macedonia è stata il primo territorio europeo in cui il Vangelo ha messo radici profonde.",
+      "religiones_presentes": [
+        "greco_roman_paganesimo",
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "mac_nt_m1",
+          "nombre": "La visione del macedone",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Una visione notturna ha reindirizzato la missione di Paolo dall'Asia alla Macedonia; momento centrale della storia cristiana.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Una visione notturna ha reindirizzato la missione di Paolo dall'Asia alla Macedonia; momento centrale della storia cristiana.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

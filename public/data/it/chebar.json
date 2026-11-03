@@ -1,0 +1,166 @@
+{
+  "id": "chebar",
+  "nombre": "fiume Quebar",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 33.159129,
+  "lng": 44.06293,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "agua_mayor",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del Ferro II - Esilio e visioni di Ezechiele"
+    }
+  ],
+  "descripcion_geo": "Canale o fiume in Babilonia, accanto al quale si stabilisce la comunità degli esuli ebrei deportati dopo la prima caduta di Gerusalemme, e dove il profeta Ezechiele riceve le sue prime e più elaborate visioni profetiche.",
+  "altitud_m": 30,
+  "clima": "Mesopotamia Deserto — estati estremamente calde e secche, inverni miti, tipici della pianura alluvionale babilonese.",
+  "recursos": [
+    "Canale navigabile della rete idraulica babilonese",
+    "Insediamento della comunità degli esuli ebrei",
+    "Scenario delle visioni profetiche di Ezechiele"
+  ],
+  "importancia_estrategica": "Il fiume Chebar non ha alcuna rilevanza strategica militare, ma è di massima importanza teologica in quanto luogo in cui Ezechiele, un sacerdote deportato insieme alla prima ondata di esuli, riceve la visione inaugurale del suo ministero profetico – la visione del carro divino con le creature viventi e le ruote – stabilendo questo luogo come punto di origine di uno dei corpus profetici più elaborati e visionari dell'intero Antico Testamento.",
+  "otros_habitantes": [
+    {
+      "id": "exiliados_judios_chebar",
+      "nombre": "Giuda Comunità in esilio",
+      "descripcion": "Popolazione ebraica deportata da Nabucodonosor che si insedia presso il fiume Chebar, tra cui lo stesso profeta Ezechiele, formando una comunità organizzata in territorio babilonese.",
+      "religion": "Yahvismo (in esilio)",
+      "periodo": "C. 597–571 a.C"
+    },
+    {
+      "id": "ancianos_juda_chebar",
+      "nombre": "Giuda Anziani",
+      "descripcion": "Leader della comunità in esilio che si incontrano nella casa di Ezechiele vicino al Quebar, ricevendo tramite lui vari oracoli e visioni durante il periodo di esilio.",
+      "religion": "Yahvismo",
+      "periodo": "C. 593–571 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "vision-inaugural-ezequiel-chebar",
+      "titulo": "La visione inaugurale di Ezechiele accanto al Quebar",
+      "fecha": "c. 593 a.C.",
+      "descripcion": "In piedi tra i deportati presso il fiume Chebar, Ezechiele vede i cieli aperti e riceve l'elaborata visione del carro divino, con quattro creature viventi, ruote su ruote e la gloria di YHWH sotto forma di una figura umana su un trono, inaugurando formalmente il suo ministero profetico con una delle teofanie più dettagliate e simbolicamente complesse dell'intero Antico Testamento.",
+      "referencias": [
+        "Ez 1:1-28"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "llamado-vocacion-ezequiel-chebar",
+      "titulo": "La chiamata e l'incarico profetico di Ezechiele",
+      "fecha": "c. 593 a.C.",
+      "descripcion": "In seguito alla visione del carro divino, YHWH chiama formalmente Ezechiele 'figlio dell'uomo' e lo incarica di parlare alla 'casa ribelle' di Israele, consegnandogli un rotolo scritto che il profeta deve simbolicamente mangiare prima di iniziare il suo ministero di avvertimento.",
+      "referencias": [
+        "Ez 2:1-3:3"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    },
+    {
+      "id": "visiones-posteriores-chebar",
+      "titulo": "Visioni successive ricevute nei pressi del Quebar",
+      "fecha": "c. 592–571 a.C.",
+      "descripcion": "Il fiume Chebar riappare come ambientazione in diversi punti successivi nel libro di Ezechiele, inclusa la visione di Gerusalemme delle abominazioni del Tempio e la visione finale della restaurazione del Tempio, confermando questa posizione come un'ancora geografica ricorrente per l'intero ministero visionario del profeta.",
+      "referencias": [
+        "Ez 3:15",
+        "Ez 10:15-22",
+        "Ez 43:3"
+      ],
+      "personajes_clave": [
+        "ezequiel"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequiel_chebar",
+      "nombre": "Ezechiele",
+      "rol": "Sacerdote e profeta dell'esilio",
+      "periodo": "hierro_2",
+      "descripcion": "Accanto al fiume Chebar riceve la visione inaugurale e diverse visioni successive che costituiscono il nucleo del suo ampio ed elaborato ministero profetico durante l'esilio babilonese.",
+      "referencias": [
+        "Ez 1:1-3",
+        "Ez 3:15",
+        "Ez 10:15"
+      ],
+      "ruta": [
+        "jerusalen",
+        "chebar"
+      ]
+    },
+    {
+      "id": "ancianos_juda_chebar_personaje",
+      "nombre": "Giuda Anziani in esilio",
+      "rol": "Leader della comunità in esilio",
+      "periodo": "c. 593–571 a.C.",
+      "descripcion": "Si incontrano periodicamente a casa di Ezechiele vicino al Quebar, ricevendo vari oracoli attraverso di lui e assistendo ad alcune delle sue visioni e azioni simboliche più elaborate.",
+      "referencias": [
+        "Ez 8:1",
+        "Ez 14:1",
+        "Ez 20:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "comunidad_exilio_chebar",
+      "nombre": "Comunità di esuli ebrei",
+      "rol": "Popolazione deportata stabilitasi vicino al Quebar",
+      "periodo": "c. 597–571 a.C.",
+      "descripcion": "Comunità organizzata di ebrei deportati che mantiene la propria identità religiosa e comunitaria in territorio straniero, principale destinatario dell'ampio ministero profetico di Ezechiele.",
+      "referencias": [
+        "Ez 1:1",
+        "Ez 3:15"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il fiume Chebar è il luogo fondatore del ministero profetico di Ezechiele, sacerdote che, privato del Tempio di Gerusalemme a causa dell'esilio, riceve in territorio straniero alcune delle visioni teologicamente più elaborate e simbolicamente complesse dell'intero Antico Testamento, stabilendo il principio teologico che la presenza e la rivelazione di YHWH non è geograficamente limitata alla terra di Israele o al Tempio di Gerusalemme, ma può essere pienamente manifestato anche nel cuore stesso del territorio dell'impero conquistatore",
+    "religiones_presentes": [
+      "Yahvismo (comunità in esilio)",
+      "Politeismo babilonese (contesto di esilio)"
+    ],
+    "mitos": [
+      {
+        "id": "vision-carro-divino-chebar",
+        "nombre": "La visione del carro divino (Merkava) accanto al fiume Chebar",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ez 1:1-28",
+          "fuente_secundaria": "Tradición mística judía de la Merkavá (literalmente 'carro'), desarrollada extensamente en textos místicos posteriores como fundamento de toda una corriente de misticismo judío centrada en la contemplación del trono divino",
+          "descripcion": "La tradizione ebraica sviluppa dalla visione di Ezechiele accanto al Chebar un'intera corrente mistica indipendente nota come 'misticismo Merkavah', che nei secoli successivi elaborerà tecniche contemplative e ampie speculazioni teologiche sul significato delle creature viventi, delle ruote e del trono divino descritti in questo capitolo inaugurale, facendo dell'episodio il fondamento testuale di un'intera tradizione esoterica ebraica.",
+          "similitudes": "Condivide con il cristianesimo il riconoscimento dell'eccezionale profondità simbolica di questa visione.",
+          "diferencias": null,
+          "significado_teologico": "La visione del Chebar stabilisce che la gloria e la presenza di YHWH trascendono completamente i limiti geografici del Tempio terreno, e possono manifestarsi pienamente anche in terra straniera durante l'esilio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ez 1:1-28 (recepción tipológica en la literatura apocalíptica cristiana, especialmente Apocalipsis 4)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan las cuatro criaturas vivientes de Ezequiel con los cuatro evangelistas en la iconografía cristiana tradicional",
+          "descripcion": "La tradizione cristiana riprende direttamente l’immagine delle quattro creature viventi dalla visione di Ezechiele – che riappare in modo quasi identico nel libro dell’Apocalisse – e sviluppa anche una tradizione iconografica che associa ciascuna delle quattro creature ai quattro evangelisti, trasformando la visione di Chebar in una fonte diretta di duraturo simbolismo artistico e teologico cristiano.",
+          "similitudes": "Condivide con la lettura ebraica il riconoscimento della profondità simbolica unica di questa visione inaugurale.",
+          "diferencias": "La specifica applicazione cristiana delle quattro creature ai quattro evangelisti è una particolare elaborazione iconografica assente nella tradizione ebraica.",
+          "significado_teologico": "La visione di Ezechiele diventa una fonte testuale diretta dell'immaginario apocalittico cristiano sul trono celeste, reinterpretato anche in chiave del simbolismo evangelico.",
+          "posible_relacion_cultural": "Recezione cristiana diretta dell'immaginario visionario di Ezechiele, ripreso quasi alla lettera nel libro dell'Apocalisse."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

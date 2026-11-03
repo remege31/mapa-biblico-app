@@ -1,0 +1,133 @@
+{
+  "id": "kanah",
+  "nombre": "Cana of the river",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.75,
+  "lng": 35.34,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "AT Period"
+    }
+  ],
+  "descripcion_geo": "The River Cana (not the city of Cana of Galilee) marked the boundary between the tribes of Ephraim and Manasseh.",
+  "altitud_m": 300,
+  "clima": "Mediterranean",
+  "recursos": [
+    "grazing",
+    "agriculture"
+  ],
+  "importancia_estrategica": "River border between Ephraim and Manasseh.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kan_h1",
+      "titulo": "The Cana River as a tribal border",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "The Cana River marked the northern boundary of Ephraim and the southern boundary of Manasseh in the promised land.",
+      "referencias": [
+        "Josh 16:8",
+        "Josh 17:9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h2",
+      "titulo": "The cities of Manasseh south of Cana",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "Some cities south of the Cana River belonged to Manasseh although they were within the territory of Ephraim.",
+      "referencias": [
+        "Josh 17:9-10"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h3",
+      "titulo": "Cana in the description of the borders",
+      "fecha": "ca. 1220 BC",
+      "descripcion": "The detailed description of the tribal boundaries in Joshua includes the Cana River as a precise marker.",
+      "referencias": [
+        "Josh 16:8"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kan_p1",
+      "nombre": "Joshua",
+      "rol": "Conqueror and distributor of the earth",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "He used the Cana River as a border between Ephraim and Manasseh.",
+      "referencias": [
+        "Josh 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p2",
+      "nombre": "tribe of Ephraim",
+      "rol": "Israelite tribe",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "Cana was the northern limit of their inheritance.",
+      "referencias": [
+        "Josh 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p3",
+      "nombre": "tribe of Manasseh",
+      "rol": "Israelite tribe",
+      "periodo": "ca. 1220 BC",
+      "descripcion": "Cana was the southern limit of their inheritance.",
+      "referencias": [
+        "Josh 17:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Cana of the river: relevant geographic region in the Old Testament.",
+    "religiones_presentes": [
+      "Judaism",
+      "paganism_Canaanite"
+    ],
+    "mitos": [
+      {
+        "id": "kan_m1",
+        "nombre": "The river as a border",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The rivers are providential borders in the division of the land: the Cana separates two half tribes of the same patriarch Joseph.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The rivers are providential borders in the division of the land: the Cana separates two half tribes of the same patriarch Joseph.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

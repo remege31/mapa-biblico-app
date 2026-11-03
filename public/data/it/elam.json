@@ -1,0 +1,147 @@
+{
+  "id": "elam",
+  "nombre": "elam",
+  "tipo": "territorio",
+  "lat": 32.19,
+  "lng": 48.26,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Antico regno a est di Mesopotamia (l'attuale Khuzestan, Iran), con capitale a Susa. Una delle potenze più antiche del Medio Oriente.",
+  "altitud_m": 100,
+  "clima": "continentale-arido",
+  "recursos": [
+    "argento",
+    "lana",
+    "cereali",
+    "commercio"
+  ],
+  "importancia_estrategica": "Potenza che conquistò Lot ai tempi di Abramo e fu successivamente conquistata dagli Assiri; scenario dal libro di Daniele.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ela_h1",
+      "titulo": "Chedorlaomer re di Elam cattura Lot",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "Il re elamita Chedorlaomer guida una coalizione di re che cattura Lot a Sodoma; Abramo lo salva con 318 uomini.",
+      "referencias": [
+        "Gen 14:1-16"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot",
+        "Quedorlaómer"
+      ]
+    },
+    {
+      "id": "ela_h2",
+      "titulo": "Susa di Elam: scena di Ester e Daniele",
+      "fecha": "ca. 480-350 a.C.",
+      "descripcion": "La capitale dell'Elam, Susa, divenne la capitale dei Persiani; Lì sono ambientati i libri di Ester e parte di Daniele.",
+      "referencias": [
+        "Est 1:2",
+        "Dn 8:2"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Daniel"
+      ]
+    },
+    {
+      "id": "ela_h3",
+      "titulo": "Le nazioni a Pentecoste includono gli Elamiti",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Tra i presenti alla Pentecoste che hanno ascoltato il Vangelo ci sono gli Elamiti dell'antica regione dell'Elam.",
+      "referencias": [
+        "At 2:9"
+      ],
+      "personajes_clave": [
+        "elamitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ela_p1",
+      "nombre": "Chedorlaomer",
+      "rol": "Re dell'Elam",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Leader della prima guerra ricordata nella Bibbia; sconfitto da Abramo.",
+      "referencias": [
+        "Gen 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p2",
+      "nombre": "Daniele",
+      "rol": "Profeta",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Ebbe una visione dell'ariete e del capro presso il fiume Ulai a Susa di Elam.",
+      "referencias": [
+        "Dn 8:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p3",
+      "nombre": "Abramo",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Ha sconfitto il re di Elam e ha salvato suo nipote Lot con soli 318 uomini.",
+      "referencias": [
+        "Gen 14:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elam: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ela_m1",
+        "nombre": "La prima guerra della Bibbia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La coalizione elamita che catturò Lot è la prima guerra narrata nell'Antico Testamento; Abramo ha vinto con un piccolo contingente, segno della potenza di Dio.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La coalizione elamita che catturò Lot è la prima guerra narrata nell'Antico Testamento; Abramo ha vinto con un piccolo contingente, segno della potenza di Dio.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "At 2,9",
+          "fuente_secundaria": "",
+          "descripcion": "Gli Elamiti ascoltarono il Vangelo a Pentecoste (At 2,9): il Vangelo arriva anche nella terra dei primi nemici di Abramo.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Gli Elamiti ascoltarono il Vangelo a Pentecoste (At 2,9): il Vangelo arriva anche nella terra dei primi nemici di Abramo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

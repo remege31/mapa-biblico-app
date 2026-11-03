@@ -1,0 +1,163 @@
+{
+  "id": "ono",
+  "nombre": "Ono",
+  "tipo": "ciudad",
+  "lat": 32.02222222222223,
+  "lng": 34.86666666666667,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Insediamento benjaminita"
+    },
+    {
+      "desde": -586,
+      "hasta": -400,
+      "nombre": "Post-esilio: ricostruzione e resistenza a Sanballat"
+    }
+  ],
+  "descripcion_geo": "Piccola città sulla pianura costiera di Sharon, nella valle a cui ha dato il nome (\"valle degli artigiani\" o Ono), vicino a Lod, a circa 15 km a sud-est di Joppa. Terreno pianeggiante e fertile tipico della pianura costiera, senza rilievi significativi.",
+  "altitud_m": 30,
+  "clima": "Mediterraneo costiero: estati calde e secche, inverni miti con precipitazioni moderate.",
+  "recursos": [
+    "Terreni agricoli della pianura di Sharon",
+    "Artigianato (tradizione legata al nome della valle)",
+    "Vicinanza alla strada costiera verso Joppa e Lod"
+  ],
+  "importancia_estrategica": "Ono non aveva un proprio peso militare o religioso, ma la sua menzione insieme a Lod negli elenchi genealogici e nel resoconto della ricostruzione delle mura la colloca come parte della cintura di insediamenti benjaminiti rioccupati dopo il ritorno dall'esilio, in una delicata zona di confine tra Giuda e le province vicine ostili alla ricostruzione.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos_ono",
+      "nombre": "Cananei della pianura di Sharon",
+      "descripcion": "Popolazione originaria della pianura costiera prima dell'occupazione israeliana, dedita all'agricoltura irrigua su terreni pianeggianti.",
+      "religion": "Politeismo Cananeo: culto di Baal e divinità agrarie",
+      "periodo": "Prima del c. 1000 a.C"
+    },
+    {
+      "id": "benjaminitas_ono",
+      "nombre": "Clan di Beniamino",
+      "descripcion": "Famiglie della tribù di Beniamino che ricostruiscono e ripopolano Ono insieme a Lod dopo il ritorno dall'esilio babilonese, secondo il censimento di Esdra-Neemia.",
+      "religion": "Yahvismo post-esilico",
+      "periodo": "C. 538–400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "censo-retornados-ono",
+      "titulo": "Ono nel censimento dei rimpatriati",
+      "fecha": "c. 538 a.C.",
+      "descripcion": "Gli abitanti di Lod, Hadid e Ono risultano iscritti tra i discendenti degli esuli di ritorno da Babilonia, nell'ambito della ricostituzione della comunità ebraica nella loro terra.",
+      "referencias": [
+        "Esd 2:33",
+        "Ne 7:37"
+      ],
+      "personajes_clave": [
+        "zorobabel"
+      ]
+    },
+    {
+      "id": "trampa-sanbalat-ono",
+      "titulo": "Neemia respinge la trappola nella pianura di Ono",
+      "fecha": "c. 445 a.C.",
+      "descripcion": "Sanballat e i suoi alleati invitano ripetutamente Neemia a incontrarsi in uno dei villaggi della pianura di Ono con l'intenzione di fargli del male mentre dirige la ricostruzione delle mura di Gerusalemme; Neemia rifiuta ogni volta, identificando la proposta come uno stratagemma.",
+      "referencias": [
+        "Ne 6:2"
+      ],
+      "personajes_clave": [
+        "nehemias",
+        "sanbalat"
+      ]
+    },
+    {
+      "id": "valle-artesanos",
+      "titulo": "La Valle dell'Ono e gli artigiani",
+      "fecha": "Post-exilio, s. V a.C. (contexto)",
+      "descripcion": "La valle associata a Ono è tradizionalmente legata a una corporazione di artigiani menzionata nelle genealogie delle cronache, che riflette l'organizzazione per mestiere di alcune famiglie rimpatriate.",
+      "referencias": [
+        "1 Cr 8:12"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "nehemias",
+      "nombre": "Neemia",
+      "rol": "Governatore di Giuda, ricostruttore delle mura di Gerusalemme",
+      "periodo": "post_exilio",
+      "descripcion": "Coppiere del re persiano che guida la ricostruzione delle mura di Gerusalemme; Respinge quattro volte l'invito di Sanballat a incontrarsi nella pianura di Ono, riconoscendo il pericolo di abbandonare il lavoro.",
+      "referencias": [
+        "Ne 6:1-9"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen",
+        "ono"
+      ]
+    },
+    {
+      "id": "sanbalat",
+      "nombre": "Horonite Sanballat",
+      "rol": "Governatore di Samaria, oppositore di Neemia",
+      "periodo": "Activo c. 445 a.C.",
+      "descripcion": "Leader samaritano che si oppone attivamente alla ricostruzione di Gerusalemme; Cerca di attirare Neemia fuori dalla città, proponendo un incontro nella pianura di Ono per scopi ostili.",
+      "referencias": [
+        "Ne 6:1-4",
+        "Ne 2:10"
+      ],
+      "ruta": [
+        "ono"
+      ]
+    },
+    {
+      "id": "zorobabel",
+      "nombre": "Zorobabele",
+      "rol": "Governatore di Giuda dopo l'esilio",
+      "periodo": "post_exilio",
+      "descripcion": "Leader della prima ondata di rimpatriati sotto la cui guida si registra il censimento delle famiglie che ripopolano città come Ono, Lod e Hadid.",
+      "referencias": [
+        "Esd 2:1-35"
+      ],
+      "ruta": [
+        "mesopotamia",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ono non ha una propria tradizione mitica o cultuale; La sua rilevanza è esclusivamente storico-amministrativa, legata alla ricostituzione della comunità jahvista post-esilica e all'episodio della resistenza di Neemia contro l'opposizione samaritana. Rappresenta il tipo di località minore la cui importanza narrativa deriva interamente dalla sua menzione nel racconto del restauro, non da un culto o una leggenda legata al luogo stesso.",
+    "religiones_presentes": [
+      "Yahvismo post-esilico",
+      "Politeismo Cananeo (periodo prima dell'occupazione israeliana)"
+    ],
+    "mitos": [
+      {
+        "id": "ono-trampa-frustrada",
+        "nombre": "La pianura di Ono come luogo della trappola sventata",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ne 6:1-4",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre Nehemías como modelo de perseverancia (zeriz, 'diligente') frente a la distracción",
+          "descripcion": "La tradizione ebraica legge l'episodio di Ono come un esempio paradigmatico di discernimento di fronte al pericolo mascherato da dialogo: Neemia individua l'intenzione ostile dietro un invito apparentemente neutrale e rifiuta di abbandonare «la grande opera» che sta portando avanti.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il rifiuto di Neemia esemplifica la fedeltà alla missione al di sopra della convenienza diplomatica o del rischio personale.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

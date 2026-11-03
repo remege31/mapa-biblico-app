@@ -1,0 +1,172 @@
+{
+  "id": "machpelah",
+  "nombre": "Machpela",
+  "tipo": "ciudad",
+  "lat": 31.52464794555393,
+  "lng": 35.11073465087356,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1500,
+      "hasta": -1200,
+      "nombre": "Late Bronze Age — Continued patriarchal burial"
+    }
+  ],
+  "descripcion_geo": "Double cave ('machpela' means 'double' or 'double') located in a field opposite Mamre, near Hebron, purchased by Abraham from Ephron the Hittite as a family burial site. It became the funerary pantheon for three generations of Israel patriarchs and matriarchs.",
+  "altitud_m": 930,
+  "clima": "Mountain Mediterranean — that of the Hebron region.",
+  "recursos": [
+    "Natural cave in limestone terrain",
+    "Field with trees, acquired together with the cave"
+  ],
+  "importancia_estrategica": "Macpella has no strategic relevance in a military or economic sense; Its importance is genealogical-theological as the first portion of land legally acquired by the patriarchs in Canaan and as a funerary pantheon that physically links the three founding generations—Abraham and Sarah, Isaac and Rebekah, Jacob and Leah—with the promised land, serving as an implicit argument for the legitimacy of the subsequent Israelite possession.",
+  "otros_habitantes": [
+    {
+      "id": "heteos_macpela",
+      "nombre": "Sons of Heth (Hittites)",
+      "descripcion": "Local population of Hebron before whom Abraham negotiates and formalizes the purchase of the Machpelah field and cave, witnesses of the legal agreement.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 2050 BC"
+    },
+    {
+      "id": "efron_macpela",
+      "nombre": "Ephron the Hittite and his descendants",
+      "descripcion": "Original owner of the field and cave, formal seller of the land to Abraham for four hundred shekels of silver.",
+      "religion": "Polytheism Canaanite",
+      "periodo": "c. 2050 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sepultura-sara-macpela",
+      "titulo": "Burial of Sarah at Machpelah",
+      "fecha": "c. 2029 BC",
+      "descripcion": "Following Sarah's death in Hebron, Abraham formally purchases the field and cave of Machpelah from Ephron the Hittite and buries her there, marking the first patriarchal burial in the Promised Land and Abraham's first legal possession of land in Canaan.",
+      "referencias": [
+        "Gen 23:1-20"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "sepultura-abraham-isaac-macpela",
+      "titulo": "Burial of Abraham, Isaac, Rebeca, Lea and Jacob",
+      "fecha": "c. 1991–1859 BC (Abraham e Isaac, cronología tradicional)",
+      "descripcion": "After Sarah, Abraham (for Isaac and Ishmael), then Isaac and Rebekah, and finally Leah, are buried successively in Machpelah, turning the cave into the common funerary pantheon of the three founding patriarchal generations.",
+      "referencias": [
+        "Gen 25:9-10",
+        "Gen 49:31"
+      ],
+      "personajes_clave": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "jacob-pide-sepultura-macpela",
+      "titulo": "Jacob asks to be buried in Machpela",
+      "fecha": "c. 1859 BC (cronología tradicional)",
+      "descripcion": "From Egypt, the dying Jacob explicitly instructs his children to take his body back to Canaan to be buried in the cave of Machpelah, next to his parents and grandparents, remembering in detail the original purchase of the land by Abraham.",
+      "referencias": [
+        "Gen 49:29-32",
+        "Gen 50:12-13"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "abraham_macpela",
+      "nombre": "Abraham",
+      "rol": "Patriarch, buyer and first buried in Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "He formally purchases the field and cave of Machpelah to bury Sarah, thus establishing the patriarchs' first legal and permanent possession in the land of Canaan.",
+      "referencias": [
+        "Gen 23:1-20",
+        "Gen 25:9-10"
+      ],
+      "ruta": [
+        "mamre",
+        "machpelah"
+      ]
+    },
+    {
+      "id": "isaac_macpela",
+      "nombre": "Isaac",
+      "rol": "Patriarch, second buried in Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "Son of Abraham, buried in Machpelah by his sons Esau and Jacob, continuing the line of the patriarchal family pantheon in the same place acquired by his father.",
+      "referencias": [
+        "Gen 35:27-29"
+      ],
+      "ruta": [
+        "machpelah"
+      ]
+    },
+    {
+      "id": "jacob_macpela",
+      "nombre": "Jacob",
+      "rol": "Patriarch, last buried in Machpelah",
+      "periodo": "bronce_medio",
+      "descripcion": "He expressly requests from Egypt to be buried in Machpela alongside his parents and grandparents; his children fulfill the request by transporting his embalmed body back to Canaan in a solemn funeral procession.",
+      "referencias": [
+        "Gen 49:29-33",
+        "Gen 50:1-14"
+      ],
+      "ruta": [
+        "egipto",
+        "machpelah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Machpelah is the most concrete physical anchor of the patriarchal cycle in the land of Canaan: while the divine promises are verbal and future, the possession of this tomb is present, legal and tangible. Its function as a common pantheon of three generations makes the place a symbol of family continuity and territorial roots, serving as an implicit argument—and central in the three Abrahamic traditions—of the historical legitimacy of the presence of the people of Abraham on the land.",
+    "religiones_presentes": [
+      "Patriarchal Yahwism",
+      "Polytheism Canaanite (Hittites, original sellers)"
+    ],
+    "mitos": [
+      {
+        "id": "panteon-patriarcal-macpela",
+        "nombre": "Machpela as the founding pantheon of the patriarchs",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 23:1-20; Gén 25:9-10; Gén 49:29-33; Gén 50:12-13",
+          "fuente_secundaria": "Midrash Bereshit Rabbah 58; tradición sobre la Cueva de los Patriarcas (Mearat HaMajpela) como segundo lugar más sagrado del judaísmo después del Monte del Templo",
+          "descripcion": "Jewish tradition considers Machpelah the second most sacred place in Judaism, developing extensive midrashic traditions about the origin of the cave - some even link it with the burial of Adam and Eve - and about the meaning of its name as 'double' referring to the couples buried there.",
+          "similitudes": "It shares with Christianity and Islam the recognition of Abraham and the patriarchs as foundational figures buried in the same venerated place.",
+          "diferencias": null,
+          "significado_teologico": "The cave represents the promise of the land made tangible and inheritable, the foundation of the identity and continuity of the people of Israel through generations.",
+          "posible_relacion_cultural": "Shared tradition of the patriarch Abraham and his descendants as a founding figure common to the three Abrahamic religions."
+        },
+        "cristianismo": {
+          "fuente_primaria": "Acts 7:15-16 (referencia retrospectiva en el discurso de Esteban); Heb 11:8-9 (fe de Abraham como peregrino en la tierra prometida)",
+          "fuente_secundaria": "Comentarios patrísticos sobre la fe de los patriarcas como modelo de esperanza en promesas no vistas",
+          "descripcion": "Christian tradition takes up the purchase of Machpelah as a paradigmatic example, cited in the Letter to the Hebrews, of the faith of the patriarchs who possess only a minimal portion of the promised land (a tomb) while they wait for the full fulfillment of a greater promise, read in an eschatological key.",
+          "similitudes": "Shares recognition of the foundational importance of Abraham's purchase of Macpela.",
+          "diferencias": "The Christian reading tends to subordinate the specific territorial value of Machpelah to its function as a symbol of faith in transcendent promises not yet fully fulfilled.",
+          "significado_teologico": "The minimal and symbolic possession of the tomb is interpreted as an advance of a greater and definitive inheritance promised to believers.",
+          "posible_relacion_cultural": "Shared tradition of the patriarch Abraham as a model of faith common to Judaism and Christianity."
+        },
+        "islam": {
+          "fuente_primaria": "Tradición islámica extracoránica sobre Ibrahim como Jalil Allah ('amigo de Dios') y su sepultura en Hebrón (al-Khalil)",
+          "fuente_secundaria": "Tradiciones hadiz y exégesis posterior que identifican Hebrón (al-Khalil, 'el amigo', epíteto de Ibrahim) con el lugar de su sepultura",
+          "descripcion": "Islamic tradition, although the Quran does not detail the episode of the purchase of Machpelah, recognizes Ibrahim's burial in Hebron - a city that in Arabic is called al-Khalil in his honor - and venerates the place (the Haram al-Ibrahimi) as a shared sacred site linked to the common patriarch.",
+          "similitudes": "Shared recognition of Ibrahim/Abraham as a figure buried in the same place revered by all three traditions.",
+          "diferencias": "Islamic tradition does not develop the detailed account of the legal purchase of the land from Ephron present in Genesis; the emphasis falls on Ibrahim's holiness as 'friend of God' rather than on the land acquisition narrative.",
+          "significado_teologico": "The place is integrated into the chain of prophetic sanctity recognized by Islam, linking Hebron with the common Abrahamic tradition.",
+          "posible_relacion_cultural": "Shared recognition of Hebron/Macpelah as a sacred site of the Abrahamic tradition common to all three religions."
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio"
+  ]
+}

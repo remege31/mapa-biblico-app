@@ -1,0 +1,161 @@
+{
+  "id": "peniel",
+  "nombre": "Penuel",
+  "tipo": "ciudad",
+  "lat": 32.1843727808126,
+  "lng": 35.70287002746794,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 7,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Site of the Jacob fight, destroyed by Gideon"
+    }
+  ],
+  "descripcion_geo": "Place next to the Jabbok, in Gilead, whose name ('face of God') directly commemorates the declaration of Jacob after his night fight: 'I have seen God face to face, and my soul was delivered'. Later it became a fortified city with a defensive tower.",
+  "altitud_m": 250,
+  "clima": "Mountain Mediterranean — dry and hot summers, cold winters with rain, typical of the Gilead region.",
+  "recursos": [
+    "Jacob Theophany Memorial Site",
+    "Fortified tower (mentioned in the Gideon episode)"
+  ],
+  "importancia_estrategica": "Penuel is, above all, the place where Jacob directly receives theophanic confirmation of his nocturnal encounter with the divine; Centuries later, his refusal to support Gideon during the persecution of the Midianite kings—in exact parallel with Sukkot—results in the destruction of his fortified tower as an exemplary punishment for the same lack of tribal solidarity.",
+  "otros_habitantes": [
+    {
+      "id": "habitantes_peniel_gedeon",
+      "nombre": "Men of Penuel",
+      "descripcion": "Local population that, like those of Sukkot, refuses to provide aid to Gideon's troops during their persecution of the Midianite kings, causing the subsequent destruction of their tower.",
+      "religion": "Yahwism",
+      "periodo": "c. 1130 BC"
+    },
+    {
+      "id": "gaditas_peniel",
+      "nombre": "Tribe of Gad",
+      "descripcion": "Israelite population settled in the region of Penuel within the territory assigned to Gad in Transjordan.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "jacob-nombra-peniel",
+      "titulo": "Jacob names the place Penuel after seeing God face to face",
+      "fecha": "c. 1900 BC (narrativa)",
+      "descripcion": "Immediately after his night fight and being given the name Israel, Jacob names the place Penuel, declaring to have seen God face to face and to have survived the experience, as the sun rises above him as he limps across the place due to the wound in his thigh.",
+      "referencias": [
+        "Gen 32:30-31"
+      ],
+      "personajes_clave": [
+        "jacob"
+      ]
+    },
+    {
+      "id": "penuel-rechaza-gedeon",
+      "titulo": "Penuel refuses to help Gideon",
+      "fecha": "c. 1130 BC",
+      "descripcion": "Like Sukkot, the men of Penuel refuse to provide bread to Gideon's exhausted troops during the pursuit of Zebah and Zalmunna, responding with the same dismissive attitude as their Sukkot neighbors.",
+      "referencias": [
+        "Judg 8:8-9"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    },
+    {
+      "id": "gedeon-destruye-torre-peniel",
+      "titulo": "Gideon destroys the tower of Penuel",
+      "fecha": "c. 1130 BC",
+      "descripcion": "Following his victory over the Midianite kings, Gideon returns to Penuel and, fulfilling his previous warning, demolishes the city's fortified tower and kills the men of the population, a punishment significantly more severe than that inflicted on Sukkot.",
+      "referencias": [
+        "Judg 8:17"
+      ],
+      "personajes_clave": [
+        "gedeon"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jacob_peniel",
+      "nombre": "Jacob",
+      "rol": "Patriarch",
+      "periodo": "bronce_medio",
+      "descripcion": "He gives his name to Penuel after declaring to have seen God face to face and survived, marking the place as a site of direct theophany in the patriarchal cycle.",
+      "referencias": [
+        "Gen 32:30-31"
+      ],
+      "ruta": [
+        "jabbok",
+        "peniel",
+        "succoth"
+      ]
+    },
+    {
+      "id": "gedeon_peniel",
+      "nombre": "Gideon",
+      "rol": "Israel Judge",
+      "periodo": "hierro_1",
+      "descripcion": "He punishes the men of Penuel with exceptional severity for their refusal to support his troops, destroying the city's defensive tower and killing its population, in the most extreme parallel episode to the punishment applied to Sukkot.",
+      "referencias": [
+        "Judg 8:8-9",
+        "Judg 8:17"
+      ],
+      "ruta": [
+        "succoth",
+        "peniel"
+      ]
+    },
+    {
+      "id": "hombres_peniel",
+      "nombre": "Men of Penuel",
+      "rol": "Local population punished by Gideon",
+      "periodo": "c. 1130 BC",
+      "descripcion": "They refuse to help Gideon following the same pattern as Sukkot, consequently receiving the most severe punishment of total destruction of his fortified tower.",
+      "referencias": [
+        "Judg 8:17"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Penuel condenses in the same place two episodes of radically opposite theological sign: the transformative theophany of Jacob, who directly receives the vision of the divine and survives to tell the tale, and centuries later, the destructive punishment on a population that fails in basic solidarity towards the people of God in struggle, illustrating that the same place can be a site of both a sanctifying encounter and severe judgment depending on the human response to the circumstances.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "rostro-dios-peniel-mito",
+        "nombre": "See the face of God and survive in Penuel",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gen 32:30",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la tensión entre la declaración de Jacob ('he visto a Dios cara a cara') y la afirmación posterior de que 'nadie puede ver a Dios y vivir' (Éx 33:20)",
+          "descripcion": "Jewish tradition discusses at length the apparent tension between Jacob's statement at Penuel and the later principle expressed to Moses that no human being can see the face of God and survive, proposing various resolutions: that Jacob saw an angelic manifestation rather than God Himself in fullness, or that Jacob's experience was of a different and limited nature from the full vision denied to Moses.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The name Penuel preserves the memory of an exceptional encounter with the divine that, despite its intensity, did not result in the death of Jacob, establishing a limiting case in biblical theology regarding the visibility of God.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gen 32:30 (recepción patrística sobre las teofanías del Antiguo Testamento como anticipos de la revelación plena en Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos que conectan las apariciones divinas veterotestamentarias con la doctrina de la encarnación",
+          "descripcion": "The Christian tradition, particularly the patristic tradition, reads the theophanies of the Old Testament such as Penuel as a partial and veiled anticipation of the full revelation of God that will be completed in the incarnation of Christ, where it is possible to truly see 'the face of God' in a definitive way.",
+          "similitudes": "It shares with Jewish reading the recognition of the exceptional uniqueness of the Jacob meeting.",
+          "diferencias": "The Christian reading adds a typological dimension that connects the episode with the doctrine of the incarnation, absent in the traditional Jewish interpretation.",
+          "significado_teologico": "The theophany of Penuel is read as a partial anticipation of the full and definitive revelation of God manifested in Christ.",
+          "posible_relacion_cultural": "Shared tradition of patriarch Jacob as a founding figure common to Judaism and Christianity."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

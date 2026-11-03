@@ -1,0 +1,196 @@
+{
+  "id": "gath",
+  "nombre": "Gat",
+  "tipo": "ciudad",
+  "lat": 31.6093,
+  "lng": 34.8572,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 34,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I — Una delle cinque città filistee"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II — Città filistea in conflitto con Israele"
+    }
+  ],
+  "descripcion_geo": "Gat (identificato con Tell es-Safi / Tel Zafit, Israele) era situato nella pianura filistea, nella zona di transizione tra la pianura costiera e lo Shephelá (pianura di Giuda). Era la più orientale delle cinque città filistee, la più vicina al territorio israelita di Giuda, e quindi la città di contatto e conflitto più frequente tra Filistei e gli israeliti.",
+  "altitud_m": 105,
+  "clima": "Mediterraneo: più secco degli altopiani Giuda ma con precipitazioni sufficienti (400-500 mm all'anno). Estati calde e secche, inverni miti.",
+  "recursos": [
+    "Terreni agricoli fertili a Shephelá",
+    "Ferro (lavorazione del ferro controllata da Filistei nella regione, monopolio strategico)",
+    "Rotta commerciale tra la pianura costiera e gli altopiani di Giuda"
+  ],
+  "importancia_estrategica": "La più potente delle cinque città filistee secondo il contesto di alcuni racconti. La sua posizione di confine con Giuda lo rese il punto di maggiore attrito tra Filistei e gli israeliti. Gat fu anche il luogo di nascita degli Anakiti sopravvissuti espulsi da Caleb (Gs 11:22), da cui provenivano giganti come Golia.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos-gat",
+      "nombre": "Filistei di Gat",
+      "descripcion": "Gli Filistei erano popoli marittimi di origine egea (forse micenea o cretese) che si stabilirono sulla costa cananea nel XII secolo a.C. Quelli di Gat erano noti per i loro alti guerrieri: i rifugiati anakiti assorbiti dalla popolazione filistea. Golia e i suoi fratelli, tutti provenienti da Gat, sono l'esempio più famoso di questo tipo di guerriero filisteo.",
+      "religion": "Politeismo dei Popoli del Mare - culto di Dagon, Baal-Zebub e divinità di origine egea-Cananeo",
+      "periodo": "C. 1200–800 a.C"
+    },
+    {
+      "id": "anaquitas-gat",
+      "nombre": "Rifugiati anakiti",
+      "descripcion": "Quando Caleb scacciò gli Anakiti da Hebron (Gsè 14:12-15), i sopravvissuti fuggirono a Gaza, Gat e Asdod (Gsè 11:22). Questa presenza di Anakiti in Gat spiega la tradizione dei giganti di Gat: Golia e i suoi quattro fratelli, tutti di grande statura, sono gli ultimi eredi della tradizione dei Refaim-Anakiti che abitavano Canaan prima di Israele.",
+      "religion": "Cananeo politeismo dei Refaiti, fuso con il culto filisteo",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "david-gat",
+      "nombre": "Davide e i suoi follower su Gat",
+      "descripcion": "Inseguito da Saul, Davide si rifugiò a Gat con 600 uomini, sotto la protezione del re filisteo Achis. Fu assegnato a Ziclag come feudo. Questo soggiorno come vassallo filisteo è l'episodio politicamente più compromesso della carriera di Davide: servì un re filisteo mentre faceva irruzione nell'Negev nascondendo Achish. Ittai il Gittita (di Gat), uno dei suoi fedelissimi in questo periodo, lo accompagnò anche durante la ribellione di Absalom.",
+      "religion": "Davidico Yahvismo nel contesto filisteo",
+      "periodo": "C. 1013–1010 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "david-goliat",
+      "titulo": "Davide e Golia: il pastore contro il campione Gat",
+      "fecha": "c. 1025 a.C.",
+      "descripcion": "Golia di Gat, un guerriero che misurava sei cubiti e una spanna (quasi 3 metri), sfidò l'esercito israelita per quaranta giorni nella valle di Elah. Quando nessuno osò affrontarlo, Davide, il più giovane dei figli di Jesse, che stava portando provviste ai suoi fratelli, accettò la sfida. Ha rifiutato l'armatura di Saul ed è uscito con la sua fionda e cinque pietre lisce dal ruscello. La prima pietra affondò nella fronte di Golia. Davide lo decapitò con la sua stessa spada. L'episodio è il più narrato dell'intera Bibbia nella cultura occidentale.",
+      "referencias": [
+        "1 Sam 17:1-58"
+      ],
+      "personajes_clave": [
+        "david",
+        "goliat"
+      ]
+    },
+    {
+      "id": "david-refugio-gat",
+      "titulo": "Davide in Gat: il futuro re come vassallo filisteo",
+      "fecha": "c. 1013 a.C.",
+      "descripcion": "Inseguito da Saul e con 600 uomini, Davide apparve davanti ad Achish, re di Gat, chiedendo rifugio. Achis lo ricevette e gli assegnò Ziklag come feudo. Davide ha effettuato raid contro le città in Negev, ma ha informato Aquis di attaccare Israele e Giuda, nascondendo le loro vere azioni. Quando Aquis convocò Filistei per combattere Israele (la battaglia di Gilboa dove Saul sarebbe morto), i principi Filistei diffidarono di Davide e lo rimandarono a Siclag. L'ambiguità di questo periodo davidico ha generato dibattiti sull'etica politica del futuro re.",
+      "referencias": [
+        "1 Sam 21:10-15",
+        "1 Sam 27:1-12",
+        "1 Sam 29:1-11"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    },
+    {
+      "id": "hazael-gat",
+      "titulo": "Hazael conquista Gat: il declino dei Filistei",
+      "fecha": "c. 830 a.C.",
+      "descripcion": "Re Hazael di Damasco, lo stesso consacrato da Eliseo, conquistò Gat durante la sua espansione verso sud. Questa conquista fu così scioccante che il re Joash di Giuda rese omaggio ad Hazael con i tesori del Tempio per impedire l'attacco a Gerusalemme. La caduta di Gat in mano ad Aram segna l'inizio del declino delle città filistee come potenza regionale. Amos (6:2) menziona Gat come esempio di una grande città caduta, avvertendo Israele che lo stesso destino lo attende.",
+      "referencias": [
+        "2 Re 12:17-18",
+        "Am 6:2"
+      ],
+      "personajes_clave": [
+        "amos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goliat",
+      "nombre": "Golia di Gat",
+      "rol": "Campione filisteo sconfitto da Davide",
+      "periodo": "c. 1025 a.C.",
+      "descripcion": "Golia è l'archetipo biblico della potenza travolgente sconfitta dalla fede e dall'abilità inaspettata. La sua descrizione fisica (altezza, armatura, lancia a rullo) è la più dettagliata di qualsiasi guerriero dell'AT. La sua sfida senza risposta durata quaranta giorni trasforma la sua sconfitta nel contrasto più drammatico possibile. Golia di Gat ha dato un nome in tutte le lingue al gigante sconfitto dai deboli.",
+      "referencias": [
+        "1 Sam 17:1-58",
+        "2 Sam 21:19"
+      ],
+      "ruta": [
+        "gath"
+      ]
+    },
+    {
+      "id": "david-gat-personaje",
+      "nombre": "Davide",
+      "rol": "Vincitore di Golia, fuggitivo in Gat",
+      "periodo": "hierro_2",
+      "descripcion": "Il rapporto di Davide con Gat è duplice: ha sconfitto il suo campione da giovane e si è rifugiato in lei da adulto. Questa dualità riassume la complessità di Davide: l'eroe nazionale che ha bisogno della protezione del nemico per sopravvivere. Ittai il Gittita, un mercenario di Gat che si è unito a Davide, simboleggia come anche in territorio nemico Davide abbia costruito lealtà personali che trascendono i confini etnici.",
+      "referencias": [
+        "1 Sam 17:1-58",
+        "1 Sam 27:1-12",
+        "2 Sam 15:18-22"
+      ],
+      "ruta": [
+        "bethlehem",
+        "gibeah",
+        "gath",
+        "hebron",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ittai-geteo",
+      "nombre": "Ittai il Gittita",
+      "rol": "Mercenario Gat, fedele a Davide fino alla fine",
+      "periodo": "hierro_2",
+      "descripcion": "Ittai di Gat era un mercenario filisteo che si unì a Davide. Quando Absalom si ribellò e Davide fuggì da Gerusalemme, offrì a Ittai la possibilità di restare con il nuovo re: era uno straniero ed un esule. Ittai rispose con parole che ricordano Ruth: Come vive YHWH e come vive il re mio signore, dovunque sarà il re mio signore, lì sarà anche il suo servo, sia nella morte che nella vita. Comandò un terzo dell'esercito davidico nella battaglia contro Absalom. La loro lealtà trascende tutti i confini etnici e politici.",
+      "referencias": [
+        "2 Sam 15:18-22",
+        "2 Sam 18:2-5"
+      ],
+      "ruta": [
+        "gath",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gat è il simbolo biblico della forza bruta filistea e dell'ironia della provvidenza: il gigante cade davanti al pastore con la fionda, il campione del nemico viene sconfitto dal più giovane dei fratelli. La presenza di Davide in Gat come vassallo filisteo è il momento di maggiore ambiguità morale della sua carriera e quello che ha maggiormente sfidato gli apologeti. La lealtà di Ittai il Gittita a Davide durante la ribellione di Absalom offre il contrappunto: anche in Gat, la città del gigante nemico, nascono lealtà che superano le categorie di amico e nemico.",
+    "religiones_presentes": [
+      "Politeismo filisteo (culto di Dagon e Baal-Zebub)",
+      "Davidic Yahvismo (presenza di Davide e dei suoi uomini in Gat)",
+      "Sincretismo dei popoli del mare (miscela di tradizioni egee e cananee)"
+    ],
+    "mitos": [
+      {
+        "id": "david-goliat-mito",
+        "nombre": "Davide e Golia: il piccolo che sconfigge il gigante",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Samuel 17:1-58",
+          "fuente_secundaria": "Talmud Bavli, Sotá 42b; Midrash Shmuel 20; Yalkut Shimoni, Shmuel 130",
+          "descripcion": "Il Talmud esplora il merito che ha permesso a Davide di vincere: è la ricompensa per la modestia e la fede. Il Midrash sviluppa il dialogo tra Davide e Golia con elementi drammatici. L'identificazione del nome di Dio con cui Davide lanciò la pietra – sulla pietra era inciso il Nome – fece dell'episodio un paradigma della vittoria per fede.",
+          "similitudes": "Il duello che decide la battaglia è un espediente letterario e militare comune nelle tradizioni epiche dell'antico Oriente.",
+          "diferencias": "A differenza dei paralleli epici (Achille, Enkidu), Davide non è un guerriero nato ma un pastore-musicista: il ribaltamento delle aspettative è il fulcro della storia.",
+          "significado_teologico": "La vittoria di Davide su Golia dimostra che la battaglia appartiene a YHWH, non alle risorse militari. La fiducia debole; Il forte si vanta: ecco perché il forte perde.",
+          "posible_relacion_cultural": "Il combattimento tra campioni per evitare la battaglia generale era una pratica documentata nella tarda età del bronzo (il trattato di Qadesh tra Ramses II e Ittiti contempla un arbitrato simile)."
+        },
+        "cristianismo": {
+          "fuente_primaria": "1 Samuel 17; Hebreos 11:32-34",
+          "fuente_secundaria": "Orígenes, Homilías sobre los Reyes; Agustín, Ciudad de Dios XVII; arte paleocristiano",
+          "descripcion": "L'esegesi cristiana ha interpretato Davide come una figura di Cristo e Golia come una figura del diavolo o della morte. Come Davide sconfisse il gigante con cinque pietre (i cinque libri di Mosè, secondo alcuni Padri), Cristo sconfisse il nemico con le risorse più umili. L'arte paleocristiana e medievale utilizzava l'immagine di Davide e Golia come rappresentazione della vittoria della Chiesa sul male.",
+          "similitudes": "Il vincitore inaspettato che utilizza risorse umili è la struttura narrativa condivisa.",
+          "diferencias": "La tipologia cristiana traspone il combattimento storico in un dramma cosmico; L'ebraismo mantiene l'accento sulla virtù storica di Davide.",
+          "significado_teologico": "Cristo come il vero Davide che sconfigge il gigante del peccato e della morte con le armi dell'umiltà e della croce.",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán, Sura 2:246-251 (Al-Baqara)",
+          "fuente_secundaria": "Ibn Kathir, Qisas al-Anbiya — Historia de Dawud",
+          "descripcion": "Il Corano racconta la storia di Talut (Saul) e dell'esercito di credenti che affrontarono Jalut (Golia). Dawud (Davide) uccise Jalut e Allah gli diede il regno e la saggezza. L'episodio viene utilizzato per illustrare che la vittoria in battaglia non dipende dal numero ma dalla pazienza e dalla fede.",
+          "similitudes": "La struttura della vittoria del fedele credente sul potente non credente è identica in tutte e tre le tradizioni.",
+          "diferencias": "Il Corano enfatizza il contesto della prova Talut (solo chi non beveva dal fiume poteva continuare) più che il duello personale tra Davide e Golia.",
+          "significado_teologico": "La vittoria di Dawud su Jalut mostra quante volte una piccola truppa ne ha sconfitto una grande, con il permesso di Allah. La fede supera i numeri.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

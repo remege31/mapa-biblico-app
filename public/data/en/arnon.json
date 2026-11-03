@@ -1,0 +1,136 @@
+{
+  "id": "arnon",
+  "nombre": "Arnon River",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.43,
+  "lng": 35.68,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 25,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": -586,
+      "nombre": "Late bronze - Iron II"
+    }
+  ],
+  "descripcion_geo": "Deep canyon and river that flows into the Dead Sea in the east; border between Moab and Amorites.",
+  "altitud_m": -80,
+  "clima": "arid",
+  "recursos": [
+    "water",
+    "fishing",
+    "strategic step"
+  ],
+  "importancia_estrategica": "Transjordan natural border; boundary between the Moabite and Amorite territory that Israel had to cross.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "arn_h1",
+      "titulo": "Israel crosses the Arnon",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "Israel crosses the Arnon River on its way through the Transjordan towards Canaan, entering Amorite territory.",
+      "referencias": [
+        "Num 21:13-14",
+        "Deut 2:24"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h2",
+      "titulo": "The Arnon as a promised border",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "God sets the Arnon as the southern border of the territory that Israel will conquer east of the Jordan.",
+      "referencias": [
+        "Deut 3:8",
+        "Josh 12:2"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    },
+    {
+      "id": "arn_h3",
+      "titulo": "The Book of the Lord's Wars",
+      "fecha": "ca. 1250 BC",
+      "descripcion": "An ancient poem cited in the Book of the Lord's Wars mentions the Arnon as the scene of the battles of Israel.",
+      "referencias": [
+        "Num 21:14-15"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "arn_p1",
+      "nombre": "Moses",
+      "rol": "Legislator",
+      "periodo": "ca. 1320-1200 BC",
+      "descripcion": "He led Israel across the Arnon on the march to Canaan.",
+      "referencias": [
+        "Num 21:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p2",
+      "nombre": "Amorite king Sihon",
+      "rol": "Amorite king of Heshbon",
+      "periodo": "ca. 1250 BC",
+      "descripcion": "He rejected the passage of Israel and was defeated; Their territory (north of the Arnon) was given to Reuben and Gad.",
+      "referencias": [
+        "Num 21:21-24"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "arn_p3",
+      "nombre": "King table by Moab",
+      "rol": "Moabite king",
+      "periodo": "ca. 850 BC",
+      "descripcion": "The Mesa Stele mentions the Arnon as the northern border of Moab.",
+      "referencias": [
+        "2 Kgs 3:4"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "The Arnon was the first natural obstacle that Israel overcame in Transjordan; Their crossing inaugurated the sequence of victories that prepared the conquest of Canaan.",
+    "religiones_presentes": [
+      "amorite_paganism",
+      "Judaism"
+    ],
+    "mitos": [
+      {
+        "id": "arn_m1",
+        "nombre": "The crossing of the Arnon",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "The crossing of the Arnon begins the conquest of the Transjordan; prefigures the crossing of the Jordan.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The crossing of the Arnon begins the conquest of the Transjordan; prefigures the crossing of the Jordan.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1"
+  ]
+}

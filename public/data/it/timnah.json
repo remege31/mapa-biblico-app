@@ -1,0 +1,166 @@
+{
+  "id": "timnah",
+  "nombre": "Timnah",
+  "tipo": "ciudad",
+  "lat": 31.784368,
+  "lng": 34.90968,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 12,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Città di confine filisteo-danita, ciclo di Sansone"
+    }
+  ],
+  "descripcion_geo": "Città della Sefela occidentale, nella valle di Sorek, sul confine fluttuante tra il territorio assegnato a Dan e la zona di controllo filisteo. Terra di bassa collina coltivata a vigneti, costante punto di attrito tra le due popolazioni durante il periodo dei Giudicati.",
+  "altitud_m": 165,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con precipitazioni moderate; La valle del Sorek favorisce la coltivazione della vite.",
+  "recursos": [
+    "Vigneti della valle del Sorek",
+    "Terreni agricoli della Shephelah",
+    "Posizione di confine tra Filistea e il territorio di Dan"
+  ],
+  "importancia_estrategica": "Timnah segnò la linea di contatto tra la tribù Filistei stanziata nella pianura costiera e la tribù Dan ai piedi delle montagne; Il suo confine e il carattere misto (nominalmente assegnato a Dan ma sotto forte influenza o controllo filisteo) lo rendono l'ambiente naturale per i conflitti personali di Sansone con Filistei, che funzionano narrativamente come un'anteprima del successivo confronto nazionale tra Israele e Filistea.",
+  "otros_habitantes": [
+    {
+      "id": "filisteos_timnah",
+      "nombre": "Filistei",
+      "descripcion": "Popolazione dominante a Timnah durante il periodo dei Giudici; La donna filistea che Sansone prende in moglie risiede lì e la città funziona come un'estensione della presenza filistea al confine con Dan.",
+      "religion": "Politeismo filisteo: culto di Dagon",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "danitas_timnah",
+      "nombre": "Tribù di Dan",
+      "descripcion": "Gli israeliti si stabilirono ai piedi delle colline vicino a Timnah; A questo gruppo appartiene la famiglia di Sansone (Zora), in costante contatto e conflitto con la vicina popolazione filistea.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "sanson-leon-timnah",
+      "titulo": "Sansone uccide il leone sulla strada per Timnah",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Mentre scende a Timna per proporlo in sposa ad una donna filistea, Sansone viene assalito da un giovane leone e lo sbrana con le mani all'insaputa dei genitori; Qualche tempo dopo trova un favo di miele sul cadavere dell'animale.",
+      "referencias": [
+        "Gdc 14:5-9"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "boda-enigma-sanson",
+      "titulo": "Le nozze di Sansone e l'enigma del leone",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Durante il banchetto di nozze a Timnah, Sansone pone a trenta compagni Filistei un indovinello basato sull'episodio del leone e del miele; Incapaci di risolverlo, fanno pressione sulla moglie di Sansone finché lei non gli estrae il segreto e lo rivela loro, il che scatena la rabbia di Sansone e l'inizio della sua aperta inimicizia con l'Filistei.",
+      "referencias": [
+        "Gdc 14:10-20"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "viñas-timnah-zorras",
+      "titulo": "Le cagne incendiarie nei campi Filistei",
+      "fecha": "c. 1100 a.C.",
+      "descripcion": "Dopo aver scoperto che sua moglie è stata data a un altro, Sansone cattura trecento volpi, le lega a coppie con torce accese tra le code e le rilascia nei campi di grano, nei vigneti e negli uliveti Filistei vicino a Timnah, dando inizio a un ciclo di reciproca ritorsione.",
+      "referencias": [
+        "Gdc 15:1-8"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Sansone",
+      "rol": "Israele Giudice, nazireo dalla forza sovrumana",
+      "periodo": "hierro_1",
+      "descripcion": "Giudice della tribù di Dan, consacrato nazireo fin dal grembo materno, il cui conflitto personale con Filistei, iniziato dal suo matrimonio a Timnah, diventa la forza trainante di vent'anni di vessazioni contro l'oppressione filistea.",
+      "referencias": [
+        "Gdc 13:24-25",
+        "Gdc 14:1-20",
+        "Gdc 16:1-31"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah"
+      ]
+    },
+    {
+      "id": "esposa_timnah_sanson",
+      "nombre": "Timnah donna",
+      "rol": "La prima moglie filistea di Sansone",
+      "periodo": "c. 1100 a.C.",
+      "descripcion": "Donna filistea di Timna scelta da Sansone contro il parere dei suoi genitori; Pressata dai connazionali, rivela il segreto dell'enigma del matrimonio, e viene successivamente consegnata a un altro uomo, innescando la ritorsione di Sansone.",
+      "referencias": [
+        "Gdc 14:1-20",
+        "Gdc 15:6"
+      ],
+      "ruta": [
+        "timnah"
+      ]
+    },
+    {
+      "id": "padres_sanson",
+      "nombre": "Manoah e sua moglie",
+      "rol": "I genitori di Sansone",
+      "periodo": "hierro_1",
+      "descripcion": "Accompagnano Sansone a Timna per negoziare il matrimonio, esprimendo inizialmente la loro disapprovazione per la sua scelta di una moglie filistea rispetto a una donna israelita.",
+      "referencias": [
+        "Gdc 14:1-5"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Timna è il teatro del primo grande conflitto personale-politico tra Sansone e Filistei, presentato dal narratore biblico come strumento di un disegno divino più grande: la ricerca di opportunità contro Filistea in un momento di dominio filisteo su Israele. La città incarna la tensione religiosa del confine – un matrimonio misto tra Yahwismo e culto di Dagon – che la storia non risolve attraverso una condanna esplicita ma attraverso la sua strumentalizzazione narrativa.",
+    "religiones_presentes": [
+      "Yahvismo (famiglia di Sansone)",
+      "Politeismo filisteo: culto di Dagon"
+    ],
+    "mitos": [
+      {
+        "id": "enigma-leon-miel",
+        "nombre": "L'enigma del leone e del miele",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 14:5-18",
+          "fuente_secundaria": "Midrash, Bereshit Rabbah (paralelos sobre fuerza y designio divino en los jueces)",
+          "descripcion": "La tradizione rabbinica inquadra l'episodio del leone e dell'enigma nello schema dei giudici carismatici la cui forza personale è strumento del piano di liberazione di Israele, evidenziando il motivo 'da colui che mangia è venuto il cibo' come figura di quanto il bene possa nascere dall'impuro.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "L'episodio esemplifica come Dio utilizzi eventi apparentemente privati ​​e persino trasgressivi (il contatto con la carcassa di un animale, proibito per un nazireo) per avviare la liberazione di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gdc 14:5-18 (recepción patrística de Sansón como figura de fuerza paradójica)",
+          "fuente_secundaria": "Agustín de Hipona, comentarios homiléticos sobre los jueces como prefiguraciones",
+          "descripcion": "Alcuni Padri della Chiesa leggono Sansone – compreso l'episodio dell'enigma di Timna – come un'ambigua figura di forza che, nonostante le sue debolezze morali, viene utilizzata provvidenzialmente, anticipando successive letture tipologiche sulla forza che vince attraverso l'apparente debolezza.",
+          "similitudes": "Condividere il riconoscimento del disegno provvidenziale dietro l'episodio.",
+          "diferencias": "L'antica lettura cristiana tende a moralizzare le debolezze di Sansone in modo più esplicito rispetto alla tradizione rabbinica.",
+          "significado_teologico": "La forza di Sansone, scaturita da un episodio impuro, viene letta come un'anticipazione di come il potere divino opera attraverso mezzi inaspettati.",
+          "posible_relacion_cultural": "Accoglienza condivisa dei Giudici Israele come figure storiche con valore morale e teologico in entrambe le tradizioni."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

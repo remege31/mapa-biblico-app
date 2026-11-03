@@ -1,0 +1,147 @@
+{
+  "id": "pergamum",
+  "nombre": "Pergamon",
+  "tipo": "ciudad",
+  "lat": 39.1333,
+  "lng": 27.1833,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "City on the crest of a 335 m hill, capital of the Roman province of Asia; famous for its library and the altar of Zeus.",
+  "altitud_m": 335,
+  "clima": "Mediterranean",
+  "recursos": [
+    "parchment",
+    "craft",
+    "silver",
+    "agriculture"
+  ],
+  "importancia_estrategica": "Capital of the kingdom of Pergamon and seat of the imperial cult.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "per_h1",
+        "titulo": "Letter to the church of Pergamon",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ praises the faithfulness of Pergamum but condemns the teachings of Balaam and the Nicolaitans.",
+        "referencias": [
+          "Rev 2:12-17"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "per_h2",
+        "titulo": "Satan's throne",
+        "fecha": "ca. 95 AD",
+        "descripcion": "Christ calls Pergamum 'where Satan's throne is', a reference to the altar of Zeus or the imperial cult.",
+        "referencias": [
+          "Rev 2:13"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "per_h3",
+        "titulo": "Antipas, the faithful witness",
+        "fecha": "ca. 90 AD",
+        "descripcion": "Antipas is martyred in Pergamum for his faith; He is called a 'faithful witness'.",
+        "referencias": [
+          "Rev 2:13"
+        ],
+        "personajes_clave": [
+          "Antipas"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "per_p1",
+        "nombre": "John the Apostle",
+        "rol": "Prophet of the Apocalypse",
+        "periodo": "s. I AD",
+        "descripcion": "He addressed the letter of Christ to the church of Pergamon.",
+        "referencias": [
+          "Rev 2:12"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p2",
+        "nombre": "Antipas",
+        "rol": "Martyr of Pergamon",
+        "periodo": "s. I AD",
+        "descripcion": "Faithful witness who was martyred in Pergamon; name only mentioned in the Apocalypse.",
+        "referencias": [
+          "Rev 2:13"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "per_p3",
+        "nombre": "Attalus I of Pergamum",
+        "rol": "Hellenistic king",
+        "periodo": "241-197 BC",
+        "descripcion": "Founder of the greatness of Pergamon; His successors bequeathed the kingdom to Rome.",
+        "referencias": [
+          "Historia helenística"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "City of the altar of Zeus and the imperial cult; seat of the first temple to Augustus in Asia; scene of Christian martyrdoms.",
+      "religiones_presentes": [
+        "greco_roman_paganism",
+        "imperial_cult",
+        "Judaism",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "per_m1",
+          "nombre": "Satan's throne",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "The Apocalypse calls Pergamum 'Satan's throne', interpreted as a reference to the altar of Zeus or the imperial cult temple.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "The Apocalypse calls Pergamum 'Satan's throne', interpreted as a reference to the altar of Zeus or the imperial cult temple.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

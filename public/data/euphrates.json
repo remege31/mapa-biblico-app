@@ -1,0 +1,155 @@
+{
+  "id": "euphrates",
+  "nombre": "Río Éufrates",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 35.09,
+  "lng": 40.43,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 65,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": 70,
+      "nombre": "Bronce medio - Romano"
+    }
+  ],
+  "descripcion_geo": "El mayor río de Asia Occidental, nace en Anatolia y desemboca en el golfo Pérsico tras 2.700 km. Frontera oriental de la tierra prometida.",
+  "altitud_m": 50,
+  "clima": "árido-continental",
+  "recursos": [
+    "agua",
+    "agricultura fluvial",
+    "comercio"
+  ],
+  "importancia_estrategica": "Frontera noreste de la tierra prometida y eje de los grandes imperios mesopotámicos.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "euf_h1",
+      "titulo": "El Éufrates como frontera de la promesa",
+      "fecha": "ca. 1250 a.C.",
+      "descripcion": "Dios promete a Abraham que su descendencia heredará la tierra 'desde el río de Egipto hasta el gran río, el Éufrates'.",
+      "referencias": [
+        "Gn 15:18",
+        "Dt 1:7"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "euf_h2",
+      "titulo": "El exilio junto a los ríos de Babilonia",
+      "fecha": "586 a.C.",
+      "descripcion": "Los deportados de Judá se sientan junto a los ríos de Babilonia (el Éufrates y sus canales) y lloran por Sión.",
+      "referencias": [
+        "Sal 137:1"
+      ],
+      "personajes_clave": [
+        "exiliados"
+      ]
+    },
+    {
+      "id": "euf_h3",
+      "titulo": "El Éufrates en el Apocalipsis",
+      "fecha": "ca. 95 d.C.",
+      "descripcion": "El Apocalipsis usa el Éufrates como frontera escatológica: sus aguas se secan para dar paso a los reyes del oriente.",
+      "referencias": [
+        "Ap 16:12"
+      ],
+      "personajes_clave": [
+        "Juan"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "euf_p1",
+      "nombre": "Abraham",
+      "rol": "Patriarca",
+      "periodo": "ca. 2000-1800 a.C.",
+      "descripcion": "Dios prometió a Abraham la tierra hasta el Éufrates como herencia de su descendencia.",
+      "referencias": [
+        "Gn 15:18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p2",
+      "nombre": "Nabucodonosor II",
+      "rol": "Rey de Babilonia",
+      "periodo": "605-562 a.C.",
+      "descripcion": "Convirtió el Éufrates en el corazón del mayor Imperio del mundo antiguo.",
+      "referencias": [
+        "2 Re 24:7"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "euf_p3",
+      "nombre": "Ciro el Grande",
+      "rol": "Rey de Persia",
+      "periodo": "559-530 a.C.",
+      "descripcion": "Cruzó el Éufrates para conquistar Babilonia; liberó a los judíos del exilio.",
+      "referencias": [
+        "Is 45:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Río sagrado de Mesopotamia; límite de la promesa divina y símbolo escatológico en el Apocalipsis.",
+    "religiones_presentes": [
+      "paganismo_mesopotamico",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "euf_m1",
+        "nombre": "El río del paraíso",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Gn 2:14",
+          "fuente_secundaria": "",
+          "descripcion": "El Éufrates es uno de los cuatro ríos que regaban el Jardín del Edén (Gn 2:14).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Éufrates es uno de los cuatro ríos que regaban el Jardín del Edén (Gn 2:14).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Ap 16:12",
+          "fuente_secundaria": "",
+          "descripcion": "El Apocalipsis lo usa como frontera que se seca en el tiempo del fin (Ap 16:12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Apocalipsis lo usa como frontera que se seca en el tiempo del fin (Ap 16:12).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Corán / Hadiz",
+          "fuente_secundaria": "",
+          "descripcion": "El Islam ubica el Éufrates en la tierra de los profetas; tradiciones dicen que ocultará tesoros al final de los tiempos.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "El Islam ubica el Éufrates en la tierra de los profetas; tradiciones dicen que ocultará tesoros al final de los tiempos.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "bronce_tardio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

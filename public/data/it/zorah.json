@@ -1,0 +1,165 @@
+{
+  "id": "zorah",
+  "nombre": "Zorah",
+  "tipo": "ciudad",
+  "lat": 31.762141,
+  "lng": 34.969319,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I: città natale di Sansone, insediamento danita"
+    }
+  ],
+  "descripcion_geo": "Città situata su una collina nella Sefela, al confine tra il territorio di Dan e Giuda, vicino alla valle di Sorek. Posizione elevata dominante la pianura filistea, che ne faceva un naturale punto di osservazione sul territorio nemico.",
+  "altitud_m": 245,
+  "clima": "Mediterraneo di transizione: estati secche, inverni con piogge moderate, un po' più freschi rispetto alla pianura costiera a causa della sua altitudine.",
+  "recursos": [
+    "Posizione di osservazione elevata sulla pianura filistea",
+    "Terreni agricoli della Shephelah",
+    "Vicinanza alla valle del Sorek"
+  ],
+  "importancia_estrategica": "Zorah era uno dei punti di partenza dell'insediamento danita prima della migrazione di gran parte della tribù verso nord; essendo la città natale di Sansone, funziona narrativamente come base simbolica delle operazioni dell'unico giudice la cui lotta contro l'Filistei è individuale e carismatica piuttosto che collettiva.",
+  "otros_habitantes": [
+    {
+      "id": "danitas_zorah",
+      "nombre": "Tribù di Dan",
+      "descripcion": "Famiglie danite si stabilirono a Zorah, inclusa quella di Manoah, padre di Sansone; Da Zorah parte anche la spedizione di spie danite che precede la migrazione della tribù verso Lais, al nord.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1200–1000 a.C"
+    },
+    {
+      "id": "judaitas_zorah",
+      "nombre": "Tribù di Giuda",
+      "descripcion": "Zorah appare anche genealogicamente legato ai clan Giuda negli elenchi dei cronisti, riflettendo il confine e la natura condivisa dell'area tra entrambe le tribù.",
+      "religion": "Yahvismo",
+      "periodo": "C. 1000–586 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "anuncio-nacimiento-sanson",
+      "titulo": "Annuncio della nascita di Sansone",
+      "fecha": "c. 1120 a.C.",
+      "descripcion": "L'angelo di YHWH appare in Zorah alla moglie sterile di Manoah e annuncia la nascita di un figlio che sarà nazireo fin dal grembo materno e inizierà a liberare Israele dalla mano di Filistei; Manoah poi offre un sacrificio e l'angelo ascende nella fiamma dell'altare.",
+      "referencias": [
+        "Gdc 13:2-23"
+      ],
+      "personajes_clave": [
+        "manoa",
+        "sanson"
+      ]
+    },
+    {
+      "id": "espiritu-sanson-zorah",
+      "titulo": "Lo Spirito di YHWH comincia a muoversi su Sansone",
+      "fecha": "c. 1105 a.C.",
+      "descripcion": "Il testo biblico indica che tra Zorah ed Eshtaol, lo Spirito di YHWH cominciò a manifestarsi su Sansone durante la sua giovinezza, segnando l'inizio della sua vocazione di giudice-liberatore.",
+      "referencias": [
+        "Gdc 13:24-25"
+      ],
+      "personajes_clave": [
+        "sanson"
+      ]
+    },
+    {
+      "id": "sepultura-sanson-zorah",
+      "titulo": "La sepoltura di Sansone tra Zorah ed Eshtaol",
+      "fecha": "c. 1070 a.C.",
+      "descripcion": "Dopo la sua morte in Gaza demolendo il tempio di Dagon, i fratelli e la famiglia di Sansone recuperano il suo corpo e lo seppelliscono nella tomba di suo padre Manoah, tra Zorah ed Estaol, chiudendo il ciclo narrativo nel luogo della sua origine.",
+      "referencias": [
+        "Gdc 16:31"
+      ],
+      "personajes_clave": [
+        "sanson",
+        "manoa"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "sanson",
+      "nombre": "Sansone",
+      "rol": "Israele Giudice, nazireo dalla forza sovrumana",
+      "periodo": "hierro_1",
+      "descripcion": "Nato a Zorah dopo l'annuncio angelico alla madre, Sansone fu consacrato nazireo prima di nascere; Tutto il suo ciclo di vita – nascita, vocazione e sepoltura finale – si chiude in questa stessa città e nei suoi dintorni.",
+      "referencias": [
+        "Gdc 13:24-25",
+        "Gdc 16:31"
+      ],
+      "ruta": [
+        "zorah",
+        "timnah",
+        "gaza"
+      ]
+    },
+    {
+      "id": "manoa",
+      "nombre": "Manoah",
+      "rol": "Padre di Sansone, Danita di Zorah",
+      "periodo": "c. 1120 a.C.",
+      "descripcion": "Lui e la moglie ricevono l'annuncio angelico della nascita di Sansone; Dopo un sacrificio in cui l'angelo ascende nella fiamma, teme di aver visto Dio e di morire, ma la moglie lo rassicura con un argomento di praticità.",
+      "referencias": [
+        "Gdc 13:2-23"
+      ],
+      "ruta": [
+        "zorah"
+      ]
+    },
+    {
+      "id": "esposa_manoa",
+      "nombre": "Moglie di Manoah",
+      "rol": "La madre di Sansone",
+      "periodo": "c. 1120 a.C.",
+      "descripcion": "La donna sterile di Zorah alla quale appare l'angelo di YHWH con istruzioni naziree per il suo bambino non ancora nato; figura di fede e di discernimento che calma Manoah dopo la teofania.",
+      "referencias": [
+        "Gdc 13:2-23"
+      ],
+      "ruta": [
+        "zorah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zorah è il punto di origine e di chiusura del ciclo di Sansone, inquadrato da due teofanie di segni diversi: l'annuncio angelico della sua nascita e, in senso figurato, il ritorno definitivo del suo corpo dopo una vita segnata dalla tensione tra vocazione nazarena e debolezza personale. La città incarna l'ideale yahvista del nazireato come consacrazione speciale, in contrasto narrativamente con le successive violazioni di Sansone nel corso della sua vita.",
+    "religiones_presentes": [
+      "Yahvismo (inclusa l'istituzione del nazireato)"
+    ],
+    "mitos": [
+      {
+        "id": "anuncio-angelico-zorah",
+        "nombre": "L'annuncio angelico del Nazireo in Zorah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Gdc 13:2-23",
+          "fuente_secundaria": "Talmud Babilónico, Berajot 6b (sobre la identidad del 'ángel de YHWH')",
+          "descripcion": "La tradizione rabbinica discute a lungo la natura dell '\"angelo di YHWH\" che appare in Zorah, discutendo se si tratti di un angelo reale o di una manifestazione profetica, e sviluppa il nazireato di Sansone come un caso paradigmatico, sebbene imperfetto, di consacrazione speciale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "Il racconto stabilisce lo schema biblico della 'nascita annunciata ad una madre sterile' che si ripeterà con altri liberatori e profeti di Israele.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gdc 13:2-23 (lectura tipológica patrística)",
+          "fuente_secundaria": "Padres de la Iglesia que vinculan anuncios angélicos a madres estériles como prefiguración del anuncio a Isabel y a María",
+          "descripcion": "La tradizione patristica primitiva legge l'annuncio di Zorah all'interno di una catena tipologica di nascite annunciate da messaggeri divini a donne sterili o vergini, culminanti nei racconti evangelici dell'infanzia.",
+          "similitudes": "Condivide la struttura dell'annuncio angelico a una donna e la speciale consacrazione del bambino fin dal grembo materno.",
+          "diferencias": "Il destinatario finale della tipologia cristiana (l'annunciazione a Maria) implica la verginità, la non sterilità e uno scopo di redenzione universale in contrasto con lo scopo di liberazione locale di Sansone.",
+          "significado_teologico": "L'episodio di Zorah viene integrato nella lettura cristiana come antico testamento antecedente al modello dell'annunciazione.",
+          "posible_relacion_cultural": "Motivo narrativo condiviso della nascita annunciata a una donna sterile, presente in molteplici racconti del corpus biblico comune all'ebraismo e al cristianesimo."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

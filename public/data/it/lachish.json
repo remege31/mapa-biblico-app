@@ -1,0 +1,191 @@
+{
+  "id": "lachish",
+  "nombre": "Lachis",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.5649,
+  "lng": 34.8467,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 24,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città cananea conquistata da Giosuè"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I: città israelita nella Sefela"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Seconda città di Giuda, assediata da Assiria e Babilonia"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Lachish (ebraico: לָכִישׁ) era la seconda città più importante della Giuda dopo Gerusalemme, situata nella Sefela a circa 40 km a sud-ovest della capitale. Tell Lachish è uno dei siti archeologici più importanti della Israele: gli scavi hanno rivelato diciotto livelli di occupazione, dal Calcolitico al periodo persiano. Il tell domina la pianura circostante con spesse mura di Ferro II. I rilievi di Lachis nel palazzo di Sennacherib a Ninive - oggi al British Museum - mostrano l'assedio assiro del 701 a.C. in straordinario dettaglio. Le Lettere di Lachis (diciotto ostraca del periodo 589-587 a.C.) sono uno dei documenti epigrafici più importanti dell'ebraico biblico.",
+  "altitud_m": 40,
+  "clima": "Pianura mediterranea: precipitazioni di 350-400 mm all'anno, estati calde e secche, inverni miti. I terreni Sefela sono molto fertili per l'agricoltura delle zone aride.",
+  "recursos": [
+    "Agricoltura intensiva del Sefela: grano, orzo, ulivi, vigneti",
+    "Posizione di controllo sulla rotta Egitto-Gerusalemme",
+    "Industria ceramica e artigianato",
+    "Massicce mura di Ferro II: doppio sistema difensivo",
+    "Magazzini reali per forniture militari"
+  ],
+  "importancia_estrategica": "Lachish era la fortezza chiave del sistema difensivo occidentale di Giuda. Qualsiasi esercito in marcia da Egitto o dalla costa verso Gerusalemme doveva prendere prima Lachis. I re di Giuda lo trasformarono nella seconda roccaforte del regno, con mura spesse fino a 6 metri e un elaborato sistema di porte. Sia Sennacherib (701 a.C.) che Nabucodonosor (588-586 a.C.) la assediarono prima di marciare su Gerusalemme. La sua caduta fu l'inevitabile preludio alla caduta della capitale.",
+  "otros_habitantes": [
+    {
+      "id": "cananeos-lachish",
+      "nombre": "Cananei di Lachis",
+      "descripcion": "Lachis della tarda età del bronzo era una delle città-stato cananee più prospere della pianura costiera interna. Le Lettere di Amarna (XIV secolo a.C.) menzionano Lachis nel contesto delle controversie tra le città-stato cananee e l'amministrazione egiziana. Il tempio del tardo bronzo Cananeo (Tempio del fossato) rivela un culto sofisticato con oggetti di lusso provenienti da Egitto, Cipro e l'Egeo. La sua conquista da parte di Giosuè fu totale — \"feriva ogni essere vivente con il taglio della spada\" — cosa che gli scavi confermarono rivelando un livello di distruzione di massa risalente al XIII secolo a.C.",
+      "religion": "Politeismo Cananeo: adorazione di Baal, Asera e divinità dall'alto; Il Tempio della Fossa mostra influenze egiziane (culto di Hathor)",
+      "periodo": "Tardo Bronzo al c. 1200 a.C"
+    },
+    {
+      "id": "asirios-lachish",
+      "nombre": "L'esercito assiro di Sennacherib",
+      "descripcion": "L'assedio di Lachis da parte di Sennacherib nel 701 a.C. Si tratta di uno degli eventi militari meglio documentati della storia biblica: confermato dalle cronache assire, dai rilievi di Lachis presso Ninive (che mostrano rampa d'assedio, macchine da guerra, deportati) e dall'archeologia (punte di frecce assire, resti di rampa). Gli Assiri costruirono una rampa di terra e pietra contro il fianco sud-occidentale della città: la prima rampa d'assedio documentata archeologicamente in Israele. Sennacherib supervisionò personalmente l'assedio dal suo trono di campo, come mostrano i rilievi.",
+      "religion": "Politeismo assiro: Ashur come dio nazionale, Ishtar, Marduk",
+      "periodo": "Ferro II, 701 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "josue-conquista-lachish",
+      "titulo": "Giosuè conquista Lachis: la campagna del sud",
+      "fecha": "c. 1220 a.C.",
+      "descripcion": "Lachish faceva parte della coalizione di cinque re del sud (Gerusalemme, Hebron, Yarmut, Lachis, Eglon) che attaccarono Gabaon per la sua alleanza con Israele. Giosuè li sconfisse nella battaglia di Gabaon, inseguì i fuggitivi lungo la discesa di Beth-Horon e i sette fino ad Azekah e Makkeda, dove catturò e giustiziò i cinque re in una grotta. Poi marciò sistematicamente su ciascuna città: Lachis cadde in due giorni. Il re di Ghezer venne in aiuto di Lachis ma anche lui fu sconfitto. La brevità della conquista (\"prese Lachis il secondo giorno\", Gsè 10:32) contrasta con la resistenza che avrebbe opposto a Sennacherib cinque secoli dopo, dimostrando che le mura del Ferro II erano incomparabilmente più forti di quelle del Bronzo Tardo.",
+      "referencias": [
+        "Gs 10:31-33",
+        "Gs 10:1-15",
+        "Gs 12:11"
+      ],
+      "personajes_clave": [
+        "josue-lachish"
+      ]
+    },
+    {
+      "id": "senaquerib-lachish",
+      "titulo": "Sennacherib assedia Lachis: il più grande rilievo militare del mondo antico",
+      "fecha": "701 a.C.",
+      "descripcion": "Nella sua campagna contro Giuda e re Ezechia, Sennacherib di Assiria assediò per la prima volta Lachis prima di marciare su Gerusalemme. L'assedio fu così significativo per il re assiro che fece scolpire un rilievo panoramico di 80 piedi nella sala del trono del suo palazzo all'Ninive che mostrava l'assedio in dettaglio: soldati assiri che salivano sulla rampa di terra, arcieri protetti da scudieri, difensori ebrei che lanciavano pietre e torce, deportati che uscivano con i loro averi, impalati alla vista della città come avvertimento. Fu l'unico evento della sua campagna che Sennacherib considerò degno di una simile rappresentazione artistica: nemmeno la resa di Gerusalemme meritò un sollievo equivalente. L'archeologia ha confermato la rampa d'assedio e un'enorme fossa piena di 1.500 scheletri umani. Da Lachis, Sennacherib inviò i suoi ufficiali con un grande esercito a Gerusalemme mentre lui rimase a Lachis.",
+      "referencias": [
+        "2 Re 18:13-17",
+        "2 Cr 32:9",
+        "Is 36:1-2"
+      ],
+      "personajes_clave": [
+        "senaquerib",
+        "ezequias"
+      ]
+    },
+    {
+      "id": "cartas-lachish",
+      "titulo": "Le Lettere di Lachis: le ultime parole prima del silenzio",
+      "fecha": "589-587 a.C.",
+      "descripcion": "Durante l'assedio babilonese finale (589-586 a.C.), il comandante di Lachis scambiò lettere con un ufficiale in un avamposto. Diciotto di queste lettere su frammenti di ceramica (óstraca) furono scoperte nel 1935-1938. La più famosa (Lettera IV) dice: 'Fai sapere al mio signore che stiamo monitorando i segni di fuoco di Lachis secondo tutte le indicazioni che il mio signore ci ha dato, poiché non vediamo più i segni di Azekah'. Azeka era caduta. Geremia 34:7 conferma: 'Solo Lachis e Azeka rimasero delle città di Giuda.' Le lettere rivelano il morale militare in disgregazione, accuse contro i funzionari che \"indeboliscono le mani del popolo\" e contengono a malapena la disperazione. Poco dopo Lachis cadde. Lo scavo ha confermato un livello di distruzione di massa da parte di un incendio a partire dal 586 a.C.",
+      "referencias": [
+        "Ger 34:7",
+        "Cartas de Lachish IV",
+        "2 Re 25:1-4"
+      ],
+      "personajes_clave": [
+        "comandante-lachish",
+        "jeremias-lachish"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ezequias",
+      "nombre": "Ezechia",
+      "rol": "Re riformatore di Giuda, resistette a Sennacherib con fede in Jahvè",
+      "periodo": "hierro_2",
+      "descripcion": "Ezechia ben Ahaz è uno dei re più ammirati di Giuda. Distrusse i luoghi di culto sugli alti luoghi, rimosse le stele, abbatté l'Asherah e distrusse persino il serpente di bronzo di Mosè (Nehustan) che il popolo venerava. Quando Sennacherib invase Giuda e prese Lachis, Ezechia inizialmente pagò un enorme tributo (300 talenti d'argento e 30 talenti d'oro) svuotando il tesoro del tempio. Ma quando gli emissari assiri pronunciarono il loro discorso intimidatorio davanti alle mura di Gerusalemme, Ezechia andò al tempio, diffuse la lettera assira davanti a Jahvè e pregò. Isaia ha annunciato che il re di Assiria non entrerà in città. L'esercito assiro fu decimato da una pestilenza e Sennacherib tornò a Ninive, dove fu assassinato dai suoi figli.",
+      "referencias": [
+        "2 Re 18:1-20:21",
+        "2 Re 19:14-19",
+        "Is 36:1-37:38"
+      ],
+      "ruta": [
+        "lachish",
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "senaquerib",
+      "nombre": "Sennacherib",
+      "rol": "Re di Assiria, conquistatore di Lachis, sconfitto da Gerusalemme",
+      "periodo": "c. 705–681 a.C.",
+      "descripcion": "Sennacherib ben Sargon II è il faraone assiro la cui campagna del 701 a.C. È meglio documentato nella storia biblica ed extrabiblica. I suoi prismi di argilla (\"Prisma di Taylor\") preservano la sua versione: affermò di aver rinchiuso Ezechia in Gerusalemme \"come un uccello in gabbia\" e chiese un tributo, ma non affermò di aver preso la città. Il rilievo di Lachis, il suo più grande risultato artistico e militare, mostra il suo orgoglio per quella conquista. La sua morte per mano dei figli nel tempio di Nisroch (2 Re 19:37; Is 37:38) fu confermata dalle cronache babilonesi: fu assassinato nel 681 a.C.",
+      "referencias": [
+        "2 Re 18:13-19:37",
+        "Is 36:1-37:38",
+        "Prisma de Taylor"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "jeremias-lachish",
+      "nombre": "Geremia",
+      "rol": "Profeta di Gerusalemme, contemporaneo della caduta di Lachis a Babilonia",
+      "periodo": "hierro_2",
+      "descripcion": "Geremia ha vissuto la caduta di Lachis come profeta nella Gerusalemme assediata. La sua menzione di Lachis e Azeka (Ger 34:7) come le ultime città rimaste prima della capitolazione totale è l'esatto contesto storico delle Lettere di Lachis. Nello stesso periodo, Geremia fu gettato nel fosso dai suoi avversari, accusato di indebolire il morale dei difensori, esattamente l'accusa che le lettere di Lachish lanciano contro i funzionari che \"indeboliscono le loro mani\". La coincidenza linguistica tra le lettere e il libro di Geremia è uno degli argomenti a favore dell'autenticità storica di entrambi i documenti.",
+      "referencias": [
+        "Ger 34:7",
+        "Ger 38:1-13",
+        "Ger 32:1-5"
+      ],
+      "ruta": [
+        "anathoth",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Lachis concentra nella sua storia i due grandi giudizi su Giuda nell'Antico Testamento: quello assiro del 701 a.C. (da cui Giuda sopravvisse per la fede di Ezechia) e quello babilonese del 586 a.C. (da cui non c'era salvezza). Le Lettere di Lachish sono il documento più umano dell'Antico Testamento extracanonico: veri soldati, con veri nomi, che scrivono in ebraico colloquiale riguardo al collasso del loro mondo. L'archeologia ha confermato le sue parole strato dopo strato nel racconto.",
+    "religiones_presentes": [
+      "Politeismo Cananeo - documentato nel tempio a fossa del tardo bronzo",
+      "Yahvismo ufficiale del regno di Giuda — Lachish come seconda città del regno",
+      "Politeismo assiro - durante l'assedio di Sennacherib"
+    ],
+    "mitos": [
+      {
+        "id": "ezequias-fe-senaquerib",
+        "nombre": "Ezechia estende la lettera prima di Jahvè: la fede che ha fermato Assiria",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 19:14-19; Is 37:14-20",
+          "fuente_secundaria": "Talmud Bavli, Sanedrín 94b; Midrash Rabbah, Isaías 37",
+          "descripcion": "Il Talmud (Sanhedrin 94b) afferma che Dio voleva fare di Ezechia il Messia e il re assiro Gog e Magog, ma Ezechia non cantò un inno di vittoria spontaneo dopo la sconfitta di Sennacherib, a differenza di Mosè al Mar Rosso. Il Midrash sviluppa che la preghiera di Ezechia che diffondeva la lettera di Sennacherib davanti all'altare fu l'atto di fede più puro della monarchia: egli non chiese la vittoria militare ma piuttosto il riconoscimento della sovranità di Jahvè su tutti i regni della terra. L'angelo che uccise 185.000 assiri in una notte è il braccio esecutivo di quella fede.",
+          "similitudes": "La fede che affronta la minaccia militare con la preghiera anziché con la capitolazione è un principio condiviso da tutte e tre le tradizioni monoteistiche.",
+          "diferencias": "L'ebraismo elabora la teologia di Ezechia come quasi-Messia; il NT lo usa come tipo di Cristo che affronta l'avversario con fiducia nel Padre.",
+          "significado_teologico": "La fede genuina non calcola le forze militari ma confida nella sovranità divina sulla storia. La lettera di Sennacherib stesa davanti a Dio è la forma più concreta di preghiera di intercessione: portare al Signore la minaccia stessa.",
+          "posible_relacion_cultural": "Il motivo del pio re che prega di fronte a una potente minaccia nemica e riceve l'intervento divino ha paralleli nei testi di vittoria del Vicino Oriente, inclusa l'autobiografia di Ramses II a Kadesh, dove il faraone prega Ammon prima della battaglia."
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Re 19:14-19; Mt 6:25-34; Jn 16:33",
+          "fuente_secundaria": "Agustín, Enarrationes in Psalmos 45; Beda, Comentario sobre 2 Re 19",
+          "descripcion": "La preghiera di Ezechia prima della lettera di Sennacherib fu letta da Agostino come modello di preghiera cristiana di fronte alla persecuzione: presentare la minaccia stessa a Dio, riconoscere la sua sovranità universale e chiedere gloria per il nome divino, non solo salvezza personale. L'istruzione di Gesù 'non angosciatevi' (Mt 6,25-34) è stata interpretata in questo contesto: la fiducia di Ezechia è l'AT della pace che Gesù promette. Beda utilizzò l'episodio per la catechesi monastica: il monaco che affronta la tribolazione deve, come Ezechia, diffonderla davanti al Signore prima di agire.",
+          "similitudes": "La fiducia nella sovranità divina di fronte alla minaccia di poteri umani apparentemente invincibili è identica in entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento porta il principio alla persecuzione per fede; il martirio è la forma estrema del modello di Ezechia.",
+          "significado_teologico": "Dio può intervenire nella storia per salvare chi confida in Lui di fronte a minacce umanamente insormontabili. La fede di Ezechia è l'AT della vittoria pasquale: quella che sembrava una sconfitta certa diventa liberazione.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

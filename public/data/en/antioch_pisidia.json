@@ -1,0 +1,71 @@
+{
+  "id": "antioch_pisidia",
+  "nombre": "Antioch of Pisidia",
+  "tipo": "ciudad",
+  "lat": 38.3062,
+  "lng": 31.1892,
+  "fuente_coordenadas": "propia",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Roman colony on the plateau of Asia Minor, on the border between Phrygia and Pisidia, on the Via Sebaste.",
+  "altitud_m": 1200,
+  "clima": "dry continental",
+  "recursos": [
+    "trade routes",
+    "military colony"
+  ],
+  "importancia_estrategica": "Roman center of inland Anatolia; first great pulpit of Paul.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "anp_h1",
+        "titulo": "The sermon in the synagogue",
+        "fecha": "ca. 47 AD",
+        "descripcion": "Paul delivers his first major speech on record: Israel's story culminates in the resurrected Jesus. Many believe; The opponents expel the missionaries.",
+        "referencias": [
+          "Acts 13:14-52"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "anp_h2",
+        "titulo": "Return to strengthen",
+        "fecha": "ca. 48 AD",
+        "descripcion": "Despite the persecution suffered, Paul and Barnabas reconfirm the disciples and appoint elders.",
+        "referencias": [
+          "Acts 14:21-23",
+          "2 Tim 3:11"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      }
+    ],
+    "personajes": [],
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

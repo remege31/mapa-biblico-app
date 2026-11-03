@@ -1,0 +1,264 @@
+{
+  "id": "hermon_mount",
+  "nombre": "Monte Hermon",
+  "tipo": "region_natural",
+  "subtipo_natural": "montania",
+  "lat": 33.42,
+  "lng": 35.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 28,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1300,
+      "hasta": 70,
+      "nombre": "Bronzo Tardo - Romano"
+    }
+  ],
+  "descripcion_geo": "Catena montuosa sul confine settentrionale di Israele con Siria e Libano, con il punto più alto a 2.814 m. Coperto di neve per gran parte dell'anno.",
+  "altitud_m": 2814,
+  "clima": "alpino-mediterraneo",
+  "recursos": [
+    "nevicare",
+    "acqua",
+    "foreste di cedri"
+  ],
+  "importancia_estrategica": "Confine settentrionale del territorio di Israele; Le sue acque alimentano il Giordano e il lago Galilea.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "her_h1",
+      "titulo": "La rugiada dell'Ermon",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Il Salmo 133 descrive l'unità fraterna come la rugiada dell'Ermon che scende sul monte Sion.",
+      "referencias": [
+        "Sal 133:3"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    },
+    {
+      "id": "her_h2",
+      "titulo": "La Trasfigurazione sull'«alto monte»",
+      "fecha": "ca. 29 d.C.",
+      "descripcion": "La tradizione maggioritaria identifica l'Hermon come 'l'alto monte' dove Gesù fu trasfigurato prima di Pietro, Giacomo e Giovanni.",
+      "referencias": [
+        "Mt 17:1",
+        "Mc 9:2"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "Pedro",
+        "Santiago",
+        "Juan"
+      ]
+    },
+    {
+      "id": "her_h3",
+      "titulo": "Sion e l'Ermon invocano Dio",
+      "fecha": "ca. 1000 a.C.",
+      "descripcion": "Il Salmo 42 menziona la terra del Giordano e le alture dell'Ermon come luogo di lutto e di speranza in Dio.",
+      "referencias": [
+        "Sal 42:6"
+      ],
+      "personajes_clave": [
+        "David"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "her_p1",
+      "nombre": "Gesù di Nazareth",
+      "rol": "messia trasfigurato",
+      "periodo": "ca. 29 d.C.",
+      "descripcion": "Secondo la tradizione fu trasfigurato nell'Ermon; Il suo viso brillava come il sole.",
+      "referencias": [
+        "Mt 17:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p2",
+      "nombre": "Pietro",
+      "rol": "Testimone Apostolo",
+      "periodo": "s. I d.C.",
+      "descripcion": "Testimone oculare della Trasfigurazione sull'alto monte; Ha evocato l'evento nella sua seconda lettera.",
+      "referencias": [
+        "2 Pt 1:16-18"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "her_p3",
+      "nombre": "Baal-hermon",
+      "rol": "Divinità cananea del luogo",
+      "periodo": "Época cananea",
+      "descripcion": "Hermon era un luogo di culto di Baal; lo attesta il suo nome primitivo 'Baal-Hermon' (Gdc 3,3).",
+      "referencias": [
+        "Gdc 3:3"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Montagna sacra sul confine settentrionale di Israele; luogo di culto Cananeo (Baal-Hermón) e possibile scena della Trasfigurazione di Gesù.",
+    "religiones_presentes": [
+      "paganesimo_Cananeo",
+      "Ebraismo",
+      "cristianesimo"
+    ],
+    "mitos": [
+      {
+        "id": "her_m1",
+        "nombre": "La montagna degli dei",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Hermon era \"l'Sinai del nord\": il luogo dove si incontravano gli dei Cananei secondo la mitologia ugaritica.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Hermon era \"l'Sinai del nord\": il luogo dove si incontravano gli dei Cananei secondo la mitologia ugaritica.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "La Trasfigurazione sull'alto monte rivela la gloria divina di Gesù davanti a testimoni selezionati.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La Trasfigurazione sull'alto monte rivela la gloria divina di Gesù davanti a testimoni selezionati.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "her_nt_h1",
+        "titulo": "La Trasfigurazione",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù scala l'alta montagna (tradizione = Hermon) con Pietro, Giacomo e Giovanni; si trasfigura e dialoga con Mosè e Elia.",
+        "referencias": [
+          "Mt 17:1-8"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan",
+          "Moisés",
+          "Elías"
+        ]
+      },
+      {
+        "id": "her_nt_h2",
+        "titulo": "Pietro vuole costruire negozi",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Pietro, entusiasta, propone di costruire tre negozi; Una nuvola li circonda e la voce del Padre parla.",
+        "referencias": [
+          "Mt 17:4-5"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "her_nt_h3",
+        "titulo": "La discesa e l'istruzione del silenzio",
+        "fecha": "ca. 29 d.C.",
+        "descripcion": "Gesù ordina ai tre di non raccontare la visione finché non risorgerà dai morti.",
+        "referencias": [
+          "Mt 17:9"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Pedro",
+          "Santiago",
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "her_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "messia glorificato",
+        "periodo": "ca. 29 d.C.",
+        "descripcion": "Fu trasfigurato sull'alto monte, rivelando la sua gloria divina.",
+        "referencias": [
+          "Mt 17:2"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p2",
+        "nombre": "Pietro",
+        "rol": "Apostolo testimone oculare",
+        "periodo": "s. I d.C.",
+        "descripcion": "Testimone della Trasfigurazione; Lo ha evocato come fondamento della sua testimonianza apostolica.",
+        "referencias": [
+          "2 Pt 1:16"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "her_nt_p3",
+        "nombre": "Mosè e Elia",
+        "rol": "Rappresentanti della Legge e dei Profeti",
+        "periodo": "s. I d.C.",
+        "descripcion": "Sono apparsi nella Trasfigurazione come testimoni che Gesù adempie tutta la rivelazione precedente.",
+        "referencias": [
+          "Mt 17:3"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "L'Ermon come 'monte sacro' dove la gloria di Dio si è manifestata nella Trasfigurazione.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "her_nt_m1",
+          "nombre": "La montagna della gloria",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "L'Ermon/alto monte è il Sinai del NT: dove Dio rivela il suo Figlio glorificato, adempiendo la Legge e i Profeti.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'Ermon/alto monte è il Sinai del NT: dove Dio rivela il suo Figlio glorificato, adempiendo la Legge e i Profeti.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "caesarea",
+  "nombre": "Cesarea Marittimo",
+  "tipo": "ciudad",
+  "lat": 32.5,
+  "lng": 34.9,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Grande porto artificiale costruito da Erode il Grande sulla costa mediterranea della Giudea.",
+  "altitud_m": 5,
+  "clima": "mediterraneo",
+  "recursos": [
+    "porta",
+    "commercio",
+    "pesca",
+    "amministrazione"
+  ],
+  "importancia_estrategica": "Capitale amministrativa della provincia romana della Giudea.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "felipe_evangelista",
+      "nombre": "Filippo evangelista",
+      "rol": "Diacono ed evangelista di Samaria e della costa",
+      "periodo": "apostolico",
+      "descripcion": "Uno dei sette diaconi di Gerusalemme. Evangelizzò Samaria, battezzò l'eunuco etiope sulla strada per Gaza e si stabilì a Cesarea Marittima con le sue quattro figlie profetesse.",
+      "referencias": [
+        "At 6:5",
+        "At 8",
+        "At 21:8-9"
+      ],
+      "ruta": [
+        "jerusalen",
+        "samaria",
+        "ashdod",
+        "caesarea"
+      ],
+      "viajes": [
+        {
+          "nombre": "Missione in Samaria e sulla costa",
+          "ruta": [
+            "jerusalen",
+            "samaria",
+            "ashdod",
+            "caesarea"
+          ],
+          "referencias": [
+            "At 8:4-40"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "ces_h1",
+        "titulo": "Battesimo di Cornelio",
+        "fecha": "ca. 40 d.C.",
+        "descripcion": "Pietro battezza il centurione Cornelio, il primo gentile confermato nel Nuovo Testamento.",
+        "referencias": [
+          "At 10:1-48"
+        ],
+        "personajes_clave": [
+          "Pedro",
+          "Cornelio"
+        ]
+      },
+      {
+        "id": "ces_h2",
+        "titulo": "Paolo imprigionato in Cesarea",
+        "fecha": "ca. 57-59 d.C.",
+        "descripcion": "Paolo rimane imprigionato in Cesarea per due anni sotto il governatore Félix.",
+        "referencias": [
+          "At 23:33-26:32"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Félix",
+          "Festo",
+          "Agripa II"
+        ]
+      },
+      {
+        "id": "ces_h3",
+        "titulo": "Partenza dell'Paolo direzione Roma",
+        "fecha": "ca. 59 d.C.",
+        "descripcion": "Paolo lascia Cesarea per Roma per essere giudicato davanti a Cesare.",
+        "referencias": [
+          "At 27:1"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "ces_p1",
+        "nombre": "Paolo di Tarso",
+        "rol": "Apostolo",
+        "periodo": "ca. 5-67 d.C.",
+        "descripcion": "Ha trascorso due anni imprigionato in Cesarea prima di appellarsi a Cesare.",
+        "referencias": [
+          "At 23:33"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ces_p2",
+        "nombre": "Cornelio",
+        "rol": "Centurione romano convertito",
+        "periodo": "s. I d.C.",
+        "descripcion": "Primo battezzato gentile, simbolo dell'apertura del vangelo.",
+        "referencias": [
+          "At 10:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "ces_p3",
+        "nombre": "Filippo evangelista",
+        "rol": "Diacono ed evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Era impostato su Cesarea; Ha accolto Paolo a casa sua.",
+        "referencias": [
+          "At 8:40",
+          "At 21:8"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Capitale romana con forte presenza militare e pagana; scena chiave dell’espansione del Vangelo ai Gentili.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo",
+        "romano_paganesimo"
+      ],
+      "mitos": [
+        {
+          "id": "ces_m1",
+          "nombre": "La visione di Cornelio",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Un angelo appare al centurione gentile Cornelio, dando inizio alla conversione dei pagani al vangelo.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Un angelo appare al centurione gentile Cornelio, dando inizio alla conversione dei pagani al vangelo.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}

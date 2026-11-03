@@ -1,0 +1,142 @@
+{
+  "id": "bezer",
+  "nombre": "baciatore",
+  "tipo": "ciudad",
+  "lat": 32.51613740944529,
+  "lng": 36.48829075785014,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Età del ferro I - Città di rifugio a Ruben"
+    }
+  ],
+  "descripcion_geo": "Città sull'altopiano di Ruben in Transgiordania, designata come una delle sei città di rifugio nel sistema legale israelita, equivalente sulla sponda orientale del Giordano a Kedesh a nord e Hebron a sud.",
+  "altitud_m": 850,
+  "clima": "Altopiano semiarido: estati secche e calde, inverni freddi, tipici dell'altopiano di Ruben in Transgiordania.",
+  "recursos": [
+    "Status giuridico di città di rifugio (asilo per assassini involontari)",
+    "Città levitica nel territorio di Ruben",
+    "Posizione sull'altopiano della Transgiordania"
+  ],
+  "importancia_estrategica": "Beser svolge la stessa funzione giuridico-religiosa di Kedesh nel nord: una delle sei città di rifugio del sistema giuridico mosaico, strategicamente situata sulla sponda orientale del Giordano per garantire pari accesso a questo meccanismo di protezione legale sia per gli abitanti della Transgiordania che, potenzialmente, per qualsiasi israelita che avesse bisogno di rifugio in quella regione.",
+  "otros_habitantes": [
+    {
+      "id": "rubenitas_bezer",
+      "nombre": "La tribù di Ruben",
+      "descripcion": "Popolazione locale di Beser, nel cui territorio è istituita questa città di rifugio secondo la distribuzione territoriale della Transgiordania.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 a.C"
+    },
+    {
+      "id": "levitas_bezer",
+      "nombre": "Leviti della stirpe dei Merari",
+      "descripcion": "Famiglie sacerdotali si stabilirono a Beser come una delle città levitiche assegnate nel territorio di Ruben.",
+      "religion": "Yahvismo",
+      "periodo": "Dal c. 1400 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "moises-designa-bezer-refugio",
+      "titulo": "Mosè designa Beser come città di rifugio",
+      "fecha": "c. 1400 a.C. (narrativa)",
+      "descripcion": "Lo stesso Mosè, prima della sua morte, separa tre città di rifugio a est del Giordano, inclusa Beser sull'altopiano del territorio rubenita, completando il sistema di tre ulteriori città che verranno stabilite a ovest del Giordano dopo la conquista di Canaan.",
+      "referencias": [
+        "Dt 4:41-43"
+      ],
+      "personajes_clave": [
+        "moises"
+      ]
+    },
+    {
+      "id": "bezer-confirmada-josue",
+      "titulo": "Giosuè conferma Beser tra le sei città rifugio",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Il libro di Giosuè conferma formalmente Bezer nel sistema completo delle sei città di rifugio distribuite sulle due sponde del Giordano, garantendo pari accesso al meccanismo di protezione legale per l'intera popolazione israelita.",
+      "referencias": [
+        "Gs 20:8"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "bezer-ciudad-levitica-rubenita",
+      "titulo": "Beser designò la città levitica di Ruben",
+      "fecha": "c. 1200 a.C. (narrativa)",
+      "descripcion": "Beser riceve la doppia designazione di città di rifugio e di città levitica per le famiglie sacerdotali della stirpe dei Merari, coniugando la funzione giuridica di asilo con la presenza sacerdotale permanente nel territorio rubenita.",
+      "referencias": [
+        "Gs 21:36"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_bezer",
+      "nombre": "Mosè",
+      "rol": "Legislatore, istitutore del sistema dei rifugi",
+      "periodo": "bronce_tardio",
+      "descripcion": "Personalmente stabilisce che Bezer sia una delle prime tre città di rifugio nel sistema legale mosaico, anche prima dell'attraversamento del Giordano nel Canaan.",
+      "referencias": [
+        "Dt 4:41-43"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_bezer",
+      "nombre": "Giosuè",
+      "rol": "Leader della conquista, confermatore del sistema completo",
+      "periodo": "bronce_tardio",
+      "descripcion": "Conferma e completa il sistema delle sei città di rifugio istituito da Mosè, inserendo Beser tra i luoghi di asilo legale distribuiti equamente sulle due sponde del Giordano.",
+      "referencias": [
+        "Gs 20:1-9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "levitas_merari_bezer",
+      "nombre": "Leviti della stirpe dei Merari",
+      "rol": "Residenti sacerdotali di Beser",
+      "periodo": "Desde c. 1200 a.C.",
+      "descripcion": "Assegnato a risiedere a Beser, unendo alla presenza sacerdotale levitica la funzione di rifugio legale della città.",
+      "referencias": [
+        "Gs 21:36"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Beser completa, insieme a Cedes nel Nord e ad altre città del sistema, la rete di tutela legale istituita dalla legge mosaica per garantire il giusto processo a chi commette omicidio colposo; La sua precoce designazione da parte dello stesso Mosè, ancor prima della conquista di Canaan, sottolinea la priorità che l'ordinamento giuridico israeliano ha dato a questo meccanismo di misericordia procedurale fin dai primi momenti dell'organizzazione territoriale del popolo.",
+    "religiones_presentes": [
+      "Yahvismo"
+    ],
+    "mitos": [
+      {
+        "id": "sistema-completo-refugio-bezer",
+        "nombre": "La prima istituzione del sistema di rifugio da parte di Mosè",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Dt 4:41-43; Jos 20:8; Jos 21:36",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la prioridad legal otorgada por Moisés a la designación de las primeras ciudades de refugio antes incluso de completar la conquista de la tierra prometida",
+          "descripcion": "La tradizione ebraica evidenzia che Mosè fondò personalmente le prime tre città di rifugio, inclusa Bezer, prima della sua morte e anche prima che Israele attraversasse il Giordano in Canaan, interpretando questa iniziale definizione delle priorità come prova dell'importanza fondamentale che il sistema legale mosaico attribuiva alla protezione del giusto processo, anche prima che fosse completato il pieno possesso territoriale.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La precoce istituzione del sistema di rifugio dimostra che la giustizia procedurale e la protezione contro le vendette affrettate erano priorità fondamentali del sistema giuridico mosaico fin dai suoi primi momenti di attuazione.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

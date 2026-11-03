@@ -1,0 +1,159 @@
+{
+  "id": "shaalbim",
+  "nombre": "Shaalbim",
+  "tipo": "ciudad",
+  "lat": 31.870364,
+  "lng": 34.981728,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Amorite enclave in Danite territory"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Iron Age II — Solomonic administrative district"
+    }
+  ],
+  "descripcion_geo": "City of Shephelah, near Aijalon, in territory assigned to Dan but which remained under Amorite control for much of the period of the Judges. Low hilly terrain in the transit zone between the coast and the central mountains.",
+  "altitud_m": 220,
+  "clima": "Transitional Mediterranean — dry summers, winters with moderate rainfall.",
+  "recursos": [
+    "Agricultural lands of the Shephelah",
+    "Position in the route network to Aijalon and Beth-horon",
+    "Integrated into the Solomonic administrative system"
+  ],
+  "importancia_estrategica": "Shaalbim exemplifies the pattern of incomplete conquest in the Book of Judges: despite being territory assigned to Dan, it remains under Amorite rule until the growing strength of the House of Joseph subjects it to forced labor. Centuries later, under Solomon, it was integrated as part of one of the kingdom's twelve administrative districts, reflecting the territorial consolidation of the united monarchy.",
+  "otros_habitantes": [
+    {
+      "id": "amorreos_shaalbim",
+      "nombre": "Shaalbim Amorites",
+      "descripcion": "Canaanite-Amorite population that retains control of Shaalbim, Aijalon and Har-heres despite the tribal assignment to Dan, until being subjected to forced labor due to pressure from the house of Joseph.",
+      "religion": "Canaanite-Amorite polytheism",
+      "periodo": "c. 1200–1000 BC"
+    },
+    {
+      "id": "danitas_shaalbim",
+      "nombre": "Tribe by Dan",
+      "descripcion": "Formal beneficiaries of the territorial allocation of Shaalbim, although failing to expel the local Amorite population for much of the period of the Judges.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "amorreos-shaalbim-sometidos",
+      "titulo": "Shaalbim Amorites Submission",
+      "fecha": "c. 1150–1100 BC",
+      "descripcion": "The Amorites retain control of Har-heres, Aijalon and Shaalbim despite the Danite tribal assignment, until the hand of the House of Joseph grows stronger over them and subjects them to forced labor, failing to completely expel them from the territory.",
+      "referencias": [
+        "Judg 1:35"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "shaalbim-distrito-salomon",
+      "titulo": "Shaalbim in the administrative district of Ben-Dequer",
+      "fecha": "c. 970–931 BC",
+      "descripcion": "Solomon organizes the kingdom into twelve administrative districts to sustain the court's supplies; Shaalbim, together with Aijalon and Bet-semesh, is integrated into the second district under the responsibility of Ben-Dequer.",
+      "referencias": [
+        "1 Kgs 4:9"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "danitas_mighty_men_shaalbim",
+      "titulo": "Elahba the Saalbonite, one of the brave men of David",
+      "fecha": "c. 1010–1000 BC",
+      "descripcion": "Elahba, originally from Shaalbim, is among the 'brave men' (gibborim) of David, the circle of elite warriors who accompanied the king since before his consolidation on the throne, mentioned in the chronicler and Samuel lists.",
+      "referencias": [
+        "2 Sam 23:32",
+        "1 Chr 11:33"
+      ],
+      "personajes_clave": [
+        "david"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "elahba_saalbonita",
+      "nombre": "Elahba the Saalbonite",
+      "rol": "One of the thirty brave men of David",
+      "periodo": "c. 1010–970 BC",
+      "descripcion": "Warrior originally from Shaalbim included in the list of the 'brave' of David, the elite body of combatants that militarily supported the rise and consolidation of the king.",
+      "referencias": [
+        "2 Sam 23:32",
+        "1 Chr 11:33"
+      ],
+      "ruta": [
+        "shaalbim"
+      ]
+    },
+    {
+      "id": "salomon_shaalbim",
+      "nombre": "Solomon",
+      "rol": "King of Israel, administrative organizer of the kingdom",
+      "periodo": "hierro_2",
+      "descripcion": "Reorganizes the territory of the United Kingdom into twelve supply districts; Shaalbim is integrated into one of them along with Aijalon and Bet-semesh.",
+      "referencias": [
+        "1 Kgs 4:7-19"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "ben_dequer",
+      "nombre": "Ben-Dequer",
+      "rol": "Shaalbim District Administrative Officer",
+      "periodo": "c. 970–931 BC",
+      "descripcion": "Responsible for the second administrative district of Solomon, which included Shaalbim, Aijalon, Bet-shemesh and other cities of the Shephelah, in charge of organizing the monthly supplies of the court.",
+      "referencias": [
+        "1 Kgs 4:9"
+      ],
+      "ruta": [
+        "shaalbim"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shaalbim has no mythical development of its own; Its narrative value lies in exemplifying two distinct moments in the history of Israel in the same place: first, the incomplete conquest of the period of the Judges, with a persistent Canaanite population under nominal Israelite rule; later, the full administrative consolidation under the Solomonic monarchy, a sign of the territorial stabilization that two centuries before seemed unattainable.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Canaanite-Amorite polytheism (persistent original population)"
+    ],
+    "mitos": [
+      {
+        "id": "conquista-incompleta-sefela",
+        "nombre": "The incomplete conquest of the Danite Shephelah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Judg 1:34-35",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre las listas de conquista incompleta en Jueces 1 como explicación teológica de la coexistencia posterior con pueblos cananeos",
+          "descripcion": "Jewish tradition uses these passages to explain why, despite promises of full possession of the land, certain Canaanite populations persisted alongside Israel for generations, attributing this situation both to the tribes' weakness of faith and to a divine pedagogical design of continuous testing.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The persistence of non-Israelite populations in assigned territory is interpreted as a consequence of the tribes' lack of faith and full decision, not as a failure of the divine plan itself.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1",
+    "hierro_2"
+  ]
+}

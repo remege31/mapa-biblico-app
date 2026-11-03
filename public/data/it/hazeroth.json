@@ -1,0 +1,134 @@
+{
+  "id": "hazeroth",
+  "nombre": "Hazeroth",
+  "tipo": "ciudad",
+  "lat": 28.92,
+  "lng": 34.5,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Periodo AT"
+    }
+  ],
+  "descripcion_geo": "Campo Israele nel deserto Sinai, seconda tappa dopo il Monte Sinai. Scena del mormorio di Miriam.",
+  "altitud_m": 300,
+  "clima": "mediterraneo",
+  "recursos": [
+    "pascolo",
+    "agricoltura"
+  ],
+  "importancia_estrategica": "Campo nel deserto dove Miriam fu colpita dalla lebbra per aver mormorato contro Mosè.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "haz_h1",
+      "titulo": "Miriam e Aaron mormorano contro Mosè a Hazerot",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "In Hazerot, Miriam e Aaron criticano Mosè per la sua moglie cusita; Miriam è colpita dalla lebbra bianca.",
+      "referencias": [
+        "Nm 12:1-16"
+      ],
+      "personajes_clave": [
+        "Miriam",
+        "Aarón",
+        "Moisés"
+      ]
+    },
+    {
+      "id": "haz_h2",
+      "titulo": "Israele si accampa a Hazerot per sette giorni",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Israele aspetta ad Hazerot sette giorni mentre Miriam è fuori dal campo a causa della lebbra; Poi parte per il deserto del Paran.",
+      "referencias": [
+        "Nm 12:15"
+      ],
+      "personajes_clave": [
+        "israelitas",
+        "Miriam"
+      ]
+    },
+    {
+      "id": "haz_h3",
+      "titulo": "Hazerot sull'itinerario dell'esodo",
+      "fecha": "ca. 1260 a.C.",
+      "descripcion": "Hazerot appare nell'elenco delle stazioni nel deserto percorse da Israele da Egitto a Canaan.",
+      "referencias": [
+        "Nm 33:17-18"
+      ],
+      "personajes_clave": [
+        "Moisés"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "haz_p1",
+      "nombre": "Miriam",
+      "rol": "Profetessa",
+      "periodo": "ca. 1320-1250 a.C.",
+      "descripcion": "Fu colpita dalla lebbra ad Hazeroth per aver mormorato contro Mosè; ripristinato dopo sette giorni.",
+      "referencias": [
+        "Nm 12:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p2",
+      "nombre": "Mosè",
+      "rol": "Legislatore",
+      "periodo": "ca. 1320-1200 a.C.",
+      "descripcion": "Intercedette per Miriam davanti a Dio a Hazerot: 'O Dio, guariscila adesso!'",
+      "referencias": [
+        "Nm 12:13"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "haz_p3",
+      "nombre": "Aronne",
+      "rol": "Sommo sacerdote",
+      "periodo": "ca. 1280-1220 a.C.",
+      "descripcion": "Ha partecipato alla mormorazione ma non è stato punito; Ha implorato Mosè di intercedere per Miriam.",
+      "referencias": [
+        "Nm 12:11"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Hazerot: regione geografica rilevante nell'Antico Testamento.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "paganesimo_Cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "haz_m1",
+        "nombre": "La lebbra di Miriam",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Miriam è stata colpita dalla lebbra per aver criticato Mosè; La sua punizione e restaurazione mostrano che nemmeno coloro che sono più vicini al leader sono esenti dalla disciplina divina.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Miriam è stata colpita dalla lebbra per aver criticato Mosè; La sua punizione e restaurazione mostrano che nemmeno coloro che sono più vicini al leader sono esenti dalla disciplina divina.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

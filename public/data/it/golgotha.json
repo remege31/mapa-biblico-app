@@ -1,0 +1,261 @@
+{
+  "id": "golgotha",
+  "nombre": "Golgota (Calvario)",
+  "tipo": "ciudad",
+  "lat": 31.7783,
+  "lng": 35.2296,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 10,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": 30,
+      "hasta": 30,
+      "nombre": "romano"
+    }
+  ],
+  "descripcion_geo": "Luogo della crocifissione di Gesù, fuori dalle mura di Gerusalemme. \"Golgota\" in ebraico e \"Calvario\" in latino significano \"luogo del teschio\".",
+  "altitud_m": 740,
+  "clima": "mediterraneo",
+  "recursos": [
+    "calcare"
+  ],
+  "importancia_estrategica": "Il punto più sacro della cristianità: luogo della crocifissione e possibile sepoltura di Gesù.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "gol_h1",
+      "titulo": "La crocifissione di Gesù sul Golgota",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Gesù viene crocifisso sul Golgota con due ladroni; Le parole della croce e i prodigi che l'accompagnano sono narrati dai quattro vangeli.",
+      "referencias": [
+        "Mt 27:33-56",
+        "Gv 19:17-37"
+      ],
+      "personajes_clave": [
+        "Jesús",
+        "María",
+        "Juan",
+        "María Magdalena"
+      ]
+    },
+    {
+      "id": "gol_h2",
+      "titulo": "Golgota e la tomba di Giuseppe d'Arimatea",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Nei pressi del Golgota vi era un giardino con una tomba nuova dove Giuseppe di Arimatea e Nicodemo deposero il corpo di Gesù.",
+      "referencias": [
+        "Gv 19:41-42"
+      ],
+      "personajes_clave": [
+        "José de Arimatea",
+        "Nicodemo"
+      ]
+    },
+    {
+      "id": "gol_h3",
+      "titulo": "La Chiesa del Santo Sepolcro sul Golgota",
+      "fecha": "ca. 335 d.C.",
+      "descripcion": "Costantino costruisce la Basilica del Santo Sepolcro sul probabile sito del Golgota e della tomba di Gesù.",
+      "referencias": [
+        "Historia eclesiástica"
+      ],
+      "personajes_clave": [
+        "Constantino",
+        "Helena"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "gol_p1",
+      "nombre": "Gesù di Nazareth",
+      "rol": "messia crocifisso",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Fu crocifisso sul Golgota; La sua morte è l'evento centrale della fede cristiana.",
+      "referencias": [
+        "Mt 27:35"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p2",
+      "nombre": "Giuseppe d'Arimatea",
+      "rol": "Membro del Sinedrio",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Discepolo segreto di Gesù; Chiese il corpo e lo seppellì nella sua nuova tomba vicino al Golgota.",
+      "referencias": [
+        "Gv 19:38"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "gol_p3",
+      "nombre": "Maria Maddalena",
+      "rol": "Testimone della crocifissione",
+      "periodo": "s. I d.C.",
+      "descripcion": "Rimase accanto alla croce fino alla fine; Allora lei fu la prima testimone della risurrezione.",
+      "referencias": [
+        "Gv 19:25"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Il punto più sacro del cristianesimo; luogo della morte redentrice di Gesù e, secondo la tradizione, della tomba vuota.",
+    "religiones_presentes": [
+      "Ebraismo",
+      "cristianesimo",
+      "Islam"
+    ],
+    "mitos": [
+      {
+        "id": "gol_m1",
+        "nombre": "La morte del giusto",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": true
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La tipologia biblica prefigura la morte di Gesù sul Golgota: il servo sofferente (Is 53), l'agnello pasquale (Es 12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La tipologia biblica prefigura la morte di Gesù sul Golgota: il servo sofferente (Is 53), l'agnello pasquale (Es 12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Gv 3,16",
+          "fuente_secundaria": "",
+          "descripcion": "La croce sul Golgota è il centro della teologia cristiana: «Dio ha tanto amato il mondo...» (Gv 3,16).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La croce sul Golgota è il centro della teologia cristiana: «Dio ha tanto amato il mondo...» (Gv 3,16).",
+          "posible_relacion_cultural": null
+        },
+        "islam": {
+          "fuente_primaria": "Cor 4,157-158",
+          "fuente_secundaria": "",
+          "descripcion": "L'Islam non accetta che Gesù sia morto sulla croce (Cor 4,157-158); Per l'Islam, Gesù è stato portato in paradiso senza morire.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "L'Islam non accetta che Gesù sia morto sulla croce (Cor 4,157-158); Per l'Islam, Gesù è stato portato in paradiso senza morire.",
+          "posible_relacion_cultural": null
+        }
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "gol_nt_h1",
+        "titulo": "La crocifissione",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "'E condussero Gesù al luogo chiamato Golgota... e lo crocifissero' (Marco 15,22-24): l'evento fondativo del cristianesimo.",
+        "referencias": [
+          "Mt 27:33-50"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h2",
+        "titulo": "Le sette parole dalla croce",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Gesù pronuncia sette frasi della croce; l'ultima: \"Padre, nelle tue mani affido il mio spirito\".",
+        "referencias": [
+          "Lc 23:46"
+        ],
+        "personajes_clave": [
+          "Jesús"
+        ]
+      },
+      {
+        "id": "gol_nt_h3",
+        "titulo": "Il velo strappato e il centurione",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Quando Gesù muore il velo del Tempio si squarcia; esclama il centurione romano: 'Veramente costui era Figlio di Dio!'",
+        "referencias": [
+          "Mt 27:51-54"
+        ],
+        "personajes_clave": [
+          "centurión romano",
+          "Jesús"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "gol_nt_p1",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia crocifisso e risorto",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "La sua morte sul Golgota è il cuore dell'annuncio cristiano.",
+        "referencias": [
+          "Mt 27:35"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p2",
+        "nombre": "Maria, madre di Gesù",
+        "rol": "Madre dei crocifissi",
+        "periodo": "s. I d.C.",
+        "descripcion": "Ha assistito alla crocifissione accanto alla croce; Juan l'ha accolta come una madre.",
+        "referencias": [
+          "Gv 19:25-27"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "gol_nt_p3",
+        "nombre": "Il centurione romano",
+        "rol": "Gentile testimone",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Ha confessato la filiazione divina di Gesù di fronte alla morte: il primo gentile annunciatore del vangelo.",
+        "referencias": [
+          "Mc 15:39"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Il Golgota è il centro geografico e teologico del Nuovo Testamento: luogo della redenzione.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "gol_nt_m1",
+          "nombre": "L'Agnello di Dio",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Il Golgota realizza tutta la tipologia sacrificale dell'Antico Testamento: l'agnello pasquale, il servo sofferente, il giusto che muore per il colpevole.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il Golgota realizza tutta la tipologia sacrificale dell'Antico Testamento: l'agnello pasquale, il servo sofferente, il giusto che muore per il colpevole.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

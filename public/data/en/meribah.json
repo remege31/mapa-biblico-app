@@ -1,0 +1,168 @@
+{
+  "id": "meribah",
+  "nombre": "Meribah",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 30.68771281376111,
+  "lng": 34.49479554246946,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 8,
+  "jerarquia_pin": "agua_menor",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Moses Disobedience, Rock Water"
+    }
+  ],
+  "descripcion_geo": "Place in the desert of Zin, near Kadesh, whose name ('contention' or 'quarrel') derives directly from the episode of dispute between the people of Israel and Moses over the lack of water, repeating a pattern that has already occurred before in another place also called similarly in the desert of Sin.",
+  "altitud_m": 600,
+  "clima": "Desert — extremely dry and hot, typical of the Zin Desert at the southern end of Transjordan.",
+  "recursos": [
+    "Rock from which water flows after Moses's gesture",
+    "Critical water shortage leading to the complaint episode"
+  ],
+  "importancia_estrategica": "Meribah has no strategic military relevance, but it is one of the theologically most significant places of the desert pilgrimage: here Moses, by hitting the rock instead of speaking to it as YHWH had ordered, commits the mistake that will cost him and Aaron entry to the promised land, an episode that becomes a recurring biblical reference on the consequences of disobedience even in the most faithful leaders.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_meribah",
+      "nombre": "Exodus Israel (Kadesh generation)",
+      "descripcion": "People who complain bitterly against Moses and Aarón for the lack of water in Kadesh, causing the crisis that culminates in the episode of the struck rock.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    },
+    {
+      "id": "miriam_meribah",
+      "nombre": "Miriam (context)",
+      "descripcion": "Sister of Moses and Aaron, whose death and burial in Kadesh immediately precedes the episode of the lack of water in Meribah, in the same narrative section.",
+      "religion": "Yahwism",
+      "periodo": "c. 1400 BC (narrative)"
+    }
+  ],
+  "historias": [
+    {
+      "id": "queja-pueblo-meribah",
+      "titulo": "The town complains about lack of water in Kadesh",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "With no water in Kadesh, the people gather against Moses and Aaron, lamenting bitterly and wishing they had died alongside their brothers before YHWH rather than face this deprivation in an 'evil place' with no grain, figs, vines, or water to drink.",
+      "referencias": [
+        "Num 20:1-5"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    },
+    {
+      "id": "moises-golpea-roca-meribah",
+      "titulo": "Moses hits the rock instead of talking to it",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "YHWH instructs Moses to take the staff and speak to the rock before the congregation to give water; Instead, Moses, visibly frustrated, gathers the people, reprimands them by calling them 'rebels' and hits the rock twice with the staff, from which abundant water flows despite the disobedience in the method.",
+      "referencias": [
+        "Num 20:6-11"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    },
+    {
+      "id": "juicio-moises-aaron-meribah",
+      "titulo": "YHWH announces that Moses and Aaron will not enter the promised land",
+      "fecha": "c. 1400 BC (narrativa)",
+      "descripcion": "As a direct consequence of not having 'sanctified' YHWH in the eyes of the people in the episode of the rock, YHWH announces to Moses and Aaron that they will not introduce the congregation into the land given to them, a sentence that marks the rest of their lives and becomes one of the most cited judgments on the consequences of disobedience even by the leaders closest to God.",
+      "referencias": [
+        "Num 20:12"
+      ],
+      "personajes_clave": [
+        "moises",
+        "aaron"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "moises_meribah",
+      "nombre": "Moses",
+      "rol": "Israel Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "In Meribah he commits the mistake that will cost him not to enter the promised land: hitting the rock instead of speaking to it as YHWH had ordered, an episode interpreted in multiple ways throughout the tradition but unanimously recognized as a decisive moment in his biography.",
+      "referencias": [
+        "Num 20:1-13"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount",
+        "pisgah"
+      ]
+    },
+    {
+      "id": "aaron_meribah",
+      "nombre": "Aaron",
+      "rol": "High Priest of Israel",
+      "periodo": "bronce_tardio",
+      "descripcion": "He shares the same judgment as Moses for his participation in the Meribah episode, although the text focuses mainly on Moses's direct action with the rod and the rock.",
+      "referencias": [
+        "Num 20:12",
+        "Num 20:24"
+      ],
+      "ruta": [
+        "meribah",
+        "hor_mount"
+      ]
+    },
+    {
+      "id": "pueblo_quejoso_meribah",
+      "nombre": "Israel Congregation",
+      "rol": "People who cause the crisis with their complaint",
+      "periodo": "c. 1400 BC (narrativa)",
+      "descripcion": "With his bitter complaint about the lack of water, he provokes the situation that leads Moses to frustration that culminates in his act of disobedience, repeating the recurring pattern of murmuring that characterizes much of the story of the pilgrimage through the desert.",
+      "referencias": [
+        "Num 20:2-5"
+      ],
+      "ruta": [
+        "meribah"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Meribah is one of the most theologically debated episodes in the Pentateuch: the seemingly disproportionate punishment of Moses—excluded from the promised land after decades of faithful leadership for a single act of momentary frustration—spawns an extensive interpretive tradition about the exact nature of his failure, oscillating between readings that emphasize literal disobedience to the prescribed method and readings that see in it a deeper failure to correctly represent the character of YHWH to the people in a critical moment.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "falta-moises-meribah-mito",
+        "nombre": "The nature of the lack of Moses in Meribah",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Num 20:1-13",
+          "fuente_secundaria": "Numerosas interpretaciones rabínicas y medievales (Rashi, Maimónides, Ramban) sobre la naturaleza exacta del pecado de Moisés en Meribá",
+          "descripcion": "Jewish tradition engages in extensive exegetical debate about what exactly constituted Moses's failure—hitting rather than speaking, the anger expressed by calling the people 'rebels', the possible implication that he and Aaron produced the water (\"shall we draw water...?\")—without reaching a definitive consensus, but agreeing that the punishment reflects the exceptionally high standard required of a leader of his stature before the people.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The episode teaches that greater closeness to God and greater leadership responsibility corresponds to a more demanding standard of faithfulness, not a more lax one.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Num 20:1-13 (recepción tipológica en 1 Cor 10:4, la roca identificada con Cristo)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan la roca de Meribá con Cristo como 'roca espiritual' que seguía a Israel",
+          "descripcion": "The apostle Paul typologically identifies the rock from which water flows in the desert with Christ himself, reading the episode in a Christological key as a foretaste of the definitive spiritual provision, while the patristic tradition also reflects on the severity of the judgment on Moses as a warning about the responsibility of religious leadership.",
+          "similitudes": "It shares with Jewish reading the recognition of the exceptional gravity attributed to the lack of a leader of Moses's stature.",
+          "diferencias": "The Christian reading adds an explicit typological dimension (the rock as Christ) absent in the traditional Jewish interpretation of the passage.",
+          "significado_teologico": "The rock of Meribah becomes an Old Testament figure of Christ as a source of constant spiritual provision for God's people on their pilgrimage.",
+          "posible_relacion_cultural": "Christian reception of the Exodus cycle typologically reinterpreted in a Christological key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ],
+  "subtipo_geo": "Spring"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "zarethan",
+  "nombre": "Saretan",
+  "tipo": "ciudad",
+  "lat": 32.267821,
+  "lng": 35.576613,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Jordan Crossing, Solomon foundry"
+    }
+  ],
+  "descripcion_geo": "Town next to the Jordan River, in the region where the waters miraculously stopped during the crossing of Israel towards the promised land, and centuries later, a site identified with the casting area of ​​the bronze objects of the Temple of Solomon due to the compact clay of its terrain.",
+  "altitud_m": -250,
+  "clima": "Jordan Valley Mediterranean — very hot and dry summers, mild winters, typical of the central Jordan Valley.",
+  "recursos": [
+    "Clay soil suitable for metal casting",
+    "Position next to the Jordan, landmark of the miraculous crossing"
+  ],
+  "importancia_estrategica": "Zaretan marks the point where the waters of the Jordan stop during the miraculous crossing of Israel under Joshua, and centuries later it becomes the industrial center where Solomon casts the great bronze objects of the Temple, taking advantage of the specific characteristics of the region's clay soil for the casting molds.",
+  "otros_habitantes": [
+    {
+      "id": "israelitas_zarethan",
+      "nombre": "Israel of the exodus",
+      "descripcion": "Town that crosses the Jordan near Zaretan while the waters miraculously stop, allowing dry passage to the promised land.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200 BC (narrative)"
+    },
+    {
+      "id": "fundidores_salomon_zarethan",
+      "nombre": "Hiram's Artisans by Tyre",
+      "descripcion": "Bronze casting workers, led by Hiram the craftsman (namesake of the king of Tyre), use the clay soil of Zarethan to cast the large bronze objects of the Temple of Solomon.",
+      "religion": "Phoenician polytheism (craftsman) and Yahwism (project)",
+      "periodo": "c. 960 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "cruce-jordan-zarethan",
+      "titulo": "The waters of the Jordan stop at Zaretan",
+      "fecha": "c. 1200 BC (narrativa)",
+      "descripcion": "When the priests carrying the Ark of the Covenant touch the waters of the Jordan, they stop and gather 'very far away in Adam, a city next to Zarethan', allowing all Israel to cross dry towards Jericho and the promised land.",
+      "referencias": [
+        "Josh 3:14-17"
+      ],
+      "personajes_clave": [
+        "josue"
+      ]
+    },
+    {
+      "id": "fundicion-bronce-salomon-zarethan",
+      "titulo": "Solomon melts the bronze objects from the Temple in Zaretan",
+      "fecha": "c. 960 BC",
+      "descripcion": "Hiram, a bronze craftsman sent by the king of Tyre, casts the Jachin and Boaz columns, the bronze sea, and other large objects of the Temple on the Jordan plain, in clay soil between Succoth and Zarethan, taking advantage of the specific characteristics of the terrain for large-scale casting molds.",
+      "referencias": [
+        "1 Kgs 7:45-46"
+      ],
+      "personajes_clave": [
+        "salomon"
+      ]
+    },
+    {
+      "id": "elias-jordan-zarethan-contexto",
+      "titulo": "Zaretan as a geographical reference of the Jordan Valley",
+      "fecha": "Diversos períodos",
+      "descripcion": "Zaretan functions repeatedly in the biblical text as a stable geographical reference point to locate other events and places along the course of the Jordan River, confirming its persistence as a recognized locality for several centuries.",
+      "referencias": [
+        "Judg 7:22"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "josue_zarethan",
+      "nombre": "Joshua",
+      "rol": "Canaan Conquest Leader",
+      "periodo": "bronce_tardio",
+      "descripcion": "He leads the miraculous crossing of the Jordan near Zarethan, marking the formal beginning of Israel's entry into the promised land.",
+      "referencias": [
+        "Josh 3:1-17"
+      ],
+      "ruta": [
+        "shittim",
+        "zarethan",
+        "jericho"
+      ]
+    },
+    {
+      "id": "salomon_zarethan",
+      "nombre": "Solomon",
+      "rol": "King of Israel, builder of the Temple",
+      "periodo": "hierro_2",
+      "descripcion": "He orders the casting of the large bronze objects of the Temple in the Zaretan region, taking advantage of the specific properties of the local clay soil for this work of large-scale metallurgical engineering.",
+      "referencias": [
+        "1 Kgs 7:45-47"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    },
+    {
+      "id": "hiram_artesano_zarethan",
+      "nombre": "Hiram, bronze craftsman",
+      "rol": "Founder Master sent by Tyre",
+      "periodo": "c. 960 BC",
+      "descripcion": "He technically directs the casting of the bronze objects of the Temple in the Saretan region, applying his Phoenician experience in metallurgy at the service of the Solomon construction project.",
+      "referencias": [
+        "1 Kgs 7:13-14",
+        "1 Kgs 7:45-46"
+      ],
+      "ruta": [
+        "zarethan"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Zaretan connects two founding moments separated by centuries in the religious history of Israel: the miraculous crossing of the Jordan marking the beginning of the possession of the promised land under Joshua, and the casting of the central elements of the Temple cult under Solomon, suggesting a symbolic continuity between the moment of entry into the land and the moment of full consecration of the cult centralized in Jerusalem.",
+    "religiones_presentes": [
+      "Yahwism",
+      "Phoenician polytheism (specialized craftsmen)"
+    ],
+    "mitos": [
+      {
+        "id": "aguas-detenidas-zarethan",
+        "nombre": "The waters of the Jordan stopped next to Zaretan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 3:14-17",
+          "fuente_secundaria": "Comentario rabínico tradicional que compara el cruce del Jordán con el cruce del Mar Rojo como segundo gran milagro acuático fundacional de la historia de Israel",
+          "descripcion": "Jewish tradition explicitly connects the miracle of the crossing of the Jordan near Zarethan with the precedent of the crossing of the Red Sea in the exodus, interpreting both events as parallel manifestations of YHWH's power to make a way for his people in the most decisive moments of transition in their history: the exit from slavery and the entry into the promised land.",
+          "similitudes": "It shares with Christianity the recognition of the typological parallelism between both aquatic crossings.",
+          "diferencias": null,
+          "significado_teologico": "The crossing of the Jordan confirms that the same divine power that freed Israel from Egypt now brings him into definitive possession of the promised land.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Josh 3:14-17 (recepción tipológica patrística sobre el cruce del Jordán como figura bautismal)",
+          "fuente_secundaria": "Comentarios patrísticos que vinculan el cruce del Jordán con el bautismo cristiano como paso simbólico hacia una nueva existencia",
+          "descripcion": "Christian tradition typologically reads the crossing of the Jordan as a prefiguration of Christian baptism, interpreting the passage of waters as a symbol of the transition from the old existence (the desert) to the new life in the promised inheritance, a parallel reinforced by the fact that Jesus himself is baptized in the same river.",
+          "similitudes": "It shares with Jewish reading the recognition of the crossing of the Jordan as a moment of foundational transition.",
+          "diferencias": "The Christian reading adds a sacramental typological dimension (baptism) absent in the traditional Jewish interpretation of the episode.",
+          "significado_teologico": "The crossing of the Jordan becomes an Old Testament figure of Christian baptism as a step towards a new spiritual existence.",
+          "posible_relacion_cultural": "Christian reception of the story of the Exodus and the conquest typologically reinterpreted in a sacramental key."
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

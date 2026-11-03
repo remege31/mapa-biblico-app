@@ -1,0 +1,133 @@
+{
+  "id": "kanah",
+  "nombre": "Caná del río",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 32.75,
+  "lng": 35.34,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "El río Caná (no la ciudad de Caná de Galilea) marcaba el límite entre las tribus de Efraín y Manasés.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Frontera fluvial entre Efraín y Manasés.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "kan_h1",
+      "titulo": "El río Caná como frontera tribal",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "El río Caná marcaba el límite norte de Efraín y el límite sur de Manasés en la tierra prometida.",
+      "referencias": [
+        "Jos 16:8",
+        "Jos 17:9"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h2",
+      "titulo": "Las ciudades de Manasés al sur del Caná",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "Algunas ciudades al sur del río Caná pertenecían a Manasés aunque estaban dentro del territorio de Efraín.",
+      "referencias": [
+        "Jos 17:9-10"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    },
+    {
+      "id": "kan_h3",
+      "titulo": "El Caná en la descripción de las fronteras",
+      "fecha": "ca. 1220 a.C.",
+      "descripcion": "La descripción detallada de las fronteras tribales en Josué incluye el río Caná como marcador preciso.",
+      "referencias": [
+        "Jos 16:8"
+      ],
+      "personajes_clave": [
+        "Josué"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "kan_p1",
+      "nombre": "Josué",
+      "rol": "Conquistador y repartidor de la tierra",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "Usó el río Caná como frontera entre Efraín y Manasés.",
+      "referencias": [
+        "Jos 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p2",
+      "nombre": "tribu de Efraín",
+      "rol": "Tribu israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "El Caná fue el límite norte de su herencia.",
+      "referencias": [
+        "Jos 16:8"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "kan_p3",
+      "nombre": "tribu de Manasés",
+      "rol": "Tribu israelita",
+      "periodo": "ca. 1220 a.C.",
+      "descripcion": "El Caná fue el límite sur de su herencia.",
+      "referencias": [
+        "Jos 17:9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Caná del río: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "kan_m1",
+        "nombre": "El río como frontera",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "Los ríos son fronteras providenciales en la repartición de la tierra: el Caná separa dos medias tribus del mismo patriarca José.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los ríos son fronteras providenciales en la repartición de la tierra: el Caná separa dos medias tribus del mismo patriarca José.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_tardio"
+  ]
+}

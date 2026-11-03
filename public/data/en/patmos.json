@@ -1,0 +1,194 @@
+{
+  "id": "patmos",
+  "nombre": "Patmos",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 37.321,
+  "lng": 26.5462,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Hellenistic-Roman"
+    }
+  ],
+  "descripcion_geo": "Small volcanic island in the Aegean in the Dodecanese archipelago, 60 km from Miletus.",
+  "altitud_m": 150,
+  "clima": "insular mediterranean",
+  "recursos": [
+    "fishing",
+    "stonework"
+  ],
+  "importancia_estrategica": "Rocky island used by Rome as a place of exile.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "juan_apostol",
+      "nombre": "Juan",
+      "rol": "Beloved Apostle, Seer of Patmos",
+      "periodo": "apostolico",
+      "descripcion": "Son of Zebedee, fisherman of Galilee and close disciple of Jesus. Missioned Samaria with Peter; Tradition later places him in Ephesus, from where he was exiled to Patmos, where he received the Apocalypse.",
+      "referencias": [
+        "Mark 1:19-20",
+        "Acts 8:14-25",
+        "Rev 1:9"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ephesus",
+        "patmos"
+      ],
+      "viajes": [
+        {
+          "nombre": "Mission in Samaria with Peter",
+          "ruta": [
+            "jerusalen",
+            "samaria",
+            "jerusalen"
+          ],
+          "referencias": [
+            "Acts 8:14-25"
+          ]
+        },
+        {
+          "nombre": "Ephesus and the exile to Patmos",
+          "ruta": [
+            "ephesus",
+            "patmos"
+          ],
+          "referencias": [
+            "Rev 1:9-11"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pat_h1",
+        "titulo": "John receives the Apocalypse",
+        "fecha": "ca. 95-96 AD",
+        "descripcion": "Banished by Domitian, John receives visions and writes the book of Revelation.",
+        "referencias": [
+          "Rev 1:9"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "pat_h2",
+        "titulo": "The vision of the glorious Christ",
+        "fecha": "ca. 95 AD",
+        "descripcion": "John sees the Son of Man among seven lampstands; receives the mandate to write.",
+        "referencias": [
+          "Rev 1:10-20"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "pat_h3",
+        "titulo": "The seven letters to the churches",
+        "fecha": "ca. 95 AD",
+        "descripcion": "John dictates seven letters to the churches of Asia, contained in the Apocalypse.",
+        "referencias": [
+          "Rev 2-3"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pat_p1",
+        "nombre": "John the Apostle",
+        "rol": "Prophet and evangelist",
+        "periodo": "s. I AD",
+        "descripcion": "Exiled on Patmos; recipient of the book of Revelation.",
+        "referencias": [
+          "Rev 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pat_p2",
+        "nombre": "Domitian",
+        "rol": "Roman emperor",
+        "periodo": "81-96 AD",
+        "descripcion": "Persecutor of Christians; ordered John's exile to Patmos.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pat_p3",
+        "nombre": "The revealing angel",
+        "rol": "heavenly messenger",
+        "periodo": "s. I AD",
+        "descripcion": "Mediator between Christ and John in the visions of the Apocalypse.",
+        "referencias": [
+          "Rev 22:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Island of exile where loneliness and persecution became the cradle of the most influential prophetic book of the NT.",
+      "religiones_presentes": [
+        "roman_paganism",
+        "imperial_cult",
+        "Christianity"
+      ],
+      "mitos": [
+        {
+          "id": "pat_m1",
+          "nombre": "The final revelation",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "On Patmos, John receives the last canonical Christian revelation, a cosmic vision of Christ's victory over evil.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "On Patmos, John receives the last canonical Christian revelation, a cosmic vision of Christ's victory over evil.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Islam recognizes the divine inspiration of the prophets but does not include the Apocalypse in its canon.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Islam recognizes the divine inspiration of the prophets but does not include the Apocalypse in its canon.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

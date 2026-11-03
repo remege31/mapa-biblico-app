@@ -1,0 +1,141 @@
+{
+  "id": "ain",
+  "nombre": "Ain",
+  "tipo": "ciudad",
+  "lat": 31.370835,
+  "lng": 34.860665,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Iron Age I — Levitical city in the Negev of Judah"
+    }
+  ],
+  "descripcion_geo": "Small city in the Negev of Judah, assigned to the Levites within the tribal territory shared between Judah and Simeon. Its name ('spring' or 'eye') suggests the presence of a water source that justified settlement in a semi-arid transition region.",
+  "altitud_m": 380,
+  "clima": "Semi-arid — very dry and hot summers, mild winters with little rain, typical of the northern Negev.",
+  "recursos": [
+    "Spring or source of water (origin of the name)",
+    "Negev Grazing Lands",
+    "Levitical position within the tribal distribution"
+  ],
+  "importancia_estrategica": "Aín has no military relevance or prominent narrative; Its importance is exclusively administrative-religious, as one of the cities in the territory shared between Judah and Simeon designated for the residence of Levitical families, part of the system of forty-eight Levitical cities distributed throughout Israel.",
+  "otros_habitantes": [
+    {
+      "id": "levitas_ain",
+      "nombre": "Levites (line of Aaron)",
+      "descripcion": "Priestly families settled in Ain as part of the distribution of Levitical cities between the territories of Judah and Simeon.",
+      "religion": "Yahwism",
+      "periodo": "Since c. 1200 BC"
+    },
+    {
+      "id": "simeonitas_ain",
+      "nombre": "Tribe of Simeon",
+      "descripcion": "Ain is situated in territory originally shared or close to the cities assigned to the tribe of Simeon within the Negev of Judah.",
+      "religion": "Yahwism",
+      "periodo": "c. 1200–1000 BC"
+    }
+  ],
+  "historias": [
+    {
+      "id": "ain-ciudad-levitica-josue",
+      "titulo": "Ain in the list of Levitical cities",
+      "fecha": "c. 1200 BC",
+      "descripcion": "In the territorial distribution of Joshua, Ain is included among the cities of Negev of Judah designated as the residence of the Levitical families descended from Aaron.",
+      "referencias": [
+        "Josh 21:16"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ain-ciudad-simeon-juda",
+      "titulo": "Aín in the list of cities of Judah and Simeon",
+      "fecha": "c. 1200 BC",
+      "descripcion": "The book of Joshua records Ain among the cities at the southern end of the territory of Judah, in the area that is later partially reassigned to the tribe of Simeon because the original territory of Judah was oversized.",
+      "referencias": [
+        "Josh 15:32",
+        "Josh 19:7"
+      ],
+      "personajes_clave": []
+    },
+    {
+      "id": "ain-registro-cronista",
+      "titulo": "Still in the chronicler genealogical record",
+      "fecha": "Genealógico, período de la monarquía",
+      "descripcion": "The city reappears in the parallel lists of 1 Chronicles documenting the cities of the tribe of Simeon, confirming its administrative persistence over several centuries.",
+      "referencias": [
+        "1 Chr 4:32"
+      ],
+      "personajes_clave": []
+    }
+  ],
+  "personajes": [
+    {
+      "id": "levitas_aaron_ain",
+      "nombre": "Levitical Families of Aaron's Line",
+      "rol": "Priestly residents of Ain",
+      "periodo": "Desde c. 1200 BC",
+      "descripcion": "Designated to inhabit Ain within the system of Levitical cities, without individual narrative episodes associated with the place.",
+      "referencias": [
+        "Josh 21:16"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "josue_ain",
+      "nombre": "Joshua",
+      "rol": "Leader of the conquest, organizer of the territorial distribution",
+      "periodo": "bronce_tardio",
+      "descripcion": "He directs the assignment of Ain as a Levitical city within the general distribution of the conquered territory among the twelve tribes of Israel.",
+      "referencias": [
+        "Josh 21:1-19"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "simeonitas_ain_personaje",
+      "nombre": "Clans of Simeon",
+      "rol": "Neighboring tribal population of Aín",
+      "periodo": "c. 1200–1000 BC",
+      "descripcion": "Inhabitants of the tribe of Simeon in whose territory, shared with Judah, Ain is located according to the Negev city lists.",
+      "referencias": [
+        "Josh 19:1-9"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Aín lacks its own narrative or mythical development; Its value for the biblical corpus is purely administrative, as part of the system of forty-eight Levitical cities that guaranteed priestly presence distributed throughout the territory of Israel, ensuring that no region was left without access to religious instruction and Levitical cultic mediation.",
+    "religiones_presentes": [
+      "Yahwism"
+    ],
+    "mitos": [
+      {
+        "id": "ciudades-leviticas-sistema",
+        "nombre": "The system of Levitical cities as a network of priestly presence",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Josh 21:1-42; Núm 35:1-8",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la función pedagógica y judicial de los levitas distribuidos en las ciudades del territorio israelita",
+          "descripcion": "Jewish tradition interprets the system of forty-eight Levitical cities, including Ain, as a deliberate mechanism to ensure that Torah instruction and religious mediation were accessible to the entire population of Israel, without concentrating the priestly presence solely around the central sanctuary.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "The territorial distribution of the Levites reflects the principle that holiness and religious instruction should permeate the entire life of the people, not be limited to a single center.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_1"
+  ]
+}

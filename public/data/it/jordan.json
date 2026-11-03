@@ -1,0 +1,169 @@
+{
+  "id": "jordan",
+  "nombre": "fiume Giordano",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 31.843,
+  "lng": 35.5521,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Il fiume principale della terra di Israele, nasce nell'Ermon e sfocia nel Mar Morto, scendendo a 400 m sotto il livello del mare.",
+  "altitud_m": -300,
+  "clima": "arido-semiarido",
+  "recursos": [
+    "acqua",
+    "pesca",
+    "agricoltura fluviale"
+  ],
+  "importancia_estrategica": "Confine naturale e asse geografico della terra promessa.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "vida_jesus"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "jor_h1",
+        "titulo": "Ministero di Giovanni Battista",
+        "fecha": "ca. 26-29 d.C.",
+        "descripcion": "Giovanni battezza nel Giordano a \"Betabara\"; Moltitudini vengono al battesimo di pentimento.",
+        "referencias": [
+          "Mc 1:4-5"
+        ],
+        "personajes_clave": [
+          "Juan el Bautista"
+        ]
+      },
+      {
+        "id": "jor_h2",
+        "titulo": "Battesimo di Gesù",
+        "fecha": "ca. 27 d.C.",
+        "descripcion": "Gesù viene battezzato da Juan; Lo Spirito discende come una colomba e la voce del Padre lo proclama Figlio prediletto.",
+        "referencias": [
+          "Mt 3:13-17"
+        ],
+        "personajes_clave": [
+          "Jesús",
+          "Juan el Bautista"
+        ]
+      },
+      {
+        "id": "jor_h3",
+        "titulo": "Giovanni 3,23: battesimo ad Enon",
+        "fecha": "ca. 28 d.C.",
+        "descripcion": "Giovanni Battista battezzò ad Enon, vicino a Salim, perché c'era molta acqua.",
+        "referencias": [
+          "Gv 3:23"
+        ],
+        "personajes_clave": [
+          "Juan el Bautista"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "jor_p1",
+        "nombre": "Giovanni Battista",
+        "rol": "Profeta e Battista",
+        "periodo": "ca. 5 a.C.–29 d.C.",
+        "descripcion": "Ha fatto del Giordano il teatro del suo ministero battesimale e di annuncio.",
+        "referencias": [
+          "Mt 3:1"
+        ],
+        "ruta": [
+          "jordan",
+          "jerusalen"
+        ]
+      },
+      {
+        "id": "jor_p2",
+        "nombre": "Gesù di Nazareth",
+        "rol": "Messia",
+        "periodo": "ca. 6 a.C.–30 d.C.",
+        "descripcion": "Ricevette il battesimo da Giovanni nel Giordano, inaugurando il suo ministero pubblico.",
+        "referencias": [
+          "Mt 3:13"
+        ],
+        "ruta": [
+          "jordan",
+          "nazareth",
+          "capernaum"
+        ]
+      },
+      {
+        "id": "jor_p3",
+        "nombre": "Lo Spirito Santo",
+        "rol": "Terza persona della Trinità",
+        "periodo": "s. I d.C.",
+        "descripcion": "Discese su Gesù al momento del battesimo nel Giordano come una colomba.",
+        "referencias": [
+          "Mt 3:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Il Giordano è un confine sacro: con Giosuè si attraversava per entrare in Canaan; con Giovanni Battista divenne il luogo del nuovo inizio.",
+      "religiones_presentes": [
+        "Ebraismo",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "jor_m1",
+          "nombre": "La traversata del Giordano",
+          "aparece_en": {
+            "judaismo": true,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": {
+            "fuente_primaria": "2 Re 2:8",
+            "fuente_secundaria": "",
+            "descripcion": "L'attraversamento del Giordano con Giosuè segnava l'ingresso nella terra promessa (Gsè 3-4); Anche Elia e Eliseo lo attraversarono miracolosamente (2 Re 2:8).",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'attraversamento del Giordano con Giosuè segnava l'ingresso nella terra promessa (Gsè 3-4); Anche Elia e Eliseo lo attraversarono miracolosamente (2 Re 2:8).",
+            "posible_relacion_cultural": null
+          },
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "Il battesimo di Gesù nel Giordano ricapitola la traversata dell'esodo e inaugura la nuova alleanza.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Il battesimo di Gesù nel Giordano ricapitola la traversata dell'esodo e inaugura la nuova alleanza.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "Isa (Gesù) è considerato un profeta nell'Islam; Il battesimo nel Giordano non è una pratica islamica ma il fiume è riconosciuto come la terra sacra dei profeti.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Isa (Gesù) è considerato un profeta nell'Islam; Il battesimo nel Giordano non è una pratica islamica ma il fiume è riconosciuto come la terra sacra dei profeti.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "vita_gesù"
+    ]
+  }
+}

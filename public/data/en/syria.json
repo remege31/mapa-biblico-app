@@ -1,0 +1,259 @@
+{
+  "id": "syria",
+  "nombre": "Syria",
+  "tipo": "territorio",
+  "lat": 33.52,
+  "lng": 36.31,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 135,
+  "jerarquia_pin": "primario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": 70,
+      "nombre": "Iron II - Roman"
+    }
+  ],
+  "descripcion_geo": "Region north of Israel between the Mediterranean and the Euphrates River, with Damascus as the main city.",
+  "altitud_m": 700,
+  "clima": "Mediterranean-continental",
+  "recursos": [
+    "agriculture",
+    "trade",
+    "craft"
+  ],
+  "importancia_estrategica": "Strategic corridor between Mesopotamia, Anatolia and Egypt; scenario of wars and alliances with Israel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "syr_h1",
+      "titulo": "The Syrian-Israeli wars",
+      "fecha": "ca. 850-800 BC",
+      "descripcion": "Ben-hadad and Hazael, kings of Syria, harass Israel repeatedly; Elisha prophesies about the Syrian kings.",
+      "referencias": [
+        "2 Kgs 6-8"
+      ],
+      "personajes_clave": [
+        "Eliseo",
+        "Hazael",
+        "Ben-adad"
+      ]
+    },
+    {
+      "id": "syr_h2",
+      "titulo": "Naaman the Syrian cured of leprosy",
+      "fecha": "ca. 850 BC",
+      "descripcion": "The Syrian general Naaman bathes seven times in the Jordan following the word of the prophet Elisha and is healed.",
+      "referencias": [
+        "2 Kgs 5"
+      ],
+      "personajes_clave": [
+        "Naamán",
+        "Eliseo"
+      ]
+    },
+    {
+      "id": "syr_h3",
+      "titulo": "Antioch of Syria: cradle of the Christian name",
+      "fecha": "ca. 40-46 AD",
+      "descripcion": "In Antioch of Syria the followers of Jesus are called 'Christians' and Paul launches their missionary journeys.",
+      "referencias": [
+        "Acts 11:26",
+        "Acts 13:1-3"
+      ],
+      "personajes_clave": [
+        "Pablo",
+        "Bernabé"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "syr_p1",
+      "nombre": "Hazael",
+      "rol": "King of Syria",
+      "periodo": "ca. 842-800 BC",
+      "descripcion": "He usurped the throne of Damascus; oppressed Israel according to the prophecy of Elisha.",
+      "referencias": [
+        "2 Kgs 8:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p2",
+      "nombre": "Naaman",
+      "rol": "Converted Syrian general",
+      "periodo": "ca. 850 BC",
+      "descripcion": "Healed from leprosy by faith in the God of Israel; first Gentile healed by a prophet.",
+      "referencias": [
+        "2 Kgs 5:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "syr_p3",
+      "nombre": "Paul of Tarsus",
+      "rol": "Apostle",
+      "periodo": "ca. 5-67 AD",
+      "descripcion": "Syria was the scene of his conversion (Damascus) and the base of his missionary journeys (Antioch).",
+      "referencias": [
+        "Acts 9:3",
+        "Acts 13:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Region of worship of Baal and Hadad; later Roman province and cradle of Gentile Christianity from Antioch.",
+    "religiones_presentes": [
+      "Aramaic_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "syr_m1",
+        "nombre": "Naaman and the Jordan",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Kings 5:12",
+          "fuente_secundaria": "",
+          "descripcion": "Naaman preferred the rivers of Syria to the Jordan, but obedience to the Israelite prophet healed him (2 Kings 5:12).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Naaman preferred the rivers of Syria to the Jordan, but obedience to the Israelite prophet healed him (2 Kings 5:12).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Luke 4:27",
+          "fuente_secundaria": "",
+          "descripcion": "Jesus cites the healing of Naaman as an example of God's grace transcending the boundaries of Israel (Luke 4:27).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Jesus cites the healing of Naaman as an example of God's grace transcending the boundaries of Israel (Luke 4:27).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "syr_nt_h1",
+        "titulo": "Paul converts to Damascus",
+        "fecha": "ca. 33-35 AD",
+        "descripcion": "Saul of Tarsus, in Syrian territory, is struck down by the light of Christ on the way to Damascus.",
+        "referencias": [
+          "Acts 9:1-9"
+        ],
+        "personajes_clave": [
+          "Pablo"
+        ]
+      },
+      {
+        "id": "syr_nt_h2",
+        "titulo": "Antioch: base of the Pauline missions",
+        "fecha": "ca. 46-57 AD",
+        "descripcion": "The church of Antioch sends Paul and Barnabas on three missionary journeys that will transform the Mediterranean world.",
+        "referencias": [
+          "Acts 13:1-3"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Bernabé"
+        ]
+      },
+      {
+        "id": "syr_nt_h3",
+        "titulo": "The Antioch conflict",
+        "fecha": "ca. 49 AD",
+        "descripcion": "Paul confronts Peter in Antioch about his discriminatory behavior toward Gentiles.",
+        "referencias": [
+          "Gal 2:11-14"
+        ],
+        "personajes_clave": [
+          "Pablo",
+          "Pedro"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "syr_nt_p1",
+        "nombre": "Paul of Tarsus",
+        "rol": "Apostle",
+        "periodo": "ca. 5-67 AD",
+        "descripcion": "His conversion in Syria and his base in Antioch made him the great missionary of the gospel.",
+        "referencias": [
+          "Acts 9:3"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p2",
+        "nombre": "Barnabas",
+        "rol": "Missionary",
+        "periodo": "s. I AD",
+        "descripcion": "Co-founder of Gentile Mission since Antioch.",
+        "referencias": [
+          "Acts 11:25"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "syr_nt_p3",
+        "nombre": "Peter",
+        "rol": "Apostle",
+        "periodo": "s. I AD",
+        "descripcion": "Visited Antioch; was rebuked by Paul for his behavior toward the Gentiles.",
+        "referencias": [
+          "Gal 2:11"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Syria was the bridge between Palestinian Judaism and the Greco-Roman world; birthplace of the name 'Christian'.",
+      "religiones_presentes": [
+        "Judaism",
+        "Christianity",
+        "greco_roman_paganism"
+      ],
+      "mitos": [
+        {
+          "id": "syr_nt_m1",
+          "nombre": "The Christian name",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "In Syria's Antioch the followers of Jesus are called 'Christians' for the first time.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "In Syria's Antioch the followers of Jesus are called 'Christians' for the first time.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "apostolic"
+    ]
+  }
+}

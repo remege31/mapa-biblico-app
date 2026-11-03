@@ -1,0 +1,147 @@
+{
+  "id": "cush",
+  "nombre": "Cush (Ethiopia)",
+  "tipo": "territorio",
+  "lat": 21.96,
+  "lng": 31.34,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 49,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -400,
+      "nombre": "Iron II - Post-exile"
+    }
+  ],
+  "descripcion_geo": "African region south of Egypt, corresponding to present-day Sudan and northern Ethiopia. Cradle of great Nubian pharaohs.",
+  "altitud_m": 500,
+  "clima": "arid-tropical",
+  "recursos": [
+    "gold",
+    "ivory",
+    "trade",
+    "river agriculture"
+  ],
+  "importancia_estrategica": "African regional power with Nubian pharaohs who ruled Egypt (25th Dynasty).",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cus_h1",
+      "titulo": "Tirhacah king of Cush comes to the aid of Hezekiah",
+      "fecha": "701 BC",
+      "descripcion": "The Ethiopian Pharaoh Tirhaca marches against Sennacherib when Assyria besieges Jerusalem; His arrival precipitates the Assyrian retreat.",
+      "referencias": [
+        "2 Kgs 19:9",
+        "Isa 37:9"
+      ],
+      "personajes_clave": [
+        "Ezequías",
+        "Tirhacá",
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "cus_h2",
+      "titulo": "The Ethiopian Eunuch and Philip",
+      "fecha": "ca. 35 AD",
+      "descripcion": "Philip the Evangelist finds the Ethiopian queen's treasurer reading Isaiah in his chariot; He baptizes him on the way.",
+      "referencias": [
+        "Acts 8:26-40"
+      ],
+      "personajes_clave": [
+        "Felipe",
+        "eunuco etíope"
+      ]
+    },
+    {
+      "id": "cus_h3",
+      "titulo": "The rivers of Cush in the prophecies",
+      "fecha": "ca. 640-620 BC",
+      "descripcion": "Zephaniah prophesies that worshipers from the rivers of Cush will bring offerings to the Lord from beyond Ethiopia.",
+      "referencias": [
+        "Zeph 3:10"
+      ],
+      "personajes_clave": [
+        "Sofonías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cus_p1",
+      "nombre": "Tirhaca",
+      "rol": "Ethiopian Pharaoh",
+      "periodo": "690-664 BC",
+      "descripcion": "Nubian king who ruled Egypt and came to the aid of Hezekiah against the Assyrians.",
+      "referencias": [
+        "2 Kgs 19:9"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cus_p2",
+      "nombre": "The Ethiopian Eunuch",
+      "rol": "Queen Candace's Treasurer",
+      "periodo": "ca. 35 AD",
+      "descripcion": "High Ethiopian official who was baptized by Philip; He brought the gospel to Africa.",
+      "referencias": [
+        "Acts 8:27"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cus_p3",
+      "nombre": "Zipporah",
+      "rol": "Cushite wife by Moses",
+      "periodo": "ca. 1280 BC",
+      "descripcion": "Moses's Midianite wife is called 'Cushite' in Numbers, causing family conflict.",
+      "referencias": [
+        "Num 12:1"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Land of mystery and wealth south of the known world; In the NT, the Ethiopian eunuch represents the universality of the gospel.",
+    "religiones_presentes": [
+      "Nubian_paganism",
+      "Judaism",
+      "Christianity"
+    ],
+    "mitos": [
+      {
+        "id": "cus_m1",
+        "nombre": "Ethiopia will extend its hands to God",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Ps 68:31",
+          "fuente_secundaria": "",
+          "descripcion": "'Ethiopia will stretch out her hands to God' (Ps 68:31): promise that African nations will worship the Lord.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "'Ethiopia will stretch out her hands to God' (Ps 68:31): promise that African nations will worship the Lord.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Nuevo Testamento / Padres de la Iglesia",
+          "fuente_secundaria": "",
+          "descripcion": "The baptism of the Ethiopian eunuch (Acts 8) fulfills the prophecy: the gospel reaches Ethiopia.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "The baptism of the Ethiopian eunuch (Acts 8) fulfills the prophecy: the gospel reaches Ethiopia.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2",
+    "post_exilio"
+  ]
+}

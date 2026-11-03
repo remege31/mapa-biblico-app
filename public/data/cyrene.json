@@ -1,0 +1,247 @@
+{
+  "id": "cyrene",
+  "nombre": "Cirene",
+  "tipo": "ciudad",
+  "lat": 32.82,
+  "lng": 21.86,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 11,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -632,
+      "hasta": 70,
+      "nombre": "Helenístico-Romano"
+    }
+  ],
+  "descripcion_geo": "Ciudad griega en la costa de Libia (norte de África), con una importante comunidad judía en el período del NT.",
+  "altitud_m": 622,
+  "clima": "mediterráneo-seco",
+  "recursos": [
+    "olivos",
+    "cereales",
+    "silphium",
+    "comercio"
+  ],
+  "importancia_estrategica": "Ciudad griega en África del norte; cuna de Simón que cargó la cruz de Jesús.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "cir_h1",
+      "titulo": "Simón de Cirene carga la cruz de Jesús",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Simón de Cirene, que venía del campo, es obligado a cargar la cruz de Jesús camino al Calvario.",
+      "referencias": [
+        "Mt 27:32",
+        "Mc 15:21"
+      ],
+      "personajes_clave": [
+        "Simón de Cirene",
+        "Jesús"
+      ]
+    },
+    {
+      "id": "cir_h2",
+      "titulo": "Los cireneos en Pentecostés",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Entre los judíos llegados a Jerusalén para Pentecostés hay hombres de Cirene que escuchan el evangelio.",
+      "referencias": [
+        "Hch 2:10"
+      ],
+      "personajes_clave": [
+        "cireneos"
+      ]
+    },
+    {
+      "id": "cir_h3",
+      "titulo": "Los cireneos evangelizan Antioquía",
+      "fecha": "ca. 40-44 d.C.",
+      "descripcion": "Hombres de Chipre y Cirene son los primeros en predicar el evangelio a los griegos en Antioquía.",
+      "referencias": [
+        "Hch 11:20"
+      ],
+      "personajes_clave": [
+        "misioneros cireneos"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "cir_p1",
+      "nombre": "Simón de Cirene",
+      "rol": "Portador de la cruz",
+      "periodo": "ca. 30 d.C.",
+      "descripcion": "Obligado a cargar la cruz de Jesús; Marcos menciona que era padre de Alejandro y Rufo.",
+      "referencias": [
+        "Mc 15:21"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p2",
+      "nombre": "Lucio de Cirene",
+      "rol": "Profeta en Antioquía",
+      "periodo": "s. I d.C.",
+      "descripcion": "Entre los profetas y maestros de la iglesia de Antioquía había un Lucio de Cirene.",
+      "referencias": [
+        "Hch 13:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "cir_p3",
+      "nombre": "Rufo",
+      "rol": "Hijo de Simón de Cirene",
+      "periodo": "s. I d.C.",
+      "descripcion": "Pablo saluda a un Rufo en Roma, posiblemente hijo del cirenio que cargó la cruz.",
+      "referencias": [
+        "Rom 16:13"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ciudad africana con comunidad judía activa; Simón de Cirene es la figura más conocida en el NT; sus ciudadanos figuran entre los primeros evangelizadores.",
+    "religiones_presentes": [
+      "paganismo_greco_romano",
+      "judaismo",
+      "cristianismo"
+    ],
+    "mitos": [
+      {
+        "id": "cir_m1",
+        "nombre": "El portador de la cruz",
+        "aparece_en": {
+          "judaismo": false,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": null,
+        "cristianismo": {
+          "fuente_primaria": "Lc 9:23",
+          "fuente_secundaria": "",
+          "descripcion": "Simón de Cirene, gentil de África, cargó la cruz de Jesús; figura del discípulo que 'toma su cruz' (Lc 9:23).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Simón de Cirene, gentil de África, cargó la cruz de Jesús; figura del discípulo que 'toma su cruz' (Lc 9:23).",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "vida_jesus",
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "cir_nt_h1",
+        "titulo": "Simón de Cirene y la cruz",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Simón, llegado de campo para la Pascua, es obligado a cargar la cruz de Jesús.",
+        "referencias": [
+          "Mt 27:32"
+        ],
+        "personajes_clave": [
+          "Simón de Cirene",
+          "Jesús"
+        ]
+      },
+      {
+        "id": "cir_nt_h2",
+        "titulo": "Cireneos en Pentecostés",
+        "fecha": "ca. 30 d.C.",
+        "descripcion": "Judíos de Cirene estaban en Jerusalén el día de Pentecostés y escucharon el evangelio.",
+        "referencias": [
+          "Hch 2:10"
+        ],
+        "personajes_clave": [
+          "cireneos"
+        ]
+      },
+      {
+        "id": "cir_nt_h3",
+        "titulo": "Cireneos evangelizan a los griegos",
+        "fecha": "ca. 40-44 d.C.",
+        "descripcion": "Hombres de Cirene fueron los pioneros en predicar a los griegos en Antioquía.",
+        "referencias": [
+          "Hch 11:20"
+        ],
+        "personajes_clave": [
+          "misioneros cireneos"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "cir_nt_p1",
+        "nombre": "Simón de Cirene",
+        "rol": "Portador de la cruz",
+        "periodo": "ca. 30 d.C.",
+        "descripcion": "Cargó la cruz de Cristo; símbolo del discipulado.",
+        "referencias": [
+          "Mc 15:21"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p2",
+        "nombre": "Lucio de Cirene",
+        "rol": "Profeta",
+        "periodo": "s. I d.C.",
+        "descripcion": "Miembro del liderazgo de la iglesia de Antioquía.",
+        "referencias": [
+          "Hch 13:1"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "cir_nt_p3",
+        "nombre": "Rufo",
+        "rol": "Posible hijo de Simón",
+        "periodo": "s. I d.C.",
+        "descripcion": "Saludado por Pablo en Roma como 'elegido en el Señor'.",
+        "referencias": [
+          "Rom 16:13"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Cirene contribuyó al evangelio con Simón (portador de la cruz) y con evangelizadores pioneros.",
+      "religiones_presentes": [
+        "paganismo_greco_romano",
+        "judaismo",
+        "cristianismo"
+      ],
+      "mitos": [
+        {
+          "id": "cir_nt_m1",
+          "nombre": "El portador de la cruz",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": false
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "NT / Padres de la Iglesia",
+            "fuente_secundaria": "",
+            "descripcion": "Simón de Cirene, de África, es la imagen del discipulado forzoso que se convierte en gracia.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "Simón de Cirene, de África, es la imagen del discipulado forzoso que se convierte en gracia.",
+            "posible_relacion_cultural": null
+          },
+          "islam": null
+        }
+      ]
+    },
+    "periodos": [
+      "vida_jesus",
+      "apostolico"
+    ]
+  }
+}

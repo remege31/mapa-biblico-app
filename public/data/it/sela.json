@@ -1,0 +1,152 @@
+{
+  "id": "sela",
+  "nombre": "Sela",
+  "tipo": "ciudad",
+  "lat": 30.32243571223214,
+  "lng": 35.45627946919968,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 6,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Età del ferro II - Fortezza edomita conquistata da Amazia"
+    }
+  ],
+  "descripcion_geo": "Fortezza edomita scavata nella roccia ('sela' significa letteralmente 'roccia' o 'roccia' in ebraico), in un terreno montuoso con difficile accesso al sud del Mar Salato, identificata da gran parte della tradizione con la regione dove si sarebbe poi sviluppata la città nabatea di Petra.",
+  "altitud_m": 950,
+  "clima": "Montagna semiarida: estati calde e secche, inverni freddi, tipici degli altopiani Edom.",
+  "recursos": [
+    "Fortificazione naturale in roccia di difficile accesso",
+    "Posizione difensiva in terreno montuoso edomita"
+  ],
+  "importancia_estrategica": "Shelah è teatro di una delle vittorie militari più significative di Giuda su Edom: la sua conquista da parte di Amaziah, seguita dall'esecuzione di massa dei prigionieri edomiti gettati dalla roccia, segna un episodio di estrema violenza che illustra l'intensità del conflitto tra i due regni vicini durante la monarchia divisa.",
+  "otros_habitantes": [
+    {
+      "id": "edomitas_sela",
+      "nombre": "Edomiti",
+      "descripcion": "Popolazione originaria della fortezza di Shela, parte del regno di Edom, conquistata da Amazia di Giuda nella sua campagna militare contro questa cittadina vicina.",
+      "religion": "Politeismo edomita – culto di Qos",
+      "periodo": "C. 1000–586 a.C"
+    },
+    {
+      "id": "judaitas_sela",
+      "nombre": "Esercito di Giuda sotto Amazia",
+      "descripcion": "Le forze militari Giuda conquistano Shelah e giustiziano un numero enorme di prigionieri edomiti gettandoli dalla cima della roccia.",
+      "religion": "Yahvismo",
+      "periodo": "C. 800 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "amasias-conquista-sela",
+      "titulo": "Amaziah conquista Shelah e la rinomina Jocteel",
+      "fecha": "c. 800 a.C.",
+      "descripcion": "Dopo aver sconfitto diecimila edomiti nella Valle del Sale, Amazia di Giuda marcia contro Shelah, la cattura e le dà il nome Jocteel, che conserva fino ai tempi del racconto biblico, consolidando una delle poche vittorie militari significative di Giuda registrate durante questo periodo.",
+      "referencias": [
+        "2 Re 14:7"
+      ],
+      "personajes_clave": [
+        "amasias"
+      ]
+    },
+    {
+      "id": "ejecucion-prisioneros-sela",
+      "titulo": "Diecimila prigionieri edomiti vengono gettati dalla roccia",
+      "fecha": "c. 800 a.C.",
+      "descripcion": "Secondo il racconto del cronista, oltre ai diecimila uccisi in battaglia, Amazia cattura altri diecimila edomiti vivi, li porta sulla cima della roccia di Shelah e di lì li getta dal dirupo, morendo tutti distrutti, episodio di estrema brutalità che il testo registra senza condanna esplicita ma che contrasta con la successiva caduta morale di Amazia per aver idolatrato gli dei edomiti catturati.",
+      "referencias": [
+        "2 Cr 25:11-12"
+      ],
+      "personajes_clave": [
+        "amasias"
+      ]
+    },
+    {
+      "id": "isaias-oraculo-sela",
+      "titulo": "Messaggeri inviati da Shela all'oracolo di Isaia",
+      "fecha": "c. 740–700 a.C.",
+      "descripcion": "Il profeta Isaia si riferisce a messaggeri inviati 'da Shelah nel deserto' in connessione con un oracolo di protezione per i fuggitivi di Moab, che collega la roccaforte edomita con la geografia dei movimenti politici e profetici della regione.",
+      "referencias": [
+        "Is 16:1"
+      ],
+      "personajes_clave": [
+        "isaias"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "amasias_sela",
+      "nombre": "Amazia",
+      "rol": "Re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Conquista la fortezza edomita di Shelah dopo una precedente vittoria militare contro Edom, episodio che rappresenta il culmine del suo regno militarmente vincente, prima della sua successiva caduta nell'idolatria che porterebbe al deterioramento del suo regno.",
+      "referencias": [
+        "2 Re 14:7",
+        "2 Cr 25:11-16"
+      ],
+      "ruta": [
+        "jerusalen",
+        "sela"
+      ]
+    },
+    {
+      "id": "edomitas_sela_personaje",
+      "nombre": "Prigionieri edomiti di Shelah",
+      "rol": "Vittime dell'esecuzione di massa di Amaziah",
+      "periodo": "c. 800 a.C.",
+      "descripcion": "Diecimila uomini catturati vivi dopo la conquista di Sela, giustiziati cadendo dalla roccia, episodio di estrema violenza che segna il conflitto tra Giuda e Edom in questo periodo.",
+      "referencias": [
+        "2 Cr 25:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "isaias_sela",
+      "nombre": "Isaia",
+      "rol": "Profeta di Giuda",
+      "periodo": "Activo c. 740–700 a.C.",
+      "descripcion": "Menziona Shela come punto di riferimento geografico nel suo oracolo su Moab, collegando la fortezza edomita con i movimenti di fuggitivi e messaggeri nella regione.",
+      "referencias": [
+        "Is 16:1-2"
+      ],
+      "ruta": [
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Shela è teatro di uno degli episodi più estremi di violenza bellica narrati senza esplicita condanna nel testo della cronaca, anche se il contesto immediatamente successivo - l'apostasia di Amazia adottando il culto degli dei edomiti catturati - suggerisce un'implicita connessione teologica tra la vittoria militare e la successiva caduta spirituale del re, uno schema ricorrente nella teologia deuteronomista dove l'eccessivo successo militare spesso precede l'arroganza religiosa.",
+    "religiones_presentes": [
+      "Yahvismo",
+      "Politeismo edomita – culto di Qos"
+    ],
+    "mitos": [
+      {
+        "id": "victoria-apostasia-amasias-sela",
+        "nombre": "La vittoria di Sela e la successiva apostasia di Amazia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Cr 25:11-16",
+          "fuente_secundaria": "Comentario rabínico tradicional sobre la conexión entre el éxito militar de Amasías en Sela y su posterior idolatría con los dioses edomitas capturados",
+          "descripcion": "La tradizione ebraica osserva attentamente il contrasto tra la vittoria militare di Amazia a Shelah e la sua successiva inspiegabile decisione di adorare gli stessi dei edomiti che non erano riusciti a salvare il suo popolo dalla sconfitta, interpretando questo episodio come un monito paradigmatico su come il successo militare possa generare un'arroganza che porta direttamente all'apostasia religiosa.",
+          "similitudes": null,
+          "diferencias": null,
+          "significado_teologico": "La sequenza vittoria-apostasia di Amazia illustra il pericolo teologico di attribuire il successo militare a fonti sbagliate, portando all'idolatria proprio degli dei sconfitti.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "kiriath_jearim",
+  "nombre": "Kiriath-Jearim",
+  "tipo": "ciudad",
+  "nivel": 2,
+  "lat": 31.7711,
+  "lng": 34.9938,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 28,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -1400,
+      "hasta": -1200,
+      "nombre": "Bronzo Tardo — Città gabaonita sul confine Giuda-Benjamín"
+    },
+    {
+      "desde": -1200,
+      "hasta": -1000,
+      "nombre": "Ferro I — Custodia dell'arca per vent'anni"
+    },
+    {
+      "desde": -1000,
+      "hasta": -586,
+      "nombre": "Hierro II — Città di confine del regno di Giuda"
+    }
+  ],
+  "periodos_at": [
+    "bronce_tardio",
+    "hierro_1",
+    "hierro_2"
+  ],
+  "descripcion_geo": "Kiriath-jearim (ebraico: קִרְיַת יְעָרִים, 'città delle foreste') era una città al confine tra Giuda e Beniamino, a circa 13 km a nord-ovest di Gerusalemme. Identificato con Tell el-Azhar (Abu Ghosh), sulle colline boscose che dominano l'avvicinamento a Gerusalemme dalla costa. Era una delle quattro città gabaonite che ingannarono Giosuè con la loro finta lontananza (Gs 9). Chiamato anche Baalah (Gs 15,9) e Kiriath-Baal, suggerendo la presenza di un santuario di Baal sulle colline boscose prima dell'arrivo dell'arca. La sua posizione sulla rotta Jaffa-Gerusalemme ne fece un punto strategico in tutti i periodi storici.",
+  "altitud_m": 700,
+  "clima": "Mediterraneo montuoso: precipitazioni di 600-650 mm all'anno (tra le più elevate della regione), estati fresche a causa dell'altitudine, inverni freddi con possibile neve. Le foreste che danno il nome alla città ('yaarim' = foreste) riflettono la fitta vegetazione di queste colline.",
+  "recursos": [
+    "Foreste di pini e querce: legname da costruzione e carbone",
+    "Agricoltura a terrazzamenti su pendii boscosi",
+    "Posizione sulla rotta Jaffa-Gerusalemme",
+    "Acqua proveniente da sorgenti in collina",
+    "Accesso visivo all'intera pianura di Ajalon a ovest"
+  ],
+  "importancia_estrategica": "Kiriath-Jearim ha dominato l'approccio occidentale a Gerusalemme. Qualsiasi esercito in marcia dalla costa verso la capitale doveva passare attraverso o vicino a Kiriat-Iearim. La sua funzione di custode dell'arca per un ventennio (1050-1010 aC circa) le conferì una centralità religiosa che trascendeva le sue modeste dimensioni. Il profeta Uria, giustiziato da Ioiakim, era di Kiriat-Iearim, il che dimostra che la città produsse figure profetiche nel periodo di Geremia.",
+  "otros_habitantes": [
+    {
+      "id": "gabaonitas-kiriath",
+      "nombre": "Gabaoniti: Hivvei di Kiriat-Iearim",
+      "descripcion": "Kiriath-Jearim era una delle quattro città della coalizione gabaonita (insieme a Gabaon, Kefirah e Beeroth) che ingannarono Giosuè presentandosi come ambasciatori di una terra lontana per ottenere un patto di non aggressione. Una volta scoperto l'inganno, Giosuè li trasformò in taglialegna e portatori d'acqua al servizio del santuario. Questa condizione di sacra servitù gabaonita (nethinita) continuò nel periodo post-esilico. Il nome alternativo di Kiriath-Jearim, Kiriath-baal (\"città di Baal\"), suggerisce che i Gabaoniti praticassero un culto Cananeo sulle alture boscose prima della loro integrazione nel sistema israelita.",
+      "religion": "Politeismo Hivite-Cananeo: culto di Baal sulle alture boscose; in seguito servitù cultuale yahvista come Nethinim",
+      "periodo": "Dal Bronzo Tardo al periodo post-esilico"
+    },
+    {
+      "id": "familia-abinadab",
+      "nombre": "La famiglia di Abinadab",
+      "descripcion": "Eleazar ben Abinadab fu consacrato per custodire l'arca durante i suoi vent'anni a Kiriath-Jearim. La famiglia di Abinadab non era levita – il testo non lo specifica – il che ha scatenato il dibattito rabbinico sulla questione se la custodia fosse una soluzione di emergenza o una consacrazione speciale. Uzza e Ahio, figli di Abinadab, guidavano il carro che trasportava l'arca a Gerusalemme; Uzá è morta quando l'ha toccata per stabilizzarla. Tutta la famiglia è stata segnata dal rapporto con l'oggetto più sacro di Israele.",
+      "religion": "Yahvismo — custodi dell'arca, consacrati per la sua custodia",
+      "periodo": "Ferro I, c. 1050-1010 a.C"
+    }
+  ],
+  "historias": [
+    {
+      "id": "arca-kiriath-jearim",
+      "titulo": "L'arca di Kiriat-Iearim: vent'anni di custodia silenziosa",
+      "fecha": "c. 1050 a.C.",
+      "descripcion": "Dopo il disastro dell'arca a Filistea e la morte di coloro che la guardavano a Beth-Shemesh, gli abitanti di Beth-Shemesh inviarono messaggeri a Kiriath-Jearim: 'Gli Filistei hanno restituito l'arca di Jahvè; vieni a prenderla.\" Gli uomini di Kiriat-Iearim vennero e la condussero alla casa di Abinadab sulla collina. Consacrarono il loro figlio Eleazaro perché la proteggesse. L'arca rimase a Kiriat-Iearim per vent'anni, durante i quali l'intera casa di Israele pianse la morte di Jahvè. Il testo si distingue per ciò che non dice: non ci sono miracoli, non ci sono consultazioni, non ci sono processioni. L'arca riposa silenziosamente in una casa privata in una città minore, in attesa. Samuele ha convocato Israele a Mispah per un rinnovamento spirituale collettivo. Questa lunga attesa silenziosa contrasta con la drammatica storia dell'arca in Filistea e la successiva festosa processione in Davide.",
+      "referencias": [
+        "1 Sam 7:1-2",
+        "1 Sam 6:21-7:1",
+        "2 Sam 6:2-3"
+      ],
+      "personajes_clave": [
+        "eleazar-abinadab",
+        "samuel-kiriath"
+      ]
+    },
+    {
+      "id": "david-traslada-arca",
+      "titulo": "Davide sposta l'arca da Kiriath-Jearim: la gioia e la morte di Uzza",
+      "fecha": "c. 1000 a.C.",
+      "descripcion": "Davide radunò trentamila uomini scelti da Israele e andò a cercare l'arca di Dio da Kiriath-Jearim, chiamata con il nome di Jahvè degli eserciti che ha il suo trono sui cherubini. Caricarono l'arca su un carro nuovo condotto da Uzzah e Ahio, figli di Abinadab. Davide e tutti gli Israele hanno ballato davanti a Jahvè con tutti i tipi di strumenti. Quando giunsero all'aia di Nacon, i buoi inciamparono; Uzzah stese la mano verso l'arca per trattenerla. L'ira di Jahvè si accese contro Uzza e lo colpì sul colpo. Davide era arrabbiato perché Jahvè aveva ferito Uzza: temeva l'arca e non voleva portarla a Gerusalemme. Lo depositò per tre mesi nella casa di Obed-Edom di Gat. Quando Davide seppe che Jahvè aveva benedetto Obed-Edom, andò a cercare l'arca con grande gioia e la portò a Gerusalemme danzante.",
+      "referencias": [
+        "2 Sam 6:1-23",
+        "2 Sam 6:6-8",
+        "1 Cr 13:1-14"
+      ],
+      "personajes_clave": [
+        "david-kiriath",
+        "uza",
+        "eleazar-abinadab"
+      ]
+    },
+    {
+      "id": "urias-kiriath-profeta",
+      "titulo": "Uria di Kiriat-Iearim: il profeta giustiziato da Ioiakim",
+      "fecha": "c. 608 a.C.",
+      "descripcion": "Uriah ben Shemaiah di Kiriath-Jearim profetizzò negli stessi termini di Geremia riguardo a Gerusalemme e al territorio di Giuda. Quando il re Ioiakim e i suoi funzionari lo seppero, cercarono di ucciderlo. Uriah aveva paura ed è fuggito su Egitto. Il re Jehoiakim inviò una commissione a Egitto guidata da Elnathan ben Acbor, che riportò indietro Uriah. Joyaquim lo uccise con la spada e gettò il suo cadavere nelle tombe della gente comune. L'episodio è narrato da Geremia proprio per mostrare il contrasto con il proprio caso: Uriah è stato ucciso; Geremia era protetto dal principe Ajicam ben Shafan. Kiriat-Iearim produsse così sia il custode dell'arca (Eleazar) che il profeta martire (Uria), una città di santità e di sangue innocente.",
+      "referencias": [
+        "Ger 26:20-23",
+        "Ger 26:24"
+      ],
+      "personajes_clave": [
+        "urias-profeta",
+        "joyaquim"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "eleazar-abinadab",
+      "nombre": "Eleazar ben Abinadab",
+      "rol": "Consacrato custode dell'arca per vent'anni a Kiriat-Iearim",
+      "periodo": "c. 1050–1010 a.C.",
+      "descripcion": "Eleazar ben Abinadab è il personaggio anonimo più significativo dell'intera storia dell'arca: l'uomo che la custodì per vent'anni nel silenzio di una casa privata a Kiriat-Iearim. Il testo non dice se fosse un levita, se compisse riti particolari, se avesse mai consultato l'arca. Solo che è stato \"consacrato\" per custodirlo. I suoi fratelli Uzá e Ahio successivamente la trasportarono su Gerusalemme: Uzá morì quando la toccarono. Il contrasto tra la vita tranquilla di Eleazar come custode e la morte improvvisa di Uzza in movimento sottolinea che la santità dell'arca richiede forme specifiche di relazione: la custodia statica era sicura; il trasporto imprudente era mortale.",
+      "referencias": [
+        "1 Sam 7:1",
+        "2 Sam 6:3-4"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "uza",
+      "nombre": "Uzza",
+      "rol": "Figlio di Abinadab, ucciso per aver raggiunto l'arca",
+      "periodo": "c. 1000 a.C.",
+      "descripcion": "Uzzah ben Abinadab è il personaggio la cui morte improvvisa mentre toccava l'arca per stabilizzarla divenne uno dei testi più dibattuti dell'Antico Testamento sulla santità divina. Il testo dice che egli tese la mano perché i buoi erano inciampati: un gesto di cura, non di deliberata irriverenza. Tuttavia, l’ira divina lo colpì. I commentatori biblici hanno dibattuto per secoli: fu punito per l'atto in sé (toccare il proibito) o per la precedente negligenza di usare un carro invece di portare l'arca sulle spalle dei leviti? Lo stesso Davide si adirò con Dio e poi temette l'arca. La morte di Uzzah fu il fattore scatenante della pausa di tre mesi a Obed-Edom e della riorganizzazione liturgica che Davide intraprese prima del secondo tentativo.",
+      "referencias": [
+        "2 Sam 6:3-8",
+        "1 Cr 13:7-10",
+        "1 Cr 15:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "urias-profeta",
+      "nombre": "Uria di Kiriat-Iearim",
+      "rol": "Profeta martire, giustiziato da Joyaquim re di Giuda",
+      "periodo": "hierro_2",
+      "descripcion": "Uriah ben Shemaiah è l'unico profeta dell'Antico Testamento la cui esecuzione da parte di un re israelita è esplicitamente documentata. Ha profetizzato negli stessi termini di Geremia – giudizio su Gerusalemme e Giuda – nello stesso periodo. A differenza di Geremia, che era protetto dal principe Ahikam, Uriah non aveva alcun protettore: fuggì a Egitto, fu estradato e giustiziato. Il suo cadavere fu trattato con disprezzo (la tomba della gente comune, non la tomba di un profeta). L'episodio, narrato da Geremia, serve a sottolineare che il messaggio profetico del giudizio era genuino - sostenuto da un uomo con la sua vita - e che la sopravvivenza di Geremia è stata una grazia divina, non un suo merito.",
+      "referencias": [
+        "Ger 26:20-23"
+      ],
+      "ruta": [
+        "kiriath_jearim",
+        "jerusalen"
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Kiriath-Jearim, \"città delle foreste\", è il luogo dove l'Arca dell'Alleanza rimase in silenzio per due decenni, tra le turbolenze della sua cattura filistea e la festosa processione da Davide a Gerusalemme. Questo silenzio è teologicamente eloquente: la presenza divina non ha bisogno di spettacolo. La città diede anche i natali al profeta martire Uria, il cui sangue innocente gridò contro il re Ioiachim. A Kiriat-Iearim la santità dell'arca e il sangue del profeta si sovrappongono come due forme di presenza divina ignorate dal potere politico.",
+    "religiones_presentes": [
+      "Politeismo Cananeo-Gabaonita — Kiriath-baal come nome alternativo suggerisce un culto precedente a Baal",
+      "Yahvismo dell'arca — custodia della presenza divina durante il periodo dei giudici e della prima monarchia"
+    ],
+    "mitos": [
+      {
+        "id": "arca-presencia-silenciosa",
+        "nombre": "L'arca in custodia: la presenza divina che attende",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "1 Sam 7:1-2; 2 Sam 6:1-15; 1 Cr 13:1-14",
+          "fuente_secundaria": "Talmud Bavli, Sota 35a; Maimonides, Mishné Torá, Hiljot Bet HaBejirá 4:1",
+          "descripcion": "Il Talmud discute i vent'anni dell'arca di Kiriath-Jearim in relazione al principio che la presenza divina (Shechinah) accompagna l'arca ma non è identica ad essa. L'arca può trovarsi in una casa privata senza essere un santuario formale. Maimonide analizza la morte di Uzza per stabilire le regole per il trasporto dell'arca: essa deve essere trasportata a spalla in redingote mediante pali, mai su carro. La negligenza di Davide nell'usare un'auto è stata l'errore che ha causato la morte di Uzá: non il gesto di Uzá in sé, ma il processo difettoso che lo ha esposto a quella situazione.",
+          "similitudes": "La santità della presenza divina che richiede forme specifiche di approccio è un principio condiviso.",
+          "diferencias": "Il giudaismo ha sviluppato la halakhah del trasporto dell'arca in grande dettaglio; il NT non ha un equivalente istituzionale diretto.",
+          "significado_teologico": "La presenza divina può riposare silenziosa in luoghi inaspettati. Ma quando si mette in moto esige procedure corrette, non per formalismo, ma perché la santità è reale e il suo contatto inappropriato ha delle conseguenze.",
+          "posible_relacion_cultural": "Oggetti sacri non trasferibili che causano danni se maneggiati in modo improprio compaiono in molte antiche tradizioni religiose. A questo riguardo, il concetto di tabù polinesiano è simile nella struttura all'herem israelita."
+        },
+        "cristianismo": {
+          "fuente_primaria": "2 Sam 6:6-8; Heb 9:1-5; Ap 11:19",
+          "fuente_secundaria": "Agustín, Quaestiones in Heptateuchum I,53; Beda, Comentario sobre 2 Samuel",
+          "descripcion": "Agostino interpretò allegoricamente la morte di Uzza: l'arca è la Scrittura; Tendere irriverentemente la mano per “stabilizzarla” secondo i propri criteri – senza la forma prescritta – è l'eresia che vuole correggere la fede con opinioni umane. La danza di Davide davanti all'arca veniva letta come una figura di gioia escatologica; la stazione dell'arca a Kiriat-Iearim come figura della Chiesa che custodisce la presenza di Cristo nella storia prima della parusia. Apocalisse 11,19 (\"si aprì il tempio di Dio nel cielo e apparve l'arca della sua alleanza\") trasforma l'arca in un simbolo della definitiva presenza escatologica.",
+          "similitudes": "L'arca come simbolo della presenza divina che il credente custodisce e onora è centrale in entrambe le tradizioni.",
+          "diferencias": "Il Nuovo Testamento e la tradizione cristiana non hanno un'arca fisica; La presenza divina si trova in Cristo, nei sacramenti e nella comunità.",
+          "significado_teologico": "La Chiesa è la nuova Kiriath-Jearim: custode della presenza divina nel periodo intermedio tra la prima e la seconda venuta di Cristo.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "gozan",
+  "nombre": "Gozán",
+  "tipo": "ciudad",
+  "lat": 36.84,
+  "lng": 40.07,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Ciudad y río en el norte de Siria (actual Tell Halaf / Habur) donde fueron deportados israelitas del reino del norte.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Destino del exilio israelita deportado por los asirios.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "goz_h1",
+      "titulo": "Las diez tribus deportadas a Gozán",
+      "fecha": "722 a.C.",
+      "descripcion": "Los asirios deportan a los israelitas del norte 'a Hala, Gozán junto al río Habor y a las ciudades de los medos'.",
+      "referencias": [
+        "2 Re 17:6",
+        "2 Re 18:11"
+      ],
+      "personajes_clave": [
+        "Sargón II"
+      ]
+    },
+    {
+      "id": "goz_h2",
+      "titulo": "Los dioses de Gozán: argumento asirio",
+      "fecha": "701 a.C.",
+      "descripcion": "Senaquerib pregunta: '¿Acaso los dioses de Gozán y Harán liberaron a esas tierras de mi mano?'",
+      "referencias": [
+        "2 Re 19:12",
+        "Is 37:12"
+      ],
+      "personajes_clave": [
+        "Senaquerib"
+      ]
+    },
+    {
+      "id": "goz_h3",
+      "titulo": "Ezequías y los deportados de Gozán",
+      "fecha": "ca. 701 a.C.",
+      "descripcion": "La mención de Gozán como destino del exilio israelita refuerza el argumento asirio de que ningún dios puede resistirlos.",
+      "referencias": [
+        "2 Re 19:12"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "goz_p1",
+      "nombre": "Sargón II",
+      "rol": "Rey de Asiria",
+      "periodo": "722-705 a.C.",
+      "descripcion": "Deportó israelitas a Gozán; sus descendientes son las 'diez tribus perdidas'.",
+      "referencias": [
+        "2 Re 17:6"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p2",
+      "nombre": "Senaquerib",
+      "rol": "Rey de Asiria",
+      "periodo": "705-681 a.C.",
+      "descripcion": "Usó Gozán como ejemplo de su poder para intimidar a Ezequías.",
+      "referencias": [
+        "2 Re 19:12"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "goz_p3",
+      "nombre": "Ezequías",
+      "rol": "Rey de Judá",
+      "periodo": "715-686 a.C.",
+      "descripcion": "Respondió a las amenazas que citaban Gozán con oración; el Señor respondió.",
+      "referencias": [
+        "2 Re 19:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Gozán: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "goz_m1",
+        "nombre": "Las diez tribus perdidas",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La deportación a Gozán marca el inicio de las 'diez tribus perdidas': Israel del norte dispersado entre los pueblos sin retorno registrado.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La deportación a Gozán marca el inicio de las 'diez tribus perdidas': Israel del norte dispersado entre los pueblos sin retorno registrado.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

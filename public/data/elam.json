@@ -1,0 +1,147 @@
+{
+  "id": "elam",
+  "nombre": "Elam",
+  "tipo": "territorio",
+  "lat": 32.19,
+  "lng": 48.26,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 17,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Antiguo reino al este de Mesopotamia (actual Juzestán, Irán), con capital en Susa. Uno de los poderes más antiguos del Oriente Medio.",
+  "altitud_m": 100,
+  "clima": "continental-árido",
+  "recursos": [
+    "plata",
+    "lana",
+    "cereales",
+    "comercio"
+  ],
+  "importancia_estrategica": "Potencia que capturó a Lot en tiempos de Abraham y luego fue conquistada por los asirios; escenario del libro de Daniel.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ela_h1",
+      "titulo": "Quedorlaómer rey de Elam captura a Lot",
+      "fecha": "ca. 1800 a.C.",
+      "descripcion": "El rey elamita Quedorlaómer lidera una coalición de reyes que captura a Lot en Sodoma; Abraham lo rescata con 318 hombres.",
+      "referencias": [
+        "Gn 14:1-16"
+      ],
+      "personajes_clave": [
+        "Abraham",
+        "Lot",
+        "Quedorlaómer"
+      ]
+    },
+    {
+      "id": "ela_h2",
+      "titulo": "Susa de Elam: escenario de Ester y Daniel",
+      "fecha": "ca. 480-350 a.C.",
+      "descripcion": "La capital de Elam, Susa, se convirtió en capital de los persas; allí transcurren los libros de Ester y parte de Daniel.",
+      "referencias": [
+        "Est 1:2",
+        "Dn 8:2"
+      ],
+      "personajes_clave": [
+        "Ester",
+        "Daniel"
+      ]
+    },
+    {
+      "id": "ela_h3",
+      "titulo": "Las naciones en Pentecostés incluyen elamitas",
+      "fecha": "ca. 30 d.C.",
+      "descripcion": "Entre los presentes en Pentecostés que escucharon el evangelio hay elamitas de la antigua región de Elam.",
+      "referencias": [
+        "Hch 2:9"
+      ],
+      "personajes_clave": [
+        "elamitas"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ela_p1",
+      "nombre": "Quedorlaómer",
+      "rol": "Rey de Elam",
+      "periodo": "ca. 1800 a.C.",
+      "descripcion": "Líder de la primera guerra registrada en la Biblia; derrotado por Abraham.",
+      "referencias": [
+        "Gn 14:1"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p2",
+      "nombre": "Daniel",
+      "rol": "Profeta",
+      "periodo": "ca. 620-535 a.C.",
+      "descripcion": "Tuvo la visión del carnero y el macho cabrío junto al río Ulai en Susa de Elam.",
+      "referencias": [
+        "Dn 8:2"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ela_p3",
+      "nombre": "Abraham",
+      "rol": "Patriarca",
+      "periodo": "ca. 1900-1800 a.C.",
+      "descripcion": "Derrotó al rey de Elam y rescató a su sobrino Lot con solo 318 hombres.",
+      "referencias": [
+        "Gn 14:14"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Elam: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ela_m1",
+        "nombre": "La primera guerra de la Biblia",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": true,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "Tanaj / Talmud",
+          "fuente_secundaria": "",
+          "descripcion": "La coalición elamita que capturó a Lot es la primera guerra narrada en el AT; Abraham la ganó con una tropa minúscula, señal del poder de Dios.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "La coalición elamita que capturó a Lot es la primera guerra narrada en el AT; Abraham la ganó con una tropa minúscula, señal del poder de Dios.",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": {
+          "fuente_primaria": "Hch 2:9",
+          "fuente_secundaria": "",
+          "descripcion": "Los elamitas oyeron el evangelio en Pentecostés (Hch 2:9): el evangelio alcanza hasta la tierra de los primeros enemigos de Abraham.",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Los elamitas oyeron el evangelio en Pentecostés (Hch 2:9): el evangelio alcanza hasta la tierra de los primeros enemigos de Abraham.",
+          "posible_relacion_cultural": null
+        },
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "bronce_medio",
+    "hierro_2",
+    "post_exilio"
+  ]
+}

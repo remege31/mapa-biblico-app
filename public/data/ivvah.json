@@ -1,0 +1,135 @@
+{
+  "id": "ivvah",
+  "nombre": "Ivvá",
+  "tipo": "ciudad",
+  "lat": 34.47,
+  "lng": 41.97,
+  "fuente_coordenadas": "tipnr",
+  "frecuencia_at": 5,
+  "jerarquia_pin": "terciario",
+  "periodos": [
+    {
+      "desde": -2000,
+      "hasta": -400,
+      "nombre": "Período AT"
+    }
+  ],
+  "descripcion_geo": "Ciudad mesopotámica mencionada junto a Hamat y Arfad en los argumentos asirios ante Ezequías; sus dioses no pudieron resistir a Asiria.",
+  "altitud_m": 300,
+  "clima": "mediterráneo",
+  "recursos": [
+    "pastoreo",
+    "agricultura"
+  ],
+  "importancia_estrategica": "Ciudad usada como argumento de la omnipotencia asiria.",
+  "otros_habitantes": [],
+  "historias": [
+    {
+      "id": "ivy_h1",
+      "titulo": "Los dioses de Ivvá no pudieron resistir",
+      "fecha": "701 a.C.",
+      "descripcion": "El mensajero asirio argumenta que los dioses de Hamat, Arfad e Ivvá no libraron a sus ciudades del poder asirio.",
+      "referencias": [
+        "2 Re 18:34",
+        "Is 36:19"
+      ],
+      "personajes_clave": [
+        "Rabsaqué",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h2",
+      "titulo": "El desafío a Ezequías con el ejemplo de Ivvá",
+      "fecha": "701 a.C.",
+      "descripcion": "Senaquerib envía una carta citando a Ivvá entre los pueblos cuyos dioses fallaron: ¿cómo esperaría Judá ser diferente?",
+      "referencias": [
+        "2 Re 19:13",
+        "Is 37:13"
+      ],
+      "personajes_clave": [
+        "Senaquerib",
+        "Ezequías"
+      ]
+    },
+    {
+      "id": "ivy_h3",
+      "titulo": "Ezequías lleva la carta al Templo",
+      "fecha": "701 a.C.",
+      "descripcion": "Ezequías extiende la carta de Senaquerib (que menciona a Ivvá) ante el Señor en el Templo y ora.",
+      "referencias": [
+        "2 Re 19:14-19"
+      ],
+      "personajes_clave": [
+        "Ezequías"
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "id": "ivy_p1",
+      "nombre": "Rabsaqué",
+      "rol": "General asirio",
+      "periodo": "ca. 701 a.C.",
+      "descripcion": "Usó el argumento de Ivvá para desmoralizar a los defensores de Jerusalén.",
+      "referencias": [
+        "2 Re 18:34"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p2",
+      "nombre": "Ezequías",
+      "rol": "Rey de Judá",
+      "periodo": "715-686 a.C.",
+      "descripcion": "Llevó el desafío de Senaquerib (con la mención de Ivvá) al Templo en oración.",
+      "referencias": [
+        "2 Re 19:14"
+      ],
+      "ruta": []
+    },
+    {
+      "id": "ivy_p3",
+      "nombre": "Isaías",
+      "rol": "Profeta",
+      "periodo": "ca. 740-700 a.C.",
+      "descripcion": "Respondió la oración de Ezequías: el Señor protegerá Jerusalén aunque los dioses de Ivvá y otros cayeron.",
+      "referencias": [
+        "2 Re 19:20"
+      ],
+      "ruta": []
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "Ivvá: región geográfica relevante en el Antiguo Testamento.",
+    "religiones_presentes": [
+      "judaismo",
+      "paganismo_cananeo"
+    ],
+    "mitos": [
+      {
+        "id": "ivy_m1",
+        "nombre": "El argumento del poder comparado",
+        "aparece_en": {
+          "judaismo": true,
+          "cristianismo": false,
+          "islam": false
+        },
+        "judaismo": {
+          "fuente_primaria": "2 Re 19:35",
+          "fuente_secundaria": "",
+          "descripcion": "Ivvá y otras ciudades son usadas como 'prueba' de que ningún dios puede resistir a Asiria; Dios responde destruyendo el ejército asirio en una noche (2 Re 19:35).",
+          "diferencias": null,
+          "similitudes": null,
+          "significado_teologico": "Ivvá y otras ciudades son usadas como 'prueba' de que ningún dios puede resistir a Asiria; Dios responde destruyendo el ejército asirio en una noche (2 Re 19:35).",
+          "posible_relacion_cultural": null
+        },
+        "cristianismo": null,
+        "islam": null
+      }
+    ]
+  },
+  "periodos_at": [
+    "hierro_2"
+  ]
+}

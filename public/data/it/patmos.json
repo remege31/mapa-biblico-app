@@ -1,0 +1,194 @@
+{
+  "id": "patmos",
+  "nombre": "Patmos",
+  "tipo": "region_natural",
+  "subtipo_natural": "agua",
+  "lat": 37.321,
+  "lng": 26.5462,
+  "fuente_coordenadas": "revisada",
+  "frecuencia_at": 0,
+  "jerarquia_pin": "secundario",
+  "periodos": [
+    {
+      "desde": -332,
+      "hasta": 70,
+      "nombre": "Ellenistico-Romano"
+    }
+  ],
+  "descripcion_geo": "Piccola isola vulcanica dell'Egeo nell'arcipelago del Dodecaneso, a 60 km da Mileto.",
+  "altitud_m": 150,
+  "clima": "mediterraneo insulare",
+  "recursos": [
+    "pesca",
+    "lavorazione della pietra"
+  ],
+  "importancia_estrategica": "Isola rocciosa utilizzata da Roma come luogo di esilio.",
+  "otros_habitantes": [],
+  "historias": [],
+  "personajes": [
+    {
+      "id": "juan_apostol",
+      "nombre": "Juan",
+      "rol": "Amato Apostolo, Veggente di Patmos",
+      "periodo": "apostolico",
+      "descripcion": "Figlio di Zebedeo, pescatore di Galilea e stretto discepolo di Gesù. Samaria in missione con Pietro; La tradizione lo colloca successivamente ad Efeso, da dove fu esiliato a Patmos, dove ricevette l'Apocalisse.",
+      "referencias": [
+        "Mc 1:19-20",
+        "At 8:14-25",
+        "Ap 1:9"
+      ],
+      "ruta": [
+        "jerusalen",
+        "ephesus",
+        "patmos"
+      ],
+      "viajes": [
+        {
+          "nombre": "Missione in Samaria con Pietro",
+          "ruta": [
+            "jerusalen",
+            "samaria",
+            "jerusalen"
+          ],
+          "referencias": [
+            "At 8:14-25"
+          ]
+        },
+        {
+          "nombre": "Efeso e l'esilio a Patmos",
+          "ruta": [
+            "ephesus",
+            "patmos"
+          ],
+          "referencias": [
+            "Ap 1:9-11"
+          ]
+        }
+      ]
+    }
+  ],
+  "contexto_religioso": {
+    "contexto_lugar": "",
+    "religiones_presentes": [],
+    "mitos": []
+  },
+  "periodos_at": [
+    "apostolico"
+  ],
+  "nt": {
+    "historias": [
+      {
+        "id": "pat_h1",
+        "titulo": "Giovanni riceve l'Apocalisse",
+        "fecha": "ca. 95-96 d.C.",
+        "descripcion": "Bandito da Domiziano, Giovanni riceve visioni e scrive il libro dell'Apocalisse.",
+        "referencias": [
+          "Ap 1:9"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "pat_h2",
+        "titulo": "La visione del Cristo glorioso",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Giovanni vede il Figlio dell'uomo in mezzo a sette candelabri; riceve il mandato di scrivere.",
+        "referencias": [
+          "Ap 1:10-20"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      },
+      {
+        "id": "pat_h3",
+        "titulo": "Le sette lettere alle chiese",
+        "fecha": "ca. 95 d.C.",
+        "descripcion": "Giovanni detta sette lettere alle chiese dell'Asia, contenute nell'Apocalisse.",
+        "referencias": [
+          "Ap 2-3"
+        ],
+        "personajes_clave": [
+          "Juan"
+        ]
+      }
+    ],
+    "personajes": [
+      {
+        "id": "pat_p1",
+        "nombre": "Giovanni Apostolo",
+        "rol": "Profeta ed evangelista",
+        "periodo": "s. I d.C.",
+        "descripcion": "Esiliato a Patmos; destinatario del libro dell'Apocalisse.",
+        "referencias": [
+          "Ap 1:9"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pat_p2",
+        "nombre": "Domiziano",
+        "rol": "Imperatore romano",
+        "periodo": "81-96 d.C.",
+        "descripcion": "Persecutore dei cristiani; ordinò l'esilio di Giovanni a Patmos.",
+        "referencias": [
+          "Historia romana"
+        ],
+        "ruta": []
+      },
+      {
+        "id": "pat_p3",
+        "nombre": "L'angelo rivelatore",
+        "rol": "messaggero celeste",
+        "periodo": "s. I d.C.",
+        "descripcion": "Mediatore tra Cristo e Giovanni nelle visioni dell'Apocalisse.",
+        "referencias": [
+          "Ap 22:16"
+        ],
+        "ruta": []
+      }
+    ],
+    "contexto_religioso": {
+      "contexto_lugar": "Isola di esilio dove solitudine e persecuzione divennero la culla del libro profetico più influente del Nuovo Testamento.",
+      "religiones_presentes": [
+        "romano_paganesimo",
+        "imperial_cult",
+        "cristianesimo"
+      ],
+      "mitos": [
+        {
+          "id": "pat_m1",
+          "nombre": "La rivelazione finale",
+          "aparece_en": {
+            "judaismo": false,
+            "cristianismo": true,
+            "islam": true
+          },
+          "judaismo": null,
+          "cristianismo": {
+            "fuente_primaria": "Nuevo Testamento",
+            "fuente_secundaria": "",
+            "descripcion": "A Patmos Giovanni riceve l'ultima rivelazione canonica cristiana, una visione cosmica della vittoria di Cristo sul male.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "A Patmos Giovanni riceve l'ultima rivelazione canonica cristiana, una visione cosmica della vittoria di Cristo sul male.",
+            "posible_relacion_cultural": null
+          },
+          "islam": {
+            "fuente_primaria": "Corán / Hadiz",
+            "fuente_secundaria": "",
+            "descripcion": "L'Islam riconosce l'ispirazione divina dei profeti ma non include l'Apocalisse nel suo canone.",
+            "diferencias": null,
+            "similitudes": null,
+            "significado_teologico": "L'Islam riconosce l'ispirazione divina dei profeti ma non include l'Apocalisse nel suo canone.",
+            "posible_relacion_cultural": null
+          }
+        }
+      ]
+    },
+    "periodos": [
+      "apostolico"
+    ]
+  }
+}
